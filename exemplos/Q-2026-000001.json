@@ -1,0 +1,67 @@
+{
+  "id": "Q-2026-000001",
+  "lingua": "pt-PT",
+  "tema": "ciencia",
+  "subtema": "Sistema Solar",
+  "formato": "escolha-multipla",
+  "enunciado": "Em que planeta do Sistema Solar uma rotação completa sobre o próprio eixo demora mais do que uma volta ao Sol?",
+  "opcoes": ["Mercúrio", "Vénus", "Marte", "Úrano"],
+  "correta": 1,
+  "explicacao": "Vénus demora cerca de 243 dias terrestres a rodar sobre si mesmo e só 225 a dar a volta ao Sol. Como roda ao contrário da maioria dos planetas, o dia de nascer a nascer do Sol dura cerca de 117 dias.",
+  "dificuldade_estimada": 3,
+  "fontes": [
+    {
+      "url": "https://eso.org/public/outreach/eduoff/vt-2004/Background/Infol2/EIS-D3.html",
+      "dominio": "eso.org",
+      "titulo": "Venus — ESO, Venus Transit 2004",
+      "nivel": 1,
+      "excerto": "Its orbit about the Sun takes 225 days […] the measurements revealed that the rotation period is 243 days in a direction opposite to the other planets",
+      "consultada_em": "2026-11-03",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://ntrs.nasa.gov/api/citations/19790012783/downloads/19790012783.pdf",
+      "dominio": "nasa.gov",
+      "titulo": "NASA Technical Reports Server, documento 19790012783",
+      "nivel": 1,
+      "excerto": "Axial Rotation: 243.1 Earth days. Orbital period: 225 Earth days (= Venus year). Noon to Noon: 116.8 Earth days (= Venus day)",
+      "consultada_em": "2026-11-03",
+      "papel": "verificador"
+    },
+    {
+      "url": "https://coolcosmos.ipac.caltech.edu/ask/23-How-long-is-a-day-on-Mercury",
+      "dominio": "caltech.edu",
+      "titulo": "How long is a day on Mercury? — Caltech Cool Cosmos",
+      "nivel": 1,
+      "excerto": "Mercury rotates very slowly around its axis (with respect to the distant stars, in about 58.6 Earth days) […] A solar day on Mercury is actually twice as long as its year, or about 176 Earth-days long.",
+      "consultada_em": "2026-11-03",
+      "papel": "advogado"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Vénus",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "nasa.gov",
+      "data": "2026-11-03",
+      "notas": "Verificação feita na sessão de desenho do motor, não por um agente independente. Repetir no primeiro lote."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "A versão clássica ('em que planeta um dia dura mais do que um ano?') tinha duas respostas: Vénus pela rotação e Mercúrio pelo dia solar (176 dias contra um ano de 88). Reformulada para rotação sobre o eixo: Mercúrio roda em cerca de 58,6 dias, menos do que o seu ano.",
+      "data": "2026-11-03"
+    },
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "exemplos-2026-11-03",
+  "criada_em": "2026-11-03",
+  "historico": [
+    {"data": "2026-11-03", "evento": "criada", "agente": "desenho", "nota": "Exemplo do documento 'Ecossistema de quiz', secção 3."},
+    {"data": "2026-11-03", "evento": "reformulada pelo advogado do diabo", "agente": "desenho", "nota": "Ambiguidade entre dia sideral e dia solar."}
+  ]
+}

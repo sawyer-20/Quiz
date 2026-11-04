@@ -1,0 +1,57 @@
+{
+  "id": "Q-2026-000002",
+  "lingua": "pt-PT",
+  "tema": "geografia",
+  "subtema": "Fusos horários",
+  "formato": "escolha-multipla",
+  "enunciado": "Contando os territórios ultramarinos, que país abrange mais fusos horários?",
+  "opcoes": ["Rússia", "Estados Unidos", "França", "Reino Unido"],
+  "correta": 2,
+  "explicacao": "Graças aos territórios ultramarinos, a França abrange 12 fusos horários, mais do que os Estados Unidos e a Rússia, com 11 cada. A França metropolitana usa só um.",
+  "dificuldade_estimada": 3,
+  "fontes": [
+    {
+      "url": "https://www.timeanddate.com/time/zone/france",
+      "dominio": "timeanddate.com",
+      "titulo": "Time Zones Currently Being Used in France — timeanddate.com",
+      "nivel": 2,
+      "excerto": "With its 12 standard times, France currently holds the world record for the country with the most time zones, beating even the United States and Russia, which have 11 time zones each.",
+      "consultada_em": "2026-11-03",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.guinnessworldrecords.com/world-records/584626-country-with-the-most-time-zones",
+      "dominio": "guinnessworldrecords.com",
+      "titulo": "Country with the most time zones — Guinness World Records",
+      "nivel": 2,
+      "excerto": "Owing to the number of territories it governs beyond Europe, France has 12 (and for a period of the year 13) time zones.",
+      "consultada_em": "2026-11-03",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "França",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "guinnessworldrecords.com",
+      "data": "2026-11-03",
+      "notas": "Só fontes de nível 2. Verificação feita na sessão de desenho do motor, não por um agente independente. Repetir no primeiro lote."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "O número varia entre fontes (12; 13 em parte do ano, segundo o Guinness; 13 contando a Antártida). A pergunta pede o país e não o número, por isso a resposta é a mesma em todas.",
+      "data": "2026-11-03"
+    },
+    "editor": null
+  },
+  "sensivel_ao_tempo": true,
+  "valida_ate": "2027-11-03",
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "exemplos-2026-11-03",
+  "criada_em": "2026-11-03",
+  "historico": [
+    {"data": "2026-11-03", "evento": "criada", "agente": "desenho", "nota": "Exemplo do documento 'Ecossistema de quiz', secção 3. Revisão anual pela sentinela (territórios e fusos podem mudar)."}
+  ]
+}

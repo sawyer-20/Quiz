@@ -1,0 +1,76 @@
+{
+  "id": "Q-2026-000003",
+  "lingua": "pt-PT",
+  "tema": "historia",
+  "subtema": "Portugal medieval",
+  "formato": "escolha-multipla",
+  "enunciado": "O Tratado de Windsor, entre Portugal e Inglaterra, foi celebrado em que ano?",
+  "opcoes": ["1373", "1385", "1386", "1415"],
+  "correta": 2,
+  "explicacao": "O Tratado de Windsor foi celebrado a 9 de maio de 1386 entre D. João I e Ricardo II de Inglaterra, um ano depois de Aljubarrota. A aliança já vinha de tratados anteriores, como o de Londres, de 1373.",
+  "dificuldade_estimada": 3,
+  "fontes": [
+    {
+      "url": "https://www.infopedia.pt/artigos/$tratado-de-windsor-1386",
+      "dominio": "infopedia.pt",
+      "titulo": "Tratado de Windsor - 1386 — Infopédia",
+      "nivel": 1,
+      "excerto": "O tratado foi finalmente assinado a 9 de maio de 1386, tendo cinco procuradores testemunhado a assinatura do acordo entre o soberano e os delegados régios portugueses.",
+      "consultada_em": "2026-11-03",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://history.blog.gov.uk/2016/05/09/historys-unparalleled-alliance-the-anglo-portuguese-treaty-of-windsor-9th-may-1386/",
+      "dominio": "blog.gov.uk",
+      "titulo": "History's Unparalleled Alliance: the Anglo-Portuguese Treaty of Windsor — The National Archives",
+      "nivel": 1,
+      "excerto": "It is 630 years since a treaty of alliance between King Richard II of England and King John I of Portugal was ratified at Windsor on the 9th May 1386",
+      "consultada_em": "2026-11-03",
+      "papel": "verificador"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Windsor_(1386)",
+      "dominio": "wikipedia.org",
+      "titulo": "Treaty of Windsor (1386) — Wikipedia",
+      "nivel": 2,
+      "excerto": "Drafted: 9 May 1386 · Signed: 24 February 1387 · Location: Westminster",
+      "consultada_em": "2026-11-03",
+      "papel": "advogado"
+    },
+    {
+      "url": "https://portugal-uk650.com/en/alliance/",
+      "dominio": "portugal-uk650.com",
+      "titulo": "The Beginnings of the Anglo-Portuguese Alliance — Portugal-UK 650",
+      "nivel": 2,
+      "excerto": "The legal foundations of the Anglo-Portuguese alliance are found in three treaties dating from that period: the Treaty of Tagilde (10 July 1372), the Treaty of London (16 June 1373), and the Treaty of Windsor (9 May 1386).",
+      "consultada_em": "2026-11-03",
+      "papel": "advogado"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "1386",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "blog.gov.uk",
+      "data": "2026-11-03",
+      "notas": "Verificação feita na sessão de desenho do motor, não por um agente independente. Repetir no primeiro lote."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "A Wikipédia inglesa dá a assinatura a 24 de fevereiro de 1387, em Westminster: 1387 não pode ser distrator e o enunciado diz 'celebrado', não 'assinado'. 1373 (Tratado de Londres) é da mesma aliança, mas está errado porque a pergunta nomeia Windsor.",
+      "data": "2026-11-03"
+    },
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "exemplos-2026-11-03",
+  "criada_em": "2026-11-03",
+  "historico": [
+    {"data": "2026-11-03", "evento": "criada", "agente": "desenho", "nota": "Exemplo do documento 'Ecossistema de quiz', secção 3."},
+    {"data": "2026-11-03", "evento": "reformulada pelo advogado do diabo", "agente": "desenho", "nota": "'Assinado' trocado por 'celebrado' por causa da data de 1387 na Wikipédia; 1387 retirado dos distratores."}
+  ]
+}
