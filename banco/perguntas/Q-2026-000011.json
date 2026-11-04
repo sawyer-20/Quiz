@@ -41,8 +41,8 @@
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
-  "motivo_rejeicao": null,
+  "estado": "rejeitada",
+  "motivo_rejeicao": "sem confirmação independente do enunciado reescrito pelo editor: o verificador às cegas confirmou o cacau (confiança média; WHE e México Desconocido, nível 2), mas não encontrou em fonte de nível 1 ou 2 a 'cera' nem a fiscalização nos mercados de Tenochtitlán, que só constam da IE Insights (nível 2). A versão anterior ('que sementes circulavam como moeda?') estava verificada (Cornell, nível 1), mas o editor considerou-a demasiado comum em quizzes.",
   "lote": "lote-2026-11-04-historia",
   "criada_em": "2026-11-04",
   "historico": [
@@ -75,6 +75,12 @@
       "evento": "reformulada",
       "agente": "editor",
       "nota": "Alteração factual do editor: a pergunta 'que sementes serviam de moeda' é comum em quizzes (quizzclub e outros); novo ângulo pergunta pela fiscalização/contrafação (facto só numa fonte, IE Insights, nível 2). Volta ao verificador às cegas."
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "rejeitada",
+      "agente": "verificador-cego",
+      "nota": "sem confirmação independente do enunciado reescrito pelo editor: o verificador às cegas confirmou o cacau (confiança média; WHE e México Desconocido, nível 2), mas não encontrou em fonte de nível 1 ou 2 a 'cera' nem a fiscalização nos mercados de Tenochtitlán, que só constam da IE Insights (nível 2). A versão anterior ('que sementes circulavam como moeda?') estava verificada (Cornell, nível 1), mas o editor considerou-a demasiado comum em quizzes."
     }
   ]
 }
