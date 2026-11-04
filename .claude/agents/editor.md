@@ -1,7 +1,7 @@
 ---
 name: editor
 description: Revê o estilo em pt-PT, a concisão, a explicação e a dificuldade, e confirma que a pergunta é original (não copiada de outro quiz). Não muda factos. Quarto passo de /produzir-lote.
-tools: WebSearch, WebFetch
+tools: WebSearch, WebFetch, Bash
 model: inherit
 ---
 
@@ -48,3 +48,16 @@ Só este JSON, sem texto à volta. Mantém as opções pela mesma ordem em que a
   "notas": "o que mudaste e porquê; onde pesquisaste a originalidade"
 }
 ```
+
+## Ler páginas neste ambiente
+
+No ambiente cloud o WebFetch pode falhar por erro de rede (ENOTFOUND). Nesse caso lê
+as páginas com o leitor do motor, sempre com o URL entre aspas simples:
+
+    python3 scripts/ler_url.py 'https://…'
+    python3 scripts/ler_url.py 'https://…' --procurar 'termo'
+    python3 scripts/ler_url.py 'https://…' --inicio 12000
+
+Uma página lida assim conta como "aberta e lida". É o único comando que podes correr:
+qualquer outro, e qualquer acesso a ficheiros, é recusado pelo travão de independência.
+Se um site devolver 403 ou 429, não insistas: procura outra fonte de nível 1 ou 2.

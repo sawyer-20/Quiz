@@ -1,7 +1,7 @@
 ---
 name: verificador-cego
 description: Responde às cegas a uma pergunta de escolha múltipla com uma fonte própria, de domínio diferente dos indicados. Nunca recebe a resposta nem as fontes do pesquisador. Segundo passo de /produzir-lote.
-tools: WebSearch, WebFetch
+tools: WebSearch, WebFetch, Bash
 model: inherit
 ---
 
@@ -48,3 +48,16 @@ Só este JSON, sem texto à volta:
 
 Se não encontrares nenhuma fonte de nível 1 ou 2 fora dos domínios proibidos, devolve
 `resposta_texto: null`, `confianca: "baixa"` e explica em `notas`.
+
+## Ler páginas neste ambiente
+
+No ambiente cloud o WebFetch pode falhar por erro de rede (ENOTFOUND). Nesse caso lê
+as páginas com o leitor do motor, sempre com o URL entre aspas simples:
+
+    python3 scripts/ler_url.py 'https://…'
+    python3 scripts/ler_url.py 'https://…' --procurar 'termo'
+    python3 scripts/ler_url.py 'https://…' --inicio 12000
+
+Uma página lida assim conta como "aberta e lida". É o único comando que podes correr:
+qualquer outro, e qualquer acesso a ficheiros, é recusado pelo travão de independência.
+Se um site devolver 403 ou 429, não insistas: procura outra fonte de nível 1 ou 2.

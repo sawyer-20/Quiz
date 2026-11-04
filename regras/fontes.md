@@ -31,8 +31,8 @@
    outra, independente, pelo verificador às cegas. Pelo menos uma de nível 1 sempre
    que exista.
 2. Se uma fonte cita a outra, contam como uma.
-3. A fonte tem de ter sido aberta e lida (WebFetch), não apenas vista num resultado de
-   pesquisa.
+3. A fonte tem de ter sido aberta e lida (WebFetch ou `scripts/ler_url.py`), não apenas vista
+   num resultado de pesquisa.
 4. Números só entram com as fontes a coincidir. Se divergirem, a pergunta passa a uma
    comparação que não dependa do número exato, ou é rejeitada.
 5. Factos que mudam (recordes, cargos, populações, "o maior", "o mais recente") levam
