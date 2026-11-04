@@ -76,7 +76,7 @@
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-04-historia",
   "criada_em": "2026-11-04",
@@ -110,6 +110,12 @@
       "evento": "aprovada",
       "agente": "validar.py",
       "nota": "validação automática sem erros"
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "devolvida a em_verificacao",
+      "agente": "orquestrador",
+      "nota": "Correção pedida pelo Andre (v1.1): tirar 'em 1488' do enunciado e completar a explicação (Barros: 'Cabo Tormentoso'; Axelson contesta o rebatismo, citando Duarte Pacheco Pereira). Segue para correção pelo pesquisador e nova verificação às cegas."
     }
   ]
 }

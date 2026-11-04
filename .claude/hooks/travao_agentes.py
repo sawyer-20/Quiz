@@ -14,7 +14,7 @@ import re
 import shlex
 import sys
 
-PROTEGIDOS = {"pesquisador", "verificador-cego", "advogado-do-diabo", "editor",
+PROTEGIDOS = {"pesquisador", "originalidade", "verificador-cego", "advogado-do-diabo", "editor",
               "auditor", "sentinela", "triagem"}
 # Ferramentas sem acesso a ficheiros: pesquisa web e entrega do relatório ao orquestrador.
 FERRAMENTAS_LIVRES = {"WebSearch", "WebFetch", "ToolSearch", "SubagentHandback",

@@ -15,8 +15,10 @@ diz isso no relatório.
 1. Seleciona as perguntas `aprovada` ou `publicada` com `sensivel_ao_tempo: true` e
    `valida_ate` nos próximos 30 dias ou já passada.
 2. Para cada uma, invoca o agente `sentinela` com a pergunta completa.
-3. Aplica: `manter` → atualiza `valida_ate`; `reformular` → aplica e volta ao
-   `verificador-cego` antes de reaprovar; `retirar` → `estado: "retirada"`. Evento no
+3. Aplica: `manter` → atualiza `valida_ate`; `reformular` → aplica a reformulação da
+   sentinela, passa a pergunta a `em_verificacao` e leva-a de novo pelo
+   `verificador-cego`, pelo `advogado-do-diabo` e pelo `editor`; só o
+   `scripts/aprovar.py` a volta a aprovar; `retirar` → `estado: "retirada"`. Evento no
    histórico em todos os casos.
 
 ## 2. Triagem de reportes

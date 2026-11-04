@@ -6,95 +6,315 @@
   "type": "object",
   "additionalProperties": false,
   "required": [
-    "id", "lingua", "tema", "subtema", "formato", "enunciado", "opcoes", "correta",
-    "explicacao", "dificuldade_estimada", "fontes", "verificacao", "sensivel_ao_tempo",
-    "valida_ate", "estado", "motivo_rejeicao", "lote", "criada_em", "historico"
+    "id",
+    "lingua",
+    "tema",
+    "subtema",
+    "formato",
+    "enunciado",
+    "opcoes",
+    "correta",
+    "explicacao",
+    "dificuldade_estimada",
+    "fontes",
+    "verificacao",
+    "sensivel_ao_tempo",
+    "valida_ate",
+    "estado",
+    "motivo_rejeicao",
+    "lote",
+    "criada_em",
+    "historico"
   ],
   "properties": {
-    "id": { "type": "string", "pattern": "^Q-\\d{4}-\\d{6}$" },
-    "lingua": { "type": "string", "enum": ["pt-PT"] },
+    "id": {
+      "type": "string",
+      "pattern": "^Q-\\d{4}-\\d{6}$"
+    },
+    "lingua": {
+      "type": "string",
+      "enum": [
+        "pt-PT"
+      ]
+    },
     "tema": {
       "type": "string",
-      "enum": ["historia", "geografia", "ciencia", "desporto", "cinema-tv", "musica",
-               "literatura", "arte", "portugal", "atualidade"]
+      "enum": [
+        "historia",
+        "geografia",
+        "ciencia",
+        "desporto",
+        "cinema-tv",
+        "musica",
+        "literatura",
+        "arte",
+        "portugal",
+        "atualidade"
+      ]
     },
-    "subtema": { "type": "string", "minLength": 2, "maxLength": 60 },
-    "formato": { "type": "string", "enum": ["escolha-multipla"] },
-    "enunciado": { "type": "string", "minLength": 10, "maxLength": 200 },
+    "subtema": {
+      "type": "string",
+      "minLength": 2,
+      "maxLength": 60
+    },
+    "formato": {
+      "type": "string",
+      "enum": [
+        "escolha-multipla"
+      ]
+    },
+    "enunciado": {
+      "type": "string",
+      "minLength": 10,
+      "maxLength": 200
+    },
     "opcoes": {
-      "type": "array", "minItems": 4, "maxItems": 4, "uniqueItems": true,
-      "items": { "type": "string", "minLength": 1, "maxLength": 60 }
+      "type": "array",
+      "minItems": 4,
+      "maxItems": 4,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 60
+      }
     },
-    "correta": { "type": "integer", "minimum": 0, "maximum": 3 },
-    "explicacao": { "type": "string", "minLength": 10, "maxLength": 300 },
-    "dificuldade_estimada": { "type": "integer", "minimum": 1, "maximum": 5 },
-    "fontes": { "type": "array", "minItems": 2, "items": { "$ref": "#/$defs/fonte" } },
-    "verificacao": { "$ref": "#/$defs/verificacao" },
-    "sensivel_ao_tempo": { "type": "boolean" },
-    "valida_ate": { "type": ["string", "null"], "format": "date" },
+    "correta": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "explicacao": {
+      "type": "string",
+      "minLength": 10,
+      "maxLength": 300
+    },
+    "dificuldade_estimada": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5
+    },
+    "fontes": {
+      "type": "array",
+      "minItems": 2,
+      "items": {
+        "$ref": "#/$defs/fonte"
+      }
+    },
+    "verificacao": {
+      "$ref": "#/$defs/verificacao"
+    },
+    "sensivel_ao_tempo": {
+      "type": "boolean"
+    },
+    "valida_ate": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
     "estado": {
       "type": "string",
-      "enum": ["rascunho", "em_verificacao", "aprovada", "publicada", "suspensa",
-               "retirada", "rejeitada"]
+      "enum": [
+        "rascunho",
+        "em_verificacao",
+        "aprovada",
+        "publicada",
+        "suspensa",
+        "retirada",
+        "rejeitada"
+      ]
     },
-    "motivo_rejeicao": { "type": ["string", "null"] },
-    "lote": { "type": "string", "minLength": 1 },
-    "criada_em": { "type": "string", "format": "date" },
-    "historico": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/evento" } }
+    "motivo_rejeicao": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "lote": {
+      "type": "string",
+      "minLength": 1
+    },
+    "criada_em": {
+      "type": "string",
+      "format": "date"
+    },
+    "historico": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/evento"
+      }
+    },
+    "etiquetas": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "enum": [
+          "classico"
+        ]
+      },
+      "description": "Opcional. 'classico': facto muito conhecido com enunciado próprio; nunca em dificuldade 4 ou 5 e no máximo 20% das perguntas de um lote (validar.py)."
+    }
   },
   "$defs": {
     "fonte": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["url", "dominio", "titulo", "nivel", "excerto", "consultada_em", "papel"],
+      "required": [
+        "url",
+        "dominio",
+        "titulo",
+        "nivel",
+        "excerto",
+        "consultada_em",
+        "papel"
+      ],
       "properties": {
-        "url": { "type": "string", "format": "uri" },
-        "dominio": { "type": "string", "minLength": 3 },
-        "titulo": { "type": "string", "minLength": 1 },
-        "nivel": { "type": "integer", "enum": [1, 2] },
-        "excerto": { "type": "string", "minLength": 1, "maxLength": 300 },
-        "consultada_em": { "type": "string", "format": "date" },
-        "papel": { "type": "string", "enum": ["pesquisador", "verificador", "advogado", "auditor", "sentinela", "triagem"] }
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "dominio": {
+          "type": "string",
+          "minLength": 3
+        },
+        "titulo": {
+          "type": "string",
+          "minLength": 1
+        },
+        "nivel": {
+          "type": "integer",
+          "enum": [
+            1,
+            2
+          ]
+        },
+        "excerto": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 300
+        },
+        "consultada_em": {
+          "type": "string",
+          "format": "date"
+        },
+        "papel": {
+          "type": "string",
+          "enum": [
+            "pesquisador",
+            "verificador",
+            "advogado",
+            "auditor",
+            "sentinela",
+            "triagem"
+          ]
+        }
       }
     },
     "verificacao": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["verificador", "advogado", "editor"],
+      "required": [
+        "verificador",
+        "advogado",
+        "editor"
+      ],
       "properties": {
         "verificador": {
-          "type": ["object", "null"],
+          "type": [
+            "object",
+            "null"
+          ],
           "additionalProperties": false,
-          "required": ["resposta_texto", "concorda", "confianca", "dominio", "data"],
+          "required": [
+            "resposta_texto",
+            "concorda",
+            "confianca",
+            "dominio",
+            "data"
+          ],
           "properties": {
-            "resposta_texto": { "type": "string" },
-            "concorda": { "type": "boolean" },
-            "confianca": { "type": "string", "enum": ["alta", "media", "baixa"] },
-            "dominio": { "type": "string" },
-            "data": { "type": "string", "format": "date" },
-            "notas": { "type": "string" }
+            "resposta_texto": {
+              "type": "string"
+            },
+            "concorda": {
+              "type": "boolean"
+            },
+            "confianca": {
+              "type": "string",
+              "enum": [
+                "alta",
+                "media",
+                "baixa"
+              ]
+            },
+            "dominio": {
+              "type": "string"
+            },
+            "data": {
+              "type": "string",
+              "format": "date"
+            },
+            "notas": {
+              "type": "string"
+            }
           }
         },
         "advogado": {
-          "type": ["object", "null"],
+          "type": [
+            "object",
+            "null"
+          ],
           "additionalProperties": false,
-          "required": ["aprovado", "data"],
+          "required": [
+            "aprovado",
+            "data"
+          ],
           "properties": {
-            "aprovado": { "type": "boolean" },
-            "notas": { "type": "string" },
-            "data": { "type": "string", "format": "date" }
+            "aprovado": {
+              "type": "boolean"
+            },
+            "notas": {
+              "type": "string"
+            },
+            "data": {
+              "type": "string",
+              "format": "date"
+            }
           }
         },
         "editor": {
-          "type": ["object", "null"],
+          "type": [
+            "object",
+            "null"
+          ],
           "additionalProperties": false,
-          "required": ["aprovado", "originalidade_ok", "alteracao_factual", "data"],
+          "required": [
+            "aprovado",
+            "originalidade_ok",
+            "alteracao_factual",
+            "data"
+          ],
           "properties": {
-            "aprovado": { "type": "boolean" },
-            "originalidade_ok": { "type": "boolean" },
-            "alteracao_factual": { "type": "boolean" },
-            "notas": { "type": "string" },
-            "data": { "type": "string", "format": "date" }
+            "aprovado": {
+              "type": "boolean"
+            },
+            "originalidade_ok": {
+              "type": "boolean"
+            },
+            "alteracao_factual": {
+              "type": "boolean"
+            },
+            "notas": {
+              "type": "string"
+            },
+            "data": {
+              "type": "string",
+              "format": "date"
+            }
           }
         }
       }
@@ -102,12 +322,24 @@
     "evento": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["data", "evento", "agente"],
+      "required": [
+        "data",
+        "evento",
+        "agente"
+      ],
       "properties": {
-        "data": { "type": "string" },
-        "evento": { "type": "string" },
-        "agente": { "type": "string" },
-        "nota": { "type": "string" }
+        "data": {
+          "type": "string"
+        },
+        "evento": {
+          "type": "string"
+        },
+        "agente": {
+          "type": "string"
+        },
+        "nota": {
+          "type": "string"
+        }
       }
     }
   }

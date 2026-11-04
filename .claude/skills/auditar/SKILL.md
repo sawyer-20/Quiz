@@ -32,8 +32,10 @@ Invoca o agente `triagem` com a pergunta completa e a resposta, fonte e notas do
 
 - `pergunta_certa`: conta como certa (regista `erro_do_auditor` se for o caso).
 - `pergunta_errada`, `ambigua` ou `desatualizada`: **erro confirmado**. Passa a pergunta a
-  `suspensa` (ou `retirada`, se a triagem disser), com evento no histórico, e aplica a
-  correção proposta só depois de nova passagem pelo `verificador-cego`.
+  `suspensa` (ou `retirada`, se a triagem disser), com evento no histórico. A correção
+  vem sempre da triagem (nunca escreves texto factual): aplica-a, passa a pergunta a
+  `em_verificacao` e leva-a de novo pelo `verificador-cego`, pelo `advogado-do-diabo` e
+  pelo `editor`; só o `scripts/aprovar.py` a volta a aprovar.
 
 ## 4. Taxa de erro e travão
 

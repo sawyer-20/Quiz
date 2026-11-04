@@ -15,6 +15,7 @@ Uso:
 import argparse
 import ipaddress
 import re
+import socket
 import sys
 import unicodedata
 import urllib.error
@@ -68,18 +69,61 @@ def sem_acentos(s):
     return "".join(c for c in s if not unicodedata.combining(c)).casefold()
 
 
-def url_permitido(url):
-    p = urlparse(url)
-    if p.scheme not in ("http", "https") or not p.hostname:
-        return False
-    host = p.hostname.lower()
-    if host in ("localhost",) or host.endswith(".local") or host.endswith(".internal"):
-        return False
+SUFIXOS_INTERNOS = (".local", ".localhost", ".internal", ".localdomain", ".lan",
+                    ".home", ".corp", ".intranet", ".svc", ".cluster.local")
+
+
+def ip_literal(host):
+    """Devolve o endereço IP se `host` for um IP escrito de qualquer forma (incluindo as
+    formas curtas, decimais, octais e hexadecimais que o sistema aceita, como 127.1,
+    2130706433 ou 0x7f.0.0.1); senão None."""
+    h = host.strip("[]")
     try:
-        ip = ipaddress.ip_address(host)
-        return not (ip.is_private or ip.is_loopback or ip.is_link_local or ip.is_reserved)
+        return ipaddress.ip_address(h)
     except ValueError:
-        return True
+        pass
+    try:
+        return ipaddress.ip_address(socket.inet_aton(h))
+    except (OSError, ValueError):
+        return None
+
+
+def motivo_recusa(url):
+    """None se o URL pode ser lido; senão, o motivo da recusa."""
+    try:
+        p = urlparse(url)
+    except ValueError:
+        return "URL inválido"
+    if p.scheme not in ("http", "https"):
+        return f"esquema '{p.scheme or '(nenhum)'}' recusado: só http e https"
+    if p.username or p.password:
+        return "URL com credenciais recusado"
+    host = (p.hostname or "").lower().rstrip(".")
+    if not host:
+        return "URL sem servidor"
+    if host == "localhost" or host.endswith(SUFIXOS_INTERNOS) or "." not in host.strip("[]") and ip_literal(host) is None:
+        return f"servidor interno recusado ({host})"
+    ip = ip_literal(host)
+    if ip is not None and not ip.is_global:
+        return f"endereço de rede privada, local ou reservada recusado ({ip})"
+    if urllib.request.proxy_bypass(host):
+        return f"servidor fora do proxy de saída recusado ({host})"
+    return None
+
+
+def url_permitido(url):
+    return motivo_recusa(url) is None
+
+
+class RedirecionamentoSeguro(urllib.request.HTTPRedirectHandler):
+    """Valida cada redirecionamento: um site público não pode mandar o leitor para
+    file://, localhost ou a rede privada."""
+
+    def redirect_request(self, req, fp, code, msg, headers, newurl):
+        motivo = motivo_recusa(newurl)
+        if motivo:
+            raise urllib.error.URLError(f"redirecionamento recusado para {newurl}: {motivo}")
+        return super().redirect_request(req, fp, code, msg, headers, newurl)
 
 
 def main():
@@ -89,13 +133,15 @@ def main():
     ap.add_argument("--inicio", type=int, default=0)
     a = ap.parse_args()
 
-    if not url_permitido(a.url):
-        print("ERRO: só são aceites URLs http(s) públicos.")
+    motivo = motivo_recusa(a.url)
+    if motivo:
+        print(f"ERRO: {motivo}. Só são aceites URLs http(s) públicos.")
         return 2
     pedido = urllib.request.Request(a.url, headers={"User-Agent": AGENTE,
                                                     "Accept-Language": "pt-PT,pt;q=0.9,en;q=0.8"})
     try:
-        with urllib.request.urlopen(pedido, timeout=30) as r:
+        abridor = urllib.request.build_opener(RedirecionamentoSeguro)
+        with abridor.open(pedido, timeout=30) as r:
             final, tipo = r.geturl(), r.headers.get("Content-Type", "")
             dados = r.read(LIMITE_BYTES + 1)
             charset = r.headers.get_content_charset() or "utf-8"

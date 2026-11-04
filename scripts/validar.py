@@ -27,7 +27,22 @@ OBRIGATORIOS = ["id", "lingua", "tema", "subtema", "formato", "enunciado", "opco
                 "correta", "explicacao", "dificuldade_estimada", "fontes", "verificacao",
                 "sensivel_ao_tempo", "valida_ate", "estado", "motivo_rejeicao", "lote",
                 "criada_em", "historico"]
+OPCIONAIS = ["etiquetas"]
 CAMPOS_FONTE = ["url", "dominio", "titulo", "nivel", "excerto", "consultada_em", "papel"]
+
+# Etiquetas permitidas. "classico": facto muito conhecido (já usado noutros quizzes),
+# admitido com enunciado próprio; nunca em dificuldade 4 ou 5 e no máximo 20% por lote.
+ETIQUETAS = {"classico"}
+QUOTA_CLASSICOS = 0.20
+EVENTO_APROVACAO = "aprovada por aprovar.py"
+
+# Linguagem de dúvida proibida na explicação (regras/fontes.md, regra 10): ou se
+# confirma com fonte e se afirma, ou sai.
+RE_DUVIDA = re.compile(
+    r"\b(ao que parece|parece que|diz-se|dizem que|diz a lenda|conta-se|contam que|"
+    r"consta que|segundo consta|alegadamente|supostamente|presumivelmente|"
+    r"provavelmente|possivelmente|talvez|terá sido|terão sido|terá|terão)\b",
+    re.IGNORECASE)
 
 # Domínios proibidos como fonte (regras/fontes.md). Qualquer domínio com "quiz" ou
 # "trivia" no nome também é recusado.
@@ -82,7 +97,7 @@ def validar_pergunta(p: dict) -> tuple[list[str], list[str]]:
             erros.append(f"campo obrigatório em falta: {campo}")
     if erros:
         return erros, avisos
-    extra = set(p) - set(OBRIGATORIOS)
+    extra = set(p) - set(OBRIGATORIOS) - set(OPCIONAIS)
     if extra:
         erros.append(f"campos não previstos no esquema: {', '.join(sorted(extra))}")
 
@@ -116,6 +131,22 @@ def validar_pergunta(p: dict) -> tuple[list[str], list[str]]:
     explicacao = p["explicacao"] if isinstance(p["explicacao"], str) else ""
     if not 10 <= len(explicacao) <= 300:
         erros.append(f"explicação com {len(explicacao)} caracteres (limite 10 a 300)")
+    duvida = RE_DUVIDA.search(explicacao)
+    if duvida:
+        erros.append(f"linguagem de dúvida na explicação ('{duvida.group(0)}'): confirmar com fonte e afirmar, ou retirar")
+
+    # Etiquetas (campo opcional)
+    etiquetas = p.get("etiquetas", [])
+    if not isinstance(etiquetas, list) or any(not isinstance(e, str) for e in etiquetas):
+        erros.append("etiquetas tem de ser uma lista de textos")
+        etiquetas = []
+    elif len(set(etiquetas)) != len(etiquetas):
+        erros.append("etiquetas repetidas")
+    desconhecidas = set(etiquetas) - ETIQUETAS
+    if desconhecidas:
+        erros.append(f"etiquetas desconhecidas: {', '.join(sorted(desconhecidas))}")
+    if "classico" in etiquetas and isinstance(p["dificuldade_estimada"], int) and p["dificuldade_estimada"] >= 4:
+        erros.append("pergunta 'classico' com dificuldade 4 ou 5: não é permitido")
 
     # Opções
     opcoes = p["opcoes"]
@@ -194,6 +225,8 @@ def validar_pergunta(p: dict) -> tuple[list[str], list[str]]:
         erros.append("a Wikipédia só pode contar como uma fonte")
     if fontes and not any(isinstance(f, dict) and f.get("nivel") == 1 for f in fontes):
         avisos.append("nenhuma fonte de nível 1: confirmar que não existe")
+    if wikis:
+        avisos.append("Wikipédia citada: serve para pistas; confirmar que a fonte original que ela refere não estava acessível")
 
     # Verificação e estados
     v = p["verificacao"] if isinstance(p["verificacao"], dict) else {}
@@ -231,6 +264,11 @@ def validar_pergunta(p: dict) -> tuple[list[str], list[str]]:
         elif edi.get("alteracao_factual") is True:
             if not ver or not data_valida(ver.get("data", "")) or not data_valida(edi.get("data", "")) or ver["data"] < edi["data"]:
                 erros.append("mudança factual do editor sem nova verificação às cegas")
+    if p["estado"] in {"aprovada", "publicada"}:
+        historico_ok = isinstance(p["historico"], list) and any(
+            isinstance(ev, dict) and ev.get("evento") == EVENTO_APROVACAO for ev in p["historico"])
+        if not historico_ok:
+            erros.append(f"aprovada sem o evento '{EVENTO_APROVACAO}' no histórico: só o scripts/aprovar.py pode aprovar")
     if p["estado"] == "rejeitada" and not (isinstance(p["motivo_rejeicao"], str) and p["motivo_rejeicao"].strip()):
         erros.append("pergunta rejeitada sem motivo_rejeicao")
 
@@ -242,6 +280,22 @@ def validar_pergunta(p: dict) -> tuple[list[str], list[str]]:
             erros.append(f"evento {i} do histórico incompleto (data, evento, agente)")
 
     return erros, avisos
+
+
+def erros_de_lote(perguntas: list[dict]) -> dict[str, list[str]]:
+    """Regras que só se veem no lote inteiro. Conta as perguntas não rejeitadas de cada
+    lote: as 'classico' não podem passar de 20%."""
+    por_lote: dict[str, list[dict]] = {}
+    for p in perguntas:
+        if isinstance(p, dict) and p.get("estado") != "rejeitada" and isinstance(p.get("lote"), str):
+            por_lote.setdefault(p["lote"], []).append(p)
+    erros = {}
+    for lote, lista in por_lote.items():
+        classicos = sum(1 for p in lista if "classico" in (p.get("etiquetas") or []))
+        if classicos and classicos > QUOTA_CLASSICOS * len(lista):
+            erros[lote] = [f"{classicos} clássicos em {len(lista)} perguntas não rejeitadas "
+                           f"({classicos / len(lista):.0%}): o máximo é {QUOTA_CLASSICOS:.0%}"]
+    return erros
 
 
 def ficheiros_a_validar(argumentos: list[str]) -> list[Path]:
@@ -273,7 +327,7 @@ def main() -> int:
         print("Nada para validar.")
         return 0
 
-    total_erros, ids, enunciados = 0, {}, {}
+    total_erros, ids, enunciados, carregadas = 0, {}, {}, []
     for f in ficheiros:
         if not f.exists():
             total_erros += 1
@@ -285,6 +339,7 @@ def main() -> int:
             total_erros += 1
             continue
         erros, avisos = validar_pergunta(pergunta)
+        carregadas.append(pergunta)
         if isinstance(pergunta, dict):
             pid = pergunta.get("id")
             if pid in ids:
@@ -302,6 +357,15 @@ def main() -> int:
         for a in avisos:
             print(f"      AVISO: {a}")
         total_erros += len(erros)
+
+    # A quota de clássicos só se vê no lote inteiro: corre quando se valida uma pasta
+    # (o aprovar.py verifica-a sempre sobre o lote completo do banco).
+    pastas = not args or any(Path(a).is_dir() for a in args)
+    for lote, erros_lote in (erros_de_lote(carregadas).items() if pastas else []):
+        print(f"ERRO  lote {lote}")
+        for e in erros_lote:
+            print(f"      ERRO: {e}")
+        total_erros += len(erros_lote)
 
     print(f"\n{len(ficheiros)} ficheiro(s), {total_erros} erro(s).")
     return 1 if total_erros else 0

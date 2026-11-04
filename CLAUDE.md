@@ -1,4 +1,4 @@
-# Motor de factos — app de quiz
+# Motor de factos — app de quiz (versão 1.1)
 
 Este projeto produz perguntas de cultura geral verificadas para a app de quiz.
 O CEO é o Andre: decide e dá o gosto editorial. Tu orquestras os agentes, escreves os
@@ -8,22 +8,38 @@ ficheiros e nunca tomas decisões de produto sozinho.
 
 1. Nenhum facto vem da memória do modelo. Todos vêm de fontes abertas e lidas nesta
    sessão (WebSearch e WebFetch), segundo `regras/fontes.md`.
-2. Cada pergunta passa, por esta ordem, por: `pesquisador` → `verificador-cego` →
-   `advogado-do-diabo` → `editor` → `python3 scripts/validar.py`. Nenhum passo se salta.
+2. Cada pergunta passa, por esta ordem, por: `pesquisador` → `originalidade` →
+   `verificador-cego` → `advogado-do-diabo` → `editor` → `python3 scripts/aprovar.py`.
+   Nenhum passo se salta. O verificador, o advogado e o editor recebem até 5 perguntas
+   por invocação; o pesquisador pode tirar até 3 factos da mesma página.
 3. O `verificador-cego` e o `auditor` nunca recebem a resposta, as fontes nem o ficheiro
    da pergunta. Recebem só o enunciado, as opções baralhadas e os domínios a evitar.
-4. Qualquer mudança factual feita depois do verificador (pelo editor, pela triagem ou
-   por correção) volta ao `verificador-cego`.
+4. Qualquer mudança factual feita depois do verificador (pela triagem ou por correção)
+   volta ao `verificador-cego`. O editor só mexe no estilo: não muda o que se pergunta
+   nem as opções; se for preciso, a pergunta é rejeitada com motivo `reescrever` e o alvo
+   volta ao pesquisador.
 5. Na dúvida, rejeita. Uma pergunta rejeitada com motivo vale mais do que uma pergunta
    errada publicada.
 6. Português europeu (pt-PT) em tudo: perguntas, explicações e relatórios.
 7. Nunca copiar perguntas de concursos (Joker, Dr. Why, Trivial Pursuit, Quem Quer Ser
-   Milionário), de outras apps ou de sites de quiz.
+   Milionário), de outras apps ou de sites de quiz. A originalidade mede o **texto**,
+   não o facto: um facto clássico pode entrar com enunciado próprio e leva a etiqueta
+   `classico` (no máximo 20% por lote e nunca em dificuldade 4 ou 5). Originalidade
+   interrompida (limite de utilização ou erro): a pergunta fica em `em_verificacao`.
 8. Nada ligado ao retalho alimentar (temas, marcas, patrocínios).
 9. Os agentes não leem nem escrevem ficheiros (é isso que protege a verificação às
    cegas): devolvem JSON. Só tu escreves em `banco/` e em `relatorios/`. Por isso, em
    cada invocação de um agente que pesquisa, inclui no pedido o texto completo de
-   `regras/fontes.md`.
+   `regras/fontes.md`. Os agentes leem páginas só com `scripts/ler_url.py`; o hook
+   `.claude/hooks/travao_agentes.py` recusa-lhes qualquer outro comando e os ficheiros.
+10. **Tu nunca escreves texto factual** (enunciados, opções, explicações, fontes): as
+    correções vêm sempre de um agente e tu só as aplicas tal como vieram.
+11. **Só o `scripts/aprovar.py` aprova.** Corre o `validar.py` e, só se passar, muda o
+    estado para `aprovada` e junta ao histórico o evento `aprovada por aprovar.py`. O
+    `validar.py` recusa perguntas aprovadas sem esse evento.
+12. **Canários.** Em cada lote, 2 perguntas com a resposta errada de propósito,
+    guardadas só no relatório e nunca no banco, vão misturadas ao verificador às cegas.
+    Se uma passar, o lote para.
 
 ## Onde estão as coisas
 
@@ -34,8 +50,12 @@ ficheiros e nunca tomas decisões de produto sozinho.
 - `banco/reportes.csv` — reportes de erro dos jogadores (`pergunta_id,data,jogador_id,texto`).
 - `relatorios/` — relatórios de lote, auditoria e manutenção.
 - `regras/fontes.md` — hierarquia de fontes.
-- `scripts/validar.py` — validação automática, obrigatória antes de aprovar.
+- `scripts/validar.py` — validação automática.
   `python3 scripts/validar.py --dominio <url>` devolve o domínio a registar numa fonte.
+- `scripts/aprovar.py` — a única forma de aprovar (corre o `validar.py`).
+- `scripts/ler_url.py` — leitor de páginas dos agentes (só http/https públicos);
+  `scripts/testar_ler_url.py` testa as recusas.
+- `scripts/estatisticas_lote.py` — números do relatório de um lote.
 - `scripts/calibrar.py` — dificuldade real e perguntas suspeitas a partir das respostas.
 - `scripts/simular_respostas.py` — gera respostas fictícias para testar o calibrador.
 
@@ -47,8 +67,8 @@ ficheiros e nunca tomas decisões de produto sozinho.
 
 ## Estados
 
-`rascunho` → `em_verificacao` → `aprovada` → `publicada`, e ainda `suspensa`,
-`retirada` e `rejeitada`. Só passa a `publicada` com ordem expressa do Andre e sem travão
+`rascunho` → `em_verificacao` → `aprovada` (só pelo `aprovar.py`) → `publicada`, e ainda
+`suspensa`, `retirada` e `rejeitada`. Só passa a `publicada` com ordem expressa do Andre e sem travão
 ativo. Cada mudança de estado acrescenta um evento a `historico` (data, evento, agente,
 nota).
 
@@ -67,5 +87,7 @@ número existente em `banco/perguntas/` e em `exemplos/`.
 
 ## Relatórios
 
-Curtos, em pt-PT, para ler em 2 minutos: números primeiro, depois os problemas e as
-decisões que o Andre tem de tomar. Nunca mais de uma página.
+Curtos, em pt-PT, para ler em 2 minutos: números primeiro (incluindo o tempo de agentes
+por pergunta aprovada, sem pausas, e a percentagem de perguntas com fonte de nível 1 do
+pesquisador), depois os canários, os problemas e as decisões que o Andre tem de tomar.
+Nunca mais de uma página.
