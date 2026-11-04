@@ -12,7 +12,7 @@
     "Entulho do incêndio de 64 d.C."
   ],
   "correta": 2,
-  "explicacao": "De cacos de ânforas de azeite deitadas fora na época imperial, na grande maioria vindas da Bética, no sul da Hispânia. Ao que parece, os romanos espalhavam cal sobre os cacos para disfarçar o cheiro do azeite rançoso.",
+  "explicacao": "De cacos de ânforas de azeite deitadas fora na época imperial, na grande maioria vindas da Bética, no sul da Hispânia. Os romanos cobriam os cacos com cal para disfarçar o cheiro do azeite rançoso.",
   "dificuldade_estimada": 4,
   "fontes": [
     {
@@ -43,36 +43,19 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://www.ub.edu/ceipac_ub/?p=7",
-      "dominio": "ub.edu",
-      "titulo": "Presentación – CEIPAC (Universitat de Barcelona)",
+      "url": "https://turismoroma.it/it/luoghi/monte-dei-cocci",
+      "dominio": "turismoroma.it",
+      "titulo": "Turismo Roma (portal oficial de Roma Capitale): Monte dei Cocci",
       "nivel": 1,
-      "excerto": "Con excavaciones anuales ininterrumpidas desde 1989, el material obtenido en el Monte Testaccio representa la mayor fuente de información para el estudio de la producción y consumo del aceite de oliva bético en la capital del Imperio.",
+      "excerto": "I frammenti venivano accatastati con la massima economia di spazio, utilizzando la calce per eliminare gli inconvenienti causati dalla decomposizione dell'olio.",
       "consultada_em": "2026-11-04",
-      "papel": "verificador"
+      "papel": "pesquisador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Cacos de ânforas de azeite",
-      "concorda": true,
-      "confianca": "alta",
-      "dominio": "ub.edu",
-      "data": "2026-11-04",
-      "notas": "Reverificação: CEIPAC (U. Barcelona, nível 1) — depósito de ânforas de azeite bético e tripolitano; ostia-antica.org: ânforas Dressel 20 de azeite. Vinho, escória e entulho excluídos."
-    },
-    "advogado": {
-      "aprovado": true,
-      "notas": "2.ª passagem: quase só coincide com as fontes; ânforas de vinho eram recicladas (não há ambiguidade); época imperial confirmada; cal confirmada por Archaeology Magazine e Wikipédia.",
-      "data": "2026-11-04"
-    },
-    "editor": {
-      "aprovado": true,
-      "originalidade_ok": true,
-      "alteracao_factual": false,
-      "notas": "Enunciado e opção do incêndio encurtados; cal com 'ao que parece'. ORIGINALIDADE VERIFICADA SÓ EM PARTE: a 2.ª pesquisa (em sites de quiz) falhou por limite de utilização; repetir antes de publicar.",
-      "data": "2026-11-04"
-    }
+    "verificador": null,
+    "advogado": null,
+    "editor": null
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
@@ -128,6 +111,12 @@
       "evento": "devolvida a em_verificacao",
       "agente": "orquestrador",
       "nota": "Pedido do Andre (v1.1): a originalidade ficou incompleta e a explicação tem linguagem de dúvida ('ao que parece'). Fica em em_verificacao até a originalidade estar completa e a dúvida resolvida."
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "corrigida pelo pesquisador",
+      "agente": "pesquisador",
+      "nota": "Pedido do Andre: 'Ao que parece' sai; a cal e o motivo passam a afirmação (Archaeology Magazine afirma sem reservas; Turismo Roma/Roma Capitale, nível 1, afirma a cal contra a decomposição do azeite). Fonte de escavação original não legível (PDF). Volta ao verificador às cegas."
     }
   ]
 }

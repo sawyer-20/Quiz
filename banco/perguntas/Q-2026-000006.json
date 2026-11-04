@@ -4,7 +4,7 @@
   "tema": "historia",
   "subtema": "Descobrimentos portugueses (séculos XV–XVI)",
   "formato": "escolha-multipla",
-  "enunciado": "Segundo a tradição, que nome deu Bartolomeu Dias em 1488 ao cabo que hoje se chama da Boa Esperança?",
+  "enunciado": "Segundo a tradição, que nome deu Bartolomeu Dias ao cabo que hoje se chama da Boa Esperança?",
   "opcoes": [
     "Cabo das Agulhas",
     "Cabo dos Ventos",
@@ -12,35 +12,35 @@
     "Cabo das Tormentas"
   ],
   "correta": 3,
-  "explicacao": "Cabo das Tormentas, pelas tempestades que Dias enfrentou ao dobrá-lo. Segundo o cronista João de Barros, D. João II rebatizou-o de Boa Esperança: a passagem do Atlântico para o Índico prometia o caminho marítimo para a Índia.",
+  "explicacao": "Cabo das Tormentas. Segundo o cronista João de Barros, Dias chamou-lhe «Cabo Tormentoso»; segundo a tradição, D. João II rebatizou-o de Boa Esperança. Há quem atribua este nome ao próprio Dias.",
   "dificuldade_estimada": 2,
   "fontes": [
     {
-      "url": "https://pt.wikipedia.org/wiki/Cabo_da_Boa_Esperan%C3%A7a",
-      "dominio": "wikipedia.org",
-      "titulo": "Cabo da Boa Esperança – Wikipédia",
+      "url": "https://www.newadvent.org/cathen/04775b.htm",
+      "dominio": "newadvent.org",
+      "titulo": "Catholic Encyclopedia (1908): Bartolomeu Dias (O. Hartig)",
+      "nivel": 1,
+      "excerto": "It was only on his return voyage that he discovered the Cape, to which, according to Barros, he gave the name of Cabo Tormentoso. King John, in view of the success of the expedition, is said to have proposed the name it has since borne, Cape of Good Hope.",
+      "consultada_em": "2026-11-04",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://sahistory.org.za/dated-event/portuguese-navigator-bartholomew-dias-erects-first-stone-cross-south-african-coast",
+      "dominio": "sahistory.org.za",
+      "titulo": "SAHO: Portuguese navigator Bartholomew Dias erects the first stone cross on the South African coast",
       "nivel": 2,
-      "excerto": "como foi avistado depois de vários dias em que os marinheiros sofreram violentas tempestades (tormentas), aquele navegador lhe pôs o nome de cabo das Tormentas. Ao retornar [...] o rei João II de Portugal mudou-lhe o nome",
+      "excerto": "It is generally believed that he called it Cabo Tormentoso, or Cape of Storms, and that King João II then renamed it Cabo de Boa Esperanza, or Cape of Good Hope. Not everybody agrees with this, however, and believes that it was Dias himself who gave the Cape of Good Hope its name.",
       "consultada_em": "2026-11-04",
       "papel": "pesquisador"
     },
     {
       "url": "https://sahistory.org.za/dated-event/bartholomew-dias-portuguese-discoverer-cape-good-hope-drowns-sea",
       "dominio": "sahistory.org.za",
-      "titulo": "Bartholomew Dias, Portuguese discoverer of the Cape of Good Hope, drowns at sea | South African History Online",
+      "titulo": "SAHO: Bartholomew Dias, Portuguese discoverer of the Cape of Good Hope, drowns at sea",
       "nivel": 2,
       "excerto": "He named the Cape \"the Cape of Storms\" (Cabo das Tormentas), but King John II of Portugal later renamed it Cabo de Boa Esperanca (Cape of Good Hope).",
       "consultada_em": "2026-11-04",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://www.history.com/articles/bartolomeu-dias",
-      "dominio": "history.com",
-      "titulo": "Bartolomeu Dias - Life, Legacy & Expeditions | HISTORY",
-      "nivel": 2,
-      "excerto": "On the journey back, Dias observed the southernmost point of Africa, later called Cabo das Agulhas, or Cape of Needles. Dias named the rocky second cape Cabo das Tormentas (Cape of Storms) for the tempestuous storms and strong Atlantic-Antarctic currents",
-      "consultada_em": "2026-11-04",
-      "papel": "verificador"
     },
     {
       "url": "https://cultura.marinha.pt/pt/museumarinha_web/multimedia_web/Paginas/Ha-531-anos-bartolomeu-dias.aspx",
@@ -53,26 +53,9 @@
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Cabo das Tormentas",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "history.com",
-      "data": "2026-11-04",
-      "notas": "Fonte diz explicitamente que Dias lhe chamou Cabo das Tormentas; distingue o Cabo das Agulhas; Bojador fica no Saara; 'Cabo dos Ventos' não aparece. Só uma fonte de nível 2 (Britannica 403). Autoria da mudança de nome (D. João II vs Dias, segundo Duarte Pacheco Pereira) é contestada, mas não afeta o nome Cabo das Tormentas."
-    },
-    "advogado": {
-      "aprovado": true,
-      "notas": "Barros regista 'Tormentoso' (não é distrator; 'Segundo a tradição' cobre). Agulhas é outro cabo, Bojador no Saara, 'Cabo dos Ventos' sem associação. Autoria do nome final disputada (boletim KBHA 2016) não afeta a resposta. Cabo dobrado em 1488 (Museu de Marinha, Wikipédia). Explicação suportada (Catholic Encyclopedia sobre Barros; Museu de Marinha).",
-      "data": "2026-11-04"
-    },
-    "editor": {
-      "aprovado": true,
-      "originalidade_ok": true,
-      "alteracao_factual": false,
-      "notas": "Editor: explicação reescrita para começar pela resposta; originalidade verificada (facto clássico, mas sem frase igual). O editor propôs também mudar o enunciado para 'o cabo que D. João II rebatizou de Boa Esperança'; o orquestrador NÃO aplicou essa parte, porque põe no enunciado, como facto assente, a autoria do novo nome, que o advogado assinalou como disputada (Duarte Pacheco Pereira). Mantém-se o enunciado verificado.",
-      "data": "2026-11-04"
-    }
+    "verificador": null,
+    "advogado": null,
+    "editor": null
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
@@ -116,6 +99,12 @@
       "evento": "devolvida a em_verificacao",
       "agente": "orquestrador",
       "nota": "Correção pedida pelo Andre (v1.1): tirar 'em 1488' do enunciado e completar a explicação (Barros: 'Cabo Tormentoso'; Axelson contesta o rebatismo, citando Duarte Pacheco Pereira). Segue para correção pelo pesquisador e nova verificação às cegas."
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "corrigida pelo pesquisador",
+      "agente": "pesquisador",
+      "nota": "Pedido do Andre: sai 'em 1488' do enunciado; explicação com Barros ('Cabo Tormentoso'). NÃO CONFIRMADO e por isso não escrito: Axelson a contestar o rebatismo citando Duarte Pacheco Pereira (não está nas páginas do SAHO abertas). Saem 'pelas tempestades' e 'prometia o caminho marítimo para a Índia' (sem fonte). Wikipédia substituída pela Catholic Encyclopedia. Volta ao verificador às cegas."
     }
   ]
 }
