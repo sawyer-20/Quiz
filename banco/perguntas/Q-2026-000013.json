@@ -1,0 +1,65 @@
+{
+  "id": "Q-2026-000013",
+  "lingua": "pt-PT",
+  "tema": "historia",
+  "subtema": "Liberalismo – Revolução de 1820",
+  "formato": "escolha-multipla",
+  "enunciado": "Que nome tinha a sociedade secreta fundada no Porto em 1818 que preparou a revolução liberal de 24 de agosto de 1820?",
+  "opcoes": [
+    "Sinédrio",
+    "Grande Oriente Lusitano",
+    "Supremo Conselho Regenerador",
+    "Carbonária"
+  ],
+  "correta": 0,
+  "explicacao": "O Sinédrio, que foi buscar o nome ao antigo conselho judaico, nasceu no Porto em 1818 por iniciativa do juiz Manuel Fernandes Tomás, com Ferreira Borges e Silva Carvalho. Surgiu como reação à execução de Gomes Freire e preparou o golpe de 1820, procurando o apoio dos militares.",
+  "dificuldade_estimada": 4,
+  "fontes": [
+    {
+      "url": "https://dichp.bnportugal.gov.pt/historiadores_eng/historiadores_gomes_marques2_eng.htm",
+      "dominio": "bnportugal.gov.pt",
+      "titulo": "Dicionário de Historiadores Portugueses – Marques Gomes (Biblioteca Nacional de Portugal)",
+      "nivel": 1,
+      "excerto": "he paid tribute to Manuel Fernandes Tomás, one of the founders of the Sinédrio, along with Ferreira Borges and Silva Carvalho, and the driving force behind the 1820 Liberal Revolution.",
+      "consultada_em": "2026-11-04",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.dn.pt/edicao-do-dia/22-ago-2020/sergio-figueira-o-porto-sempre-foi-um-contrapoder-em-portugal-12540349.html",
+      "dominio": "dn.pt",
+      "titulo": "Sérgio Figueira: \"O Porto sempre foi um contrapoder em Portugal\" (Diário de Notícias)",
+      "nivel": 2,
+      "excerto": "ele está na origem da constituição de uma associação, que foi o Sinédrio, em 1818, que surge como reação à execução do Gomes Freire de Andrade em Lisboa [...] com vista à preparação de um movimento revolucionário",
+      "consultada_em": "2026-11-04",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://pt.wikipedia.org/wiki/Sin%C3%A9drio_(Portugal)",
+      "dominio": "wikipedia.org",
+      "titulo": "Sinédrio (Portugal) – Wikipédia",
+      "nivel": 2,
+      "excerto": "O Sinédrio foi uma associação secreta criada com o objectivo de preparar uma revolução. Criada [...] no Porto a 22 de Janeiro de 1818. O seu nome deriva de uma organização homónima — o Supremo Tribunal judaico.",
+      "consultada_em": "2026-11-04",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-04-historia",
+  "criada_em": "2026-11-04",
+  "historico": [
+    {
+      "data": "2026-11-04",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Dificuldade talvez 4 (aparece no programa escolar). DN 24/08/2020 diz golpe 'inspirado pelo Sinédrio, ainda que sem a participação dos seus membros' — daí 'preparou'. Data exata e lista de fundadores variam. Origem do nome só na Wikipédia. Dados dos distratores (Supremo Conselho Regenerador = conspiração de Gomes Freire 1817; GOL anterior a 1818; Carbonária posterior) vêm da memória do pesquisador, não confirmados. Vários membros eram maçons: confirmar que o GOL não é defensável."
+    }
+  ]
+}

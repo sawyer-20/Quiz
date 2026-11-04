@@ -1,0 +1,68 @@
+{
+  "id": "Q-2026-000007",
+  "lingua": "pt-PT",
+  "tema": "historia",
+  "subtema": "Guerra Fria — Bloqueio de Berlim (1948-1949)",
+  "formato": "escolha-multipla",
+  "enunciado": "Durante o bloqueio soviético de 1948-1949, por que via foi principalmente abastecida Berlim Ocidental?",
+  "opcoes": [
+    "Por via ferroviária",
+    "Por estrada, em colunas militares",
+    "Por via aérea",
+    "Por via fluvial, em barcaças"
+  ],
+  "correta": 2,
+  "explicacao": "Os soviéticos cortaram o acesso por estrada, por comboio e por via fluvial. Só os corredores aéreos ficaram abertos, e os Aliados ocidentais responderam com uma ponte aérea que abasteceu a cidade até ao fim do bloqueio, em maio de 1949.",
+  "dificuldade_estimada": 2,
+  "fontes": [
+    {
+      "url": "https://history.state.gov/milestones/1945-1952/berlin-airlift",
+      "dominio": "state.gov",
+      "titulo": "The Berlin Airlift, 1948–1949 — Office of the Historian, U.S. Department of State",
+      "nivel": 1,
+      "excerto": "The crisis started on June 24, 1948, when Soviet forces blockaded rail, road, and water access to Allied-controlled areas of Berlin. The United States and United Kingdom responded by airlifting food and fuel to Berlin... At the height of the campaign, one plane landed every 45 seconds at Tempelhof A",
+      "consultada_em": "2026-11-04",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://pt.wikipedia.org/wiki/Bloqueio_de_Berlim",
+      "dominio": "wikipedia.org",
+      "titulo": "Bloqueio de Berlim — Wikipédia",
+      "nivel": 2,
+      "excerto": "Em 24 de junho, os soviéticos interromperam todas as comunicações rodoviárias... também foram paralisados todos os serviços ferroviários e o tráfego de barcaças... em abril, o transporte aéreo estava entregando um volume carga superior ao que era anteriormente transportado de trem para a cidade.",
+      "consultada_em": "2026-11-04",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-04-historia",
+  "criada_em": "2026-11-04",
+  "historico": [
+    {
+      "data": "2026-11-04",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Risco baixo; pode ser evidente para quem conheça 'ponte aérea de Berlim'. Data exata do fim (11 ou 12 de maio de 1949) não usada. '45 segundos' só no Departamento de Estado (página 'retired' mas acessível)."
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte alliiertenmuseum.de"
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "Corrigível: 'principalmente' no enunciado; 'Aliados ocidentais'; saem os 45 s (fontes divergem: 62 s no museu) e a frase de abril de 1949 (só Wikipédia). O orquestrador não usou o recorde da Páscoa proposto (número de uma só fonte) e fechou a explicação com o fim do bloqueio (maio de 1949, Dep. de Estado e Wikipédia). Ciclo 1/1."
+    }
+  ]
+}

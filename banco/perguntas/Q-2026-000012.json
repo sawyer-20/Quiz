@@ -1,0 +1,78 @@
+{
+  "id": "Q-2026-000012",
+  "lingua": "pt-PT",
+  "tema": "historia",
+  "subtema": "Japão – período Edo e comércio com o Ocidente",
+  "formato": "escolha-multipla",
+  "enunciado": "A ilha artificial de Dejima, em Nagasaki, foi construída na década de 1630 para alojar mercadores de que nacionalidade?",
+  "opcoes": [
+    "Ingleses",
+    "Portugueses",
+    "Neerlandeses",
+    "Chineses"
+  ],
+  "correta": 1,
+  "explicacao": "O xogunato começou a construir Dejima em 1634 para lá confinar os portugueses de Nagasaki e travar a difusão do cristianismo. Em 1639 os portugueses foram proibidos de vir ao Japão e, em 1641, a feitoria neerlandesa de Hirado mudou-se para a ilha, onde ficou mais de dois séculos.",
+  "dificuldade_estimada": 4,
+  "fontes": [
+    {
+      "url": "https://nagasakidejima.jp/history/",
+      "dominio": "nagasakidejima.jp",
+      "titulo": "出島の歴史 – 【公式】出島〜dejima〜 (site oficial de Dejima, Cidade de Nagasaki)",
+      "nivel": 1,
+      "excerto": "1634寛永11出島築造に着手 … 1636寛永13出島完成ポルトガル人を出島に収容 … 1639寛永16ポルトガル人の来航禁止 … 1641寛永18平戸オランダ商館、長崎出島に移転",
+      "consultada_em": "2026-11-04",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dejima",
+      "dominio": "wikipedia.org",
+      "titulo": "Dejima – Wikipedia",
+      "nivel": 2,
+      "excerto": "The shōgun Iemitsu ordered the construction of the artificial island in 1634, to accommodate the Portuguese traders living in Nagasaki and prevent the propagation of their religion.",
+      "consultada_em": "2026-11-04",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://edolegacytravel.metro.tokyo.lg.jp/spots/dejima/",
+      "dominio": "lg.jp",
+      "titulo": "Dejima | SPOTS | Journey Through Edo's Legacy (Governo Metropolitano de Tóquio)",
+      "nivel": 1,
+      "excerto": "Originally built in 1636 to confine Portuguese traders and curb the spread of Christianity, it soon became the location of the Dutch East India Company's trading post. From 1641 until Japan's reopening in 1859...",
+      "consultada_em": "2026-11-04",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Portugueses",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "lg.jp",
+      "data": "2026-11-04",
+      "notas": "Governo Metropolitano de Tóquio: construída (1634-1636) para confinar os portugueses; neerlandeses só a partir de 1641, vindos de Hirado. Chineses tinham bairro próprio (Tojin yashiki); ingleses deixaram Hirado em 1623. O verificador assinalou a armadilha previsível (Dejima associada aos neerlandeses), mas declarou que a resposta não é ambígua."
+    },
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-04-historia",
+  "criada_em": "2026-11-04",
+  "historico": [
+    {
+      "data": "2026-11-04",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Muitos associam Dejima só aos neerlandeses (efeito surpresa), mas público português pode adivinhar por enviesamento. Datas variam (início 1634, conclusão 1636), daí 'década de 1630'. União Ibérica: por isso 'Espanhóis' não é distrator."
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte lg.jp"
+    }
+  ]
+}

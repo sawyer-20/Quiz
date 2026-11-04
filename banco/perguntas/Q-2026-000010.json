@@ -1,0 +1,78 @@
+{
+  "id": "Q-2026-000010",
+  "lingua": "pt-PT",
+  "tema": "historia",
+  "subtema": "História da ciência e da técnica (até 1900)",
+  "formato": "escolha-multipla",
+  "enunciado": "Na França revolucionária, o metro foi definido como a décima milionésima parte de que distância?",
+  "opcoes": [
+    "Do diâmetro da Terra de polo a polo",
+    "Do polo Norte ao equador",
+    "Da volta completa à Terra pelo equador",
+    "De Paris ao polo Norte"
+  ],
+  "correta": 1,
+  "explicacao": "A comissão da Academia das Ciências quis uma unidade baseada na própria Terra: 1/10 000 000 do quarto de meridiano entre o polo Norte e o equador, passando por Paris. Delambre e Méchain mediram o arco de Dunquerque a Barcelona, mas um erro no achatamento da Terra deixou o metro ligeiramente curto.",
+  "dificuldade_estimada": 3,
+  "fontes": [
+    {
+      "url": "https://www.nist.gov/si-redefinition/meter",
+      "dominio": "nist.gov",
+      "titulo": "Meter | NIST",
+      "nivel": 1,
+      "excerto": "The measure of distance, the meter (derived from the Greek word metron, meaning “a measure”), would be 1/10,000,000 of the distance between the North Pole and the equator, with that line passing through Paris, of course.",
+      "consultada_em": "2026-11-04",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_the_metre",
+      "dominio": "wikipedia.org",
+      "titulo": "History of the metre - Wikipedia",
+      "nivel": 2,
+      "excerto": "The Academy formed a commission, which rejected using the pendulum as a unit of length and decided that the new measure should be equal to one ten-millionth of the distance from the North Pole to the Equator (a quadrant of the Earth's circumference).",
+      "consultada_em": "2026-11-04",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://metrologie-francaise.lne.fr/en/metrology/history-units",
+      "dominio": "lne.fr",
+      "titulo": "The historical evolution of units | Réseau National de la Métrologie Française (LNE)",
+      "nivel": 1,
+      "excerto": "the distance from the North pole to the equator, a quarter meridian. [...] Introduced on 26 March 1791, the metre was defined as being equal to the ten millionth part of one quarter of the terrestrial meridian.",
+      "consultada_em": "2026-11-04",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Do polo Norte ao equador",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "lne.fr",
+      "data": "2026-11-04",
+      "notas": "LNE (organismo oficial francês de metrologia): comissão de 1791 escolheu o quarto de meridiano polo Norte–equador (rejeitou pêndulo e quarto do equador). Volta completa, diâmetro e Paris–polo excluídos."
+    },
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-04-historia",
+  "criada_em": "2026-11-04",
+  "historico": [
+    {
+      "data": "2026-11-04",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "'Do equador ao polo Sul' seria equivalente, mas não está nas opções. Ano não incluído de propósito (comissão 1790, recomendações 1791, metro provisório 1795, barra definitiva 1799). Não se quantifica quanto ficou curto (NIST: 0,2 mm)."
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte lne.fr"
+    }
+  ]
+}

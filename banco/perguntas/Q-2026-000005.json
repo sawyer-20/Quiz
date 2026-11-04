@@ -1,0 +1,106 @@
+{
+  "id": "Q-2026-000005",
+  "lingua": "pt-PT",
+  "tema": "historia",
+  "subtema": "Conquista normanda de Inglaterra (século XI)",
+  "formato": "escolha-multipla",
+  "enunciado": "Que técnica deu forma às cenas da Tapeçaria de Bayeux, que narra a conquista normanda de 1066?",
+  "opcoes": [
+    "Pintura sobre linho",
+    "Bordado",
+    "Tecelagem em tear",
+    "Estampagem com carimbos de madeira"
+  ],
+  "correta": 1,
+  "explicacao": "Bordado. Apesar do nome, não é uma tapeçaria, em que o desenho se tece no próprio pano: as cenas foram bordadas com fio de lã sobre um fundo de linho com cerca de 70 metros, feito de nove painéis cosidos entre si.",
+  "dificuldade_estimada": 3,
+  "fontes": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Bayeux_Tapestry",
+      "dominio": "wikipedia.org",
+      "titulo": "Bayeux Tapestry - Wikipedia",
+      "nivel": 2,
+      "excerto": "it is not a true tapestry in which the design is woven into the cloth in tapestry weave; it is technically an embroidery [...] embroidered in crewel (wool yarn) on a tabby-woven linen ground 68.38 m long",
+      "consultada_em": "2026-11-04",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/",
+      "dominio": "bayeuxmuseum.com",
+      "titulo": "Bayeux Tapestry museum (site oficial do Museu de Bayeux)",
+      "nivel": 1,
+      "excerto": "Step into the engrossing story of the conquest of England by William, Duke of Normandy in 1066, told in a 70 meters long embroidery.",
+      "consultada_em": "2026-11-04",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.history.com/articles/bayeux-tapestry-facts-england-battle-hastings",
+      "dominio": "history.com",
+      "titulo": "What Makes the Bayeux Tapestry a Medieval Wonder? | HISTORY",
+      "nivel": 2,
+      "excerto": "Despite its title, the Bayeux Tapestry is actually an embroidery, with pictures and text inscriptions stitched in wool onto a linen canvas as opposed to a tapestry, which is woven on a loom with images created during the weaving process.",
+      "consultada_em": "2026-11-04",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Bordado",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "history.com",
+      "data": "2026-11-04",
+      "notas": "History.com (nível 2) diz explicitamente bordado de lã sobre linho, por oposição a tapeçaria tecida em tear; pintura e estampagem excluídas. Britannica e British Museum (403) dizem o mesmo nos resultados de pesquisa, não lidos."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "Nenhuma fonte descreve pintura, tear ou estampagem. Wikipédia: 9 painéis de linho cosidos, bordado a lã (crewel), 68,38 m; museu: 70 m — coincidem. Só a Wikipédia suporta os nove painéis.",
+      "data": "2026-11-04"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Formulação 'é tecnicamente que tipo de obra' é comum em quizzes (Quizzclub, FunTrivia, guias de estudo); reescrita para 'que técnica deu forma às cenas'. Opções em substantivos paralelos, mesma ordem e sentido. Sem quiz em português igual.",
+      "data": "2026-11-04"
+    }
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-04-historia",
+  "criada_em": "2026-11-04",
+  "historico": [
+    {
+      "data": "2026-11-04",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Definição antiga e lata de 'tapeçaria' inclui panos bordados; a opção 'tecida em tear' afasta essa leitura. A distinção técnica vem da Wikipédia; o site do museu só diz 'embroidery'. Peça emprestada ao British Museum desde set. 2026 (não afeta o enunciado)."
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte history.com"
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: Um bordado; depois: Bordado"
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "aprovada",
+      "agente": "validar.py",
+      "nota": "validação automática sem erros"
+    }
+  ]
+}

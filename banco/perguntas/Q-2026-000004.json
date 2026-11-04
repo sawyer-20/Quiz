@@ -1,0 +1,90 @@
+{
+  "id": "Q-2026-000004",
+  "lingua": "pt-PT",
+  "tema": "historia",
+  "subtema": "Antiguidade — Egito ptolemaico (Pedra de Roseta)",
+  "formato": "escolha-multipla",
+  "enunciado": "A Pedra de Roseta repete o mesmo decreto em hieróglifos, em demótico e em que outra escrita?",
+  "opcoes": [
+    "Aramaico",
+    "Grego antigo",
+    "Cuneiforme acádio",
+    "Latim"
+  ],
+  "correta": 1,
+  "explicacao": "O decreto de 196 a.C., em honra de Ptolemeu V, foi gravado em três escritas. O grego era a língua usada na administração. Como já se sabia ler, a versão grega serviu de chave para decifrar os hieróglifos, e Champollion anunciou a decifração em 1822.",
+  "dificuldade_estimada": 2,
+  "fontes": [
+    {
+      "url": "https://pt.wikipedia.org/wiki/Pedra_de_Roseta",
+      "dominio": "wikipedia.org",
+      "titulo": "Pedra de Roseta – Wikipédia, a enciclopédia livre",
+      "nivel": 2,
+      "excerto": "essa deliberação é registrada em três versões com conteúdo em geral equivalente mas em escritas diferentes: a superior foi registrada na forma hieroglífica do egípcio antigo; a do meio em demótico, variante escrita do egípcio tardio; e a inferior em grego antigo.",
+      "consultada_em": "2026-11-04",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.worldhistory.org/Rosetta_Stone/",
+      "dominio": "worldhistory.org",
+      "titulo": "Rosetta Stone - World History Encyclopedia",
+      "nivel": 2,
+      "excerto": "The text is in three different versions: Hieroglyphic, Demotic and Greek, a fact which immeasurably helped to finally decipher Egyptian hieroglyphics. The Rosetta Stone is today on display in the British Museum, London.",
+      "consultada_em": "2026-11-04",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://arce.org/resource/rosetta-stone-unlocking-ancient-egyptian-language/",
+      "dominio": "arce.org",
+      "titulo": "The Rosetta Stone: Unlocking the Ancient Egyptian Language - ARCE (Foy Scalf, Oriental Institute, University of Chicago)",
+      "nivel": 1,
+      "excerto": "The Rosetta Stone ... is a dark-colored granodiorite stela inscribed with the same text in three scripts – Demotic, hieroglyphic and Greek.",
+      "consultada_em": "2026-11-04",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Grego antigo",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "arce.org",
+      "data": "2026-11-04",
+      "notas": "Reverificação após reformulação: ARCE cita o decreto 'in sacred (hieroglyphic), native (Demotic), and Greek characters'; Ptolemeu V, 196 a.C. Latim, cuneiforme e aramaico excluídos."
+    },
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-04-historia",
+  "criada_em": "2026-11-04",
+  "historico": [
+    {
+      "data": "2026-11-04",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Sem fonte de nível 1 (British Museum devolveu 403); ambas nível 2. 'Três línguas' vs 'três escritas': demótico e hieróglifos são escritas da mesma língua, daí 'escrita'. Aramaico pode parecer plausível."
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte arce.org"
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "Corrigível: cortada da explicação a 'origem macedónia' (sem fonte). Enunciado e opções iguais. Volta ao verificador às cegas (ciclo de correção 1/1)."
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte arce.org"
+    }
+  ]
+}

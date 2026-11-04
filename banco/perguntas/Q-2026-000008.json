@@ -1,0 +1,77 @@
+{
+  "id": "Q-2026-000008",
+  "lingua": "pt-PT",
+  "tema": "historia",
+  "subtema": "Roma antiga (Império) – economia e arqueologia",
+  "formato": "escolha-multipla",
+  "enunciado": "O Monte Testaccio, em Roma, é uma colina artificial formada quase só por que material?",
+  "opcoes": [
+    "Escória de fornos de fundição",
+    "Cacos de ânforas de vinho",
+    "Cacos de ânforas de azeite",
+    "Entulho do grande incêndio de 64 d.C."
+  ],
+  "correta": 2,
+  "explicacao": "A colina formou-se na época imperial com ânforas de azeite deitadas fora, na sua grande maioria vindas da Bética, no sul da Hispânia. Os romanos cobriam os cacos com cal para disfarçar o cheiro do azeite rançoso.",
+  "dificuldade_estimada": 4,
+  "fontes": [
+    {
+      "url": "https://www.cambridge.org/core/journals/greece-and-rome/article/abs/latest-work-on-the-export-of-baetican-olive-oil-to-rome-and-the-army/07D28E24DEC41641E1383BAC0CFF12D6",
+      "dominio": "cambridge.org",
+      "titulo": "J. M. Blázquez, The Latest Work on the Export of Baetican Olive Oil to Rome and the Army, Greece & Rome 39(2), 1992",
+      "nivel": 1,
+      "excerto": "The key for understanding the export traffic to Rome is the material from the Monte Testaccio in Rome, which is almost completely composed of amphorae from Baetica dating from the Imperial period",
+      "consultada_em": "2026-11-04",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://archaeology.org/issues/march-april-2009/features/trash-talk/",
+      "dominio": "archaeology.org",
+      "titulo": "Trash Talk – Archaeology Magazine (Archaeological Institute of America), 2009",
+      "nivel": 2,
+      "excerto": "The artificial hill is made up almost entirely of olive oil amphoras from the ancient Roman province of Baetica in southern Spain.",
+      "consultada_em": "2026-11-04",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Monte_Testaccio",
+      "dominio": "wikipedia.org",
+      "titulo": "Monte Testaccio – Wikipedia",
+      "nivel": 2,
+      "excerto": "an artificial mound in Rome composed almost entirely of testae (Italian: cocci), fragments of broken ancient Roman pottery, nearly all discarded amphorae... containing the remains of an estimated 53 million amphorae.",
+      "consultada_em": "2026-11-04",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-04-historia",
+  "criada_em": "2026-11-04",
+  "historico": [
+    {
+      "data": "2026-11-04",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Nível 1 (resumo Blázquez) diz ânforas da Bética, não diz explicitamente 'azeite' (só o título). Números (53 milhões, 35 m) só da Wikipédia; estimativas variam (25 a 53 milhões) e a Archaeology Magazine dá 150 pés (~46 m). Distrator 'vinho' intencional (tese francesa do séc. XIX refutada por Dressel). Pequena parte norte-africana, também de azeite."
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte turismoroma.it"
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "Corrigível: saem 53 milhões (Archaeology Magazine dá ~25 milhões) e 35 m (fonte dá ~46 m); datação passa a 'época imperial'. Cal confirmada por Archaeology Magazine e Wikipédia. Ciclo 1/1."
+    }
+  ]
+}

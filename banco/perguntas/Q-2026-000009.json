@@ -1,0 +1,68 @@
+{
+  "id": "Q-2026-000009",
+  "lingua": "pt-PT",
+  "tema": "historia",
+  "subtema": "Idade Moderna europeia – reforma do calendário na Grã-Bretanha",
+  "formato": "escolha-multipla",
+  "enunciado": "Ao adotar o calendário gregoriano em 1752, a Grã-Bretanha passou diretamente de 2 de setembro para que dia?",
+  "opcoes": [
+    "12 de setembro",
+    "11 de setembro",
+    "14 de setembro",
+    "13 de setembro"
+  ],
+  "correta": 2,
+  "explicacao": "Para corrigir uma diferença de 11 dias em relação ao calendário gregoriano, a Grã-Bretanha e as suas colónias suprimiram 11 dias: a quarta-feira, 2 de setembro de 1752, foi seguida pela quinta-feira, 14 de setembro. A mesma lei pôs o ano a começar a 1 de janeiro em Inglaterra, no País de Gales e nas colónias; a Escócia já o fazia desde 1600.",
+  "dificuldade_estimada": 3,
+  "fontes": [
+    {
+      "url": "https://www.rmg.co.uk/stories/time/which-years-are-leap-years-can-you-have-leap-seconds",
+      "dominio": "rmg.co.uk",
+      "titulo": "Which years are leap years and can you have leap seconds? | Royal Museums Greenwich",
+      "nivel": 1,
+      "excerto": "In non-Catholic countries the change was made later; Britain and her colonies made the change in 1752 when 2 September was followed by 14 September and New Year's Day was changed from 25 March to 1 January.",
+      "consultada_em": "2026-11-04",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Calendar_(New_Style)_Act_1750",
+      "dominio": "wikipedia.org",
+      "titulo": "Calendar (New Style) Act 1750 - Wikipedia",
+      "nivel": 2,
+      "excerto": "the divergence between the calendars had reached eleven days. Section I of the act corrects this divergence by providing that Wednesday, 2 September 1752 be followed by Thursday, 14 September 1752.",
+      "consultada_em": "2026-11-04",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-04-historia",
+  "criada_em": "2026-11-04",
+  "historico": [
+    {
+      "data": "2026-11-04",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "'13 de setembro' é armadilha deliberada (último dia suprimido). Escócia já começava o ano a 1 de janeiro desde 1600, mas o salto de setembro aplicou-se a todo o reino. UK Parliament e Library of Congress deram 403."
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte legislation.gov.uk"
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "Corrigível: Ano Novo não mudou na Escócia (já em 1600); sai 'maior parte da Europa Ocidental' (sem fonte). Ciclo 1/1."
+    }
+  ]
+}
