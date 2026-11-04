@@ -4,7 +4,7 @@
   "tema": "historia",
   "subtema": "Liberalismo – Revolução de 1820",
   "formato": "escolha-multipla",
-  "enunciado": "Que nome tinha a sociedade secreta fundada no Porto em 1818 que preparou a revolução liberal de 24 de agosto de 1820?",
+  "enunciado": "Que sociedade secreta, fundada no Porto em 1818, preparou a Revolução Liberal de 24 de agosto de 1820?",
   "opcoes": [
     "Sinédrio",
     "Grande Oriente Lusitano",
@@ -12,7 +12,7 @@
     "Carbonária"
   ],
   "correta": 0,
-  "explicacao": "O Sinédrio, que foi buscar o nome ao antigo conselho judaico, nasceu no Porto em 1818 por iniciativa do juiz Manuel Fernandes Tomás, com Ferreira Borges e Silva Carvalho. Surgiu como reação à execução de Gomes Freire e preparou o golpe de 1820, procurando o apoio dos militares.",
+  "explicacao": "Sinédrio. Nasceu no Porto em 1818 pela mão do juiz Manuel Fernandes Tomás, com Ferreira Borges e Silva Carvalho, em reação à execução de Gomes Freire. O nome vem da antiga assembleia judaica de juízes. Preparou o golpe de 1820 procurando o apoio dos militares.",
   "dificuldade_estimada": 4,
   "fontes": [
     {
@@ -66,11 +66,17 @@
       "notas": "Distratores confirmados em fontes lidas: Supremo Conselho Regenerador (Lisboa, Gomes Freire, 1817), GOL (Lisboa 1802; SciELO: pronunciamento não foi obra maçónica), Carbonária (Portugal só a partir de 1822). Datas coincidem. \"Preparou\" correto (SciELO). Explicação suportada: nome da assembleia judaica (SciELO), reação a Gomes Freire e apoio militar (DN, SciELO), fundadores (SciELO, BNP). Frase do DN sobre \"sem participação dos membros\" não encontrada no texto. Sugestão: João Ferreira Viana como 4.º fundador.",
       "data": "2026-11-04"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado encurtado (103 caracteres); 'antiga assembleia judaica de juízes' como na SciELO; João Ferreira Viana não acrescentado. Originalidade: só enciclopédias, imprensa e artigos académicos.",
+      "data": "2026-11-04"
+    }
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-04-historia",
   "criada_em": "2026-11-04",
@@ -92,6 +98,18 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: Sinédrio; depois: Sinédrio"
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "aprovada",
+      "agente": "validar.py",
+      "nota": "validação automática sem erros"
     }
   ]
 }

@@ -2,9 +2,9 @@
   "id": "Q-2026-000009",
   "lingua": "pt-PT",
   "tema": "historia",
-  "subtema": "Idade Moderna europeia – reforma do calendário na Grã-Bretanha",
+  "subtema": "Idade Moderna – calendário gregoriano na Grã-Bretanha",
   "formato": "escolha-multipla",
-  "enunciado": "Ao adotar o calendário gregoriano em 1752, a Grã-Bretanha passou diretamente de 2 de setembro para que dia?",
+  "enunciado": "Na passagem ao calendário gregoriano, em 1752, que dia se seguiu a 2 de setembro na Grã-Bretanha?",
   "opcoes": [
     "12 de setembro",
     "11 de setembro",
@@ -12,7 +12,7 @@
     "13 de setembro"
   ],
   "correta": 2,
-  "explicacao": "Para corrigir uma diferença de 11 dias em relação ao calendário gregoriano, a Grã-Bretanha e as suas colónias suprimiram 11 dias: a quarta-feira, 2 de setembro de 1752, foi seguida pela quinta-feira, 14 de setembro. A mesma lei pôs o ano a começar a 1 de janeiro em Inglaterra, no País de Gales e nas colónias; a Escócia já o fazia desde 1600.",
+  "explicacao": "14 de setembro: foram suprimidos 11 dias (de 3 a 13) e a quarta-feira, dia 2, foi seguida pela quinta-feira, dia 14. A mesma lei mudou o início do ano de 25 de março para 1 de janeiro em Inglaterra, no País de Gales e nas colónias; a Escócia já o fazia desde 1600.",
   "dificuldade_estimada": 3,
   "fontes": [
     {
@@ -57,11 +57,17 @@
       "notas": "2.ª passagem: lei (legislation.gov.uk), RMG e Wikipédia coincidem (2→14 de setembro, 11 dias). Correção sobre a Escócia certa. Explicação com 343 caracteres: fica para o editor.",
       "data": "2026-11-04"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado reescrito sem a fórmula 'passou diretamente de… para'; explicação reduzida a ~255 caracteres. Originalidade: facto aparece como curiosidade (FunTrivia, IFLScience…), mas sem este enunciado copiado ou quase igual.",
+      "data": "2026-11-04"
+    }
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-04-historia",
   "criada_em": "2026-11-04",
@@ -95,6 +101,24 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: 14 de setembro; depois: 14 de setembro"
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "validar.py: subtema com mais de 60 caracteres; encurtado. Aprovação anterior revertida por ter sido registada antes da validação passar."
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "aprovada",
+      "agente": "validar.py",
+      "nota": "validação automática sem erros"
     }
   ]
 }
