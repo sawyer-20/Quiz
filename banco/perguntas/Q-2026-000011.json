@@ -103,7 +103,15 @@
       "evento": "recuperada a versão original",
       "agente": "orquestrador",
       "nota": "Decisão do Andre (v1.1): recuperar a versão original (git 08045f0), já verificada às cegas (Cornell, nível 1), para levar a etiqueta 'classico' com enunciado próprio; IE Insights mantida em nível 2. Segue para originalidade, advogado do diabo e editor."
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "Facto frequente em quizzes (Quizalize, QuizzClub, FunTrivia, ProProfs, Brainscape), mas com enunciados genéricos ('What did the Aztecs use for currency?') ou invertidos; o nosso texto é claramente diferente. Etiqueta 'classico' (dificuldade 3; 1 clássico em 7 perguntas não rejeitadas do lote)."
     }
   ],
-  "etiquetas": []
+  "etiquetas": [
+    "classico"
+  ]
 }
