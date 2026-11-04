@@ -2,9 +2,9 @@
   "id": "Q-2026-000011",
   "lingua": "pt-PT",
   "tema": "historia",
-  "subtema": "Astecas – economia e comércio",
+  "subtema": "Américas — civilizações pré-colombianas (astecas, maias, incas)",
   "formato": "escolha-multipla",
-  "enunciado": "Nos mercados de Tenochtitlán fiscalizava-se a autenticidade de umas sementes, falsificadas com cera ou barro. Quais?",
+  "enunciado": "Nos mercados astecas, que sementes circulavam como moeda nas trocas e nos tributos?",
   "opcoes": [
     "Sementes de cacau",
     "Sementes de abóbora",
@@ -12,7 +12,7 @@
     "Grãos de feijão"
   ],
   "correta": 0,
-  "explicacao": "Sementes de cacau. Importado de longe e bem de luxo, o cacau valia tanto que servia de moeda nos mercados e nos tributos. Por isso era falsificado com cera, barro, massa ou até caroço de abacate, e as autoridades de Tenochtitlán tinham de verificar a sua autenticidade.",
+  "explicacao": "O cacau tinha de ser importado de longe e era um luxo. Valia tanto que as sementes serviam de moeda nos mercados e nos tributos. Havia até contrafação: faziam-se sementes falsas de cera, barro, massa ou caroço de abacate, e as autoridades de Tenochtitlán fiscalizavam a sua autenticidade.",
   "dificuldade_estimada": 3,
   "fontes": [
     {
@@ -32,17 +32,33 @@
       "excerto": "An Aztec installation uses chocolate to teach visitors about the Aztec market economy. For these ancient people, chocolate was a luxury item, because it had to be imported from considerable distances. It was so valuable, in fact, that cacao beans were used as currency.",
       "consultada_em": "2026-11-04",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://exhibits.library.cornell.edu/chocolate-food-of-the-gods/feature/when-money-grew-on-trees",
+      "dominio": "cornell.edu",
+      "titulo": "When Money Grew on Trees | CHOCOLATE - Cornell University Library",
+      "nivel": 1,
+      "excerto": "This facsimile from the Codex Mendoza (c. 1541) shows tribute that the Aztecs extracted twice a year from the cacao-growing region of Soconusco... two loads of cacao beans, which were used as currency as well as the drink of the elite.",
+      "consultada_em": "2026-11-04",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Sementes de cacau",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "cornell.edu",
+      "data": "2026-11-04",
+      "notas": "Cornell (nível 1): grãos de cacau como moeda e como tributo (Códice Mendoza, Soconusco). Smithsonian e Wikipédia confirmam. Abóbora, feijão e milho não aparecem como moeda nas fontes."
+    },
     "advogado": null,
     "editor": null
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "rejeitada",
-  "motivo_rejeicao": "sem confirmação independente do enunciado reescrito pelo editor: o verificador às cegas confirmou o cacau (confiança média; WHE e México Desconocido, nível 2), mas não encontrou em fonte de nível 1 ou 2 a 'cera' nem a fiscalização nos mercados de Tenochtitlán, que só constam da IE Insights (nível 2). A versão anterior ('que sementes circulavam como moeda?') estava verificada (Cornell, nível 1), mas o editor considerou-a demasiado comum em quizzes.",
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
   "lote": "lote-2026-11-04-historia",
   "criada_em": "2026-11-04",
   "historico": [
@@ -81,6 +97,13 @@
       "evento": "rejeitada",
       "agente": "verificador-cego",
       "nota": "sem confirmação independente do enunciado reescrito pelo editor: o verificador às cegas confirmou o cacau (confiança média; WHE e México Desconocido, nível 2), mas não encontrou em fonte de nível 1 ou 2 a 'cera' nem a fiscalização nos mercados de Tenochtitlán, que só constam da IE Insights (nível 2). A versão anterior ('que sementes circulavam como moeda?') estava verificada (Cornell, nível 1), mas o editor considerou-a demasiado comum em quizzes."
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "recuperada a versão original",
+      "agente": "orquestrador",
+      "nota": "Decisão do Andre (v1.1): recuperar a versão original (git 08045f0), já verificada às cegas (Cornell, nível 1), para levar a etiqueta 'classico' com enunciado próprio; IE Insights mantida em nível 2. Segue para originalidade, advogado do diabo e editor."
     }
-  ]
+  ],
+  "etiquetas": []
 }
