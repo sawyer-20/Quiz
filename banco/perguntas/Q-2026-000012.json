@@ -2,9 +2,9 @@
   "id": "Q-2026-000012",
   "lingua": "pt-PT",
   "tema": "historia",
-  "subtema": "Japão – período Edo e comércio com o Ocidente",
+  "subtema": "Japão – período Edo e comércio com o Ocidente (Dejima)",
   "formato": "escolha-multipla",
-  "enunciado": "A ilha artificial de Dejima, em Nagasaki, foi construída na década de 1630 para alojar mercadores de que nacionalidade?",
+  "enunciado": "A ilha artificial de Dejima, em Nagasaki, foi construída na década de 1630 para confinar mercadores de que nacionalidade?",
   "opcoes": [
     "Ingleses",
     "Portugueses",
@@ -12,8 +12,8 @@
     "Chineses"
   ],
   "correta": 1,
-  "explicacao": "O xogunato começou a construir Dejima em 1634 para lá confinar os portugueses de Nagasaki e travar a difusão do cristianismo. Em 1639 os portugueses foram proibidos de vir ao Japão e, em 1641, a feitoria neerlandesa de Hirado mudou-se para a ilha, onde ficou mais de dois séculos.",
-  "dificuldade_estimada": 4,
+  "explicacao": "Portugueses. O xogunato começou a construir Dejima em 1634 para os confinar e travar o cristianismo. Em 1639 foram proibidos de vir ao Japão e, em 1641, a feitoria neerlandesa de Hirado mudou-se para a ilha, onde ficou mais de dois séculos.",
+  "dificuldade_estimada": 3,
   "fontes": [
     {
       "url": "https://nagasakidejima.jp/history/",
@@ -52,12 +52,22 @@
       "data": "2026-11-04",
       "notas": "Governo Metropolitano de Tóquio: construída (1634-1636) para confinar os portugueses; neerlandeses só a partir de 1641, vindos de Hirado. Chineses tinham bairro próprio (Tojin yashiki); ingleses deixaram Hirado em 1623. O verificador assinalou a armadilha previsível (Dejima associada aos neerlandeses), mas declarou que a resposta não é ambígua."
     },
-    "advogado": null,
-    "editor": null
+    "advogado": {
+      "aprovado": true,
+      "notas": "Cronologia oficial confirmada (1634 início, 1636 conclusão e portugueses instalados, 1639 proibição, 1641 neerlandeses, 1859 fecho). Chineses no Tōjin yashiki (1689); ingleses saíram de Hirado em 1623. Financiada por mercadores de Nagasaki — não muda a resposta.",
+      "data": "2026-11-04"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Editor: 'alojar'→'confinar' (fontes: 'confine'); explicação começa pela resposta; dificuldade 4→3 (público português). Originalidade: sem quiz igual. O orquestrador manteve 'nacionalidade' em vez do 'país' proposto, para concordar com as opções (gentílicos no plural).",
+      "data": "2026-11-04"
+    }
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-04-historia",
   "criada_em": "2026-11-04",
@@ -73,6 +83,24 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte lg.jp"
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: Portugueses; depois: Portugueses"
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "aprovada",
+      "agente": "validar.py",
+      "nota": "validação automática sem erros"
     }
   ]
 }

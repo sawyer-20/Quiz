@@ -41,11 +41,31 @@
       "excerto": "O Sinédrio foi uma associação secreta criada com o objectivo de preparar uma revolução. Criada [...] no Porto a 22 de Janeiro de 1818. O seu nome deriva de uma organização homónima — o Supremo Tribunal judaico.",
       "consultada_em": "2026-11-04",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.scielo.br/j/alm/a/5mksnSwmF4zCBZt5w6t9H4z/?lang=en",
+      "dominio": "scielo.br",
+      "titulo": "A Revolução Liberal de 1820: guião de uma revolução inacabada (Almanack, SciELO)",
+      "nivel": 1,
+      "excerto": "The success of the military pronouncement was due to careful preparation by the judges and businessmen who made up the Sanhedrin (Sinédrio), a political association created in January 1818. [...] Manuel Fernandes Tomás [...] was the main mentor",
+      "consultada_em": "2026-11-04",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
-    "advogado": null,
+    "verificador": {
+      "resposta_texto": "Sinédrio",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "scielo.br",
+      "data": "2026-11-04",
+      "notas": "Artigo científico: pronunciamento de 24/8/1820 preparado pelo Sinédrio, criado em janeiro de 1818 no Porto (Fernandes Tomás). Exclusão dos distratores por contexto, não confirmada em fonte aberta: Supremo Conselho Regenerador (Gomes Freire, Lisboa 1817), Carbonária (posterior), GOL (obediência maçónica nacional de c. 1802, Lisboa)."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "Distratores confirmados em fontes lidas: Supremo Conselho Regenerador (Lisboa, Gomes Freire, 1817), GOL (Lisboa 1802; SciELO: pronunciamento não foi obra maçónica), Carbonária (Portugal só a partir de 1822). Datas coincidem. \"Preparou\" correto (SciELO). Explicação suportada: nome da assembleia judaica (SciELO), reação a Gomes Freire e apoio militar (DN, SciELO), fundadores (SciELO, BNP). Frase do DN sobre \"sem participação dos membros\" não encontrada no texto. Sugestão: João Ferreira Viana como 4.º fundador.",
+      "data": "2026-11-04"
+    },
     "editor": null
   },
   "sensivel_ao_tempo": false,
@@ -60,6 +80,18 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Dificuldade talvez 4 (aparece no programa escolar). DN 24/08/2020 diz golpe 'inspirado pelo Sinédrio, ainda que sem a participação dos seus membros' — daí 'preparou'. Data exata e lista de fundadores variam. Origem do nome só na Wikipédia. Dados dos distratores (Supremo Conselho Regenerador = conspiração de Gomes Freire 1817; GOL anterior a 1818; Carbonária posterior) vêm da memória do pesquisador, não confirmados. Vários membros eram maçons: confirmar que o GOL não é defensável."
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte scielo.br"
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ]
 }

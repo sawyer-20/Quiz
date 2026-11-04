@@ -4,15 +4,15 @@
   "tema": "historia",
   "subtema": "Roma antiga (Império) – economia e arqueologia",
   "formato": "escolha-multipla",
-  "enunciado": "O Monte Testaccio, em Roma, é uma colina artificial formada quase só por que material?",
+  "enunciado": "O Monte Testaccio, em Roma, é uma colina artificial. De que é feita quase por inteiro?",
   "opcoes": [
     "Escória de fornos de fundição",
     "Cacos de ânforas de vinho",
     "Cacos de ânforas de azeite",
-    "Entulho do grande incêndio de 64 d.C."
+    "Entulho do incêndio de 64 d.C."
   ],
   "correta": 2,
-  "explicacao": "A colina formou-se na época imperial com ânforas de azeite deitadas fora, na sua grande maioria vindas da Bética, no sul da Hispânia. Os romanos cobriam os cacos com cal para disfarçar o cheiro do azeite rançoso.",
+  "explicacao": "De cacos de ânforas de azeite deitadas fora na época imperial, na grande maioria vindas da Bética, no sul da Hispânia. Ao que parece, os romanos espalhavam cal sobre os cacos para disfarçar o cheiro do azeite rançoso.",
   "dificuldade_estimada": 4,
   "fontes": [
     {
@@ -41,16 +41,42 @@
       "excerto": "an artificial mound in Rome composed almost entirely of testae (Italian: cocci), fragments of broken ancient Roman pottery, nearly all discarded amphorae... containing the remains of an estimated 53 million amphorae.",
       "consultada_em": "2026-11-04",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.ub.edu/ceipac_ub/?p=7",
+      "dominio": "ub.edu",
+      "titulo": "Presentación – CEIPAC (Universitat de Barcelona)",
+      "nivel": 1,
+      "excerto": "Con excavaciones anuales ininterrumpidas desde 1989, el material obtenido en el Monte Testaccio representa la mayor fuente de información para el estudio de la producción y consumo del aceite de oliva bético en la capital del Imperio.",
+      "consultada_em": "2026-11-04",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
-    "advogado": null,
-    "editor": null
+    "verificador": {
+      "resposta_texto": "Cacos de ânforas de azeite",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "ub.edu",
+      "data": "2026-11-04",
+      "notas": "Reverificação: CEIPAC (U. Barcelona, nível 1) — depósito de ânforas de azeite bético e tripolitano; ostia-antica.org: ânforas Dressel 20 de azeite. Vinho, escória e entulho excluídos."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "2.ª passagem: quase só coincide com as fontes; ânforas de vinho eram recicladas (não há ambiguidade); época imperial confirmada; cal confirmada por Archaeology Magazine e Wikipédia.",
+      "data": "2026-11-04"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado e opção do incêndio encurtados; cal com 'ao que parece'. ORIGINALIDADE VERIFICADA SÓ EM PARTE: a 2.ª pesquisa (em sites de quiz) falhou por limite de utilização; repetir antes de publicar.",
+      "data": "2026-11-04"
+    }
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-04-historia",
   "criada_em": "2026-11-04",
@@ -72,6 +98,30 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "Corrigível: saem 53 milhões (Archaeology Magazine dá ~25 milhões) e 35 m (fonte dá ~46 m); datação passa a 'época imperial'. Cal confirmada por Archaeology Magazine e Wikipédia. Ciclo 1/1."
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte ub.edu"
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: Cacos de ânforas de azeite; depois: Cacos de ânforas de azeite"
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "aprovada",
+      "agente": "validar.py",
+      "nota": "validação automática sem erros"
     }
   ]
 }

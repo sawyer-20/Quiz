@@ -32,11 +32,31 @@
       "excerto": "the divergence between the calendars had reached eleven days. Section I of the act corrects this divergence by providing that Wednesday, 2 September 1752 be followed by Thursday, 14 September 1752.",
       "consultada_em": "2026-11-04",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.legislation.gov.uk/apgb/Geo2/24/23",
+      "dominio": "legislation.gov.uk",
+      "titulo": "Calendar (New Style) Act 1750 (legislation.gov.uk)",
+      "nivel": 1,
+      "excerto": "the natural day next immediately following the said second day of September shall be called, reckoned, and accounted to be the fourteenth day of September, omitting for that time only the eleven intermediate nominal days of the common calendar",
+      "consultada_em": "2026-11-04",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
-    "advogado": null,
+    "verificador": {
+      "resposta_texto": "14 de setembro",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "legislation.gov.uk",
+      "data": "2026-11-04",
+      "notas": "Reverificação: lei (nível 1) — 2 de setembro seguido de 14, 11 dias omitidos; EBSCO Research Starters confirma."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "2.ª passagem: lei (legislation.gov.uk), RMG e Wikipédia coincidem (2→14 de setembro, 11 dias). Correção sobre a Escócia certa. Explicação com 343 caracteres: fica para o editor.",
+      "data": "2026-11-04"
+    },
     "editor": null
   },
   "sensivel_ao_tempo": false,
@@ -63,6 +83,18 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "Corrigível: Ano Novo não mudou na Escócia (já em 1600); sai 'maior parte da Europa Ocidental' (sem fonte). Ciclo 1/1."
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte legislation.gov.uk"
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ]
 }

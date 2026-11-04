@@ -32,17 +32,33 @@
       "excerto": "Em 24 de junho, os soviéticos interromperam todas as comunicações rodoviárias... também foram paralisados todos os serviços ferroviários e o tráfego de barcaças... em abril, o transporte aéreo estava entregando um volume carga superior ao que era anteriormente transportado de trem para a cidade.",
       "consultada_em": "2026-11-04",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.alliiertenmuseum.de/en/thema/the-berlin-airlift-1948-49/",
+      "dominio": "alliiertenmuseum.de",
+      "titulo": "The Berlin Airlift 1948/49 - AlliiertenMuseum",
+      "nivel": 1,
+      "excerto": "the Soviets also successively blocked all routes by land, rail, and water between West Berlin and the three Western zones. Only the air corridors ... were unaffected. For that reason the three Western powers began an Airlift to Berlin to supply the city",
+      "consultada_em": "2026-11-04",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Por via aérea",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "alliiertenmuseum.de",
+      "data": "2026-11-04",
+      "notas": "Reverificação: AlliiertenMuseum (nível 1) e History.com (nível 2) — só corredores aéreos livres; estrada, ferrovia e água bloqueadas."
+    },
     "advogado": null,
     "editor": null
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
-  "motivo_rejeicao": null,
+  "estado": "rejeitada",
+  "motivo_rejeicao": "segundo ciclo de correção: na 2.ª passagem o advogado encontrou novo problema corrigível — a explicação ('ponte aérea que abasteceu a cidade até ao fim do bloqueio, em maio de 1949') sugere que a ponte aérea acabou em maio, mas continuou até 30 set. (EUA) / 6 out. 1949 (RAF), segundo o AlliiertenMuseum. A frase tinha sido escrita pelo orquestrador na 1.ª correção. Regra: um só ciclo por pergunta.",
   "lote": "lote-2026-11-04-historia",
   "criada_em": "2026-11-04",
   "historico": [
@@ -63,6 +79,18 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "Corrigível: 'principalmente' no enunciado; 'Aliados ocidentais'; saem os 45 s (fontes divergem: 62 s no museu) e a frase de abril de 1949 (só Wikipédia). O orquestrador não usou o recorde da Páscoa proposto (número de uma só fonte) e fechou a explicação com o fim do bloqueio (maio de 1949, Dep. de Estado e Wikipédia). Ciclo 1/1."
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte alliiertenmuseum.de"
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "rejeitada",
+      "agente": "advogado-do-diabo",
+      "nota": "segundo ciclo de correção: na 2.ª passagem o advogado encontrou novo problema corrigível — a explicação ('ponte aérea que abasteceu a cidade até ao fim do bloqueio, em maio de 1949') sugere que a ponte aérea acabou em maio, mas continuou até 30 set. (EUA) / 6 out. 1949 (RAF), segundo o AlliiertenMuseum. A frase tinha sido escrita pelo orquestrador na 1.ª correção. Regra: um só ciclo por pergunta."
     }
   ]
 }

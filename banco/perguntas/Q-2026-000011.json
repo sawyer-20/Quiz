@@ -2,9 +2,9 @@
   "id": "Q-2026-000011",
   "lingua": "pt-PT",
   "tema": "historia",
-  "subtema": "Américas — civilizações pré-colombianas (astecas, maias, incas)",
+  "subtema": "Américas — civilizações pré-colombianas (astecas): economia e comércio",
   "formato": "escolha-multipla",
-  "enunciado": "Nos mercados astecas, que sementes circulavam como moeda nas trocas e nos tributos?",
+  "enunciado": "Nos mercados de Tenochtitlán fiscalizava-se a autenticidade de umas sementes, falsificadas com cera ou barro. Quais?",
   "opcoes": [
     "Sementes de cacau",
     "Sementes de abóbora",
@@ -12,14 +12,14 @@
     "Grãos de feijão"
   ],
   "correta": 0,
-  "explicacao": "O cacau tinha de ser importado de longe e era um luxo. Valia tanto que as sementes serviam de moeda nos mercados e nos tributos. Havia até contrafação: faziam-se sementes falsas de cera, barro, massa ou caroço de abacate, e as autoridades de Tenochtitlán fiscalizavam a sua autenticidade.",
+  "explicacao": "Sementes de cacau. Importado de longe e bem de luxo, o cacau valia tanto que servia de moeda nos mercados e nos tributos. Por isso era falsificado com cera, barro, massa ou até caroço de abacate, e as autoridades de Tenochtitlán tinham de verificar a sua autenticidade.",
   "dificuldade_estimada": 3,
   "fontes": [
     {
       "url": "https://www.ie.edu/insights/articles/cervantes-and-cacao-a-bittersweet-legacy/",
       "dominio": "ie.edu",
       "titulo": "Cervantes and Cacao: A Bittersweet Legacy | IE Insights (IE University)",
-      "nivel": 1,
+      "nivel": 2,
       "excerto": "In pre-Columbian Mesoamerica, cacao beans functioned as a form of currency, circulating widely in marketplaces and tribute systems alike. [...] dishonest vendors crafted fake beans from wax, clay, dough, or even avocado pits",
       "consultada_em": "2026-11-04",
       "papel": "pesquisador"
@@ -32,26 +32,10 @@
       "excerto": "An Aztec installation uses chocolate to teach visitors about the Aztec market economy. For these ancient people, chocolate was a luxury item, because it had to be imported from considerable distances. It was so valuable, in fact, that cacao beans were used as currency.",
       "consultada_em": "2026-11-04",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://exhibits.library.cornell.edu/chocolate-food-of-the-gods/feature/when-money-grew-on-trees",
-      "dominio": "cornell.edu",
-      "titulo": "When Money Grew on Trees | CHOCOLATE - Cornell University Library",
-      "nivel": 1,
-      "excerto": "This facsimile from the Codex Mendoza (c. 1541) shows tribute that the Aztecs extracted twice a year from the cacao-growing region of Soconusco... two loads of cacao beans, which were used as currency as well as the drink of the elite.",
-      "consultada_em": "2026-11-04",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Sementes de cacau",
-      "concorda": true,
-      "confianca": "alta",
-      "dominio": "cornell.edu",
-      "data": "2026-11-04",
-      "notas": "Cornell (nível 1): grãos de cacau como moeda e como tributo (Códice Mendoza, Soconusco). Smithsonian e Wikipédia confirmam. Abóbora, feijão e milho não aparecem como moeda nas fontes."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -73,6 +57,24 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte cornell.edu"
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "fonte reclassificada",
+      "agente": "orquestrador",
+      "nota": "IE Insights passa de nível 1 a nível 2, por indicação do advogado do diabo."
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "reformulada",
+      "agente": "editor",
+      "nota": "Alteração factual do editor: a pergunta 'que sementes serviam de moeda' é comum em quizzes (quizzclub e outros); novo ângulo pergunta pela fiscalização/contrafação (facto só numa fonte, IE Insights, nível 2). Volta ao verificador às cegas."
     }
   ]
 }

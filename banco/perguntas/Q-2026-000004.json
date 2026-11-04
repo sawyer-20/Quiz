@@ -52,13 +52,17 @@
       "data": "2026-11-04",
       "notas": "Reverificação após reformulação: ARCE cita o decreto 'in sacred (hieroglyphic), native (Demotic), and Greek characters'; Ptolemeu V, 196 a.C. Latim, cuneiforme e aramaico excluídos."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "2.ª passagem: nenhum distrator defensável; datas (196 a.C., 1822) consensuais; explicação sem afirmações sem fonte. Nota menor: versões não idênticas palavra a palavra, mas ARCE usa \"the same text\".",
+      "data": "2026-11-04"
+    },
     "editor": null
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
-  "motivo_rejeicao": null,
+  "estado": "rejeitada",
+  "motivo_rejeicao": "copiada: o enunciado verificado ('hieróglifos, demótico e que outra escrita?') aparece quase igual em vários quizzes (ProProfs, FunTrivia, ThatQuiz, Wayground, Bibliotheca Alexandrina). A reformulação do editor ('qual das três versões abriu caminho aos hieróglifos?') muda o que se pergunta e fica incoerente com as opções (três delas não são versões da pedra). Ciclo de correção já usado; rejeitada pelo orquestrador.",
   "lote": "lote-2026-11-04-historia",
   "criada_em": "2026-11-04",
   "historico": [
@@ -85,6 +89,18 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte arce.org"
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-04",
+      "evento": "rejeitada",
+      "agente": "editor",
+      "nota": "copiada: o enunciado verificado ('hieróglifos, demótico e que outra escrita?') aparece quase igual em vários quizzes (ProProfs, FunTrivia, ThatQuiz, Wayground, Bibliotheca Alexandrina). A reformulação do editor ('qual das três versões abriu caminho aos hieróglifos?') muda o que se pergunta e fica incoerente com as opções (três delas não são versões da pedra). Ciclo de correção já usado; rejeitada pelo orquestrador."
     }
   ]
 }
