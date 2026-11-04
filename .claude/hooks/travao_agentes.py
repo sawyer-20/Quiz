@@ -9,6 +9,7 @@ A sessão principal (sem agent_type) e os outros agentes não são afetados.
 """
 
 import json
+import os
 import re
 import shlex
 import sys
@@ -71,10 +72,19 @@ def comando_valido(cmd):
     return url_visto
 
 
+def lote_ativo(d):
+    """Enquanto existir .claude/hooks/LOTE_ATIVO, qualquer subagente genérico também é
+    protegido: serve para quando os agentes do motor não estão registados na sessão e o
+    orquestrador lança os papéis como general-purpose."""
+    base = os.environ.get("CLAUDE_PROJECT_DIR") or d.get("cwd") or "."
+    return os.path.exists(os.path.join(base, ".claude", "hooks", "LOTE_ATIVO"))
+
+
 def main():
     d = json.load(sys.stdin)
     agente = d.get("agent_type")
-    if agente not in PROTEGIDOS:
+    protegido = agente in PROTEGIDOS or (agente == "general-purpose" and lote_ativo(d))
+    if not protegido:
         sys.exit(0)
     ferramenta = d.get("tool_name", "")
     if ferramenta in FERRAMENTAS_LIVRES:
