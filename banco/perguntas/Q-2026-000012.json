@@ -67,7 +67,7 @@
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-04-historia",
   "criada_em": "2026-11-04",
@@ -107,6 +107,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "migração v1.0→v1.1: aprovada no fluxo da v1.0; revalidada pelo validar.py da v1.1"
+    },
+    {
+      "data": "2026-11-05",
+      "evento": "devolvida a em_verificacao",
+      "agente": "orquestrador",
+      "nota": "Ordem do Andre: a migração v1.0→v1.1 é desfeita; a pergunta volta à linha (originalidade e verificador às cegas sobre o texto atual; advogado e editor só se algo mudar)."
     }
   ]
 }

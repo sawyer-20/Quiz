@@ -61,11 +61,7 @@
       "data": "2026-11-05",
       "notas": "Repositório da Universidade de Barcelona (projeto Testaccio, Remesal): monte artificial de restos de milhões de ânforas, ~85% béticas de azeite (Dressel 20); Mercati di Traiano confirma. Vinho, entulho e escória excluídos."
     },
-    "advogado": {
-      "aprovado": true,
-      "data": "2026-11-05",
-      "notas": "Único problema apontado (corrigível, só fontes): a Wikipédia sai, porque a original (Blázquez, Greece & Rome 1992, nível 1) está acessível e já citada. Texto inalterado; cal e motivo suportados sem reservas (Archaeology Magazine; Turismo Roma para a cal e a decomposição do azeite). Sem segunda resposta defensável. Aprovação registada pelo orquestrador depois de aplicar essa remoção, sem nova passagem do advogado (decisão a confirmar pelo Andre)."
-    },
+    "advogado": null,
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
@@ -76,7 +72,7 @@
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-04-historia",
   "criada_em": "2026-11-04",
@@ -164,6 +160,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-05",
+      "evento": "devolvida a em_verificacao",
+      "agente": "orquestrador",
+      "nota": "Ordem do Andre: o veredicto do advogado registado a 2026-11-05 foi escrito pelo orquestrador depois de aplicar a remoção da Wikipédia, sem nova passagem do advogado (viola a regra 13). Retirado de 'verificacao'; o advogado volta a correr sobre a versão atual."
     }
   ]
 }
