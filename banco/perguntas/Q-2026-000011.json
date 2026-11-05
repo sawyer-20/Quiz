@@ -12,7 +12,7 @@
     "Grãos de feijão"
   ],
   "correta": 0,
-  "explicacao": "O cacau tinha de ser importado de longe e era um luxo. Valia tanto que as sementes serviam de moeda nos mercados e nos tributos. Havia até contrafação: faziam-se sementes falsas de cera, barro, massa ou caroço de abacate, e as autoridades de Tenochtitlán fiscalizavam a sua autenticidade.",
+  "explicacao": "O cacau tinha de ser importado de longe e era um luxo. Era tão valioso que as sementes serviam de moeda nos mercados e eram cobradas como tributo. Havia até falsificadores, que faziam passar sementes falsas por verdadeiras.",
   "dificuldade_estimada": 3,
   "fontes": [
     {
@@ -34,24 +34,17 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://exhibits.library.cornell.edu/chocolate-food-of-the-gods/feature/when-money-grew-on-trees",
-      "dominio": "cornell.edu",
-      "titulo": "When Money Grew on Trees | CHOCOLATE - Cornell University Library",
-      "nivel": 1,
-      "excerto": "This facsimile from the Codex Mendoza (c. 1541) shows tribute that the Aztecs extracted twice a year from the cacao-growing region of Soconusco... two loads of cacao beans, which were used as currency as well as the drink of the elite.",
-      "consultada_em": "2026-11-04",
-      "papel": "verificador"
+      "url": "https://www.worldhistory.org/Chocolate_in_Mesoamerica/",
+      "titulo": "Chocolate in Mesoamerica - World History Encyclopedia",
+      "nivel": 2,
+      "excerto": "cacao beans were so valuable that they were even counterfeited either to pass as currency or, even more fiendishly, hollowed out of their valuable interior and refilled with a substitute such as sand.",
+      "dominio": "worldhistory.org",
+      "consultada_em": "2026-11-05",
+      "papel": "advogado"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Sementes de cacau",
-      "concorda": true,
-      "confianca": "alta",
-      "dominio": "cornell.edu",
-      "data": "2026-11-04",
-      "notas": "Cornell (nível 1): grãos de cacau como moeda e como tributo (Códice Mendoza, Soconusco). Smithsonian e Wikipédia confirmam. Abóbora, feijão e milho não aparecem como moeda nas fontes."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -109,6 +102,12 @@
       "evento": "originalidade: classico",
       "agente": "originalidade",
       "nota": "Facto frequente em quizzes (Quizalize, QuizzClub, FunTrivia, ProProfs, Brainscape), mas com enunciados genéricos ('What did the Aztecs use for currency?') ou invertidos; o nosso texto é claramente diferente. Etiqueta 'classico' (dificuldade 3; 1 clássico em 7 perguntas não rejeitadas do lote)."
+    },
+    {
+      "data": "2026-11-05",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "Corrigível (ciclo 1/1): saem da explicação os materiais da contrafação e Tenochtitlán (só IE Insights); contrafação em termos genéricos (WHE, México Desconocido, IE). Enunciado e opções iguais. Volta ao verificador às cegas."
     }
   ],
   "etiquetas": [

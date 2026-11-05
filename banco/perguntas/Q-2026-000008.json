@@ -50,10 +50,26 @@
       "excerto": "I frammenti venivano accatastati con la massima economia di spazio, utilizzando la calce per eliminare gli inconvenienti causati dalla decomposizione dell'olio.",
       "consultada_em": "2026-11-04",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://hdl.handle.net/2445/147000",
+      "titulo": "Rebuild broken amphoras in the Testaccio (II) — Dipòsit Digital, Universitat de Barcelona (Ruiz, Pérez González, Prignano, Morer, Aguilera, Remesal, 2018)",
+      "nivel": 1,
+      "excerto": "The Testaccio is an artificial hill formed int the Sub-Aventine plain, almost on kilometer in perimeter and almost 50 meters high, formed by the remains of millions of amphoras. About 85% came from the Baetica (Andalucia) containing olive oil in the known as Dressel 20 type.",
+      "dominio": "handle.net",
+      "consultada_em": "2026-11-05",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Cacos de ânforas de azeite",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "handle.net",
+      "data": "2026-11-05",
+      "notas": "Repositório da Universidade de Barcelona (projeto Testaccio, Remesal): monte artificial de restos de milhões de ânforas, ~85% béticas de azeite (Dressel 20); Mercati di Traiano confirma. Vinho, entulho e escória excluídos."
+    },
     "advogado": null,
     "editor": null
   },
@@ -123,6 +139,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "8 pesquisas em pt e en (enunciado, frase-chave, sites de quiz): nenhuma pergunta de quiz sobre a composição do Monte Testaccio. Pesquisas completas."
+    },
+    {
+      "data": "2026-11-05",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte handle.net (nível 1)"
     }
   ]
 }
