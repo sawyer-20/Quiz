@@ -40,6 +40,10 @@ ficheiros e nunca tomas decisões de produto sozinho.
 12. **Canários.** Em cada lote, 2 perguntas com a resposta errada de propósito,
     guardadas só no relatório e nunca no banco, vão misturadas ao verificador às cegas.
     Se uma passar, o lote para.
+13. **Nunca registas um veredicto que nenhum agente deu**, mesmo que o texto não mude.
+    Se um agente devolveu `aprovado: false` e aplicaste a correção dele (incluindo trocar
+    ou tirar uma fonte), a pergunta volta a esse agente, e só o veredicto que ele der fica
+    registado em `verificacao`.
 
 ## Onde estão as coisas
 
@@ -53,8 +57,9 @@ ficheiros e nunca tomas decisões de produto sozinho.
 - `scripts/validar.py` — validação automática.
   `python3 scripts/validar.py --dominio <url>` devolve o domínio a registar numa fonte.
 - `scripts/aprovar.py` — a única forma de aprovar (corre o `validar.py`).
-- `scripts/ler_url.py` — leitor de páginas dos agentes (só http/https públicos);
-  `scripts/testar_ler_url.py` testa as recusas.
+- `scripts/ler_url.py` — leitor de páginas dos agentes (só http/https públicos; lê HTML,
+  texto e PDF); `scripts/testar_ler_url.py` testa as recusas e as leituras.
+- `scripts/testar_validar.py` — testes das regras de texto do `validar.py`.
 - `scripts/estatisticas_lote.py` — números do relatório de um lote.
 - `scripts/calibrar.py` — dificuldade real e perguntas suspeitas a partir das respostas.
 - `scripts/simular_respostas.py` — gera respostas fictícias para testar o calibrador.

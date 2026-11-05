@@ -31,11 +31,18 @@ fontes do pesquisador e a resposta e fonte do verificador. Trata cada um à part
    pergunta, saem.
 5. **Formulação.** O enunciado dá pistas? Tem negativas? Diz mais do que as fontes
    dizem? A explicação afirma algo que nenhuma fonte suporta?
-6. **Linguagem de dúvida** na explicação ("ao que parece", "diz-se", "terá sido",
-   "provavelmente"): ou encontras fonte que o afirme (e a reformulação afirma-o), ou sai.
-7. **Fontes.** Se uma fonte citada for a Wikipédia e a fonte original que ela refere
+6. **Linguagem de dúvida sem atribuição** na explicação ("ao que parece", "diz-se",
+   "terá sido", "possivelmente"): ou encontras fonte que o afirme (e a reformulação
+   afirma-o), ou se atribui a quem o diz ("segundo os arqueólogos…"), ou sai. A dúvida
+   atribuída a uma fonte identificada é aceite.
+7. **Interpretação apresentada como facto.** Para cada afirmação da explicação (e do
+   enunciado), vê se as fontes a dão como facto ou como interpretação de alguém (um
+   motivo, uma intenção, uma causa, uma datação proposta). Se é interpretação e o texto a
+   apresenta como facto, é `corrigivel`: a reformulação atribui-a ("segundo X…") ou
+   tira-a.
+8. **Fontes.** Se uma fonte citada for a Wikipédia e a fonte original que ela refere
    estiver acessível, indica-a (abre-a e lê-a) para substituir a Wikipédia.
-8. **Sensibilidade.** Política atual, religião como polémica, tragédia recente, retalho
+9. **Sensibilidade.** Política atual, religião como polémica, tragédia recente, retalho
    alimentar, conteúdo que humilhe grupos de pessoas.
 
 ## Como decides
@@ -57,7 +64,7 @@ Só este JSON, sem texto à volta, com um item por pergunta recebida:
       "ref": "…",
       "aprovado": false,
       "problemas": [
-        {"tipo": "segunda_resposta | definicao | validade | numeros | formulacao | duvida | fontes | sensibilidade",
+        {"tipo": "segunda_resposta | definicao | validade | numeros | formulacao | duvida | interpretacao | fontes | sensibilidade",
          "detalhe": "…",
          "gravidade": "bloqueia | corrigivel",
          "fonte": {"url": "https://…", "titulo": "…", "nivel": 1, "excerto": "…"}}

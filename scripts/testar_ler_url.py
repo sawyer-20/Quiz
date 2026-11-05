@@ -95,6 +95,29 @@ def main():
         falhas += not ok
         print(f"{'OK ' if ok else 'FALHA'} leitura pública (Wikipédia) -> código {r.returncode}")
 
+        # Caso do lote 1: a biografia de Bartolomeu Dias no SAHO nomeia Axelson e Duarte
+        # Pacheco Pereira; o leitor não pode perder esse conteúdo (corte ou extração).
+        saho = "https://sahistory.org.za/people/bartolomeu-dias"
+        for termo in ("Axelson", "Pacheco Pereira"):
+            r = subprocess.run([sys.executable, str(RAIZ / "scripts" / "ler_url.py"), saho, "--procurar", termo],
+                               capture_output=True, text=True, timeout=60)
+            ok = r.returncode == 0 and "excerto 1" in r.stdout and termo.lower() in r.stdout.lower()
+            falhas += not ok
+            print(f"{'OK ' if ok else 'FALHA'} SAHO contém '{termo}' -> código {r.returncode}")
+        r = subprocess.run([sys.executable, str(RAIZ / "scripts" / "ler_url.py"), saho],
+                           capture_output=True, text=True, timeout=60)
+        ok = r.returncode == 0 and ("ATENÇÃO: mostra os caracteres" in r.stdout or "[… texto continua" not in r.stdout)
+        falhas += not ok
+        print(f"{'OK ' if ok else 'FALHA'} texto longo traz o aviso de corte no topo")
+
+        # PDF: o leitor extrai o texto (pdftotext).
+        pdf = "https://ntrs.nasa.gov/api/citations/19790012783/downloads/19790012783.pdf"
+        r = subprocess.run([sys.executable, str(RAIZ / "scripts" / "ler_url.py"), pdf, "--procurar", "Axial Rotation"],
+                           capture_output=True, text=True, timeout=120)
+        ok = r.returncode == 0 and "243.1" in r.stdout
+        falhas += not ok
+        print(f"{'OK ' if ok else 'FALHA'} leitura de PDF (NASA NTRS) -> código {r.returncode}")
+
     print(f"\n{falhas} falha(s).")
     return 1 if falhas else 0
 

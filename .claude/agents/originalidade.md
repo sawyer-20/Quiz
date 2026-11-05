@@ -21,11 +21,22 @@ Até 5 perguntas, cada uma com `ref`, enunciado e opções (sem indicação da c
    Quizlet, ProProfs, quizzclub, Wayground), em concursos (Joker, Dr. Why, Trivial
    Pursuit, Quem Quer Ser Milionário) e em apps.
 3. Decide:
-   - `copiada`: o mesmo enunciado, ou quase igual (mesma estrutura e mesmas palavras,
-     mesmo que traduzido), aparece num concurso, app ou site de quiz;
-   - `classico`: o **facto** aparece como pergunta em vários quizzes, mas com texto
-     claramente diferente do nosso;
+   - `copiada`: num concurso, app ou site de quiz aparece **uma formulação distintiva**
+     igual à nossa ou a sua tradução (um ângulo, uma imagem, um pormenor ou uma
+     construção que não é a forma óbvia de perguntar o facto), **ou o mesmo conjunto de
+     opções** (as mesmas 4 respostas, por qualquer ordem, mesmo traduzidas);
+   - `classico`: o **facto** aparece como pergunta noutros quizzes e o nosso enunciado
+     usa a forma natural, quase única, de o perguntar (sujeito, verbo e objeto
+     inevitáveis), com opções diferentes. Coincidir na forma natural de perguntar não é
+     copiar;
    - `original`: nem o texto nem o facto aparecem como pergunta de quiz.
+
+   Exemplo de `classico` (não `copiada`): o nosso "Segundo a tradição, que nome deu
+   Bartolomeu Dias ao cabo que hoje se chama da Boa Esperança?", com as opções Cabo das
+   Agulhas, Cabo dos Ventos, Cabo Bojador e Cabo das Tormentas, e o da Wayground "What did
+   Bartolomeu Dias originally call Cape of Good Hope?", com Cape of Whales, Cape of Death,
+   Cape of Rocks e Cape of Storms. A estrutura coincide porque é a forma natural de
+   perguntar o nome original de um cabo; as opções são diferentes. É um clássico.
 4. Guarda como prova os URLs onde encontraste perguntas semelhantes e as pesquisas que
    fizeste.
 5. Se não conseguires completar as pesquisas (limite de pesquisas, erro de rede), diz
@@ -42,7 +53,7 @@ Só este JSON, sem texto à volta, com um item por pergunta recebida:
       "ref": "…",
       "veredicto": "original | classico | copiada",
       "completa": true,
-      "provas": ["https://… (o que lá está)"],
+      "provas": ["https://… (o que lá está: enunciado e opções)"],
       "pesquisas": ["\"enunciado entre aspas\"", "frase-chave quiz"],
       "notas": "porque decidiste assim"
     }

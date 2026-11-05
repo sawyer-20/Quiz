@@ -16,8 +16,10 @@ automática.
   rejeitada com motivo `reescrever`.
 - O verificador, o advogado e o editor trabalham em blocos de até 5 perguntas; o
   pesquisador pode tirar até 3 factos da mesma página.
-- O orquestrador nunca escreve texto factual e só o `aprovar.py` aprova.
-- Wikipédia só para pistas; datas e números com duas fontes; sem linguagem de dúvida.
+- O orquestrador nunca escreve texto factual, nunca regista um veredicto que nenhum
+  agente deu, e só o `aprovar.py` aprova.
+- Wikipédia só para pistas; datas e números com duas fontes; sem linguagem de dúvida sem
+  atribuição; interpretações só como facto se as fontes as derem como facto.
 - 2 canários por lote (perguntas com a resposta errada de propósito) para testar o
   verificador às cegas.
 - Os agentes leem páginas com `scripts/ler_url.py` (só http/https públicos) e um hook
@@ -77,7 +79,8 @@ WebFetch não tem rede. O hook `.claude/hooks/travao_agentes.py` recusa a estes 
 qualquer outro comando e qualquer ferramenta de ficheiros, por isso o verificador às
 cegas e o auditor continuam sem conseguir espreitar a resposta no banco. O leitor só
 aceita http/https públicos: recusa `file://`, `localhost` e endereços de rede privada
-(`python3 scripts/testar_ler_url.py` testa-o). Só o orquestrador (a sessão principal)
+(`python3 scripts/testar_ler_url.py` testa-o). Lê HTML, texto e PDF (com o `pdftotext`,
+se estiver instalado) e avisa no topo quando o texto é cortado. Só o orquestrador (a sessão principal)
 escreve ficheiros, e nunca texto factual.
 
 Ideia a testar: correr o `verificador-cego` e o `auditor` com um modelo diferente do
@@ -93,6 +96,7 @@ python3 scripts/validar.py --dominio <url>      # domínio a registar numa fonte
 python3 scripts/aprovar.py Q-2026-000005        # a única forma de aprovar
 python3 scripts/estatisticas_lote.py <lote>     # números do relatório
 python3 scripts/testar_ler_url.py [--rede]      # testes do leitor de páginas
+python3 scripts/testar_validar.py               # testes das regras de texto
 
 python3 scripts/simular_respostas.py            # respostas fictícias para testar
 python3 scripts/calibrar.py banco/respostas/simulado.csv
@@ -102,7 +106,7 @@ O `validar.py` recusa, entre outras coisas: menos de 2 fontes ou de 2 domínios,
 quiz ou trivia como fonte, a Wikipédia contada duas vezes, um verificador que usou um
 domínio do pesquisador, opções repetidas, perguntas aprovadas sem as três aprovações,
 mudanças factuais do editor sem nova verificação, perguntas sensíveis ao tempo sem
-prazo, linguagem de dúvida na explicação, clássicos em dificuldade 4 ou 5 ou acima de 20%
+prazo, linguagem de dúvida sem atribuição na explicação, clássicos em dificuldade 4 ou 5 ou acima de 20%
 do lote e perguntas aprovadas sem o evento `aprovada por aprovar.py`.
 
 O `calibrar.py` calcula, por pergunta, a taxa de acerto, a dificuldade real (1 a 5), um

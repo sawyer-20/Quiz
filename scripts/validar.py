@@ -36,13 +36,30 @@ ETIQUETAS = {"classico"}
 QUOTA_CLASSICOS = 0.20
 EVENTO_APROVACAO = "aprovada por aprovar.py"
 
-# Linguagem de dúvida proibida na explicação (regras/fontes.md, regra 9): ou se
-# confirma com fonte e se afirma, ou sai.
+# Linguagem de dúvida na explicação (regras/fontes.md, regra 9). Recusa-se a dúvida
+# SEM atribuição ("ao que parece", "diz-se", "terá sido", "possivelmente"); aceita-se a
+# atribuída a alguém ("segundo os arqueólogos, terá sido…", "Barros afirma que…").
 RE_DUVIDA = re.compile(
     r"\b(ao que parece|parece que|diz-se|dizem que|diz a lenda|conta-se|contam que|"
     r"consta que|segundo consta|alegadamente|supostamente|presumivelmente|"
     r"provavelmente|possivelmente|talvez|terá sido|terão sido|terá|terão)\b",
     re.IGNORECASE)
+# Marcas de atribuição a uma fonte, autor ou grupo identificado.
+RE_ATRIBUICAO = re.compile(
+    r"\b(segundo (?!consta)|de acordo com|conforme|na opinião de|na versão de|para (o|a|os|as) "
+    r"(historiador|historiadora|historiadores|arqueólogo|arqueóloga|arqueólogos|cronista|autor|autora|autores|investigadores?)\b|"
+    r"(afirma|afirmam|afirmou|defende|defendem|defendeu|considera|consideram|sustenta|sustentam|"
+    r"acredita|acreditam|escreve|escreveu|regista|registou|atribui|atribuem|atribuiu|contesta|contestam|contestou)\b)",
+    re.IGNORECASE)
+
+
+def duvida_sem_atribuicao(texto: str):
+    """Devolve a primeira expressão de dúvida numa frase sem atribuição, ou None."""
+    for frase in re.split(r"(?<=[.;!?])\s+", texto or ""):
+        m = RE_DUVIDA.search(frase)
+        if m and not RE_ATRIBUICAO.search(frase):
+            return m.group(0)
+    return None
 
 # Domínios proibidos como fonte (regras/fontes.md). Qualquer domínio com "quiz" ou
 # "trivia" no nome também é recusado.
@@ -131,9 +148,9 @@ def validar_pergunta(p: dict) -> tuple[list[str], list[str]]:
     explicacao = p["explicacao"] if isinstance(p["explicacao"], str) else ""
     if not 10 <= len(explicacao) <= 300:
         erros.append(f"explicação com {len(explicacao)} caracteres (limite 10 a 300)")
-    duvida = RE_DUVIDA.search(explicacao)
+    duvida = duvida_sem_atribuicao(explicacao)
     if duvida:
-        erros.append(f"linguagem de dúvida na explicação ('{duvida.group(0)}'): confirmar com fonte e afirmar, ou retirar")
+        erros.append(f"linguagem de dúvida sem atribuição na explicação ('{duvida}'): atribuir a quem o diz, confirmar com fonte e afirmar, ou retirar")
 
     # Etiquetas (campo opcional)
     etiquetas = p.get("etiquetas", [])

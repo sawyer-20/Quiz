@@ -15,15 +15,21 @@ Uso:
 import argparse
 import ipaddress
 import re
+import shutil
+import signal
 import socket
+import subprocess
 import sys
+import tempfile
 import unicodedata
 import urllib.error
 import urllib.request
 from html.parser import HTMLParser
+from pathlib import Path
 from urllib.parse import urlparse
 
-LIMITE_BYTES = 5_000_000
+LIMITE_BYTES = 5_000_000      # HTML e texto
+LIMITE_PDF = 25_000_000       # PDF (só se aceita inteiro: cortado não se lê)
 JANELA = 12_000
 AGENTE = "Mozilla/5.0 (compatible; MotorDeFactos/1.0; verificacao de factos)"
 IGNORAR = {"script", "style", "noscript", "svg", "template"}
@@ -88,6 +94,27 @@ def ip_literal(host):
         return None
 
 
+def pdf_para_texto(dados):
+    """Texto de um PDF com o pdftotext (poppler), num ficheiro temporário, com limite de
+    tempo. None se não houver pdftotext ou se a extração falhar."""
+    if not shutil.which("pdftotext"):
+        return None
+    with tempfile.TemporaryDirectory() as d:
+        f = Path(d) / "doc.pdf"
+        f.write_bytes(dados)
+        try:
+            r = subprocess.run(["pdftotext", "-enc", "UTF-8", "-l", "60", str(f), "-"],
+                               capture_output=True, timeout=60)
+        except (subprocess.TimeoutExpired, OSError):
+            return None
+    if r.returncode != 0:
+        return None
+    texto = r.stdout.decode("utf-8", errors="replace")
+    linhas = [re.sub(r"[ \t\r\f\v]+", " ", l).strip() for l in texto.split("\n")]
+    texto = "\n".join(l for l in linhas if l)
+    return texto or None
+
+
 def motivo_recusa(url):
     """None se o URL pode ser lido; senão, o motivo da recusa."""
     try:
@@ -143,7 +170,7 @@ def main():
         abridor = urllib.request.build_opener(RedirecionamentoSeguro)
         with abridor.open(pedido, timeout=30) as r:
             final, tipo = r.geturl(), r.headers.get("Content-Type", "")
-            dados = r.read(LIMITE_BYTES + 1)
+            dados = r.read(LIMITE_PDF + 1)
             charset = r.headers.get_content_charset() or "utf-8"
     except urllib.error.HTTPError as e:
         print(f"ERRO HTTP {e.code} em {a.url} (o site recusou; tenta outra fonte)")
@@ -152,18 +179,31 @@ def main():
         print(f"ERRO de rede em {a.url}: {e}")
         return 1
 
-    if "pdf" in tipo.lower():
-        print(f"ERRO: {final} é um PDF; este leitor só lê HTML e texto. Procura a versão HTML.")
-        return 1
-    corpo = dados[:LIMITE_BYTES].decode(charset, errors="replace")
-    if "html" in tipo.lower() or corpo.lstrip()[:15].lower().startswith(("<!doctype", "<html")):
+    e_pdf = "pdf" in tipo.lower() or dados[:5] == b"%PDF-"
+    if not e_pdf and len(dados) > LIMITE_BYTES:
+        print(f"AVISO: documento com mais de {LIMITE_BYTES // 1_000_000} MB; só se lê o início.")
+    if e_pdf:
+        if len(dados) > LIMITE_PDF:
+            print(f"ERRO: {final} é um PDF com mais de {LIMITE_PDF // 1_000_000} MB; procura outra fonte.")
+            return 1
+        titulo, texto = "", pdf_para_texto(dados)
+        if texto is None:
+            print(f"ERRO: {final} é um PDF e não foi possível extrair o texto (pdftotext ausente, PDF protegido ou só com imagens).")
+            return 1
+    elif "html" in tipo.lower() or dados.lstrip()[:15].lower().startswith((b"<!doctype", b"<html")):
+        corpo = dados[:LIMITE_BYTES].decode(charset, errors="replace")
         p = Texto()
         p.feed(corpo)
         titulo, texto = p.titulo.strip(), p.texto()
     else:
-        titulo, texto = "", corpo
+        titulo, texto = "", dados[:LIMITE_BYTES].decode(charset, errors="replace")
 
-    print(f"URL: {final}\nTÍTULO: {titulo}\nCARACTERES: {len(texto)}\n")
+    print(f"URL: {final}\nTÍTULO: {titulo}\nCARACTERES: {len(texto)}")
+    if not a.procurar and len(texto) > JANELA:
+        fim = min(a.inicio + JANELA, len(texto))
+        print(f"ATENÇÃO: mostra os caracteres {a.inicio}–{fim} de {len(texto)}. O resto não aparece aqui: "
+              f"usa --procurar 'termo' (procura no texto todo) ou --inicio {fim}.")
+    print()
     if a.procurar:
         alvo, base = sem_acentos(a.procurar), sem_acentos(texto)
         posicoes, i = [], base.find(alvo)
@@ -184,4 +224,5 @@ def main():
 
 
 if __name__ == "__main__":
+    signal.signal(signal.SIGPIPE, signal.SIG_DFL)  # saída cortada (ex.: | head) sem erro
     sys.exit(main())

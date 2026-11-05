@@ -70,9 +70,11 @@ enunciados existentes.
 Invoca o agente `originalidade` com blocos de até 5 perguntas (`ref`, enunciado e
 opções; sem indicar a certa). Os canários não passam por aqui.
 
-- `copiada`: rejeita com motivo `copiada` e o alvo volta ao passo 1 (novo pedido ao
-  pesquisador, com outro facto ou outro texto).
-- `classico`: acrescenta `"classico"` a `etiquetas`. Se a dificuldade for 4 ou 5, ou se
+- `copiada` (formulação distintiva igual ou traduzida de outro quiz, ou o mesmo
+  conjunto de opções): rejeita com motivo `copiada` e o alvo volta ao passo 1 (novo
+  pedido ao pesquisador, com outro facto ou outro texto).
+- `classico` (a forma natural de perguntar um facto conhecido, com opções nossas):
+  acrescenta `"classico"` a `etiquetas`. Se a dificuldade for 4 ou 5, ou se
   o lote já tiver 20% de clássicos entre as perguntas não rejeitadas, rejeita com motivo
   `classico fora da quota` e o alvo volta ao passo 1.
 - `original`: segue.
@@ -119,7 +121,9 @@ resposta e as fontes do pesquisador e do verificador).
   reformulação do advogado (não escreves texto teu) e volta ao passo 3 (nova verificação
   às cegas) e depois a este passo. Só há **um** ciclo de correção por pergunta; à
   segunda, rejeita.
-- `fontes_substitutas`: substitui a fonte da Wikipédia pela original indicada.
+- `fontes_substitutas` ou outra correção só de fontes: aplica-a e volta a invocar o
+  advogado sobre a versão corrigida (sem nova verificação às cegas se o texto não mudou).
+  Nunca registas `aprovado: true` por ele: só o veredicto que ele der fica registado.
 - Fontes que o advogado use para justificar problemas podem ser guardadas com
   `papel: "advogado"`.
 

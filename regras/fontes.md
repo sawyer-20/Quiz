@@ -44,7 +44,11 @@
    área ou em população; cidade ou área metropolitana; assinatura ou ratificação.
 7. O excerto guardado tem no máximo 300 caracteres e serve só de prova interna.
 8. Duas fontes de nível 1 em desacordo: a pergunta não avança.
-9. Linguagem de dúvida na explicação ("ao que parece", "diz-se", "terá sido",
-   "provavelmente"…): ou se confirma com fonte e se afirma, ou sai. O `validar.py` recusa-a.
+9. Linguagem de dúvida **sem atribuição** na explicação ("ao que parece", "diz-se",
+   "terá sido", "possivelmente"…): ou se confirma com fonte e se afirma, ou se atribui a
+   quem o diz ("segundo os arqueólogos…", "Barros afirma que…"), ou sai. O `validar.py`
+   recusa a dúvida sem atribuição e aceita a atribuída. Uma interpretação (um motivo, uma
+   intenção, uma causa) só se apresenta como facto se as fontes a derem como facto; se as
+   fontes a apresentam como interpretação de alguém, atribui-se.
 10. Uma página pode dar ao pesquisador até 3 factos (3 perguntas). Cada pergunta continua
     a precisar da sua própria verificação às cegas, com fonte de outro domínio.
