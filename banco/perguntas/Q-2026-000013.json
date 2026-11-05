@@ -76,8 +76,8 @@
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
-  "motivo_rejeicao": null,
+  "estado": "rejeitada",
+  "motivo_rejeicao": "sem confirmação: na reverificação às cegas (v1.1) o verificador concordou com 'Sinédrio' com confiança média, mas nenhuma das fontes que abriu (Revista do IGHMB, Análise Social) confirma 'fundada em 1818', que o enunciado afirma (a Infopédia deu 403). Além disso, a originalidade classificou-a como 'classico' e tem dificuldade 4, o que a v1.1 não permite.",
   "lote": "lote-2026-11-04-historia",
   "criada_em": "2026-11-04",
   "historico": [
@@ -128,6 +128,12 @@
       "evento": "originalidade: classico",
       "agente": "originalidade",
       "nota": "Wayground ('…Manuel Fernandes Tomás, formed a secret society. What was it called?', opções variantes inventadas de 'Sinédrio'): facto escolar clássico, texto e opções nossos. Pesquisas completas."
+    },
+    {
+      "data": "2026-11-05",
+      "evento": "rejeitada",
+      "agente": "verificador-cego",
+      "nota": "sem confirmação: na reverificação às cegas (v1.1) o verificador concordou com 'Sinédrio' com confiança média, mas nenhuma das fontes que abriu (Revista do IGHMB, Análise Social) confirma 'fundada em 1818', que o enunciado afirma (a Infopédia deu 403). Além disso, a originalidade classificou-a como 'classico' e tem dificuldade 4, o que a v1.1 não permite."
     }
   ],
   "etiquetas": [

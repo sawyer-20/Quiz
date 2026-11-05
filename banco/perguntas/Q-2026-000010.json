@@ -34,12 +34,12 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://metrologie-francaise.lne.fr/en/metrology/history-units",
-      "dominio": "lne.fr",
-      "titulo": "The historical evolution of units | Réseau National de la Métrologie Française (LNE)",
+      "url": "https://www.npl.co.uk/resources/the-si-units/metre",
+      "titulo": "metre (m) - National Physical Laboratory",
       "nivel": 1,
-      "excerto": "the distance from the North pole to the equator, a quarter meridian. [...] Introduced on 26 March 1791, the metre was defined as being equal to the ten millionth part of one quarter of the terrestrial meridian.",
-      "consultada_em": "2026-11-04",
+      "excerto": "The metre was initially defined as one ten-millionth of the distance on the Earth's surface from the north pole to the equator, on a line passing through Paris.",
+      "dominio": "npl.co.uk",
+      "consultada_em": "2026-11-05",
       "papel": "verificador"
     }
   ],
@@ -48,9 +48,9 @@
       "resposta_texto": "Do polo Norte ao equador",
       "concorda": true,
       "confianca": "alta",
-      "dominio": "lne.fr",
-      "data": "2026-11-04",
-      "notas": "LNE (organismo oficial francês de metrologia): comissão de 1791 escolheu o quarto de meridiano polo Norte–equador (rejeitou pêndulo e quarto do equador). Volta completa, diâmetro e Paris–polo excluídos."
+      "dominio": "npl.co.uk",
+      "data": "2026-11-05",
+      "notas": "NPL e TÜV Nord confirmam. Nota do verificador: 'De Paris ao polo Norte' pode confundir (o meridiano passa por Paris), mas não é defensável."
     },
     "advogado": {
       "aprovado": true,
@@ -67,7 +67,7 @@
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-04-historia",
   "criada_em": "2026-11-04",
@@ -119,6 +119,18 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "4 pesquisas (EN/PT) em Sporcle, JetPunk, FunTrivia, Quizlet, QuizzClub, ProProfs, Wayground: nenhuma pergunta de escolha múltipla que dê 1/10 000 000 e pergunte a distância; só exercícios escolares sobre outra coisa. Pesquisas completas."
+    },
+    {
+      "data": "2026-11-05",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "reverificação v1.1 sobre o texto atual; confiança alta; fonte npl.co.uk (nível 1); texto inalterado, sem advogado nem editor (ordem do Andre)"
+    },
+    {
+      "data": "2026-11-05",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ]
 }

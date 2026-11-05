@@ -8,7 +8,8 @@ Uso:
 Para cada pergunta em "em_verificacao":
   1. prepara a versão aprovada (estado "aprovada" e o evento "aprovada por aprovar.py"
      no histórico);
-  2. corre o scripts/validar.py sobre essa versão e verifica a quota de clássicos do lote;
+  2. corre o scripts/validar.py sobre essa versão e, se for um clássico, verifica a quota
+     de clássicos do lote;
   3. só se tudo passar grava o ficheiro. Se falhar, o ficheiro fica como estava.
 
 Sai com código 1 se alguma pergunta não for aprovada.
@@ -50,7 +51,9 @@ def validar_candidata(candidata: dict) -> list[str]:
         if q.get("lote") == candidata["lote"] and q.get("id") != candidata["id"]:
             lote.append(q)
     lote.append(candidata)
-    erros += [f"ERRO: {e}" for e in erros_de_lote(lote).get(candidata["lote"], [])]
+    # Aprovar uma pergunta que não é clássica não agrava a quota: só se verifica para clássicos.
+    if "classico" in (candidata.get("etiquetas") or []):
+        erros += [f"ERRO: {e}" for e in erros_de_lote(lote).get(candidata["lote"], [])]
     return erros
 
 

@@ -162,7 +162,8 @@ def validar_pergunta(p: dict) -> tuple[list[str], list[str]]:
     desconhecidas = set(etiquetas) - ETIQUETAS
     if desconhecidas:
         erros.append(f"etiquetas desconhecidas: {', '.join(sorted(desconhecidas))}")
-    if "classico" in etiquetas and isinstance(p["dificuldade_estimada"], int) and p["dificuldade_estimada"] >= 4:
+    if ("classico" in etiquetas and p["estado"] != "rejeitada"
+            and isinstance(p["dificuldade_estimada"], int) and p["dificuldade_estimada"] >= 4):
         erros.append("pergunta 'classico' com dificuldade 4 ou 5: não é permitido")
 
     # Opções
