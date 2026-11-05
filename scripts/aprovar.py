@@ -9,7 +9,7 @@ Para cada pergunta em "em_verificacao":
   1. prepara a versão aprovada (estado "aprovada" e o evento "aprovada por aprovar.py"
      no histórico);
   2. corre o scripts/validar.py sobre essa versão e, se for um clássico, verifica a quota
-     de clássicos do lote;
+     de clássicos do banco (máximo 20%, aplicada a partir de 100 perguntas);
   3. só se tudo passar grava o ficheiro. Se falhar, o ficheiro fica como estava.
 
 Sai com código 1 se alguma pergunta não for aprovada.
@@ -26,7 +26,7 @@ from pathlib import Path
 RAIZ = Path(__file__).resolve().parent.parent
 BANCO = RAIZ / "banco" / "perguntas"
 sys.path.insert(0, str(RAIZ / "scripts"))
-from validar import EVENTO_APROVACAO, erros_de_lote  # noqa: E402
+from validar import EVENTO_APROVACAO, quota_classicos  # noqa: E402
 
 
 def caminho(arg: str) -> Path:
@@ -44,16 +44,14 @@ def validar_candidata(candidata: dict) -> list[str]:
     erros = [l.strip() for l in r.stdout.splitlines() if l.strip().startswith("ERRO:")]
     if r.returncode != 0 and not erros:
         erros = [f"validar.py falhou: {r.stdout.strip() or r.stderr.strip()}"]
-    # Quota de clássicos: o lote inteiro, com esta pergunta na versão candidata.
-    lote = []
-    for g in BANCO.glob("*.json"):
-        q = json.loads(g.read_text(encoding="utf-8"))
-        if q.get("lote") == candidata["lote"] and q.get("id") != candidata["id"]:
-            lote.append(q)
-    lote.append(candidata)
-    # Aprovar uma pergunta que não é clássica não agrava a quota: só se verifica para clássicos.
+    # Quota de clássicos sobre o banco (aprovadas + publicadas), com esta pergunta já
+    # aprovada. Aprovar uma pergunta que não é clássica não agrava a quota.
     if "classico" in (candidata.get("etiquetas") or []):
-        erros += [f"ERRO: {e}" for e in erros_de_lote(lote).get(candidata["lote"], [])]
+        banco = [json.loads(g.read_text(encoding="utf-8")) for g in BANCO.glob("*.json")]
+        banco = [q for q in banco if q.get("id") != candidata["id"]] + [candidata]
+        _, _, erro = quota_classicos(banco)
+        if erro:
+            erros.append(f"ERRO: {erro}")
     return erros
 
 

@@ -31,9 +31,11 @@ OPCIONAIS = ["etiquetas"]
 CAMPOS_FONTE = ["url", "dominio", "titulo", "nivel", "excerto", "consultada_em", "papel"]
 
 # Etiquetas permitidas. "classico": facto muito conhecido (já usado noutros quizzes),
-# admitido com enunciado próprio; nunca em dificuldade 4 ou 5 e no máximo 20% por lote.
+# admitido com enunciado próprio; nunca em dificuldade 4 ou 5. Quota: no máximo 20% das
+# perguntas aprovadas e publicadas do banco, aplicada a partir de 100 perguntas.
 ETIQUETAS = {"classico"}
-QUOTA_CLASSICOS = 0.20
+QUOTA_CLASSICOS = 0.20       # máximo de clássicos no banco (aprovadas + publicadas)
+BANCO_MINIMO_QUOTA = 100     # a quota só bloqueia a partir de 100 perguntas; abaixo, só se mede
 EVENTO_APROVACAO = "aprovada por aprovar.py"
 
 # Linguagem de dúvida na explicação (regras/fontes.md, regra 9). Recusa-se a dúvida
@@ -300,20 +302,18 @@ def validar_pergunta(p: dict) -> tuple[list[str], list[str]]:
     return erros, avisos
 
 
-def erros_de_lote(perguntas: list[dict]) -> dict[str, list[str]]:
-    """Regras que só se veem no lote inteiro. Conta as perguntas não rejeitadas de cada
-    lote: as 'classico' não podem passar de 20%."""
-    por_lote: dict[str, list[dict]] = {}
-    for p in perguntas:
-        if isinstance(p, dict) and p.get("estado") != "rejeitada" and isinstance(p.get("lote"), str):
-            por_lote.setdefault(p["lote"], []).append(p)
-    erros = {}
-    for lote, lista in por_lote.items():
-        classicos = sum(1 for p in lista if "classico" in (p.get("etiquetas") or []))
-        if classicos and classicos > QUOTA_CLASSICOS * len(lista):
-            erros[lote] = [f"{classicos} clássicos em {len(lista)} perguntas não rejeitadas "
-                           f"({classicos / len(lista):.0%}): o máximo é {QUOTA_CLASSICOS:.0%}"]
-    return erros
+def quota_classicos(perguntas: list[dict]) -> tuple[int, int, str | None]:
+    """Quota de clássicos sobre o BANCO: perguntas aprovadas e publicadas. Devolve
+    (clássicos, total, erro). Só há erro a partir de BANCO_MINIMO_QUOTA perguntas e acima de
+    QUOTA_CLASSICOS; abaixo disso, só se mede."""
+    ativas = [p for p in perguntas if isinstance(p, dict) and p.get("estado") in ("aprovada", "publicada")]
+    classicos = sum(1 for p in ativas if "classico" in (p.get("etiquetas") or []))
+    total = len(ativas)
+    erro = None
+    if total >= BANCO_MINIMO_QUOTA and classicos > QUOTA_CLASSICOS * total:
+        erro = (f"{classicos} clássicos em {total} perguntas aprovadas ou publicadas "
+                f"({classicos / total:.0%}): o máximo é {QUOTA_CLASSICOS:.0%}")
+    return classicos, total, erro
 
 
 def ficheiros_a_validar(argumentos: list[str]) -> list[Path]:
@@ -376,14 +376,16 @@ def main() -> int:
             print(f"      AVISO: {a}")
         total_erros += len(erros)
 
-    # A quota de clássicos só se vê no lote inteiro: corre quando se valida uma pasta
-    # (o aprovar.py verifica-a sempre sobre o lote completo do banco).
-    pastas = not args or any(Path(a).is_dir() for a in args)
-    for lote, erros_lote in (erros_de_lote(carregadas).items() if pastas else []):
-        print(f"ERRO  lote {lote}")
-        for e in erros_lote:
-            print(f"      ERRO: {e}")
-        total_erros += len(erros_lote)
+    # Quota de clássicos sobre o banco: corre quando se valida uma pasta (o aprovar.py
+    # verifica-a sempre sobre o banco inteiro).
+    if not args or any(Path(a).is_dir() for a in args):
+        classicos, total, erro = quota_classicos(carregadas)
+        if total:
+            print(f"\nClássicos no banco: {classicos} de {total} aprovadas/publicadas ({classicos / total:.0%}); "
+                  f"quota de {QUOTA_CLASSICOS:.0%} aplicada a partir de {BANCO_MINIMO_QUOTA}.")
+        if erro:
+            print(f"ERRO  banco: {erro}")
+            total_erros += 1
 
     print(f"\n{len(ficheiros)} ficheiro(s), {total_erros} erro(s).")
     return 1 if total_erros else 0

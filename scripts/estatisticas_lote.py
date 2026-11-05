@@ -54,7 +54,8 @@ def main() -> int:
         print(f"  … entre as aprovadas: {n1a} de {len(aprovadas)} ({n1a / len(aprovadas):.0%})")
     classicos = sum("classico" in (q.get("etiquetas") or []) for q in perguntas if q["estado"] != "rejeitada")
     ativas = sum(q["estado"] != "rejeitada" for q in perguntas)
-    print(f"Clássicos: {classicos} de {ativas} não rejeitadas" + (f" ({classicos / ativas:.0%})" if ativas else ""))
+    print(f"Clássicos (indicador do pesquisador, meta até 20%): {classicos} de {ativas} não rejeitadas"
+          + (f" ({classicos / ativas:.0%})" if ativas else ""))
     if rejeitadas:
         print("Rejeitadas por agente:")
         por_agente = Counter()

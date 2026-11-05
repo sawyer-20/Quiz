@@ -74,9 +74,10 @@ opções; sem indicar a certa). Os canários não passam por aqui.
   conjunto de opções): rejeita com motivo `copiada` e o alvo volta ao passo 1 (novo
   pedido ao pesquisador, com outro facto ou outro texto).
 - `classico` (a forma natural de perguntar um facto conhecido, com opções nossas):
-  acrescenta `"classico"` a `etiquetas`. Se a dificuldade for 4 ou 5, ou se
-  o lote já tiver 20% de clássicos entre as perguntas não rejeitadas, rejeita com motivo
-  `classico fora da quota` e o alvo volta ao passo 1.
+  acrescenta `"classico"` a `etiquetas`. Se a dificuldade for 4 ou 5, rejeita com motivo
+  `classico com dificuldade alta` e o alvo volta ao passo 1. A percentagem de clássicos
+  no lote é um indicador do pesquisador (meta: até 20%), não um bloqueio; a quota de 20%
+  conta sobre o banco e o `aprovar.py` aplica-a a partir de 100 perguntas.
 - `original`: segue.
 - `completa: false` (pesquisas interrompidas): a pergunta fica em `em_verificacao` e o
   passo repete-se para ela antes de avançar.
@@ -120,7 +121,8 @@ resposta e as fontes do pesquisador e do verificador).
 - Só problemas `corrigivel` com `reformulacao_sugerida`: aplica **exatamente** a
   reformulação do advogado (não escreves texto teu) e volta ao passo 3 (nova verificação
   às cegas) e depois a este passo. Só há **um** ciclo de correção por pergunta; à
-  segunda, rejeita.
+  segunda, rejeita. (Uma pergunta reaberta por mudança de regra ou por auditoria tem
+  direito a um ciclo novo.)
 - `fontes_substitutas` ou outra correção só de fontes: aplica-a e volta a invocar o
   advogado sobre a versão corrigida (sem nova verificação às cegas se o texto não mudou).
   Nunca registas `aprovado: true` por ele: só o veredicto que ele der fica registado.
@@ -157,8 +159,10 @@ Corre `python3 scripts/estatisticas_lote.py <lote>` e grava `relatorios/<lote>.m
 página):
 
 - números: alvos, perguntas criadas, aprovadas, rejeitadas por etapa e por motivo,
-  clássicos, **percentagem de perguntas com fonte de nível 1 do pesquisador** e
-  **tempo de agentes por pergunta aprovada (sem pausas)**;
+  clássicos (indicador: meta até 20% do lote), **percentagem de perguntas com fonte de
+  nível 1 do pesquisador** e **tempo de agentes por pergunta aprovada (sem pausas)**;
+- **fontes portuguesas de nível 1**: quais os agentes conseguiram abrir e quais recusaram
+  (403, 429, erro de rede, PDF ilegível); pede a cada agente que as liste nas `notas`;
 - **canários**: as 2 perguntas, a resposta errada marcada, a verdadeira e o que o
   verificador respondeu;
 - problemas que se repetem (por exemplo, o pesquisador a usar sempre a mesma fonte);

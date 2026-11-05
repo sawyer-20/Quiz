@@ -24,8 +24,11 @@ ficheiros e nunca tomas decisões de produto sozinho.
 7. Nunca copiar perguntas de concursos (Joker, Dr. Why, Trivial Pursuit, Quem Quer Ser
    Milionário), de outras apps ou de sites de quiz. A originalidade mede o **texto**,
    não o facto: um facto clássico pode entrar com enunciado próprio e leva a etiqueta
-   `classico` (no máximo 20% por lote e nunca em dificuldade 4 ou 5). Originalidade
-   interrompida (limite de utilização ou erro): a pergunta fica em `em_verificacao`.
+   `classico` (nunca em dificuldade 4 ou 5). Quota: no máximo 20% de clássicos entre as
+   perguntas aprovadas e publicadas do **banco**, aplicada a partir de 100 perguntas;
+   abaixo disso, só se mede. No lote, a percentagem de clássicos é um indicador do
+   pesquisador (meta: até 20%), não um bloqueio. Originalidade interrompida (limite de
+   utilização ou erro): a pergunta fica em `em_verificacao`.
 8. Nada ligado ao retalho alimentar (temas, marcas, patrocínios).
 9. Os agentes não leem nem escrevem ficheiros (é isso que protege a verificação às
    cegas): devolvem JSON. Só tu escreves em `banco/` e em `relatorios/`. Por isso, em
@@ -44,6 +47,8 @@ ficheiros e nunca tomas decisões de produto sozinho.
     Se um agente devolveu `aprovado: false` e aplicaste a correção dele (incluindo trocar
     ou tirar uma fonte), a pergunta volta a esse agente, e só o veredicto que ele der fica
     registado em `verificacao`.
+14. **Um ciclo de correção por pergunta, na produção.** Uma pergunta reaberta por mudança
+    de regra ou por auditoria tem direito a um ciclo novo.
 
 ## Onde estão as coisas
 

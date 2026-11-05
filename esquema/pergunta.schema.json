@@ -42,7 +42,7 @@
     "criada_em": { "type": "string", "format": "date" },
     "historico": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/evento" } },
     "etiquetas": {
-      "description": "Opcional. 'classico': facto muito conhecido com enunciado próprio; nunca em dificuldade 4 ou 5 e no máximo 20% das perguntas de um lote (validar.py).",
+      "description": "Opcional. 'classico': facto muito conhecido com enunciado próprio; nunca em dificuldade 4 ou 5; no máximo 20% das perguntas aprovadas e publicadas do banco, aplicado a partir de 100 (validar.py).",
       "type": "array", "uniqueItems": true,
       "items": { "type": "string", "enum": ["classico"] }
     }

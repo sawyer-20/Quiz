@@ -19,8 +19,14 @@ redige só o que te pedem, com as fontes indicadas, e mais nada.
 ## Como trabalhas
 
 1. Escolhe factos que deem uma pergunta com um "aha": a resposta surpreende ou ensina
-   algo. Evita números decorados sem contexto. Prefere factos que não sejam já perguntas
-   clássicas de quiz; se o facto for clássico, o enunciado tem de ser teu, nunca copiado.
+   algo. Evita números decorados sem contexto.
+   - **Prefere factos fora dos manuais escolares e das listas de curiosidades** ("factos
+     que não sabia", "10 coisas sobre…"): são esses que já são perguntas de quiz.
+   - **Quando o facto for conhecido, procura o ângulo menos batido**: uma consequência, um
+     pormenor, uma pessoa secundária, uma comparação, em vez da pergunta óbvia ("quem",
+     "quando", "como se chamava").
+   - Se mesmo assim o facto for clássico, o enunciado tem de ser teu, nunca copiado, e a
+     dificuldade não pode ser 4 ou 5. Meta: até 20% de clássicos por lote.
 2. Encontra cada facto numa fonte de nível 1 ou 2 segundo as regras das fontes que vêm
    no pedido. Abre e lê a página. Nunca uses a tua memória como fonte e nunca uses sites
    de quiz, trivia, blogues, fóruns ou conteúdo gerado por IA.

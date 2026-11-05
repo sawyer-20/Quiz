@@ -11,7 +11,8 @@ automática.
 - Nova linha: pesquisador → **originalidade** → verificador às cegas → advogado do diabo
   → editor → **`scripts/aprovar.py`**.
 - A originalidade mede o texto, não o facto: factos clássicos entram com enunciado
-  próprio e a etiqueta `classico` (no máximo 20% por lote, nunca em dificuldade 4 ou 5).
+  próprio e a etiqueta `classico` (nunca em dificuldade 4 ou 5; no máximo 20% do banco,
+  aplicado a partir de 100 perguntas; no lote é só um indicador).
 - O editor só mexe no estilo; se for preciso mudar o que se pergunta, a pergunta é
   rejeitada com motivo `reescrever`.
 - O verificador, o advogado e o editor trabalham em blocos de até 5 perguntas; o
@@ -107,7 +108,7 @@ quiz ou trivia como fonte, a Wikipédia contada duas vezes, um verificador que u
 domínio do pesquisador, opções repetidas, perguntas aprovadas sem as três aprovações,
 mudanças factuais do editor sem nova verificação, perguntas sensíveis ao tempo sem
 prazo, linguagem de dúvida sem atribuição na explicação, clássicos em dificuldade 4 ou 5 ou acima de 20%
-do lote e perguntas aprovadas sem o evento `aprovada por aprovar.py`.
+do banco (a partir de 100 perguntas) e perguntas aprovadas sem o evento `aprovada por aprovar.py`.
 
 O `calibrar.py` calcula, por pergunta, a taxa de acerto, a dificuldade real (1 a 5), um
 rating ao estilo Elo e a discriminação. Discriminação negativa (os melhores jogadores a

@@ -8,7 +8,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from validar import duvida_sem_atribuicao  # noqa: E402
+from validar import duvida_sem_atribuicao, quota_classicos  # noqa: E402
 
 # texto da explicação -> True se tem de ser recusado (dúvida sem atribuição)
 CASOS = {
@@ -33,6 +33,22 @@ def main() -> int:
         ok = recusado == recusar
         falhas += not ok
         print(f"{'OK ' if ok else 'FALHA'} {'recusa' if recusar else 'aceita'}: {texto}")
+    # Quota de clássicos sobre o banco: só bloqueia a partir de 100 aprovadas/publicadas.
+    def banco(n, classicos, estado="aprovada"):
+        return [{"estado": estado, "etiquetas": ["classico"] if i < classicos else []} for i in range(n)]
+    QUOTA = [
+        ("99 aprovadas, 50 clássicos: só mede", banco(99, 50), False),
+        ("100 aprovadas, 20 clássicos (20%): passa", banco(100, 20), False),
+        ("100 aprovadas, 21 clássicos (21%): bloqueia", banco(100, 21), True),
+        ("rejeitadas não contam", banco(100, 10) + banco(50, 50, "rejeitada"), False),
+        ("em_verificacao não conta", banco(100, 20) + banco(10, 10, "em_verificacao"), False),
+    ]
+    for nome, perguntas, bloquear in QUOTA:
+        _, _, erro = quota_classicos(perguntas)
+        ok = (erro is not None) == bloquear
+        falhas += not ok
+        print(f"{'OK ' if ok else 'FALHA'} quota: {nome}")
+
     print(f"\n{falhas} falha(s).")
     return 1 if falhas else 0
 
