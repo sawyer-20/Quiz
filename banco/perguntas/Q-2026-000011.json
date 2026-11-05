@@ -2,7 +2,7 @@
   "id": "Q-2026-000011",
   "lingua": "pt-PT",
   "tema": "historia",
-  "subtema": "Américas — civilizações pré-colombianas (astecas, maias, incas)",
+  "subtema": "Astecas – economia e comércio",
   "formato": "escolha-multipla",
   "enunciado": "Nos mercados astecas, que sementes circulavam como moeda nas trocas e nos tributos?",
   "opcoes": [
@@ -136,6 +136,12 @@
       "evento": "rejeitada",
       "agente": "advogado-do-diabo",
       "nota": "segundo ciclo de correção: na 2.ª passagem o advogado encontrou novo problema corrigível no enunciado — 'circulavam como moeda nas trocas e nos tributos' diz mais do que as fontes sobre os astecas (o cacau era bem exigido como tributo, Codex Mendoza/Cornell; moeda nos mercados). Regra: um só ciclo de correção por pergunta. Reformulação proposta pelo advogado (não aplicada; para decisão do Andre como alvo novo): enunciado 'Nos mercados astecas, que sementes eram usadas como moeda?'; explicação 'O cacau tinha de ser importado de longe e era um luxo. Era tão valioso que as sementes serviam de moeda nos mercados, e os astecas exigiam-nas como tributo às regiões onde o cacau crescia. Havia até falsificadores, que faziam passar sementes falsas por verdadeiras.' Fonte nova: Cornell (Codex Mendoza, tributo de Soconusco)."
+    },
+    {
+      "data": "2026-11-05",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "Subtema da versão recuperada tinha 63 caracteres; reposto o subtema curto já usado antes (git 418a9f1)."
     }
   ],
   "etiquetas": [

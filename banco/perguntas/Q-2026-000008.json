@@ -2,7 +2,7 @@
   "id": "Q-2026-000008",
   "lingua": "pt-PT",
   "tema": "historia",
-  "subtema": "Roma antiga (Império) – economia e arqueologia",
+  "subtema": "Roma antiga (Império): economia e arqueologia",
   "formato": "escolha-multipla",
   "enunciado": "O Monte Testaccio, em Roma, é uma colina artificial. De que é feita quase por inteiro?",
   "opcoes": [
@@ -12,7 +12,7 @@
     "Entulho do incêndio de 64 d.C."
   ],
   "correta": 2,
-  "explicacao": "De cacos de ânforas de azeite deitadas fora na época imperial, na grande maioria vindas da Bética, no sul da Hispânia. Os romanos cobriam os cacos com cal para disfarçar o cheiro do azeite rançoso.",
+  "explicacao": "De cacos de ânforas de azeite, deitadas fora na época imperial e vindas na grande maioria da Bética, no sul da Hispânia. Os romanos cobriam os cacos com cal para disfarçar o cheiro do azeite rançoso.",
   "dificuldade_estimada": 4,
   "fontes": [
     {
@@ -66,11 +66,17 @@
       "data": "2026-11-05",
       "notas": "Único problema apontado (corrigível, só fontes): a Wikipédia sai, porque a original (Blázquez, Greece & Rome 1992, nível 1) está acessível e já citada. Texto inalterado; cal e motivo suportados sem reservas (Archaeology Magazine; Turismo Roma para a cal e a decomposição do azeite). Sem segunda resposta defensável. Aprovação registada pelo orquestrador depois de aplicar essa remoção, sem nova passagem do advogado (decisão a confirmar pelo Andre)."
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "data": "2026-11-05",
+      "notas": "Só estilo: vírgulas e ordem das palavras na explicação; subtema com dois pontos. Enunciado e opções inalterados. Originalidade decidida pelo agente originalidade (original, pesquisas completas)."
+    }
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-04-historia",
   "criada_em": "2026-11-04",
@@ -146,6 +152,18 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": "Wikipédia retirada das fontes (fonte original acessível); texto inalterado, sem novo ciclo de correção."
+    },
+    {
+      "data": "2026-11-05",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "só estilo"
+    },
+    {
+      "data": "2026-11-05",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ]
 }
