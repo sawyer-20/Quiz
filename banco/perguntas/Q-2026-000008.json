@@ -34,15 +34,6 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://en.wikipedia.org/wiki/Monte_Testaccio",
-      "dominio": "wikipedia.org",
-      "titulo": "Monte Testaccio – Wikipedia",
-      "nivel": 2,
-      "excerto": "an artificial mound in Rome composed almost entirely of testae (Italian: cocci), fragments of broken ancient Roman pottery, nearly all discarded amphorae... containing the remains of an estimated 53 million amphorae.",
-      "consultada_em": "2026-11-04",
-      "papel": "pesquisador"
-    },
-    {
       "url": "https://turismoroma.it/it/luoghi/monte-dei-cocci",
       "dominio": "turismoroma.it",
       "titulo": "Turismo Roma (portal oficial de Roma Capitale): Monte dei Cocci",
@@ -70,7 +61,11 @@
       "data": "2026-11-05",
       "notas": "Repositório da Universidade de Barcelona (projeto Testaccio, Remesal): monte artificial de restos de milhões de ânforas, ~85% béticas de azeite (Dressel 20); Mercati di Traiano confirma. Vinho, entulho e escória excluídos."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-05",
+      "notas": "Único problema apontado (corrigível, só fontes): a Wikipédia sai, porque a original (Blázquez, Greece & Rome 1992, nível 1) está acessível e já citada. Texto inalterado; cal e motivo suportados sem reservas (Archaeology Magazine; Turismo Roma para a cal e a decomposição do azeite). Sem segunda resposta defensável. Aprovação registada pelo orquestrador depois de aplicar essa remoção, sem nova passagem do advogado (decisão a confirmar pelo Andre)."
+    },
     "editor": null
   },
   "sensivel_ao_tempo": false,
@@ -145,6 +140,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte handle.net (nível 1)"
+    },
+    {
+      "data": "2026-11-05",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": "Wikipédia retirada das fontes (fonte original acessível); texto inalterado, sem novo ciclo de correção."
     }
   ]
 }
