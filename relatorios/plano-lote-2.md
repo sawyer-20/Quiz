@@ -13,7 +13,8 @@
    **Só entra se a atribuição se confirmar numa fonte de nível 1.**
 2. **Cacau asteca, como clássico de dificuldade 2.** "Nos mercados astecas, que sementes
    eram usadas como moeda?" (versão proposta pelo advogado na 000011). Etiqueta
-   `classico`; conta para a quota de 20% do lote.
+   `classico` (dificuldade 2: permitida). Conta para o indicador de clássicos do lote
+   (meta até 20%) e para a quota do banco.
 
 Os outros 8 alvos: temas variados (não só história), planeados no passo 0 da skill.
 
