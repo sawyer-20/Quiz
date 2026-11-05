@@ -36,7 +36,7 @@ ETIQUETAS = {"classico"}
 QUOTA_CLASSICOS = 0.20
 EVENTO_APROVACAO = "aprovada por aprovar.py"
 
-# Linguagem de dúvida proibida na explicação (regras/fontes.md, regra 10): ou se
+# Linguagem de dúvida proibida na explicação (regras/fontes.md, regra 9): ou se
 # confirma com fonte e se afirma, ou sai.
 RE_DUVIDA = re.compile(
     r"\b(ao que parece|parece que|diz-se|dizem que|diz a lenda|conta-se|contam que|"
