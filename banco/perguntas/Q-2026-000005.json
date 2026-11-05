@@ -67,7 +67,7 @@
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-04-historia",
   "criada_em": "2026-11-04",
@@ -125,6 +125,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "reverificação v1.1 sobre o texto atual; confiança alta; fonte princeton.edu (nível 1); texto inalterado, sem advogado nem editor (ordem do Andre)"
+    },
+    {
+      "data": "2026-11-05",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": [

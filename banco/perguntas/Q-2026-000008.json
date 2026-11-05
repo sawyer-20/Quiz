@@ -12,7 +12,7 @@
     "Entulho do incêndio de 64 d.C."
   ],
   "correta": 2,
-  "explicacao": "De cacos de ânforas de azeite, deitadas fora na época imperial e vindas na grande maioria da Bética, no sul da Hispânia. Os romanos cobriam os cacos com cal para disfarçar o cheiro do azeite rançoso.",
+  "explicacao": "De cacos de ânforas de azeite, deitadas fora na época imperial e vindas na grande maioria da Bética, no sul da Hispânia. Os romanos espalhavam cal sobre os cacos.",
   "dificuldade_estimada": 4,
   "fontes": [
     {
@@ -172,6 +172,12 @@
       "evento": "advogado do diabo: corrigível (não aplicada)",
       "agente": "advogado-do-diabo",
       "nota": "Problemas: (1) o motivo 'disfarçar o cheiro do azeite rançoso' é interpretação com uma só fonte de nível 2 (Archaeology Magazine, na voz da autora), posto em dúvida pela Wikipédia ('appears'); Turismo Roma dá um motivo mais vago; nenhuma fonte de escavação lida o afirma (Remesal 1994: PDF 404; Springer pago). (2) A explicação afirma mais do que as fontes de acordo. Reformulação proposta: explicação 'De cacos de ânforas de azeite, deitadas fora na época imperial e vindas na grande maioria da Bética, no sul da Hispânia.' (enunciado e opções iguais). Alternativa que o advogado admite: manter só 'Os romanos espalhavam cal sobre os cacos.' (2 fontes). Resposta não derrubada. Pendente de decisão do Andre: a pergunta já usou o ciclo de correção na v1.0."
+    },
+    {
+      "data": "2026-11-05",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "Decisão do Andre: aplicada a opção do advogado que mantém só 'Os romanos espalhavam cal sobre os cacos.' (facto com duas fontes: Archaeology Magazine e Turismo Roma); sai o motivo (interpretação com uma só fonte de nível 2). Pergunta reaberta por mudança de regra: ciclo novo (regra 14). Enunciado e opções inalterados. Volta ao advogado (regra 13)."
     }
   ]
 }

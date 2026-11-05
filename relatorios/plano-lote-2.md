@@ -16,3 +16,8 @@
    `classico`; conta para a quota de 20% do lote.
 
 Os outros 8 alvos: temas variados (não só história), planeados no passo 0 da skill.
+
+## Alvo condicional
+
+- **Sinédrio (000013, rejeitada).** Só volta como alvo se aparecer uma fonte de nível 1
+  acessível que confirme a fundação em 1818 (a Infopédia deu 403).
