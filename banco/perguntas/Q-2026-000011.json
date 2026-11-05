@@ -41,17 +41,33 @@
       "dominio": "worldhistory.org",
       "consultada_em": "2026-11-05",
       "papel": "advogado"
+    },
+    {
+      "url": "https://news.asu.edu/content/asu-archaeologist-talks-aztec-currency-new-york-times",
+      "titulo": "ASU archaeologist talks Aztec currency with New York Times | ASU News",
+      "nivel": 1,
+      "excerto": "Smith notes that ancient Mesoamerican currency was chiefly cacao for day-to-day items and cotton cloth for more valuable goods. \"If you wanted to buy a taco at the marketplace, you'd use cacao beans,\"",
+      "dominio": "asu.edu",
+      "consultada_em": "2026-11-05",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Sementes de cacau",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "asu.edu",
+      "data": "2026-11-05",
+      "notas": "ASU (Michael E. Smith): cacau como moeda do dia a dia no mercado, algodão para bens caros; WHE confirma tributo e moeda. Abóbora, milho e feijão não aparecem como moeda. Nota: no tributo, o cacau surge como bem exigido, mais do que moeda em sentido estrito."
+    },
     "advogado": null,
     "editor": null
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
-  "motivo_rejeicao": null,
+  "estado": "rejeitada",
+  "motivo_rejeicao": "segundo ciclo de correção: na 2.ª passagem o advogado encontrou novo problema corrigível no enunciado — 'circulavam como moeda nas trocas e nos tributos' diz mais do que as fontes sobre os astecas (o cacau era bem exigido como tributo, Codex Mendoza/Cornell; moeda nos mercados). Regra: um só ciclo de correção por pergunta.",
   "lote": "lote-2026-11-04-historia",
   "criada_em": "2026-11-04",
   "historico": [
@@ -108,6 +124,18 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "Corrigível (ciclo 1/1): saem da explicação os materiais da contrafação e Tenochtitlán (só IE Insights); contrafação em termos genéricos (WHE, México Desconocido, IE). Enunciado e opções iguais. Volta ao verificador às cegas."
+    },
+    {
+      "data": "2026-11-05",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "reverificação após reformulação; confiança alta; fonte asu.edu (nível 1)"
+    },
+    {
+      "data": "2026-11-05",
+      "evento": "rejeitada",
+      "agente": "advogado-do-diabo",
+      "nota": "segundo ciclo de correção: na 2.ª passagem o advogado encontrou novo problema corrigível no enunciado — 'circulavam como moeda nas trocas e nos tributos' diz mais do que as fontes sobre os astecas (o cacau era bem exigido como tributo, Codex Mendoza/Cornell; moeda nos mercados). Regra: um só ciclo de correção por pergunta. Reformulação proposta pelo advogado (não aplicada; para decisão do Andre como alvo novo): enunciado 'Nos mercados astecas, que sementes eram usadas como moeda?'; explicação 'O cacau tinha de ser importado de longe e era um luxo. Era tão valioso que as sementes serviam de moeda nos mercados, e os astecas exigiam-nas como tributo às regiões onde o cacau crescia. Havia até falsificadores, que faziam passar sementes falsas por verdadeiras.' Fonte nova: Cornell (Codex Mendoza, tributo de Soconusco)."
     }
   ],
   "etiquetas": [
