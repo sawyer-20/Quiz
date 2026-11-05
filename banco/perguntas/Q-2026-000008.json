@@ -166,6 +166,12 @@
       "evento": "devolvida a em_verificacao",
       "agente": "orquestrador",
       "nota": "Ordem do Andre: o veredicto do advogado registado a 2026-11-05 foi escrito pelo orquestrador depois de aplicar a remoção da Wikipédia, sem nova passagem do advogado (viola a regra 13). Retirado de 'verificacao'; o advogado volta a correr sobre a versão atual."
+    },
+    {
+      "data": "2026-11-05",
+      "evento": "advogado do diabo: corrigível (não aplicada)",
+      "agente": "advogado-do-diabo",
+      "nota": "Problemas: (1) o motivo 'disfarçar o cheiro do azeite rançoso' é interpretação com uma só fonte de nível 2 (Archaeology Magazine, na voz da autora), posto em dúvida pela Wikipédia ('appears'); Turismo Roma dá um motivo mais vago; nenhuma fonte de escavação lida o afirma (Remesal 1994: PDF 404; Springer pago). (2) A explicação afirma mais do que as fontes de acordo. Reformulação proposta: explicação 'De cacos de ânforas de azeite, deitadas fora na época imperial e vindas na grande maioria da Bética, no sul da Hispânia.' (enunciado e opções iguais). Alternativa que o advogado admite: manter só 'Os romanos espalhavam cal sobre os cacos.' (2 fontes). Resposta não derrubada. Pendente de decisão do Andre: a pergunta já usou o ciclo de correção na v1.0."
     }
   ]
 }

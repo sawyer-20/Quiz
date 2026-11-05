@@ -131,6 +131,15 @@
       "evento": "devolvida a em_verificacao",
       "agente": "orquestrador",
       "nota": "Ordem do Andre: a migração v1.0→v1.1 é desfeita; a pergunta volta à linha (originalidade e verificador às cegas sobre o texto atual; advogado e editor só se algo mudar)."
+    },
+    {
+      "data": "2026-11-05",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "JetPunk ('1752 – … skipping how many days?') e Ask FunTrivia (adivinha): o salto de 1752 é clássico; nenhum pergunta 'que dia se seguiu a 2 de setembro' com as opções 11–14 de setembro. Pesquisas completas."
     }
+  ],
+  "etiquetas": [
+    "classico"
   ]
 }

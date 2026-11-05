@@ -113,6 +113,15 @@
       "evento": "devolvida a em_verificacao",
       "agente": "orquestrador",
       "nota": "Ordem do Andre: a migração v1.0→v1.1 é desfeita; a pergunta volta à linha (originalidade e verificador às cegas sobre o texto atual; advogado e editor só se algo mudar)."
+    },
+    {
+      "data": "2026-11-05",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "QuizzClub ('Technically, which is not the central exhibit…', resposta: é bordado), FunTrivia, Wayground (vídeo, opções Sculpture/Painting/Embroidery/Tapestry): o facto é clássico; nenhum com 'que técnica deu forma às cenas' nem com as nossas opções. Pesquisas completas."
     }
+  ],
+  "etiquetas": [
+    "classico"
   ]
 }
