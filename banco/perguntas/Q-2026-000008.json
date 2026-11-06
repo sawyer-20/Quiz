@@ -61,7 +61,11 @@
       "data": "2026-11-05",
       "notas": "Repositório da Universidade de Barcelona (projeto Testaccio, Remesal): monte artificial de restos de milhões de ânforas, ~85% béticas de azeite (Dressel 20); Mercati di Traiano confirma. Vinho, entulho e escória excluídos."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-06",
+      "notas": "Versão corrigida (só a cal, sem o motivo): cal confirmada por Turismo Roma e Archaeology Magazine; 'quase por inteiro', Bética e época imperial suportados (Archaeology, Remesal et al., Blázquez). Distratores sem apoio. Sem números, dúvida nem interpretação. Infopédia: 403."
+    },
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
@@ -72,7 +76,7 @@
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-04-historia",
   "criada_em": "2026-11-04",
@@ -178,6 +182,18 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "Decisão do Andre: aplicada a opção do advogado que mantém só 'Os romanos espalhavam cal sobre os cacos.' (facto com duas fontes: Archaeology Magazine e Turismo Roma); sai o motivo (interpretação com uma só fonte de nível 2). Pergunta reaberta por mudança de regra: ciclo novo (regra 14). Enunciado e opções inalterados. Volta ao advogado (regra 13)."
+    },
+    {
+      "data": "2026-11-06",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": "2.ª passagem após a correção (ciclo novo, regra 14)."
+    },
+    {
+      "data": "2026-11-06",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ]
 }
