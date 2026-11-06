@@ -26,7 +26,7 @@ import urllib.error
 import urllib.request
 from html.parser import HTMLParser
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import quote, urlparse, urlsplit, urlunsplit
 
 LIMITE_BYTES = 5_000_000      # HTML e texto
 LIMITE_PDF = 25_000_000       # PDF (só se aceita inteiro: cortado não se lê)
@@ -115,6 +115,25 @@ def pdf_para_texto(dados):
     return texto or None
 
 
+def normalizar_url(url):
+    """Devolve o URL com os caracteres não ASCII (acentos, espaços) codificados: o
+    servidor em IDNA e o caminho/consulta em UTF-8 com %XX, sem tocar no que já está
+    codificado. Evita erros como 'ascii codec can't encode' em URLs como .../wiki/Hélio."""
+    try:
+        s = urlsplit(url.strip())
+        host = s.hostname or ""
+        if host and not host.isascii():
+            host = host.encode("idna").decode("ascii")
+        rede = host + (f":{s.port}" if s.port else "")
+        if s.username or s.password:
+            return url  # as credenciais são recusadas mais à frente
+        seguros = "/%:@!$&'()*+,;=~-._"
+        return urlunsplit((s.scheme, rede, quote(s.path, safe=seguros),
+                           quote(s.query, safe=seguros + "?"), quote(s.fragment, safe=seguros + "?")))
+    except (ValueError, UnicodeError):
+        return url
+
+
 def motivo_recusa(url):
     """None se o URL pode ser lido; senão, o motivo da recusa."""
     try:
@@ -160,6 +179,7 @@ def main():
     ap.add_argument("--inicio", type=int, default=0)
     a = ap.parse_args()
 
+    a.url = normalizar_url(a.url)
     motivo = motivo_recusa(a.url)
     if motivo:
         print(f"ERRO: {motivo}. Só são aceites URLs http(s) públicos.")

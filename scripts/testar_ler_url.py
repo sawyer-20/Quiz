@@ -68,6 +68,24 @@ def main():
         falhas += not ok
         print(f"{'OK ' if ok else 'FALHA'} aceita   {u}  ->  {motivo}")
 
+    # Normalização: acentos e espaços são codificados; o já codificado fica igual; as
+    # recusas valem para o URL normalizado (um acento não esconde um endereço interno).
+    NORMAL = [
+        ("https://pt.wikipedia.org/wiki/Hélio", "https://pt.wikipedia.org/wiki/H%C3%A9lio"),
+        ("https://pt.wikipedia.org/wiki/H%C3%A9lio", "https://pt.wikipedia.org/wiki/H%C3%A9lio"),
+        ("https://exemplo.org/a b?q=é", "https://exemplo.org/a%20b?q=%C3%A9"),
+        ("https://exemplo.org/x_(y)", "https://exemplo.org/x_(y)"),
+    ]
+    for entrada, esperado in NORMAL:
+        obtido = ler_url.normalizar_url(entrada)
+        ok = obtido == esperado
+        falhas += not ok
+        print(f"{'OK ' if ok else 'FALHA'} normaliza {entrada} -> {obtido}")
+    for u in ("http://localhost/é", "http://127.0.0.1/é", "file:///etc/é"):
+        ok = ler_url.motivo_recusa(ler_url.normalizar_url(u)) is not None
+        falhas += not ok
+        print(f"{'OK ' if ok else 'FALHA'} recusa após normalizar {u}")
+
     # Redirecionamento de um site público para a rede local tem de ser recusado.
     h = ler_url.RedirecionamentoSeguro()
     for destino in ("http://127.0.0.1/", ficheiro_banco.as_uri(), "http://169.254.169.254/"):
@@ -94,6 +112,13 @@ def main():
         ok = r.returncode == 0 and "Runnymede" in r.stdout
         falhas += not ok
         print(f"{'OK ' if ok else 'FALHA'} leitura pública (Wikipédia) -> código {r.returncode}")
+
+        r = subprocess.run([sys.executable, str(RAIZ / "scripts" / "ler_url.py"),
+                            "https://pt.wikipedia.org/wiki/Hélio", "--procurar", "hélio"],
+                           capture_output=True, text=True, timeout=60)
+        ok = r.returncode == 0 and "excerto 1" in r.stdout
+        falhas += not ok
+        print(f"{'OK ' if ok else 'FALHA'} URL com acento (pt.wikipedia.org/wiki/Hélio) -> código {r.returncode}")
 
         # Caso do lote 1: a biografia de Bartolomeu Dias no SAHO nomeia Axelson e Duarte
         # Pacheco Pereira; o leitor não pode perder esse conteúdo (corte ou extração).

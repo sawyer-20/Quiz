@@ -1,0 +1,66 @@
+{
+  "id": "Q-2026-000017",
+  "lingua": "pt-PT",
+  "tema": "ciencia",
+  "subtema": "química",
+  "formato": "escolha-multipla",
+  "enunciado": "Porque é que o hélio, que é um gás, recebeu um nome com o sufixo «-ium» (helium), próprio dos metais?",
+  "opcoes": [
+    "Por conduzir eletricidade como os metais",
+    "Quem lhe deu o nome julgou que era um metal",
+    "Por ser o elemento mais abundante no Sol",
+    "Por ter sido isolado num minério de urânio"
+  ],
+  "correta": 1,
+  "explicacao": "Em 1868, Lockyer viu no espetro do Sol uma risca amarela de um elemento desconhecido e, supondo que era um metal, chamou-lhe helium, de Helios (Sol). Só em 1895 Ramsay o encontrou na Terra: afinal era um gás quase nada reativo, o único não metal com o sufixo «-ium».",
+  "dificuldade_estimada": 2,
+  "fontes": [
+    {
+      "url": "https://periodic-table.rsc.org/element/2/helium",
+      "dominio": "rsc.org",
+      "titulo": "Helium - Element information, properties and uses | Periodic Table (Royal Society of Chemistry)",
+      "nivel": 1,
+      "excerto": "Joseph Norman Lockyer recorded the same line by observing the sun through London smog and, assuming the new element to be a metal, he named it helium. [...] helium remains the only non-metal whose name ends with the suffix -ium, an ending otherwise exclusively reserved for metals.",
+      "consultada_em": "2026-11-06",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://winter.group.shef.ac.uk/webelements/helium/history.html",
+      "dominio": "shef.ac.uk",
+      "titulo": "WebElements Periodic Table » Helium » historical information (Prof. Mark J. Winter, Universidade de Sheffield)",
+      "nivel": 1,
+      "excerto": "Janssen [...] first obtained evidence for the existence of helium during the solar eclipse of 1868 in India [...] In 1895, Sir William Ramsay discovered helium after treating cleveite, a uranium mineral, with mineral acids. [...] Lockyer and Professor Edward Frankland suggested the name helium.",
+      "consultada_em": "2026-11-06",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://rce.casadasciencias.org/rceapp/art/2014/187/",
+      "dominio": "casadasciencias.org",
+      "titulo": "Joseph Norman Lockyer - Revista de Ciência Elementar, V2(2):187 (D. Ribeiro, FCUP, 2014)",
+      "nivel": 1,
+      "excerto": "Joseph Norman Lockyer (1836 – 1920) foi um astrónomo britânico que, em 1868, descobriu um novo elemento químico na atmosfera solar, ao qual chamou hélio, de Helios [...] Lockyer descobriu o elemento químico hélio, 27 anos antes de este ser encontrado na Terra.",
+      "consultada_em": "2026-11-06",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-06-misto",
+  "criada_em": "2026-11-06",
+  "historico": [
+    {
+      "data": "2026-11-06",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Motivo do sufixo só afirmado na RSC (nível 1); segunda fonte independente fica para o verificador. Autoria do nome: WebElements diz Lockyer e Frankland, por isso a resposta diz 'quem lhe deu o nome'. Datas 1868/1895 com 3 fontes. Ângulo pouco batido: sem etiqueta classico (a confirmar pela originalidade). PDF de Jensen (J. Chem. Educ. 2004, homepages.uc.edu): erro de certificado SSL no leitor. Fontes PT de nível 1: Infopédia 403; nautilus.fis.uc.pt erro de rede; Revista de Ciência Elementar (FCUP) aberta e citada; um URL com acento falhou por erro de codificação no leitor; Britannica 403."
+    }
+  ],
+  "etiquetas": []
+}
