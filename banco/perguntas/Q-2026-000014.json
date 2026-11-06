@@ -1,0 +1,57 @@
+{
+  "id": "Q-2026-000014",
+  "lingua": "pt-PT",
+  "tema": "historia",
+  "subtema": "Astecas – economia",
+  "formato": "escolha-multipla",
+  "enunciado": "Nos mercados astecas, que sementes eram usadas como moeda?",
+  "opcoes": [
+    "Grãos de milho",
+    "Sementes de abóbora",
+    "Feijões",
+    "Sementes de cacau"
+  ],
+  "correta": 3,
+  "explicacao": "Segundo o arqueólogo Michael E. Smith, as sementes de cacau pagavam as compras do dia a dia no mercado e os tecidos de algodão serviam para os bens mais valiosos. Além de moeda, o cacau era a bebida da elite, e os astecas exigiam-no como tributo à região de Soconusco.",
+  "dificuldade_estimada": 2,
+  "fontes": [
+    {
+      "url": "https://exhibits.library.cornell.edu/chocolate-food-of-the-gods/feature/when-money-grew-on-trees",
+      "dominio": "cornell.edu",
+      "titulo": "When Money Grew on Trees | CHOCOLATE: Food of the Gods (Cornell University Library)",
+      "nivel": 1,
+      "excerto": "This facsimile from the Codex Mendoza (c. 1541) shows tribute that the Aztecs extracted twice a year from the cacao-growing region of Soconusco in southern Mexico. Next to the jaguar skins are two loads of cacao beans, which were used as currency as well as the drink of the elite.",
+      "consultada_em": "2026-11-06",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://news.asu.edu/content/asu-archaeologist-talks-aztec-currency-new-york-times",
+      "dominio": "asu.edu",
+      "titulo": "ASU archaeologist talks Aztec currency with New York Times | ASU News",
+      "nivel": 1,
+      "excerto": "Smith notes that ancient Mesoamerican currency was chiefly cacao for day-to-day items and cotton cloth for more valuable goods. \"If you wanted to buy a taco at the marketplace, you'd use cacao beans,\" says Smith",
+      "consultada_em": "2026-11-06",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-06-misto",
+  "criada_em": "2026-11-06",
+  "historico": [
+    {
+      "data": "2026-11-06",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Clássico de dificuldade 2 fixado pelo Andre. Enunciado diferente da 000011 (sem tributos). Explicação separa moeda de mercado (Smith/ASU) e tributo de Soconusco (Codex Mendoza/Cornell). Números de uma só fonte excluídos. Distratores por exclusão; amaranto evitado. Fonte portuguesa de nível 1: Infopédia ($cacau) — 403."
+    }
+  ],
+  "etiquetas": []
+}
