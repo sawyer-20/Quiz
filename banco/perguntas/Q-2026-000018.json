@@ -1,0 +1,66 @@
+{
+  "id": "Q-2026-000018",
+  "lingua": "pt-PT",
+  "tema": "musica",
+  "subtema": "compositores portugueses",
+  "formato": "escolha-multipla",
+  "enunciado": "A quem dedicou João Domingos Bomtempo o seu Requiem, editado em Paris no início de 1820?",
+  "opcoes": [
+    "A D. José I",
+    "Ao Infante D. Henrique",
+    "A Vasco da Gama",
+    "A Luís Vaz de Camões"
+  ],
+  "correta": 3,
+  "explicacao": "O Requiem em dó menor, op. 23, de Bomtempo é «À memória de Camões»: nasceu na sequência da edição parisiense de Os Lusíadas, promovida em 1817 pelo diplomata Morgado de Mateus. Um Requiem dedicado a um poeta.",
+  "dificuldade_estimada": 3,
+  "fontes": [
+    {
+      "url": "https://www.metropolitana.pt/en/musicalia/the-lusitanian-requiem/",
+      "dominio": "metropolitana.pt",
+      "titulo": "The Lusitanian Requiem (Metropolitana, Musicália)",
+      "nivel": 2,
+      "excerto": "On the title page of the first edition of João Domingos Bomtempo's Missa de Requiem [...] one can also read: «Ouvrage consacré à la Mémoire de Camões» [...] Bomtempo dedicated this work to Luís Vaz de Camões.",
+      "consultada_em": "2026-11-06",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://livros.fcsh.unl.pt/cham/catalog/download/172/712/2021?inline=1",
+      "dominio": "unl.pt",
+      "titulo": "Beatriz Peralta García, Universidade de Oviedo (CHAM, FCSH-UNL)",
+      "nivel": 1,
+      "excerto": "Réquiem, em dó menor, Op. 23, \"À memória de Camões\", uma obra muito conhecida de João Domingos Bomtempo (1775-1842) composta na sequência da edição em Paris de Os Lusíadas pelo diplomata Morgado de Mateus, em 1817.",
+      "consultada_em": "2026-11-06",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.mundoclasico.com/articulo/39172/nuevos-datos-acerca-de-las-primeras-audiciones-del-requiem-op-23-de-bomtempo-en-paris-y-londres",
+      "dominio": "mundoclasico.com",
+      "titulo": "Teresa Cascudo, Nuevos datos acerca de las primeras audiciones del Requiem op. 23 de Bomtempo (Mundoclasico)",
+      "nivel": 2,
+      "excerto": "Dedicado a la memoria de Luís de Camões, el Requiem op. 23 de Bomtempo ejemplifica una tendencia consolidada a lo largo del siglo XIX de interpretación de música de carácter sacro, no solo fuera de los templos [...]",
+      "consultada_em": "2026-11-06",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-06-misto",
+  "criada_em": "2026-11-06",
+  "historico": [
+    {
+      "data": "2026-11-06",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Data 'início de 1820' só na Metropolitana (300 exemplares por Leduc): confirmar com 2.ª fonte ou retirar do enunciado. Composição/estreia divergem entre fontes (1817-1819). Fontes PT de nível 1: Infopédia 403 (2 URLs); TNSC (tnsc.pt) 404; Revista Portuguesa de Musicologia aberta sem a informação; livros.fcsh.unl.pt (CHAM) aberta; Museu do Fado e Gulbenkian não abertos; Britannica 403."
+    }
+  ],
+  "etiquetas": []
+}
