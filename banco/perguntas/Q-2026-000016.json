@@ -1,0 +1,75 @@
+{
+  "id": "Q-2026-000016",
+  "lingua": "pt-PT",
+  "tema": "geografia",
+  "subtema": "relevo de Portugal",
+  "formato": "escolha-multipla",
+  "enunciado": "Em que serra fica o ponto mais alto de Portugal continental?",
+  "opcoes": [
+    "Serra do Gerês",
+    "Serra da Lousã",
+    "Serra do Marão",
+    "Serra da Estrela"
+  ],
+  "correta": 3,
+  "explicacao": "É a Torre, na Serra da Estrela, com 1993 m. Mas só é o topo do continente: o ponto mais alto do país é a Montanha do Pico, nos Açores, com 2351 m, um vulcão que é também o mais jovem e o maior vulcão poligenético do arquipélago.",
+  "dificuldade_estimada": 1,
+  "fontes": [
+    {
+      "url": "https://roteirodasminas.dgeg.gov.pt/en/lista-de-pontos/torre-plateau-geosite-en-1/",
+      "dominio": "dgeg.gov.pt",
+      "titulo": "Torre Plateau (Geosite), Seia, Covilhã e Manteigas — Roteiro das Minas e Pontos de Interesse Mineiro e Geológico de Portugal (DGEG)",
+      "nivel": 1,
+      "excerto": "The Torre Plateau, with an elevation rising from about 1,500 m in the north, at Penhas Douradas, to 1993 m at the Alto da Torre, is the highest summit in mainland Portugal.",
+      "consultada_em": "2026-11-06",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://geoparkestrela2.primelayer.pt/storage/conteudos/doc/doc_subconteudo_67f7f23212c559.44749431.pdf",
+      "dominio": "primelayer.pt",
+      "titulo": "Documento da Associação Geopark Estrela (Estrela Geopark Mundial da UNESCO)",
+      "nivel": 1,
+      "excerto": "A Serra da Estrela, maior elevação de Portugal Continental, apresenta altitudes variáveis, que vão desde os 400 metros, nas regiões mais baixas, até aos 1993 metros de altitude na Torre.",
+      "consultada_em": "2026-11-06",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://roteirodasminas.dgeg.gov.pt/en/lista-de-pontos/montanha-do-pico-geosite-en-1/",
+      "dominio": "dgeg.gov.pt",
+      "titulo": "Montanha do Pico - Geosite, Santa Luzia — Roteiro das Minas (DGEG)",
+      "nivel": 1,
+      "excerto": "Pico Mountain (Montanha) is the highest point of Portugal (with 2,351 m altitude) and the youngest and biggest polygenetic volcano of the Azores.",
+      "consultada_em": "2026-11-06",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://acores.rtp.pt/local/instalado-novo-marco-geodesico-no-ponto-mais-alto-de-portugal/",
+      "dominio": "rtp.pt",
+      "titulo": "Instalado novo marco geodésico no ponto mais alto de Portugal — RTP Açores (16 out 2023)",
+      "nivel": 2,
+      "excerto": "A montanha do Pico tem um novo marco geodésico – assinala 2.351 metros de altitude, que corresponde ao ponto mais alto de Portugal.",
+      "consultada_em": "2026-11-06",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-06-misto",
+  "criada_em": "2026-11-06",
+  "historico": [
+    {
+      "data": "2026-11-06",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Facto clássico (só para dificuldade 1); ângulo novo na explicação (Pico > Torre). Altitudes com duas fontes cada. 'Mais jovem e maior vulcão poligenético' só na DGEG. Lenda de D. João VI excluída. Altitudes dos distratores não verificadas. Fontes PT de nível 1: Infopédia (3 URLs) 403; ICNF aberta sem altitude; geoparkestrela.pt aberta quase sem texto; parquesnaturais.azores.gov.pt 403; DGEG aberta e citada; PDF Geopark Estrela aberto e citado; VisitPortugal anti-bot; INE/Pordata não tentados."
+    }
+  ],
+  "etiquetas": []
+}

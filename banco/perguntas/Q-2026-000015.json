@@ -1,0 +1,66 @@
+{
+  "id": "Q-2026-000015",
+  "lingua": "pt-PT",
+  "tema": "historia",
+  "subtema": "Descobrimentos portugueses",
+  "formato": "escolha-multipla",
+  "enunciado": "Segundo Duarte Pacheco Pereira, no Esmeraldo de Situ Orbis, quem pôs o nome ao Cabo da Boa Esperança?",
+  "opcoes": [
+    "D. João II",
+    "Bartolomeu Dias",
+    "D. Manuel I",
+    "Vasco da Gama"
+  ],
+  "correta": 1,
+  "explicacao": "No Esmeraldo, Pacheco Pereira, que encontrou Dias no regresso dessa viagem, escreve que foi o próprio Dias a pôr-lhe o nome, ao ver a costa virar para norte, rumo à Índia. A versão do rei a rebatizar o «Cabo Tormentoso» vem de João de Barros.",
+  "dificuldade_estimada": 4,
+  "fontes": [
+    {
+      "url": "https://archive.org/download/dli.ernet.534920/534920-Esmeraldo%20De%20Situ%20Orbis_djvu.txt",
+      "dominio": "archive.org",
+      "titulo": "Duarte Pacheco Pereira, Esmeraldo de Situ Orbis (edição crítica em português, livro III, cap. 7), digitalização da Digital Library of India no archive.org",
+      "nivel": 1,
+      "excerto": "Não sem muita razão se pôs nome a este promontorio «Cabo de Boa Esperança», porque Bertolomeu Dias, que o descobriu per mandado del-rei D. João [...] vendo que esta costa [...] voltava dali em diante ao norte [...] por esta causa lhe pôs nome «Cabo",
+      "consultada_em": "2026-11-06",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://archive.org/download/in.ernet.dli.2015.57074/2015.57074.Esmeraldo-De-Situ-Orbis_djvu.txt",
+      "dominio": "archive.org",
+      "titulo": "Esmeraldo de Situ Orbis, trad. e ed. George H. T. Kimble, Hakluyt Society, 2.ª série, n.º 79 (1937), pp. 153-154 e nota 7",
+      "nivel": 1,
+      "excerto": "The usual tradition, based upon Barros, is that Dias named it the Stormy Cape [...] but that King John changed it to that of Cape of Good Hope [...] Moreover Pacheco met Dias on his return voyage at Ilho de Principe",
+      "consultada_em": "2026-11-06",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://sahistory.org.za/people/bartolomeu-dias",
+      "dominio": "sahistory.org.za",
+      "titulo": "Bartolomeu Dias | South African History Online",
+      "nivel": 2,
+      "excerto": "Legend has it, Dias called Cabo Tormentosa, and the Portuguese king supposedly renamed it Cabo da Boa Esperanca. Professor Axelson scotches this with reference to Pacheco Pereira's statement [...] (Axelson, 1972: 149).",
+      "consultada_em": "2026-11-06",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-06-misto",
+  "criada_em": "2026-11-06",
+  "historico": [
+    {
+      "data": "2026-11-06",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Condição de nível 1 cumprida: atribuição no próprio Esmeraldo (livro III, cap. 7), em português e na edição Hakluyt (Kimble 1937), ambas no archive.org (mesmo domínio). SAHO (nível 2) cita Axelson. D. João II defensável 'segundo a tradição' (Barros): o enunciado tem de manter 'Segundo Duarte Pacheco Pereira'. Proximidade com a 000006 (rejeitada). Datas excluídas (só Kimble). Fontes PT de nível 1: Revista Portuguesa de História (Univ. Coimbra) aberta, sem a passagem; Esmeraldo PT (archive.org) aberto; BNP e KBHA 20 não tentados; Britannica 403."
+    }
+  ],
+  "etiquetas": []
+}
