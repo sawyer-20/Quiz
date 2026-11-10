@@ -2,7 +2,7 @@
   "id": "Q-2026-000020",
   "lingua": "pt-PT",
   "tema": "literatura",
-  "subtema": "prémios históricos",
+  "subtema": "Prémios históricos – Nobel",
   "formato": "escolha-multipla",
   "enunciado": "O Nobel da Literatura de 1902 foi para o historiador Theodor Mommsen. Que obra a Academia Sueca destacou?",
   "opcoes": [
@@ -12,7 +12,7 @@
     "Uma história da Grécia antiga"
   ],
   "correta": 1,
-  "explicacao": "A Academia Sueca premiou Mommsen como \"o maior mestre vivo da arte de escrever história\", com referência especial à sua monumental História de Roma, escrita em parte quando era professor em Zurique.",
+  "explicacao": "Uma história de Roma. A Academia Sueca premiou Mommsen como «o maior mestre vivo da arte de escrever história», com referência especial à sua monumental História de Roma, escrita em parte quando era professor em Zurique.",
   "dificuldade_estimada": 3,
   "fontes": [
     {
@@ -57,11 +57,17 @@
       "notas": "Advogado: citação oficial lida diretamente em nobelprize.org e uzh.ch; opções inequívocas.",
       "data": "2026-11-10"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "explicação começa pela resposta",
+      "data": "2026-11-10"
+    }
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-06-misto",
   "criada_em": "2026-11-06",
@@ -89,6 +95,18 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: Uma história de Roma; depois: Uma história de Roma"
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": [

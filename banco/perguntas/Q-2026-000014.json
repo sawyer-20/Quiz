@@ -12,7 +12,7 @@
     "Sementes de cacau"
   ],
   "correta": 3,
-  "explicacao": "Segundo o arqueólogo Michael E. Smith, as sementes de cacau pagavam as compras do dia a dia no mercado e os tecidos de algodão serviam para os bens mais valiosos. Além de moeda, o cacau era a bebida da elite, e os astecas exigiam-no como tributo à região de Soconusco.",
+  "explicacao": "Sementes de cacau. Segundo o arqueólogo Michael E. Smith, pagavam as compras do dia a dia, enquanto os tecidos de algodão serviam para os bens mais valiosos. O cacau era também a bebida da elite e um tributo exigido à região de Soconusco.",
   "dificuldade_estimada": 2,
   "fontes": [
     {
@@ -57,11 +57,17 @@
       "notas": "Cornell e ASU nível 1; Mexicolore nível 2; Infopédia 403.",
       "data": "2026-11-10"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "explicação reordenada e encurtada",
+      "data": "2026-11-10"
+    }
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-06-misto",
   "criada_em": "2026-11-06",
@@ -89,6 +95,18 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: Sementes de cacau; depois: Sementes de cacau"
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": [

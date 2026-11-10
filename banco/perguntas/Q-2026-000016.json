@@ -2,7 +2,7 @@
   "id": "Q-2026-000016",
   "lingua": "pt-PT",
   "tema": "geografia",
-  "subtema": "relevo de Portugal",
+  "subtema": "Relevo de Portugal",
   "formato": "escolha-multipla",
   "enunciado": "Em que serra fica o ponto mais alto de Portugal continental?",
   "opcoes": [
@@ -12,7 +12,7 @@
     "Serra do Gerês"
   ],
   "correta": 0,
-  "explicacao": "É a Torre, na Serra da Estrela, com 1993 m. Mas só é o topo do continente: o ponto mais alto do país é a Montanha do Pico, nos Açores, com 2351 m.",
+  "explicacao": "Na Serra da Estrela, na Torre, com 1993 m. Mas é só o topo do continente: o ponto mais alto do país é a Montanha do Pico, nos Açores, com 2351 m.",
   "dificuldade_estimada": 1,
   "fontes": [
     {
@@ -75,11 +75,17 @@
       "notas": "Advogado (2.ª passagem): sem outra serra ou valor; 1993 m e Pico 2351 m coerentes; enunciado fixa continental. Infopédia só vista em resumo, não guardada.",
       "data": "2026-11-10"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "explicação começa pela resposta",
+      "data": "2026-11-10"
+    }
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-06-misto",
   "criada_em": "2026-11-06",
@@ -119,6 +125,18 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: Serra da Estrela; depois: Serra da Estrela"
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": [
