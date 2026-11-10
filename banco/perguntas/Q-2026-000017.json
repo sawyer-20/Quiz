@@ -66,8 +66,8 @@
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
-  "motivo_rejeicao": null,
+  "estado": "rejeitada",
+  "motivo_rejeicao": "2.º ciclo de correção esgotado (regra 14): motivo do sufixo é interpretação (RSC afirma; LANL e Jensen 2004 dizem não documentado); reescrever",
   "lote": "lote-2026-11-06-misto",
   "criada_em": "2026-11-06",
   "historico": [
@@ -106,6 +106,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte lanl.gov"
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "rejeitada",
+      "agente": "advogado-do-diabo",
+      "nota": "2.º ciclo de correção esgotado (regra 14): motivo do sufixo é interpretação (RSC afirma; LANL e Jensen 2004 dizem não documentado); reescrever"
     }
   ],
   "etiquetas": []
