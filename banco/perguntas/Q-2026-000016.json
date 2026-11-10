@@ -69,7 +69,15 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Facto clássico (só para dificuldade 1); ângulo novo na explicação (Pico > Torre). Altitudes com duas fontes cada. 'Mais jovem e maior vulcão poligenético' só na DGEG. Lenda de D. João VI excluída. Altitudes dos distratores não verificadas. Fontes PT de nível 1: Infopédia (3 URLs) 403; ICNF aberta sem altitude; geoparkestrela.pt aberta quase sem texto; parquesnaturais.azores.gov.pt 403; DGEG aberta e citada; PDF Geopark Estrela aberto e citado; VisitPortugal anti-bot; INE/Pordata não tentados."
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "Wayground (relevo em Portugal), FunTrivia (Portugal Geographic), GlobalQuiz: facto clássico; enunciado e conjunto de opções não coincidem. Pesquisas completas."
     }
   ],
-  "etiquetas": []
+  "etiquetas": [
+    "classico"
+  ]
 }

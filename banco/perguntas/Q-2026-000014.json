@@ -51,7 +51,15 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Clássico de dificuldade 2 fixado pelo Andre. Enunciado diferente da 000011 (sem tributos). Explicação separa moeda de mercado (Smith/ASU) e tributo de Soconusco (Codex Mendoza/Cornell). Números de uma só fonte excluídos. Distratores por exclusão; amaranto evitado. Fonte portuguesa de nível 1: Infopédia ($cacau) — 403."
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "Facto corrente em quizzes (Wayground '7.º ano História Astecas': Cacau/Feijão/Milho/Pimenta; ProProfs; Fatskills); enunciado exato inexistente. Atenção do agente: o Wayground partilha 3 das 4 opções (cacau, feijão, milho); a 4.ª difere (pimenta vs abóbora): não é o mesmo conjunto. Pesquisas completas."
     }
   ],
-  "etiquetas": []
+  "etiquetas": [
+    "classico"
+  ]
 }

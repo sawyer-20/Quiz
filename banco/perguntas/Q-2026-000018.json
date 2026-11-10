@@ -60,6 +60,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Data 'início de 1820' só na Metropolitana (300 exemplares por Leduc): confirmar com 2.ª fonte ou retirar do enunciado. Composição/estreia divergem entre fontes (1817-1819). Fontes PT de nível 1: Infopédia 403 (2 URLs); TNSC (tnsc.pt) 404; Revista Portuguesa de Musicologia aberta sem a informação; livros.fcsh.unl.pt (CHAM) aberta; Museu do Fado e Gulbenkian não abertos; Britannica 403."
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Nem o enunciado nem o facto aparecem como pergunta de quiz. O agente nota que as datas da obra divergem entre fontes (1817-1819, 1818-1819, 1819-1820), o que toca no 'editado em Paris no início de 1820' do enunciado. Pesquisas completas."
     }
   ],
   "etiquetas": []

@@ -60,6 +60,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Motivo do sufixo só afirmado na RSC (nível 1); segunda fonte independente fica para o verificador. Autoria do nome: WebElements diz Lockyer e Frankland, por isso a resposta diz 'quem lhe deu o nome'. Datas 1868/1895 com 3 fontes. Ângulo pouco batido: sem etiqueta classico (a confirmar pela originalidade). PDF de Jensen (J. Chem. Educ. 2004, homepages.uc.edu): erro de certificado SSL no leitor. Fontes PT de nível 1: Infopédia 403; nautilus.fis.uc.pt erro de rede; Revista de Ciência Elementar (FCUP) aberta e citada; um URL com acento falhou por erro de codificação no leitor; Britannica 403."
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Nenhuma pergunta de escolha múltipla sobre o motivo do sufixo -ium; só trivia vizinha (qual o outro não metal em -ium) e um exercício de manual de resposta aberta. Pesquisas completas."
     }
   ],
   "etiquetas": []

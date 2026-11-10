@@ -1,0 +1,57 @@
+{
+  "id": "Q-2026-000023",
+  "lingua": "pt-PT",
+  "tema": "desporto",
+  "subtema": "História dos Jogos Olímpicos",
+  "formato": "escolha-multipla",
+  "enunciado": "Pierre de Coubertin, fundador dos Jogos Olímpicos modernos, ganhou uma medalha de ouro olímpica em 1912. Em quê?",
+  "opcoes": [
+    "Hipismo",
+    "Tiro",
+    "Esgrima",
+    "Literatura"
+  ],
+  "correta": 3,
+  "explicacao": "Os Jogos de Estocolmo de 1912 tiveram concursos de arte com medalhas. O ouro de literatura foi para a «Ode ao Desporto», assinada por Georges Hohrod e M. Eschbach, dados como alemães. Era um duplo pseudónimo: o autor do poema era o próprio Coubertin.",
+  "dificuldade_estimada": 3,
+  "fontes": [
+    {
+      "url": "https://www.olympedia.org/results/920001",
+      "dominio": "olympedia.org",
+      "titulo": "Olympedia – Literature, Open (1912 Summer Olympics)",
+      "nivel": 2,
+      "excerto": "The gold medal for literature was awarded to “Georges Hohrod et M. Eschbach, Germany”, for the work “Ode to Sport,” [...] But in reality, the poetic ode had been written by Pierre, Baron de Coubertin, who entered it in the competitions under the dual pseudonym.",
+      "consultada_em": "2026-11-10",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.smithsonianmag.com/history/poetry-was-an-official-olympic-event-for-nearly-40-years-what-happened-180984838/",
+      "dominio": "smithsonianmag.com",
+      "titulo": "Smithsonian Magazine – Poetry Was an Official Olympic Event for Nearly 40 Years. What Happened?",
+      "nivel": 2,
+      "excerto": "they were pseudonyms for the man who had conceived the whole idea: The author of “Ode to Sport” was none other than Coubertin himself. [...] Organizers put the arts competitions on hold until the Stockholm Games in 1912.",
+      "consultada_em": "2026-11-10",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-06-misto",
+  "criada_em": "2026-11-10",
+  "historico": [
+    {
+      "data": "2026-11-10",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "SEM FONTE DE NÍVEL 1 LIDA: Olympedia e Smithsonian são nível 2; olympics.com (COI) deu timeout em 3 páginas; Britannica 403. Alvo era dificuldade 2, estimada 3. Facto circula em listas de curiosidades olímpicas (possível clássico). Nomes do pseudónimo e 'Alemanha' só na Olympedia. Verificador deve confirmar que a única medalha olímpica de Coubertin é a de literatura. Fontes PT de nível 1: Infopédia 403 (2 URLs); comiteolimpicoportugal.pt/olimpismo 404, página inicial aberta sem menção; IPDJ não tentado."
+    }
+  ],
+  "etiquetas": []
+}
