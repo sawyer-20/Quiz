@@ -51,7 +51,15 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Fontes nobelprize.org e uzh.ch abertas (nível 1). Britannica 403/ENOTFOUND. Fontes PT de nível 1 não tentadas (facto do Nobel bem coberto). Enunciado diz 'historiador' (pista parcial para 'história', não para Roma). Distratores plausíveis. Título alemão Römische Geschichte não usado."
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "Facto de Nobel muito conhecido; nenhuma página de quiz com este enunciado nem opções; por prudência fica classico (indício fraco de circulação como pergunta). Pesquisas completas."
     }
   ],
-  "etiquetas": []
+  "etiquetas": [
+    "classico"
+  ]
 }

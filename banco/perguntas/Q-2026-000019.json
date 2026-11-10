@@ -57,6 +57,12 @@
       "evento": "corrigida pelo pesquisador (formato)",
       "agente": "pesquisador",
       "nota": "Resposta certa encurtada de 64 para 54 caracteres (limite 60); distratores, enunciado, explicação e fontes iguais. Ainda não verificada: sem ciclo gasto."
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Nenhum quiz com este enunciado, ângulo ou opções (só páginas informativas). Pesquisas completas."
     }
   ],
   "etiquetas": []
