@@ -6,13 +6,13 @@
   "formato": "escolha-multipla",
   "enunciado": "O Grande Panorama de Lisboa mostra a cidade vista do Tejo antes do terramoto de 1755. Em que suporte foi feito?",
   "opcoes": [
-    "Azulejo",
-    "Óleo sobre tela",
+    "Gravura em cobre",
     "Tapeçaria",
-    "Gravura em cobre"
+    "Óleo sobre tela",
+    "Azulejo"
   ],
-  "correta": 0,
-  "explicacao": "É um painel de azulejos pintado a azul sobre branco, atribuído a Gabriel del Barco e guardado no Museu Nacional do Azulejo. Mostra edifícios que desapareceram com o terramoto de 1755 e outros que resistiram, como a Torre de Belém e o Mosteiro dos Jerónimos.",
+  "correta": 3,
+  "explicacao": "Painel de azulejos pintado a azul sobre branco, atribuído a Gabriel del Barco e guardado no Museu Nacional do Azulejo. Mostra a Lisboa anterior a 1755, com a Torre de Belém e o Mosteiro dos Jerónimos entre os edifícios representados.",
   "dificuldade_estimada": 2,
   "fontes": [
     {
@@ -32,26 +32,10 @@
       "excerto": "mostra-nos a mais completa vista da cidade, a partir do rio Tejo, antes do Terramoto que a destruiu em 1755. [...] Tipo: Azulejo. Material: Faiança a azul sobre branco",
       "consultada_em": "2026-11-10",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://maislisboa.fcsh.unl.pt/percurso-rocambulesco-do-grande-panorama-lisboa/",
-      "dominio": "unl.pt",
-      "titulo": "O percurso 'rocambolesco' do Grande Panorama de Lisboa - FCSH+Lisboa (NOVA FCSH)",
-      "nivel": 1,
-      "excerto": "Este emblemático painel de azulejos, com 23 metros de comprimento, é da autoria do mestre espanhol Gabriel del Barco (1649-1703) e retrata a cidade antes do terramoto de 1755.",
-      "consultada_em": "2026-11-10",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Azulejo",
-      "concorda": true,
-      "confianca": "alta",
-      "dominio": "unl.pt",
-      "data": "2026-11-10",
-      "notas": "Fonte universitária (NOVA FCSH); painel de azulejos hoje no Museu Nacional do Azulejo. Só uma fonte nível 1 lida, falta 2.ª independente."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -79,6 +63,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte unl.pt"
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "advogado: não afirmar que resistiram ao terramoto"
     }
   ],
   "etiquetas": []

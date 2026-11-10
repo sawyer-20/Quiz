@@ -52,7 +52,11 @@
       "data": "2026-11-10",
       "notas": "EBSCO (nível 2) aberta; Britannica 403. A citação da Academia só vista num espelho em resultado de pesquisa, não aberta. Outras opções incompatíveis."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "Advogado: citação oficial lida diretamente em nobelprize.org e uzh.ch; opções inequívocas.",
+      "data": "2026-11-10"
+    },
     "editor": null
   },
   "sensivel_ao_tempo": false,
@@ -79,6 +83,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte ebsco.com (nível 2)"
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": [

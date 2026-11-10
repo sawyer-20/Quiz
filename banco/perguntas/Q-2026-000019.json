@@ -34,25 +34,31 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://apaladewalsh.com/2017/08/retrato-de-projeccao-15-a-cinemateca-portuguesa-museu-do-cinema/",
-      "titulo": "Retrato de projecção #15: A Cinemateca Portuguesa-Museu do Cinema (À pala de Walsh)",
-      "nivel": 2,
-      "excerto": "Esta sala foi destruída em abril de 1981 por um incêndio causado pela combustão parcial de uma cópia de nitrato – evento traumático, mas felizmente sem perdas de vida nem feridos.",
-      "dominio": "apaladewalsh.com",
+      "url": "https://www.cinemateca.pt/programacao.aspx?ciclo=1990",
+      "dominio": "cinemateca.pt",
+      "titulo": "Cinemateca - Programação (ciclo Uma Cinemateca em Chamas)",
+      "nivel": 1,
+      "excerto": "a 23 de abril do ano seguinte um incêndio, provocado pela combustão de um rolo de película com nitrato de celulose, destruiu por completo a sala desta instituição.",
       "consultada_em": "2026-11-10",
-      "papel": "verificador"
+      "papel": "advogado"
+    },
+    {
+      "url": "https://filmspot.pt/artigo/cinemateca-portuguesa-celebra-a-arte-da-projecao-analogica-em-janeiro-14951/",
+      "dominio": "filmspot.pt",
+      "titulo": "filmSPOT - Cinemateca celebra a arte da projeção analógica",
+      "nivel": 2,
+      "excerto": "o incêndio que, em 1981, destruiu a sala da Cinemateca devido à combustão de película de nitrato, sublinhando a natureza frágil e inflamável da matéria-prima do cinema.",
+      "consultada_em": "2026-11-10",
+      "papel": "advogado"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "A combustão de um rolo de filme em nitrato de celulose",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "apaladewalsh.com",
-      "data": "2026-11-10",
-      "notas": "ATENÇÃO para o advogado: o próprio verificador diz que a fonte (site de autor sobre projeção) 'pode ser considerada blogue', logo de nível discutível; abriu também filmspot.pt (imprensa de cinema, nível 2): 'o incêndio que, em 1981, destruiu a sala da Cinemateca devido à combustão de película de nitrato'. Nenhuma de nível 1 independente (cinemateca.pt e rtp.pt proibidos)."
+    "verificador": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "Advogado: origem sustentada por Cinemateca (2 páginas), RTP e filmSPOT; blogue apaladewalsh.com retirado das fontes (proibido).",
+      "data": "2026-11-10"
     },
-    "advogado": null,
     "editor": null
   },
   "sensivel_ao_tempo": false,
@@ -85,6 +91,18 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte apaladewalsh.com (nível 2)"
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "verificação reaberta",
+      "agente": "orquestrador",
+      "nota": "fonte do verificador (apaladewalsh.com, blogue) retirada por indicação do advogado; nova verificação às cegas necessária"
     }
   ],
   "etiquetas": []

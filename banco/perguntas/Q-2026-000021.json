@@ -6,13 +6,13 @@
   "formato": "escolha-multipla",
   "enunciado": "De que país veio o professor contratado por D. João VI para fundar em Lisboa o Real Instituto de Surdos-Mudos e Cegos?",
   "opcoes": [
-    "Suécia",
-    "Espanha",
     "França",
-    "Inglaterra"
+    "Suécia",
+    "Inglaterra",
+    "Espanha"
   ],
-  "correta": 0,
-  "explicacao": "O sueco Pär Aron Borg já tinha fundado um instituto do mesmo género no seu país e criou um alfabeto manual próprio para ensinar a escrita. É por isso que o alfabeto da língua gestual portuguesa e o da sueca revelam uma origem comum.",
+  "correta": 1,
+  "explicacao": "O sueco Pär Aron Borg já tinha fundado um instituto semelhante no seu país e criou o alfabeto manual que usou em Lisboa. Segundo o Governo português, o alfabeto da língua gestual portuguesa e o da sueca revelam uma origem comum.",
   "dificuldade_estimada": 3,
   "fontes": [
     {
@@ -32,26 +32,10 @@
       "excerto": "No século XIX, o rei D. João VI chamou a Portugal Per Aron Borg, um sueco que tinha fundado no seu país um instituto para educação de surdos. Em 1823 é criada a primeira escola para surdos em Portugal e ainda que o vocabulário da LGP e da LGS seja diferente, o alfabeto das duas línguas revela a sua ",
       "consultada_em": "2026-11-10",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://mediacoes.ese.ips.pt/index.php/mediacoesonline/article/download/297/pdf/1829",
-      "titulo": "Mediações - Revista Online da ESE do Instituto Politécnico de Setúbal (vol. 9, n.º 1, 2021)",
-      "nivel": 1,
-      "excerto": "educação de surdos em Portugal começou formalmente em 1823 com a fundação do Real Instituto de Surdos-Mudos e Cegos pelo professor sueco Per Aron Borg a pedido do Rei D. João VI",
-      "dominio": "ips.pt",
-      "consultada_em": "2026-11-10",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Suécia",
-      "concorda": true,
-      "confianca": "alta",
-      "dominio": "ips.pt",
-      "data": "2026-11-10",
-      "notas": "Artigo científico de revista de instituto politécnico público, PDF lido. França, Espanha e Inglaterra excluídas. O artigo tem uma gralha de data (1909 por 1809), irrelevante."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -79,6 +63,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte ips.pt (nível 1)"
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "advogado: atribuir a afirmação ao Governo; retirar datas"
     }
   ],
   "etiquetas": []
