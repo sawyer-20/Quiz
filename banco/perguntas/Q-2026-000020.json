@@ -1,0 +1,57 @@
+{
+  "id": "Q-2026-000020",
+  "lingua": "pt-PT",
+  "tema": "literatura",
+  "subtema": "prémios históricos",
+  "formato": "escolha-multipla",
+  "enunciado": "O Nobel da Literatura de 1902 foi para o historiador Theodor Mommsen. Que obra a Academia Sueca destacou?",
+  "opcoes": [
+    "Um romance histórico sobre Júlio César",
+    "Uma história de Roma",
+    "Uma tradução latina da Eneida",
+    "Uma história da Grécia antiga"
+  ],
+  "correta": 1,
+  "explicacao": "A Academia Sueca premiou Mommsen como \"o maior mestre vivo da arte de escrever história\", com referência especial à sua monumental História de Roma, escrita em parte quando era professor em Zurique.",
+  "dificuldade_estimada": 3,
+  "fontes": [
+    {
+      "url": "https://www.nobelprize.org/prizes/literature/1902/summary/",
+      "dominio": "nobelprize.org",
+      "titulo": "The Nobel Prize in Literature 1902 - NobelPrize.org",
+      "nivel": 1,
+      "excerto": "The Nobel Prize in Literature 1902 was awarded to Christian Matthias Theodor Mommsen \"the greatest living master of the art of historical writing, with special reference to his monumental work, A history of Rome\"",
+      "consultada_em": "2026-11-06",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://uzh.ch/en/researchinnovation/excellence/nobelprize/mommsen.html",
+      "dominio": "uzh.ch",
+      "titulo": "Theodor Mommsen – Nobel Prize in Literature 1902 | University of Zurich",
+      "nivel": 1,
+      "excerto": "Mommsen wrote his monumental History of Rome during his time as Professor at the University of Zurich. [...] for which, some 50 years later in 1902, he was awarded the Nobel Prize in Literature.",
+      "consultada_em": "2026-11-06",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-06-misto",
+  "criada_em": "2026-11-06",
+  "historico": [
+    {
+      "data": "2026-11-06",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Fontes nobelprize.org e uzh.ch abertas (nível 1). Britannica 403/ENOTFOUND. Fontes PT de nível 1 não tentadas (facto do Nobel bem coberto). Enunciado diz 'historiador' (pista parcial para 'história', não para Roma). Distratores plausíveis. Título alemão Römische Geschichte não usado."
+    }
+  ],
+  "etiquetas": []
+}

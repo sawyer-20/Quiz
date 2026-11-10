@@ -9,7 +9,7 @@
     "Um curto-circuito no quadro elétrico da sala",
     "Uma descarga elétrica durante uma trovoada",
     "Uma falha no sistema de aquecimento da sala",
-    "A combustão de um rolo de filme em suporte de nitrato de celulose"
+    "A combustão de um rolo de filme em nitrato de celulose"
   ],
   "correta": 3,
   "explicacao": "O fogo começou na cabine de projeção, quando um rolo de uma cópia em nitrato de celulose ardeu, e propagou-se à sala, que ficou totalmente destruída. O nitrato é um suporte de filme altamente inflamável.",
@@ -51,6 +51,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Cópia de nitrato descrita como causa por Cinemateca e RTP Arquivos (domínios diferentes). RTP Arquivos nível 1 discutível (se for 2, a Cinemateca mantém nível 1 para factos sobre ela). 'Nitrato' vs 'nitrato de celulose'. Fontes PT de nível 1: cinemateca.pt (História e PDF de 2003) aberta; RTP Arquivos (2 entradas) aberta; culturaportugal.gov.pt aberta sem incêndio; DN arquivo aberto; BNP (dichp.bnportugal.gov.pt, PDF) aberta; Infopédia 403 (2 URLs); ICA não tentado."
+    },
+    {
+      "data": "2026-11-06",
+      "evento": "corrigida pelo pesquisador (formato)",
+      "agente": "pesquisador",
+      "nota": "Resposta certa encurtada de 64 para 54 caracteres (limite 60); distratores, enunciado, explicação e fontes iguais. Ainda não verificada: sem ciclo gasto."
     }
   ],
   "etiquetas": []
