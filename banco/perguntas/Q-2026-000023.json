@@ -41,8 +41,8 @@
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
-  "motivo_rejeicao": null,
+  "estado": "rejeitada",
+  "motivo_rejeicao": "ambiguidade: medalha em concurso de arte que o COI não reconhece como oficial, enunciado fala em medalha olímpica; sem fonte de nível 1 lida (na dúvida, rejeita). Alvo possível com outro enunciado.",
   "lote": "lote-2026-11-06-misto",
   "criada_em": "2026-11-10",
   "historico": [
@@ -57,6 +57,12 @@
       "evento": "originalidade: classico",
       "agente": "originalidade",
       "nota": "Guardian 2016 (quiz): 'In which event did Baron Pierre de Coubertin… win a gold medal at the 1912 Games?' (800m, Shot putt, Marathon, Mixed literature). Forma natural coincide; opções totalmente diferentes: não é cópia. Pesquisas completas."
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "rejeitada",
+      "agente": "verificador-cego",
+      "nota": "ambiguidade: medalha em concurso de arte que o COI não reconhece como oficial, enunciado fala em medalha olímpica; sem fonte de nível 1 lida (na dúvida, rejeita). Alvo possível com outro enunciado."
     }
   ],
   "etiquetas": [

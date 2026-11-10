@@ -13,3 +13,7 @@ pesquisador,canarios/C1+C2,93356
 pesquisador,A5/Q-2026-000023,200904
 originalidade,bloco1/Q14-Q18,86796
 originalidade,bloco2/Q19-Q23,45223
+verificador-cego,bloco1/Q14-Q17+C1,120263
+verificador-cego,bloco2/Q18-Q21+C2,101902
+verificador-cego,bloco3/Q22-Q23,193159
+advogado-do-diabo,blocoA/Q14-Q18,83721

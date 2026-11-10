@@ -32,10 +32,26 @@
       "excerto": "mostra-nos a mais completa vista da cidade, a partir do rio Tejo, antes do Terramoto que a destruiu em 1755. [...] Tipo: Azulejo. Material: Faiança a azul sobre branco",
       "consultada_em": "2026-11-10",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://maislisboa.fcsh.unl.pt/percurso-rocambulesco-do-grande-panorama-lisboa/",
+      "dominio": "unl.pt",
+      "titulo": "O percurso 'rocambolesco' do Grande Panorama de Lisboa - FCSH+Lisboa (NOVA FCSH)",
+      "nivel": 1,
+      "excerto": "Este emblemático painel de azulejos, com 23 metros de comprimento, é da autoria do mestre espanhol Gabriel del Barco (1649-1703) e retrata a cidade antes do terramoto de 1755.",
+      "consultada_em": "2026-11-10",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Azulejo",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "unl.pt",
+      "data": "2026-11-10",
+      "notas": "Fonte universitária (NOVA FCSH); painel de azulejos hoje no Museu Nacional do Azulejo. Só uma fonte nível 1 lida, falta 2.ª independente."
+    },
     "advogado": null,
     "editor": null
   },
@@ -57,6 +73,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "Nenhum quiz com o Grande Panorama de Lisboa nem sobre o suporte. Nota do agente: 'Azulejo' é muito evidente (nome do museu): questão de dificuldade, não de originalidade. Pesquisas completas."
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte unl.pt"
     }
   ],
   "etiquetas": []

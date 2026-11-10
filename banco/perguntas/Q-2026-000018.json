@@ -4,15 +4,15 @@
   "tema": "musica",
   "subtema": "compositores portugueses",
   "formato": "escolha-multipla",
-  "enunciado": "A quem dedicou João Domingos Bomtempo o seu Requiem, editado em Paris no início de 1820?",
+  "enunciado": "A quem dedicou João Domingos Bomtempo o seu Requiem, editado em Paris?",
   "opcoes": [
-    "A D. José I",
-    "Ao Infante D. Henrique",
+    "A Luís Vaz de Camões",
     "A Vasco da Gama",
-    "A Luís Vaz de Camões"
+    "A D. José I",
+    "Ao Infante D. Henrique"
   ],
-  "correta": 3,
-  "explicacao": "O Requiem em dó menor, op. 23, de Bomtempo é «À memória de Camões»: nasceu na sequência da edição parisiense de Os Lusíadas, promovida em 1817 pelo diplomata Morgado de Mateus. Um Requiem dedicado a um poeta.",
+  "correta": 0,
+  "explicacao": "O Requiem em dó menor, op. 23, de Bomtempo tem na edição parisiense a dedicatória «Ouvrage consacré à la Mémoire de Camões». Segundo Beatriz Peralta García, a obra foi composta na sequência da edição de Os Lusíadas promovida em Paris pelo diplomata Morgado de Mateus.",
   "dificuldade_estimada": 3,
   "fontes": [
     {
@@ -66,6 +66,18 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "Nem o enunciado nem o facto aparecem como pergunta de quiz. O agente nota que as datas da obra divergem entre fontes (1817-1819, 1818-1819, 1819-1820), o que toca no 'editado em Paris no início de 1820' do enunciado. Pesquisas completas."
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte e-cultura.pt (nível 2)"
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "advogado: data 1819/20 retirada; interpretação atribuída"
     }
   ],
   "etiquetas": []

@@ -32,10 +32,26 @@
       "excerto": "Incêndio na Cinemateca Portuguesa, devido à combustão de um rolo de uma cópia com suporte de nitrato de celulose, na cabine de projeção, propaga-se e destrói sala de cinema.",
       "consultada_em": "2026-11-06",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://apaladewalsh.com/2017/08/retrato-de-projeccao-15-a-cinemateca-portuguesa-museu-do-cinema/",
+      "titulo": "Retrato de projecção #15: A Cinemateca Portuguesa-Museu do Cinema (À pala de Walsh)",
+      "nivel": 2,
+      "excerto": "Esta sala foi destruída em abril de 1981 por um incêndio causado pela combustão parcial de uma cópia de nitrato – evento traumático, mas felizmente sem perdas de vida nem feridos.",
+      "dominio": "apaladewalsh.com",
+      "consultada_em": "2026-11-10",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "A combustão de um rolo de filme em nitrato de celulose",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "apaladewalsh.com",
+      "data": "2026-11-10",
+      "notas": "ATENÇÃO para o advogado: o próprio verificador diz que a fonte (site de autor sobre projeção) 'pode ser considerada blogue', logo de nível discutível; abriu também filmspot.pt (imprensa de cinema, nível 2): 'o incêndio que, em 1981, destruiu a sala da Cinemateca devido à combustão de película de nitrato'. Nenhuma de nível 1 independente (cinemateca.pt e rtp.pt proibidos)."
+    },
     "advogado": null,
     "editor": null
   },
@@ -63,6 +79,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "Nenhum quiz com este enunciado, ângulo ou opções (só páginas informativas). Pesquisas completas."
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte apaladewalsh.com (nível 2)"
     }
   ],
   "etiquetas": []

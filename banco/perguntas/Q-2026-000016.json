@@ -6,13 +6,13 @@
   "formato": "escolha-multipla",
   "enunciado": "Em que serra fica o ponto mais alto de Portugal continental?",
   "opcoes": [
-    "Serra do Gerês",
+    "Serra da Estrela",
     "Serra da Lousã",
     "Serra do Marão",
-    "Serra da Estrela"
+    "Serra do Gerês"
   ],
-  "correta": 3,
-  "explicacao": "É a Torre, na Serra da Estrela, com 1993 m. Mas só é o topo do continente: o ponto mais alto do país é a Montanha do Pico, nos Açores, com 2351 m, um vulcão que é também o mais jovem e o maior vulcão poligenético do arquipélago.",
+  "correta": 0,
+  "explicacao": "É a Torre, na Serra da Estrela, com 1993 m. Mas só é o topo do continente: o ponto mais alto do país é a Montanha do Pico, nos Açores, com 2351 m.",
   "dificuldade_estimada": 1,
   "fontes": [
     {
@@ -75,6 +75,18 @@
       "evento": "originalidade: classico",
       "agente": "originalidade",
       "nota": "Wayground (relevo em Portugal), FunTrivia (Portugal Geographic), GlobalQuiz: facto clássico; enunciado e conjunto de opções não coincidem. Pesquisas completas."
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte alusiada.pt (nível 1)"
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "advogado: retirada afirmação com uma só fonte"
     }
   ],
   "etiquetas": [

@@ -32,10 +32,26 @@
       "excerto": "Mommsen wrote his monumental History of Rome during his time as Professor at the University of Zurich. [...] for which, some 50 years later in 1902, he was awarded the Nobel Prize in Literature.",
       "consultada_em": "2026-11-06",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.ebsco.com/research-starters/history/theodor-mommsen/",
+      "titulo": "Theodor Mommsen (EBSCO Research Starters)",
+      "nivel": 2,
+      "excerto": "Mommsen's most celebrated work, Römische Geschichte (The History of Rome), ... earning him the Nobel Prize in Literature in 1902.",
+      "dominio": "ebsco.com",
+      "consultada_em": "2026-11-10",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Uma história de Roma",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "ebsco.com",
+      "data": "2026-11-10",
+      "notas": "EBSCO (nível 2) aberta; Britannica 403. A citação da Academia só vista num espelho em resultado de pesquisa, não aberta. Outras opções incompatíveis."
+    },
     "advogado": null,
     "editor": null
   },
@@ -57,6 +73,12 @@
       "evento": "originalidade: classico",
       "agente": "originalidade",
       "nota": "Facto de Nobel muito conhecido; nenhuma página de quiz com este enunciado nem opções; por prudência fica classico (indício fraco de circulação como pergunta). Pesquisas completas."
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte ebsco.com (nível 2)"
     }
   ],
   "etiquetas": [

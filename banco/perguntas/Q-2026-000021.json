@@ -32,10 +32,26 @@
       "excerto": "No século XIX, o rei D. João VI chamou a Portugal Per Aron Borg, um sueco que tinha fundado no seu país um instituto para educação de surdos. Em 1823 é criada a primeira escola para surdos em Portugal e ainda que o vocabulário da LGP e da LGS seja diferente, o alfabeto das duas línguas revela a sua ",
       "consultada_em": "2026-11-10",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://mediacoes.ese.ips.pt/index.php/mediacoesonline/article/download/297/pdf/1829",
+      "titulo": "Mediações - Revista Online da ESE do Instituto Politécnico de Setúbal (vol. 9, n.º 1, 2021)",
+      "nivel": 1,
+      "excerto": "educação de surdos em Portugal começou formalmente em 1823 com a fundação do Real Instituto de Surdos-Mudos e Cegos pelo professor sueco Per Aron Borg a pedido do Rei D. João VI",
+      "dominio": "ips.pt",
+      "consultada_em": "2026-11-10",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Suécia",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "ips.pt",
+      "data": "2026-11-10",
+      "notas": "Artigo científico de revista de instituto politécnico público, PDF lido. França, Espanha e Inglaterra excluídas. O artigo tem uma gralha de data (1909 por 1809), irrelevante."
+    },
     "advogado": null,
     "editor": null
   },
@@ -57,6 +73,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "Só artigos académicos e Wikipédia; nenhum quiz com o enunciado ou o facto. Facto de nicho. Pesquisas completas."
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte ips.pt (nível 1)"
     }
   ],
   "etiquetas": []

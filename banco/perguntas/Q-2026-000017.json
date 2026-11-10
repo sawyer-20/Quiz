@@ -4,15 +4,15 @@
   "tema": "ciencia",
   "subtema": "química",
   "formato": "escolha-multipla",
-  "enunciado": "Porque é que o hélio, que é um gás, recebeu um nome com o sufixo «-ium» (helium), próprio dos metais?",
+  "enunciado": "Segundo a Royal Society of Chemistry, porque é que o hélio, que é um gás, tem um nome com o sufixo «-ium», próprio dos metais?",
   "opcoes": [
-    "Por conduzir eletricidade como os metais",
-    "Quem lhe deu o nome julgou que era um metal",
     "Por ser o elemento mais abundante no Sol",
-    "Por ter sido isolado num minério de urânio"
+    "Por ter sido isolado num minério de urânio",
+    "Por conduzir eletricidade como os metais",
+    "Porque Lockyer, ao dar-lhe o nome, o supôs um metal"
   ],
-  "correta": 1,
-  "explicacao": "Em 1868, Lockyer viu no espetro do Sol uma risca amarela de um elemento desconhecido e, supondo que era um metal, chamou-lhe helium, de Helios (Sol). Só em 1895 Ramsay o encontrou na Terra: afinal era um gás quase nada reativo, o único não metal com o sufixo «-ium».",
+  "correta": 3,
+  "explicacao": "Segundo a Royal Society of Chemistry, Joseph Norman Lockyer, ao observar o Sol em 1868, supôs que o novo elemento era um metal e chamou-lhe helium, de Helios (Sol). Foi depois isolado por Ramsay em 1895, num minério de urânio, e é um gás quase nada reativo: o único não metal cujo nome termina em «-ium». O Laboratório Nacional de Los Alamos apresenta este motivo apenas como hipótese («talvez»).",
   "dificuldade_estimada": 2,
   "fontes": [
     {
@@ -66,6 +66,18 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "Nenhuma pergunta de escolha múltipla sobre o motivo do sufixo -ium; só trivia vizinha (qual o outro não metal em -ium) e um exercício de manual de resposta aberta. Pesquisas completas."
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte lanl.gov (nível 1)"
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "advogado: motivo atribuído à RSC; Ramsay isolou"
     }
   ],
   "etiquetas": []
