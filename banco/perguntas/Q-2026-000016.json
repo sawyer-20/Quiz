@@ -50,10 +50,26 @@
       "excerto": "A montanha do Pico tem um novo marco geodésico – assinala 2.351 metros de altitude, que corresponde ao ponto mais alto de Portugal.",
       "consultada_em": "2026-11-06",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://torreserradaestrela.pt/",
+      "dominio": "torreserradaestrela.pt",
+      "titulo": "Serra da Estrela - Torre",
+      "nivel": 2,
+      "excerto": "A real altitude desta área é de 1993 m, conforme acertos introduzidos por medições realizadas pelo Instituto Geográfico do Exército. [...] a Torre [...] assinala o ponto mais elevado da Serra da Estrela.",
+      "consultada_em": "2026-11-10",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Serra da Estrela",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "torreserradaestrela.pt",
+      "data": "2026-11-10",
+      "notas": "Li também knoow.net (1993 m) e outdoorportugal.pt (Marão 1416 m). Gerês 1548 m e Lousã 1205 m só vistos nos resultados, não abertos; muito abaixo de 1993 m. Britannica e Infopédia 403."
+    },
     "advogado": null,
     "editor": null
   },
@@ -87,6 +103,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "advogado: retirada afirmação com uma só fonte"
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte torreserradaestrela.pt"
     }
   ],
   "etiquetas": [

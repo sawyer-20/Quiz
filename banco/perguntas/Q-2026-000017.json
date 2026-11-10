@@ -41,10 +41,26 @@
       "excerto": "Joseph Norman Lockyer (1836 – 1920) foi um astrónomo britânico que, em 1868, descobriu um novo elemento químico na atmosfera solar, ao qual chamou hélio, de Helios [...] Lockyer descobriu o elemento químico hélio, 27 anos antes de este ser encontrado na Terra.",
       "consultada_em": "2026-11-06",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.lanl.gov/science-engineering/periodic-table/element/helium",
+      "dominio": "lanl.gov",
+      "titulo": "Helium He 2 | Periodic Table of Elements | Los Alamos National Laboratory",
+      "nivel": 1,
+      "excerto": "The \"-ium\" suffix is typically used for metals, but helium is definitely a non-metallic, noble gas. No one really knows why... Maybe discoverer Joseph Lockyer thought the element was a metal when he first saw it around the sun",
+      "consultada_em": "2026-11-10",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Porque Lockyer, ao dar-lhe o nome, o supôs um metal",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "lanl.gov",
+      "data": "2026-11-10",
+      "notas": "Leu LANL (n1) e registo ERIC de 'Why Helium Ends in -Ium' (J. Chem. Educ. 81(7):944, 2004). Outras opções excluídas. AMBIGUIDADE ASSINALADA PELO VERIFICADOR (para o advogado): A atribuição a Lockyer é uma hipótese, não um facto documentado. O LANL e o artigo do J. Chem. Educ. (Jensen et al., 2004, via ERIC) dizem que Lockyer não propôs o nome formalmente por escrito e que não se sabe porque escolheu «-ium». A frase «Segundo a RSC» não pôde ser confirmada (rsc.org proibido). Sem fonte PT de nível 1; Britannica 403."
+    },
     "advogado": null,
     "editor": null
   },
@@ -84,6 +100,12 @@
       "evento": "reformulada",
       "agente": "pesquisador",
       "nota": "explicação e enunciado encurtados"
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte lanl.gov"
     }
   ],
   "etiquetas": []

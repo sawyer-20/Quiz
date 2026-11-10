@@ -17,3 +17,6 @@ verificador-cego,bloco1/Q14-Q17+C1,120263
 verificador-cego,bloco2/Q18-Q21+C2,101902
 verificador-cego,bloco3/Q22-Q23,193159
 advogado-do-diabo,blocoA/Q14-Q18,83721
+pesquisador,correcao Q15+Q17,21682
+verificador-cego,reformuladas Q15-Q16-Q18,86497
+verificador-cego,reformulada Q17,52685

@@ -41,10 +41,26 @@
       "excerto": "Dedicado a la memoria de Luís de Camões, el Requiem op. 23 de Bomtempo ejemplifica una tendencia consolidada a lo largo del siglo XIX de interpretación de música de carácter sacro, no solo fuera de los templos [...]",
       "consultada_em": "2026-11-06",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.mic.pt/dispatcher?where=0&what=2&show=0&pessoa_id=463&lang=PT",
+      "dominio": "mic.pt",
+      "titulo": "Centro de Investigação & Informação da Música Portuguesa (MIC.PT) - João Domingos Bomtempo",
+      "nivel": 2,
+      "excerto": "fixou-se em Paris, onde publicou a Missa Requiem consagrada a Camões. [...] Requiem, op. 23, \"À memória de Camões\"",
+      "consultada_em": "2026-11-10",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "A Luís Vaz de Camões",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "mic.pt",
+      "data": "2026-11-10",
+      "notas": "Só uma fonte lida (MIC.PT); registo da BNP 'In Memoriam Luiz Vaz de Camões' só visto em resultados. AMBIGUIDADE ASSINALADA PELO VERIFICADOR (para o advogado): «Dedicou» aplica-se melhor a «consagrada à memória de Camões» do que a uma pessoa viva; a opção Camões é a única que condiz."
+    },
     "advogado": null,
     "editor": null
   },
@@ -78,6 +94,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "advogado: data 1819/20 retirada; interpretação atribuída"
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte mic.pt"
     }
   ],
   "etiquetas": []

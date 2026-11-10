@@ -41,10 +41,26 @@
       "excerto": "Legend has it, Dias called Cabo Tormentosa, and the Portuguese king supposedly renamed it Cabo da Boa Esperanca. Professor Axelson scotches this with reference to Pacheco Pereira's statement [...] (Axelson, 1972: 149).",
       "consultada_em": "2026-11-06",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://revistas.usp.br/revhistoria/pt_BR/article/download/128552/125388",
+      "dominio": "usp.br",
+      "titulo": "Revista de História (USP) - artigo com citações do Esmeraldo de Situ Orbis (L. III, Cap. 7)",
+      "nivel": 2,
+      "excerto": "Bertolomeu Dias, que o descobrio por mandado d'el-Rei Dom João [...] no ano de [...] 1488, [...] por esta causa lhe pôs nome cabo de Boa Esperança",
+      "consultada_em": "2026-11-10",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Bartolomeu Dias",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "usp.br",
+      "data": "2026-11-10",
+      "notas": "Citação indireta do L. III, cap. 7; só uma fonte encontrada; recomenda segunda fonte (edição crítica, gulbenkian.pt não aberta). Abertas: mic.pt, torreserradaestrela.pt; 403: britannica, infopedia. AMBIGUIDADE ASSINALADA PELO VERIFICADOR (para o advogado): Pelo Esmeraldo, quem pôs o nome foi Dias. João de Barros atribui o nome a D. João II (Dias teria chamado Tormentoso ao cabo). O enunciado fixa Pacheco Pereira, por isso D. João II fica excluído nesta leitura."
+    },
     "advogado": null,
     "editor": null
   },
@@ -84,6 +100,12 @@
       "evento": "reformulada",
       "agente": "pesquisador",
       "nota": "explicação encurtada (≤300)"
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte usp.br"
     }
   ],
   "etiquetas": []
