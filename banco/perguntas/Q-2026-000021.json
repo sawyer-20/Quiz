@@ -1,0 +1,57 @@
+{
+  "id": "Q-2026-000021",
+  "lingua": "pt-PT",
+  "tema": "portugal",
+  "subtema": "língua gestual e educação de surdos",
+  "formato": "escolha-multipla",
+  "enunciado": "De que país veio o professor contratado por D. João VI para fundar em Lisboa o Real Instituto de Surdos-Mudos e Cegos?",
+  "opcoes": [
+    "Suécia",
+    "Espanha",
+    "França",
+    "Inglaterra"
+  ],
+  "correta": 0,
+  "explicacao": "O sueco Pär Aron Borg já tinha fundado um instituto do mesmo género no seu país e criou um alfabeto manual próprio para ensinar a escrita. É por isso que o alfabeto da língua gestual portuguesa e o da sueca revelam uma origem comum.",
+  "dificuldade_estimada": 3,
+  "fontes": [
+    {
+      "url": "https://ciencia.ucp.pt/ws/files/94941997/94898216.pdf",
+      "dominio": "ucp.pt",
+      "titulo": "Porquê o termo Língua Gestual Portuguesa? (Diffractions, Graduate Journal for the Study of Culture, n.º 7, 2.ª série, dezembro de 2023, Universidade Católica Portuguesa)",
+      "nivel": 1,
+      "excerto": "Também Portugal veio a sofrer influências do Instituto de Paris através do professor sueco Pär Aron Borg, contratado pelo Rei D. João VI para fundar o Real Instituto de Surdos-Mudos e Cegos em Lisboa, com a mesma estrutura do Instituto de Cegos e Surdos-Mudos que já tinha fundado no seu país de orig",
+      "consultada_em": "2026-11-10",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.publico.pt/2017/11/14/p3/noticia/o-que-todos-deviamos-saber-sobre-lingua-gestual-em-dez-pontos-1828846",
+      "dominio": "publico.pt",
+      "titulo": "O que todos devíamos saber sobre língua gestual (em dez pontos) | PÚBLICO",
+      "nivel": 2,
+      "excerto": "No século XIX, o rei D. João VI chamou a Portugal Per Aron Borg, um sueco que tinha fundado no seu país um instituto para educação de surdos. Em 1823 é criada a primeira escola para surdos em Portugal e ainda que o vocabulário da LGP e da LGS seja diferente, o alfabeto das duas línguas revela a sua ",
+      "consultada_em": "2026-11-10",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-06-misto",
+  "criada_em": "2026-11-10",
+  "historico": [
+    {
+      "data": "2026-11-10",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Possível clássico (aparece em listas de divulgação). Não se afirma que a LGP 'deriva' da sueca: só o alfabeto. Distrator 'França' é o mais próximo (influência do Instituto de Paris), mas Borg é sueco. Sem datas (1823 só no Público; gralha 1909/1809 na UCP). 'Surdos-Mudos' só como nome histórico. Fontes PT de nível 1: ciencia.ucp.pt (2 PDF) abertos e legíveis; Infopédia 403; casapia.pt não tentado."
+    }
+  ],
+  "etiquetas": []
+}

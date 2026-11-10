@@ -1,0 +1,57 @@
+{
+  "id": "Q-2026-000022",
+  "lingua": "pt-PT",
+  "tema": "arte",
+  "subtema": "azulejo",
+  "formato": "escolha-multipla",
+  "enunciado": "O Grande Panorama de Lisboa mostra a cidade vista do Tejo antes do terramoto de 1755. Em que suporte foi feito?",
+  "opcoes": [
+    "Azulejo",
+    "Óleo sobre tela",
+    "Tapeçaria",
+    "Gravura em cobre"
+  ],
+  "correta": 0,
+  "explicacao": "É um painel de azulejos pintado a azul sobre branco, atribuído a Gabriel del Barco e guardado no Museu Nacional do Azulejo. Mostra edifícios que desapareceram com o terramoto de 1755 e outros que resistiram, como a Torre de Belém e o Mosteiro dos Jerónimos.",
+  "dificuldade_estimada": 2,
+  "fontes": [
+    {
+      "url": "https://www.museusemonumentos.pt/pt/museus-e-monumentos/museu-nacional-do-azulejo",
+      "dominio": "museusemonumentos.pt",
+      "titulo": "Museu Nacional do Azulejo — Museus e Monumentos de Portugal",
+      "nivel": 1,
+      "excerto": "o monumental Grande Panorama de Lisboa, atribuído a Gabriel del Barco (1649-1703), um mestre espanhol que retratou a cidade antes do terramoto de 1755.",
+      "consultada_em": "2026-11-10",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://artsandculture.google.com/asset/grande-panorama-de-lisboa-paço-da-ribeira/zAEzUKmNN9GdGg",
+      "dominio": "google.com",
+      "titulo": "Grande Panorama de Lisboa - Paço da Ribeira — Museu Nacional do Azulejo (Google Arts & Culture)",
+      "nivel": 1,
+      "excerto": "mostra-nos a mais completa vista da cidade, a partir do rio Tejo, antes do Terramoto que a destruiu em 1755. [...] Tipo: Azulejo. Material: Faiança a azul sobre branco",
+      "consultada_em": "2026-11-10",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-06-misto",
+  "criada_em": "2026-11-10",
+  "historico": [
+    {
+      "data": "2026-11-10",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "As duas fontes são institucionais e ligadas ao mesmo museu (não totalmente independentes): o verificador deve procurar uma terceira. Único ano: 1755 (coincide). Comprimento, data de criação e datas de Gabriel del Barco excluídos (divergem ou só numa fonte). Autoria é atribuição. 'Guardado' e não 'exposto' (museu fechado para obras). Fontes PT de nível 1: museusemonumentos.pt aberta; mnazulejo.gov.pt aberta sem conteúdo útil; museudoazulejo.gov.pt erro de rede; museunacionaldoazulejo.pt 404; Infopédia 403; repositorioaberto.uab.pt 403; visitportugal.com anti-bot; Priberam aberta; Britannica 403."
+    }
+  ],
+  "etiquetas": []
+}
