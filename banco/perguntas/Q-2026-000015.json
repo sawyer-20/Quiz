@@ -6,13 +6,13 @@
   "formato": "escolha-multipla",
   "enunciado": "Segundo Duarte Pacheco Pereira, no Esmeraldo de Situ Orbis, quem pôs o nome ao Cabo da Boa Esperança?",
   "opcoes": [
-    "D. Manuel I",
+    "Vasco da Gama",
     "D. João II",
-    "Bartolomeu Dias",
-    "Vasco da Gama"
+    "D. Manuel I",
+    "Bartolomeu Dias"
   ],
-  "correta": 2,
-  "explicacao": "No Esmeraldo, Pacheco Pereira escreve que foi o próprio Bartolomeu Dias a pôr o nome «Cabo da Boa Esperança», ao ver a costa virar para norte, o que dava esperança de chegar à Índia. Segundo o editor Kimble (Hakluyt Society, 1937), Pacheco Pereira encontrou Dias no regresso dessa viagem. A versão mais corrente, de João de Barros, diz que Dias lhe chamou «Cabo Tormentoso» e que o rei o rebatizou.",
+  "correta": 3,
+  "explicacao": "Pacheco Pereira escreve no Esmeraldo que foi o próprio Bartolomeu Dias a dar o nome, por a costa virar para norte e dar esperança de chegar à Índia. Em João de Barros, Dias chamou-lhe «Cabo Tormentoso» e o rei rebatizou-o.",
   "dificuldade_estimada": 4,
   "fontes": [
     {
@@ -78,6 +78,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "advogado: fonte KBHA não independente; explicação enxuta"
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "reformulada",
+      "agente": "pesquisador",
+      "nota": "explicação encurtada (≤300)"
     }
   ],
   "etiquetas": []

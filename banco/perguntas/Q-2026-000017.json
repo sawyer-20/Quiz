@@ -4,15 +4,15 @@
   "tema": "ciencia",
   "subtema": "química",
   "formato": "escolha-multipla",
-  "enunciado": "Segundo a Royal Society of Chemistry, porque é que o hélio, que é um gás, tem um nome com o sufixo «-ium», próprio dos metais?",
+  "enunciado": "Segundo a Royal Society of Chemistry, porque é que o hélio, sendo gás, tem o sufixo «-ium», próprio dos metais?",
   "opcoes": [
     "Por ser o elemento mais abundante no Sol",
+    "Porque Lockyer, ao dar-lhe o nome, o supôs um metal",
     "Por ter sido isolado num minério de urânio",
-    "Por conduzir eletricidade como os metais",
-    "Porque Lockyer, ao dar-lhe o nome, o supôs um metal"
+    "Por conduzir eletricidade como os metais"
   ],
-  "correta": 3,
-  "explicacao": "Segundo a Royal Society of Chemistry, Joseph Norman Lockyer, ao observar o Sol em 1868, supôs que o novo elemento era um metal e chamou-lhe helium, de Helios (Sol). Foi depois isolado por Ramsay em 1895, num minério de urânio, e é um gás quase nada reativo: o único não metal cujo nome termina em «-ium». O Laboratório Nacional de Los Alamos apresenta este motivo apenas como hipótese («talvez»).",
+  "correta": 1,
+  "explicacao": "Segundo a Royal Society of Chemistry, Lockyer, ao observar o Sol em 1868, supôs que o novo elemento era um metal e chamou-lhe helium, de Helios (Sol). É um gás quase nada reativo. O Laboratório Nacional de Los Alamos apresenta esse motivo apenas como hipótese.",
   "dificuldade_estimada": 2,
   "fontes": [
     {
@@ -78,6 +78,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "advogado: motivo atribuído à RSC; Ramsay isolou"
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "reformulada",
+      "agente": "pesquisador",
+      "nota": "explicação e enunciado encurtados"
     }
   ],
   "etiquetas": []
