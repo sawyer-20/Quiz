@@ -1,19 +1,30 @@
 {
   "id": "Q-2026-000047",
-  "lingua": "pt-PT",
-  "tema": "arte",
-  "subtema": "arquitetura e artes aplicadas",
-  "formato": "escolha-multipla",
-  "enunciado": "Nos castelos medievais portugueses, para que servia o hurdício, galeria de madeira no topo das torres?",
-  "opcoes": [
-    "Fazer sinais com fogueiras aos castelos vizinhos",
-    "Disparar na vertical sobre a base dos muros",
-    "Guardar armas e mantimentos durante um cerco",
-    "Abrigar as sentinelas da chuva e do frio"
+  "topic": "World History",
+  "subtopic": "arquitetura e artes aplicadas",
+  "markets": [
+    "pt"
   ],
-  "correta": 1,
-  "explicacao": "Servia para disparar na vertical sobre a base dos muros: o hurdício era uma galeria de madeira saliente no topo das muralhas e das torres. Segundo o historiador Mário Barroca, foram os Templários que o introduziram em Portugal.",
-  "dificuldade_estimada": 3,
+  "text": {
+    "pt-PT": {
+      "question": "Nos castelos medievais portugueses, para que servia o hurdício, galeria de madeira no topo das torres?",
+      "options": [
+        "Fazer sinais com fogueiras aos castelos vizinhos",
+        "Disparar na vertical sobre a base dos muros",
+        "Guardar armas e mantimentos durante um cerco",
+        "Abrigar as sentinelas da chuva e do frio"
+      ],
+      "explanation": "Servia para disparar na vertical sobre a base dos muros: o hurdício era uma galeria de madeira saliente no topo das muralhas e das torres. Segundo o historiador Mário Barroca, foram os Templários que o introduziram em Portugal."
+    }
+  },
+  "correct": 1,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://projetos.dhlab.fcsh.unl.pt/files/original/8cce7364fca20287203002044c21a53a52377364.pdf",
+    "https://imovel.patrimoniocultural.gov.pt/detalhes.php?code=71169"
+  ],
   "fontes": [
     {
       "url": "https://projetos.dhlab.fcsh.unl.pt/files/original/8cce7364fca20287203002044c21a53a52377364.pdf",
@@ -65,9 +76,7 @@
       "data": "2026-11-11"
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -119,7 +128,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
     }
-  ],
-  "etiquetas": []
+  ]
 }

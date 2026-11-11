@@ -1,19 +1,28 @@
 {
   "id": "Q-2026-000015",
-  "lingua": "pt-PT",
-  "tema": "historia",
-  "subtema": "Descobrimentos portugueses",
-  "formato": "escolha-multipla",
-  "enunciado": "Segundo Duarte Pacheco Pereira, no Esmeraldo de Situ Orbis, quem pôs o nome ao Cabo da Boa Esperança?",
-  "opcoes": [
-    "Vasco da Gama",
-    "D. João II",
-    "D. Manuel I",
-    "Bartolomeu Dias"
+  "topic": "World History",
+  "subtopic": "Descobrimentos portugueses",
+  "text": {
+    "pt-PT": {
+      "question": "Segundo Duarte Pacheco Pereira, no Esmeraldo de Situ Orbis, quem pôs o nome ao Cabo da Boa Esperança?",
+      "options": [
+        "Vasco da Gama",
+        "D. João II",
+        "D. Manuel I",
+        "Bartolomeu Dias"
+      ],
+      "explanation": "Pacheco Pereira escreve no Esmeraldo que foi o próprio Bartolomeu Dias a dar o nome, por a costa virar para norte e dar esperança de chegar à Índia. Em João de Barros, Dias chamou-lhe «Cabo Tormentoso» e o rei rebatizou-o."
+    }
+  },
+  "correct": 3,
+  "difficulty": 4,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://archive.org/download/dli.ernet.534920/534920-Esmeraldo%20De%20Situ%20Orbis_djvu.txt",
+    "https://sahistory.org.za/people/bartolomeu-dias",
+    "https://revistas.usp.br/revhistoria/pt_BR/article/download/128552/125388"
   ],
-  "correta": 3,
-  "explicacao": "Pacheco Pereira escreve no Esmeraldo que foi o próprio Bartolomeu Dias a dar o nome, por a costa virar para norte e dar esperança de chegar à Índia. Em João de Barros, Dias chamou-lhe «Cabo Tormentoso» e o rei rebatizou-o.",
-  "dificuldade_estimada": 4,
   "fontes": [
     {
       "url": "https://archive.org/download/dli.ernet.534920/534920-Esmeraldo%20De%20Situ%20Orbis_djvu.txt",
@@ -64,8 +73,6 @@
     "advogado": null,
     "editor": null
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
   "estado": "rejeitada",
   "motivo_rejeicao": "2.º ciclo de correção esgotado (regra 14): frase sobre Barros sem fonte lida e fonte independente do verificador só indireta (citação na USP); reescrever com 2.ª fonte independente",
   "lote": "lote-2026-11-06-misto",
@@ -112,7 +119,12 @@
       "evento": "rejeitada",
       "agente": "advogado-do-diabo",
       "nota": "2.º ciclo de correção esgotado (regra 14): frase sobre Barros sem fonte lida e fonte independente do verificador só indireta (citação na USP); reescrever com 2.ª fonte independente"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "só pt-PT (pergunta rejeitada ou em curso)"
     }
-  ],
-  "etiquetas": []
+  ]
 }

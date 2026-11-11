@@ -1,19 +1,27 @@
 {
   "id": "Q-2026-000042",
-  "lingua": "pt-PT",
-  "tema": "arte",
-  "subtema": "movimentos e técnicas",
-  "formato": "escolha-multipla",
-  "enunciado": "O pigmento «castanho-múmia», apreciado pelos pré-rafaelitas, era feito sobretudo a partir de quê?",
-  "opcoes": [
-    "De resina de acácia endurecida pelo calor",
-    "De restos moídos de múmias egípcias",
-    "De ossos de animais calcinados e moídos",
-    "De terra argilosa importada do vale do Nilo"
+  "topic": "General Knowledge",
+  "subtopic": "movimentos e técnicas",
+  "text": {
+    "pt-PT": {
+      "question": "O pigmento «castanho-múmia», apreciado pelos pré-rafaelitas, era feito sobretudo a partir de quê?",
+      "options": [
+        "De resina de acácia endurecida pelo calor",
+        "De restos moídos de múmias egípcias",
+        "De ossos de animais calcinados e moídos",
+        "De terra argilosa importada do vale do Nilo"
+      ],
+      "explanation": "O castanho-múmia (ou «caput mortuum») era feito sobretudo de pez branco, mirra e restos moídos de antigos egípcios e dos seus animais. Foi muito usado na pintura europeia dos séculos XVI a XIX e deixou de se fabricar nos anos 1960."
+    }
+  },
+  "correct": 1,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://harvardartmuseums.org/article/a-pigment-from-the-depths",
+    "https://www.smithsonianmag.com/smart-news/ground-mummies-were-once-ingredient-paint-180950350/"
   ],
-  "correta": 1,
-  "explicacao": "O castanho-múmia (ou «caput mortuum») era feito sobretudo de pez branco, mirra e restos moídos de antigos egípcios e dos seus animais. Foi muito usado na pintura europeia dos séculos XVI a XIX e deixou de se fabricar nos anos 1960.",
-  "dificuldade_estimada": 3,
   "fontes": [
     {
       "url": "https://harvardartmuseums.org/article/a-pigment-from-the-depths",
@@ -39,8 +47,6 @@
     "advogado": null,
     "editor": null
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
   "estado": "rejeitada",
   "motivo_rejeicao": "quota de clássicos do lote (regra 16): o lote já tinha 2 clássicos (Q24, Q39); alvo 20 volta ao pesquisador com ângulo não clássico",
   "lote": "lote-2026-11-11-misto",
@@ -63,6 +69,12 @@
       "evento": "rejeitada",
       "agente": "orquestrador",
       "nota": "quota de clássicos do lote (regra 16): o lote já tinha 2 clássicos (Q24, Q39); alvo 20 volta ao pesquisador com ângulo não clássico"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "só pt-PT (pergunta rejeitada ou em curso)"
     }
   ],
   "etiquetas": [

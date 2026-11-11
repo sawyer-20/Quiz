@@ -1,19 +1,27 @@
 {
   "id": "Q-2026-000005",
-  "lingua": "pt-PT",
-  "tema": "historia",
-  "subtema": "Conquista normanda de Inglaterra (século XI)",
-  "formato": "escolha-multipla",
-  "enunciado": "Que técnica deu forma às cenas da Tapeçaria de Bayeux, que narra a conquista normanda de 1066?",
-  "opcoes": [
-    "Pintura sobre linho",
-    "Bordado",
-    "Tecelagem em tear",
-    "Estampagem com carimbos de madeira"
+  "topic": "World History",
+  "subtopic": "Conquista normanda de Inglaterra (século XI)",
+  "text": {
+    "pt-PT": {
+      "question": "Que técnica deu forma às cenas da Tapeçaria de Bayeux, que narra a conquista normanda de 1066?",
+      "options": [
+        "Pintura sobre linho",
+        "Bordado",
+        "Tecelagem em tear",
+        "Estampagem com carimbos de madeira"
+      ],
+      "explanation": "Bordado. Apesar do nome, não é uma tapeçaria, em que o desenho se tece no próprio pano: as cenas foram bordadas com fio de lã sobre um fundo de linho com cerca de 70 metros, feito de nove painéis cosidos entre si."
+    }
+  },
+  "correct": 1,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/",
+    "https://marquandrarebooks.princeton.edu/2022/01/a-scrolling-facsimile-of-the-bayeux-tapestry-in-marquand/"
   ],
-  "correta": 1,
-  "explicacao": "Bordado. Apesar do nome, não é uma tapeçaria, em que o desenho se tece no próprio pano: as cenas foram bordadas com fio de lã sobre um fundo de linho com cerca de 70 metros, feito de nove painéis cosidos entre si.",
-  "dificuldade_estimada": 3,
   "fontes": [
     {
       "url": "https://en.wikipedia.org/wiki/Bayeux_Tapestry",
@@ -65,9 +73,7 @@
       "data": "2026-11-04"
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-04-historia",
   "criada_em": "2026-11-04",
@@ -131,6 +137,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
     }
   ],
   "etiquetas": [

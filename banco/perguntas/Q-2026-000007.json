@@ -1,19 +1,27 @@
 {
   "id": "Q-2026-000007",
-  "lingua": "pt-PT",
-  "tema": "historia",
-  "subtema": "Guerra Fria — Bloqueio de Berlim (1948-1949)",
-  "formato": "escolha-multipla",
-  "enunciado": "Durante o bloqueio soviético de 1948-1949, por que via foi principalmente abastecida Berlim Ocidental?",
-  "opcoes": [
-    "Por via ferroviária",
-    "Por estrada, em colunas militares",
-    "Por via aérea",
-    "Por via fluvial, em barcaças"
+  "topic": "World History",
+  "subtopic": "Guerra Fria — Bloqueio de Berlim (1948-1949)",
+  "text": {
+    "pt-PT": {
+      "question": "Durante o bloqueio soviético de 1948-1949, por que via foi principalmente abastecida Berlim Ocidental?",
+      "options": [
+        "Por via ferroviária",
+        "Por estrada, em colunas militares",
+        "Por via aérea",
+        "Por via fluvial, em barcaças"
+      ],
+      "explanation": "Os soviéticos cortaram o acesso por estrada, por comboio e por via fluvial. Só os corredores aéreos ficaram abertos, e os Aliados ocidentais responderam com uma ponte aérea que abasteceu a cidade até ao fim do bloqueio, em maio de 1949."
+    }
+  },
+  "correct": 2,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://history.state.gov/milestones/1945-1952/berlin-airlift",
+    "https://www.alliiertenmuseum.de/en/thema/the-berlin-airlift-1948-49/"
   ],
-  "correta": 2,
-  "explicacao": "Os soviéticos cortaram o acesso por estrada, por comboio e por via fluvial. Só os corredores aéreos ficaram abertos, e os Aliados ocidentais responderam com uma ponte aérea que abasteceu a cidade até ao fim do bloqueio, em maio de 1949.",
-  "dificuldade_estimada": 2,
   "fontes": [
     {
       "url": "https://history.state.gov/milestones/1945-1952/berlin-airlift",
@@ -55,8 +63,6 @@
     "advogado": null,
     "editor": null
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
   "estado": "rejeitada",
   "motivo_rejeicao": "segundo ciclo de correção: na 2.ª passagem o advogado encontrou novo problema corrigível — a explicação ('ponte aérea que abasteceu a cidade até ao fim do bloqueio, em maio de 1949') sugere que a ponte aérea acabou em maio, mas continuou até 30 set. (EUA) / 6 out. 1949 (RAF), segundo o AlliiertenMuseum. A frase tinha sido escrita pelo orquestrador na 1.ª correção. Regra: um só ciclo por pergunta.",
   "lote": "lote-2026-11-04-historia",
@@ -91,6 +97,12 @@
       "evento": "rejeitada",
       "agente": "advogado-do-diabo",
       "nota": "segundo ciclo de correção: na 2.ª passagem o advogado encontrou novo problema corrigível — a explicação ('ponte aérea que abasteceu a cidade até ao fim do bloqueio, em maio de 1949') sugere que a ponte aérea acabou em maio, mas continuou até 30 set. (EUA) / 6 out. 1949 (RAF), segundo o AlliiertenMuseum. A frase tinha sido escrita pelo orquestrador na 1.ª correção. Regra: um só ciclo por pergunta."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "só pt-PT (pergunta rejeitada ou em curso)"
     }
   ]
 }

@@ -1,25 +1,29 @@
 ---
 name: produzir-lote
-description: Produz um lote de perguntas verificadas pela linha completa - pesquisador, originalidade, verificador às cegas, advogado do diabo, editor e scripts/aprovar.py, com canários. Usar quando o Andre pedir perguntas novas, por exemplo "/produzir-lote tema=historia n=10".
+description: Produz um lote de perguntas bilingues (pt-PT e en-US) verificadas pela linha completa - pesquisador, originalidade, verificador às cegas, advogado do diabo, editor, tradutor, conferente e scripts/aprovar.py, com canários. Usar quando o Andre pedir perguntas novas, por exemplo "/produzir-lote topic=Science n=10".
 ---
 
-# Produzir um lote de perguntas (motor v1.1)
+# Produzir um lote de perguntas (motor v2: pt-PT e en-US)
 
-Argumentos (todos opcionais): `tema` (um dos temas do esquema; por defeito, misto),
-`subtema`, `n` (por defeito 10) e `mistura` de dificuldade (por defeito 30% fáceis 1–2,
+Argumentos (todos opcionais): `topic` (um dos 10 tópicos do esquema; por defeito, misto),
+`subtopic`, `markets`, `n` (por defeito 10) e `mistura` de dificuldade (por defeito 30% fáceis 1–2,
 40% médias 3, 30% difíceis 4–5).
 
 Lê primeiro `CLAUDE.md`, `regras/fontes.md` e `relatorios/alvos-a-retomar.md`. Os agentes
 não leem ficheiros: em cada invocação de um agente que pesquisa, inclui no pedido o texto
-completo de `regras/fontes.md` e, nos alvos de tema `portugal`, também o de
-`regras/fontes-pt.md` (o pesquisador começa por essas fontes).
+completo de `regras/fontes.md` (inclui as fontes de nível 1 por tópico) e, nos alvos de
+interesse português (`markets: ["pt"]`), também o de `regras/fontes-pt.md` (o pesquisador
+começa por essas fontes).
 
 **Linha:** pesquisador → originalidade → verificador às cegas → advogado do diabo →
-editor → `scripts/aprovar.py`. Nenhum passo se salta.
+editor → tradutor → conferente → `scripts/aprovar.py`. Nenhum passo se salta. O facto
+verifica-se uma vez (no pt-PT); o texto escreve-se duas (o tradutor escreve o en-US).
 
 **Regras do orquestrador (tu):**
-- Nunca escreves texto factual (enunciados, opções, explicações, fontes). Só copias para
-  os ficheiros o que os agentes devolvem, baralhas opções e mudas estados.
+- Nunca escreves texto factual (perguntas, opções, explicações, fontes). Só copias para
+  os ficheiros o que os agentes devolvem, baralhas opções e mudas estados. Usa
+  `scripts/montar_pergunta.py` (cria o ficheiro v2 e imprime a entrada às cegas) e
+  `scripts/aplicar_passo.py` (aplica o resultado de cada agente) em vez de escrever JSON à mão.
 - Só o `scripts/aprovar.py` aprova. Nunca escreves `estado: "aprovada"` à mão.
 - Se uma etapa for interrompida (limite de utilização, erro), a pergunta fica em
   `em_verificacao` e retoma-se essa etapa; nunca se dá a etapa por feita.
@@ -40,10 +44,11 @@ editor → `scripts/aprovar.py`. Nenhum passo se salta.
 1. Procura em `relatorios/` o relatório de auditoria mais recente. Se tiver
    `TRAVÃO ATIVO` sem um `TRAVÃO LEVANTADO` posterior, avisa o Andre: o lote pode
    produzir perguntas aprovadas, mas nenhuma será publicada.
-2. Lista os enunciados existentes (`banco/perguntas/*.json` e `exemplos/*.json`) para
-   evitar repetições, e o maior número de id em uso.
+2. Lista as perguntas existentes (`banco/perguntas/*.json`, campo `text`) para evitar
+   repetições, e o maior número de id em uso.
 3. Define o nome do lote: `lote-AAAA-MM-DD-<tema>` (acrescenta `-2`, `-3` se já existir).
-4. Planeia os `n` alvos: tema, subtema e dificuldade de cada um, variados. Entram primeiro
+4. Planeia os `n` alvos: tópico, subtópico, mercado e dificuldade de cada um, variados.
+   **Sensibilidade (regra 21):** descarta os alvos ligados a tragédias com menos de 10 anos. Entram primeiro
    os **alvos a retomar** de `relatorios/alvos-a-retomar.md` (com o ângulo novo e as notas
    do advogado; cada um só uma vez) e os alvos fixados pelo Andre. **Pelo menos 8 em cada
    10 alvos têm ângulo não clássico** (regra 16); escreve no plano qual é o ângulo.
@@ -52,7 +57,7 @@ editor → `scripts/aprovar.py`. Nenhum passo se salta.
 
 ## 1. Pesquisador
 
-Invoca o agente `pesquisador` (até 3 em paralelo) com tema, subtema, dificuldade,
+Invoca o agente `pesquisador` (até 3 em paralelo) com tópico, subtópico, mercado, dificuldade,
 quantas perguntas queres (1 a 3: pode tirar até 3 factos da mesma página) e a lista de
 enunciados existentes.
 
@@ -63,16 +68,10 @@ enunciados existentes.
   uma pergunta com a resposta errada de propósito. Os canários **nunca** entram em
   `banco/`: guardas o enunciado, as opções, a resposta errada marcada e a verdadeira só
   na secção `## Canários` do relatório.
-- Para as outras perguntas, monta o ficheiro:
-  - `opcoes` = resposta + 3 distratores, **baralhadas** (`python3 -c "import random; …"`);
-    `correta` = índice da resposta;
-  - cada fonte com `papel: "pesquisador"`, `consultada_em` = hoje e `dominio` dado por
-    `python3 scripts/validar.py --dominio <url>`;
-  - `estado: "em_verificacao"`, `verificacao` com os três campos a `null`,
-    `motivo_rejeicao: null`, `lote`, `criada_em` = hoje, `lingua: "pt-PT"`,
-    `formato: "escolha-multipla"`, `etiquetas: []`;
-  - `historico`: `{"data": hoje, "evento": "criada", "agente": "pesquisador", "nota": riscos}`.
-  - Grava em `banco/perguntas/<id>.json`.
+- Para as outras perguntas, corre `python3 scripts/montar_pergunta.py <pesquisador.json> <indice>
+  <id> <lote>`: cria `banco/perguntas/<id>.json` (esquema v2: `text.pt-PT`, `correct`, opções
+  **baralhadas**, `sources`, `daily_eligible`, `estado: em_verificacao`, histórico) e
+  imprime a entrada às cegas para o verificador.
 
 ## 2. Originalidade
 
@@ -100,8 +99,9 @@ Evento no histórico em todos os casos, com as provas e as pesquisas.
 
 Invoca o agente `verificador-cego` com blocos de até 5 perguntas, misturando os 2
 canários com as perguntas reais por ordem aleatória. Para cada uma passas **apenas**:
-`ref`, o enunciado, as opções numa **nova** ordem aleatória e os domínios das fontes do
-pesquisador como domínios proibidos. Nunca passas a resposta, as fontes, a explicação, o
+`ref`, o enunciado, as opções numa **nova** ordem aleatória, os domínios das fontes do
+pesquisador como domínios proibidos e os **títulos** dessas fontes (o verificador não pode
+usar uma republicação do mesmo artigo noutro domínio: regra 20). Nunca passas a resposta, as fontes, a explicação, o
 caminho do ficheiro nem a indicação de que há canários.
 
 **Canários.** Se o verificador escolher num canário a resposta errada marcada, o canário
@@ -157,9 +157,24 @@ Invoca o agente `editor` com blocos de até 5 perguntas aprovadas pelo advogado.
 - Se o novo enunciado mudar o que se pergunta (compara-o com o anterior), não o aplicas:
   rejeita com motivo `reescrever`.
 
+## 5b. Tradutor e conferente (en-US)
+
+1. **Tradutor.** Invoca o agente `tradutor` com blocos de até 5 perguntas já editadas: `ref`,
+   `topic`, `difficulty`, `markets`, o texto pt-PT (pergunta, 4 opções com a certa assinalada,
+   explicação) e os excertos das fontes. Aplica com `scripts/aplicar_passo.py traducao`. Se
+   devolver `traduzivel: false`, decide com o Andre (a pergunta pode precisar de outro facto).
+2. **Conferente.** Invoca o agente `conferente` com blocos de até 5 perguntas: **só** os dois
+   textos e o índice da certa; nunca fontes, ficha nem ficheiro. Aplica com
+   `scripts/aplicar_passo.py conferencia`. Se não aprovar, os problemas voltam ao tradutor
+   (um ciclo); se o problema for no pt-PT, a pergunta volta ao editor e ao conferente. Na
+   dúvida, rejeita. Mudança ao pt-PT que altere o facto obriga a nova verificação (regra 4).
+3. A explicação tem **1 a 2 frases** em cada idioma (o `validar.py` bloqueia a aprovação com
+   mais); o editor encurta-a no pt-PT antes de a traduzires.
+
 ## 6. Aprovação
 
-Corre `python3 scripts/aprovar.py <id>` para cada pergunta que chegou aqui. O script
+Corre `python3 scripts/aprovar.py <id>` para cada pergunta que chegou aqui (com en-US e
+conferente aprovado). O script grava `options_lock`: depois disto o texto das opções é imutável. O script
 corre o `validar.py` e só aprova se passar; se falhar, mostra os erros e a pergunta fica
 em `em_verificacao`.
 
@@ -182,8 +197,8 @@ página):
 - **canários**: as 2 perguntas, a resposta errada marcada, a verdadeira e o que o
   verificador respondeu;
 - problemas que se repetem (por exemplo, o pesquisador a usar sempre a mesma fonte);
-- **5 perguntas aprovadas ao acaso para o gosto do Andre**: enunciado, opções com a
-  certa assinalada, explicação e fontes; pede-lhe um veredicto por pergunta
+- **5 perguntas aprovadas ao acaso para o gosto do Andre** (as 5 em pt-PT, com o en-US ao lado):
+  pergunta, opções com a certa assinalada, explicação e fontes; pede-lhe um veredicto por pergunta
   ("incrível", "boa", "fraca").
 
 Atualiza `relatorios/alvos-a-retomar.md` (retomados que passaram, retomados que falharam e

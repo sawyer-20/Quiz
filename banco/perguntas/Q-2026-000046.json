@@ -1,19 +1,26 @@
 {
   "id": "Q-2026-000046",
-  "lingua": "pt-PT",
-  "tema": "geografia",
-  "subtema": "países e capitais",
-  "formato": "escolha-multipla",
-  "enunciado": "Qual destas capitais fica mais a oeste, medida pela longitude?",
-  "opcoes": [
-    "Dublin",
-    "Madrid",
-    "Lisboa",
-    "Londres"
+  "topic": "Geography",
+  "subtopic": "países e capitais",
+  "text": {
+    "pt-PT": {
+      "question": "Qual destas capitais fica mais a oeste, medida pela longitude?",
+      "options": [
+        "Dublin",
+        "Madrid",
+        "Lisboa",
+        "Londres"
+      ],
+      "explanation": "Lisboa está a cerca de 9° de longitude oeste, mais a ocidente do que Dublin (cerca de 6°), Madrid (cerca de 4°) e Londres (menos de 1°), apesar de a Irlanda ser a ilha atlântica."
+    }
+  },
+  "correct": 2,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.nationsonline.org/oneworld/map/google_map_Lisbon.htm"
   ],
-  "correta": 2,
-  "explicacao": "Lisboa está a cerca de 9° de longitude oeste, mais a ocidente do que Dublin (cerca de 6°), Madrid (cerca de 4°) e Londres (menos de 1°), apesar de a Irlanda ser a ilha atlântica.",
-  "dificuldade_estimada": 2,
   "fontes": [
     {
       "url": "https://www.nationsonline.org/oneworld/map/google_map_Lisbon.htm",
@@ -48,8 +55,6 @@
     "advogado": null,
     "editor": null
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
   "estado": "rejeitada",
   "motivo_rejeicao": "quota de clássicos do lote (regra 16): o lote já tinha 2 clássicos (Q24, Q39); alvo 12 falhou 3 vezes (copiada, clássico, clássico) e não é retomado neste lote",
   "lote": "lote-2026-11-11-misto",
@@ -72,6 +77,12 @@
       "evento": "rejeitada",
       "agente": "orquestrador",
       "nota": "quota de clássicos do lote (regra 16): o lote já tinha 2 clássicos (Q24, Q39); alvo 12 falhou 3 vezes (copiada, clássico, clássico) e não é retomado neste lote"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "só pt-PT (pergunta rejeitada ou em curso)"
     }
   ],
   "etiquetas": [

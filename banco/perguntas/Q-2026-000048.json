@@ -1,19 +1,31 @@
 {
   "id": "Q-2026-000048",
-  "lingua": "pt-PT",
-  "tema": "musica",
-  "subtema": "instrumentos e notação",
-  "formato": "escolha-multipla",
-  "enunciado": "O piano que Liszt levou para Lisboa em 1845 foi dado pela rainha D. Maria II a quem?",
-  "opcoes": [
-    "Ao embaixador de França em Lisboa",
-    "Ao professor de música dos seus filhos",
-    "À Academia Filarmónica de Lisboa",
-    "Ao Teatro de São Carlos"
+  "topic": "Music",
+  "subtopic": "instrumentos e notação",
+  "markets": [
+    "pt"
   ],
-  "correta": 1,
-  "explicacao": "Ao professor de música dos Infantes, Manuel Inocêncio dos Santos. Segundo o Museu Nacional da Música, o piano Boisselot de Liszt foi oferecido à rainha D. Maria II, que o doou a esse professor. Hoje está nesse museu.",
-  "dificuldade_estimada": 4,
+  "text": {
+    "pt-PT": {
+      "question": "O piano que Liszt levou para Lisboa em 1845 foi dado pela rainha D. Maria II a quem?",
+      "options": [
+        "Ao embaixador de França em Lisboa",
+        "Ao professor de música dos seus filhos",
+        "À Academia Filarmónica de Lisboa",
+        "Ao Teatro de São Carlos"
+      ],
+      "explanation": "Ao professor de música dos Infantes, Manuel Inocêncio dos Santos. Segundo o Museu Nacional da Música, o piano Boisselot de Liszt foi oferecido à rainha D. Maria II, que o doou a esse professor. Hoje está nesse museu."
+    }
+  },
+  "correct": 1,
+  "difficulty": 4,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://artsandculture.google.com/asset/piano-boisselot-et-fils/2gGb1dtttEyckg",
+    "https://proa.ua.pt/index.php/comunicarte/article/download/31762/21754",
+    "https://24noticias.sapo.pt/vida/artigos/museu-da-musica-vai-estrear-recem-restaurado-cravo-taskin-de-1782-em-ciclo-de-concertos"
+  ],
   "fontes": [
     {
       "url": "https://artsandculture.google.com/asset/piano-boisselot-et-fils/2gGb1dtttEyckg",
@@ -65,9 +77,7 @@
       "data": "2026-11-11"
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -119,7 +129,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
     }
-  ],
-  "etiquetas": []
+  ]
 }

@@ -1,43 +1,71 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "pergunta.schema.json",
-  "title": "Pergunta verificada",
-  "description": "Uma pergunta de escolha múltipla do banco, com fontes, verificação e histórico. As regras que o esquema não exprime (domínios diferentes, independência do verificador, estados, aprovação só pelo aprovar.py, quota de clássicos, linguagem de dúvida) estão em scripts/validar.py.",
+  "title": "Pergunta verificada (QUIZLUX, v2: pt-PT e en-US)",
+  "description": "Uma pergunta de escolha múltipla do banco, com o mesmo facto escrito em pt-PT e en-US, fontes, verificação e histórico. O facto verifica-se uma vez; o texto escreve-se duas. As regras que o esquema não exprime (domínios diferentes, independência do verificador, estados, aprovação só pelo aprovar.py, quota de clássicos, linguagem de dúvida, paridade dos dois textos, opções imutáveis) estão em scripts/validar.py.",
   "type": "object",
   "additionalProperties": false,
   "required": [
-    "id", "lingua", "tema", "subtema", "formato", "enunciado", "opcoes", "correta",
-    "explicacao", "dificuldade_estimada", "fontes", "verificacao", "sensivel_ao_tempo",
-    "valida_ate", "estado", "motivo_rejeicao", "lote", "criada_em", "historico"
+    "id", "topic", "text", "correct", "difficulty", "daily_eligible", "valid_until",
+    "sources", "fontes", "verificacao", "estado", "motivo_rejeicao", "lote", "criada_em",
+    "historico"
   ],
   "properties": {
     "id": { "type": "string", "pattern": "^Q-\\d{4}-\\d{6}$" },
-    "lingua": { "type": "string", "enum": ["pt-PT"] },
-    "tema": {
+    "topic": {
+      "description": "Enumeração fechada. Os tópicos específicos vão em 'subtopic'.",
       "type": "string",
-      "enum": ["historia", "geografia", "ciencia", "desporto", "cinema-tv", "musica",
-               "literatura", "arte", "portugal", "atualidade"]
+      "enum": ["General Knowledge", "Geography", "World History", "Science", "Space",
+               "Movies", "Music", "Football", "Video Games", "Nature & Animals"]
     },
-    "subtema": { "type": "string", "minLength": 2, "maxLength": 60 },
-    "formato": { "type": "string", "enum": ["escolha-multipla"] },
-    "enunciado": { "type": "string", "minLength": 10, "maxLength": 200 },
-    "opcoes": {
-      "type": "array", "minItems": 4, "maxItems": 4, "uniqueItems": true,
-      "items": { "type": "string", "minLength": 1, "maxLength": 60 }
+    "subtopic": { "type": "string", "minLength": 2, "maxLength": 60 },
+    "markets": {
+      "description": "Opcional. Mercados onde a pergunta aparece (por exemplo [\"pt\"], [\"us\"]). Sem valor = global.",
+      "type": "array", "minItems": 1, "uniqueItems": true,
+      "items": { "type": "string", "enum": ["pt", "us"] }
     },
-    "correta": { "type": "integer", "minimum": 0, "maximum": 3 },
-    "explicacao": { "type": "string", "minLength": 10, "maxLength": 300 },
-    "dificuldade_estimada": { "type": "integer", "minimum": 1, "maximum": 5 },
+    "text": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["pt-PT"],
+      "properties": {
+        "pt-PT": { "$ref": "#/$defs/texto" },
+        "en-US": { "$ref": "#/$defs/texto" }
+      }
+    },
+    "correct": {
+      "description": "Índice da resposta certa (0 a 3), igual nos dois idiomas.",
+      "type": "integer", "minimum": 0, "maximum": 3
+    },
+    "difficulty": { "type": "integer", "minimum": 1, "maximum": 5 },
+    "daily_eligible": {
+      "description": "true só para factos estáveis (sem valid_until).",
+      "type": "boolean"
+    },
+    "valid_until": {
+      "description": "Data até à qual o facto vale; null = estável. O /manutencao revê os caducados.",
+      "type": ["string", "null"], "format": "date"
+    },
+    "sources": {
+      "description": "URLs mostrados ao jogador (fontes de nível 1 em qualquer das duas línguas); têm de existir em 'fontes'.",
+      "type": "array", "minItems": 1, "maxItems": 3, "uniqueItems": true,
+      "items": { "type": "string", "format": "uri" }
+    },
+    "options_lock": {
+      "description": "SHA-256 das opções nos dois idiomas, gravado pelo aprovar.py. Depois da aprovação o texto das opções é imutável.",
+      "type": "string", "pattern": "^[0-9a-f]{64}$"
+    },
     "fontes": { "type": "array", "minItems": 2, "items": { "$ref": "#/$defs/fonte" } },
     "verificacao": { "$ref": "#/$defs/verificacao" },
-    "sensivel_ao_tempo": { "type": "boolean" },
-    "valida_ate": { "type": ["string", "null"], "format": "date" },
     "estado": {
       "type": "string",
       "enum": ["rascunho", "em_verificacao", "aprovada", "publicada", "suspensa",
                "retirada", "rejeitada"]
     },
-    "motivo_rejeicao": { "type": ["string", "null"] },
+    "motivo_rejeicao": {
+      "description": "Motivo da rejeição ou da suspensão.",
+      "type": ["string", "null"]
+    },
     "lote": { "type": "string", "minLength": 1 },
     "criada_em": { "type": "string", "format": "date" },
     "historico": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/evento" } },
@@ -48,6 +76,22 @@
     }
   },
   "$defs": {
+    "texto": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["question", "options", "explanation"],
+      "properties": {
+        "question": { "type": "string", "minLength": 10, "maxLength": 200 },
+        "options": {
+          "type": "array", "minItems": 4, "maxItems": 4, "uniqueItems": true,
+          "items": { "type": "string", "minLength": 1, "maxLength": 60 }
+        },
+        "explanation": {
+          "description": "1 a 2 frases, para o ecrã «Why».",
+          "type": "string", "minLength": 10, "maxLength": 300
+        }
+      }
+    },
     "fonte": {
       "type": "object",
       "additionalProperties": false,
@@ -98,6 +142,27 @@
             "aprovado": { "type": "boolean" },
             "originalidade_ok": { "type": "boolean" },
             "alteracao_factual": { "type": "boolean" },
+            "notas": { "type": "string" },
+            "data": { "type": "string", "format": "date" }
+          }
+        },
+        "tradutor": {
+          "description": "Passo de tradução: escreveu o en-US a partir do facto verificado.",
+          "type": ["object", "null"],
+          "additionalProperties": false,
+          "required": ["data"],
+          "properties": {
+            "data": { "type": "string", "format": "date" },
+            "notas": { "type": "string" }
+          }
+        },
+        "conferente": {
+          "description": "Conferência cega dos dois textos: mesmo facto, mesma resposta, opções com o mesmo sentido, sem formas do português do Brasil.",
+          "type": ["object", "null"],
+          "additionalProperties": false,
+          "required": ["aprovado", "data"],
+          "properties": {
+            "aprovado": { "type": "boolean" },
             "notas": { "type": "string" },
             "data": { "type": "string", "format": "date" }
           }

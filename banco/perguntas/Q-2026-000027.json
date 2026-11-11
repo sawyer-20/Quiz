@@ -1,19 +1,28 @@
 {
   "id": "Q-2026-000027",
-  "lingua": "pt-PT",
-  "tema": "desporto",
-  "subtema": "Jogos Olímpicos – concursos de arte",
-  "formato": "escolha-multipla",
-  "enunciado": "Em 1912, Coubertin concorreu à literatura sob os pseudónimos Hohrod e Eschbach. De onde vinham esses nomes?",
-  "opcoes": [
-    "De dois atletas franceses dos Jogos de 1900",
-    "De dois antepassados da família Coubertin",
-    "De duas aldeias perto da terra natal da sua mulher",
-    "De dois poetas alsacianos que ele admirava"
+  "topic": "General Knowledge",
+  "subtopic": "Jogos Olímpicos – concursos de arte",
+  "text": {
+    "pt-PT": {
+      "question": "Em 1912, Coubertin concorreu à literatura sob os pseudónimos Hohrod e Eschbach. De onde vinham esses nomes?",
+      "options": [
+        "De dois atletas franceses dos Jogos de 1900",
+        "De dois antepassados da família Coubertin",
+        "De duas aldeias perto da terra natal da sua mulher",
+        "De dois poetas alsacianos que ele admirava"
+      ],
+      "explanation": "A «Ode ao Desporto», assinada por Hohrod e Eschbach, ganhou o primeiro lugar em literatura nos concursos de arte de Estocolmo 1912. Segundo o historiador Jean Durry, eram duas aldeias perto de Luttenbach, terra da mulher de Coubertin."
+    }
+  },
+  "correct": 2,
+  "difficulty": 4,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://journals.muni.cz/studiasportiva/article/download/12748/11608/27846",
+    "https://www.olympedia.org/results/920001",
+    "https://www.madeinalsace.com/pierre-de-coubertin-les-jeux-olympiques-et-lalsace/"
   ],
-  "correta": 2,
-  "explicacao": "A «Ode ao Desporto», assinada por Hohrod e Eschbach, ganhou o primeiro lugar em literatura nos concursos de arte de Estocolmo 1912. Segundo o historiador Jean Durry, eram duas aldeias perto de Luttenbach, terra da mulher de Coubertin.",
-  "dificuldade_estimada": 4,
   "fontes": [
     {
       "url": "https://journals.muni.cz/studiasportiva/article/download/12748/11608/27846",
@@ -55,8 +64,6 @@
     "advogado": null,
     "editor": null
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
   "estado": "rejeitada",
   "motivo_rejeicao": "2.º ciclo de correção esgotado (regra 14): «terra natal» da mulher não é suportado (as fontes dizem casa/terra da família dos sogros); cadeia de fontes é uma só (Jean Durry); fonte do verificador é turismo regional; alvo já retomado (Q23), não regressa à lista (regra 15)",
   "lote": "lote-2026-11-11-misto",
@@ -97,7 +104,12 @@
       "evento": "rejeitada",
       "agente": "advogado-do-diabo",
       "nota": "2.º ciclo de correção esgotado (regra 14): «terra natal» da mulher não é suportado (as fontes dizem casa/terra da família dos sogros); cadeia de fontes é uma só (Jean Durry); fonte do verificador é turismo regional; alvo já retomado (Q23), não regressa à lista (regra 15)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "só pt-PT (pergunta rejeitada ou em curso)"
     }
-  ],
-  "etiquetas": []
+  ]
 }

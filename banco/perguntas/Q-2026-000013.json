@@ -1,19 +1,28 @@
 {
   "id": "Q-2026-000013",
-  "lingua": "pt-PT",
-  "tema": "historia",
-  "subtema": "Liberalismo – Revolução de 1820",
-  "formato": "escolha-multipla",
-  "enunciado": "Que sociedade secreta, fundada no Porto em 1818, preparou a Revolução Liberal de 24 de agosto de 1820?",
-  "opcoes": [
-    "Sinédrio",
-    "Grande Oriente Lusitano",
-    "Supremo Conselho Regenerador",
-    "Carbonária"
+  "topic": "World History",
+  "subtopic": "Liberalismo – Revolução de 1820",
+  "text": {
+    "pt-PT": {
+      "question": "Que sociedade secreta, fundada no Porto em 1818, preparou a Revolução Liberal de 24 de agosto de 1820?",
+      "options": [
+        "Sinédrio",
+        "Grande Oriente Lusitano",
+        "Supremo Conselho Regenerador",
+        "Carbonária"
+      ],
+      "explanation": "Sinédrio. Nasceu no Porto em 1818 pela mão do juiz Manuel Fernandes Tomás, com Ferreira Borges e Silva Carvalho, em reação à execução de Gomes Freire. O nome vem da antiga assembleia judaica de juízes. Preparou o golpe de 1820 procurando o apoio dos militares."
+    }
+  },
+  "correct": 0,
+  "difficulty": 4,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://dichp.bnportugal.gov.pt/historiadores_eng/historiadores_gomes_marques2_eng.htm",
+    "https://www.scielo.br/j/alm/a/5mksnSwmF4zCBZt5w6t9H4z/?lang=en",
+    "https://www.dn.pt/edicao-do-dia/22-ago-2020/sergio-figueira-o-porto-sempre-foi-um-contrapoder-em-portugal-12540349.html"
   ],
-  "correta": 0,
-  "explicacao": "Sinédrio. Nasceu no Porto em 1818 pela mão do juiz Manuel Fernandes Tomás, com Ferreira Borges e Silva Carvalho, em reação à execução de Gomes Freire. O nome vem da antiga assembleia judaica de juízes. Preparou o golpe de 1820 procurando o apoio dos militares.",
-  "dificuldade_estimada": 4,
   "fontes": [
     {
       "url": "https://dichp.bnportugal.gov.pt/historiadores_eng/historiadores_gomes_marques2_eng.htm",
@@ -74,8 +83,6 @@
       "data": "2026-11-04"
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
   "estado": "rejeitada",
   "motivo_rejeicao": "sem confirmação: na reverificação às cegas (v1.1) o verificador concordou com 'Sinédrio' com confiança média, mas nenhuma das fontes que abriu (Revista do IGHMB, Análise Social) confirma 'fundada em 1818', que o enunciado afirma (a Infopédia deu 403). Além disso, a originalidade classificou-a como 'classico' e tem dificuldade 4, o que a v1.1 não permite.",
   "lote": "lote-2026-11-04-historia",
@@ -134,6 +141,12 @@
       "evento": "rejeitada",
       "agente": "verificador-cego",
       "nota": "sem confirmação: na reverificação às cegas (v1.1) o verificador concordou com 'Sinédrio' com confiança média, mas nenhuma das fontes que abriu (Revista do IGHMB, Análise Social) confirma 'fundada em 1818', que o enunciado afirma (a Infopédia deu 403). Além disso, a originalidade classificou-a como 'classico' e tem dificuldade 4, o que a v1.1 não permite."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "só pt-PT (pergunta rejeitada ou em curso)"
     }
   ],
   "etiquetas": [

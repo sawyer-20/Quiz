@@ -1,19 +1,31 @@
 {
   "id": "Q-2026-000045",
-  "lingua": "pt-PT",
-  "tema": "portugal",
-  "subtema": "património e museus",
-  "formato": "escolha-multipla",
-  "enunciado": "Na Biblioteca Joanina, em Coimbra, as mesas são cobertas com couro no fim de cada dia. Para as proteger de quê?",
-  "opcoes": [
-    "Da humidade do rio Mondego",
-    "Do pó levantado pelos visitantes",
-    "Dos dejetos dos morcegos que lá vivem",
-    "Da luz solar que entra pelas janelas"
+  "topic": "General Knowledge",
+  "subtopic": "património e museus",
+  "markets": [
+    "pt"
   ],
-  "correta": 2,
-  "explicacao": "Dos dejetos dos morcegos. Segundo a Universidade de Coimbra, vivem morcegos na biblioteca, por isso as mesas são cobertas com «toalhas» de couro no fim de cada dia, para impedir os danos que os dejetos causam.",
-  "dificuldade_estimada": 3,
+  "text": {
+    "pt-PT": {
+      "question": "Na Biblioteca Joanina, em Coimbra, as mesas são cobertas com couro no fim de cada dia. Para as proteger de quê?",
+      "options": [
+        "Da humidade do rio Mondego",
+        "Do pó levantado pelos visitantes",
+        "Dos dejetos dos morcegos que lá vivem",
+        "Da luz solar que entra pelas janelas"
+      ],
+      "explanation": "Dos dejetos dos morcegos. Segundo a Universidade de Coimbra, vivem morcegos na biblioteca, por isso as mesas são cobertas com «toalhas» de couro no fim de cada dia, para impedir os danos que os dejetos causam."
+    }
+  },
+  "correct": 2,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://visit.uc.pt/pt/space-list/joanina",
+    "https://www.dn.pt/arquivo/diario-de-noticias/biblioteca-joanina-gasta-fortuna-para-nao-deixar-os-livros-morrer.html",
+    "https://www.noticiasdecoimbra.pt/ja-conhece-os-guardioes-noturnos-do-tesouro-da-biblioteca-joanina-de-coimbra/"
+  ],
   "fontes": [
     {
       "url": "https://visit.uc.pt/pt/space-list/joanina",
@@ -65,9 +77,7 @@
       "data": "2026-11-11"
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -119,7 +129,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
     }
-  ],
-  "etiquetas": []
+  ]
 }

@@ -1,19 +1,28 @@
 {
   "id": "Q-2026-000043",
-  "lingua": "pt-PT",
-  "tema": "literatura",
-  "subtema": "autores e obras",
-  "formato": "escolha-multipla",
-  "enunciado": "Que título tinha primitivamente a «Mensagem», de Fernando Pessoa, antes de um amigo o levar a mudá-lo?",
-  "opcoes": [
-    "Portugal",
-    "Atlântida",
-    "Lusitânia",
-    "Pátria"
+  "topic": "General Knowledge",
+  "subtopic": "autores e obras",
+  "text": {
+    "pt-PT": {
+      "question": "Que título tinha primitivamente a «Mensagem», de Fernando Pessoa, antes de um amigo o levar a mudá-lo?",
+      "options": [
+        "Portugal",
+        "Atlântida",
+        "Lusitânia",
+        "Pátria"
+      ],
+      "explanation": "Portugal. Pessoa escreveu que o livro se chamava primitivamente «Portugal» e mudou o título quando o amigo Da Cunha Dias lhe fez notar que o nome da Pátria estava «prostituído a sapatos», como a hotéis."
+    }
+  },
+  "correct": 0,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://ler.letras.up.pt/uploads/ficheiros/14139.pdf",
+    "https://purl.pt/13858/1/geneses/1/3-texto-base-mensagem.html",
+    "https://observador.pt/especiais/dos-envelopes-esquecidos-a-mensagem-como-se-construiu-a-nova-edicao-critica-do-mais-famoso-livro-de-fernando-pessoa/"
   ],
-  "correta": 0,
-  "explicacao": "Portugal. Pessoa escreveu que o livro se chamava primitivamente «Portugal» e mudou o título quando o amigo Da Cunha Dias lhe fez notar que o nome da Pátria estava «prostituído a sapatos», como a hotéis.",
-  "dificuldade_estimada": 3,
   "fontes": [
     {
       "url": "https://ler.letras.up.pt/uploads/ficheiros/14139.pdf",
@@ -65,9 +74,7 @@
       "data": "2026-11-11"
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -107,7 +114,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
     }
-  ],
-  "etiquetas": []
+  ]
 }

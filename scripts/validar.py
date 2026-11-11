@@ -10,6 +10,7 @@ Sai com código 1 se houver algum ERRO. AVISO não bloqueia.
 Não precisa de pacotes externos (só a biblioteca padrão do Python 3.9+).
 """
 
+import hashlib
 import json
 import re
 import sys
@@ -18,16 +19,17 @@ from datetime import date
 from pathlib import Path
 from urllib.parse import urlparse
 
-TEMAS = {"historia", "geografia", "ciencia", "desporto", "cinema-tv", "musica",
-         "literatura", "arte", "portugal", "atualidade"}
+TOPICS = {"General Knowledge", "Geography", "World History", "Science", "Space", "Movies",
+          "Music", "Football", "Video Games", "Nature & Animals"}
+MERCADOS = {"pt", "us"}
+IDIOMAS = ("pt-PT", "en-US")
 ESTADOS = {"rascunho", "em_verificacao", "aprovada", "publicada", "suspensa",
            "retirada", "rejeitada"}
 PAPEIS = {"pesquisador", "verificador", "advogado", "auditor", "sentinela", "triagem"}
-OBRIGATORIOS = ["id", "lingua", "tema", "subtema", "formato", "enunciado", "opcoes",
-                "correta", "explicacao", "dificuldade_estimada", "fontes", "verificacao",
-                "sensivel_ao_tempo", "valida_ate", "estado", "motivo_rejeicao", "lote",
+OBRIGATORIOS = ["id", "topic", "text", "correct", "difficulty", "daily_eligible", "valid_until",
+                "sources", "fontes", "verificacao", "estado", "motivo_rejeicao", "lote",
                 "criada_em", "historico"]
-OPCIONAIS = ["etiquetas"]
+OPCIONAIS = ["etiquetas", "subtopic", "markets", "options_lock"]
 CAMPOS_FONTE = ["url", "dominio", "titulo", "nivel", "excerto", "consultada_em", "papel"]
 
 # Etiquetas permitidas. "classico": facto muito conhecido (já usado noutros quizzes),
@@ -55,13 +57,53 @@ RE_ATRIBUICAO = re.compile(
     re.IGNORECASE)
 
 
-def duvida_sem_atribuicao(texto: str):
+RE_DUVIDA_EN = re.compile(
+    r"\b(apparently|allegedly|supposedly|reportedly|presumably|probably|possibly|perhaps|maybe|"
+    r"is said to|are said to|was said to|it is believed|it is thought|legend has it|rumou?r has it|"
+    r"may have|might have|could have been)\b", re.IGNORECASE)
+RE_ATRIBUICAO_EN = re.compile(
+    r"\b(according to|per the|as (?:stated|reported|argued|claimed) by|in the (?:view|opinion) of|"
+    r"historians?|archaeologists?|researchers?|scholars?|the authors?|"
+    r"(?:states?|stated|says|said|argues?|argued|claims?|claimed|suggests?|suggested|writes|wrote|"
+    r"records?|recorded|attributes?|attributed|maintains?|maintained) that)\b", re.IGNORECASE)
+
+
+def duvida_sem_atribuicao(texto: str, idioma: str = "pt-PT"):
     """Devolve a primeira expressão de dúvida numa frase sem atribuição, ou None."""
+    re_d, re_a = (RE_DUVIDA_EN, RE_ATRIBUICAO_EN) if idioma == "en-US" else (RE_DUVIDA, RE_ATRIBUICAO)
     for frase in re.split(r"(?<=[.;!?])\s+", texto or ""):
-        m = RE_DUVIDA.search(frase)
-        if m and not RE_ATRIBUICAO.search(frase):
+        m = re_d.search(frase)
+        if m and not re_a.search(frase):
             return m.group(0)
     return None
+
+
+# Formas do português do Brasil que não servem em pt-PT (aviso; o conferente decide).
+RE_BRASIL = re.compile(r"\b(ônibus|celular|geladeira|trem|gramado|goleiro|equipe|time de futebol|"
+                       r"pelo menos você|vocês|você|a gente|ator principal|filme de terror|banheiro|"
+                       r"café da manhã|fato de que)\b", re.IGNORECASE)
+# Grafias britânicas que não servem em en-US (aviso).
+RE_BRITANICO = re.compile(r"\b(colour|favourite|centre|metre|kilometre|litre|grey|programme|"
+                          r"theatre|honour|neighbour|travelled|defence|organis\w+|realis\w+|"
+                          r"analys\w+|whilst|football pitch)\b", re.IGNORECASE)
+
+
+def n_frases(texto: str) -> int:
+    return len([f for f in re.split(r"(?<=[.!?])\s+(?=[A-ZÀ-Ý«\"0-9])", (texto or "").strip()) if f])
+
+
+def numeros(texto: str) -> list[str]:
+    """Sequências de dígitos de um texto, normalizadas (2,4 e 2.4 -> 2.4; 350 000 e 350,000 -> 350000)."""
+    s = re.sub(r"(?<=\d)[\s\u00a0\u202f,.](?=\d{3}(?!\d))", "", texto or "")
+    s = re.sub(r"(?<=\d),(?=\d)", ".", s)
+    return sorted(re.findall(r"\d+(?:\.\d+)?", s))
+
+
+def opcoes_lock(p: dict) -> str:
+    """SHA-256 das opções nos dois idiomas (o texto das opções é imutável depois da aprovação)."""
+    t = p.get("text", {})
+    base = {i: t.get(i, {}).get("options") for i in IDIOMAS}
+    return hashlib.sha256(json.dumps(base, ensure_ascii=False, sort_keys=True).encode("utf-8")).hexdigest()
 
 # Domínios proibidos como fonte (regras/fontes.md). Qualquer domínio com "quiz" ou
 # "trivia" no nome também é recusado.
@@ -105,6 +147,65 @@ def data_valida(valor) -> bool:
         return False
 
 
+def validar_texto(idioma: str, tx, estado: str, erros: list, avisos: list):
+    """Valida o texto de um idioma e devolve (question, options, explanation)."""
+    if not isinstance(tx, dict):
+        erros.append(f"text.{idioma} não é um objeto")
+        return "", [], ""
+    for c in ("question", "options", "explanation"):
+        if c not in tx:
+            erros.append(f"text.{idioma} sem: {c}")
+    extra = set(tx) - {"question", "options", "explanation"}
+    if extra:
+        erros.append(f"text.{idioma}: campos não previstos: {', '.join(sorted(extra))}")
+    q = tx.get("question") if isinstance(tx.get("question"), str) else ""
+    ex = tx.get("explanation") if isinstance(tx.get("explanation"), str) else ""
+    op = tx.get("options")
+    if not 10 <= len(q) <= 200:
+        erros.append(f"{idioma}: pergunta com {len(q)} caracteres (limite 10 a 200)")
+    elif len(q) > 120:
+        avisos.append(f"{idioma}: pergunta com {len(q)} caracteres (alvo: até 120)")
+    if not q.rstrip().endswith("?"):
+        erros.append(f"{idioma}: a pergunta tem de terminar em '?'")
+    negativa = r"\bnão\b" if idioma == "pt-PT" else r"\bnot\b|\bnever\b"
+    if re.search(negativa, q, re.IGNORECASE):
+        avisos.append(f"{idioma}: pergunta com negativa: confirmar que não confunde")
+    if not 10 <= len(ex) <= 300:
+        erros.append(f"{idioma}: explicação com {len(ex)} caracteres (limite 10 a 300)")
+    if n_frases(ex) > 2:
+        # No ecrã «Why» cabem 1 a 2 frases: bloqueia a aprovação, não o trabalho em curso.
+        (erros if estado in {"aprovada", "publicada"} else avisos).append(
+            f"{idioma}: explicação com {n_frases(ex)} frases (limite: 1 a 2)")
+    duvida = duvida_sem_atribuicao(ex, idioma)
+    if duvida:
+        erros.append(f"{idioma}: linguagem de dúvida sem atribuição na explicação ('{duvida}'): atribuir a quem o diz, confirmar com fonte e afirmar, ou retirar")
+    if idioma == "pt-PT":
+        for campo, valor in (("pergunta", q), ("explicação", ex), ("opções", " ".join(o for o in (op or []) if isinstance(o, str)))):
+            m = RE_BRASIL.search(valor)
+            if m:
+                avisos.append(f"pt-PT: forma do português do Brasil na {campo} ('{m.group(0)}')")
+    else:
+        for campo, valor in (("question", q), ("explanation", ex), ("options", " ".join(o for o in (op or []) if isinstance(o, str)))):
+            m = RE_BRITANICO.search(valor)
+            if m:
+                avisos.append(f"en-US: grafia britânica na {campo} ('{m.group(0)}')")
+    if not isinstance(op, list) or len(op) != 4:
+        erros.append(f"{idioma}: tem de haver exatamente 4 opções")
+        op = []
+    else:
+        if any(not isinstance(o, str) or not o.strip() for o in op):
+            erros.append(f"{idioma}: há opções vazias ou que não são texto")
+        normal = [normalizar(o) for o in op if isinstance(o, str)]
+        if len(set(normal)) != len(normal):
+            erros.append(f"{idioma}: há opções repetidas")
+        if any(isinstance(o, str) and len(o) > 60 for o in op):
+            erros.append(f"{idioma}: há opções com mais de 60 caracteres")
+        if any(normalizar(o) in {"todas as anteriores", "nenhuma das anteriores", "all of the above", "none of the above"}
+               for o in op if isinstance(o, str)):
+            erros.append(f"{idioma}: opções do tipo 'todas/nenhuma das anteriores' não são permitidas")
+    return q, op, ex
+
+
 def validar_pergunta(p: dict) -> tuple[list[str], list[str]]:
     erros, avisos = [], []
 
@@ -120,39 +221,51 @@ def validar_pergunta(p: dict) -> tuple[list[str], list[str]]:
     if extra:
         erros.append(f"campos não previstos no esquema: {', '.join(sorted(extra))}")
 
+    estado = p["estado"]
+    final = estado in {"aprovada", "publicada"}
     if not isinstance(p["id"], str) or not RE_ID.match(p["id"]):
         erros.append("id fora do formato Q-AAAA-NNNNNN")
-    if p["lingua"] != "pt-PT":
-        erros.append("lingua tem de ser pt-PT")
-    if p["tema"] not in TEMAS:
-        erros.append(f"tema desconhecido: {p['tema']}")
-    if p["formato"] != "escolha-multipla":
-        erros.append("formato tem de ser escolha-multipla")
-    if p["estado"] not in ESTADOS:
-        erros.append(f"estado desconhecido: {p['estado']}")
-    if not isinstance(p["subtema"], str) or not 2 <= len(p["subtema"]) <= 60:
-        erros.append("subtema tem de ter entre 2 e 60 caracteres")
+    if p["topic"] not in TOPICS:
+        erros.append(f"topic desconhecido: {p['topic']}")
+    if estado not in ESTADOS:
+        erros.append(f"estado desconhecido: {estado}")
+    if "subtopic" in p and (not isinstance(p["subtopic"], str) or not 2 <= len(p["subtopic"]) <= 60):
+        erros.append("subtopic tem de ter entre 2 e 60 caracteres")
+    mercados = p.get("markets")
+    if mercados is not None:
+        if (not isinstance(mercados, list) or not mercados or len(set(mercados)) != len(mercados)
+                or any(m not in MERCADOS for m in mercados)):
+            erros.append(f"markets tem de ser uma lista não vazia, sem repetições, de {sorted(MERCADOS)}")
     if not isinstance(p["lote"], str) or not p["lote"]:
         erros.append("lote em falta")
     if not data_valida(p["criada_em"]):
         erros.append("criada_em não é uma data AAAA-MM-DD válida")
 
-    # Enunciado e explicação
-    enunciado = p["enunciado"] if isinstance(p["enunciado"], str) else ""
-    if not 10 <= len(enunciado) <= 200:
-        erros.append(f"enunciado com {len(enunciado)} caracteres (limite 10 a 200)")
-    elif len(enunciado) > 120:
-        avisos.append(f"enunciado com {len(enunciado)} caracteres (alvo: até 120)")
-    if not enunciado.rstrip().endswith("?"):
-        erros.append("o enunciado tem de terminar em '?'")
-    if re.search(r"\bnão\b", enunciado, re.IGNORECASE):
-        avisos.append("enunciado com negativa ('não'): confirmar que não confunde")
-    explicacao = p["explicacao"] if isinstance(p["explicacao"], str) else ""
-    if not 10 <= len(explicacao) <= 300:
-        erros.append(f"explicação com {len(explicacao)} caracteres (limite 10 a 300)")
-    duvida = duvida_sem_atribuicao(explicacao)
-    if duvida:
-        erros.append(f"linguagem de dúvida sem atribuição na explicação ('{duvida}'): atribuir a quem o diz, confirmar com fonte e afirmar, ou retirar")
+    # Texto nos dois idiomas
+    texto = p["text"] if isinstance(p["text"], dict) else {}
+    if not isinstance(p["text"], dict):
+        erros.append("text tem de ser um objeto com pt-PT e en-US")
+    for i in set(texto) - set(IDIOMAS):
+        erros.append(f"text: idioma não previsto: {i}")
+    if "pt-PT" not in texto:
+        erros.append("text sem pt-PT")
+    if "en-US" not in texto and final:
+        erros.append("aprovada sem texto en-US: a pergunta tem de existir nos dois idiomas")
+    por_idioma = {}
+    for idioma in IDIOMAS:
+        if idioma in texto:
+            por_idioma[idioma] = validar_texto(idioma, texto[idioma], estado, erros, avisos)
+    if len(por_idioma) == 2:
+        (qp, op_p, ex_p), (qe, op_e, ex_e) = por_idioma["pt-PT"], por_idioma["en-US"]
+        if numeros(qp + " " + " ".join(op_p)) != numeros(qe + " " + " ".join(op_e)):
+            erros.append("os números da pergunta/opções diferem entre pt-PT e en-US")
+        if numeros(ex_p) != numeros(ex_e):
+            avisos.append("os números da explicação diferem entre pt-PT e en-US: confirmar")
+    correta = p["correct"]
+    if not isinstance(correta, int) or isinstance(correta, bool) or not 0 <= correta <= 3:
+        erros.append("correct tem de ser um inteiro de 0 a 3")
+        correta = None
+    opcoes = por_idioma.get("pt-PT", ("", [], ""))[1]
 
     # Etiquetas (campo opcional)
     etiquetas = p.get("etiquetas", [])
@@ -164,50 +277,30 @@ def validar_pergunta(p: dict) -> tuple[list[str], list[str]]:
     desconhecidas = set(etiquetas) - ETIQUETAS
     if desconhecidas:
         erros.append(f"etiquetas desconhecidas: {', '.join(sorted(desconhecidas))}")
-    if ("classico" in etiquetas and p["estado"] != "rejeitada"
-            and isinstance(p["dificuldade_estimada"], int) and p["dificuldade_estimada"] >= 4):
+    if ("classico" in etiquetas and estado != "rejeitada"
+            and isinstance(p["difficulty"], int) and p["difficulty"] >= 4):
         erros.append("pergunta 'classico' com dificuldade 4 ou 5: não é permitido")
-
-    # Opções
-    opcoes = p["opcoes"]
-    if not isinstance(opcoes, list) or len(opcoes) != 4:
-        erros.append("tem de haver exatamente 4 opções")
-        opcoes = []
-    else:
-        if any(not isinstance(o, str) or not o.strip() for o in opcoes):
-            erros.append("há opções vazias ou que não são texto")
-        normal = [normalizar(o) for o in opcoes if isinstance(o, str)]
-        if len(set(normal)) != len(normal):
-            erros.append("há opções repetidas")
-        if any(isinstance(o, str) and len(o) > 60 for o in opcoes):
-            erros.append("há opções com mais de 60 caracteres")
-        if any(normalizar(o) in {"todas as anteriores", "nenhuma das anteriores"} for o in opcoes if isinstance(o, str)):
-            erros.append("opções do tipo 'todas/nenhuma das anteriores' não são permitidas")
-    correta = p["correta"]
-    if not isinstance(correta, int) or isinstance(correta, bool) or not 0 <= correta <= 3:
-        erros.append("correta tem de ser um inteiro de 0 a 3")
-        correta = None
-    if not isinstance(p["dificuldade_estimada"], int) or not 1 <= p["dificuldade_estimada"] <= 5:
-        erros.append("dificuldade_estimada tem de ser um inteiro de 1 a 5")
+    if not isinstance(p["difficulty"], int) or isinstance(p["difficulty"], bool) or not 1 <= p["difficulty"] <= 5:
+        erros.append("difficulty tem de ser um inteiro de 1 a 5")
 
     # Tempo
-    if not isinstance(p["sensivel_ao_tempo"], bool):
-        erros.append("sensivel_ao_tempo tem de ser true ou false")
-    if p["valida_ate"] is not None and not data_valida(p["valida_ate"]):
-        erros.append("valida_ate não é uma data AAAA-MM-DD válida")
-    if p["sensivel_ao_tempo"] is True:
-        if p["valida_ate"] is None:
-            erros.append("pergunta sensível ao tempo sem valida_ate")
-        elif data_valida(p["valida_ate"]) and data_valida(p["criada_em"]) and p["valida_ate"] <= p["criada_em"]:
-            erros.append("valida_ate tem de ser posterior a criada_em")
-        elif data_valida(p["valida_ate"]) and p["valida_ate"] < date.today().isoformat() and p["estado"] in {"aprovada", "publicada"}:
+    if not isinstance(p["daily_eligible"], bool):
+        erros.append("daily_eligible tem de ser true ou false")
+    if p["valid_until"] is not None and not data_valida(p["valid_until"]):
+        erros.append("valid_until não é uma data AAAA-MM-DD válida")
+    if p["valid_until"] is not None:
+        if p["daily_eligible"] is True:
+            erros.append("daily_eligible só para factos estáveis: uma pergunta com valid_until não pode ser do Daily 10")
+        if data_valida(p["valid_until"]) and data_valida(p["criada_em"]) and p["valid_until"] <= p["criada_em"]:
+            erros.append("valid_until tem de ser posterior a criada_em")
+        elif data_valida(p["valid_until"]) and p["valid_until"] < date.today().isoformat() and final:
             erros.append("prazo de validade ultrapassado: passar pela sentinela")
 
     # Fontes
     fontes = p["fontes"] if isinstance(p["fontes"], list) else []
     if len(fontes) < 2:
         erros.append("são precisas pelo menos 2 fontes")
-    dominios, wikis, papeis_dom = [], 0, {}
+    dominios, wikis, papeis_dom, urls = [], 0, {}, {}
     for i, f in enumerate(fontes, 1):
         if not isinstance(f, dict):
             erros.append(f"fonte {i} não é um objeto")
@@ -221,6 +314,7 @@ def validar_pergunta(p: dict) -> tuple[list[str], list[str]]:
             erros.append(f"fonte {i} com URL inválido")
             continue
         dom = dominio_registavel(url)
+        urls[url] = f
         if f["dominio"] != dom:
             erros.append(f"fonte {i}: dominio '{f['dominio']}' não corresponde ao URL ('{dom}')")
         if dom in PROIBIDOS or "quiz" in dom or "trivia" in dom:
@@ -248,12 +342,26 @@ def validar_pergunta(p: dict) -> tuple[list[str], list[str]]:
     if wikis:
         avisos.append("Wikipédia citada: serve para pistas; confirmar que a fonte original que ela refere não estava acessível")
 
+    # Fontes mostradas ao jogador
+    src = p["sources"]
+    if not isinstance(src, list) or not 1 <= len(src) <= 3 or len(set(src)) != len(src):
+        erros.append("sources tem de ser uma lista de 1 a 3 URLs diferentes")
+    else:
+        for u in src:
+            if u not in urls:
+                erros.append(f"sources: {u} não está em 'fontes'")
+            elif dominio_registavel(u) == "wikipedia.org":
+                erros.append("sources: a Wikipédia não se mostra ao jogador")
+        if urls and not any(u in urls and urls[u].get("nivel") == 1 for u in src) and any(f.get("nivel") == 1 for f in urls.values()):
+            avisos.append("sources sem nenhuma fonte de nível 1 embora exista uma em 'fontes'")
+
     # Verificação e estados
     v = p["verificacao"] if isinstance(p["verificacao"], dict) else {}
     for chave in ("verificador", "advogado", "editor"):
         if chave not in v:
             erros.append(f"verificacao sem o campo {chave}")
     ver, adv, edi = v.get("verificador"), v.get("advogado"), v.get("editor")
+    tra, conf = v.get("tradutor"), v.get("conferente")
 
     if ver:
         if "pesquisador" not in papeis_dom:
@@ -270,7 +378,7 @@ def validar_pergunta(p: dict) -> tuple[list[str], list[str]]:
             if normalizar(ver["resposta_texto"]) != normalizar(opcoes[correta]) and ver.get("concorda") is True:
                 erros.append("o verificador 'concorda' mas a resposta dele não é a opção correta")
 
-    if p["estado"] in {"aprovada", "publicada"}:
+    if final:
         if not ver or ver.get("concorda") is not True:
             erros.append("aprovada sem concordância do verificador às cegas")
         elif ver.get("confianca") == "baixa":
@@ -284,13 +392,23 @@ def validar_pergunta(p: dict) -> tuple[list[str], list[str]]:
         elif edi.get("alteracao_factual") is True:
             if not ver or not data_valida(ver.get("data", "")) or not data_valida(edi.get("data", "")) or ver["data"] < edi["data"]:
                 erros.append("mudança factual do editor sem nova verificação às cegas")
-    if p["estado"] in {"aprovada", "publicada"}:
+        if not tra:
+            erros.append("aprovada sem o passo do tradutor (en-US)")
+        if not conf or conf.get("aprovado") is not True:
+            erros.append("aprovada sem aprovação do conferente (os dois textos dizem o mesmo)")
         historico_ok = isinstance(p["historico"], list) and any(
             isinstance(ev, dict) and ev.get("evento") == EVENTO_APROVACAO for ev in p["historico"])
         if not historico_ok:
             erros.append(f"aprovada sem o evento '{EVENTO_APROVACAO}' no histórico: só o scripts/aprovar.py pode aprovar")
-    if p["estado"] == "rejeitada" and not (isinstance(p["motivo_rejeicao"], str) and p["motivo_rejeicao"].strip()):
+        lock = p.get("options_lock")
+        if not lock:
+            erros.append("aprovada sem options_lock: só o scripts/aprovar.py grava as opções aprovadas")
+        elif lock != opcoes_lock(p):
+            erros.append("o texto das opções mudou depois da aprovação (options_lock não bate)")
+    if estado == "rejeitada" and not (isinstance(p["motivo_rejeicao"], str) and p["motivo_rejeicao"].strip()):
         erros.append("pergunta rejeitada sem motivo_rejeicao")
+    if estado == "suspensa" and not (isinstance(p["motivo_rejeicao"], str) and p["motivo_rejeicao"].strip()):
+        erros.append("pergunta suspensa sem motivo (motivo_rejeicao)")
 
     historico = p["historico"] if isinstance(p["historico"], list) else []
     if not historico:
@@ -363,9 +481,9 @@ def main() -> int:
             if pid in ids:
                 erros.append(f"id repetido (também em {ids[pid]})")
             ids[pid] = f.name
-            chave = normalizar(pergunta.get("enunciado", ""))
+            chave = normalizar(((pergunta.get("text") or {}).get("pt-PT") or {}).get("question", ""))
             if chave and chave in enunciados and pergunta.get("estado") != "rejeitada":
-                avisos.append(f"enunciado igual ao de {enunciados[chave]}")
+                avisos.append(f"pergunta pt-PT igual à de {enunciados[chave]}")
             if pergunta.get("estado") != "rejeitada":
                 enunciados.setdefault(chave, f.name)
         estado = "OK   " if not erros else "ERRO "

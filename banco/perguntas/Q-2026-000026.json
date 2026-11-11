@@ -1,19 +1,31 @@
 {
   "id": "Q-2026-000026",
-  "lingua": "pt-PT",
-  "tema": "portugal",
-  "subtema": "Descobrimentos – Cabo da Boa Esperança",
-  "formato": "escolha-multipla",
-  "enunciado": "Segundo Duarte Pacheco Pereira, o que viu Bartolomeu Dias que o levou a dar o nome «Boa Esperança» ao cabo?",
-  "opcoes": [
-    "Um grande rio navegável que entrava pelo interior",
-    "Povos locais a oferecerem ouro e marfim",
-    "Um porto abrigado onde as naus se podiam reparar",
-    "A costa a virar para norte e nordeste"
+  "topic": "World History",
+  "subtopic": "Descobrimentos – Cabo da Boa Esperança",
+  "markets": [
+    "pt"
   ],
-  "correta": 3,
-  "explicacao": "A costa a virar para norte e nordeste. No Esmeraldo de Situ Orbis, Duarte Pacheco Pereira escreve que foi por isso que Bartolomeu Dias deu ao cabo o nome de Boa Esperança: fazia esperar encontrar a Índia.",
-  "dificuldade_estimada": 4,
+  "text": {
+    "pt-PT": {
+      "question": "Segundo Duarte Pacheco Pereira, o que viu Bartolomeu Dias que o levou a dar o nome «Boa Esperança» ao cabo?",
+      "options": [
+        "Um grande rio navegável que entrava pelo interior",
+        "Povos locais a oferecerem ouro e marfim",
+        "Um porto abrigado onde as naus se podiam reparar",
+        "A costa a virar para norte e nordeste"
+      ],
+      "explanation": "A costa a virar para norte e nordeste. No Esmeraldo de Situ Orbis, Duarte Pacheco Pereira escreve que foi por isso que Bartolomeu Dias deu ao cabo o nome de Boa Esperança: fazia esperar encontrar a Índia."
+    }
+  },
+  "correct": 3,
+  "difficulty": 4,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://upjournals.up.ac.za/index.php/historia/article/download/2611/2459/10214",
+    "https://archive.org/stream/esmeraldodesitu00peregoog/esmeraldodesitu00peregoog_djvu.txt",
+    "https://www.sahistory.org.za/people/bartolomeu-dias"
+  ],
   "fontes": [
     {
       "url": "https://archive.org/stream/esmeraldodesitu00peregoog/esmeraldodesitu00peregoog_djvu.txt",
@@ -83,10 +95,8 @@
       "data": "2026-11-11"
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
-  "estado": "aprovada",
-  "motivo_rejeicao": null,
+  "estado": "suspensa",
+  "motivo_rejeicao": "em espera: falta fonte de nível 1 do texto do Esmeraldo ou reformulação atribuída («segundo Duarte Pacheco Pereira…»)",
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
   "historico": [
@@ -137,7 +147,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2 e suspensa",
+      "agente": "orquestrador",
+      "nota": "em espera: falta fonte de nível 1 do texto do Esmeraldo ou reformulação atribuída («segundo Duarte Pacheco Pereira…»)"
     }
-  ],
-  "etiquetas": []
+  ]
 }

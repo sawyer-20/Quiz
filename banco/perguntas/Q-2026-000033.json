@@ -1,19 +1,28 @@
 {
   "id": "Q-2026-000033",
-  "lingua": "pt-PT",
-  "tema": "historia",
-  "subtema": "vida quotidiana",
-  "formato": "escolha-multipla",
-  "enunciado": "Que objeto serviu de recibo fiscal no Tesouro inglês medieval e, queimado em 1834, incendiou o Parlamento de Westminster?",
-  "opcoes": [
-    "Rolos de pergaminho selados com cera",
-    "Varas de madeira entalhadas e partidas ao meio",
-    "Fichas de chumbo cunhadas com o brasão real",
-    "Tábuas de cera gravadas com estilete"
+  "topic": "World History",
+  "subtopic": "vida quotidiana",
+  "text": {
+    "pt-PT": {
+      "question": "Que objeto serviu de recibo fiscal no Tesouro inglês medieval e, queimado em 1834, incendiou o Parlamento de Westminster?",
+      "options": [
+        "Rolos de pergaminho selados com cera",
+        "Varas de madeira entalhadas e partidas ao meio",
+        "Fichas de chumbo cunhadas com o brasão real",
+        "Tábuas de cera gravadas com estilete"
+      ],
+      "explanation": "Varas de madeira entalhadas e partidas ao meio: uma metade ficava com o Tesouro, a outra com quem pagava. Em 1834 duas carroças dessas «tallies» foram queimadas nas fornalhas sob a Câmara dos Lordes e o fogo destruiu o Parlamento."
+    }
+  },
+  "correct": 1,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.nationalarchives.gov.uk/help/e179/glossary.htm",
+    "https://collection.sciencemuseumgroup.org.uk/objects/co60506/medieval-exchequer-tally-sticks",
+    "https://historyofparliament.com/2025/10/16/the-westminster-fire-of-1834/"
   ],
-  "correta": 1,
-  "explicacao": "Varas de madeira entalhadas e partidas ao meio: uma metade ficava com o Tesouro, a outra com quem pagava. Em 1834 duas carroças dessas «tallies» foram queimadas nas fornalhas sob a Câmara dos Lordes e o fogo destruiu o Parlamento.",
-  "dificuldade_estimada": 3,
   "fontes": [
     {
       "url": "https://historyofparliament.com/2025/10/16/the-westminster-fire-of-1834/",
@@ -74,9 +83,7 @@
       "data": "2026-11-11"
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -116,7 +123,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
     }
-  ],
-  "etiquetas": []
+  ]
 }

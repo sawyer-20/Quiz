@@ -1,19 +1,28 @@
 {
   "id": "Q-2026-000040",
-  "lingua": "pt-PT",
-  "tema": "cinema-tv",
-  "subtema": "cinema europeu – bastidores e técnica",
-  "formato": "escolha-multipla",
-  "enunciado": "Em «Das Boot» (1981), que dispositivo foi acrescentado à câmara Arriflex para a estabilizar no interior do submarino?",
-  "opcoes": [
-    "Giroscópios",
-    "Amortecedores hidráulicos",
-    "Carris fixos no teto",
-    "Um contrapeso de chumbo"
+  "topic": "Movies",
+  "subtopic": "cinema europeu – bastidores e técnica",
+  "text": {
+    "pt-PT": {
+      "question": "Em «Das Boot» (1981), que dispositivo foi acrescentado à câmara Arriflex para a estabilizar no interior do submarino?",
+      "options": [
+        "Giroscópios",
+        "Amortecedores hidráulicos",
+        "Carris fixos no teto",
+        "Um contrapeso de chumbo"
+      ],
+      "explanation": "Giroscópios. Segundo o diretor de fotografia Jost Vacano, a Steadicam era grande de mais para as portas de ligação do cenário do submarino, por isso estabilizou com giroscópios uma Arriflex usada à mão."
+    }
+  },
+  "correct": 0,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://britishcinematographer.co.uk/visionary-jost-vacano-asc-bvk/",
+    "https://www.metrosiliconvalley.com/papers/metro/04.03.97/das-boot2-9714.html",
+    "https://www.yahoo.com/entertainment/oscar-nominated-cinematographer-jost-vacano-173437529.html"
   ],
-  "correta": 0,
-  "explicacao": "Giroscópios. Segundo o diretor de fotografia Jost Vacano, a Steadicam era grande de mais para as portas de ligação do cenário do submarino, por isso estabilizou com giroscópios uma Arriflex usada à mão.",
-  "dificuldade_estimada": 3,
   "fontes": [
     {
       "url": "https://britishcinematographer.co.uk/visionary-jost-vacano-asc-bvk/",
@@ -65,10 +74,8 @@
       "data": "2026-11-11"
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
-  "estado": "aprovada",
-  "motivo_rejeicao": null,
+  "estado": "suspensa",
+  "motivo_rejeicao": "em espera: falta fonte de nível 1 (só fontes de nível 2)",
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
   "historico": [
@@ -119,7 +126,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2 e suspensa",
+      "agente": "orquestrador",
+      "nota": "em espera: falta fonte de nível 1 (só fontes de nível 2)"
     }
-  ],
-  "etiquetas": []
+  ]
 }

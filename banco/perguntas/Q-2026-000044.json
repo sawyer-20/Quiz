@@ -1,19 +1,28 @@
 {
   "id": "Q-2026-000044",
-  "lingua": "pt-PT",
-  "tema": "musica",
-  "subtema": "instrumentos",
-  "formato": "escolha-multipla",
-  "enunciado": "O ukulele havaiano descende de instrumentos de cordas levados para o Havai por emigrantes vindos de que ilha portuguesa?",
-  "opcoes": [
-    "São Miguel",
-    "Terceira",
-    "Porto Santo",
-    "Madeira"
+  "topic": "Music",
+  "subtopic": "instrumentos",
+  "text": {
+    "pt-PT": {
+      "question": "O ukulele havaiano descende de instrumentos de cordas levados para o Havai por emigrantes vindos de que ilha portuguesa?",
+      "options": [
+        "São Miguel",
+        "Terceira",
+        "Porto Santo",
+        "Madeira"
+      ],
+      "explanation": "No século XIX, emigrantes madeirenses levaram para o Havai a braguinha (machete), a versão madeirense do cavaquinho. No Havai o instrumento foi adotado e recebeu o nome de ukulele."
+    }
+  },
+  "correct": 3,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://folkways-media.si.edu/docs/folkways/artwork/UNES08323.pdf",
+    "https://www.npr.org/transcripts/127116452",
+    "https://www.history.com/articles/ukulele-origins-history"
   ],
-  "correta": 3,
-  "explicacao": "No século XIX, emigrantes madeirenses levaram para o Havai a braguinha (machete), a versão madeirense do cavaquinho. No Havai o instrumento foi adotado e recebeu o nome de ukulele.",
-  "dificuldade_estimada": 2,
   "fontes": [
     {
       "url": "https://folkways-media.si.edu/docs/folkways/artwork/UNES08323.pdf",
@@ -48,8 +57,6 @@
     "advogado": null,
     "editor": null
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
   "estado": "rejeitada",
   "motivo_rejeicao": "quota de clássicos do lote (regra 16): o lote já tinha 2 clássicos (Q24, Q39); alvo 18 volta ao pesquisador com ângulo não clássico",
   "lote": "lote-2026-11-11-misto",
@@ -72,6 +79,12 @@
       "evento": "rejeitada",
       "agente": "orquestrador",
       "nota": "quota de clássicos do lote (regra 16): o lote já tinha 2 clássicos (Q24, Q39); alvo 18 volta ao pesquisador com ângulo não clássico"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "só pt-PT (pergunta rejeitada ou em curso)"
     }
   ],
   "etiquetas": [

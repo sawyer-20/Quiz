@@ -1,19 +1,28 @@
 {
   "id": "Q-2026-000024",
-  "lingua": "pt-PT",
-  "tema": "ciencia",
-  "subtema": "química – o hélio",
-  "formato": "escolha-multipla",
-  "enunciado": "Em 1868, onde estava o astrónomo francês Pierre Janssen quando registou a linha amarela que levaria ao hélio?",
-  "opcoes": [
-    "Na Austrália",
-    "Na Índia",
-    "No Brasil",
-    "No Egito"
+  "topic": "Science",
+  "subtopic": "química – o hélio",
+  "text": {
+    "pt-PT": {
+      "question": "Em 1868, onde estava o astrónomo francês Pierre Janssen quando registou a linha amarela que levaria ao hélio?",
+      "options": [
+        "Na Austrália",
+        "Na Índia",
+        "No Brasil",
+        "No Egito"
+      ],
+      "explanation": "Na Índia. Janssen viajou até lá para observar um eclipse total do Sol e registou uma linha amarela inédita no espetro solar. Essa linha levaria ao hélio, detetado no Sol antes de o ser na Terra."
+    }
+  },
+  "correct": 1,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://periodic-table.rsc.org/element/2/helium",
+    "https://www.lanl.gov/science-engineering/periodic-table/element/helium",
+    "https://winter.group.shef.ac.uk/webelements/helium/history.html"
   ],
-  "correta": 1,
-  "explicacao": "Na Índia. Janssen viajou até lá para observar um eclipse total do Sol e registou uma linha amarela inédita no espetro solar. Essa linha levaria ao hélio, detetado no Sol antes de o ser na Terra.",
-  "dificuldade_estimada": 3,
   "fontes": [
     {
       "url": "https://periodic-table.rsc.org/element/2/helium",
@@ -74,9 +83,7 @@
       "data": "2026-11-11"
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -128,6 +135,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
     }
   ],
   "etiquetas": [

@@ -1,19 +1,31 @@
 {
   "id": "Q-2026-000022",
-  "lingua": "pt-PT",
-  "tema": "arte",
-  "subtema": "azulejo",
-  "formato": "escolha-multipla",
-  "enunciado": "O Grande Panorama de Lisboa mostra a cidade vista do Tejo antes do terramoto de 1755. Em que suporte foi feito?",
-  "opcoes": [
-    "Gravura em cobre",
-    "Tapeçaria",
-    "Óleo sobre tela",
-    "Azulejo"
+  "topic": "General Knowledge",
+  "subtopic": "azulejo",
+  "markets": [
+    "pt"
   ],
-  "correta": 3,
-  "explicacao": "Em azulejo: painel pintado a azul sobre branco, atribuído a Gabriel del Barco e guardado no Museu Nacional do Azulejo. Mostra a Lisboa anterior a 1755, com a Torre de Belém e o Mosteiro dos Jerónimos entre os edifícios.",
-  "dificuldade_estimada": 2,
+  "text": {
+    "pt-PT": {
+      "question": "O Grande Panorama de Lisboa mostra a cidade vista do Tejo antes do terramoto de 1755. Em que suporte foi feito?",
+      "options": [
+        "Gravura em cobre",
+        "Tapeçaria",
+        "Óleo sobre tela",
+        "Azulejo"
+      ],
+      "explanation": "Em azulejo: painel pintado a azul sobre branco, atribuído a Gabriel del Barco e guardado no Museu Nacional do Azulejo. Mostra a Lisboa anterior a 1755, com a Torre de Belém e o Mosteiro dos Jerónimos entre os edifícios."
+    }
+  },
+  "correct": 3,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.museusemonumentos.pt/pt/museus-e-monumentos/museu-nacional-do-azulejo",
+    "https://artsandculture.google.com/asset/grande-panorama-de-lisboa-paço-da-ribeira/zAEzUKmNN9GdGg",
+    "https://institutodehistoriadaarte.com/lancamento-lisboa-em-azulejo-antes-do-terramoto-de-1755/"
+  ],
   "fontes": [
     {
       "url": "https://www.museusemonumentos.pt/pt/museus-e-monumentos/museu-nacional-do-azulejo",
@@ -65,9 +77,7 @@
       "data": "2026-11-11"
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-06-misto",
   "criada_em": "2026-11-10",
@@ -119,7 +129,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
     }
-  ],
-  "etiquetas": []
+  ]
 }

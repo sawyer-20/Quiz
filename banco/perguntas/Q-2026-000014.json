@@ -1,19 +1,28 @@
 {
   "id": "Q-2026-000014",
-  "lingua": "pt-PT",
-  "tema": "historia",
-  "subtema": "Astecas – economia",
-  "formato": "escolha-multipla",
-  "enunciado": "Nos mercados astecas, que sementes eram usadas como moeda?",
-  "opcoes": [
-    "Grãos de milho",
-    "Sementes de abóbora",
-    "Feijões",
-    "Sementes de cacau"
+  "topic": "World History",
+  "subtopic": "Astecas – economia",
+  "text": {
+    "pt-PT": {
+      "question": "Nos mercados astecas, que sementes eram usadas como moeda?",
+      "options": [
+        "Grãos de milho",
+        "Sementes de abóbora",
+        "Feijões",
+        "Sementes de cacau"
+      ],
+      "explanation": "Sementes de cacau. Segundo o arqueólogo Michael E. Smith, pagavam as compras do dia a dia, enquanto os tecidos de algodão serviam para os bens mais valiosos. O cacau era também a bebida da elite e um tributo exigido à região de Soconusco."
+    }
+  },
+  "correct": 3,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://exhibits.library.cornell.edu/chocolate-food-of-the-gods/feature/when-money-grew-on-trees",
+    "https://news.asu.edu/content/asu-archaeologist-talks-aztec-currency-new-york-times",
+    "https://www.mexicolore.co.uk/maya/chocolate/beanz-meanz-money"
   ],
-  "correta": 3,
-  "explicacao": "Sementes de cacau. Segundo o arqueólogo Michael E. Smith, pagavam as compras do dia a dia, enquanto os tecidos de algodão serviam para os bens mais valiosos. O cacau era também a bebida da elite e um tributo exigido à região de Soconusco.",
-  "dificuldade_estimada": 2,
   "fontes": [
     {
       "url": "https://exhibits.library.cornell.edu/chocolate-food-of-the-gods/feature/when-money-grew-on-trees",
@@ -65,9 +74,7 @@
       "data": "2026-11-10"
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-06-misto",
   "criada_em": "2026-11-06",
@@ -107,6 +114,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
     }
   ],
   "etiquetas": [

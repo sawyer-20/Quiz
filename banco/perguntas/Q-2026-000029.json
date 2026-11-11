@@ -1,19 +1,28 @@
 {
   "id": "Q-2026-000029",
-  "lingua": "pt-PT",
-  "tema": "portugal",
-  "subtema": "ciência e técnica em Portugal",
-  "formato": "escolha-multipla",
-  "enunciado": "No sextante que Gago Coutinho adaptou para a travessia aérea do Atlântico Sul, o que fazia de horizonte artificial?",
-  "opcoes": [
-    "Uma bolha de ar num pequeno nível",
-    "Um pêndulo suspenso",
-    "Um giroscópio de rotação rápida",
-    "Uma bacia de mercúrio"
+  "topic": "General Knowledge",
+  "subtopic": "ciência e técnica em Portugal",
+  "text": {
+    "pt-PT": {
+      "question": "No sextante que Gago Coutinho adaptou para a travessia aérea do Atlântico Sul, o que fazia de horizonte artificial?",
+      "options": [
+        "Uma bolha de ar num pequeno nível",
+        "Um pêndulo suspenso",
+        "Um giroscópio de rotação rápida",
+        "Uma bacia de mercúrio"
+      ],
+      "explanation": "Sem horizonte do mar visível, Coutinho adaptou ao sextante um pequeno nível de bolha de ar. Um espelho auxiliar refletia a imagem da bolha, que servia de horizonte artificial."
+    }
+  },
+  "correct": 0,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://repositorio.iscte-iul.pt/bitstream/10071/4716/1/044_Vis%c3%b5es_O%20sextante%20de%20Coutinho.pdf",
+    "https://cultura.marinha.pt/pt/museumarinha_web/multimedia_web/Paginas/efemeride-travessia-aerea-atlantico-sul-30mar20.aspx",
+    "https://portaldeperiodicos.marinha.mil.br/index.php/navigator/article/download/99/94/438"
   ],
-  "correta": 0,
-  "explicacao": "Sem horizonte do mar visível, Coutinho adaptou ao sextante um pequeno nível de bolha de ar. Um espelho auxiliar refletia a imagem da bolha, que servia de horizonte artificial.",
-  "dificuldade_estimada": 3,
   "fontes": [
     {
       "url": "https://portaldeperiodicos.marinha.mil.br/index.php/navigator/article/download/99/94/438",
@@ -48,8 +57,6 @@
     "advogado": null,
     "editor": null
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
   "estado": "rejeitada",
   "motivo_rejeicao": "fonte não independente (mil.br)",
   "lote": "lote-2026-11-11-misto",
@@ -84,7 +91,12 @@
       "evento": "rejeitada",
       "agente": "verificador-cego",
       "nota": "fonte não independente (mil.br)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "só pt-PT (pergunta rejeitada ou em curso)"
     }
-  ],
-  "etiquetas": []
+  ]
 }

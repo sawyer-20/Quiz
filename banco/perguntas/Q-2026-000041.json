@@ -1,19 +1,27 @@
 {
   "id": "Q-2026-000041",
-  "lingua": "pt-PT",
-  "tema": "geografia",
-  "subtema": "rios e lagos",
-  "formato": "escolha-multipla",
-  "enunciado": "Qual destes mares é o único sem qualquer costa, por ser delimitado só por correntes oceânicas?",
-  "opcoes": [
-    "Mar dos Sargaços",
-    "Mar Negro",
-    "Mar Mediterrâneo",
-    "Mar Báltico"
+  "topic": "Geography",
+  "subtopic": "rios e lagos",
+  "text": {
+    "pt-PT": {
+      "question": "Qual destes mares é o único sem qualquer costa, por ser delimitado só por correntes oceânicas?",
+      "options": [
+        "Mar dos Sargaços",
+        "Mar Negro",
+        "Mar Mediterrâneo",
+        "Mar Báltico"
+      ],
+      "explanation": "O Mar dos Sargaços fica dentro do Atlântico e é o único mar sem fronteira terrestre: o Gulf Stream e outras três correntes definem-lhe os limites, que por isso variam com as estações."
+    }
+  },
+  "correct": 0,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://oceanservice.noaa.gov/facts/sargassosea.html",
+    "https://www.worldatlas.com/seas/which-sea-has-no-coastline.html"
   ],
-  "correta": 0,
-  "explicacao": "O Mar dos Sargaços fica dentro do Atlântico e é o único mar sem fronteira terrestre: o Gulf Stream e outras três correntes definem-lhe os limites, que por isso variam com as estações.",
-  "dificuldade_estimada": 3,
   "fontes": [
     {
       "url": "https://oceanservice.noaa.gov/facts/sargassosea.html",
@@ -39,8 +47,6 @@
     "advogado": null,
     "editor": null
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
   "estado": "rejeitada",
   "motivo_rejeicao": "quota de clássicos do lote (regra 16): o lote já tinha 2 clássicos (Q24, Q39); alvo 12 volta ao pesquisador com ângulo não clássico",
   "lote": "lote-2026-11-11-misto",
@@ -63,6 +69,12 @@
       "evento": "rejeitada",
       "agente": "orquestrador",
       "nota": "quota de clássicos do lote (regra 16): o lote já tinha 2 clássicos (Q24, Q39); alvo 12 volta ao pesquisador com ângulo não clássico"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "só pt-PT (pergunta rejeitada ou em curso)"
     }
   ],
   "etiquetas": [

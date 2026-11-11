@@ -1,6 +1,7 @@
-# Motor de factos — app de quiz (versão 1.1)
+# Motor de factos — QUIZLUX (versão 2.0: pt-PT e en-US)
 
-Este projeto produz perguntas de cultura geral verificadas para a app de quiz.
+Este projeto produz perguntas de cultura geral verificadas para a app QUIZLUX, **cada
+uma em pt-PT e en-US**, prontas para o jogo (a solo, duelos e Daily 10).
 O CEO é o Andre: decide e dá o gosto editorial. Tu orquestras os agentes, escreves os
 ficheiros e nunca tomas decisões de produto sozinho.
 
@@ -9,8 +10,8 @@ ficheiros e nunca tomas decisões de produto sozinho.
 1. Nenhum facto vem da memória do modelo. Todos vêm de fontes abertas e lidas nesta
    sessão (WebSearch e WebFetch), segundo `regras/fontes.md`.
 2. Cada pergunta passa, por esta ordem, por: `pesquisador` → `originalidade` →
-   `verificador-cego` → `advogado-do-diabo` → `editor` → `python3 scripts/aprovar.py`.
-   Nenhum passo se salta. O verificador, o advogado e o editor recebem até 5 perguntas
+   `verificador-cego` → `advogado-do-diabo` → `editor` → `tradutor` → `conferente` →
+   `python3 scripts/aprovar.py`. Nenhum passo se salta. O verificador, o advogado e o editor recebem até 5 perguntas
    por invocação; o pesquisador pode tirar até 3 factos da mesma página.
 3. O `verificador-cego` e o `auditor` nunca recebem a resposta, as fontes nem o ficheiro
    da pergunta. Recebem só o enunciado, as opções baralhadas e os domínios a evitar.
@@ -58,11 +59,30 @@ ficheiros e nunca tomas decisões de produto sozinho.
     seguir à originalidade, antes da verificação.
 17. **Mudanças ao motor entram por pedido de merge para o `main`** (regras, agentes,
     skills, scripts). O banco e os relatórios de lote seguem no ramo de trabalho.
+18. **O facto verifica-se uma vez, o texto escreve-se duas.** O pesquisador, o verificador,
+    o advogado e o editor trabalham no texto pt-PT (a referência). O `tradutor` escreve o
+    en-US a partir do pt-PT aprovado e da ficha de facto; o `conferente` (cego: vê só os
+    dois textos) confirma que dizem o mesmo, que a resposta certa é a mesma, que as opções
+    não mudaram de sentido e que o pt-PT não tem formas do português do Brasil. Rejeita na
+    dúvida. Quem altera o pt-PT depois da verificação obriga a nova verificação (regra 4).
+19. **O texto das opções é imutável depois da aprovação.** O `aprovar.py` grava o
+    `options_lock` (SHA-256 das opções nos dois idiomas) e o `validar.py` recusa qualquer
+    mudança. Para mudar uma opção, a pergunta volta a `em_verificacao`.
+20. **Verificador independente.** O verificador não pode usar uma republicação ou cópia da
+    fonte do pesquisador (o mesmo artigo noutro domínio, num repositório ou numa agência):
+    o orquestrador passa-lhe, além dos domínios, os títulos das fontes a evitar.
+21. **Sensibilidade no passo 0.** Antes de planear um alvo, verifica-se se o tema está ligado
+    a uma tragédia com menos de 10 anos (acidentes, atentados, desastres); se estiver, o
+    alvo muda.
+22. **Mercados.** `markets` (ex.: `["pt"]`) só se usa em perguntas de interesse local; sem
+    valor = global. `daily_eligible` só para factos estáveis (sem `valid_until`).
 
 ## Onde estão as coisas
 
-- `banco/perguntas/<id>.json` — uma pergunta por ficheiro, no formato de
-  `esquema/pergunta.schema.json`. As rejeitadas ficam também, com `estado: rejeitada`
+- `banco/perguntas/<id>.json` — uma pergunta por ficheiro, no formato (v2, bilingue) de
+  `esquema/pergunta.schema.json`. Campos do jogo: `topic`, `subtopic`, `markets`, `text`
+  (`pt-PT` e `en-US`: `question`, `options`, `explanation`), `correct`, `difficulty`,
+  `daily_eligible`, `valid_until`, `sources`. As rejeitadas ficam também, com `estado: rejeitada`
   e motivo: são dados para melhorar o motor.
 - `banco/respostas/` — exportações de respostas dos jogadores (CSV) para o calibrador.
 - `banco/reportes.csv` — reportes de erro dos jogadores (`pergunta_id,data,jogador_id,texto`).
@@ -73,7 +93,8 @@ ficheiros e nunca tomas decisões de produto sozinho.
 - `relatorios/alvos-a-retomar.md` — alvos que voltam uma vez ao lote seguinte.
 - `scripts/validar.py` — validação automática.
   `python3 scripts/validar.py --dominio <url>` devolve o domínio a registar numa fonte.
-- `scripts/aprovar.py` — a única forma de aprovar (corre o `validar.py`).
+- `scripts/aprovar.py` — a única forma de aprovar (corre o `validar.py`; grava `options_lock`).
+- `scripts/migrar_v2.py` — migrou o banco do esquema v1.1 (só pt-PT) para o v2.
 - `scripts/ler_url.py` — leitor de páginas dos agentes (só http/https públicos; lê HTML,
   texto e PDF); `scripts/testar_ler_url.py` testa as recusas e as leituras.
 - `scripts/testar_validar.py` — testes das regras de texto do `validar.py`.

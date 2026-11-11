@@ -1,19 +1,28 @@
 {
   "id": "Q-2026-000028",
-  "lingua": "pt-PT",
-  "tema": "portugal",
-  "subtema": "transportes de Lisboa",
-  "formato": "escolha-multipla",
-  "enunciado": "Quando o Elevador da Glória começou a funcionar, em 1885, como era movido, antes do vapor e da eletricidade?",
-  "opcoes": [
-    "Por tração animal, com mulas",
-    "Por um motor a gás",
-    "Por contrapeso de água",
-    "Por ar comprimido"
+  "topic": "General Knowledge",
+  "subtopic": "transportes de Lisboa",
+  "text": {
+    "pt-PT": {
+      "question": "Quando o Elevador da Glória começou a funcionar, em 1885, como era movido, antes do vapor e da eletricidade?",
+      "options": [
+        "Por tração animal, com mulas",
+        "Por um motor a gás",
+        "Por contrapeso de água",
+        "Por ar comprimido"
+      ],
+      "explanation": "O ascensor da Glória, obra do engenheiro Raoul Mesnier du Ponsard, abriu em 1885 com cabo e contrapeso de água. Só depois passou a vapor e, mais tarde, a eletricidade (em 1914-1915)."
+    }
+  },
+  "correct": 2,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://observador.pt/especiais/elevador-da-gloria-quando-o-formosissimo-espectaculo-foi-inaugurado-e-encantou-lisboa-ha-140-anos/",
+    "https://www.dn.pt/arquivo/diario-de-noticias/para-o-turista-e-nao-so...-elevador-da-gloria-faz-130-anos.html",
+    "https://www.timeout.pt/lisboa/pt/noticias/13-factos-e-curiosidades-sobre-o-elevador-da-gloria-090425"
   ],
-  "correta": 2,
-  "explicacao": "O ascensor da Glória, obra do engenheiro Raoul Mesnier du Ponsard, abriu em 1885 com cabo e contrapeso de água. Só depois passou a vapor e, mais tarde, a eletricidade (em 1914-1915).",
-  "dificuldade_estimada": 3,
   "fontes": [
     {
       "url": "https://observador.pt/especiais/elevador-da-gloria-quando-o-formosissimo-espectaculo-foi-inaugurado-e-encantou-lisboa-ha-140-anos/",
@@ -64,8 +73,6 @@
     "advogado": null,
     "editor": null
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
   "estado": "rejeitada",
   "motivo_rejeicao": "sensibilidade: o Elevador da Glória foi palco de acidente com mortos em setembro de 2025 (tragédia com menos de 10 anos, tema a evitar); sem salvação por reformulação",
   "lote": "lote-2026-11-11-misto",
@@ -94,7 +101,12 @@
       "evento": "rejeitada",
       "agente": "advogado-do-diabo",
       "nota": "sensibilidade: o Elevador da Glória foi palco de acidente com mortos em setembro de 2025 (tragédia com menos de 10 anos, tema a evitar); sem salvação por reformulação"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "só pt-PT (pergunta rejeitada ou em curso)"
     }
-  ],
-  "etiquetas": []
+  ]
 }

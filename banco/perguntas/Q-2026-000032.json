@@ -1,19 +1,28 @@
 {
   "id": "Q-2026-000032",
-  "lingua": "pt-PT",
-  "tema": "historia",
-  "subtema": "diplomacia",
-  "formato": "escolha-multipla",
-  "enunciado": "Que obra nova o Tratado de Saragoça (1529) proibiu a Portugal nas Molucas e num raio de 20 léguas à volta?",
-  "opcoes": [
-    "Feitorias comerciais",
-    "Estaleiros navais",
-    "Fortalezas",
-    "Igrejas e missões"
+  "topic": "World History",
+  "subtopic": "diplomacia",
+  "text": {
+    "pt-PT": {
+      "question": "Que obra nova o Tratado de Saragoça (1529) proibiu a Portugal nas Molucas e num raio de 20 léguas à volta?",
+      "options": [
+        "Feitorias comerciais",
+        "Estaleiros navais",
+        "Fortalezas",
+        "Igrejas e missões"
+      ],
+      "explanation": "Fortalezas. Pelo Tratado de Saragoça, D. João III pagou 350 000 ducados pelas pretensões castelhanas às Molucas e ficou impedido de erguer novas fortalezas ali, num raio de 20 léguas."
+    }
+  },
+  "correct": 2,
+  "difficulty": 4,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://cultura.marinha.pt/en/museumarinha_web/multimedia_web/Pages/efemeride-tratado-de-saragoca-22abr21.aspx",
+    "https://press-files.anu.edu.au/downloads/press/p66561/html/ch04s04.html",
+    "https://eve.fcsh.unl.pt/en/politics/zaragoza-treaty"
   ],
-  "correta": 2,
-  "explicacao": "Fortalezas. Pelo Tratado de Saragoça, D. João III pagou 350 000 ducados pelas pretensões castelhanas às Molucas e ficou impedido de erguer novas fortalezas ali, num raio de 20 léguas.",
-  "dificuldade_estimada": 4,
   "fontes": [
     {
       "url": "https://cultura.marinha.pt/en/museumarinha_web/multimedia_web/Pages/efemeride-tratado-de-saragoca-22abr21.aspx",
@@ -83,9 +92,7 @@
       "data": "2026-11-11"
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -137,7 +144,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
     }
-  ],
-  "etiquetas": []
+  ]
 }

@@ -1,19 +1,27 @@
 {
   "id": "Q-2026-000034",
-  "lingua": "pt-PT",
-  "tema": "geografia",
-  "subtema": "rios e lagos",
-  "formato": "escolha-multipla",
-  "enunciado": "Qual destes lagos é o mais profundo do mundo?",
-  "opcoes": [
-    "Lago Vitória",
-    "Lago Baikal",
-    "Lago Superior",
-    "Lago Titicaca"
+  "topic": "Geography",
+  "subtopic": "rios e lagos",
+  "text": {
+    "pt-PT": {
+      "question": "Qual destes lagos é o mais profundo do mundo?",
+      "options": [
+        "Lago Vitória",
+        "Lago Baikal",
+        "Lago Superior",
+        "Lago Titicaca"
+      ],
+      "explanation": "O Baikal, na Sibéria, é o lago mais profundo do mundo, com cerca de um quilómetro e meio de fundo. Contém um volume de água equivalente ao de todos os Grandes Lagos da América do Norte juntos."
+    }
+  },
+  "correct": 1,
+  "difficulty": 1,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://whc.unesco.org/en/list/754/",
+    "https://www.usgs.gov/water-science-school/science/lakes-and-reservoirs"
   ],
-  "correta": 1,
-  "explicacao": "O Baikal, na Sibéria, é o lago mais profundo do mundo, com cerca de um quilómetro e meio de fundo. Contém um volume de água equivalente ao de todos os Grandes Lagos da América do Norte juntos.",
-  "dificuldade_estimada": 1,
   "fontes": [
     {
       "url": "https://whc.unesco.org/en/list/754/",
@@ -39,8 +47,6 @@
     "advogado": null,
     "editor": null
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
   "estado": "rejeitada",
   "motivo_rejeicao": "copiada: mesmo conjunto de opções e pergunta equivalente à da culTest (play.ceslava.com/cultest, geografia, 'What lake is the deepest in the world?'); alvo volta ao pesquisador",
   "lote": "lote-2026-11-11-misto",
@@ -63,7 +69,12 @@
       "evento": "rejeitada",
       "agente": "originalidade",
       "nota": "copiada: mesmo conjunto de opções e pergunta equivalente à da culTest (play.ceslava.com/cultest, geografia, 'What lake is the deepest in the world?'); alvo volta ao pesquisador"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "só pt-PT (pergunta rejeitada ou em curso)"
     }
-  ],
-  "etiquetas": []
+  ]
 }

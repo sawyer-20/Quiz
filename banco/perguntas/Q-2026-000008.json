@@ -1,19 +1,28 @@
 {
   "id": "Q-2026-000008",
-  "lingua": "pt-PT",
-  "tema": "historia",
-  "subtema": "Roma antiga (Império): economia e arqueologia",
-  "formato": "escolha-multipla",
-  "enunciado": "O Monte Testaccio, em Roma, é uma colina artificial. De que é feita quase por inteiro?",
-  "opcoes": [
-    "Escória de fornos de fundição",
-    "Cacos de ânforas de vinho",
-    "Cacos de ânforas de azeite",
-    "Entulho do incêndio de 64 d.C."
+  "topic": "World History",
+  "subtopic": "Roma antiga (Império): economia e arqueologia",
+  "text": {
+    "pt-PT": {
+      "question": "O Monte Testaccio, em Roma, é uma colina artificial. De que é feita quase por inteiro?",
+      "options": [
+        "Escória de fornos de fundição",
+        "Cacos de ânforas de vinho",
+        "Cacos de ânforas de azeite",
+        "Entulho do incêndio de 64 d.C."
+      ],
+      "explanation": "De cacos de ânforas de azeite, deitadas fora na época imperial e vindas na grande maioria da Bética, no sul da Hispânia. Os romanos espalhavam cal sobre os cacos."
+    }
+  },
+  "correct": 2,
+  "difficulty": 4,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.cambridge.org/core/journals/greece-and-rome/article/abs/latest-work-on-the-export-of-baetican-olive-oil-to-rome-and-the-army/07D28E24DEC41641E1383BAC0CFF12D6",
+    "https://turismoroma.it/it/luoghi/monte-dei-cocci",
+    "https://hdl.handle.net/2445/147000"
   ],
-  "correta": 2,
-  "explicacao": "De cacos de ânforas de azeite, deitadas fora na época imperial e vindas na grande maioria da Bética, no sul da Hispânia. Os romanos espalhavam cal sobre os cacos.",
-  "dificuldade_estimada": 4,
   "fontes": [
     {
       "url": "https://www.cambridge.org/core/journals/greece-and-rome/article/abs/latest-work-on-the-export-of-baetican-olive-oil-to-rome-and-the-army/07D28E24DEC41641E1383BAC0CFF12D6",
@@ -74,9 +83,7 @@
       "notas": "Só estilo: vírgulas e ordem das palavras na explicação; subtema com dois pontos. Enunciado e opções inalterados. Originalidade decidida pelo agente originalidade (original, pesquisas completas)."
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-04-historia",
   "criada_em": "2026-11-04",
@@ -194,6 +201,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
     }
   ]
 }

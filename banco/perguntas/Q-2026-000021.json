@@ -1,19 +1,31 @@
 {
   "id": "Q-2026-000021",
-  "lingua": "pt-PT",
-  "tema": "portugal",
-  "subtema": "língua gestual e educação de surdos",
-  "formato": "escolha-multipla",
-  "enunciado": "De que país veio o professor contratado por D. João VI para fundar em Lisboa o Real Instituto de Surdos-Mudos e Cegos?",
-  "opcoes": [
-    "França",
-    "Suécia",
-    "Inglaterra",
-    "Espanha"
+  "topic": "General Knowledge",
+  "subtopic": "língua gestual e educação de surdos",
+  "markets": [
+    "pt"
   ],
-  "correta": 1,
-  "explicacao": "Da Suécia: Pär Aron Borg já fundara um instituto semelhante no seu país e criou o alfabeto manual que usou em Lisboa. Segundo o Governo português, o alfabeto da língua gestual portuguesa e o da sueca revelam uma origem comum.",
-  "dificuldade_estimada": 3,
+  "text": {
+    "pt-PT": {
+      "question": "De que país veio o professor contratado por D. João VI para fundar em Lisboa o Real Instituto de Surdos-Mudos e Cegos?",
+      "options": [
+        "França",
+        "Suécia",
+        "Inglaterra",
+        "Espanha"
+      ],
+      "explanation": "Da Suécia: Pär Aron Borg já fundara um instituto semelhante no seu país e criou o alfabeto manual que usou em Lisboa. Segundo o Governo português, o alfabeto da língua gestual portuguesa e o da sueca revelam uma origem comum."
+    }
+  },
+  "correct": 1,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://ciencia.ucp.pt/ws/files/94941997/94898216.pdf",
+    "https://repositorio-aberto.up.pt/bitstream/10216/139181/2/525421.pdf",
+    "https://www.portugal.gov.pt/pt/gc23/comunicacao/noticia?i=maos-que-falam-hoje-e-dia-nacional-da-lingua-gestual-portuguesa"
+  ],
   "fontes": [
     {
       "url": "https://ciencia.ucp.pt/ws/files/94941997/94898216.pdf",
@@ -74,9 +86,7 @@
       "data": "2026-11-11"
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-06-misto",
   "criada_em": "2026-11-10",
@@ -128,7 +138,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
     }
-  ],
-  "etiquetas": []
+  ]
 }

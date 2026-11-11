@@ -1,19 +1,28 @@
 {
   "id": "Q-2026-000038",
-  "lingua": "pt-PT",
-  "tema": "desporto",
-  "subtema": "modalidades fora do futebol",
-  "formato": "escolha-multipla",
-  "enunciado": "Segundo as leis de 1845 da Rugby School, o que ganhava uma equipa ao pousar a bola para lá da linha de ensaio?",
-  "opcoes": [
-    "O direito a tentar um pontapé à baliza",
-    "Dois pontos",
-    "Um ponto",
-    "Um pontapé de penalidade"
+  "topic": "General Knowledge",
+  "subtopic": "modalidades fora do futebol",
+  "text": {
+    "pt-PT": {
+      "question": "Segundo as leis de 1845 da Rugby School, o que ganhava uma equipa ao pousar a bola para lá da linha de ensaio?",
+      "options": [
+        "O direito a tentar um pontapé à baliza",
+        "Dois pontos",
+        "Um ponto",
+        "Um pontapé de penalidade"
+      ],
+      "explanation": "O direito a um «try at goal», uma tentativa de pontapé à baliza: nas leis de 1845 pousar a bola não dava pontos, só os golos marcavam. O ensaio só passou a valer pontos mais tarde, a partir de 1886."
+    }
+  },
+  "correct": 0,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.irishtimes.com/sport/sports-jargon-try-1.697492",
+    "https://www.rugbyworld.com/takingpart/rugby-basics/why-is-a-try-called-a-try-in-rugby-136012",
+    "https://rugby365.com/laws-referees/news/scoring-down-the-years/"
   ],
-  "correta": 0,
-  "explicacao": "O direito a um «try at goal», uma tentativa de pontapé à baliza: nas leis de 1845 pousar a bola não dava pontos, só os golos marcavam. O ensaio só passou a valer pontos mais tarde, a partir de 1886.",
-  "dificuldade_estimada": 2,
   "fontes": [
     {
       "url": "https://www.irishtimes.com/sport/sports-jargon-try-1.697492",
@@ -74,9 +83,7 @@
       "data": "2026-11-11"
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -128,7 +135,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
     }
-  ],
-  "etiquetas": []
+  ]
 }

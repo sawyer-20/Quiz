@@ -1,19 +1,31 @@
 {
   "id": "Q-2026-000025",
-  "lingua": "pt-PT",
-  "tema": "musica",
-  "subtema": "Bomtempo e o Requiem à memória de Camões",
-  "formato": "escolha-multipla",
-  "enunciado": "Segundo Beatriz Peralta García, o Requiem de Bomtempo surgiu após a edição parisiense de Os Lusíadas, promovida por que diplomata?",
-  "opcoes": [
-    "Duque de Palmela",
-    "Silvestre Pinheiro Ferreira",
-    "Marquês de Pombal",
-    "Morgado de Mateus"
+  "topic": "Music",
+  "subtopic": "Bomtempo e o Requiem à memória de Camões",
+  "markets": [
+    "pt"
   ],
-  "correta": 3,
-  "explicacao": "Morgado de Mateus. Segundo Beatriz Peralta García, o Requiem em dó menor, op. 23, «À memória de Camões», de Bomtempo foi composto na sequência da edição de Os Lusíadas feita por ele em Paris.",
-  "dificuldade_estimada": 4,
+  "text": {
+    "pt-PT": {
+      "question": "Segundo Beatriz Peralta García, o Requiem de Bomtempo surgiu após a edição parisiense de Os Lusíadas, promovida por que diplomata?",
+      "options": [
+        "Duque de Palmela",
+        "Silvestre Pinheiro Ferreira",
+        "Marquês de Pombal",
+        "Morgado de Mateus"
+      ],
+      "explanation": "Morgado de Mateus. Segundo Beatriz Peralta García, o Requiem em dó menor, op. 23, «À memória de Camões», de Bomtempo foi composto na sequência da edição de Os Lusíadas feita por ele em Paris."
+    }
+  },
+  "correct": 3,
+  "difficulty": 4,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://livros.fcsh.unl.pt/cham/catalog/download/172/712/2021?inline=1",
+    "https://www.metropolitana.pt/en/musicalia/the-lusitanian-requiem/",
+    "https://imslp.org/wiki/Messe_de_Requiem,_Op.23_(Bomtempo,_Jo%C3%A3o_Domingos)"
+  ],
   "fontes": [
     {
       "url": "https://livros.fcsh.unl.pt/cham/catalog/download/172/712/2021?inline=1",
@@ -74,9 +86,7 @@
       "data": "2026-11-11"
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -116,7 +126,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
     }
-  ],
-  "etiquetas": []
+  ]
 }

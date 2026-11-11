@@ -1,19 +1,28 @@
 {
   "id": "Q-2026-000037",
-  "lingua": "pt-PT",
-  "tema": "ciencia",
-  "subtema": "biologia – comportamento e adaptação animal",
-  "formato": "escolha-multipla",
-  "enunciado": "Em 2016, registos de EEG mostraram pela primeira vez que uma ave dorme em pleno voo. Qual foi?",
-  "opcoes": [
-    "A fragata-grande",
-    "O pelicano-pardo",
-    "A andorinha-do-mar-ártica",
-    "O albatroz-errante"
+  "topic": "Nature & Animals",
+  "subtopic": "biologia – comportamento e adaptação animal",
+  "text": {
+    "pt-PT": {
+      "question": "Em 2016, registos de EEG mostraram pela primeira vez que uma ave dorme em pleno voo. Qual foi?",
+      "options": [
+        "A fragata-grande",
+        "O pelicano-pardo",
+        "A andorinha-do-mar-ártica",
+        "O albatroz-errante"
+      ],
+      "explanation": "A fragata-grande. Os registos de EEG mostraram que dorme em voo, com um hemisfério cerebral de cada vez ou com os dois. Dorme sobretudo a planar em círculos; os autores sugerem que o hemisfério acordado serve para ver para onde vai."
+    }
+  },
+  "correct": 0,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.nature.com/articles/ncomms12468",
+    "https://www.mpg.de/10783234/frigatebirds-sleep-midflight",
+    "https://www.discovermagazine.com/birds-sleep-during-flights-too-17906"
   ],
-  "correta": 0,
-  "explicacao": "A fragata-grande. Os registos de EEG mostraram que dorme em voo, com um hemisfério cerebral de cada vez ou com os dois. Dorme sobretudo a planar em círculos; os autores sugerem que o hemisfério acordado serve para ver para onde vai.",
-  "dificuldade_estimada": 3,
   "fontes": [
     {
       "url": "https://www.nature.com/articles/ncomms12468",
@@ -83,9 +92,7 @@
       "data": "2026-11-11"
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -137,7 +144,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
     }
-  ],
-  "etiquetas": []
+  ]
 }

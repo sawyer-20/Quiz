@@ -1,19 +1,28 @@
 {
   "id": "Q-2026-000030",
-  "lingua": "pt-PT",
-  "tema": "portugal",
-  "subtema": "língua portuguesa",
-  "formato": "escolha-multipla",
-  "enunciado": "De que palavra portuguesa vem o malaio «minggu», que significa «semana»?",
-  "opcoes": [
-    "Feira",
-    "Domingo",
-    "Semana",
-    "Sábado"
+  "topic": "General Knowledge",
+  "subtopic": "língua portuguesa",
+  "text": {
+    "pt-PT": {
+      "question": "De que palavra portuguesa vem o malaio «minggu», que significa «semana»?",
+      "options": [
+        "Feira",
+        "Domingo",
+        "Semana",
+        "Sábado"
+      ],
+      "explanation": "Vem de «domingo». Em malaio e em indonésio, a palavra passou a designar o período de sete dias, a semana. É um dos empréstimos do português ao malaio."
+    }
+  },
+  "correct": 1,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://periodicos.uff.br/cadernosdeletras/article/download/48994/29687",
+    "https://singapura.embaixadaportugal.mne.gov.pt/en/the-embassy/news/portugal-s-linguistic-legacy-in-southeast-asia,-by-jo%C3%A3o-oliveira-2",
+    "https://journal.uinjkt.ac.id/index.php/dialektika/article/download/31895/pdf"
   ],
-  "correta": 1,
-  "explicacao": "Vem de «domingo». Em malaio e em indonésio, a palavra passou a designar o período de sete dias, a semana. É um dos empréstimos do português ao malaio.",
-  "dificuldade_estimada": 3,
   "fontes": [
     {
       "url": "https://periodicos.uff.br/cadernosdeletras/article/download/48994/29687",
@@ -83,9 +92,7 @@
       "data": "2026-11-11"
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -137,7 +144,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
     }
-  ],
-  "etiquetas": []
+  ]
 }

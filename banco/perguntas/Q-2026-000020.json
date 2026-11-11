@@ -1,19 +1,28 @@
 {
   "id": "Q-2026-000020",
-  "lingua": "pt-PT",
-  "tema": "literatura",
-  "subtema": "Prémios históricos – Nobel",
-  "formato": "escolha-multipla",
-  "enunciado": "O Nobel da Literatura de 1902 foi para o historiador Theodor Mommsen. Que obra a Academia Sueca destacou?",
-  "opcoes": [
-    "Um romance histórico sobre Júlio César",
-    "Uma história de Roma",
-    "Uma tradução latina da Eneida",
-    "Uma história da Grécia antiga"
+  "topic": "General Knowledge",
+  "subtopic": "Prémios históricos – Nobel",
+  "text": {
+    "pt-PT": {
+      "question": "O Nobel da Literatura de 1902 foi para o historiador Theodor Mommsen. Que obra a Academia Sueca destacou?",
+      "options": [
+        "Um romance histórico sobre Júlio César",
+        "Uma história de Roma",
+        "Uma tradução latina da Eneida",
+        "Uma história da Grécia antiga"
+      ],
+      "explanation": "Uma história de Roma. A Academia Sueca premiou Mommsen como «o maior mestre vivo da arte de escrever história», com referência especial à sua monumental História de Roma, escrita em parte quando era professor em Zurique."
+    }
+  },
+  "correct": 1,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.nobelprize.org/prizes/literature/1902/summary/",
+    "https://uzh.ch/en/researchinnovation/excellence/nobelprize/mommsen.html",
+    "https://www.ebsco.com/research-starters/history/theodor-mommsen/"
   ],
-  "correta": 1,
-  "explicacao": "Uma história de Roma. A Academia Sueca premiou Mommsen como «o maior mestre vivo da arte de escrever história», com referência especial à sua monumental História de Roma, escrita em parte quando era professor em Zurique.",
-  "dificuldade_estimada": 3,
   "fontes": [
     {
       "url": "https://www.nobelprize.org/prizes/literature/1902/summary/",
@@ -65,9 +74,7 @@
       "data": "2026-11-10"
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-06-misto",
   "criada_em": "2026-11-06",
@@ -107,6 +114,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
     }
   ],
   "etiquetas": [

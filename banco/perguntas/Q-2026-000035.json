@@ -1,19 +1,28 @@
 {
   "id": "Q-2026-000035",
-  "lingua": "pt-PT",
-  "tema": "geografia",
-  "subtema": "fronteiras",
-  "formato": "escolha-multipla",
-  "enunciado": "Qual destas zonas do lago de Constança tem a fronteira Alemanha–Suíça a correr pelo meio da água?",
-  "opcoes": [
-    "No Untersee (lago inferior)",
-    "No Obersee, em águas profundas",
-    "No Überlinger See",
-    "Na baía de Bregenz"
+  "topic": "Geography",
+  "subtopic": "fronteiras",
+  "text": {
+    "pt-PT": {
+      "question": "Qual destas zonas do lago de Constança tem a fronteira Alemanha–Suíça a correr pelo meio da água?",
+      "options": [
+        "No Untersee (lago inferior)",
+        "No Obersee, em águas profundas",
+        "No Überlinger See",
+        "Na baía de Bregenz"
+      ],
+      "explanation": "Segundo a Stuttgarter Zeitung (dpa), que cita a polícia fluvial, o Untersee e o Konstanzer Trichter estão realmente divididos: a fronteira corre ao meio. No Obersee o traçado nunca foi esclarecido em termos de direito internacional."
+    }
+  },
+  "correct": 0,
+  "difficulty": 3,
+  "valid_until": "2027-11-11",
+  "daily_eligible": false,
+  "sources": [
+    "https://www.swisstopo.admin.ch/dam/de/sd-web/4iUPkuHZaJyK/Vertrag%20Landesgrenze%20CH-D.pdf",
+    "https://www.stuttgarter-zeitung.de/lokales/baden-wuerttemberg/voelkerrecht-wem-gehoert-eigentlich-der-bodensee-79136339.html",
+    "https://vorarlberg.orf.at/v2/news/stories/2980956/"
   ],
-  "correta": 0,
-  "explicacao": "Segundo a Stuttgarter Zeitung (dpa), que cita a polícia fluvial, o Untersee e o Konstanzer Trichter estão realmente divididos: a fronteira corre ao meio. No Obersee o traçado nunca foi esclarecido em termos de direito internacional.",
-  "dificuldade_estimada": 3,
   "fontes": [
     {
       "url": "https://www.swisstopo.admin.ch/dam/de/sd-web/4iUPkuHZaJyK/Vertrag%20Landesgrenze%20CH-D.pdf",
@@ -55,8 +64,6 @@
     "advogado": null,
     "editor": null
   },
-  "sensivel_ao_tempo": true,
-  "valida_ate": "2027-11-11",
   "estado": "rejeitada",
   "motivo_rejeicao": "2.º ciclo de correção esgotado (regra 14): opção «No Obersee» defensável (o Konstanzer Trichter, dividido a meio, pertence ao Obersee) e a explicação contradiz-se; evitar «Obersee» como distrator se o alvo for retomado",
   "lote": "lote-2026-11-11-misto",
@@ -97,7 +104,12 @@
       "evento": "rejeitada",
       "agente": "advogado-do-diabo",
       "nota": "2.º ciclo de correção esgotado (regra 14): opção «No Obersee» defensável (o Konstanzer Trichter, dividido a meio, pertence ao Obersee) e a explicação contradiz-se; evitar «Obersee» como distrator se o alvo for retomado"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "só pt-PT (pergunta rejeitada ou em curso)"
     }
-  ],
-  "etiquetas": []
+  ]
 }

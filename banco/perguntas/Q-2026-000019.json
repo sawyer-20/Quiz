@@ -1,19 +1,31 @@
 {
   "id": "Q-2026-000019",
-  "lingua": "pt-PT",
-  "tema": "cinema-tv",
-  "subtema": "Cinemateca Portuguesa – incêndio de 1981",
-  "formato": "escolha-multipla",
-  "enunciado": "Qual foi a origem do incêndio que, em 1981, destruiu a sala de cinema da Cinemateca Portuguesa, em Lisboa?",
-  "opcoes": [
-    "Um curto-circuito no quadro elétrico da sala",
-    "Uma descarga elétrica durante uma trovoada",
-    "Uma falha no sistema de aquecimento da sala",
-    "A combustão de um rolo de filme em nitrato de celulose"
+  "topic": "Movies",
+  "subtopic": "Cinemateca Portuguesa – incêndio de 1981",
+  "markets": [
+    "pt"
   ],
-  "correta": 3,
-  "explicacao": "A combustão de um rolo de filme em nitrato de celulose, na cabine de projeção. O fogo propagou-se à sala, que ficou totalmente destruída. O nitrato, suporte do filme, é frágil e inflamável.",
-  "dificuldade_estimada": 2,
+  "text": {
+    "pt-PT": {
+      "question": "Qual foi a origem do incêndio que, em 1981, destruiu a sala de cinema da Cinemateca Portuguesa, em Lisboa?",
+      "options": [
+        "Um curto-circuito no quadro elétrico da sala",
+        "Uma descarga elétrica durante uma trovoada",
+        "Uma falha no sistema de aquecimento da sala",
+        "A combustão de um rolo de filme em nitrato de celulose"
+      ],
+      "explanation": "A combustão de um rolo de filme em nitrato de celulose, na cabine de projeção. O fogo propagou-se à sala, que ficou totalmente destruída. O nitrato, suporte do filme, é frágil e inflamável."
+    }
+  },
+  "correct": 3,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.cinemateca.pt/Cinemateca/Historia.aspx",
+    "https://arquivos.rtp.pt/conteudos/incendio-na-cinemateca/",
+    "https://filmspot.pt/artigo/cinemateca-portuguesa-celebra-a-arte-da-projecao-analogica-em-janeiro-14951/"
+  ],
   "fontes": [
     {
       "url": "https://www.cinemateca.pt/Cinemateca/Historia.aspx",
@@ -83,9 +95,7 @@
       "data": "2026-11-11"
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-06-misto",
   "criada_em": "2026-11-06",
@@ -143,7 +153,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
     }
-  ],
-  "etiquetas": []
+  ]
 }

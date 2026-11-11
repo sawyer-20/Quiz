@@ -1,19 +1,31 @@
 {
   "id": "Q-2026-000031",
-  "lingua": "pt-PT",
-  "tema": "portugal",
-  "subtema": "Açores – vulcanismo e paisagem",
-  "formato": "escolha-multipla",
-  "enunciado": "Segundo a IUGS, que parte da terra acrescentada ao Faial pelos Capelinhos (1957-58) resta hoje após a erosão marinha?",
-  "opcoes": [
-    "Cerca de um quarto",
-    "Cerca de metade",
-    "Cerca de três quartos",
-    "Praticamente toda"
+  "topic": "Geography",
+  "subtopic": "Açores – vulcanismo e paisagem",
+  "markets": [
+    "pt"
   ],
-  "correta": 0,
-  "explicacao": "Cerca de um quarto. A erupção acrescentou 2,4 km² ao Faial, mas a erosão marinha foi desfazendo a terra nova e, segundo a IUGS, resta hoje apenas cerca de um quarto dessa área.",
-  "dificuldade_estimada": 3,
+  "text": {
+    "pt-PT": {
+      "question": "Segundo a IUGS, que parte da terra acrescentada ao Faial pelos Capelinhos (1957-58) resta hoje após a erosão marinha?",
+      "options": [
+        "Cerca de um quarto",
+        "Cerca de metade",
+        "Cerca de três quartos",
+        "Praticamente toda"
+      ],
+      "explanation": "Cerca de um quarto. A erupção acrescentou 2,4 km² ao Faial, mas a erosão marinha foi desfazendo a terra nova e, segundo a IUGS, resta hoje apenas cerca de um quarto dessa área."
+    }
+  },
+  "correct": 0,
+  "difficulty": 3,
+  "valid_until": "2028-11-11",
+  "daily_eligible": false,
+  "sources": [
+    "https://www.azoresgeopark.com/media/docs/totens_faial.pdf",
+    "https://iugs-geoheritage.org/geoheritage_sites/capelinhos-volcano/",
+    "https://pnap.dgterritorio.gov.pt/sites/default/files/Vulcao_Capelinhos.pdf"
+  ],
   "fontes": [
     {
       "url": "https://www.azoresgeopark.com/media/docs/totens_faial.pdf",
@@ -83,9 +95,7 @@
       "data": "2026-11-11"
     }
   },
-  "sensivel_ao_tempo": true,
-  "valida_ate": "2028-11-11",
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -143,7 +153,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
     }
-  ],
-  "etiquetas": []
+  ]
 }

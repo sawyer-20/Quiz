@@ -1,19 +1,28 @@
 {
   "id": "Q-2026-000039",
-  "lingua": "pt-PT",
-  "tema": "desporto",
-  "subtema": "recordes",
-  "formato": "escolha-multipla",
-  "enunciado": "Até ao fim de 2025, qual destas provas femininas de pista ao ar livre tinha o recorde mundial mais antigo em vigor?",
-  "opcoes": [
-    "400 metros",
-    "800 metros",
-    "200 metros",
-    "1500 metros"
+  "topic": "General Knowledge",
+  "subtopic": "recordes",
+  "text": {
+    "pt-PT": {
+      "question": "Até ao fim de 2025, qual destas provas femininas de pista ao ar livre tinha o recorde mundial mais antigo em vigor?",
+      "options": [
+        "400 metros",
+        "800 metros",
+        "200 metros",
+        "1500 metros"
+      ],
+      "explanation": "Os 800 m: o recorde (1:53.28) de Jarmila Kratochvílová, em Munique, a 26 de julho de 1983, era o mais antigo ao ar livre do atletismo. O dela nos 400 m (47.99) foi batido dois anos depois por Marita Koch."
+    }
+  },
+  "correct": 1,
+  "difficulty": 3,
+  "valid_until": "2026-12-31",
+  "daily_eligible": false,
+  "sources": [
+    "https://worldathletics.org/news/news/30-years-on-jarmila-kratochvilovas-800m-wor",
+    "https://www.guinnessworldrecords.com/world-records/fastest-run-800-metres-female",
+    "https://athleticsweekly.com/news/opinion/the-world-800m-record-that-has-stood-the-test-of-time-1039969804/"
   ],
-  "correta": 1,
-  "explicacao": "Os 800 m: o recorde (1:53.28) de Jarmila Kratochvílová, em Munique, a 26 de julho de 1983, era o mais antigo ao ar livre do atletismo. O dela nos 400 m (47.99) foi batido dois anos depois por Marita Koch.",
-  "dificuldade_estimada": 3,
   "fontes": [
     {
       "url": "https://www.guinnessworldrecords.com/world-records/fastest-run-800-metres-female",
@@ -83,9 +92,7 @@
       "data": "2026-11-11"
     }
   },
-  "sensivel_ao_tempo": true,
-  "valida_ate": "2026-12-31",
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -137,6 +144,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
     }
   ],
   "etiquetas": [

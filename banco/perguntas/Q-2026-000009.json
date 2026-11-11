@@ -1,19 +1,27 @@
 {
   "id": "Q-2026-000009",
-  "lingua": "pt-PT",
-  "tema": "historia",
-  "subtema": "Idade Moderna – calendário gregoriano na Grã-Bretanha",
-  "formato": "escolha-multipla",
-  "enunciado": "Na passagem ao calendário gregoriano, em 1752, que dia se seguiu a 2 de setembro na Grã-Bretanha?",
-  "opcoes": [
-    "12 de setembro",
-    "11 de setembro",
-    "14 de setembro",
-    "13 de setembro"
+  "topic": "World History",
+  "subtopic": "Idade Moderna – calendário gregoriano na Grã-Bretanha",
+  "text": {
+    "pt-PT": {
+      "question": "Na passagem ao calendário gregoriano, em 1752, que dia se seguiu a 2 de setembro na Grã-Bretanha?",
+      "options": [
+        "12 de setembro",
+        "11 de setembro",
+        "14 de setembro",
+        "13 de setembro"
+      ],
+      "explanation": "14 de setembro: foram suprimidos 11 dias (de 3 a 13) e a quarta-feira, dia 2, foi seguida pela quinta-feira, dia 14. A mesma lei mudou o início do ano de 25 de março para 1 de janeiro em Inglaterra, no País de Gales e nas colónias; a Escócia já o fazia desde 1600."
+    }
+  },
+  "correct": 2,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.rmg.co.uk/stories/time/which-years-are-leap-years-can-you-have-leap-seconds",
+    "https://www.legislation.gov.uk/apgb/Geo2/24/23"
   ],
-  "correta": 2,
-  "explicacao": "14 de setembro: foram suprimidos 11 dias (de 3 a 13) e a quarta-feira, dia 2, foi seguida pela quinta-feira, dia 14. A mesma lei mudou o início do ano de 25 de março para 1 de janeiro em Inglaterra, no País de Gales e nas colónias; a Escócia já o fazia desde 1600.",
-  "dificuldade_estimada": 3,
   "fontes": [
     {
       "url": "https://www.rmg.co.uk/stories/time/which-years-are-leap-years-can-you-have-leap-seconds",
@@ -65,9 +73,7 @@
       "data": "2026-11-04"
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-04-historia",
   "criada_em": "2026-11-04",
@@ -149,6 +155,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
     }
   ],
   "etiquetas": [

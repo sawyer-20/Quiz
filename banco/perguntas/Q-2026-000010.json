@@ -1,19 +1,27 @@
 {
   "id": "Q-2026-000010",
-  "lingua": "pt-PT",
-  "tema": "historia",
-  "subtema": "História da ciência e da técnica (até 1900)",
-  "formato": "escolha-multipla",
-  "enunciado": "Ao criar o metro, a França revolucionária fê-lo igual a 1/10 000 000 de que distância?",
-  "opcoes": [
-    "O diâmetro da Terra, de polo a polo",
-    "Do polo Norte ao equador",
-    "O perímetro da Terra no equador",
-    "De Paris ao polo Norte"
+  "topic": "World History",
+  "subtopic": "História da ciência e da técnica (até 1900)",
+  "text": {
+    "pt-PT": {
+      "question": "Ao criar o metro, a França revolucionária fê-lo igual a 1/10 000 000 de que distância?",
+      "options": [
+        "O diâmetro da Terra, de polo a polo",
+        "Do polo Norte ao equador",
+        "O perímetro da Terra no equador",
+        "De Paris ao polo Norte"
+      ],
+      "explanation": "Do polo Norte ao equador, pelo meridiano de Paris. Delambre e Méchain mediram o arco entre Dunquerque e Barcelona, mas erros no cálculo da curvatura da Terra deixaram o metro-padrão original 0,2 mm mais curto."
+    }
+  },
+  "correct": 1,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.nist.gov/si-redefinition/meter",
+    "https://www.npl.co.uk/resources/the-si-units/metre"
   ],
-  "correta": 1,
-  "explicacao": "Do polo Norte ao equador, pelo meridiano de Paris. Delambre e Méchain mediram o arco entre Dunquerque e Barcelona, mas erros no cálculo da curvatura da Terra deixaram o metro-padrão original 0,2 mm mais curto.",
-  "dificuldade_estimada": 3,
   "fontes": [
     {
       "url": "https://www.nist.gov/si-redefinition/meter",
@@ -65,9 +73,7 @@
       "data": "2026-11-04"
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-04-historia",
   "criada_em": "2026-11-04",
@@ -131,6 +137,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
     }
   ]
 }
