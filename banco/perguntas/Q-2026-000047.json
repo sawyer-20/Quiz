@@ -1,0 +1,57 @@
+{
+  "id": "Q-2026-000047",
+  "lingua": "pt-PT",
+  "tema": "arte",
+  "subtema": "arquitetura e artes aplicadas",
+  "formato": "escolha-multipla",
+  "enunciado": "Nos castelos medievais portugueses, para que servia o hurdício, galeria de madeira no topo das torres?",
+  "opcoes": [
+    "Guardar armas e mantimentos durante um cerco",
+    "Fazer sinais com fogueiras aos castelos vizinhos",
+    "Disparar na vertical sobre a base dos muros",
+    "Abrigar as sentinelas da chuva e do frio"
+  ],
+  "correta": 2,
+  "explicacao": "O hurdício (ou cadafalso) era uma galeria de madeira que coroava as torres pelo exterior e permitia o tiro vertical sobre a base dos muros. Foi uma novidade trazida para Portugal pelos Templários, no século XII.",
+  "dificuldade_estimada": 3,
+  "fontes": [
+    {
+      "url": "https://projetos.dhlab.fcsh.unl.pt/files/original/8cce7364fca20287203002044c21a53a52377364.pdf",
+      "dominio": "unl.pt",
+      "titulo": "Guia de Inventário - Fortificações Medievais e Modernas (IHRU/SIPA, 2015, v1.1, documento provisório)",
+      "nivel": 1,
+      "excerto": "O terceiro aspeto inovador introduzido pelos Templários é o cadafalso ou húrdício, uma galeria de madeira que coroava as estruturas torreadas, na face externa dos muros, permitindo tiro vertical sobre a base dos muros.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://projetos.dhlab.fcsh.unl.pt/files/original/41fd9f1c979604bd5ef7bf9299a4f78fe48868cf.pdf",
+      "dominio": "unl.pt",
+      "titulo": "Estudo FCSH-NOVA (projeto DHLab) sobre castelos templários e a torre de Longroiva",
+      "nivel": 1,
+      "excerto": "[Longroiva] constitui o mais remoto exemplo que conhecemos em Portugal para uma hurdício. [...] orificios [...] que denunciam a presença de uma galeria de madeira.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Duas fontes no mesmo domínio de alojamento (projetos.dhlab.fcsh.unl.pt): verificador deve procurar outro domínio. castelosdeportugal.pt n2 duvidoso. Datas divergentes (1174/1176): evitadas. Recusadas: raco.cat, core.ac.uk, bdigital.ufp.pt (403), estudogeral.sib.uc.pt (302), dspace.uevora.pt (SSL), cm-tomar.pt e comum.rcaap.pt (ligação cortada)."
+    }
+  ],
+  "etiquetas": []
+}
