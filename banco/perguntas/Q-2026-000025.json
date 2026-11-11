@@ -1,0 +1,66 @@
+{
+  "id": "Q-2026-000025",
+  "lingua": "pt-PT",
+  "tema": "musica",
+  "subtema": "Bomtempo e o Requiem à memória de Camões",
+  "formato": "escolha-multipla",
+  "enunciado": "Segundo Beatriz Peralta García, o Requiem de Bomtempo surgiu após a edição parisiense de Os Lusíadas, promovida por que diplomata?",
+  "opcoes": [
+    "Duque de Palmela",
+    "Silvestre Pinheiro Ferreira",
+    "Marquês de Pombal",
+    "Morgado de Mateus"
+  ],
+  "correta": 3,
+  "explicacao": "Segundo Beatriz Peralta García, o Requiem em dó menor, op. 23, «À memória de Camões», de Bomtempo foi composto na sequência da edição de Os Lusíadas feita em Paris pelo diplomata Morgado de Mateus.",
+  "dificuldade_estimada": 3,
+  "fontes": [
+    {
+      "url": "https://livros.fcsh.unl.pt/cham/catalog/download/172/712/2021?inline=1",
+      "dominio": "unl.pt",
+      "titulo": "Beatriz Peralta García, De política a ficcionalização da Revolução de 1820 (CHAM/FCSH-NOVA)",
+      "nivel": 1,
+      "excerto": "Réquiem, em dó menor, Op. 23, \"À memória de Camões\", uma obra muito conhecida de João Domingos Bomtempo (1775-1842) composta na sequência da edição em Paris de Os Lusíadas pelo diplomata Morgado de Mateus, em 1817.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.metropolitana.pt/en/musicalia/the-lusitanian-requiem/",
+      "dominio": "metropolitana.pt",
+      "titulo": "The Lusitanian Requiem (Metropolitana)",
+      "nivel": 2,
+      "excerto": "Morgado de Mateus, who promoted the edition of Os Lusíadas from Paris. [...] Immersed in this spirit, Bomtempo dedicated this work to Luís Vaz de Camões",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://imslp.org/wiki/Messe_de_Requiem,_Op.23_(Bomtempo,_Jo%C3%A3o_Domingos)",
+      "dominio": "imslp.org",
+      "titulo": "Messe de Requiem, Op.23 (Bomtempo) - IMSLP (título do frontispício)",
+      "nivel": 2,
+      "excerto": "Messe de requiem : à quatre voix, choeurs, et grand orchestre avec accompagnement de piano à défaut d'orchestre : Ouvrage consacré à la mémoire de Camões. Opus/Número do catálogo Op.23",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Fontes PT n1: livros.fcsh.unl.pt aberto com ler_url.py (WebFetch ENOTFOUND). Nexo «na sequência» é de Peralta García. Não tentadas: BNP, ucp, infopedia."
+    }
+  ],
+  "etiquetas": []
+}
