@@ -32,10 +32,26 @@
       "excerto": "Liszt chegou com o seu piano, da marca Boisselot (...) o piano viajou como bagagem. Por cedência de Liszt, a Rainha adquiriu aquele piano e ofereceu-o ao professor dos seus filhos. Hoje está instalado no Museu Nacional de Música em Lisboa.",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://24noticias.sapo.pt/vida/artigos/museu-da-musica-vai-estrear-recem-restaurado-cravo-taskin-de-1782-em-ciclo-de-concertos",
+      "dominio": "sapo.pt",
+      "titulo": "Museu da Música vai estrear recém-restaurado cravo Taskin de 1782 em ciclo de concertos - 24 Notícias (SAPO)",
+      "nivel": 2,
+      "excerto": "Liszt trouxe consigo um piano fabricado em Marselha pela oficina Boisselot et Fils, que foi adquirido por D. Maria II para o professor de música dos infantes, Manuel Inocêncio Liberato dos Santos.",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Ao professor de música dos seus filhos",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "sapo.pt",
+      "data": "2026-11-11",
+      "notas": "ATENÇÃO PARA O ADVOGADO: só uma fonte n2 lida (SAPO 24: «adquirido por D. Maria II para o professor»). A ficha MM 434 do Museu (n1: oferecido à rainha, que o doou ao professor) só em resultados de pesquisa (404). 'Infantes' vs 'seus filhos': inferência pequena. A ficha do museu põe ponto de interrogação na oferta de Liszt à rainha; getLISBON: 'gifted (or sold?)'. 'Dado' vs 'adquirido'. Academia Filarmónica, embaixador de França e São Carlos sem apoio. mnmusica.gov.pt/museu aberto, sem destinatário."
+    },
     "advogado": null,
     "editor": null
   },
@@ -69,6 +85,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (1.º ciclo)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte sapo.pt"
     }
   ],
   "etiquetas": []
