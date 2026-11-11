@@ -32,10 +32,26 @@
       "excerto": "The word 'try' meant just that. If a team got themselves over the line, they had the chance to try to get points by converting the kick at goal.",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://rugby365.com/laws-referees/news/scoring-down-the-years/",
+      "dominio": "rugby365.com",
+      "titulo": "Scoring down the years (Paul Dobson, Rugby365)",
+      "nivel": 2,
+      "excerto": "In the beginning there were no points in the game as played at Rugby School. The goal counted. Grounding the ball over the opponents' line gave you the opportunity to attempt (try) to improve (convert) the effort into a goal. The try did not count.",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "O direito a tentar um pontapé à baliza",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "rugby365.com",
+      "data": "2026-11-11",
+      "notas": "Rugby365 (n2). Texto das leis de 1845 (reprodução em PDF alojada em api.club.ffr.fr): regra v «Try at goal»; não diz explicitamente que o toque não valia pontos — a inferência vem do Rugby365. 1 ponto e 2 pontos surgem depois (1886, 1889). Sem nível 1; bathrugbyheritage 403."
+    },
     "advogado": null,
     "editor": null
   },
@@ -69,6 +85,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (1.º ciclo)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte rugby365.com"
     }
   ],
   "etiquetas": []

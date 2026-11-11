@@ -32,10 +32,26 @@
       "excerto": "Steadicam existed in 1981, but the cameras were too cumbersome for this small space. We never could have gotten it through the hatches. Vacano had an Arriflex, and he added gyroscope to it to make the camera more stable.",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.yahoo.com/entertainment/oscar-nominated-cinematographer-jost-vacano-173437529.html",
+      "dominio": "yahoo.com",
+      "titulo": "Oscar Nominated Cinematographer Jost Vacano Reflects on the Pressures of Movie 'Das Boot' (Variety, via Yahoo)",
+      "nivel": 2,
+      "excerto": "To film in the tight, restricted spaces of a submarine, he developed a gyro-stabilized hand-held camera system, which allowed for high mobility – an innovation widely used today.",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Giroscópios",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "yahoo.com",
+      "data": "2026-11-11",
+      "notas": "Entrevista Variety com Vacano (sistema giroscópico «twice gyro-stabilized»). theasc.com 520. Resultados falam de dois giroscópios e de corpo Arriflex IIC (não lido). Steadicam inutilizável no espaço apertado."
+    },
     "advogado": null,
     "editor": null
   },
@@ -69,6 +85,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (1.º ciclo)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte yahoo.com"
     }
   ],
   "etiquetas": []

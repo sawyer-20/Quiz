@@ -32,10 +32,26 @@
       "excerto": "Liszt chegou com o seu piano, da marca Boisselot (...) o piano viajou como bagagem. Por cedência de Liszt, a Rainha adquiriu aquele piano e ofereceu-o ao professor dos seus filhos. Hoje está instalado no Museu Nacional de Música em Lisboa.",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://observador.pt/2018/05/13/museu-da-musica-estreia-recem-restaurado-cravo-taskin-de-1782-em-ciclo-de-concertos/",
+      "dominio": "observador.pt",
+      "titulo": "Museu da Música estreia cravo restaurado de 1782 (Observador)",
+      "nivel": 2,
+      "excerto": "O compositor [...] trouxe consigo um piano fabricado em Marselha pela oficina Boisselot et Fils, que foi adquirido por D. Maria II para o professor de música dos infantes, Manuel Inocêncio Liberato dos Santos.",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Ao professor de música dos seus filhos",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "observador.pt",
+      "data": "2026-11-11",
+      "notas": "AMBIGUIDADE ASSINALADA PELO VERIFICADOR (para o advogado): o Observador diz que D. Maria II adquiriu o piano para o professor; o Portugal Resident (n2, lido) diz que Liszt o ofereceu à rainha e ela o passou ao professor. O destinatário final é o professor (Liberato dos Santos) nas duas; fica por esclarecer se foi oferta ou compra, e o enunciado diz «dado». museunacionaldamusica.gov.pt 404; mnmusica.gov.pt/en/museu só confirma o piano Boisselot de Liszt (1844-45)."
+    },
     "advogado": null,
     "editor": null
   },
@@ -57,6 +73,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "Nenhum quiz com este facto; só páginas de museu e artigos."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte observador.pt"
     }
   ],
   "etiquetas": []

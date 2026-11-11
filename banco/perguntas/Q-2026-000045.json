@@ -32,10 +32,26 @@
       "excerto": "Há registos da compra de peles, em finais do século XVIII, para proteger as mesas dos dejetos dos morcegos. [...] cobrir de peles todas as mesas, ao final, e destapá-las na manhã seguinte, limpando os dejetos dos morcegos.",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.noticiasdecoimbra.pt/ja-conhece-os-guardioes-noturnos-do-tesouro-da-biblioteca-joanina-de-coimbra/",
+      "dominio": "noticiasdecoimbra.pt",
+      "titulo": "Já conhece os guardiões noturnos do tesouro da Biblioteca Joanina de Coimbra? (Notícias de Coimbra)",
+      "nivel": 2,
+      "excerto": "As suas fezes poderiam causar problemas. A solução dos bibliotecários [...] consiste em cobrir à noite as mesas do século XVIII com tecido feito de pele de animal. Posteriormente, todas as manhãs, eles limpam o chão.",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Dos dejetos dos morcegos que lá vivem",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "noticiasdecoimbra.pt",
+      "data": "2026-11-11",
+      "notas": "Jornal local (n2). Fonte diz «pele de animal» e «à noite»; nenhuma fonte oficial lida confirma «couro». Pó, luz solar e humidade não aparecem como motivo. uc.pt proibido."
+    },
     "advogado": null,
     "editor": null
   },
@@ -69,6 +85,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (1.º ciclo)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte noticiasdecoimbra.pt"
     }
   ],
   "etiquetas": []

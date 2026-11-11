@@ -41,10 +41,26 @@
       "excerto": "Jarmila Kratochvílová's 800m mark of 1:53.28 was set 40 years ago [...] it remains the oldest outdoor world record in the book.",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.irishtimes.com/sport/athletics/2024/05/24/sonia-osullivan-the-world-record-that-has-stood-for-41-years-may-soon-be-broken/",
+      "dominio": "irishtimes.com",
+      "titulo": "Sonia O'Sullivan: The world record that has stood for 41 years may soon be broken (The Irish Times)",
+      "nivel": 2,
+      "excerto": "Jarmila Kratochvílová of Czechoslovakia set a world record in 1983 in the 800m. It still stands today.",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "800 metros",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "irishtimes.com",
+      "data": "2026-11-11",
+      "notas": "Só o Irish Times (n2) lido: 800 m de 1983 (1:53.28) e que o recorde dos 400 m de Kratochvílová foi batido. Datas de 400 m (Koch 1985), 200 m (1988) e 1500 m (2015) só vistas em resultados de pesquisa. Falta 2.ª fonte lida para números (regra 4). nation.africa 403."
+    },
     "advogado": null,
     "editor": null
   },
@@ -78,6 +94,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (1.º ciclo)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte irishtimes.com"
     }
   ],
   "etiquetas": [
