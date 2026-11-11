@@ -1,0 +1,57 @@
+{
+  "id": "Q-2026-000027",
+  "lingua": "pt-PT",
+  "tema": "desporto",
+  "subtema": "Jogos Olímpicos – concursos de arte",
+  "formato": "escolha-multipla",
+  "enunciado": "Em 1912, Coubertin concorreu à literatura sob os pseudónimos Hohrod e Eschbach. De onde vinham esses nomes?",
+  "opcoes": [
+    "De dois antepassados da família Coubertin",
+    "De dois atletas franceses dos Jogos de 1900",
+    "De duas aldeias vizinhas da terra natal da sua mulher",
+    "De dois poetas alsacianos que ele admirava"
+  ],
+  "correta": 2,
+  "explicacao": "A «Ode ao Desporto» ganhou o primeiro lugar em literatura nos concursos de arte de Estocolmo 1912, assinada por Hohrod e Eschbach. Só nos anos 1990 Jean Durry descobriu que eram duas aldeias junto a Luttenbach, terra da mulher de Coubertin.",
+  "dificuldade_estimada": 4,
+  "fontes": [
+    {
+      "url": "https://journals.muni.cz/studiasportiva/article/download/12748/11608/27846",
+      "dominio": "muni.cz",
+      "titulo": "Studia sportiva (Masaryk University): artigo sobre os concursos de arte olímpicos",
+      "nivel": 1,
+      "excerto": "The authors of the work were two unknown writers Georges Hohrod and Martin Eschbach. As it turned out later, it was Coubertin's pseudonyms… Jean Durry … discovered that these two names were in fact the names of two villages near Luttenbach near Colmar, where Coubertin's wife was born.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.olympedia.org/results/920001",
+      "dominio": "olympedia.org",
+      "titulo": "Olympedia – Literature, Open (1912)",
+      "nivel": 2,
+      "excerto": "Norbert Müller … wrote: \"the pseudonyms Hohrod and Eschbach were the names of two neighboring villages of the native village of Coubertin's wife, Luttenbach, near Colmar\".",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "N1: journals.muni.cz. olympics.com timeout/ENOTFOUND. Olympedia n2 só via ler_url. Origem assenta em Jean Durry (Olympic Review 2000), citado por ambas. Muni diz que a mulher nasceu em Luttenbach; Olympedia 'native village'. Evita «medalha olímpica»."
+    }
+  ],
+  "etiquetas": []
+}

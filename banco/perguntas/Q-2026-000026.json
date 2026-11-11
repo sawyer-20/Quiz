@@ -1,0 +1,75 @@
+{
+  "id": "Q-2026-000026",
+  "lingua": "pt-PT",
+  "tema": "portugal",
+  "subtema": "Descobrimentos – Cabo da Boa Esperança",
+  "formato": "escolha-multipla",
+  "enunciado": "Segundo Duarte Pacheco Pereira, o que viu Bartolomeu Dias que o levou a pôr ao cabo o nome «Boa Esperança»?",
+  "opcoes": [
+    "Povos locais a oferecerem ouro e marfim",
+    "Um grande rio navegável que entrava pelo interior",
+    "Um porto abrigado onde as naus se podiam reparar",
+    "A costa a virar para norte e nordeste"
+  ],
+  "correta": 3,
+  "explicacao": "No Esmeraldo, Pacheco Pereira, que Dias encontrou no Príncipe no regresso, escreve que Dias pôs o nome ao ver a costa virar para norte e nordeste, onde se esperava achar a Índia. Axelson usa esta passagem contra a ideia de que o nome veio do rei.",
+  "dificuldade_estimada": 4,
+  "fontes": [
+    {
+      "url": "https://archive.org/stream/esmeraldodesitu00peregoog/esmeraldodesitu00peregoog_djvu.txt",
+      "dominio": "archive.org",
+      "titulo": "Esmeraldo de situ orbis (edição de 1892, texto português), livro III, cap. 7",
+      "nivel": 2,
+      "excerto": "Bartholomeu Dias que o descobrio por mandado delRey Dom Joham [...] veendo que esta costa [...] voltaua daly em diante ao norte & ao nordeste [...] onde se esperaua auerse de descobrir a India; por esta causa lhe pos nome cabo de boa esperança",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://archive.org/stream/in.gov.ignca.1658/1658_djvu.txt",
+      "dominio": "archive.org",
+      "titulo": "Esmeraldo de Situ Orbis, trad. G. H. T. Kimble, Hakluyt Society, 1937, pp. 153-154",
+      "nivel": 2,
+      "excerto": "for Bertholameu Diaz, who discovered it at the command of the late King John [...] when he saw that the coast here turned northwards and northeastwards [...] giving great hope of the discovery of India, called it the \"Cape of Good Hope\"",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://upjournals.up.ac.za/index.php/historia/article/download/2611/2459/10214",
+      "dominio": "up.ac.za",
+      "titulo": "A. Axelson, artigo na revista Historia (Univ. de Pretória), sobre falácias populares acerca de Dias",
+      "nivel": 1,
+      "excerto": "There is further proof that it was Dias who named the cape the Cape of Good Hope. [...] Pacheco Pereira [...] wrote that 'it was with good reason that this promontory was called Cabo de Boa Esperanca, for Bertolomeu Dias [...] called it the Cape of Good Hope'",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.sahistory.org.za/people/bartolomeu-dias",
+      "dominio": "sahistory.org.za",
+      "titulo": "Bartolomeu Dias, South African History Online",
+      "nivel": 2,
+      "excerto": "Professor Axelson scotches this with reference to Pacheco Pereira's statement: It was not without good reason that this promontory received the name Cabo da Boa Esperanca because Bartolomeu Dias, who discovered it at the command of the late King João [...] saw that the coast here turned northwards",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Português original na edição de 1892 (OCR): sujeito de «lhe pôs nome» é Dias. Edição crítica Gulbenkian inacessível (Zenodo/RUTTER só livro I). Kimble, Axelson e SAHO apoiam-se na mesma passagem (contam como uma); 2.ª fonte independente: texto de 1892. Dias ter encontrado Pacheco no Príncipe vem de SAHO/Axelson. PT n1 não abertas; impactum-journals.uc.pt ENOTFOUND, revhistoria2.webhostusp 502."
+    }
+  ],
+  "etiquetas": []
+}
