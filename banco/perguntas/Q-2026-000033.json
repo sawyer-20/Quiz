@@ -1,0 +1,57 @@
+{
+  "id": "Q-2026-000033",
+  "lingua": "pt-PT",
+  "tema": "historia",
+  "subtema": "vida quotidiana",
+  "formato": "escolha-multipla",
+  "enunciado": "Que objeto serviu de recibo fiscal no Tesouro inglês medieval e, queimado em 1834, deu origem ao incêndio do Parlamento de Westminster?",
+  "opcoes": [
+    "Rolos de pergaminho selados com cera",
+    "Varas de madeira entalhadas e partidas ao meio",
+    "Fichas de chumbo cunhadas com o brasão real",
+    "Tábuas de cera gravadas com estilete"
+  ],
+  "correta": 1,
+  "explicacao": "As «tallies» eram varas entalhadas e partidas em duas: uma metade ficava com o Tesouro, a outra com quem pagava. Em 1834 duas carroças delas foram queimadas nas fornalhas sob a Câmara dos Lordes e o fogo destruiu o Parlamento.",
+  "dificuldade_estimada": 3,
+  "fontes": [
+    {
+      "url": "https://historyofparliament.com/2025/10/16/the-westminster-fire-of-1834/",
+      "dominio": "historyofparliament.com",
+      "titulo": "The Westminster Fire of 1834 - The History of Parliament",
+      "nivel": 2,
+      "excerto": "a chimney fire had smouldered under the floor of the House of Lords chamber, caused by the unsupervised and ill-advised burning of two large cartloads of wooden tally sticks (a form of medieval tax receipt created by the Exchequer)",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.nationalarchives.gov.uk/help/e179/glossary.htm",
+      "dominio": "nationalarchives.gov.uk",
+      "titulo": "The National Archives | E 179 | Help | Glossary",
+      "nivel": 1,
+      "excerto": "Tally: A wooden stick, split in two and notched. Half would be given to collectors in receipt of payment at the Exchequer, while the other half would be retained. Many of these were destroyed by a fire in 1834.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Facto relativamente conhecido (curiosidade recorrente), possível clássico. Glossário dos Arquivos Nacionais só liga as tallies ao fogo de forma geral; a causa vem da History of Parliament; verificador deve confirmar com 3.ª fonte. parliament.uk 403."
+    }
+  ],
+  "etiquetas": []
+}

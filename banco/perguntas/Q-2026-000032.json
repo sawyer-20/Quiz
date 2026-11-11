@@ -1,0 +1,66 @@
+{
+  "id": "Q-2026-000032",
+  "lingua": "pt-PT",
+  "tema": "historia",
+  "subtema": "diplomacia",
+  "formato": "escolha-multipla",
+  "enunciado": "Que obra nova o Tratado de Saragoça (1529) proibiu a Portugal nas Molucas e num raio de 20 léguas à volta?",
+  "opcoes": [
+    "Feitorias comerciais",
+    "Estaleiros navais",
+    "Igrejas e missões",
+    "Fortalezas"
+  ],
+  "correta": 3,
+  "explicacao": "Ao pagar 350 000 ducados pelas pretensões castelhanas às Molucas, D. João III aceitou não fazer ali nenhuma fortaleza nova, nem num raio de 20 léguas. A já existente só podia ser mantida, não ampliada.",
+  "dificuldade_estimada": 4,
+  "fontes": [
+    {
+      "url": "https://cultura.marinha.pt/en/museumarinha_web/multimedia_web/Pages/efemeride-tratado-de-saragoca-22abr21.aspx",
+      "dominio": "marinha.pt",
+      "titulo": "Efeméride | Tratado de Saragoça (Direção Cultural da Marinha, Museu de Marinha)",
+      "nivel": 1,
+      "excerto": "A Coroa espanhola, cedia a sua posição naquelas ilhas a Portugal, a troco de 350 mil ducados, enquanto a Coroa portuguesa, não poderia erguer mais fortalezas num raio de 20 léguas em redor da zona das Molucas.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://sevilla.2019-2022.org/wp-content/uploads/2016/03/12.ICSevilla2019_Tratado-de-Zaragoza-a15.pdf",
+      "dominio": "2019-2022.org",
+      "titulo": "La huella archivada del viaje y sus protagonistas: Tratado de Zaragoza (transliteración de Cristóbal Bernal), Sevilla 2019-2022",
+      "nivel": 2,
+      "excerto": "el dicho Señor Rey de Portugal no hará por sí, ni por otro, ni mandará hacer, de nuevo, fortaleza alguna en Maluco, ni al derredor de él con veinte leguas, ni de Maluco hasta donde por este contrato se ha por lanzada la línea.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://press-files.anu.edu.au/downloads/press/p66561/html/ch04s04.html",
+      "dominio": "anu.edu.au",
+      "titulo": "Zaragoza 1529: the Moluccas and the Straits (ANU Press)",
+      "nivel": 1,
+      "excerto": "In return, João III would immediately pay over 350,000 ducats: an advance on his starting offer of 200,000, but a substantial shortfall from the original Castilian demand of 1,000,000.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "N1: cultura.marinha.pt (EN; PT deu timeout) e press-files.anu.edu.au via ler_url (WebFetch ENOTFOUND). Transliteração do tratado (n2). Datas divergem (5 vs 22 abril 1529): fora do texto. Tratado descrito como empenho e retrovenda. Feitorias é o distrator mais discutível. Infopédia 403."
+    }
+  ],
+  "etiquetas": []
+}
