@@ -2,9 +2,9 @@
   "id": "Q-2026-000019",
   "lingua": "pt-PT",
   "tema": "cinema-tv",
-  "subtema": "Cinemateca Portuguesa",
+  "subtema": "Cinemateca Portuguesa – incêndio de 1981",
   "formato": "escolha-multipla",
-  "enunciado": "Em 1981, um incêndio destruiu a sala de cinema da Cinemateca Portuguesa, em Lisboa. Qual foi a origem do fogo?",
+  "enunciado": "Qual foi a origem do incêndio que, em 1981, destruiu a sala de cinema da Cinemateca Portuguesa, em Lisboa?",
   "opcoes": [
     "Um curto-circuito no quadro elétrico da sala",
     "Uma descarga elétrica durante uma trovoada",
@@ -12,8 +12,8 @@
     "A combustão de um rolo de filme em nitrato de celulose"
   ],
   "correta": 3,
-  "explicacao": "O fogo começou na cabine de projeção, quando um rolo de uma cópia em nitrato de celulose ardeu, e propagou-se à sala, que ficou totalmente destruída. O nitrato é um suporte de filme altamente inflamável.",
-  "dificuldade_estimada": 3,
+  "explicacao": "A combustão de um rolo de filme em nitrato de celulose, na cabine de projeção. O fogo propagou-se à sala, que ficou totalmente destruída. O nitrato, suporte do filme, é frágil e inflamável.",
+  "dificuldade_estimada": 2,
   "fontes": [
     {
       "url": "https://www.cinemateca.pt/Cinemateca/Historia.aspx",
@@ -75,11 +75,17 @@
       "notas": "Advogado: origem sustentada por Cinemateca (2 páginas), RTP e filmSPOT; blogue apaladewalsh.com retirado das fontes (proibido).",
       "data": "2026-11-10"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "enunciado reordenado; dificuldade 3→2",
+      "data": "2026-11-11"
+    }
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-06-misto",
   "criada_em": "2026-11-06",
@@ -125,6 +131,18 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte filmspot.pt"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: A combustão de um rolo de filme em nitrato de celulose; depois: A combustão de um rolo de filme em nitrato de celulose"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": []

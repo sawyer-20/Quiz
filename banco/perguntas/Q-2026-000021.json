@@ -41,6 +41,15 @@
       "excerto": "Em 1823, ocorreu uma mudança no cenário lusitano por conta de um convite feito por D. João VI ao professor sueco Pedro Aron Borg. [...] Pedro Aron Borg fundou em 1823 o Real Instituto de Surdos-Mudos e Cegos, em Lisboa",
       "consultada_em": "2026-11-10",
       "papel": "verificador"
+    },
+    {
+      "url": "https://www.portugal.gov.pt/pt/gc23/comunicacao/noticia?i=maos-que-falam-hoje-e-dia-nacional-da-lingua-gestual-portuguesa",
+      "dominio": "portugal.gov.pt",
+      "titulo": "Mãos que falam: hoje é Dia Nacional da Língua Gestual Portuguesa (XXIII Governo)",
+      "nivel": 1,
+      "excerto": "embora o vocabulário da língua gestual portuguesa e da sueca sejam diferentes, o alfabeto das duas línguas revela a sua origem comum",
+      "consultada_em": "2026-11-11",
+      "papel": "advogado"
     }
   ],
   "verificacao": {
@@ -52,7 +61,11 @@
       "data": "2026-11-10",
       "notas": "Artigo académico em repositório universitário (n1); mediacoes.ese.ips.pt também. Recusadas: sigarra.up.pt 403, repositorio.ipcb.pt 403."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "Advogado (2.ª passagem): sem outra resposta; explicação suportada por ESE-IPS e atribuição ao Governo.",
+      "data": "2026-11-11"
+    },
     "editor": null
   },
   "sensivel_ao_tempo": false,
@@ -91,6 +104,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte up.pt"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []
