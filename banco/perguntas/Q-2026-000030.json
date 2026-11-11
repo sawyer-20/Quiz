@@ -12,7 +12,7 @@
     "Sábado"
   ],
   "correta": 1,
-  "explicacao": "«Minggu» vem do português «domingo». Em malaio e em indonésio passou a designar o período de sete dias, a semana. É um dos empréstimos do português ao malaio.",
+  "explicacao": "Vem de «domingo». Em malaio e em indonésio, a palavra passou a designar o período de sete dias, a semana. É um dos empréstimos do português ao malaio.",
   "dificuldade_estimada": 3,
   "fontes": [
     {
@@ -75,11 +75,17 @@
       "notas": "Advogado (2.ª passagem): a tabela do Dialektika (n1, académica) é independente do BiblioAsia (a página da Embaixada republica o mesmo artigo); distratores sem apoio; Kamus Dewan confirma os dois sentidos.",
       "data": "2026-11-11"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "estilo",
+      "data": "2026-11-11"
+    }
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -119,6 +125,18 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: Domingo; depois: Domingo"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": []

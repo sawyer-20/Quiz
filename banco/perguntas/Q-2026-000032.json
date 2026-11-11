@@ -12,7 +12,7 @@
     "Igrejas e missões"
   ],
   "correta": 2,
-  "explicacao": "Pelo Tratado de Saragoça, D. João III pagou 350 000 ducados pelas pretensões castelhanas às Molucas e ficou impedido de erguer novas fortalezas ali, num raio de 20 léguas.",
+  "explicacao": "Fortalezas. Pelo Tratado de Saragoça, D. João III pagou 350 000 ducados pelas pretensões castelhanas às Molucas e ficou impedido de erguer novas fortalezas ali, num raio de 20 léguas.",
   "dificuldade_estimada": 4,
   "fontes": [
     {
@@ -75,11 +75,17 @@
       "notas": "Advogado (2.ª passagem): texto do tratado e Museu de Marinha confirmam fortalezas novas e 20 léguas; 350 000 ducados em Museu, EVE e ANU.",
       "data": "2026-11-11"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "estilo",
+      "data": "2026-11-11"
+    }
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -119,6 +125,18 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: Fortalezas; depois: Fortalezas"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": []
