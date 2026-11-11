@@ -1,0 +1,57 @@
+{
+  "id": "Q-2026-000036",
+  "lingua": "pt-PT",
+  "tema": "ciencia",
+  "subtema": "física do quotidiano",
+  "formato": "escolha-multipla",
+  "enunciado": "Numa chapa muito acima dos 100 °C, uma gota de água desliza e dura minutos. O que a impede de tocar no metal?",
+  "opcoes": [
+    "A tensão superficial, que repele o calor do metal",
+    "Uma almofada de vapor formada pela própria gota",
+    "Uma película de óxido que se forma na superfície do metal",
+    "Bolhas de ar que ficam presas na base da gota"
+  ],
+  "correta": 1,
+  "explicacao": "É o efeito Leidenfrost: acima de uma certa temperatura, a base da gota evapora e o vapor forma uma almofada fina e isoladora. A gota levita sobre ela, perde calor devagar e quase não tem atrito.",
+  "dificuldade_estimada": 2,
+  "fontes": [
+    {
+      "url": "https://arxiv.org/pdf/1202.2157",
+      "dominio": "arxiv.org",
+      "titulo": "The Geometry of the Vapor Layer Under a Leidenfrost Drop (Burton et al., Universidade de Chicago)",
+      "nivel": 1,
+      "excerto": "Such Leidenfrost drops levitate on a thin, insulating cushion of evaporated vapor. Above a Leidenfrost temperature TL there is a sudden increase in the drop lifetime.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.discovermagazine.com/what-makes-droplets-dance-around-a-hot-surface-and-then-fly-away-18503",
+      "dominio": "discovermagazine.com",
+      "titulo": "What Makes Droplets Dance Around a Hot Surface and Then Fly Away? (Discover Magazine)",
+      "nivel": 2,
+      "excerto": "the released vapor forms an insulating layer around the still-liquid droplet. This vapor coat not only slows the boiling, it also reduces friction and makes the droplet hydroplane over the metal.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Sem números. Temperatura de Leidenfrost varia entre fontes. 'Dura minutos' vem do artigo de Chicago. aps.org 403. Fontes PT novas: nenhuma."
+    }
+  ],
+  "etiquetas": []
+}
