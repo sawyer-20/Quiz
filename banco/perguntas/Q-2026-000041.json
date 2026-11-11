@@ -41,8 +41,8 @@
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
-  "motivo_rejeicao": null,
+  "estado": "rejeitada",
+  "motivo_rejeicao": "quota de clássicos do lote (regra 16): o lote já tinha 2 clássicos (Q24, Q39); alvo 12 volta ao pesquisador com ângulo não clássico",
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
   "historico": [
@@ -51,7 +51,15 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Dificuldade realista 3, não 1. WorldAtlas n2 comercial; sargassoseacommission.org (rede), ocean.si.edu 403. 'Único' depende da definição de mar; Bermuda nas franjas. Britannica/icpdr 403."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "Facto clássico de quizzes; opções diferentes das páginas abertas. Etiqueta classico. Lote já com 2 clássicos (Q24, Q39)."
     }
   ],
-  "etiquetas": []
+  "etiquetas": [
+    "classico"
+  ]
 }

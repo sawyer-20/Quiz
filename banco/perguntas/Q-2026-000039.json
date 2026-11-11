@@ -60,7 +60,15 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Fim de 2025 não confirmado diretamente pela World Athletics (página de 2013); confirmação vem de Athletics Weekly (abril 2025). Fontes PT não tentadas."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "Facto muito divulgado; sem quiz com este enunciado nem as mesmas 4 opções."
     }
   ],
-  "etiquetas": []
+  "etiquetas": [
+    "classico"
+  ]
 }

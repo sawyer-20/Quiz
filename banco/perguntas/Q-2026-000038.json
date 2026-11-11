@@ -51,6 +51,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Sem fonte de nível 1: worldrugbymuseum.com 403, britannica ENOTFOUND, world.rugby 404. Pontos divergem (3 pontos em 1893 vs 1905): evitados. «Um ponto» pode confundir (leis de 1886). Tradução «linha de ensaio» a confirmar pelo editor."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Nenhuma pergunta de quiz com este ângulo nem opções; ressalva: valores históricos de pontos divergem."
     }
   ],
   "etiquetas": []

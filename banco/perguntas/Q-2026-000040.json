@@ -51,6 +51,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Sem nível 1 (imprensa especializada). O «90%» só tem uma fonte. theasc.com 520. Cinemateca/RTP sem utilidade; icas/cinemaportugues não abertas."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Só artigos e listas de curiosidades; nenhuma pergunta de quiz com estas opções."
     }
   ],
   "etiquetas": []

@@ -1,0 +1,57 @@
+{
+  "id": "Q-2026-000043",
+  "lingua": "pt-PT",
+  "tema": "literatura",
+  "subtema": "autores e obras",
+  "formato": "escolha-multipla",
+  "enunciado": "Que título tinha primitivamente a «Mensagem», de Fernando Pessoa, antes de um amigo o levar a mudá-lo?",
+  "opcoes": [
+    "Portugal",
+    "Atlântida",
+    "Lusitânia",
+    "Pátria"
+  ],
+  "correta": 0,
+  "explicacao": "Pessoa escreveu que o livro se chamava primitivamente «Portugal». Mudou o título quando o amigo Da Cunha Dias lhe fez notar que o nome da Pátria estava «prostituído a sapatos», como a hotéis.",
+  "dificuldade_estimada": 3,
+  "fontes": [
+    {
+      "url": "https://ler.letras.up.pt/uploads/ficheiros/14139.pdf",
+      "dominio": "up.pt",
+      "titulo": "Artigo na revista Ler (Faculdade de Letras da Universidade do Porto), cita texto de Fernando Pessoa",
+      "nivel": 1,
+      "excerto": "O meu livro \"Mensagem\" chamava-se primitivamente \"Portugal\". Alterei o título porque o meu velho amigo Da Cunha Dias me fez notar [...] que o nome da nossa Pátria estava hoje prostituído a sapatos, como a hotéis",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://observador.pt/especiais/dos-envelopes-esquecidos-a-mensagem-como-se-construiu-a-nova-edicao-critica-do-mais-famoso-livro-de-fernando-pessoa/",
+      "dominio": "observador.pt",
+      "titulo": "Os envelopes esquecidos da \"Mensagem\" de Pessoa (Observador, 14 nov. 2020)",
+      "nivel": 2,
+      "excerto": "\"Portugal\" foi, durante muito tempo, o nome que Fernando Pessoa deu à Mensagem, o único livro que publicou em vida. [...] por causa de um comentário de Alberto da Cunha Dias, amigo de Fernando Pessoa",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "N1: ler.letras.up.pt (PDF cita declaração de Pessoa). casafernandopessoa.pt só página inicial. Distratores inventados; evitados «Mar Português», «Encoberto», «Quinto Império»."
+    }
+  ],
+  "etiquetas": []
+}
