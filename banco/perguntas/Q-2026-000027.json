@@ -51,6 +51,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "N1: journals.muni.cz. olympics.com timeout/ENOTFOUND. Olympedia n2 só via ler_url. Origem assenta em Jean Durry (Olympic Review 2000), citado por ambas. Muni diz que a mulher nasceu em Luttenbach; Olympedia 'native village'. Evita «medalha olímpica»."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Quizzes só perguntam a prova do ouro de 1912; nenhum sobre a origem dos pseudónimos."
     }
   ],
   "etiquetas": []

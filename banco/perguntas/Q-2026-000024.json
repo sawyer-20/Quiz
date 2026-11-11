@@ -60,7 +60,15 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Fontes PT n1: rce.casadasciencias.org aberta (só 1868, Lockyer); infopedia.pt 403; britannica 403. Evita datas disputadas e o sufixo. Facto de nicho, não clássico."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "Facto conhecido em quizzes como pergunta sobre o elemento/descobridor; sem pergunta do local nem este conjunto de opções; classico por prudência."
     }
   ],
-  "etiquetas": []
+  "etiquetas": [
+    "classico"
+  ]
 }

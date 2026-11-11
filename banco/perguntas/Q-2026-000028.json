@@ -60,6 +60,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Só imprensa (n2). monumentos.gov.pt (SIPA) erro de rede; repositorioaberto.uab.pt 403; acervodigital.unesp.br falhou; reuters 401; visitlisboa 404; dn.pt ENOTFOUND no WebFetch mas abre com ler_url. Fontes divergem em datas da eletrificação (1914 vs 1915). Time Out é lifestyle (só reforço)."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Nenhum quiz com esta pergunta ou opções."
     }
   ],
   "etiquetas": []

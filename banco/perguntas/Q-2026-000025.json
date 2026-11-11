@@ -60,6 +60,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Fontes PT n1: livros.fcsh.unl.pt aberto com ler_url.py (WebFetch ENOTFOUND). Nexo «na sequência» é de Peralta García. Não tentadas: BNP, ucp, infopedia."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Nenhum quiz com este facto, enunciado ou opções."
     }
   ],
   "etiquetas": []

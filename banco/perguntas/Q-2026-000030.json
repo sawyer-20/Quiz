@@ -1,0 +1,66 @@
+{
+  "id": "Q-2026-000030",
+  "lingua": "pt-PT",
+  "tema": "portugal",
+  "subtema": "língua portuguesa",
+  "formato": "escolha-multipla",
+  "enunciado": "De que palavra portuguesa vem o malaio «minggu», que significa «semana»?",
+  "opcoes": [
+    "Feira",
+    "Domingo",
+    "Semana",
+    "Sábado"
+  ],
+  "correta": 1,
+  "explicacao": "«Minggu» vem do português «domingo». Em malaio e indonésio passou a designar o período de sete dias, a semana, e o dia de domingo é «hari Minggu». É um dos empréstimos do português ao malaio, do século XVI.",
+  "dificuldade_estimada": 3,
+  "fontes": [
+    {
+      "url": "https://periodicos.uff.br/cadernosdeletras/article/download/48994/29687",
+      "dominio": "uff.br",
+      "titulo": "Bolácio, E. (2021), inventário de empréstimos do português ao malaio/indonésio, Cadernos de Letras UFF, v.32, n.62",
+      "nivel": 1,
+      "excerto": "minggu < domingo misa < missa moler < mulher nanas < ananás (Hari) Natal < Natal nona < dona ordi ou rodi < ordem pad(e)ri < padre",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://dictionary.cambridge.org/us/dictionary/english-malaysian/week",
+      "dominio": "cambridge.org",
+      "titulo": "Cambridge Dictionary, English-Malay: week",
+      "nivel": 2,
+      "excerto": "week noun ● any sequence of seven days, especially from Sunday to Saturday minggu It's three weeks since I saw her.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://biblioasia.nlb.gov.sg/vol-19/issue-1/apr-jun-2023/portuguese-legacy-southeast-asia",
+      "dominio": "nlb.gov.sg",
+      "titulo": "Portugal's Linguistic Legacy in Southeast Asia, BiblioAsia (National Library Board, Singapura)",
+      "nivel": 2,
+      "excerto": "On the weekend, that is, on sabtu (sábado; “Saturday”) and minggu (domingo; “Sunday”), he goes to a pesta (festa; “party”) with his friends.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Sem fonte PT n1 da lista; artigo académico brasileiro (UFF, n1). repositorium.sdum.uminho.pt e baes.uc.pt erro de rede; kbbi não resolve; unesco.org redireciona. 'século XVI' vem do resumo visto na pesquisa, não do excerto lido. Distrator «Semana» pode induzir em erro."
+    }
+  ],
+  "etiquetas": []
+}
