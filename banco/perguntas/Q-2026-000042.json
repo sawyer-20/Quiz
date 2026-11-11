@@ -41,8 +41,8 @@
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
-  "motivo_rejeicao": null,
+  "estado": "rejeitada",
+  "motivo_rejeicao": "quota de clássicos do lote (regra 16): o lote já tinha 2 clássicos (Q24, Q39); alvo 20 volta ao pesquisador com ângulo não clássico",
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
   "historico": [
@@ -51,7 +51,15 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Nome do pigmento sugere a resposta (pista ténue). Smithsonian n2 divulgação. «séculos XVI a XIX» (Harvard) e «anos 1960» (Smithsonian/Harvard 1964): confirmar. PT n1 não abertas; arthistory.fsu.edu rede."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "Facto circula em quizzes FunTrivia com outros enunciados e opções. Lote já com 2 clássicos (Q24, Q39)."
     }
   ],
-  "etiquetas": []
+  "etiquetas": [
+    "classico"
+  ]
 }

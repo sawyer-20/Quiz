@@ -51,6 +51,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "N1: ler.letras.up.pt (PDF cita declaração de Pessoa). casafernandopessoa.pt só página inicial. Distratores inventados; evitados «Mar Português», «Encoberto», «Quinto Império»."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Nenhuma pergunta de quiz sobre o título primitivo da Mensagem; Quizlet recusou leitura (403)."
     }
   ],
   "etiquetas": []
