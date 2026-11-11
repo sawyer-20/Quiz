@@ -12,6 +12,16 @@
         "De Paris ao polo Norte"
       ],
       "explanation": "Do polo Norte ao equador, pelo meridiano de Paris. Delambre e Méchain mediram o arco entre Dunquerque e Barcelona, mas erros no cálculo da curvatura da Terra deixaram o metro-padrão original 0,2 mm mais curto."
+    },
+    "en-US": {
+      "question": "When revolutionary France created the meter, it made it equal to 1/10,000,000 of which distance?",
+      "options": [
+        "Earth's diameter, from pole to pole",
+        "From the North Pole to the equator",
+        "Earth's circumference at the equator",
+        "From Paris to the North Pole"
+      ],
+      "explanation": "North Pole to the equator, along the Paris meridian. Delambre and Méchain measured the arc from Dunkirk to Barcelona, but errors in calculating Earth's curvature left the original standard meter 0.2 mm shorter."
     }
   },
   "correct": 1,
@@ -71,6 +81,10 @@
       "alteracao_factual": false,
       "notas": "Novo ângulo (criação da unidade, fração em algarismos); opções encurtadas, mesmo sentido; 'erros no cálculo da curvatura' e 0,2 mm segundo o NIST. Originalidade: só enciclopédias e uma questão de vestibular (UFG 2009) com outro cálculo.",
       "data": "2026-11-04"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "US number format; Dunkirk and Barcelona in usual English forms."
     }
   },
   "estado": "em_verificacao",
@@ -143,6 +157,12 @@
       "evento": "migrada para v2",
       "agente": "orquestrador",
       "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "US number format; Dunkirk and Barcelona in usual English forms."
     }
   ]
 }

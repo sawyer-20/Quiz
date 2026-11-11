@@ -15,6 +15,16 @@
         "Da luz solar que entra pelas janelas"
       ],
       "explanation": "Dos dejetos dos morcegos. Segundo a Universidade de Coimbra, vivem morcegos na biblioteca, por isso as mesas são cobertas com «toalhas» de couro no fim de cada dia, para impedir os danos que os dejetos causam."
+    },
+    "en-US": {
+      "question": "In the Joanina Library in Coimbra, the tables are covered with leather at the end of each day. What are they protected from?",
+      "options": [
+        "Humidity from the Mondego River",
+        "Dust stirred up by visitors",
+        "Droppings from the bats that live there",
+        "Sunlight coming through the windows"
+      ],
+      "explanation": "Bat droppings. According to the University of Coimbra, bats live in the library, so the tables are covered with leather \"cloths\" at the end of each day to prevent the damage the droppings cause."
     }
   },
   "correct": 2,
@@ -75,6 +85,10 @@
       "alteracao_factual": false,
       "notas": "estilo",
       "data": "2026-11-11"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "Attribution to the University of Coimbra kept; 'toalhas' = 'cloths'."
     }
   },
   "estado": "em_verificacao",
@@ -135,6 +149,12 @@
       "evento": "migrada para v2",
       "agente": "orquestrador",
       "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Attribution to the University of Coimbra kept; 'toalhas' = 'cloths'."
     }
   ]
 }

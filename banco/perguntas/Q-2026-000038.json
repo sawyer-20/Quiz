@@ -12,6 +12,16 @@
         "Um pontapé de penalidade"
       ],
       "explanation": "O direito a um «try at goal», uma tentativa de pontapé à baliza: nas leis de 1845 pousar a bola não dava pontos, só os golos marcavam. O ensaio só passou a valer pontos mais tarde, a partir de 1886."
+    },
+    "en-US": {
+      "question": "Under the 1845 laws of Rugby School, what did a team earn for grounding the ball beyond the goal line?",
+      "options": [
+        "The right to attempt a kick at goal",
+        "Two points",
+        "One point",
+        "A penalty kick"
+      ],
+      "explanation": "The right to a «try at goal,» a kick at the goal: under the 1845 laws, grounding the ball scored no points, and only goals counted. A try only became worth points later, starting in 1886."
     }
   },
   "correct": 0,
@@ -81,6 +91,10 @@
       "alteracao_factual": false,
       "notas": "estilo",
       "data": "2026-11-11"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "linha de ensaio -> goal line; ensaio = try; «try at goal» kept from the original."
     }
   },
   "estado": "em_verificacao",
@@ -141,6 +155,12 @@
       "evento": "migrada para v2",
       "agente": "orquestrador",
       "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "linha de ensaio -> goal line; ensaio = try; «try at goal» kept from the original."
     }
   ]
 }

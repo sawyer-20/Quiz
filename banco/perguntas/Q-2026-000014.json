@@ -11,7 +11,17 @@
         "Feijões",
         "Sementes de cacau"
       ],
-      "explanation": "Sementes de cacau. Segundo o arqueólogo Michael E. Smith, pagavam as compras do dia a dia, enquanto os tecidos de algodão serviam para os bens mais valiosos. O cacau era também a bebida da elite e um tributo exigido à região de Soconusco."
+      "explanation": "Sementes de cacau: segundo o arqueólogo Michael E. Smith, pagavam as compras do dia a dia, enquanto os tecidos de algodão serviam para os bens mais valiosos. O cacau era também a bebida da elite e um tributo exigido à região de Soconusco."
+    },
+    "en-US": {
+      "question": "In Aztec markets, which seeds were used as currency?",
+      "options": [
+        "Corn kernels",
+        "Pumpkin seeds",
+        "Beans",
+        "Cacao seeds"
+      ],
+      "explanation": "Cacao seeds: according to archaeologist Michael E. Smith, they paid for everyday purchases, while cotton cloth was used for more valuable goods. Cacao was also the elite's drink and a tribute demanded from the Soconusco region."
     }
   },
   "correct": 3,
@@ -70,8 +80,12 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "explicação reordenada e encurtada",
-      "data": "2026-11-10"
+      "notas": "explicação encurtada para 1–2 frases (migração v2); sem factos novos",
+      "data": "2026-11-11"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "Attribution to Michael E. Smith kept. 'Cacao' (not 'cocoa') as in the sources."
     }
   },
   "estado": "em_verificacao",
@@ -120,6 +134,18 @@
       "evento": "migrada para v2",
       "agente": "orquestrador",
       "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Attribution to Michael E. Smith kept. 'Cacao' (not 'cocoa') as in the sources."
     }
   ],
   "etiquetas": [

@@ -11,7 +11,17 @@
         "Fortalezas",
         "Igrejas e missões"
       ],
-      "explanation": "Fortalezas. Pelo Tratado de Saragoça, D. João III pagou 350 000 ducados pelas pretensões castelhanas às Molucas e ficou impedido de erguer novas fortalezas ali, num raio de 20 léguas."
+      "explanation": "Fortalezas: pelo Tratado de Saragoça, D. João III pagou 350 000 ducados pelas pretensões castelhanas às Molucas e ficou impedido de erguer novas fortalezas ali, num raio de 20 léguas."
+    },
+    "en-US": {
+      "question": "What did the Treaty of Zaragoza (1529) forbid Portugal from building in the Moluccas and within 20 leagues around them?",
+      "options": [
+        "Trading posts",
+        "Shipyards",
+        "Fortresses",
+        "Churches and missions"
+      ],
+      "explanation": "Fortresses: under the Treaty of Zaragoza, John III paid 350,000 ducats for Castile's claims to the Moluccas and was barred from building new fortresses there, within 20 leagues."
     }
   },
   "correct": 2,
@@ -88,8 +98,12 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "estilo",
+      "notas": "explicação encurtada para 1–2 frases (migração v2); sem factos novos",
       "data": "2026-11-11"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "D. João III -> John III; Molucas -> Moluccas; ducados -> ducats; léguas -> leagues."
     }
   },
   "estado": "em_verificacao",
@@ -150,6 +164,18 @@
       "evento": "migrada para v2",
       "agente": "orquestrador",
       "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "D. João III -> John III; Molucas -> Moluccas; ducados -> ducats; léguas -> leagues."
     }
   ]
 }

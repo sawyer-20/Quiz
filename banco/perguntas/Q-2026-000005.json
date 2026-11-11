@@ -12,6 +12,16 @@
         "Estampagem com carimbos de madeira"
       ],
       "explanation": "Bordado. Apesar do nome, não é uma tapeçaria, em que o desenho se tece no próprio pano: as cenas foram bordadas com fio de lã sobre um fundo de linho com cerca de 70 metros, feito de nove painéis cosidos entre si."
+    },
+    "en-US": {
+      "question": "Which technique was used to create the scenes of the Bayeux Tapestry, which tells the story of the 1066 Norman conquest?",
+      "options": [
+        "Painting on linen",
+        "Embroidery",
+        "Loom weaving",
+        "Stamping with wooden blocks"
+      ],
+      "explanation": "Embroidery. Despite the name, it is not a true tapestry, where the design is woven into the cloth: the scenes were embroidered in wool yarn on a linen ground about 70 meters long, made of nine panels sewn together."
     }
   },
   "correct": 1,
@@ -71,6 +81,10 @@
       "alteracao_factual": false,
       "notas": "Formulação 'é tecnicamente que tipo de obra' é comum em quizzes (Quizzclub, FunTrivia, guias de estudo); reescrita para 'que técnica deu forma às cenas'. Opções em substantivos paralelos, mesma ordem e sentido. Sem quiz em português igual.",
       "data": "2026-11-04"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "Spelling 'meters' (US). 'Tapeçaria' kept as 'Tapestry' (standard English title)."
     }
   },
   "estado": "em_verificacao",
@@ -143,6 +157,12 @@
       "evento": "migrada para v2",
       "agente": "orquestrador",
       "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Spelling 'meters' (US). 'Tapeçaria' kept as 'Tapestry' (standard English title)."
     }
   ],
   "etiquetas": [

@@ -15,6 +15,16 @@
         "Azulejo"
       ],
       "explanation": "Em azulejo: painel pintado a azul sobre branco, atribuído a Gabriel del Barco e guardado no Museu Nacional do Azulejo. Mostra a Lisboa anterior a 1755, com a Torre de Belém e o Mosteiro dos Jerónimos entre os edifícios."
+    },
+    "en-US": {
+      "question": "The Great Panorama of Lisbon shows the city as seen from the Tagus before the 1755 earthquake. What medium was it made in?",
+      "options": [
+        "Copper engraving",
+        "Tapestry",
+        "Oil on canvas",
+        "Azulejo (glazed tile)"
+      ],
+      "explanation": "Azulejo: a painted blue-on-white tile panel attributed to Gabriel del Barco and kept at the National Tile Museum. It shows Lisbon before 1755, with the Belém Tower and the Jerónimos Monastery among its buildings."
     }
   },
   "correct": 3,
@@ -75,6 +85,10 @@
       "alteracao_factual": false,
       "notas": "estilo",
       "data": "2026-11-11"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "Tejo -> Tagus; Museu Nacional do Azulejo -> National Tile Museum; azulejo kept with a gloss in the option."
     }
   },
   "estado": "em_verificacao",
@@ -135,6 +149,12 @@
       "evento": "migrada para v2",
       "agente": "orquestrador",
       "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Tejo -> Tagus; Museu Nacional do Azulejo -> National Tile Museum; azulejo kept with a gloss in the option."
     }
   ]
 }

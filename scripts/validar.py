@@ -89,7 +89,11 @@ RE_BRITANICO = re.compile(r"\b(colour|favourite|centre|metre|kilometre|litre|gre
 
 
 def n_frases(texto: str) -> int:
-    return len([f for f in re.split(r"(?<=[.!?])\s+(?=[A-ZÀ-Ý«\"0-9])", (texto or "").strip()) if f])
+    """Número de frases, sem contar o ponto de iniciais (D. João, Michael E. Smith), de
+    abreviaturas (Dr., St., a.C.) nem de números (1.5)."""
+    s = (texto or "").strip()
+    s = re.sub(r"\b([A-ZÀ-Ý]|Dr|Dra|Sr|Sra|Mr|Mrs|Ms|St|Jr|Mt|Ft|Prof|Eng|Av|Pe|Fr|vs|etc|a\.C|d\.C)\.", "\\1\u2024", s)
+    return len([f for f in re.split(r"(?<=[.!?])\s+(?=[A-ZÀ-Ý«\"0-9])", s) if f])
 
 
 def numeros(texto: str) -> list[str]:

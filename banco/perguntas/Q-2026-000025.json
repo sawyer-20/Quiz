@@ -14,7 +14,17 @@
         "Marquês de Pombal",
         "Morgado de Mateus"
       ],
-      "explanation": "Morgado de Mateus. Segundo Beatriz Peralta García, o Requiem em dó menor, op. 23, «À memória de Camões», de Bomtempo foi composto na sequência da edição de Os Lusíadas feita por ele em Paris."
+      "explanation": "Morgado de Mateus: segundo Beatriz Peralta García, o Requiem em dó menor, op. 23, «À memória de Camões», de Bomtempo foi composto na sequência da edição de Os Lusíadas feita por ele em Paris."
+    },
+    "en-US": {
+      "question": "According to Beatriz Peralta García, Bomtempo's Requiem followed the Paris edition of The Lusiads, sponsored by which diplomat?",
+      "options": [
+        "Duke of Palmela",
+        "Silvestre Pinheiro Ferreira",
+        "Marquis of Pombal",
+        "Morgado de Mateus"
+      ],
+      "explanation": "Morgado de Mateus: according to Beatriz Peralta García, Bomtempo's Requiem in C minor, Op. 23, \"To the Memory of Camões,\" was composed after the Paris edition of The Lusiads produced by the diplomat."
     }
   },
   "correct": 3,
@@ -82,8 +92,12 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "explicação começa pela resposta; dificuldade 3→4",
+      "notas": "explicação encurtada para 1–2 frases (migração v2); sem factos novos",
       "data": "2026-11-11"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "Os Lusíadas -> The Lusiads. The pt-PT explanation says 'feita por ele' (ambiguous); followed the source: 'by the diplomat'. 'promovida por' -> 'sponsored'; worth a check by the conferente."
     }
   },
   "estado": "em_verificacao",
@@ -132,6 +146,18 @@
       "evento": "migrada para v2",
       "agente": "orquestrador",
       "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Os Lusíadas -> The Lusiads. The pt-PT explanation says 'feita por ele' (ambiguous); followed the source: 'by the diplomat'. 'promovida por' -> 'sponsored'; worth a check by the conferente."
     }
   ]
 }

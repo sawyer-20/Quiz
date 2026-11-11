@@ -15,6 +15,16 @@
         "Espanha"
       ],
       "explanation": "Da Suécia: Pär Aron Borg já fundara um instituto semelhante no seu país e criou o alfabeto manual que usou em Lisboa. Segundo o Governo português, o alfabeto da língua gestual portuguesa e o da sueca revelam uma origem comum."
+    },
+    "en-US": {
+      "question": "Which country did the teacher hired by John VI to found Lisbon's Royal Institute for the Deaf-Mute and the Blind come from?",
+      "options": [
+        "France",
+        "Sweden",
+        "England",
+        "Spain"
+      ],
+      "explanation": "Sweden: Pär Aron Borg had already founded a similar institute there and created the manual alphabet he used in Lisbon. According to the Portuguese government, the Portuguese and Swedish sign language alphabets share a common origin."
     }
   },
   "correct": 1,
@@ -84,6 +94,10 @@
       "alteracao_factual": false,
       "notas": "estilo",
       "data": "2026-11-11"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "D. João VI = John VI; institute name close to the source term 'Surdos-Mudos'. Question 122 characters."
     }
   },
   "estado": "em_verificacao",
@@ -144,6 +158,12 @@
       "evento": "migrada para v2",
       "agente": "orquestrador",
       "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "D. João VI = John VI; institute name close to the source term 'Surdos-Mudos'. Question 122 characters."
     }
   ]
 }

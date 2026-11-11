@@ -11,7 +11,17 @@
         "A andorinha-do-mar-ártica",
         "O albatroz-errante"
       ],
-      "explanation": "A fragata-grande. Os registos de EEG mostraram que dorme em voo, com um hemisfério cerebral de cada vez ou com os dois. Dorme sobretudo a planar em círculos; os autores sugerem que o hemisfério acordado serve para ver para onde vai."
+      "explanation": "A fragata-grande: os registos de EEG mostraram que dorme em voo, com um hemisfério cerebral de cada vez ou com os dois. Dorme sobretudo a planar em círculos; os autores sugerem que o hemisfério acordado serve para ver para onde vai."
+    },
+    "en-US": {
+      "question": "In 2016, EEG recordings first showed that a bird sleeps while flying. Which bird was it?",
+      "options": [
+        "The great frigatebird",
+        "The brown pelican",
+        "The Arctic tern",
+        "The wandering albatross"
+      ],
+      "explanation": "The great frigatebird: EEG recordings showed it sleeps in flight, with one brain hemisphere at a time or with both. It sleeps mostly while soaring in circles; the authors suggest the awake hemisphere helps it see where it is going."
     }
   },
   "correct": 0,
@@ -88,8 +98,12 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "explicação começa pela resposta",
+      "notas": "explicação encurtada para 1–2 frases (migração v2); sem factos novos",
       "data": "2026-11-11"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "fragata-grande = great frigatebird (Fregata minor); pelicano-pardo = brown pelican; andorinha-do-mar-ártica = Arctic tern; albatroz-errante = wandering albatross."
     }
   },
   "estado": "em_verificacao",
@@ -150,6 +164,18 @@
       "evento": "migrada para v2",
       "agente": "orquestrador",
       "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "fragata-grande = great frigatebird (Fregata minor); pelicano-pardo = brown pelican; andorinha-do-mar-ártica = Arctic tern; albatroz-errante = wandering albatross."
     }
   ]
 }

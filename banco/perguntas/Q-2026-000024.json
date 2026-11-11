@@ -11,7 +11,17 @@
         "No Brasil",
         "No Egito"
       ],
-      "explanation": "Na Índia. Janssen viajou até lá para observar um eclipse total do Sol e registou uma linha amarela inédita no espetro solar. Essa linha levaria ao hélio, detetado no Sol antes de o ser na Terra."
+      "explanation": "Na Índia, onde Janssen foi observar um eclipse total do Sol e registou uma linha amarela inédita no espetro solar. Essa linha levaria ao hélio, detetado no Sol antes de o ser na Terra."
+    },
+    "en-US": {
+      "question": "In 1868, where was French astronomer Pierre Janssen when he recorded the yellow line that would lead to helium?",
+      "options": [
+        "In Australia",
+        "In India",
+        "In Brazil",
+        "In Egypt"
+      ],
+      "explanation": "In India, where Janssen went to observe a total solar eclipse and recorded a previously unknown yellow line in the solar spectrum. That line would lead to helium, detected on the Sun before it was found on Earth."
     }
   },
   "correct": 1,
@@ -79,8 +89,12 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "explicação reordenada",
+      "notas": "explicação encurtada para 1–2 frases (migração v2); sem factos novos",
       "data": "2026-11-11"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "espetro -> spectrum."
     }
   },
   "estado": "em_verificacao",
@@ -141,6 +155,18 @@
       "evento": "migrada para v2",
       "agente": "orquestrador",
       "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "espetro -> spectrum."
     }
   ],
   "etiquetas": [

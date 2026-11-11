@@ -12,6 +12,16 @@
         "Tábuas de cera gravadas com estilete"
       ],
       "explanation": "Varas de madeira entalhadas e partidas ao meio: uma metade ficava com o Tesouro, a outra com quem pagava. Em 1834 duas carroças dessas «tallies» foram queimadas nas fornalhas sob a Câmara dos Lordes e o fogo destruiu o Parlamento."
+    },
+    "en-US": {
+      "question": "What object served as a tax receipt in the medieval English Exchequer and, when burned in 1834, set the Houses of Parliament on fire?",
+      "options": [
+        "Wax-sealed parchment rolls",
+        "Notched wooden sticks split in half",
+        "Lead tokens stamped with the royal arms",
+        "Wax tablets engraved with a stylus"
+      ],
+      "explanation": "Notched wooden sticks split in half: one half stayed with the Exchequer, the other with the payer. In 1834 two cartloads of these tallies were burned in the furnaces under the House of Lords, and the fire destroyed Parliament."
     }
   },
   "correct": 1,
@@ -81,6 +91,10 @@
       "alteracao_factual": false,
       "notas": "enunciado encurtado; explicação começa pela resposta",
       "data": "2026-11-11"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "Tesouro inglês -> Exchequer; Parlamento de Westminster -> Houses of Parliament."
     }
   },
   "estado": "em_verificacao",
@@ -129,6 +143,12 @@
       "evento": "migrada para v2",
       "agente": "orquestrador",
       "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Tesouro inglês -> Exchequer; Parlamento de Westminster -> Houses of Parliament."
     }
   ]
 }

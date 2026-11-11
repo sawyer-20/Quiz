@@ -12,6 +12,16 @@
         "Uma história da Grécia antiga"
       ],
       "explanation": "Uma história de Roma. A Academia Sueca premiou Mommsen como «o maior mestre vivo da arte de escrever história», com referência especial à sua monumental História de Roma, escrita em parte quando era professor em Zurique."
+    },
+    "en-US": {
+      "question": "The 1902 Nobel Prize in Literature went to historian Theodor Mommsen. Which work did the Swedish Academy highlight?",
+      "options": [
+        "A historical novel about Julius Caesar",
+        "A history of Rome",
+        "A Latin translation of the Aeneid",
+        "A history of ancient Greece"
+      ],
+      "explanation": "A history of Rome. The Swedish Academy honored Mommsen as \"the greatest living master of the art of historical writing,\" citing his monumental A History of Rome, written partly while he was a professor in Zurich."
     }
   },
   "correct": 1,
@@ -72,6 +82,10 @@
       "alteracao_factual": false,
       "notas": "explicação começa pela resposta",
       "data": "2026-11-10"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "Quote taken from the source excerpt."
     }
   },
   "estado": "em_verificacao",
@@ -120,6 +134,12 @@
       "evento": "migrada para v2",
       "agente": "orquestrador",
       "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Quote taken from the source excerpt."
     }
   ],
   "etiquetas": [

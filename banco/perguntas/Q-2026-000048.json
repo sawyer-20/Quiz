@@ -14,7 +14,17 @@
         "À Academia Filarmónica de Lisboa",
         "Ao Teatro de São Carlos"
       ],
-      "explanation": "Ao professor de música dos Infantes, Manuel Inocêncio dos Santos. Segundo o Museu Nacional da Música, o piano Boisselot de Liszt foi oferecido à rainha D. Maria II, que o doou a esse professor. Hoje está nesse museu."
+      "explanation": "Ao professor de música dos Infantes, Manuel Inocêncio dos Santos: segundo o Museu Nacional da Música, o piano Boisselot de Liszt foi oferecido à rainha D. Maria II, que o doou a esse professor. Hoje está nesse museu."
+    },
+    "en-US": {
+      "question": "To whom did Queen Maria II give the piano that Liszt brought to Lisbon in 1845?",
+      "options": [
+        "The French ambassador in Lisbon",
+        "Her children's music teacher",
+        "The Philharmonic Academy of Lisbon",
+        "The São Carlos Theater"
+      ],
+      "explanation": "To the royal children's music teacher, Manuel Inocêncio dos Santos: according to the National Museum of Music, Liszt's Boisselot piano was offered to Queen Maria II, who donated it to him. It is now in that museum."
     }
   },
   "correct": 1,
@@ -73,8 +83,12 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "estilo",
+      "notas": "explicação encurtada para 1–2 frases (migração v2); sem factos novos",
       "data": "2026-11-11"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "'D. Maria II' -> 'Queen Maria II'; 'Infantes' -> 'royal children'."
     }
   },
   "estado": "em_verificacao",
@@ -135,6 +149,18 @@
       "evento": "migrada para v2",
       "agente": "orquestrador",
       "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "'D. Maria II' -> 'Queen Maria II'; 'Infantes' -> 'royal children'."
     }
   ]
 }

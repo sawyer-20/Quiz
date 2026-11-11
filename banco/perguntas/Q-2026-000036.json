@@ -12,6 +12,16 @@
         "A tensão superficial, que repele o calor do metal"
       ],
       "explanation": "Uma almofada de vapor formada pela própria gota: é o efeito Leidenfrost. A base da gota evapora e o vapor forma uma película fina e isoladora, sobre a qual a gota levita e perde calor devagar."
+    },
+    "en-US": {
+      "question": "On a metal plate far above 100 °C, a water droplet glides without touching the metal. What keeps it apart?",
+      "options": [
+        "Air bubbles trapped under the droplet",
+        "An oxide film forming on the metal surface",
+        "A cushion of vapor formed by the droplet itself",
+        "Surface tension, which repels heat from the metal"
+      ],
+      "explanation": "A cushion of vapor formed by the droplet itself: this is the Leidenfrost effect. The underside of the droplet evaporates, and the vapor forms a thin insulating layer on which the droplet levitates and loses heat slowly."
     }
   },
   "correct": 2,
@@ -81,6 +91,10 @@
       "alteracao_factual": false,
       "notas": "explicação reordenada (editor tinha posto um ponto final numa opção; mantido o texto original das opções)",
       "data": "2026-11-11"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "°C kept; American spelling."
     }
   },
   "estado": "em_verificacao",
@@ -141,6 +155,12 @@
       "evento": "migrada para v2",
       "agente": "orquestrador",
       "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "°C kept; American spelling."
     }
   ]
 }

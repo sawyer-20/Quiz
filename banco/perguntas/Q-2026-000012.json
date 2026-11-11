@@ -11,7 +11,17 @@
         "Neerlandeses",
         "Chineses"
       ],
-      "explanation": "Portugueses. O xogunato começou a construir Dejima em 1634 para os confinar e travar o cristianismo. Em 1639 foram proibidos de vir ao Japão e, em 1641, a feitoria neerlandesa de Hirado mudou-se para a ilha, onde ficou mais de dois séculos."
+      "explanation": "Portugueses: o xogunato começou a construir Dejima em 1634 para os confinar e travar o cristianismo. Em 1639 foram proibidos de vir ao Japão e, em 1641, a feitoria neerlandesa de Hirado mudou-se para a ilha, onde ficou mais de dois séculos."
+    },
+    "en-US": {
+      "question": "The artificial island of Dejima in Nagasaki was built in the 1630s to confine merchants of which nationality?",
+      "options": [
+        "English",
+        "Portuguese",
+        "Dutch",
+        "Chinese"
+      ],
+      "explanation": "Portuguese: the shogunate began building Dejima in 1634 to confine them and curb Christianity. In 1639 they were banned from Japan, and in 1641 the Dutch trading post at Hirado moved to the island, where it stayed for over two centuries."
     }
   },
   "correct": 1,
@@ -69,8 +79,12 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "Editor: 'alojar'→'confinar' (fontes: 'confine'); explicação começa pela resposta; dificuldade 4→3 (público português). Originalidade: sem quiz igual. O orquestrador manteve 'nacionalidade' em vez do 'país' proposto, para concordar com as opções (gentílicos no plural).",
-      "data": "2026-11-04"
+      "notas": "explicação encurtada para 1–2 frases (migração v2); sem factos novos",
+      "data": "2026-11-11"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "xogunato = shogunate; neerlandeses = Dutch; feitoria = trading post."
     }
   },
   "estado": "em_verificacao",
@@ -143,6 +157,18 @@
       "evento": "migrada para v2",
       "agente": "orquestrador",
       "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "xogunato = shogunate; neerlandeses = Dutch; feitoria = trading post."
     }
   ],
   "etiquetas": [

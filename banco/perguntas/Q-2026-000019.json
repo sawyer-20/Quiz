@@ -14,7 +14,17 @@
         "Uma falha no sistema de aquecimento da sala",
         "A combustão de um rolo de filme em nitrato de celulose"
       ],
-      "explanation": "A combustão de um rolo de filme em nitrato de celulose, na cabine de projeção. O fogo propagou-se à sala, que ficou totalmente destruída. O nitrato, suporte do filme, é frágil e inflamável."
+      "explanation": "A combustão de um rolo de filme em nitrato de celulose, na cabine de projeção, propagou-se à sala, que ficou totalmente destruída. O nitrato, suporte do filme, é frágil e inflamável."
+    },
+    "en-US": {
+      "question": "What caused the 1981 fire that destroyed the screening room of the Portuguese Cinematheque in Lisbon?",
+      "options": [
+        "A short circuit in the room's electrical panel",
+        "An electrical discharge during a thunderstorm",
+        "A fault in the room's heating system",
+        "Combustion of a reel of cellulose nitrate film"
+      ],
+      "explanation": "Combustion of a reel of cellulose nitrate film in the projection booth spread to the screening room, which was totally destroyed. Nitrate, a film base, is fragile and flammable."
     }
   },
   "correct": 3,
@@ -91,8 +101,12 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "enunciado reordenado; dificuldade 3→2",
+      "notas": "explicação encurtada para 1–2 frases (migração v2); sem factos novos",
       "data": "2026-11-11"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "Cinemateca Portuguesa -> Portuguese Cinematheque; cabine de projeção = projection booth."
     }
   },
   "estado": "em_verificacao",
@@ -159,6 +173,18 @@
       "evento": "migrada para v2",
       "agente": "orquestrador",
       "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Cinemateca Portuguesa -> Portuguese Cinematheque; cabine de projeção = projection booth."
     }
   ]
 }

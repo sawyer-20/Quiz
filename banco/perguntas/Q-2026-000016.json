@@ -15,6 +15,16 @@
         "Serra do Gerês"
       ],
       "explanation": "Na Serra da Estrela, na Torre, com 1993 m. Mas é só o topo do continente: o ponto mais alto do país é a Montanha do Pico, nos Açores, com 2351 m."
+    },
+    "en-US": {
+      "question": "In which mountain range is the highest point of mainland Portugal?",
+      "options": [
+        "Serra da Estrela",
+        "Serra da Lousã",
+        "Serra do Marão",
+        "Serra do Gerês"
+      ],
+      "explanation": "Serra da Estrela, at the Torre, 1,993 m. But that is only the top of the mainland: the country's highest point is Pico Mountain in the Azores, at 2,351 m."
     }
   },
   "correct": 0,
@@ -93,6 +103,10 @@
       "alteracao_factual": false,
       "notas": "explicação começa pela resposta",
       "data": "2026-11-10"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "Range names kept in Portuguese; numbers with US thousands comma; units not converted."
     }
   },
   "estado": "em_verificacao",
@@ -153,6 +167,12 @@
       "evento": "migrada para v2",
       "agente": "orquestrador",
       "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Range names kept in Portuguese; numbers with US thousands comma; units not converted."
     }
   ],
   "etiquetas": [

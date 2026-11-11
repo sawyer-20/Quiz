@@ -15,6 +15,16 @@
         "Abrigar as sentinelas da chuva e do frio"
       ],
       "explanation": "Servia para disparar na vertical sobre a base dos muros: o hurdício era uma galeria de madeira saliente no topo das muralhas e das torres. Segundo o historiador Mário Barroca, foram os Templários que o introduziram em Portugal."
+    },
+    "en-US": {
+      "question": "What was the hurdício (hoarding), a wooden gallery atop the towers of medieval Portuguese castles, used for?",
+      "options": [
+        "Signaling to neighboring castles with bonfires",
+        "Firing straight down at the base of the walls",
+        "Storing weapons and supplies during a siege",
+        "Sheltering sentries from rain and cold"
+      ],
+      "explanation": "Firing straight down at the base of the walls: the hurdício (hoarding) was a wooden gallery projecting from the top of walls and towers. According to historian Mário Barroca, the Templars introduced it to Portugal."
     }
   },
   "correct": 1,
@@ -74,6 +84,10 @@
       "alteracao_factual": false,
       "notas": "estilo",
       "data": "2026-11-11"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "hurdício = hoarding, explained in the question and explanation."
     }
   },
   "estado": "em_verificacao",
@@ -134,6 +148,12 @@
       "evento": "migrada para v2",
       "agente": "orquestrador",
       "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "hurdício = hoarding, explained in the question and explanation."
     }
   ]
 }

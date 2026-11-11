@@ -11,7 +11,17 @@
         "Semana",
         "Sábado"
       ],
-      "explanation": "Vem de «domingo». Em malaio e em indonésio, a palavra passou a designar o período de sete dias, a semana. É um dos empréstimos do português ao malaio."
+      "explanation": "Domingo. Em malaio e em indonésio, «minggu» passou a designar o período de sete dias, a semana; é um dos empréstimos do português ao malaio."
+    },
+    "en-US": {
+      "question": "Which Portuguese word does the Malay \"minggu,\" meaning \"week,\" come from?",
+      "options": [
+        "Feira (market day)",
+        "Domingo (Sunday)",
+        "Semana (week)",
+        "Sábado (Saturday)"
+      ],
+      "explanation": "Domingo. In Malay and Indonesian, \"minggu\" came to mean the seven-day period, the week; it is one of the Portuguese loanwords in Malay."
     }
   },
   "correct": 1,
@@ -88,8 +98,12 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "estilo",
+      "notas": "explicação encurtada para 1–2 frases (migração v2); sem factos novos",
       "data": "2026-11-11"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "Portuguese words kept in the options with a short gloss; 'Feira' glossed as 'market day'."
     }
   },
   "estado": "em_verificacao",
@@ -150,6 +164,18 @@
       "evento": "migrada para v2",
       "agente": "orquestrador",
       "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Portuguese words kept in the options with a short gloss; 'Feira' glossed as 'market day'."
     }
   ]
 }

@@ -12,6 +12,16 @@
         "Entulho do incêndio de 64 d.C."
       ],
       "explanation": "De cacos de ânforas de azeite, deitadas fora na época imperial e vindas na grande maioria da Bética, no sul da Hispânia. Os romanos espalhavam cal sobre os cacos."
+    },
+    "en-US": {
+      "question": "Monte Testaccio in Rome is an artificial hill. What is it made of almost entirely?",
+      "options": [
+        "Foundry furnace slag",
+        "Wine amphora shards",
+        "Olive oil amphora shards",
+        "Rubble from the fire of A.D. 64"
+      ],
+      "explanation": "Olive oil amphora shards, discarded in the imperial era and coming mostly from Baetica, in southern Hispania. The Romans spread lime over the shards."
     }
   },
   "correct": 2,
@@ -81,6 +91,10 @@
       "alteracao_factual": false,
       "data": "2026-11-05",
       "notas": "Só estilo: vírgulas e ordem das palavras na explicação; subtema com dois pontos. Enunciado e opções inalterados. Originalidade decidida pelo agente originalidade (original, pesquisas completas)."
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "'cacos' translated as 'shards'."
     }
   },
   "estado": "em_verificacao",
@@ -207,6 +221,12 @@
       "evento": "migrada para v2",
       "agente": "orquestrador",
       "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "'cacos' translated as 'shards'."
     }
   ]
 }
