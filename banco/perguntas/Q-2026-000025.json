@@ -12,8 +12,8 @@
     "Morgado de Mateus"
   ],
   "correta": 3,
-  "explicacao": "Segundo Beatriz Peralta García, o Requiem em dó menor, op. 23, «À memória de Camões», de Bomtempo foi composto na sequência da edição de Os Lusíadas feita em Paris pelo diplomata Morgado de Mateus.",
-  "dificuldade_estimada": 3,
+  "explicacao": "Morgado de Mateus. Segundo Beatriz Peralta García, o Requiem em dó menor, op. 23, «À memória de Camões», de Bomtempo foi composto na sequência da edição de Os Lusíadas feita por ele em Paris.",
+  "dificuldade_estimada": 4,
   "fontes": [
     {
       "url": "https://livros.fcsh.unl.pt/cham/catalog/download/172/712/2021?inline=1",
@@ -66,11 +66,17 @@
       "notas": "Advogado (2.ª passagem): abriu o PDF do CHAM e confirmou a atribuição a Peralta García; e-cultura confirma o facto.",
       "data": "2026-11-11"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "explicação começa pela resposta; dificuldade 3→4",
+      "data": "2026-11-11"
+    }
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -98,6 +104,18 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: Morgado de Mateus; depois: Morgado de Mateus"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": []

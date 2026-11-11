@@ -41,10 +41,26 @@
       "excerto": "The results, published in Nature Communications, showed that frigatebirds could soar and glide with one or both sides of their brains asleep.",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.nationalgeographic.com/animals/article/swift-bird-10-month-migration",
+      "dominio": "nationalgeographic.com",
+      "titulo": "These Birds Fly Almost a Year Without Landing | National Geographic",
+      "nivel": 2,
+      "excerto": "This August, Niels Rattenborg of the Max Planck Institute for Ornithology in Germany proved that frigate birds ... do the same. He fitted brainwave sensors to 15 frigatebirds and showed that they sleep mid-flight",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "A fragata-grande",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "nationalgeographic.com",
+      "data": "2026-11-11",
+      "notas": "NatGeo (out. 2016) e ScienceAlert noticiam o mesmo estudo (contam como uma fonte n2). A espécie «fragata-grande» aparece no ScienceAlert/pesquisa; NatGeo diz só 'frigate birds'. Albatroz só hipótese noutras fontes, sem EEG."
+    },
     "advogado": null,
     "editor": null
   },
@@ -78,6 +94,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (1.º ciclo)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte nationalgeographic.com"
     }
   ],
   "etiquetas": []

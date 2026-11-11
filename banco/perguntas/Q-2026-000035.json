@@ -32,10 +32,26 @@
       "excerto": "der Untersee [...] und der sogenannte Konstanzer Trichter [sind] real geteilt. Das bedeutet, die Grenze zwischen Deutschland und der Schweiz verläuft dort genau in der Mitte.",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://vorarlberg.orf.at/v2/news/stories/2980956/",
+      "dominio": "orf.at",
+      "titulo": "Bodensee: Wasser ohne klare Grenzen - vorarlberg.ORF.at",
+      "nivel": 2,
+      "excerto": "der Untersee ... und der sogenannte Konstanzer Trichter real geteilt. Das bedeutet, die Grenze zwischen Deutschland und der Schweiz verläuft dort genau in der Mitte.",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "No Untersee (lago inferior)",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "orf.at",
+      "data": "2026-11-11",
+      "notas": "Só uma fonte de nível 2 aberta (ORF). Leitura «fronteira no meio da água»: só Untersee (e Konstanzer Trichter) tem fronteira acordada a meio; Obersee sem fronteira definida (linha mediana é teoria); baía de Bregenz é Áustria/Alemanha. ORF e Stuttgarter Zeitung dão a mesma frase (provável origem comum dpa/polícia fluvial?). Wikipédia concorda (tratados 1854 e 1878)."
+    },
     "advogado": null,
     "editor": null
   },
@@ -69,6 +85,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (1.º ciclo)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte orf.at"
     }
   ],
   "etiquetas": []

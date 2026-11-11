@@ -12,7 +12,7 @@
     "No Egito"
   ],
   "correta": 1,
-  "explicacao": "Janssen viajou até à Índia para observar um eclipse total do Sol e registou uma linha amarela inédita no espetro solar. Essa linha levaria à identificação do hélio, detetado no Sol antes de o ser na Terra.",
+  "explicacao": "Na Índia. Janssen viajou até lá para observar um eclipse total do Sol e registou uma linha amarela inédita no espetro solar. Essa linha levaria ao hélio, detetado no Sol antes de o ser na Terra.",
   "dificuldade_estimada": 3,
   "fontes": [
     {
@@ -66,11 +66,17 @@
       "notas": "Advogado (2.ª passagem): a pergunta pede onde Janssen estava; explicação neutra quanto a quem descobriu. Smithsonian só vista em resumo, não guardada.",
       "data": "2026-11-11"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "explicação reordenada",
+      "data": "2026-11-11"
+    }
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -110,6 +116,18 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: Na Índia; depois: Na Índia"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": [

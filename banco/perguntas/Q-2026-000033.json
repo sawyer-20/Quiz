@@ -4,7 +4,7 @@
   "tema": "historia",
   "subtema": "vida quotidiana",
   "formato": "escolha-multipla",
-  "enunciado": "Que objeto serviu de recibo fiscal no Tesouro inglês medieval e, queimado em 1834, deu origem ao incêndio do Parlamento de Westminster?",
+  "enunciado": "Que objeto serviu de recibo fiscal no Tesouro inglês medieval e, queimado em 1834, incendiou o Parlamento de Westminster?",
   "opcoes": [
     "Rolos de pergaminho selados com cera",
     "Varas de madeira entalhadas e partidas ao meio",
@@ -12,7 +12,7 @@
     "Tábuas de cera gravadas com estilete"
   ],
   "correta": 1,
-  "explicacao": "As «tallies» eram varas entalhadas e partidas em duas: uma metade ficava com o Tesouro, a outra com quem pagava. Em 1834 duas carroças delas foram queimadas nas fornalhas sob a Câmara dos Lordes e o fogo destruiu o Parlamento.",
+  "explicacao": "Varas de madeira entalhadas e partidas ao meio: uma metade ficava com o Tesouro, a outra com quem pagava. Em 1834 duas carroças dessas «tallies» foram queimadas nas fornalhas sob a Câmara dos Lordes e o fogo destruiu o Parlamento.",
   "dificuldade_estimada": 3,
   "fontes": [
     {
@@ -66,11 +66,17 @@
       "notas": "Advogado: «recibo fiscal», «duas carroças» e «fornalhas sob a Câmara dos Lordes» confirmados na History of Parliament; sem segunda resposta; sem sensibilidade (mais de 10 anos).",
       "data": "2026-11-11"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "enunciado encurtado; explicação começa pela resposta",
+      "data": "2026-11-11"
+    }
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -98,6 +104,18 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: Varas de madeira entalhadas e partidas ao meio; depois: Varas de madeira entalhadas e partidas ao meio"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": []

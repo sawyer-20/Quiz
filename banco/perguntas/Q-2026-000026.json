@@ -12,7 +12,7 @@
     "A costa a virar para norte e nordeste"
   ],
   "correta": 3,
-  "explicacao": "No Esmeraldo de Situ Orbis, Duarte Pacheco Pereira escreve que Bartolomeu Dias deu o nome de Cabo de Boa Esperança ao ver a costa virar para norte e nordeste, o que fazia esperar encontrar a Índia.",
+  "explicacao": "A costa a virar para norte e nordeste. No Esmeraldo de Situ Orbis, Duarte Pacheco Pereira escreve que foi por isso que Bartolomeu Dias deu ao cabo o nome de Boa Esperança: fazia esperar encontrar a Índia.",
   "dificuldade_estimada": 4,
   "fontes": [
     {
@@ -75,11 +75,17 @@
       "notas": "Advogado (2.ª passagem): leu o texto português do Esmeraldo (edição de 1892, livro III cap. 7): o sujeito de «lhe pôs nome» é Bartolomeu Dias; confirma «norte e nordeste» e «esperava-se descobrir a Índia». A pergunta atribui a Pacheco Pereira. Edição crítica da Gulbenkian não foi aberta.",
       "data": "2026-11-11"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "explicação reordenada",
+      "data": "2026-11-11"
+    }
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -119,6 +125,18 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: A costa a virar para norte e nordeste; depois: A costa a virar para norte e nordeste"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": []
