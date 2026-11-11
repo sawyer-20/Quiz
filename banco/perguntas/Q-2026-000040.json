@@ -6,13 +6,13 @@
   "formato": "escolha-multipla",
   "enunciado": "Para filmar o interior do submarino em «Das Boot» (1981), que dispositivo foi acrescentado à câmara Arriflex para a estabilizar?",
   "opcoes": [
-    "Carris fixos no teto",
+    "Giroscópios",
     "Amortecedores hidráulicos",
-    "Um contrapeso de chumbo",
-    "Giroscópios"
+    "Carris fixos no teto",
+    "Um contrapeso de chumbo"
   ],
-  "correta": 3,
-  "explicacao": "A Steadicam era grande de mais para passar nas escotilhas do cenário do submarino. O diretor de fotografia Jost Vacano montou giroscópios numa Arriflex, usada à mão, e filmou assim cerca de 90% do filme.",
+  "correta": 0,
+  "explicacao": "Segundo o diretor de fotografia Jost Vacano, a Steadicam era grande de mais para passar pelas portas de ligação do cenário do submarino. Por isso estabilizou com giroscópios uma Arriflex usada à mão.",
   "dificuldade_estimada": 3,
   "fontes": [
     {
@@ -32,26 +32,10 @@
       "excerto": "Steadicam existed in 1981, but the cameras were too cumbersome for this small space. We never could have gotten it through the hatches. Vacano had an Arriflex, and he added gyroscope to it to make the camera more stable.",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://uboat.net/special/movies/item/1",
-      "dominio": "uboat.net",
-      "titulo": "uboat.net - Naval Warfare Movies - Das Boot: The Director's Cut",
-      "nivel": 2,
-      "excerto": "Most of the shots were filmed using a hand-held Arriflex, with a gyroscope to provide stability. This was cinematographer Jost Vacano's design, a reinvention of the Steadicam on a smaller scale.",
-      "consultada_em": "2026-11-11",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Giroscópios",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "uboat.net",
-      "data": "2026-11-11",
-      "notas": "Só uboat.net (n2). ASC (520) e Metroactive (rede) não lidos. Outras opções sem apoio."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -79,6 +63,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte uboat.net"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo)"
     }
   ],
   "etiquetas": []

@@ -41,6 +41,15 @@
       "excerto": "A droplet of boiling water on a hot surface will sometimes levitate on a thin vapor film, a well-studied phenomenon called the Leidenfrost effect. Because it is suspended on a cushion of vapor, the droplet can move across the surface with little friction.",
       "consultada_em": "2026-11-11",
       "papel": "verificador"
+    },
+    {
+      "url": "https://arxiv.org/abs/1202.2157",
+      "dominio": "arxiv.org",
+      "titulo": "The Geometry of the Vapor Layer Under a Leidenfrost Drop",
+      "nivel": 1,
+      "excerto": "liquid drops deposited on a hot surface levitate on a thin vapor cushion fed by evaporation of the liquid.",
+      "consultada_em": "2026-11-11",
+      "papel": "advogado"
     }
   ],
   "verificacao": {
@@ -52,7 +61,11 @@
       "data": "2026-11-11",
       "notas": "MIT (universidade): gota levita sobre almofada de vapor. Britannica, APS, ScienceDirect 403."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "Advogado: Leidenfrost consensual; distratores sem apoio.",
+      "data": "2026-11-11"
+    },
     "editor": null
   },
   "sensivel_ao_tempo": false,
@@ -91,6 +104,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte mit.edu"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []

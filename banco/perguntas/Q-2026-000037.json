@@ -50,6 +50,15 @@
       "excerto": "This August, Niels Rattenborg of the Max Planck Institute for Ornithology in Germany proved that frigate birds ... do the same. He fitted brainwave sensors to 15 frigatebirds and showed that they sleep mid-flight",
       "consultada_em": "2026-11-11",
       "papel": "verificador"
+    },
+    {
+      "url": "https://www.audubon.org/news/scientists-finally-have-evidence-frigatebirds-sleep-while-flying",
+      "dominio": "audubon.org",
+      "titulo": "Scientists Finally Have Evidence That Frigatebirds Sleep While Flying",
+      "nivel": 2,
+      "excerto": "All of the sleep recorded in the study occurred during the upwards-circling portion of the flight; the birds didn't sleep at all while gliding down.",
+      "consultada_em": "2026-11-11",
+      "papel": "advogado"
     }
   ],
   "verificacao": {
@@ -61,7 +70,11 @@
       "data": "2026-11-11",
       "notas": "NatGeo (out. 2016) e ScienceAlert noticiam o mesmo estudo (contam como uma fonte n2). A espécie «fragata-grande» aparece no ScienceAlert/pesquisa; NatGeo diz só 'frigate birds'. Albatroz só hipótese noutras fontes, sem EEG."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "Advogado: leu o artigo original; confirma «primeira vez», sono com um hemisfério ou os dois, sobretudo em correntes ascendentes; a função de ver para onde vão é sugestão dos autores, atribuída na explicação. Nenhuma outra ave com EEG em voo.",
+      "data": "2026-11-11"
+    },
     "editor": null
   },
   "sensivel_ao_tempo": false,
@@ -100,6 +113,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte nationalgeographic.com"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []

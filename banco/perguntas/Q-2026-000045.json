@@ -6,13 +6,13 @@
   "formato": "escolha-multipla",
   "enunciado": "Na Biblioteca Joanina, em Coimbra, as mesas são cobertas com couro no fim de cada dia. Para as proteger de quê?",
   "opcoes": [
-    "Do pó levantado pelos visitantes",
-    "Da luz solar que entra pelas janelas",
     "Da humidade do rio Mondego",
-    "Dos dejetos dos morcegos que lá vivem"
+    "Do pó levantado pelos visitantes",
+    "Dos dejetos dos morcegos que lá vivem",
+    "Da luz solar que entra pelas janelas"
   ],
-  "correta": 3,
-  "explicacao": "A biblioteca abriga colónias de morcegos que contribuem para o controlo de pragas de insetos. Como os dejetos danificam a madeira, as mesas são cobertas com «toalhas» de couro ao fim do dia e destapadas na manhã seguinte.",
+  "correta": 2,
+  "explicacao": "Segundo a Universidade de Coimbra, vivem morcegos na biblioteca, por isso as mesas são cobertas com «toalhas» de couro no fim de cada dia, para impedir os danos causados pelos dejetos dos animais.",
   "dificuldade_estimada": 3,
   "fontes": [
     {
@@ -32,26 +32,10 @@
       "excerto": "Há registos da compra de peles, em finais do século XVIII, para proteger as mesas dos dejetos dos morcegos. [...] cobrir de peles todas as mesas, ao final, e destapá-las na manhã seguinte, limpando os dejetos dos morcegos.",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://www.centerofportugal.com/poi/joanine-library",
-      "dominio": "centerofportugal.com",
-      "titulo": "Joanine Library - Coimbra University | Center of Portugal",
-      "nivel": 2,
-      "excerto": "At night, after the library is closed, a bat colony helps maintaining the books by eating bugs. The tables are covered with furs in order to protect them from their excrements.",
-      "consultada_em": "2026-11-11",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Dos dejetos dos morcegos que lá vivem",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "centerofportugal.com",
-      "data": "2026-11-11",
-      "notas": "Fontes de turismo/imprensa regional (n2): Notícias de Coimbra «cobrir à noite as mesas do século XVIII com tecido feito de pele de animal». Fontes dizem 'peles' em vez de 'couro' e 'à noite' em vez de 'no fim de cada dia'. Pó, humidade e luz solar não aparecem como motivo. PT n1 abertas: nenhuma."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -79,6 +63,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte centerofportugal.com"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo)"
     }
   ],
   "etiquetas": []

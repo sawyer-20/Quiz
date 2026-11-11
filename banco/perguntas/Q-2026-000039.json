@@ -4,15 +4,15 @@
   "tema": "desporto",
   "subtema": "recordes",
   "formato": "escolha-multipla",
-  "enunciado": "Até ao fim de 2025, em qual destas provas femininas de pista estava o recorde mundial mais antigo ainda em vigor?",
+  "enunciado": "Até ao fim de 2025, em qual destas provas femininas de pista ao ar livre estava o recorde mundial mais antigo em vigor?",
   "opcoes": [
+    "400 metros",
     "800 metros",
     "200 metros",
-    "400 metros",
     "1500 metros"
   ],
-  "correta": 0,
-  "explicacao": "O recorde dos 800 m (1:53.28) é de Jarmila Kratochvílová, em Munique, a 26 de julho de 1983, e é o recorde individual mais antigo do atletismo. O dela nos 400 m caiu dois anos depois, batido por Marita Koch.",
+  "correta": 1,
+  "explicacao": "O recorde dos 800 m (1:53.28), de Jarmila Kratochvílová, em Munique, a 26 de julho de 1983, era o recorde mundial ao ar livre mais antigo do atletismo. O dela nos 400 m (47.99) foi batido dois anos depois por Marita Koch.",
   "dificuldade_estimada": 3,
   "fontes": [
     {
@@ -41,26 +41,10 @@
       "excerto": "Jarmila Kratochvílová's 800m mark of 1:53.28 was set 40 years ago [...] it remains the oldest outdoor world record in the book.",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://en.wikipedia.org/wiki/Jarmila_Kratochv%C3%ADlov%C3%A1",
-      "dominio": "wikipedia.org",
-      "titulo": "Jarmila Kratochvílová - Wikipedia",
-      "nivel": 2,
-      "excerto": "In 1983, she set the world record for the 800 metres, which still stands and is currently the longest-standing world record in athletics.",
-      "consultada_em": "2026-11-11",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "800 metros",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "wikipedia.org",
-      "data": "2026-11-11",
-      "notas": "ATENÇÃO PARA O ADVOGADO: fonte é Wikipédia (só pista); sem 2.ª fonte aberta (Britannica 403, olympics.com timeout); 400 m de Koch é de outubro de 1985 (mais recente); 200 m (1988) e 1500 m (batido em 2015) só vistos em resultados de pesquisa. Falta 2.ª fonte para datas (regra 4)."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -88,6 +72,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte wikipedia.org"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo)"
     }
   ],
   "etiquetas": [

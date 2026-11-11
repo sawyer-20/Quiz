@@ -57,8 +57,8 @@
   },
   "sensivel_ao_tempo": true,
   "valida_ate": "2027-11-11",
-  "estado": "em_verificacao",
-  "motivo_rejeicao": null,
+  "estado": "rejeitada",
+  "motivo_rejeicao": "2.º ciclo de correção esgotado (regra 14): opção «No Obersee» defensável (o Konstanzer Trichter, dividido a meio, pertence ao Obersee) e a explicação contradiz-se; evitar «Obersee» como distrator se o alvo for retomado",
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
   "historico": [
@@ -91,6 +91,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte orf.at"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "rejeitada",
+      "agente": "advogado-do-diabo",
+      "nota": "2.º ciclo de correção esgotado (regra 14): opção «No Obersee» defensável (o Konstanzer Trichter, dividido a meio, pertence ao Obersee) e a explicação contradiz-se; evitar «Obersee» como distrator se o alvo for retomado"
     }
   ],
   "etiquetas": []

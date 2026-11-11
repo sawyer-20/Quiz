@@ -4,15 +4,15 @@
   "tema": "desporto",
   "subtema": "modalidades fora do futebol",
   "formato": "escolha-multipla",
-  "enunciado": "Nas primeiras leis do râguebi, o que ganhava uma equipa ao pousar a bola para lá da linha de ensaio?",
+  "enunciado": "Segundo as leis de 1845 da Rugby School, o que ganhava uma equipa ao pousar a bola para lá da linha de ensaio?",
   "opcoes": [
     "O direito a tentar um pontapé à baliza",
-    "Um pontapé de penalidade",
+    "Dois pontos",
     "Um ponto",
-    "Dois pontos"
+    "Um pontapé de penalidade"
   ],
   "correta": 0,
-  "explicacao": "Nas primeiras leis o ensaio (try) não valia pontos: só dava direito a tentar converter com um pontapé à baliza. Só os pontapés marcavam, e daí o nome «try», tentativa.",
+  "explicacao": "Nas leis de 1845 pousar a bola não dava pontos: dava direito a um «try at goal», uma tentativa de pontapé à baliza. Só os golos marcavam. O ensaio só passou a valer pontos mais tarde, a partir de 1886.",
   "dificuldade_estimada": 2,
   "fontes": [
     {
@@ -32,26 +32,10 @@
       "excerto": "The word 'try' meant just that. If a team got themselves over the line, they had the chance to try to get points by converting the kick at goal.",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://www.rugbyfootballhistory.com/scoring.htm",
-      "dominio": "rugbyfootballhistory.com",
-      "titulo": "Rugby Football History - Scoring through the ages",
-      "nivel": 2,
-      "excerto": "In early rugby as played at rugby school, the only scores came from goals and there was no points value associated with scoring. The 1845 rules stated that ... a \"TRY at goal\" had to be earned by touching the ball down between the posts.",
-      "consultada_em": "2026-11-11",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "O direito a tentar um pontapé à baliza",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "rugbyfootballhistory.com",
-      "data": "2026-11-11",
-      "notas": "AMBIGUIDADE ASSINALADA PELO VERIFICADOR (para o advogado): em 1886 o ensaio passou a valer 1 ponto (por isso «Um ponto» seria certo nessa fase, não nas primeiras leis de 1845/1871); «Dois pontos» só em 1891. Só uma fonte lida (n2); bathrugbyheritage 403. Pontapé de penalidade só mais tarde."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -79,6 +63,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte rugbyfootballhistory.com"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo)"
     }
   ],
   "etiquetas": []
