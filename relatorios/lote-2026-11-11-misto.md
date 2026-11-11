@@ -5,7 +5,7 @@
 - 20 alvos (4 retomados + 16 novos), 25 perguntas criadas, **16 aprovadas** e 9 rejeitadas. Aprovadas por alvo: 16 de 20.
 - Aprovadas: Q24, Q25, Q26, Q30, Q31, Q32, Q33, Q36, Q37, Q38, Q39, Q40, Q43, Q45, Q47, Q48. **Tema `portugal`: 4 aprovadas** (Q26, Q30, Q31, Q45; meta ≥4, cumprida), mais Q25 (música portuguesa).
 - Rejeitadas: Q27 (retoma do Coubertin, 2.º ciclo), Q28 (Elevador da Glória: acidente com mortos em 2025), Q29 (fonte do verificador igual à do pesquisador), Q35 (opção «Obersee» defensável), Q34 (cópia: mesmo conjunto de opções que um quiz), Q41, Q42, Q44, Q46 (quota de clássicos do lote, regra 16).
-- Fáceis (d1–2): 4 (Q31 trocou de 2 para 3 no editor; ficam Q36, Q38 e mais duas de dificuldade 2) — rever na calibração.
+- Dificuldade das aprovadas: d2: 2 (Q36, Q38), d3: 10, d4: 4. **Fáceis (d1–2): só 2 de 16** (o plano previa 7): os alvos fáceis falharam (alvo 12 três vezes, Q44 e Q46 por clássicos, Q31 e Q25 subiram no editor).
 - Fonte de nível 1 do pesquisador: 21 de 25 (84%); nas aprovadas, 14 de 16 (88%).
 - **Clássicos: 2 de 16 não rejeitadas (12%; meta ≤20%, cumprida). No banco inteiro: 8 de 27 aprovadas (30%)**; a quota só se aplica a partir de 100.
 - Tempo de agentes por pergunta aprovada: **5,7 min** (90,6 min em 65 invocações, correções incluídas). **Tempo de relógio do lote: 4,9 h**, com uma pausa por limite de utilização.
@@ -15,7 +15,7 @@
 
 - A **independência da verificação** falhou várias vezes: o verificador devolveu o mesmo artigo republicado noutro domínio (Q30: BiblioAsia/Embaixada; Q37: Nature/PMC) ou o mesmo artigo do pesquisador (Q29). O advogado apanhou-os; a regra de domínios não chega.
 - **Sensibilidade só apanhada no advogado:** Q28 (acidente do elevador) passou pesquisador, originalidade e verificador. Proponho verificar «tragédia recente» já no passo 0.
-- **Verificação fraca em factos de nicho:** 11 das 16 aprovadas têm a fonte do verificador só de nível 2 e confiança média (Q39, Q40, Q45 e Q48 sem nível 1 de ponta a ponta).
+- **Verificação fraca em factos de nicho:** em 11 das 16 aprovadas a fonte do verificador é de nível 2 ou a confiança é média (9 de nível 2; 10 com confiança média). Q40 (*Das Boot*) não tem nenhuma fonte de nível 1.
 - O editor acrescentou um ponto final a uma opção (Q36); corrigi antes de aprovar. O texto das opções não pode mudar.
 - Alvo 12 (geografia fácil) falhou 3 vezes (cópia, clássico, clássico) e ficou por preencher.
 - A **edição crítica do *Esmeraldo* (Gulbenkian) não abriu**: Q26 apoia-se no texto português de 1892 (archive.org), que o advogado leu.
