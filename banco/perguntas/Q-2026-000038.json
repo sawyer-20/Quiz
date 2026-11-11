@@ -21,7 +21,7 @@
         "One point",
         "A penalty kick"
       ],
-      "explanation": "The right to a «try at goal,» a kick at the goal: under the 1845 laws, grounding the ball scored no points, and only goals counted. A try only became worth points later, starting in 1886."
+      "explanation": "The right to a \"try at goal,\" a kick at the goal: under the 1845 laws, grounding the ball scored no points, and only goals counted. A try only became worth points later, starting in 1886."
     }
   },
   "correct": 0,
@@ -172,6 +172,12 @@
       "evento": "conferência recusada",
       "agente": "conferente",
       "nota": "[{\"onde\": \"explicação\", \"idioma\": \"en-US\", \"detalhe\": \"«try at goal,» com aspas angulares e vírgula fora das aspas: calque da pontuação portuguesa\"}]"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "correção de formato aplicada",
+      "agente": "tradutor",
+      "nota": "pontuação/separador decimal apontados pelo conferente; sem mudança factual"
     }
   ]
 }

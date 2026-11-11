@@ -11,7 +11,7 @@
         "200 metros",
         "1500 metros"
       ],
-      "explanation": "Os 800 m: o recorde (1:53.28) de Jarmila Kratochvílová, em Munique, a 26 de julho de 1983, era o mais antigo ao ar livre do atletismo. O dela nos 400 m (47.99) foi batido dois anos depois por Marita Koch."
+      "explanation": "Os 800 m: o recorde (1:53,28) de Jarmila Kratochvílová, em Munique, a 26 de julho de 1983, era o mais antigo ao ar livre do atletismo. O dela nos 400 m (47,99) foi batido dois anos depois por Marita Koch."
     },
     "en-US": {
       "question": "As of the end of 2025, which of these women's outdoor track events had the oldest world record still standing?",
@@ -181,6 +181,12 @@
       "evento": "conferência recusada",
       "agente": "conferente",
       "nota": "[{\"onde\": \"explicação\", \"idioma\": \"pt-PT\", \"detalhe\": \"tempos com ponto decimal à inglesa (1:53.28, 47.99); em pt-PT a vírgula\"}]"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "correção de formato aplicada",
+      "agente": "tradutor",
+      "nota": "pontuação/separador decimal apontados pelo conferente; sem mudança factual"
     }
   ],
   "etiquetas": [
