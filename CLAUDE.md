@@ -49,6 +49,15 @@ ficheiros e nunca tomas decisões de produto sozinho.
     registado em `verificacao`.
 14. **Um ciclo de correção por pergunta, na produção.** Uma pergunta reaberta por mudança
     de regra ou por auditoria tem direito a um ciclo novo.
+15. **Alvos a retomar.** Uma pergunta não clássica que esgota o ciclo de correção gera um
+    alvo a retomar no lote seguinte, **uma única vez**, com ângulo novo e as notas do
+    advogado. A lista está em `relatorios/alvos-a-retomar.md`. Um alvo já retomado que
+    volta a falhar não regressa à lista.
+16. **Clássicos no plano do lote.** Pelo menos 8 em cada 10 alvos têm ângulo não clássico.
+    Quando o lote já tem 2 clássicos, um clássico novo é trocado por outro alvo logo a
+    seguir à originalidade, antes da verificação.
+17. **Mudanças ao motor entram por pedido de merge para o `main`** (regras, agentes,
+    skills, scripts). O banco e os relatórios de lote seguem no ramo de trabalho.
 
 ## Onde estão as coisas
 
@@ -59,13 +68,18 @@ ficheiros e nunca tomas decisões de produto sozinho.
 - `banco/reportes.csv` — reportes de erro dos jogadores (`pergunta_id,data,jogador_id,texto`).
 - `relatorios/` — relatórios de lote, auditoria e manutenção.
 - `regras/fontes.md` — hierarquia de fontes.
+- `regras/fontes-pt.md` — fontes portuguesas de nível 1 que os agentes já conseguiram abrir
+  (e as que recusam); o pesquisador começa por aqui nas perguntas de tema `portugal`.
+- `relatorios/alvos-a-retomar.md` — alvos que voltam uma vez ao lote seguinte.
 - `scripts/validar.py` — validação automática.
   `python3 scripts/validar.py --dominio <url>` devolve o domínio a registar numa fonte.
 - `scripts/aprovar.py` — a única forma de aprovar (corre o `validar.py`).
 - `scripts/ler_url.py` — leitor de páginas dos agentes (só http/https públicos; lê HTML,
   texto e PDF); `scripts/testar_ler_url.py` testa as recusas e as leituras.
 - `scripts/testar_validar.py` — testes das regras de texto do `validar.py`.
-- `scripts/estatisticas_lote.py` — números do relatório de um lote.
+- `scripts/estatisticas_lote.py` — números do relatório de um lote (tempo de agentes, tempo
+  de relógio e percentagem de clássicos no banco inteiro).
+- `scripts/registar_tempo.py` — acrescenta uma linha ao registo de tempos do lote.
 - `scripts/calibrar.py` — dificuldade real e perguntas suspeitas a partir das respostas.
 - `scripts/simular_respostas.py` — gera respostas fictícias para testar o calibrador.
 
@@ -98,6 +112,7 @@ número existente em `banco/perguntas/` e em `exemplos/`.
 ## Relatórios
 
 Curtos, em pt-PT, para ler em 2 minutos: números primeiro (incluindo o tempo de agentes
-por pergunta aprovada, sem pausas, e a percentagem de perguntas com fonte de nível 1 do
+por pergunta aprovada, sem pausas, o tempo de relógio do lote, a percentagem de clássicos
+no lote e no banco inteiro e a percentagem de perguntas com fonte de nível 1 do
 pesquisador), depois os canários, os problemas e as decisões que o Andre tem de tomar.
 Nunca mais de uma página.

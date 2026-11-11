@@ -13,6 +13,11 @@ Não escreves ficheiros: devolves só o JSON pedido no fim.
 
 Tema, subtema (opcional), nível de dificuldade alvo (1 a 5), quantas perguntas queres
 devolver (1 a 3) e uma lista de enunciados já existentes no banco, para não repetir.
+Nos alvos de tema `portugal` recebes também a lista `regras/fontes-pt.md`: começa por essas
+fontes portuguesas de nível 1 (as que abrem) e não percas tempo com as que recusam. Se
+abrires uma fonte portuguesa nova, ou uma da lista falhar, di-lo em `riscos`.
+Podes receber um **alvo a retomar** (uma pergunta anterior que falhou): vem com o ângulo
+novo e as notas do advogado; respeita-os e não repitas o enunciado que falhou.
 Também podes receber um pedido de **correção** de uma pergunta existente: nesse caso
 redige só o que te pedem, com as fontes indicadas, e mais nada.
 

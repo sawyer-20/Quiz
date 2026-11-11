@@ -9,9 +9,10 @@ Argumentos (todos opcionais): `tema` (um dos temas do esquema; por defeito, mist
 `subtema`, `n` (por defeito 10) e `mistura` de dificuldade (por defeito 30% fáceis 1–2,
 40% médias 3, 30% difíceis 4–5).
 
-Lê primeiro `CLAUDE.md` e `regras/fontes.md`. Os agentes não leem ficheiros: em cada
-invocação de um agente que pesquisa, inclui no pedido o texto completo de
-`regras/fontes.md`.
+Lê primeiro `CLAUDE.md`, `regras/fontes.md` e `relatorios/alvos-a-retomar.md`. Os agentes
+não leem ficheiros: em cada invocação de um agente que pesquisa, inclui no pedido o texto
+completo de `regras/fontes.md` e, nos alvos de tema `portugal`, também o de
+`regras/fontes-pt.md` (o pesquisador começa por essas fontes).
 
 **Linha:** pesquisador → originalidade → verificador às cegas → advogado do diabo →
 editor → `scripts/aprovar.py`. Nenhum passo se salta.
@@ -22,8 +23,13 @@ editor → `scripts/aprovar.py`. Nenhum passo se salta.
 - Só o `scripts/aprovar.py` aprova. Nunca escreves `estado: "aprovada"` à mão.
 - Se uma etapa for interrompida (limite de utilização, erro), a pergunta fica em
   `em_verificacao` e retoma-se essa etapa; nunca se dá a etapa por feita.
-- Regista cada invocação de agente em `relatorios/<lote>-tempos.csv`
-  (`agente,refs,duracao_ms`, com a duração que a notificação do agente indica).
+- Regista **todas** as invocações de agente, incluindo as de correção (pesquisador a
+  corrigir, segundas passagens do advogado, verificações repetidas), com
+  `python3 scripts/registar_tempo.py <lote> <agente> <refs> <duracao_ms>` (a duração que a
+  notificação do agente indica). Antes do relatório, confirma que há uma linha por
+  notificação de agente recebida.
+- Regista o tempo de relógio: no passo 0 escreve `relatorios/<lote>-relogio.txt` com
+  `inicio=<hora UTC ISO 8601>` e, ao gravar o relatório, acrescenta `fim=<…>`.
 - Se os agentes do motor não estiverem registados na sessão, lança-os como
   `general-purpose` com o texto integral do ficheiro do agente e cria
   `.claude/hooks/LOTE_ATIVO` durante o lote (o travão passa a proteger também os agentes
@@ -37,8 +43,11 @@ editor → `scripts/aprovar.py`. Nenhum passo se salta.
 2. Lista os enunciados existentes (`banco/perguntas/*.json` e `exemplos/*.json`) para
    evitar repetições, e o maior número de id em uso.
 3. Define o nome do lote: `lote-AAAA-MM-DD-<tema>` (acrescenta `-2`, `-3` se já existir).
-4. Planeia os `n` alvos: tema, subtema e dificuldade de cada um, variados. Planeia
-   também **2 alvos extra para canários** (ver passo 1).
+4. Planeia os `n` alvos: tema, subtema e dificuldade de cada um, variados. Entram primeiro
+   os **alvos a retomar** de `relatorios/alvos-a-retomar.md` (com o ângulo novo e as notas
+   do advogado; cada um só uma vez) e os alvos fixados pelo Andre. **Pelo menos 8 em cada
+   10 alvos têm ângulo não clássico** (regra 16); escreve no plano qual é o ângulo.
+   Planeia também **2 alvos extra para canários** (ver passo 1).
 5. Cria já `relatorios/<lote>.md` com uma secção `## Canários` vazia.
 
 ## 1. Pesquisador
@@ -78,6 +87,9 @@ opções; sem indicar a certa). Os canários não passam por aqui.
   `classico com dificuldade alta` e o alvo volta ao passo 1. A percentagem de clássicos
   no lote é um indicador do pesquisador (meta: até 20%), não um bloqueio; a quota de 20%
   conta sobre o banco e o `aprovar.py` aplica-a a partir de 100 perguntas.
+  **Regra 16:** quando o lote já tem 2 clássicos, um clássico novo é trocado por outro
+  alvo (novo pedido ao pesquisador, com ângulo não clássico) já aqui, antes da
+  verificação; o rejeitado fica com motivo `quota de clássicos do lote`.
 - `original`: segue.
 - `completa: false` (pesquisas interrompidas): a pergunta fica em `em_verificacao` e o
   passo repete-se para ela antes de avançar.
@@ -117,11 +129,14 @@ Invoca o agente `advogado-do-diabo` com blocos de até 5 rascunhos completos (in
 resposta e as fontes do pesquisador e do verificador).
 
 - `aprovado: true`: preenche `verificacao.advogado` e segue.
-- Algum problema `bloqueia`: rejeita com o motivo.
+- Algum problema `bloqueia`: rejeita com o motivo. Se a pergunta não é clássica e esgotou
+  o ciclo de correção, acrescenta-a a `relatorios/alvos-a-retomar.md` (regra 15), a menos
+  que o alvo já seja um alvo retomado.
 - Só problemas `corrigivel` com `reformulacao_sugerida`: aplica **exatamente** a
   reformulação do advogado (não escreves texto teu) e volta ao passo 3 (nova verificação
   às cegas) e depois a este passo. Só há **um** ciclo de correção por pergunta; à
-  segunda, rejeita. (Uma pergunta reaberta por mudança de regra ou por auditoria tem
+  segunda, rejeita e, se não é clássica, regista-a em `relatorios/alvos-a-retomar.md`
+  (regra 15; só uma retoma por alvo). (Uma pergunta reaberta por mudança de regra ou por auditoria tem
   direito a um ciclo novo.)
 - `fontes_substitutas` ou outra correção só de fontes: aplica-a e volta a invocar o
   advogado sobre a versão corrigida (sem nova verificação às cegas se o texto não mudou).
@@ -159,7 +174,8 @@ Corre `python3 scripts/estatisticas_lote.py <lote>` e grava `relatorios/<lote>.m
 página):
 
 - números: alvos, perguntas criadas, aprovadas, rejeitadas por etapa e por motivo,
-  clássicos (indicador: meta até 20% do lote), **percentagem de perguntas com fonte de
+  clássicos no lote (indicador: meta até 20%) **e no banco inteiro**
+  (`estatisticas_lote.py` calcula ambos), tempo de relógio do lote, **percentagem de perguntas com fonte de
   nível 1 do pesquisador** e **tempo de agentes por pergunta aprovada (sem pausas)**;
 - **fontes portuguesas de nível 1**: quais os agentes conseguiram abrir e quais recusaram
   (403, 429, erro de rede, PDF ilegível); pede a cada agente que as liste nas `notas`;
@@ -170,4 +186,5 @@ página):
   certa assinalada, explicação e fontes; pede-lhe um veredicto por pergunta
   ("incrível", "boa", "fraca").
 
-Mostra ao Andre o resumo e as 5 perguntas na conversa. Não publiques nada sem ordem dele.
+Atualiza `relatorios/alvos-a-retomar.md` (retomados que passaram, retomados que falharam e
+novos alvos a retomar). Mostra ao Andre o resumo e as 5 perguntas na conversa. Não publiques nada sem ordem dele.
