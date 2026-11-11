@@ -41,10 +41,26 @@
       "excerto": "Pierre-Jules-César Janssen (1824-1907), first obtained evidence for the existence of helium during the solar eclipse of 1868 in India when he detected a new yellow line (587.49 nm) in the solar spectrum",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2401.15998",
+      "dominio": "arxiv.org",
+      "titulo": "In pursuit of the Sun, from Jules Janssen to the present day (arXiv, investigadores do Observatório de Meudon)",
+      "nivel": 1,
+      "excerto": "Janssen thus created a second revolution during the eclipse of 18 August 1868 in India, at Guntoor, when he demonstrated, with Norman Lockyer, the possibility of observing prominences at any time",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Na Índia",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "arxiv.org",
+      "data": "2026-11-11",
+      "notas": "2.ª fonte: Smithsonian Magazine (n2): Guntur, Índia, eclipse de 18/08/1868. Sem fontes PT n1 abertas."
+    },
     "advogado": null,
     "editor": null
   },
@@ -66,6 +82,12 @@
       "evento": "originalidade: classico",
       "agente": "originalidade",
       "nota": "Facto conhecido em quizzes como pergunta sobre o elemento/descobridor; sem pergunta do local nem este conjunto de opções; classico por prudência."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte arxiv.org"
     }
   ],
   "etiquetas": [

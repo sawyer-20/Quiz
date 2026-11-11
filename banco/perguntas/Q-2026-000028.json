@@ -41,10 +41,26 @@
       "excerto": "funcionou numa primeira fase com base num sistema de contrapeso de água [...]. Mais tarde, passou à locomoção a vapor e, em 1914, tornou-se eléctrico.",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://fugas.publico.pt/Viagens/354478_leva-me-ate-ao-topo-da-colina",
+      "dominio": "publico.pt",
+      "titulo": "Leva-me até ao topo da colina (Fugas, Público)",
+      "nivel": 2,
+      "excerto": "Na altura, o ascensor funcionava com um sistema de contrapeso de água ... [depois] foi dotado de um motor a vapor e depois electrificado em 1914.” (Susana Fonseca, Museu da Carris)",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Por contrapeso de água",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "publico.pt",
+      "data": "2026-11-11",
+      "notas": "2.ª fonte: Wikipédia EN (pista): water balance, 24/10/1885, vapor em 1886. Outras opções sem apoio. SIPA (monumentos.gov.pt) não resolveu; wikiwand 403."
+    },
     "advogado": null,
     "editor": null
   },
@@ -66,6 +82,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "Nenhum quiz com esta pergunta ou opções."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte publico.pt"
     }
   ],
   "etiquetas": []

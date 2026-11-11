@@ -41,10 +41,26 @@
       "excerto": "Messe de requiem : à quatre voix, choeurs, et grand orchestre avec accompagnement de piano à défaut d'orchestre : Ouvrage consacré à la mémoire de Camões. Opus/Número do catálogo Op.23",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.e-cultura.pt/artigo/20022",
+      "dominio": "e-cultura.pt",
+      "titulo": "Requiem Op. 23, À memória de Camões (e-cultura)",
+      "nivel": 2,
+      "excerto": "aproveitando o renascimento camoneano iniciado com a edição monumental d'Os Lusíadas promovida pelo Morgado de Mateus (Paris, Firmin Didot, 1817)",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Morgado de Mateus",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "e-cultura.pt",
+      "data": "2026-11-11",
+      "notas": "NÃO confirmou a atribuição «Segundo Beatriz Peralta García» (não encontrou texto dela; rpm-ns.pt não a refere). O facto (edição promovida pelo Morgado de Mateus, diplomata) está confirmado por e-cultura. Pombal morreu em 1782. Fontes PT n1: nenhuma aberta; luisdecamoes.pt erro SSL."
+    },
     "advogado": null,
     "editor": null
   },
@@ -66,6 +82,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "Nenhum quiz com este facto, enunciado ou opções."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte e-cultura.pt"
     }
   ],
   "etiquetas": []

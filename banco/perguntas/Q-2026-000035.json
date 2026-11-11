@@ -1,0 +1,57 @@
+{
+  "id": "Q-2026-000035",
+  "lingua": "pt-PT",
+  "tema": "geografia",
+  "subtema": "fronteiras",
+  "formato": "escolha-multipla",
+  "enunciado": "No lago de Constança (Bodensee), em que parte a fronteira Alemanha–Suíça segue a linha mediana do lago?",
+  "opcoes": [
+    "No Untersee (lago inferior)",
+    "Na baía de Bregenz",
+    "No Überlinger See",
+    "No Obersee, em águas profundas"
+  ],
+  "correta": 0,
+  "explicacao": "Só no Untersee e no «funil de Constança» a fronteira germano-suíça corre pelo meio da água. No Obersee, a parte maior, o traçado nunca foi fixado: o tratado em vigor diz que não o altera.",
+  "dificuldade_estimada": 3,
+  "fontes": [
+    {
+      "url": "https://www.swisstopo.admin.ch/dam/de/sd-web/4iUPkuHZaJyK/Vertrag%20Landesgrenze%20CH-D.pdf",
+      "dominio": "admin.ch",
+      "titulo": "Tratado Alemanha–Suíça sobre a fronteira de Constança a Basileia (texto no swisstopo), art. 3",
+      "nivel": 1,
+      "excerto": "Der Verlauf der Staatsgrenze im Obersee des Bodensees wird durch diesen Vertrag nicht berührt. [...] Die beweglichen Teile der Staatsgrenze verlaufen entlang der Mittellinie des Untersees des Bodensees, des Rheins [...]",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.stuttgarter-zeitung.de/lokales/baden-wuerttemberg/voelkerrecht-wem-gehoert-eigentlich-der-bodensee-79136339.html",
+      "dominio": "stuttgarter-zeitung.de",
+      "titulo": "Völkerrecht: Wem gehört eigentlich der Bodensee? (Stuttgarter Zeitung/dpa, 2019)",
+      "nivel": 2,
+      "excerto": "der Untersee [...] und der sogenannte Konstanzer Trichter [sind] real geteilt. Das bedeutet, die Grenze zwischen Deutschland und der Schweiz verläuft dort genau in der Mitte.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": true,
+  "valida_ate": "2027-11-11",
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "N1: swisstopo (PDF do tratado). ris.bka.gv.at 503, blick.ch 403. 2.ª fonte é imprensa n2. «Lago inferior» pode confundir-se com Überlinger See. Novo tratado germano-suíço em preparação (Obersee continua por fixar)."
+    }
+  ],
+  "etiquetas": []
+}

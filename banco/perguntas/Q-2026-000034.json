@@ -1,0 +1,57 @@
+{
+  "id": "Q-2026-000034",
+  "lingua": "pt-PT",
+  "tema": "geografia",
+  "subtema": "rios e lagos",
+  "formato": "escolha-multipla",
+  "enunciado": "Qual destes lagos é o mais profundo do mundo?",
+  "opcoes": [
+    "Lago Vitória",
+    "Lago Baikal",
+    "Lago Superior",
+    "Lago Titicaca"
+  ],
+  "correta": 1,
+  "explicacao": "O Baikal, na Sibéria, é o lago mais profundo do mundo, com cerca de um quilómetro e meio de fundo. Contém um volume de água equivalente ao de todos os Grandes Lagos da América do Norte juntos.",
+  "dificuldade_estimada": 1,
+  "fontes": [
+    {
+      "url": "https://whc.unesco.org/en/list/754/",
+      "dominio": "unesco.org",
+      "titulo": "Lake Baikal - UNESCO World Heritage Centre",
+      "nivel": 1,
+      "excerto": "Lake Baikal is the oldest (25 million years) and deepest (1,700 m) lake in the world. It contains 20% of the world's total unfrozen freshwater reserve.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.usgs.gov/water-science-school/science/lakes-and-reservoirs",
+      "dominio": "usgs.gov",
+      "titulo": "Lakes and Reservoirs - U.S. Geological Survey",
+      "nivel": 1,
+      "excerto": "Lake Baikal is the world's oldest, largest, and deepest freshwater lake. Nearly a mile deep and holding over 23,000 cubic kilometers water, a volume equivalent to the total volume of all the Great Lakes of North America.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Facto clássico (dificuldade 1). Profundidade diverge entre fontes (1637–1741 m); «cerca de um quilómetro e meio» é aproximação do pesquisador. icpdr.org ENOTFOUND."
+    }
+  ],
+  "etiquetas": []
+}

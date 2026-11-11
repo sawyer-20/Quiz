@@ -32,10 +32,26 @@
       "excerto": "Norbert Müller … wrote: \"the pseudonyms Hohrod and Eschbach were the names of two neighboring villages of the native village of Coubertin's wife, Luttenbach, near Colmar\".",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://de.wikipedia.org/wiki/Ode_an_den_Sport",
+      "dominio": "wikipedia.org",
+      "titulo": "Ode an den Sport (Wikipédia alemã)",
+      "nivel": 2,
+      "excerto": "1990 wurden Hohrod und Eschbach-au-Val – zwei Nachbargemeinden des Heimatortes von Coubertins Ehefrau Marie Rothan (1861–1963), Luttenbach-près-Munster – als Namensgeber der Autorschaft identifiziert.",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "De duas aldeias vizinhas da terra natal da sua mulher",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "wikipedia.org",
+      "data": "2026-11-11",
+      "notas": "AMBIGUIDADE ASSINALADA PELO VERIFICADOR (para o advogado): a fonte principal é Wikipédia (só pista pelas regras); apoiada por madeinalsace.com (turismo regional: «deux communes voisines de Luttenbach») e Wikipédia EN; nenhuma de nível 1; olympics.com timeout. Outras opções sem apoio. Recusadas: olympics.com, library.olympics.com."
+    },
     "advogado": null,
     "editor": null
   },
@@ -57,6 +73,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "Quizzes só perguntam a prova do ouro de 1912; nenhum sobre a origem dos pseudónimos."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte wikipedia.org"
     }
   ],
   "etiquetas": []
