@@ -66,6 +66,12 @@
       "evento": "reformulada",
       "agente": "pesquisador",
       "nota": "correção: valida_ate e enunciado encurtado"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Nenhuma pergunta de quiz sobre a fração restante."
     }
   ],
   "etiquetas": []

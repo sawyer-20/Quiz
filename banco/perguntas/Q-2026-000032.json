@@ -60,6 +60,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "N1: cultura.marinha.pt (EN; PT deu timeout) e press-files.anu.edu.au via ler_url (WebFetch ENOTFOUND). Transliteração do tratado (n2). Datas divergem (5 vs 22 abril 1529): fora do texto. Tratado descrito como empenho e retrovenda. Feitorias é o distrator mais discutível. Infopédia 403."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "O pormenor das 20 léguas só em fontes informativas."
     }
   ],
   "etiquetas": []

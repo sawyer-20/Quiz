@@ -60,6 +60,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Coutinho não inventou o sextante de bolha; o enunciado diz 'adaptou'. Bacia de mercúrio é horizonte artificial terrestre clássico, não aparece nas fontes. Navigator é portal da Marinha brasileira (n2). PT n1 novas: repositorio.iscte-iul.pt e cultura.marinha.pt (via ler_url; WebFetch ENOTFOUND). A pilha para voo noturno só vem do ISCTE."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Nenhum quiz com este enunciado ou opções."
     }
   ],
   "etiquetas": []

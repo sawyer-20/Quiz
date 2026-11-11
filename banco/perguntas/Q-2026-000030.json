@@ -60,6 +60,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Sem fonte PT n1 da lista; artigo académico brasileiro (UFF, n1). repositorium.sdum.uminho.pt e baes.uc.pt erro de rede; kbbi não resolve; unesco.org redireciona. 'século XVI' vem do resumo visto na pesquisa, não do excerto lido. Distrator «Semana» pode induzir em erro."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Nenhuma pergunta nem opções em quizzes; só dicionários e artigos."
     }
   ],
   "etiquetas": []
