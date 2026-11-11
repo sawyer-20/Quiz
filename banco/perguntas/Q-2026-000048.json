@@ -6,13 +6,13 @@
   "formato": "escolha-multipla",
   "enunciado": "O piano que Liszt levou para Lisboa em 1845 foi dado pela rainha D. Maria II a quem?",
   "opcoes": [
-    "À Academia Filarmónica de Lisboa",
     "Ao embaixador de França em Lisboa",
     "Ao professor de música dos seus filhos",
+    "À Academia Filarmónica de Lisboa",
     "Ao Teatro de São Carlos"
   ],
-  "correta": 2,
-  "explicacao": "Liszt viajou com o seu próprio piano Boisselot, enviado como bagagem. A rainha D. Maria II doou-o a Manuel Inocêncio dos Santos, professor de música dos Infantes. Hoje pertence ao Museu Nacional da Música.",
+  "correta": 1,
+  "explicacao": "Liszt trouxe consigo o seu piano Boisselot. Segundo o Museu Nacional da Música, foi oferecido à rainha D. Maria II, que o doou a Manuel Inocêncio dos Santos, professor de música dos Infantes. Hoje está nesse museu.",
   "dificuldade_estimada": 3,
   "fontes": [
     {
@@ -32,26 +32,10 @@
       "excerto": "Liszt chegou com o seu piano, da marca Boisselot (...) o piano viajou como bagagem. Por cedência de Liszt, a Rainha adquiriu aquele piano e ofereceu-o ao professor dos seus filhos. Hoje está instalado no Museu Nacional de Música em Lisboa.",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://observador.pt/2018/05/13/museu-da-musica-estreia-recem-restaurado-cravo-taskin-de-1782-em-ciclo-de-concertos/",
-      "dominio": "observador.pt",
-      "titulo": "Museu da Música estreia cravo restaurado de 1782 (Observador)",
-      "nivel": 2,
-      "excerto": "O compositor [...] trouxe consigo um piano fabricado em Marselha pela oficina Boisselot et Fils, que foi adquirido por D. Maria II para o professor de música dos infantes, Manuel Inocêncio Liberato dos Santos.",
-      "consultada_em": "2026-11-11",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Ao professor de música dos seus filhos",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "observador.pt",
-      "data": "2026-11-11",
-      "notas": "AMBIGUIDADE ASSINALADA PELO VERIFICADOR (para o advogado): o Observador diz que D. Maria II adquiriu o piano para o professor; o Portugal Resident (n2, lido) diz que Liszt o ofereceu à rainha e ela o passou ao professor. O destinatário final é o professor (Liberato dos Santos) nas duas; fica por esclarecer se foi oferta ou compra, e o enunciado diz «dado». museunacionaldamusica.gov.pt 404; mnmusica.gov.pt/en/museu só confirma o piano Boisselot de Liszt (1844-45)."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -79,6 +63,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte observador.pt"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo)"
     }
   ],
   "etiquetas": []

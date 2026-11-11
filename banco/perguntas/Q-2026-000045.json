@@ -52,7 +52,11 @@
       "data": "2026-11-11",
       "notas": "Jornal local (n2). Fonte diz «pele de animal» e «à noite»; nenhuma fonte oficial lida confirma «couro». Pó, luz solar e humidade não aparecem como motivo. uc.pt proibido."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "Advogado (2.ª passagem): «no final de cada dia» e «couro» literalmente na fonte da UC (n1); explicação atribuída à UC.",
+      "data": "2026-11-11"
+    },
     "editor": null
   },
   "sensivel_ao_tempo": false,
@@ -91,6 +95,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte noticiasdecoimbra.pt"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []

@@ -41,6 +41,15 @@
       "excerto": "In the beginning there were no points in the game as played at Rugby School. The goal counted. Grounding the ball over the opponents' line gave you the opportunity to attempt (try) to improve (convert) the effort into a goal. The try did not count.",
       "consultada_em": "2026-11-11",
       "papel": "verificador"
+    },
+    {
+      "url": "https://rugbyfootballhistory.com/scoring.htm",
+      "dominio": "rugbyfootballhistory.com",
+      "titulo": "Rugby Football History - scoring",
+      "nivel": 2,
+      "excerto": "In early rugby as played at rugby school, the only scores came from goals and there was no points value associated with scoring. The 1845 rules stated that ... a \"TRY at goal\" had to be earned by touching the ball down ... 1886 (accepted): ... a try one point.",
+      "consultada_em": "2026-11-11",
+      "papel": "advogado"
     }
   ],
   "verificacao": {
@@ -52,7 +61,11 @@
       "data": "2026-11-11",
       "notas": "Rugby365 (n2). Texto das leis de 1845 (reprodução em PDF alojada em api.club.ffr.fr): regra v «Try at goal»; não diz explicitamente que o toque não valia pontos — a inferência vem do Rugby365. 1 ponto e 2 pontos surgem depois (1886, 1889). Sem nível 1; bathrugbyheritage 403."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "Advogado (2.ª passagem): rugbyfootballhistory.com e Rugby World concordam em 1886; sem contradição.",
+      "data": "2026-11-11"
+    },
     "editor": null
   },
   "sensivel_ao_tempo": false,
@@ -91,6 +104,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte rugby365.com"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []

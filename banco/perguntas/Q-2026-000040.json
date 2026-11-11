@@ -52,7 +52,11 @@
       "data": "2026-11-11",
       "notas": "Entrevista Variety com Vacano (sistema giroscópico «twice gyro-stabilized»). theasc.com 520. Resultados falam de dois giroscópios e de corpo Arriflex IIC (não lido). Steadicam inutilizável no espaço apertado."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "Advogado (2.ª passagem): explicação atribui a Vacano; três fontes concordam em giroscópios; sem nível 1.",
+      "data": "2026-11-11"
+    },
     "editor": null
   },
   "sensivel_ao_tempo": false,
@@ -91,6 +95,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte yahoo.com"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []

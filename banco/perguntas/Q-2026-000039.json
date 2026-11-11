@@ -50,6 +50,15 @@
       "excerto": "Jarmila Kratochvílová of Czechoslovakia set a world record in 1983 in the 800m. It still stands today.",
       "consultada_em": "2026-11-11",
       "papel": "verificador"
+    },
+    {
+      "url": "https://marathonhandbook.com/oldest-running-world-records/",
+      "dominio": "marathonhandbook.com",
+      "titulo": "Oldest running world records (Marathon Handbook)",
+      "nivel": 2,
+      "excerto": "Kratochvílová 800 m (1:53.28, Munique, 26-07-1983) ainda em vigor, o mais antigo recorde individual de atletismo; Marita Koch bateu os 400 m em 1985",
+      "consultada_em": "2026-11-11",
+      "papel": "advogado"
     }
   ],
   "verificacao": {
@@ -61,7 +70,11 @@
       "data": "2026-11-11",
       "notas": "Só o Irish Times (n2) lido: 800 m de 1983 (1:53.28) e que o recorde dos 400 m de Kratochvílová foi batido. Datas de 400 m (Koch 1985), 200 m (1988) e 1500 m (2015) só vistas em resultados de pesquisa. Falta 2.ª fonte lida para números (regra 4). nation.africa 403."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "Advogado (2.ª passagem): recorde dos 800 m em vigor em 2026; 400 m batido por Koch em 1985; sem outra opção com recorde anterior a 1983.",
+      "data": "2026-11-11"
+    },
     "editor": null
   },
   "sensivel_ao_tempo": true,
@@ -100,6 +113,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte irishtimes.com"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": [
