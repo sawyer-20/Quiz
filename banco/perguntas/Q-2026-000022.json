@@ -12,7 +12,7 @@
     "Azulejo"
   ],
   "correta": 3,
-  "explicacao": "Painel de azulejos pintado a azul sobre branco, atribuído a Gabriel del Barco e guardado no Museu Nacional do Azulejo. Mostra a Lisboa anterior a 1755, com a Torre de Belém e o Mosteiro dos Jerónimos entre os edifícios representados.",
+  "explicacao": "Em azulejo: painel pintado a azul sobre branco, atribuído a Gabriel del Barco e guardado no Museu Nacional do Azulejo. Mostra a Lisboa anterior a 1755, com a Torre de Belém e o Mosteiro dos Jerónimos entre os edifícios.",
   "dificuldade_estimada": 2,
   "fontes": [
     {
@@ -57,11 +57,17 @@
       "notas": "Advogado (2.ª passagem): texto do museu confirma azulejo, azul sobre branco, atribuição, edifícios representados.",
       "data": "2026-11-11"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "estilo",
+      "data": "2026-11-11"
+    }
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-06-misto",
   "criada_em": "2026-11-10",
@@ -101,6 +107,18 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: Azulejo; depois: Azulejo"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": []

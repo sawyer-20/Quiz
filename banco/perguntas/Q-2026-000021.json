@@ -12,7 +12,7 @@
     "Espanha"
   ],
   "correta": 1,
-  "explicacao": "O sueco Pär Aron Borg já tinha fundado um instituto semelhante no seu país e criou o alfabeto manual que usou em Lisboa. Segundo o Governo português, o alfabeto da língua gestual portuguesa e o da sueca revelam uma origem comum.",
+  "explicacao": "Da Suécia: Pär Aron Borg já fundara um instituto semelhante no seu país e criou o alfabeto manual que usou em Lisboa. Segundo o Governo português, o alfabeto da língua gestual portuguesa e o da sueca revelam uma origem comum.",
   "dificuldade_estimada": 3,
   "fontes": [
     {
@@ -66,11 +66,17 @@
       "notas": "Advogado (2.ª passagem): sem outra resposta; explicação suportada por ESE-IPS e atribuição ao Governo.",
       "data": "2026-11-11"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "estilo",
+      "data": "2026-11-11"
+    }
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-06-misto",
   "criada_em": "2026-11-10",
@@ -110,6 +116,18 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: Suécia; depois: Suécia"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": []
