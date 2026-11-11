@@ -32,10 +32,26 @@
       "excerto": "Norbert Müller … wrote: \"the pseudonyms Hohrod and Eschbach were the names of two neighboring villages of the native village of Coubertin's wife, Luttenbach, near Colmar\".",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.madeinalsace.com/pierre-de-coubertin-les-jeux-olympiques-et-lalsace/",
+      "dominio": "madeinalsace.com",
+      "titulo": "Pierre de Coubertin, les jeux olympiques et l'Alsace (Made In Alsace)",
+      "nivel": 2,
+      "excerto": "cette ode est « officiellement » déposée sous les pseudonymes, de M. Eschbach et Georges Hohrod, deux communes voisines de Luttenbach. [...] épouse ... Christa Anna Marie Rothan ... château de la belle-famille, à Luttenbach.",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "De duas aldeias perto da terra natal da sua mulher",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "madeinalsace.com",
+      "data": "2026-11-11",
+      "notas": "AMBIGUIDADE ASSINALADA PELO VERIFICADOR (para o advogado): fonte de promoção turística regional; Luttenbach é a terra da família da mulher, não é certo que seja a terra natal exata; Hohrod por vezes ligado a Hohrodberg. library.olympics.com devolveu 0 caracteres; olympic-museum.de só confirma os pseudónimos. Nada indica as outras opções. PT n1: nenhuma."
+    },
     "advogado": null,
     "editor": null
   },
@@ -69,6 +85,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (1.º ciclo)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte madeinalsace.com"
     }
   ],
   "etiquetas": []

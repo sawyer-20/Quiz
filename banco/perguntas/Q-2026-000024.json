@@ -41,10 +41,26 @@
       "excerto": "Pierre-Jules-César Janssen (1824-1907), first obtained evidence for the existence of helium during the solar eclipse of 1868 in India when he detected a new yellow line (587.49 nm) in the solar spectrum",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.smithsonianmag.com/history/how-scientists-discovered-helium-first-alien-element-1868-180970057/",
+      "dominio": "smithsonianmag.com",
+      "titulo": "How Scientists Discovered Helium, the First Alien Element, 150 Years Ago (Smithsonian Magazine)",
+      "nivel": 2,
+      "excerto": "going all the way to Guntur, India, for the total solar eclipse of August 18, 1868. ... On the day of the eclipse, armed with his spectroscope, Janssen saw ... a bright yellow line whose wavelength didn't match with any known element.",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Na Índia",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "smithsonianmag.com",
+      "data": "2026-11-11",
+      "notas": "Uma só fonte lida (Smithsonian, n2). Guntur fica na Índia; Brasil, Austrália e Egito não aparecem. Sem fontes PT n1."
+    },
     "advogado": null,
     "editor": null
   },
@@ -78,6 +94,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (1.º ciclo)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte smithsonianmag.com"
     }
   ],
   "etiquetas": [

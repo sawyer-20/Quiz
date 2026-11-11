@@ -50,10 +50,26 @@
       "excerto": "Professor Axelson scotches this with reference to Pacheco Pereira's statement: It was not without good reason that this promontory received the name Cabo da Boa Esperanca because Bartolomeu Dias, who discovered it at the command of the late King João [...] saw that the coast here turned northwards",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://unisapressjournals.co.za/index.php/EUSA/article/download/5400/3232/25639",
+      "dominio": "unisapressjournals.co.za",
+      "titulo": "Portuguese Place Names in South Africa (P.E. Raper, Names: Journal of the Onomastic Society of Southern Africa)",
+      "nivel": 2,
+      "excerto": "Duarte Pacheco informs us that Dias ... changed the name, since he noticed 'that the route was towards Sub-Egypt, and thence to the end of Arabia, (and) hopes were entertained of discovering India. For this reason he named it the Cape of Good Hope'.",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "A costa a virar para norte e nordeste",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "unisapressjournals.co.za",
+      "data": "2026-11-11",
+      "notas": "AMBIGUIDADE ASSINALADA PELO VERIFICADOR (para o advogado): não conseguiu abrir o texto português do Esmeraldo; a fonte cita Pacheco em tradução inglesa antiga; a opção coincide por inferência (rumo para Subegito e fim da Arábia = norte e nordeste); a expressão exata não foi verificada no original. Zenodo e BNP (purl.pt/28964) só metadados. Recusadas: revistas.usp.br (302), cctic.ese.ipsantarem.pt (rede). Recomenda confirmar pela edição crítica (Gulbenkian)."
+    },
     "advogado": null,
     "editor": null
   },
@@ -87,6 +103,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (1.º ciclo)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte unisapressjournals.co.za"
     }
   ],
   "etiquetas": []
