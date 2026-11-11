@@ -32,10 +32,26 @@
       "excerto": "mostra-nos a mais completa vista da cidade, a partir do rio Tejo, antes do Terramoto que a destruiu em 1755. [...] Tipo: Azulejo. Material: Faiança a azul sobre branco",
       "consultada_em": "2026-11-10",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://institutodehistoriadaarte.com/lancamento-lisboa-em-azulejo-antes-do-terramoto-de-1755/",
+      "dominio": "institutodehistoriadaarte.com",
+      "titulo": "Lançamento do Website 'Lisboa em Azulejo antes do Terramoto de 1755' - Instituto de História da Arte (NOVA FCSH)",
+      "nivel": 1,
+      "excerto": "O 'Grande panorama de Lisboa', à guarda do Museu Nacional do Azulejo (MNAz, nº inv. 1) e de autoria do pintor Gabriel del Barco, é um extraordinário painel azulejar com cerca de vinte e dois metros de extensão",
+      "consultada_em": "2026-11-10",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Azulejo",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "institutodehistoriadaarte.com",
+      "data": "2026-11-10",
+      "notas": "Fonte universitária n1 (IHA, NOVA FCSH). Tapeçaria, óleo e gravura excluídos."
+    },
     "advogado": null,
     "editor": null
   },
@@ -69,6 +85,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "advogado: não afirmar que resistiram ao terramoto"
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte institutodehistoriadaarte.com"
     }
   ],
   "etiquetas": []

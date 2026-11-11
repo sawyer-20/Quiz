@@ -50,10 +50,26 @@
       "excerto": "o incêndio que, em 1981, destruiu a sala da Cinemateca devido à combustão de película de nitrato, sublinhando a natureza frágil e inflamável da matéria-prima do cinema.",
       "consultada_em": "2026-11-10",
       "papel": "advogado"
+    },
+    {
+      "url": "https://filmspot.pt/artigo/cinemateca-portuguesa-celebra-a-arte-da-projecao-analogica-em-janeiro-14951/",
+      "dominio": "filmspot.pt",
+      "titulo": "Cinemateca Portuguesa celebra a arte da projeção analógica em janeiro - filmSPOT",
+      "nivel": 2,
+      "excerto": "O título do ciclo remete simbolicamente para o incêndio que, em 1981, destruiu a sala da Cinemateca devido à combustão de película de nitrato, sublinhando a natureza frágil e inflamável da matéria-prima do cinema.",
+      "consultada_em": "2026-11-10",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "A combustão de um rolo de filme em nitrato de celulose",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "filmspot.pt",
+      "data": "2026-11-10",
+      "notas": "Ligeira especificação 'um rolo de filme' face à fonte 'película de nitrato'; outras opções sem apoio. Dois artigos do mesmo site contam como uma fonte. Sem nível 1 independente (cinemateca.pt proibida)."
+    },
     "advogado": {
       "aprovado": true,
       "notas": "Advogado: origem sustentada por Cinemateca (2 páginas), RTP e filmSPOT; blogue apaladewalsh.com retirado das fontes (proibido).",
@@ -103,6 +119,12 @@
       "evento": "verificação reaberta",
       "agente": "orquestrador",
       "nota": "fonte do verificador (apaladewalsh.com, blogue) retirada por indicação do advogado; nova verificação às cegas necessária"
+    },
+    {
+      "data": "2026-11-10",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte filmspot.pt"
     }
   ],
   "etiquetas": []
