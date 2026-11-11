@@ -12,8 +12,8 @@
     "Ao Teatro de São Carlos"
   ],
   "correta": 1,
-  "explicacao": "Liszt trouxe consigo o seu piano Boisselot. Segundo o Museu Nacional da Música, foi oferecido à rainha D. Maria II, que o doou a Manuel Inocêncio dos Santos, professor de música dos Infantes. Hoje está nesse museu.",
-  "dificuldade_estimada": 3,
+  "explicacao": "Ao professor de música dos Infantes, Manuel Inocêncio dos Santos. Segundo o Museu Nacional da Música, o piano Boisselot de Liszt foi oferecido à rainha D. Maria II, que o doou a esse professor. Hoje está nesse museu.",
+  "dificuldade_estimada": 4,
   "fontes": [
     {
       "url": "https://artsandculture.google.com/asset/piano-boisselot-et-fils/2gGb1dtttEyckg",
@@ -57,11 +57,17 @@
       "notas": "Advogado (2.ª passagem): Museu e Comunicarte concordam no passo que a pergunta testa (a rainha deu o piano ao professor de música dos filhos); a diferença oferta/aquisição está no passo anterior (Liszt→rainha); nenhum distrator tem apoio.",
       "data": "2026-11-11"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "estilo",
+      "data": "2026-11-11"
+    }
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -101,6 +107,18 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: Ao professor de música dos seus filhos; depois: Ao professor de música dos seus filhos"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": []
