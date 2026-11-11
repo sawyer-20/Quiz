@@ -12,7 +12,7 @@
     "Abrigar as sentinelas da chuva e do frio"
   ],
   "correta": 1,
-  "explicacao": "O hurdício era uma galeria de madeira saliente no topo das muralhas e das torres, de onde se atirava na vertical sobre a base do muro. Segundo o historiador Mário Barroca, foram os Templários que o introduziram em Portugal.",
+  "explicacao": "Servia para disparar na vertical sobre a base dos muros: o hurdício era uma galeria de madeira saliente no topo das muralhas e das torres. Segundo o historiador Mário Barroca, foram os Templários que o introduziram em Portugal.",
   "dificuldade_estimada": 3,
   "fontes": [
     {
@@ -57,11 +57,17 @@
       "notas": "Advogado (2.ª passagem): atribuição a Barroca confirmada no artigo de 1998; tiro vertical sobre a base dos muros apoiado em dois guias de inventário e na ficha DGPC; distratores sem apoio.",
       "data": "2026-11-11"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "estilo",
+      "data": "2026-11-11"
+    }
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -101,6 +107,18 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: Disparar na vertical sobre a base dos muros; depois: Disparar na vertical sobre a base dos muros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": []

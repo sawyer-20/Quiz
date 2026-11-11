@@ -57,6 +57,12 @@
       "evento": "originalidade: copiada",
       "agente": "originalidade",
       "nota": "Veredicto do agente: clássico, com a ressalva de que a culTest (play.ceslava.com) pareceria usar as mesmas 4 opções; a página foi aberta pelo orquestrador e confirma: Lago Baikal, Titicaca, Superior, Victoria. Pelo critério do agente (mesmo conjunto de opções) fica copiada."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "rejeitada",
+      "agente": "originalidade",
+      "nota": "copiada: mesmo conjunto de opções e pergunta equivalente à da culTest (play.ceslava.com/cultest, geografia, 'What lake is the deepest in the world?'); alvo volta ao pesquisador"
     }
   ],
   "etiquetas": []

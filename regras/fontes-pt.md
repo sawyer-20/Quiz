@@ -1,4 +1,4 @@
-# Fontes portuguesas de nível 1 (lotes 1 e 2)
+# Fontes portuguesas de nível 1 (lotes 1, 2 e 3)
 
 Lista das fontes portuguesas que os agentes **conseguiram abrir e ler** com
 `scripts/ler_url.py` nos lotes 1 e 2. Nas perguntas de tema `portugal`, o pesquisador começa
@@ -27,6 +27,20 @@ di-lo nas `notas`, para o orquestrador a acrescentar ou mover.
 | culturaportugal.gov.pt | cultura (abre, mas nem sempre tem o facto) |
 | portugal.gov.pt | notícias do Governo (atribuir sempre) |
 | icnf.pt | áreas protegidas (sem altitudes) |
+| imovel.patrimoniocultural.gov.pt | fichas de património (DGPC): castelos, monumentos |
+| visit.uc.pt | Universidade de Coimbra (Biblioteca Joanina) |
+| purl.pt | Biblioteca Nacional Digital (BNP): textos de Pessoa, partituras |
+| ler.letras.up.pt | revista Ler (Faculdade de Letras do Porto): citações de Pessoa |
+| repositorio.iscte-iul.pt | repositório do ISCTE-IUL (Gago Coutinho) |
+| cultura.marinha.pt | Museu de Marinha (Tratado de Saragoça, sextante) |
+| eve.fcsh.unl.pt | Enciclopédia da Expansão Portuguesa (FCSH-NOVA) |
+| projetos.dhlab.fcsh.unl.pt | PDFs de arquitetura militar e castelos templários |
+| lneg.pt | Laboratório Nacional de Energia e Geologia (geossítios) |
+| servicos-sraa.azores.gov.pt | Governo dos Açores (propostas de classificação, PDF) |
+| pnap.dgterritorio.gov.pt | Prémio Nacional de Paisagem (DGT) |
+| azoresgeopark.com | Geoparque Açores (UNESCO) |
+| proa.ua.pt | revista Comunicarte (Universidade de Aveiro) |
+| mnmusica.gov.pt/museu | Museu Nacional da Música (só a página institucional) |
 
 Nível 2 que abriu: e-cultura.pt (portal de universidade portuguesa), mic.pt (Centro de
 Investigação e Informação da Música Portuguesa), torreserradaestrela.pt, knoow.net.
@@ -36,7 +50,7 @@ Investigação e Informação da Música Portuguesa), torreserradaestrela.pt, kn
 infopedia.pt (403 sistemático), parquesnaturais.azores.gov.pt (403), repositorioaberto.uab.pt
 (403), repositorio.ucp.pt (403), sigarra.up.pt (403), repositorio.ipcb.pt (403), tnsc.pt (404),
 museunacionaldoazulejo.pt (404), comiteolimpicoportugal.pt/olimpismo (404), museudoazulejo.gov.pt
-(erro de rede), nautilus.fis.uc.pt (erro de rede), run.unl.pt (ENOTFOUND), visitportugal.com
+(erro de rede), nautilus.fis.uc.pt (erro de rede), run.unl.pt (ENOTFOUND), monumentos.gov.pt (DNS/reset; fichas SIPA), uc.pt e noticias.uc.pt (403), baes.uc.pt (502), geossitios.progeo.pt (404), repositorio.lneg.pt (reset), museunacionaldamusica.gov.pt (404; usar mnmusica.gov.pt), cvc.instituto-camoes.pt (DNS), turismomilitar.gov.pt (reset), repositorium.uminho.pt (reset), siaram.azores.gov.pt (403), matrizpci.patrimoniocultural.gov.pt e ccmm.madeira.gov.pt (timeout), visitportugal.com
 (anti-bot), revistas.usp.br (redirecionamento recusado pelo leitor num URL; leu-se noutro).
 
 ## Ainda não tentadas

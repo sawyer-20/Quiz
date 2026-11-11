@@ -57,6 +57,12 @@
       "evento": "originalidade: classico",
       "agente": "originalidade",
       "nota": "Facto circula em quizzes FunTrivia com outros enunciados e opções. Lote já com 2 clássicos (Q24, Q39)."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "rejeitada",
+      "agente": "orquestrador",
+      "nota": "quota de clássicos do lote (regra 16): o lote já tinha 2 clássicos (Q24, Q39); alvo 20 volta ao pesquisador com ângulo não clássico"
     }
   ],
   "etiquetas": [

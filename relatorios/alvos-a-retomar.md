@@ -13,6 +13,23 @@ falhar não regressa a esta lista.
 | Q-2026-000018 | Requiem de Bomtempo, dedicatória a Camões | por retomar | «Dedicou» é impreciso para uma dedicatória «à memória de». Perguntar «à memória de quem»; 2.ª fonte independente (CHAM/FCSH, frontispício, BNP). |
 | Q-2026-000023 | Coubertin e os concursos de arte de 1912 | por retomar | Rejeitada por ambiguidade: o COI não reconhece hoje as medalhas dos concursos de arte como oficiais. Não falar em «medalha olímpica»; pedir fonte de nível 1 (Comité Olímpico Internacional / museu olímpico). |
 
+## Resultado do lote 3 (11/11/2026)
+
+| Origem | Retoma | Resultado |
+|---|---|---|
+| Q-2026-000015 (Dias / Pacheco Pereira) | Q-2026-000026 | **aprovada** (texto português do *Esmeraldo*, edição de 1892; a edição crítica da Gulbenkian não abriu) |
+| Q-2026-000017 (hélio) | Q-2026-000024 | **aprovada** (outro ângulo: Janssen na Índia) |
+| Q-2026-000018 (Bomtempo) | Q-2026-000025 | **aprovada** |
+| Q-2026-000023 (Coubertin) | Q-2026-000027 | **rejeitada** no 2.º ciclo; já era uma retoma, não regressa à lista (regra 15) |
+
+## Para o lote 4 (regra 15: não clássicas que esgotaram o ciclo, uma única vez)
+
+| Origem | Alvo | Notas do advogado |
+|---|---|---|
+| Q-2026-000035 | Fronteira Alemanha–Suíça no lago de Constança | A opção «Obersee» é defensável (o Konstanzer Trichter pertence ao Obersee) e a explicação contradizia-se. Evitar «Obersee» como distrator; usar só o Überlinger See e a baía de Bregenz. |
+
+Fora da regra 15, a decidir pelo Andre: **Q-2026-000029** (horizonte artificial do sextante de Gago Coutinho) foi rejeitada só porque a fonte do verificador (Navigator, marinha.mil.br) era a mesma do pesquisador; o verificador achou uma 2.ª fonte independente (Boletim da SPM 78, revistas.rcaap.pt) que serviria numa nova tentativa.
+
 ## Em espera
 
 | Origem | Alvo | Condição |

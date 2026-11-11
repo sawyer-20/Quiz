@@ -66,6 +66,12 @@
       "evento": "originalidade: classico",
       "agente": "originalidade",
       "nota": "Facto de fundo muito divulgado (portugueses levaram o ukulele); nenhum quiz pergunta a ilha. Lote já com 2 clássicos (Q24, Q39)."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "rejeitada",
+      "agente": "orquestrador",
+      "nota": "quota de clássicos do lote (regra 16): o lote já tinha 2 clássicos (Q24, Q39); alvo 18 volta ao pesquisador com ângulo não clássico"
     }
   ],
   "etiquetas": [

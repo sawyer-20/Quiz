@@ -66,6 +66,12 @@
       "evento": "originalidade: classico",
       "agente": "originalidade",
       "nota": "Facto aparece em quizzes (Byjus, JetPunk); opções nossas, sem cópia. Lote já com 2 clássicos (Q24, Q39)."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "rejeitada",
+      "agente": "orquestrador",
+      "nota": "quota de clássicos do lote (regra 16): o lote já tinha 2 clássicos (Q24, Q39); alvo 12 falhou 3 vezes (copiada, clássico, clássico) e não é retomado neste lote"
     }
   ],
   "etiquetas": [
