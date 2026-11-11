@@ -50,8 +50,8 @@
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
-  "motivo_rejeicao": null,
+  "estado": "rejeitada",
+  "motivo_rejeicao": "quota de clássicos do lote (regra 16): o lote já tinha 2 clássicos (Q24, Q39); alvo 18 volta ao pesquisador com ângulo não clássico",
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
   "historico": [
@@ -60,7 +60,15 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Dif. 2 (alvo 1). Machete/braguinha. Porto Santo é distrator defensável (arquipélago da Madeira): editor/advogado pode preferir Pico ou Faial. PT n1: nenhuma aberta; matrizpci/ccmm.madeira timeout."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "Facto de fundo muito divulgado (portugueses levaram o ukulele); nenhum quiz pergunta a ilha. Lote já com 2 clássicos (Q24, Q39)."
     }
   ],
-  "etiquetas": []
+  "etiquetas": [
+    "classico"
+  ]
 }
