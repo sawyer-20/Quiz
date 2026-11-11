@@ -61,7 +61,11 @@
       "data": "2026-11-11",
       "notas": "NÃO confirmou a atribuição «Segundo Beatriz Peralta García» (não encontrou texto dela; rpm-ns.pt não a refere). O facto (edição promovida pelo Morgado de Mateus, diplomata) está confirmado por e-cultura. Pombal morreu em 1782. Fontes PT n1: nenhuma aberta; luisdecamoes.pt erro SSL."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "Advogado (2.ª passagem): abriu o PDF do CHAM e confirmou a atribuição a Peralta García; e-cultura confirma o facto.",
+      "data": "2026-11-11"
+    },
     "editor": null
   },
   "sensivel_ao_tempo": false,
@@ -88,6 +92,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte e-cultura.pt"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []
