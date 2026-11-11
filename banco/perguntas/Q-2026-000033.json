@@ -32,10 +32,26 @@
       "excerto": "Tally: A wooden stick, split in two and notched. Half would be given to collectors in receipt of payment at the Exchequer, while the other half would be retained. Many of these were destroyed by a fire in 1834.",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co60506/medieval-exchequer-tally-sticks",
+      "dominio": "sciencemuseumgroup.org.uk",
+      "titulo": "Medieval Exchequer Tally Sticks - Science Museum Group Collection",
+      "nivel": 1,
+      "excerto": "The stick would be split in half: the lender received 'the stock'... and the debtor the other half, called the 'foil'. ... a fire to burn a large amount of left behind sticks got out of control, resulting in burning down the Palace of Westminster on 16 October 1834.",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Varas de madeira entalhadas e partidas ao meio",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "sciencemuseumgroup.org.uk",
+      "data": "2026-11-11",
+      "notas": "Museu confirma varas partidas ao meio (stock e foil) e o incêndio de 16/10/1834. A palavra «recibo» não vem explícita (fala em registo de dívida/pagamento)."
+    },
     "advogado": null,
     "editor": null
   },
@@ -57,6 +73,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "Nenhum quiz com esta pergunta; ressalva: facto muito conhecido, risco de clássico maior."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte sciencemuseumgroup.org.uk"
     }
   ],
   "etiquetas": []

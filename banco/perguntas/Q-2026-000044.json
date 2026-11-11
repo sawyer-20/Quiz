@@ -1,0 +1,66 @@
+{
+  "id": "Q-2026-000044",
+  "lingua": "pt-PT",
+  "tema": "musica",
+  "subtema": "instrumentos",
+  "formato": "escolha-multipla",
+  "enunciado": "O ukulele havaiano descende de instrumentos de cordas levados para o Havai por emigrantes vindos de que ilha portuguesa?",
+  "opcoes": [
+    "São Miguel",
+    "Terceira",
+    "Porto Santo",
+    "Madeira"
+  ],
+  "correta": 3,
+  "explicacao": "No século XIX, emigrantes madeirenses levaram para o Havai a braguinha (machete), a versão madeirense do cavaquinho. No Havai o instrumento foi adotado e recebeu o nome de ukulele.",
+  "dificuldade_estimada": 2,
+  "fontes": [
+    {
+      "url": "https://folkways-media.si.edu/docs/folkways/artwork/UNES08323.pdf",
+      "dominio": "si.edu",
+      "titulo": "Portugal: Music and Dance from Madeira (Smithsonian Folkways / UNESCO Collection)",
+      "nivel": 1,
+      "excerto": "The braguinha, the smallest Madeiran plucked lute, has four metal strings and is the Madeiran equivalent of the continental cavaquinho. José Nunes, a Madeiran emigrant, introduced this instrument in the 19th century to Hawai'i where it was adopted and named ukulele.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.npr.org/transcripts/127116452",
+      "dominio": "npr.org",
+      "titulo": "'The Mighty Uke': A Musical Underdog Makes A Comeback (NPR)",
+      "nivel": 2,
+      "excerto": "In the late 1800s, to escape drought and poverty, thousands of Portuguese left the island of Madeira and headed for Hawaii. They brought their small stringed wooden instruments with them. In Hawaii, the instrument changed a bit and got a new name: ukulele.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.history.com/articles/ukulele-origins-history",
+      "dominio": "history.com",
+      "titulo": "The Surprising History of the Ukulele (HISTORY)",
+      "nivel": 2,
+      "excerto": "the instrument probably came to Hawaii with laborers from the Madeira Islands of Portugal... Among them was the machete, a four-stringed instrument widely considered the closest ancestor of the Hawaiian ukulele.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Dif. 2 (alvo 1). Machete/braguinha. Porto Santo é distrator defensável (arquipélago da Madeira): editor/advogado pode preferir Pico ou Faial. PT n1: nenhuma aberta; matrizpci/ccmm.madeira timeout."
+    }
+  ],
+  "etiquetas": []
+}

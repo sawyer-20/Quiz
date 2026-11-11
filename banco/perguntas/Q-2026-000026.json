@@ -70,7 +70,11 @@
       "data": "2026-11-11",
       "notas": "AMBIGUIDADE ASSINALADA PELO VERIFICADOR (para o advogado): não conseguiu abrir o texto português do Esmeraldo; a fonte cita Pacheco em tradução inglesa antiga; a opção coincide por inferência (rumo para Subegito e fim da Arábia = norte e nordeste); a expressão exata não foi verificada no original. Zenodo e BNP (purl.pt/28964) só metadados. Recusadas: revistas.usp.br (302), cctic.ese.ipsantarem.pt (rede). Recomenda confirmar pela edição crítica (Gulbenkian)."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "Advogado (2.ª passagem): leu o texto português do Esmeraldo (edição de 1892, livro III cap. 7): o sujeito de «lhe pôs nome» é Bartolomeu Dias; confirma «norte e nordeste» e «esperava-se descobrir a Índia». A pergunta atribui a Pacheco Pereira. Edição crítica da Gulbenkian não foi aberta.",
+      "data": "2026-11-11"
+    },
     "editor": null
   },
   "sensivel_ao_tempo": false,
@@ -109,6 +113,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte unisapressjournals.co.za"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []

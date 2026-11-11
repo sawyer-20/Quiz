@@ -1,0 +1,66 @@
+{
+  "id": "Q-2026-000046",
+  "lingua": "pt-PT",
+  "tema": "geografia",
+  "subtema": "países e capitais",
+  "formato": "escolha-multipla",
+  "enunciado": "Qual destas capitais fica mais a oeste, medida pela longitude?",
+  "opcoes": [
+    "Dublin",
+    "Madrid",
+    "Lisboa",
+    "Londres"
+  ],
+  "correta": 2,
+  "explicacao": "Lisboa está a cerca de 9° de longitude oeste, mais a ocidente do que Dublin (cerca de 6°), Madrid (cerca de 4°) e Londres (menos de 1°), apesar de a Irlanda ser a ilha atlântica.",
+  "dificuldade_estimada": 2,
+  "fontes": [
+    {
+      "url": "https://www.nationsonline.org/oneworld/map/google_map_Lisbon.htm",
+      "dominio": "nationsonline.org",
+      "titulo": "Map of Lisbon, Portugal - Nations Online Project",
+      "nivel": 2,
+      "excerto": "City Coordinates: 38°42′25.11″N 9°8′7.75″W",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.nationsonline.org/oneworld/map/google_map_Dublin.htm",
+      "dominio": "nationsonline.org",
+      "titulo": "Map of the City of Dublin, Ireland - Nations Online Project",
+      "nivel": 2,
+      "excerto": "City Coordinates: 53°20′52″N 6°15′35″W",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lisbon",
+      "dominio": "wikipedia.org",
+      "titulo": "Lisbon - Wikipedia",
+      "nivel": 2,
+      "excerto": "Lisbon is located at 38°42′49.75″N 9°8′21.79″W ... and is the westernmost capital of a mainland European country.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Sem nível 1: britannica 403; CIA Factbook descontinuado. Wikipédia como 2.ª fonte porque não encontrou original acessível. Coordenadas divergem em segundos. Reiquiavique excluída de propósito."
+    }
+  ],
+  "etiquetas": []
+}

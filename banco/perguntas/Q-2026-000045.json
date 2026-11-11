@@ -1,0 +1,57 @@
+{
+  "id": "Q-2026-000045",
+  "lingua": "pt-PT",
+  "tema": "portugal",
+  "subtema": "património e museus",
+  "formato": "escolha-multipla",
+  "enunciado": "Na Biblioteca Joanina, em Coimbra, as mesas são cobertas com couro no fim de cada dia. Para as proteger de quê?",
+  "opcoes": [
+    "Do pó levantado pelos visitantes",
+    "Da luz solar que entra pelas janelas",
+    "Da humidade do rio Mondego",
+    "Dos dejetos dos morcegos que lá vivem"
+  ],
+  "correta": 3,
+  "explicacao": "A biblioteca abriga colónias de morcegos que contribuem para o controlo de pragas de insetos. Como os dejetos danificam a madeira, as mesas são cobertas com «toalhas» de couro ao fim do dia e destapadas na manhã seguinte.",
+  "dificuldade_estimada": 3,
+  "fontes": [
+    {
+      "url": "https://visit.uc.pt/pt/space-list/joanina",
+      "dominio": "uc.pt",
+      "titulo": "Biblioteca Joanina - UnivCoimbra - UCTour (Universidade de Coimbra)",
+      "nivel": 1,
+      "excerto": "Habitam a Biblioteca duas colónias de morcegos que contribuem para o controle de pragas. [...] no final de cada dia, é necessário cobrir as mesas com «toalhas» de couro. [...] impedir os danos causados pelos dejetos dos animais.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.dn.pt/arquivo/diario-de-noticias/biblioteca-joanina-gasta-fortuna-para-nao-deixar-os-livros-morrer.html",
+      "dominio": "dn.pt",
+      "titulo": "Biblioteca Joanina gasta fortuna para não deixar os livros morrer (Diário de Notícias, 2015)",
+      "nivel": 2,
+      "excerto": "Há registos da compra de peles, em finais do século XVIII, para proteger as mesas dos dejetos dos morcegos. [...] cobrir de peles todas as mesas, ao final, e destapá-las na manhã seguinte, limpando os dejetos dos morcegos.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Morcegos da Joanina em listas de curiosidades; semiclássico. Fiolhais: sem prova científica conclusiva do papel dos morcegos. PT n1: visit.uc.pt abre; uc.pt/noticias.uc.pt 403; baes.uc.pt 502."
+    }
+  ],
+  "etiquetas": []
+}

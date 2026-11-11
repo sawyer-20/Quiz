@@ -41,10 +41,26 @@
       "excerto": "Gago Coutinho adaptou um sistema de horizonte artificial a um sextante clássico de Marinha para satisfazer as necessidades da navegação aérea.",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://lusitania100.pt/primeira-travessia-aerea-do-atlantico-sul-2/navegacao-astronomica-de-precisao/",
+      "dominio": "lusitania100.pt",
+      "titulo": "Navegação Astronómica de Precisão - Lusitânia 100",
+      "nivel": 2,
+      "excerto": "O sextante com um nível de bolha, permitindo a criação de um horizonte artificial, e a adaptação deste instrumento ao uso aeronáutico",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Uma bolha de ar num pequeno nível",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "lusitania100.pt",
+      "data": "2026-11-11",
+      "notas": "Site comemorativo do centenário (não é organismo oficial claro, n2); só uma fonte. Outras opções excluídas por ausência, não por refutação. 110.tecnico.ulisboa.pt abriu sem 'bolha'."
+    },
     "advogado": null,
     "editor": null
   },
@@ -66,6 +82,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "Nenhum quiz com este enunciado ou opções."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte lusitania100.pt"
     }
   ],
   "etiquetas": []
