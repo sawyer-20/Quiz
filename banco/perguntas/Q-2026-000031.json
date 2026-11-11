@@ -4,7 +4,7 @@
   "tema": "portugal",
   "subtema": "Açores – vulcanismo e paisagem",
   "formato": "escolha-multipla",
-  "enunciado": "A erupção dos Capelinhos (1957-58) acrescentou terra ao Faial. Que parte dessa área ainda resta hoje, depois da erosão marinha?",
+  "enunciado": "Que parte da terra que os Capelinhos (1957-58) acrescentaram ao Faial resta hoje, depois da erosão marinha?",
   "opcoes": [
     "Cerca de três quartos",
     "Cerca de metade",
@@ -12,7 +12,7 @@
     "Praticamente toda"
   ],
   "correta": 2,
-  "explicacao": "A erupção acrescentou 2,4 km² ao Faial, mas o mar foi levando a cinza e o tufo soltos: hoje resta apenas cerca de 0,6 km², ou seja, um quarto da área ganha.",
+  "explicacao": "A erupção acrescentou 2,4 km² ao Faial, mas a erosão marinha foi desfazendo a terra nova: resta hoje apenas cerca de 0,6 km², ou seja, um quarto da área ganha.",
   "dificuldade_estimada": 2,
   "fontes": [
     {
@@ -49,7 +49,7 @@
     "editor": null
   },
   "sensivel_ao_tempo": true,
-  "valida_ate": null,
+  "valida_ate": "2028-11-11",
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
@@ -60,6 +60,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "3 fontes de domínios diferentes concordam; as duas portuguesas podem partilhar origem (Governo dos Açores/Geoparque). Estudos Manchester/EGU 2019 falam em ~2,5 km² (não abertos). Área restante muda com a erosão (sensivel_ao_tempo). PT n1 abertas: azoresgeopark.com, pnap.dgterritorio.gov.pt; iugs-geoheritage.org internacional. dn.pt n2 lido."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "pesquisador",
+      "nota": "correção: valida_ate e enunciado encurtado"
     }
   ],
   "etiquetas": []
