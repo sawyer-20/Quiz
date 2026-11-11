@@ -1,0 +1,66 @@
+{
+  "id": "Q-2026-000031",
+  "lingua": "pt-PT",
+  "tema": "portugal",
+  "subtema": "Açores – vulcanismo e paisagem",
+  "formato": "escolha-multipla",
+  "enunciado": "A erupção dos Capelinhos (1957-58) acrescentou terra ao Faial. Que parte dessa área ainda resta hoje, depois da erosão marinha?",
+  "opcoes": [
+    "Cerca de três quartos",
+    "Cerca de metade",
+    "Cerca de um quarto",
+    "Praticamente toda"
+  ],
+  "correta": 2,
+  "explicacao": "A erupção acrescentou 2,4 km² ao Faial, mas o mar foi levando a cinza e o tufo soltos: hoje resta apenas cerca de 0,6 km², ou seja, um quarto da área ganha.",
+  "dificuldade_estimada": 2,
+  "fontes": [
+    {
+      "url": "https://www.azoresgeopark.com/media/docs/totens_faial.pdf",
+      "dominio": "azoresgeopark.com",
+      "titulo": "Geoparque Açores – totens Faial",
+      "nivel": 1,
+      "excerto": "A erupção dos Capelinhos, que aumentou a área da ilha em 2,4 km2 (da qual resta atualmente apenas cerca de 0,6 km2), constituiu um marco histórico na vulcanologia mundial",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://iugs-geoheritage.org/geoheritage_sites/capelinhos-volcano/",
+      "dominio": "iugs-geoheritage.org",
+      "titulo": "IUGS Geoheritage – Capelinhos volcano",
+      "nivel": 1,
+      "excerto": "adding 2.4 km2 to Faial Island – with only a fourth of this area remaining today due to sea erosion.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://pnap.dgterritorio.gov.pt/sites/default/files/Vulcao_Capelinhos.pdf",
+      "dominio": "dgterritorio.gov.pt",
+      "titulo": "Prémio Nacional de Paisagem 2012 – Proteção e Gestão da Paisagem do Vulcão dos Capelinhos (DGT / Governo dos Açores)",
+      "nivel": 1,
+      "excerto": "A ilha cresceu 2,4 km2 … O vulcão recuou, restando cerca de 0,6 Km2 na atualidade; local sujeito a intensa erosão natural",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": true,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "3 fontes de domínios diferentes concordam; as duas portuguesas podem partilhar origem (Governo dos Açores/Geoparque). Estudos Manchester/EGU 2019 falam em ~2,5 km² (não abertos). Área restante muda com a erosão (sensivel_ao_tempo). PT n1 abertas: azoresgeopark.com, pnap.dgterritorio.gov.pt; iugs-geoheritage.org internacional. dn.pt n2 lido."
+    }
+  ],
+  "etiquetas": []
+}
