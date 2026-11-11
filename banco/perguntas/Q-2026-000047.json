@@ -32,10 +32,26 @@
       "excerto": "[Longroiva] constitui o mais remoto exemplo que conhecemos em Portugal para uma hurdício. [...] orificios [...] que denunciam a presença de uma galeria de madeira.",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://imovel.patrimoniocultural.gov.pt/detalhes.php?code=71169",
+      "dominio": "patrimoniocultural.gov.pt",
+      "titulo": "Castelo de Langóbria - PESQUISA GERAL - Património Cultural (DGPC)",
+      "nivel": 1,
+      "excerto": "originalmente, foi rodeada por um hurdício, uma galeria de madeira (de que ainda restam os apoios a toda a roda da torre) que protegia superiormente a estrutura e permitia o ataque vertical sobre os inimigos",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Disparar na vertical sobre a base dos muros",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "patrimoniocultural.gov.pt",
+      "data": "2026-11-11",
+      "notas": "Apoio: estudo da U. do Porto (ler.letras.up.pt/uploads/ficheiros/8396.pdf, n1) descreve o hurdício de Longroiva como galeria de madeira, sem dizer expressamente 'tiro vertical'. A fonte diz 'ataque vertical sobre os inimigos' e não 'base dos muros' (inferência pequena; outras opções sem apoio). monumentos.gov.pt DNS/reset; baes.uc.pt 502; pt.wikipedia 404."
+    },
     "advogado": null,
     "editor": null
   },
@@ -69,6 +85,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (1.º ciclo)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte patrimoniocultural.gov.pt"
     }
   ],
   "etiquetas": []
