@@ -50,6 +50,15 @@
       "excerto": "The Portuguese Crown, in turn, agreed not to build additional fortresses in the region, and was also to pay 350,000 ducados, in exchange for which this Monarchy´s rights would be recognized.",
       "consultada_em": "2026-11-11",
       "papel": "verificador"
+    },
+    {
+      "url": "https://cultura.marinha.pt/pt/museumarinha_web/multimedia_web/Paginas/22-abril-chegada-brasil-tratado-saragoca.aspx",
+      "dominio": "marinha.pt",
+      "titulo": "Museu de Marinha: Tratado de Saragoça (1529)",
+      "nivel": 1,
+      "excerto": "A Coroa espanhola cedia a sua posição naquelas ilhas a Portugal, a troco de 350 mil ducados, enquanto a Coroa portuguesa não poderia erguer mais fortalezas num raio de 20 léguas em redor da zona das Molucas.",
+      "consultada_em": "2026-11-11",
+      "papel": "advogado"
     }
   ],
   "verificacao": {
@@ -61,7 +70,11 @@
       "data": "2026-11-11",
       "notas": "A fonte não menciona o raio de 20 léguas (não confirmado por ela). Nenhuma fonte lida refere proibição de igrejas, estaleiros ou feitorias."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "Advogado (2.ª passagem): texto do tratado e Museu de Marinha confirmam fortalezas novas e 20 léguas; 350 000 ducados em Museu, EVE e ANU.",
+      "data": "2026-11-11"
+    },
     "editor": null
   },
   "sensivel_ao_tempo": false,
@@ -100,6 +113,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte unl.pt"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []

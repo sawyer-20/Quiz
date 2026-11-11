@@ -50,6 +50,15 @@
       "excerto": "acrescentando 2,4 km2 de área à ilha do Faial (atualmente resta apenas um quarto desta área devido à erosão costeira)",
       "consultada_em": "2026-11-11",
       "papel": "verificador"
+    },
+    {
+      "url": "https://www.dn.pt/pais/vulcao-dos-capelinhos-e-monumento-natural--10730266.html",
+      "dominio": "dn.pt",
+      "titulo": "Vulcão dos Capelinhos é monumento natural (Diário de Notícias)",
+      "nivel": 2,
+      "excerto": "resta, atualmente, cerca de um quarto da nova paisagem criada aquando da erupção.",
+      "consultada_em": "2026-11-11",
+      "papel": "advogado"
     }
   ],
   "verificacao": {
@@ -61,7 +70,11 @@
       "data": "2026-11-11",
       "notas": "2.ª fonte: PROGEO (geossitios.progeo.pt): 2,4 km2, restam 0,6 km2. O site da IUGS está bloqueado; a atribuição à IUGS vem do artigo que descreve a candidatura. PT n1 abertas: lneg.pt, geossitios.progeo.pt."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "Advogado (2.ª passagem): atribuição «segundo a IUGS» confirmada na página oficial da IUGS; DN cita outro documento e concorda.",
+      "data": "2026-11-11"
+    },
     "editor": null
   },
   "sensivel_ao_tempo": true,
@@ -106,6 +119,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte lneg.pt"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []

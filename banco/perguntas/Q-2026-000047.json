@@ -6,13 +6,13 @@
   "formato": "escolha-multipla",
   "enunciado": "Nos castelos medievais portugueses, para que servia o hurdício, galeria de madeira no topo das torres?",
   "opcoes": [
-    "Guardar armas e mantimentos durante um cerco",
     "Fazer sinais com fogueiras aos castelos vizinhos",
     "Disparar na vertical sobre a base dos muros",
+    "Guardar armas e mantimentos durante um cerco",
     "Abrigar as sentinelas da chuva e do frio"
   ],
-  "correta": 2,
-  "explicacao": "O hurdício (ou cadafalso) era uma galeria de madeira que coroava as torres pelo exterior e permitia o tiro vertical sobre a base dos muros. Foi uma novidade trazida para Portugal pelos Templários, no século XII.",
+  "correta": 1,
+  "explicacao": "O hurdício era uma galeria de madeira saliente no topo das muralhas e das torres, de onde se atirava na vertical sobre a base do muro. Segundo o historiador Mário Barroca, foram os Templários que o introduziram em Portugal.",
   "dificuldade_estimada": 3,
   "fontes": [
     {
@@ -32,26 +32,10 @@
       "excerto": "[Longroiva] constitui o mais remoto exemplo que conhecemos em Portugal para uma hurdício. [...] orificios [...] que denunciam a presença de uma galeria de madeira.",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://medievalheritage.eu/en/main-page/dictionary/hoarding/",
-      "dominio": "medievalheritage.eu",
-      "titulo": "Hoarding (dicionário de arquitetura medieval, medievalheritage.eu)",
-      "nivel": 2,
-      "excerto": "a defensive structure in the form of a wooden porch [...] suspended on the supports on the outside of the wall, equipped with shooting gallery in the breastwork and holes in the floor, serving to perpendicular defense of the wall basis.",
-      "consultada_em": "2026-11-11",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Disparar na vertical sobre a base dos muros",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "medievalheritage.eu",
-      "data": "2026-11-11",
-      "notas": "«Hoarding» é o equivalente inglês de hurdício. 2.ª fonte: repositorio-aberto.up.pt (Barroca) descreve o hurdício de Longroiva como galeria de madeira. A função explícita não encontrada em fonte PT n1 (monumentos.gov.pt não abriu). Opções abrigo, sinais de fogo e armazém sem apoio."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -79,6 +63,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte medievalheritage.eu"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo)"
     }
   ],
   "etiquetas": []

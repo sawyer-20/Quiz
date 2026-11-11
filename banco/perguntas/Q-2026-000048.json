@@ -52,7 +52,11 @@
       "data": "2026-11-11",
       "notas": "ATENÇÃO PARA O ADVOGADO: só uma fonte n2 lida (SAPO 24: «adquirido por D. Maria II para o professor»). A ficha MM 434 do Museu (n1: oferecido à rainha, que o doou ao professor) só em resultados de pesquisa (404). 'Infantes' vs 'seus filhos': inferência pequena. A ficha do museu põe ponto de interrogação na oferta de Liszt à rainha; getLISBON: 'gifted (or sold?)'. 'Dado' vs 'adquirido'. Academia Filarmónica, embaixador de França e São Carlos sem apoio. mnmusica.gov.pt/museu aberto, sem destinatário."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "Advogado (2.ª passagem): Museu e Comunicarte concordam no passo que a pergunta testa (a rainha deu o piano ao professor de música dos filhos); a diferença oferta/aquisição está no passo anterior (Liszt→rainha); nenhum distrator tem apoio.",
+      "data": "2026-11-11"
+    },
     "editor": null
   },
   "sensivel_ao_tempo": false,
@@ -91,6 +95,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte sapo.pt"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []
