@@ -12,7 +12,7 @@
     "Da luz solar que entra pelas janelas"
   ],
   "correta": 2,
-  "explicacao": "Segundo a Universidade de Coimbra, vivem morcegos na biblioteca, por isso as mesas são cobertas com «toalhas» de couro no fim de cada dia, para impedir os danos causados pelos dejetos dos animais.",
+  "explicacao": "Dos dejetos dos morcegos. Segundo a Universidade de Coimbra, vivem morcegos na biblioteca, por isso as mesas são cobertas com «toalhas» de couro no fim de cada dia, para impedir os danos que os dejetos causam.",
   "dificuldade_estimada": 3,
   "fontes": [
     {
@@ -57,11 +57,17 @@
       "notas": "Advogado (2.ª passagem): «no final de cada dia» e «couro» literalmente na fonte da UC (n1); explicação atribuída à UC.",
       "data": "2026-11-11"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "estilo",
+      "data": "2026-11-11"
+    }
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -101,6 +107,18 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: Dos dejetos dos morcegos que lá vivem; depois: Dos dejetos dos morcegos que lá vivem"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": []

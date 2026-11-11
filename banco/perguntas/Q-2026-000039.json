@@ -4,7 +4,7 @@
   "tema": "desporto",
   "subtema": "recordes",
   "formato": "escolha-multipla",
-  "enunciado": "Até ao fim de 2025, em qual destas provas femininas de pista ao ar livre estava o recorde mundial mais antigo em vigor?",
+  "enunciado": "Até ao fim de 2025, qual destas provas femininas de pista ao ar livre tinha o recorde mundial mais antigo em vigor?",
   "opcoes": [
     "400 metros",
     "800 metros",
@@ -12,7 +12,7 @@
     "1500 metros"
   ],
   "correta": 1,
-  "explicacao": "O recorde dos 800 m (1:53.28), de Jarmila Kratochvílová, em Munique, a 26 de julho de 1983, era o recorde mundial ao ar livre mais antigo do atletismo. O dela nos 400 m (47.99) foi batido dois anos depois por Marita Koch.",
+  "explicacao": "Os 800 m: o recorde (1:53.28) de Jarmila Kratochvílová, em Munique, a 26 de julho de 1983, era o mais antigo ao ar livre do atletismo. O dela nos 400 m (47.99) foi batido dois anos depois por Marita Koch.",
   "dificuldade_estimada": 3,
   "fontes": [
     {
@@ -75,11 +75,17 @@
       "notas": "Advogado (2.ª passagem): recorde dos 800 m em vigor em 2026; 400 m batido por Koch em 1985; sem outra opção com recorde anterior a 1983.",
       "data": "2026-11-11"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "estilo",
+      "data": "2026-11-11"
+    }
   },
   "sensivel_ao_tempo": true,
   "valida_ate": "2026-12-31",
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -119,6 +125,18 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: 800 metros; depois: 800 metros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": [

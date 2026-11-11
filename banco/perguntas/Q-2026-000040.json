@@ -4,7 +4,7 @@
   "tema": "cinema-tv",
   "subtema": "cinema europeu – bastidores e técnica",
   "formato": "escolha-multipla",
-  "enunciado": "Para filmar o interior do submarino em «Das Boot» (1981), que dispositivo foi acrescentado à câmara Arriflex para a estabilizar?",
+  "enunciado": "Em «Das Boot» (1981), que dispositivo foi acrescentado à câmara Arriflex para a estabilizar no interior do submarino?",
   "opcoes": [
     "Giroscópios",
     "Amortecedores hidráulicos",
@@ -12,7 +12,7 @@
     "Um contrapeso de chumbo"
   ],
   "correta": 0,
-  "explicacao": "Segundo o diretor de fotografia Jost Vacano, a Steadicam era grande de mais para passar pelas portas de ligação do cenário do submarino. Por isso estabilizou com giroscópios uma Arriflex usada à mão.",
+  "explicacao": "Giroscópios. Segundo o diretor de fotografia Jost Vacano, a Steadicam era grande de mais para as portas de ligação do cenário do submarino, por isso estabilizou com giroscópios uma Arriflex usada à mão.",
   "dificuldade_estimada": 3,
   "fontes": [
     {
@@ -57,11 +57,17 @@
       "notas": "Advogado (2.ª passagem): explicação atribui a Vacano; três fontes concordam em giroscópios; sem nível 1.",
       "data": "2026-11-11"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "estilo",
+      "data": "2026-11-11"
+    }
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -101,6 +107,18 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: Giroscópios; depois: Giroscópios"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": []

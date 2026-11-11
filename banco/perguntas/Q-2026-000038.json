@@ -12,7 +12,7 @@
     "Um pontapé de penalidade"
   ],
   "correta": 0,
-  "explicacao": "Nas leis de 1845 pousar a bola não dava pontos: dava direito a um «try at goal», uma tentativa de pontapé à baliza. Só os golos marcavam. O ensaio só passou a valer pontos mais tarde, a partir de 1886.",
+  "explicacao": "O direito a um «try at goal», uma tentativa de pontapé à baliza: nas leis de 1845 pousar a bola não dava pontos, só os golos marcavam. O ensaio só passou a valer pontos mais tarde, a partir de 1886.",
   "dificuldade_estimada": 2,
   "fontes": [
     {
@@ -66,11 +66,17 @@
       "notas": "Advogado (2.ª passagem): rugbyfootballhistory.com e Rugby World concordam em 1886; sem contradição.",
       "data": "2026-11-11"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "estilo",
+      "data": "2026-11-11"
+    }
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -110,6 +116,18 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: O direito a tentar um pontapé à baliza; depois: O direito a tentar um pontapé à baliza"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": []
