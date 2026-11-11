@@ -1,0 +1,66 @@
+{
+  "id": "Q-2026-000039",
+  "lingua": "pt-PT",
+  "tema": "desporto",
+  "subtema": "recordes",
+  "formato": "escolha-multipla",
+  "enunciado": "Até ao fim de 2025, em qual destas provas femininas de pista estava o recorde mundial mais antigo ainda em vigor?",
+  "opcoes": [
+    "800 metros",
+    "200 metros",
+    "400 metros",
+    "1500 metros"
+  ],
+  "correta": 0,
+  "explicacao": "O recorde dos 800 m (1:53.28) é de Jarmila Kratochvílová, em Munique, a 26 de julho de 1983, e é o recorde individual mais antigo do atletismo. O dela nos 400 m caiu dois anos depois, batido por Marita Koch.",
+  "dificuldade_estimada": 3,
+  "fontes": [
+    {
+      "url": "https://www.guinnessworldrecords.com/world-records/fastest-run-800-metres-female",
+      "dominio": "guinnessworldrecords.com",
+      "titulo": "Fastest run 800 metres (female) - Guinness World Records",
+      "nivel": 2,
+      "excerto": "On 26 July 1983, Jarmila Kratochvílová (Czechoslovakia) ran a time of 1 minute 53.28 seconds for the 800 m at the Olympic Stadium in Munich, Germany. It is the longest-standing individual record in athletics.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://worldathletics.org/news/news/30-years-on-jarmila-kratochvilovas-800m-wor",
+      "dominio": "worldathletics.org",
+      "titulo": "30 years on - World Athletics",
+      "nivel": 1,
+      "excerto": "Since 4 June 2011, it has been the oldest official IAAF World record [...] the 400m [47.99] was to remain unbeaten for just over two years until her great rival Marita Koch clocked 47.60.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://athleticsweekly.com/news/opinion/the-world-800m-record-that-has-stood-the-test-of-time-1039969804/",
+      "dominio": "athleticsweekly.com",
+      "titulo": "The world 800m record that has stood the test of time - Athletics Weekly",
+      "nivel": 2,
+      "excerto": "Jarmila Kratochvílová's 800m mark of 1:53.28 was set 40 years ago [...] it remains the oldest outdoor world record in the book.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": true,
+  "valida_ate": "2026-12-31",
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Fim de 2025 não confirmado diretamente pela World Athletics (página de 2013); confirmação vem de Athletics Weekly (abril 2025). Fontes PT não tentadas."
+    }
+  ],
+  "etiquetas": []
+}

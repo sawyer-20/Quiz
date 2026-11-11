@@ -51,6 +51,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Sem números. Temperatura de Leidenfrost varia entre fontes. 'Dura minutos' vem do artigo de Chicago. aps.org 403. Fontes PT novas: nenhuma."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Nenhum quiz com esta formulação ou opções."
     }
   ],
   "etiquetas": []

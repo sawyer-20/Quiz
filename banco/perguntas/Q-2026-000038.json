@@ -1,0 +1,57 @@
+{
+  "id": "Q-2026-000038",
+  "lingua": "pt-PT",
+  "tema": "desporto",
+  "subtema": "modalidades fora do futebol",
+  "formato": "escolha-multipla",
+  "enunciado": "Nas primeiras leis do râguebi, o que ganhava uma equipa ao pousar a bola para lá da linha de ensaio?",
+  "opcoes": [
+    "O direito a tentar um pontapé à baliza",
+    "Um pontapé de penalidade",
+    "Um ponto",
+    "Dois pontos"
+  ],
+  "correta": 0,
+  "explicacao": "Nas primeiras leis o ensaio (try) não valia pontos: só dava direito a tentar converter com um pontapé à baliza. Só os pontapés marcavam, e daí o nome «try», tentativa.",
+  "dificuldade_estimada": 2,
+  "fontes": [
+    {
+      "url": "https://www.irishtimes.com/sport/sports-jargon-try-1.697492",
+      "dominio": "irishtimes.com",
+      "titulo": "Sports jargon: try - The Irish Times",
+      "nivel": 2,
+      "excerto": "tries were worth nothing when The Laws of Football as Played at Rugby School were drawn up in 1845. The only reward for crossing the line was the resulting opportunity to kick a goal",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.rugbyworld.com/takingpart/rugby-basics/why-is-a-try-called-a-try-in-rugby-136012",
+      "dominio": "rugbyworld.com",
+      "titulo": "Why is a try called a try in rugby? - Rugby World",
+      "nivel": 2,
+      "excerto": "The word 'try' meant just that. If a team got themselves over the line, they had the chance to try to get points by converting the kick at goal.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Sem fonte de nível 1: worldrugbymuseum.com 403, britannica ENOTFOUND, world.rugby 404. Pontos divergem (3 pontos em 1893 vs 1905): evitados. «Um ponto» pode confundir (leis de 1886). Tradução «linha de ensaio» a confirmar pelo editor."
+    }
+  ],
+  "etiquetas": []
+}

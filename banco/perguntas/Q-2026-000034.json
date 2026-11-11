@@ -41,8 +41,8 @@
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
-  "motivo_rejeicao": null,
+  "estado": "rejeitada",
+  "motivo_rejeicao": "copiada: mesmo conjunto de opções e pergunta equivalente à da culTest (play.ceslava.com/cultest, geografia, 'What lake is the deepest in the world?'); alvo volta ao pesquisador",
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
   "historico": [
@@ -51,6 +51,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Facto clássico (dificuldade 1). Profundidade diverge entre fontes (1637–1741 m); «cerca de um quilómetro e meio» é aproximação do pesquisador. icpdr.org ENOTFOUND."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: copiada",
+      "agente": "originalidade",
+      "nota": "Veredicto do agente: clássico, com a ressalva de que a culTest (play.ceslava.com) pareceria usar as mesmas 4 opções; a página foi aberta pelo orquestrador e confirma: Lago Baikal, Titicaca, Superior, Victoria. Pelo critério do agente (mesmo conjunto de opções) fica copiada."
     }
   ],
   "etiquetas": []
