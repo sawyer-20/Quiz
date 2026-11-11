@@ -52,7 +52,11 @@
       "data": "2026-11-11",
       "notas": "Apoio: estudo da U. do Porto (ler.letras.up.pt/uploads/ficheiros/8396.pdf, n1) descreve o hurdício de Longroiva como galeria de madeira, sem dizer expressamente 'tiro vertical'. A fonte diz 'ataque vertical sobre os inimigos' e não 'base dos muros' (inferência pequena; outras opções sem apoio). monumentos.gov.pt DNS/reset; baes.uc.pt 502; pt.wikipedia 404."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "Advogado (2.ª passagem): atribuição a Barroca confirmada no artigo de 1998; tiro vertical sobre a base dos muros apoiado em dois guias de inventário e na ficha DGPC; distratores sem apoio.",
+      "data": "2026-11-11"
+    },
     "editor": null
   },
   "sensivel_ao_tempo": false,
@@ -91,6 +95,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte patrimoniocultural.gov.pt"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []
