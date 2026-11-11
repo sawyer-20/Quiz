@@ -51,6 +51,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Duas fontes no mesmo domínio de alojamento (projetos.dhlab.fcsh.unl.pt): verificador deve procurar outro domínio. castelosdeportugal.pt n2 duvidoso. Datas divergentes (1174/1176): evitadas. Recusadas: raco.cat, core.ac.uk, bdigital.ufp.pt (403), estudogeral.sib.uc.pt (302), dspace.uevora.pt (SSL), cm-tomar.pt e comum.rcaap.pt (ligação cortada)."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Nenhum quiz com esta pergunta nem termo «hurdício»."
     }
   ],
   "etiquetas": []

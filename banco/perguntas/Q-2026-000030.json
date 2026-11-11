@@ -12,7 +12,7 @@
     "Sábado"
   ],
   "correta": 1,
-  "explicacao": "«Minggu» vem do português «domingo». Em malaio e indonésio passou a designar o período de sete dias, a semana, e o dia de domingo é «hari Minggu». É um dos empréstimos do português ao malaio, do século XVI.",
+  "explicacao": "«Minggu» vem do português «domingo». Em malaio e em indonésio passou a designar o período de sete dias, a semana. É um dos empréstimos do português ao malaio.",
   "dificuldade_estimada": 3,
   "fontes": [
     {
@@ -41,26 +41,10 @@
       "excerto": "On the weekend, that is, on sabtu (sábado; “Saturday”) and minggu (domingo; “Sunday”), he goes to a pesta (festa; “party”) with his friends.",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://en.wiktionary.org/wiki/minggu",
-      "dominio": "wiktionary.org",
-      "titulo": "minggu - Wiktionary",
-      "nivel": 2,
-      "excerto": "Malay: Borrowed from Portuguese domingo (“Sunday”), from Latin dominīcus. ... minggu (Jawi spelling ميڠݢو) week (period of seven days)",
-      "consultada_em": "2026-11-11",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Domingo",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "wiktionary.org",
-      "data": "2026-11-11",
-      "notas": "ATENÇÃO PARA O ADVOGADO: só encontrou Wiktionary (n2, pista); o PRPM da Dewan Bahasa dan Pustaka abriu mas sem etimologia; KBBI 502. Falta 2.ª fonte de nível 1 (dicionário académico)."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -88,6 +72,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte wiktionary.org"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo)"
     }
   ],
   "etiquetas": []

@@ -41,6 +41,15 @@
       "excerto": "The stick would be split in half: the lender received 'the stock'... and the debtor the other half, called the 'foil'. ... a fire to burn a large amount of left behind sticks got out of control, resulting in burning down the Palace of Westminster on 16 October 1834.",
       "consultada_em": "2026-11-11",
       "papel": "verificador"
+    },
+    {
+      "url": "https://historyofparliament.com/2013/10/16/the-fire-of-1834/",
+      "dominio": "historyofparliament.com",
+      "titulo": "Burning the House down: The Fire of 1834 (History of Parliament)",
+      "nivel": 2,
+      "excerto": "unsupervised and ill-advised burning of two large cartloads of wooden tally sticks (a form of medieval tax receipt created by the Exchequer ...) in the heating furnaces below [the House of Lords chamber]",
+      "consultada_em": "2026-11-11",
+      "papel": "advogado"
     }
   ],
   "verificacao": {
@@ -52,7 +61,11 @@
       "data": "2026-11-11",
       "notas": "Museu confirma varas partidas ao meio (stock e foil) e o incêndio de 16/10/1834. A palavra «recibo» não vem explícita (fala em registo de dívida/pagamento)."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "Advogado: «recibo fiscal», «duas carroças» e «fornalhas sob a Câmara dos Lordes» confirmados na History of Parliament; sem segunda resposta; sem sensibilidade (mais de 10 anos).",
+      "data": "2026-11-11"
+    },
     "editor": null
   },
   "sensivel_ao_tempo": false,
@@ -79,6 +92,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte sciencemuseumgroup.org.uk"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []

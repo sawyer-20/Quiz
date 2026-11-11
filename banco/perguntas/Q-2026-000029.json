@@ -6,13 +6,13 @@
   "formato": "escolha-multipla",
   "enunciado": "No sextante que Gago Coutinho adaptou para a travessia aérea do Atlântico Sul, o que fazia de horizonte artificial?",
   "opcoes": [
-    "Uma bacia de mercúrio",
+    "Uma bolha de ar num pequeno nível",
     "Um pêndulo suspenso",
     "Um giroscópio de rotação rápida",
-    "Uma bolha de ar num pequeno nível"
+    "Uma bacia de mercúrio"
   ],
-  "correta": 3,
-  "explicacao": "Sem horizonte do mar visível, Coutinho juntou ao sextante um pequeno nível de bolha de ar. Um espelho auxiliar refletia a imagem da bolha, que servia de horizonte, e uma pilha iluminava-a para voar de noite.",
+  "correta": 0,
+  "explicacao": "Sem horizonte do mar visível, Coutinho adaptou ao sextante um pequeno nível de bolha de ar. Um espelho auxiliar refletia a imagem da bolha, que servia de horizonte artificial.",
   "dificuldade_estimada": 3,
   "fontes": [
     {
@@ -41,26 +41,10 @@
       "excerto": "Gago Coutinho adaptou um sistema de horizonte artificial a um sextante clássico de Marinha para satisfazer as necessidades da navegação aérea.",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://lusitania100.pt/primeira-travessia-aerea-do-atlantico-sul-2/navegacao-astronomica-de-precisao/",
-      "dominio": "lusitania100.pt",
-      "titulo": "Navegação Astronómica de Precisão - Lusitânia 100",
-      "nivel": 2,
-      "excerto": "O sextante com um nível de bolha, permitindo a criação de um horizonte artificial, e a adaptação deste instrumento ao uso aeronáutico",
-      "consultada_em": "2026-11-11",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Uma bolha de ar num pequeno nível",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "lusitania100.pt",
-      "data": "2026-11-11",
-      "notas": "Site comemorativo do centenário (não é organismo oficial claro, n2); só uma fonte. Outras opções excluídas por ausência, não por refutação. 110.tecnico.ulisboa.pt abriu sem 'bolha'."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -88,6 +72,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte lusitania100.pt"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo)"
     }
   ],
   "etiquetas": []

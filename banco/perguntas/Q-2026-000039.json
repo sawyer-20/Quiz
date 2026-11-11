@@ -41,10 +41,26 @@
       "excerto": "Jarmila Kratochvílová's 800m mark of 1:53.28 was set 40 years ago [...] it remains the oldest outdoor world record in the book.",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jarmila_Kratochv%C3%ADlov%C3%A1",
+      "dominio": "wikipedia.org",
+      "titulo": "Jarmila Kratochvílová - Wikipedia",
+      "nivel": 2,
+      "excerto": "In 1983, she set the world record for the 800 metres, which still stands and is currently the longest-standing world record in athletics.",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "800 metros",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "wikipedia.org",
+      "data": "2026-11-11",
+      "notas": "ATENÇÃO PARA O ADVOGADO: fonte é Wikipédia (só pista); sem 2.ª fonte aberta (Britannica 403, olympics.com timeout); 400 m de Koch é de outubro de 1985 (mais recente); 200 m (1988) e 1500 m (batido em 2015) só vistos em resultados de pesquisa. Falta 2.ª fonte para datas (regra 4)."
+    },
     "advogado": null,
     "editor": null
   },
@@ -66,6 +82,12 @@
       "evento": "originalidade: classico",
       "agente": "originalidade",
       "nota": "Facto muito divulgado; sem quiz com este enunciado nem as mesmas 4 opções."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte wikipedia.org"
     }
   ],
   "etiquetas": [

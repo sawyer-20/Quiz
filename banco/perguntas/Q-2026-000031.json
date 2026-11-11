@@ -4,15 +4,15 @@
   "tema": "portugal",
   "subtema": "Açores – vulcanismo e paisagem",
   "formato": "escolha-multipla",
-  "enunciado": "Que parte da terra que os Capelinhos (1957-58) acrescentaram ao Faial resta hoje, depois da erosão marinha?",
+  "enunciado": "Segundo a IUGS, que parte da terra que os Capelinhos (1957-58) acrescentaram ao Faial resta hoje, depois da erosão marinha?",
   "opcoes": [
-    "Cerca de três quartos",
-    "Cerca de metade",
     "Cerca de um quarto",
+    "Cerca de metade",
+    "Cerca de três quartos",
     "Praticamente toda"
   ],
-  "correta": 2,
-  "explicacao": "A erupção acrescentou 2,4 km² ao Faial, mas a erosão marinha foi desfazendo a terra nova: resta hoje apenas cerca de 0,6 km², ou seja, um quarto da área ganha.",
+  "correta": 0,
+  "explicacao": "A erupção acrescentou 2,4 km² ao Faial. A erosão marinha foi desfazendo a terra nova e, segundo a IUGS, resta hoje apenas cerca de um quarto dessa área.",
   "dificuldade_estimada": 2,
   "fontes": [
     {
@@ -41,26 +41,10 @@
       "excerto": "A ilha cresceu 2,4 km2 … O vulcão recuou, restando cerca de 0,6 Km2 na atualidade; local sujeito a intensa erosão natural",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://servicos-sraa.azores.gov.pt/grastore/crads/20170926/Proposta_classificacao_Monumento_Natural_Vulc%C3%A3o_Capelinhos.pdf",
-      "dominio": "azores.gov.pt",
-      "titulo": "Proposta de classificação do Vulcão dos Capelinhos como Monumento Natural (Governo dos Açores)",
-      "nivel": 1,
-      "excerto": "...acrescentados à ilha do Faial cerca de 2.4 Km2 de área – as Terras Novas. ... da paisagem inicial formada por este vulcão, restam apenas 0.5654Km2.",
-      "consultada_em": "2026-11-11",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Cerca de um quarto",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "azores.gov.pt",
-      "data": "2026-11-11",
-      "notas": "AMBIGUIDADE ASSINALADA PELO VERIFICADOR (para o advogado): 0,5654/2,4 = ~23,6% é cálculo do verificador; blogues dão 'menos de metade'/'cerca de metade' (não contam); documento de 2017, 'hoje' pode estar desatualizado; DN (n2) diz «resta, atualmente, cerca de um quarto» mas cita o mesmo documento (conta como uma). Recusadas (403): siaram.azores.gov.pt, volcano.si.edu, researchgate.net."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -94,6 +78,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte azores.gov.pt"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo)"
     }
   ],
   "etiquetas": []

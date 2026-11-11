@@ -8,11 +8,11 @@
   "opcoes": [
     "Feitorias comerciais",
     "Estaleiros navais",
-    "Igrejas e missões",
-    "Fortalezas"
+    "Fortalezas",
+    "Igrejas e missões"
   ],
-  "correta": 3,
-  "explicacao": "Ao pagar 350 000 ducados pelas pretensões castelhanas às Molucas, D. João III aceitou não fazer ali nenhuma fortaleza nova, nem num raio de 20 léguas. A já existente só podia ser mantida, não ampliada.",
+  "correta": 2,
+  "explicacao": "Pelo Tratado de Saragoça, D. João III pagou 350 000 ducados pelas pretensões castelhanas às Molucas e ficou impedido de erguer novas fortalezas ali, num raio de 20 léguas.",
   "dificuldade_estimada": 4,
   "fontes": [
     {
@@ -41,26 +41,10 @@
       "excerto": "In return, João III would immediately pay over 350,000 ducats: an advance on his starting offer of 200,000, but a substantial shortfall from the original Castilian demand of 1,000,000.",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://en.wikisource.org/wiki/European_Treaties_bearing_on_the_History_of_the_United_States_and_its_Dependencies_to_1648/Document_16",
-      "dominio": "wikisource.org",
-      "titulo": "Treaty of Zaragoza, 1529 (European Treaties bearing on the History of the United States, vol. 1)",
-      "nivel": 2,
-      "excerto": "the said King of Portugal shall not build nor order built for himself, or any other, any new fortress whatever in Molucca, nor within twenty leagues of it, nor any nearer Molucca than the line...",
-      "consultada_em": "2026-11-11",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Fortalezas",
-      "concorda": true,
-      "confianca": "alta",
-      "dominio": "wikisource.org",
-      "data": "2026-11-11",
-      "notas": "Texto do tratado (edição Davenport, transcrito no Wikisource, n2). Igrejas, feitorias e estaleiros não são mencionados nessa cláusula."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -88,6 +72,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte wikisource.org"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo)"
     }
   ],
   "etiquetas": []

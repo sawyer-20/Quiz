@@ -32,10 +32,26 @@
       "excerto": "\"Portugal\" foi, durante muito tempo, o nome que Fernando Pessoa deu à Mensagem, o único livro que publicou em vida. [...] por causa de um comentário de Alberto da Cunha Dias, amigo de Fernando Pessoa",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://purl.pt/13858/1/geneses/1/3-texto-base-mensagem.html",
+      "dominio": "purl.pt",
+      "titulo": "As Mãos da Escrita - O texto-base de Mensagem (Biblioteca Nacional de Portugal)",
+      "nivel": 1,
+      "excerto": "O título primitivo da Mensagem era Portugal — revelou Armando de Figueiredo. ... no dactiloscrito entregue por Fernando Pessoa na tipografia ... figurava ainda o título ... Portugal, depois emendado a lápis para Mensagem.",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Portugal",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "purl.pt",
+      "data": "2026-11-11",
+      "notas": "AMBIGUIDADE ASSINALADA PELO VERIFICADOR (para o advogado): títulos anteriores «Legendas» e «Gládio» também citados (não estão nas opções); a parte «amigo o levou a mudá-lo» (Da Cunha Dias) não foi confirmada nesta página. Fonte PT n1: purl.pt (BNP) abre."
+    },
     "advogado": null,
     "editor": null
   },
@@ -57,6 +73,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "Nenhuma pergunta de quiz sobre o título primitivo da Mensagem; Quizlet recusou leitura (403)."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte purl.pt"
     }
   ],
   "etiquetas": []
