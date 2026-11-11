@@ -106,12 +106,12 @@
       "notas": "Meters (US spelling); date in US format."
     },
     "conferente": {
-      "aprovado": false,
-      "notas": "só convenção numérica pt-PT",
+      "aprovado": true,
+      "notas": "2.ª passagem após correção de formato",
       "data": "2026-11-11"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -187,9 +187,28 @@
       "evento": "correção de formato aplicada",
       "agente": "tradutor",
       "nota": "pontuação/separador decimal apontados pelo conferente; sem mudança factual"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"explicação\", \"idioma\": \"pt-PT\", \"detalhe\": \"tempos com ponto decimal à inglesa (1:53.28, 47.99); em pt-PT a vírgula\"}]"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": [
     "classico"
-  ]
+  ],
+  "options_lock": "2ec83f9950321d2be8f02cac5880600515ced679d542aa669779ef1c33ca90c1"
 }

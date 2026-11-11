@@ -97,12 +97,12 @@
       "notas": "linha de ensaio -> goal line; ensaio = try; «try at goal» kept from the original."
     },
     "conferente": {
-      "aprovado": false,
-      "notas": "só pontuação da explicação en-US",
+      "aprovado": true,
+      "notas": "2.ª passagem após correção de formato",
       "data": "2026-11-11"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -178,6 +178,25 @@
       "evento": "correção de formato aplicada",
       "agente": "tradutor",
       "nota": "pontuação/separador decimal apontados pelo conferente; sem mudança factual"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"explicação\", \"idioma\": \"en-US\", \"detalhe\": \"«try at goal,» com aspas angulares e vírgula fora das aspas: calque da pontuação portuguesa\"}]"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
-  ]
+  ],
+  "options_lock": "c22fd1a81d50244f1990a0fe922885af2791844618ac27d76568a91d2e35d882"
 }
