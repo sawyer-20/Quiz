@@ -1,0 +1,66 @@
+{
+  "id": "Q-2026-000024",
+  "lingua": "pt-PT",
+  "tema": "ciencia",
+  "subtema": "química – o hélio",
+  "formato": "escolha-multipla",
+  "enunciado": "Em 1868, onde estava o astrónomo francês Pierre Janssen quando registou a linha amarela que levaria ao hélio?",
+  "opcoes": [
+    "Na Austrália",
+    "No Egito",
+    "No Brasil",
+    "Na Índia"
+  ],
+  "correta": 3,
+  "explicacao": "Janssen viajou até à Índia para observar um eclipse total do Sol e registou uma linha amarela inédita no espetro solar. O hélio foi detetado no Sol muitos anos antes de ser encontrado na Terra.",
+  "dificuldade_estimada": 3,
+  "fontes": [
+    {
+      "url": "https://periodic-table.rsc.org/element/2/helium",
+      "dominio": "rsc.org",
+      "titulo": "Helium – Periodic Table, Royal Society of Chemistry",
+      "nivel": 1,
+      "excerto": "In 1868, Pierre J. C. Janssen travelled to India to measure the solar spectrum during a total eclipse and observed a new yellow line which indicated a new element.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.lanl.gov/science-engineering/periodic-table/element/helium",
+      "dominio": "lanl.gov",
+      "titulo": "Helium – Periodic Table of Elements, Los Alamos National Laboratory",
+      "nivel": 1,
+      "excerto": "...first observed the element during a solar eclipse in 1868. Pierre Janssen, a French astronomer observing the eclipse from India, ... was the one to formally record and confirm the new spectrum line.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://winter.group.shef.ac.uk/webelements/helium/history.html",
+      "dominio": "shef.ac.uk",
+      "titulo": "WebElements: Helium – historical information (Univ. of Sheffield)",
+      "nivel": 1,
+      "excerto": "Pierre-Jules-César Janssen (1824-1907), first obtained evidence for the existence of helium during the solar eclipse of 1868 in India when he detected a new yellow line (587.49 nm) in the solar spectrum",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Fontes PT n1: rce.casadasciencias.org aberta (só 1868, Lockyer); infopedia.pt 403; britannica 403. Evita datas disputadas e o sufixo. Facto de nicho, não clássico."
+    }
+  ],
+  "etiquetas": []
+}
