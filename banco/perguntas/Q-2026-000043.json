@@ -12,7 +12,7 @@
     "Pátria"
   ],
   "correta": 0,
-  "explicacao": "Pessoa escreveu que o livro se chamava primitivamente «Portugal». Mudou o título quando o amigo Da Cunha Dias lhe fez notar que o nome da Pátria estava «prostituído a sapatos», como a hotéis.",
+  "explicacao": "Portugal. Pessoa escreveu que o livro se chamava primitivamente «Portugal» e mudou o título quando o amigo Da Cunha Dias lhe fez notar que o nome da Pátria estava «prostituído a sapatos», como a hotéis.",
   "dificuldade_estimada": 3,
   "fontes": [
     {
@@ -57,11 +57,17 @@
       "notas": "Advogado: citação de Pessoa aberta e lida na revista Ler (U. Porto); a explicação atribui a Pessoa; «primitivamente» é palavra do próprio; BNP concorda. Legendas e Gládio não estão nas opções.",
       "data": "2026-11-11"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "explicação direta",
+      "data": "2026-11-11"
+    }
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -89,6 +95,18 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: Portugal; depois: Portugal"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": []

@@ -12,7 +12,7 @@
     "A tensão superficial, que repele o calor do metal"
   ],
   "correta": 2,
-  "explicacao": "É o efeito Leidenfrost: acima de uma certa temperatura, a base da gota evapora e o vapor forma uma almofada fina e isoladora. A gota levita sobre ela e perde calor devagar.",
+  "explicacao": "Uma almofada de vapor formada pela própria gota: é o efeito Leidenfrost. A base da gota evapora e o vapor forma uma película fina e isoladora, sobre a qual a gota levita e perde calor devagar.",
   "dificuldade_estimada": 2,
   "fontes": [
     {
@@ -66,11 +66,17 @@
       "notas": "Advogado: Leidenfrost consensual; distratores sem apoio.",
       "data": "2026-11-11"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "explicação reordenada (editor tinha posto um ponto final numa opção; mantido o texto original das opções)",
+      "data": "2026-11-11"
+    }
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -110,6 +116,18 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: Uma almofada de vapor formada pela própria gota; depois: Uma almofada de vapor formada pela própria gota"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": []

@@ -12,7 +12,7 @@
     "O albatroz-errante"
   ],
   "correta": 0,
-  "explicacao": "Registos de EEG em fragatas-grandes em voo mostraram que dormem com um hemisfério cerebral de cada vez ou com os dois. Dormem sobretudo a planar em círculos; os autores sugerem que o hemisfério acordado serve para ver para onde vão.",
+  "explicacao": "A fragata-grande. Os registos de EEG mostraram que dorme em voo, com um hemisfério cerebral de cada vez ou com os dois. Dorme sobretudo a planar em círculos; os autores sugerem que o hemisfério acordado serve para ver para onde vai.",
   "dificuldade_estimada": 3,
   "fontes": [
     {
@@ -75,11 +75,17 @@
       "notas": "Advogado: leu o artigo original; confirma «primeira vez», sono com um hemisfério ou os dois, sobretudo em correntes ascendentes; a função de ver para onde vão é sugestão dos autores, atribuída na explicação. Nenhuma outra ave com EEG em voo.",
       "data": "2026-11-11"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "explicação começa pela resposta",
+      "data": "2026-11-11"
+    }
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -119,6 +125,18 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: A fragata-grande; depois: A fragata-grande"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": []
