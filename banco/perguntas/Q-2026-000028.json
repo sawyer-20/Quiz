@@ -66,8 +66,8 @@
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
-  "motivo_rejeicao": null,
+  "estado": "rejeitada",
+  "motivo_rejeicao": "sensibilidade: o Elevador da Glória foi palco de acidente com mortos em setembro de 2025 (tragédia com menos de 10 anos, tema a evitar); sem salvação por reformulação",
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
   "historico": [
@@ -88,6 +88,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte publico.pt"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "rejeitada",
+      "agente": "advogado-do-diabo",
+      "nota": "sensibilidade: o Elevador da Glória foi palco de acidente com mortos em setembro de 2025 (tragédia com menos de 10 anos, tema a evitar); sem salvação por reformulação"
     }
   ],
   "etiquetas": []

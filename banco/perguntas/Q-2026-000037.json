@@ -1,0 +1,66 @@
+{
+  "id": "Q-2026-000037",
+  "lingua": "pt-PT",
+  "tema": "ciencia",
+  "subtema": "biologia – comportamento e adaptação animal",
+  "formato": "escolha-multipla",
+  "enunciado": "Em 2016, registos de EEG provaram pela primeira vez que uma ave dorme em pleno voo. Qual foi?",
+  "opcoes": [
+    "A fragata-grande",
+    "O pelicano-pardo",
+    "O albatroz-errante",
+    "A andorinha-do-mar-ártica"
+  ],
+  "correta": 0,
+  "explicacao": "Registos de EEG em fragatas-grandes (Fregata minor) a voar sobre o Pacífico mostraram que dormem com um hemisfério cerebral de cada vez ou com os dois. Dormem sobretudo a planar em círculos, com o olho do hemisfério acordado virado para a direção do voo.",
+  "dificuldade_estimada": 3,
+  "fontes": [
+    {
+      "url": "https://www.nature.com/articles/ncomms12468",
+      "dominio": "nature.com",
+      "titulo": "Evidence that birds sleep in mid-flight (Nature Communications, 2016)",
+      "nivel": 1,
+      "excerto": "using electroencephalogram recordings of great frigatebirds (Fregata minor) flying over the ocean for up to 10 days, we show that they can sleep with either one hemisphere at a time or both hemispheres simultaneously.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.mpg.de/10783234/frigatebirds-sleep-midflight",
+      "dominio": "mpg.de",
+      "titulo": "Snoozing between the skies and Earth (Max-Planck-Gesellschaft, 2016)",
+      "nivel": 1,
+      "excerto": "A team of scientists headed by Niels Rattenborg from the Max Planck Institute for Ornithology in Seewiesen has demonstrated, for the first time that birds can fly in sleep mode.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.discovermagazine.com/birds-sleep-during-flights-too-17906",
+      "dominio": "discovermagazine.com",
+      "titulo": "Birds Sleep During Flights, Too (Discover Magazine)",
+      "nivel": 2,
+      "excerto": "The results, published in Nature Communications, showed that frigatebirds could soar and glide with one or both sides of their brains asleep.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Sem números. 'Pela primeira vez' assenta no paper e no comunicado MPG. Albatroz é distrator plausível; estudo só em fragatas. Fontes PT n1: nenhuma."
+    }
+  ],
+  "etiquetas": []
+}

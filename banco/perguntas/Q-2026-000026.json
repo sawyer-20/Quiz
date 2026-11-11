@@ -4,15 +4,15 @@
   "tema": "portugal",
   "subtema": "Descobrimentos – Cabo da Boa Esperança",
   "formato": "escolha-multipla",
-  "enunciado": "Segundo Duarte Pacheco Pereira, o que viu Bartolomeu Dias que o levou a pôr ao cabo o nome «Boa Esperança»?",
+  "enunciado": "Segundo Duarte Pacheco Pereira, o que viu Bartolomeu Dias que o levou a dar o nome «Boa Esperança» ao cabo?",
   "opcoes": [
-    "Povos locais a oferecerem ouro e marfim",
     "Um grande rio navegável que entrava pelo interior",
+    "Povos locais a oferecerem ouro e marfim",
     "Um porto abrigado onde as naus se podiam reparar",
     "A costa a virar para norte e nordeste"
   ],
   "correta": 3,
-  "explicacao": "No Esmeraldo, Pacheco Pereira, que Dias encontrou no Príncipe no regresso, escreve que Dias pôs o nome ao ver a costa virar para norte e nordeste, onde se esperava achar a Índia. Axelson usa esta passagem contra a ideia de que o nome veio do rei.",
+  "explicacao": "No Esmeraldo de Situ Orbis, Duarte Pacheco Pereira escreve que Bartolomeu Dias deu o nome de Cabo de Boa Esperança ao ver a costa virar para norte e nordeste, o que fazia esperar encontrar a Índia.",
   "dificuldade_estimada": 4,
   "fontes": [
     {
@@ -50,26 +50,10 @@
       "excerto": "Professor Axelson scotches this with reference to Pacheco Pereira's statement: It was not without good reason that this promontory received the name Cabo da Boa Esperanca because Bartolomeu Dias, who discovered it at the command of the late King João [...] saw that the coast here turned northwards",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://unisapressjournals.co.za/index.php/EUSA/article/download/5400/3232/25639",
-      "dominio": "unisapressjournals.co.za",
-      "titulo": "Portuguese place names in South Africa (P.E. Raper, Unisa Press)",
-      "nivel": 2,
-      "excerto": "Duarte Pacheco informs us that Dias ... changed the name, since he noticed 'that the route was towards Sub-Egypt, and thence to the end of Arabia, (and) hopes were entertained of discovering India. For this reason he named it the Cape of Good Hope'.",
-      "consultada_em": "2026-11-11",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "A costa a virar para norte e nordeste",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "unisapressjournals.co.za",
-      "data": "2026-11-11",
-      "notas": "AMBIGUIDADE ASSINALADA PELO VERIFICADOR (para o advogado): artigo académico que cita Pacheco em tradução inglesa, não o texto do Esmeraldo; a fórmula «norte e nordeste» vem de um resumo de pesquisa, inferência pequena (Pacheco diz rumo para Sub-Egito e fim da Arábia). Nenhuma das outras opções tem apoio. Recusadas: revistas.usp.br (302), journals.co.za (403)."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -97,6 +81,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte unisapressjournals.co.za"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo)"
     }
   ],
   "etiquetas": []

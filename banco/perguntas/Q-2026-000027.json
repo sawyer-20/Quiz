@@ -6,13 +6,13 @@
   "formato": "escolha-multipla",
   "enunciado": "Em 1912, Coubertin concorreu à literatura sob os pseudónimos Hohrod e Eschbach. De onde vinham esses nomes?",
   "opcoes": [
-    "De dois antepassados da família Coubertin",
     "De dois atletas franceses dos Jogos de 1900",
-    "De duas aldeias vizinhas da terra natal da sua mulher",
+    "De dois antepassados da família Coubertin",
+    "De duas aldeias perto da terra natal da sua mulher",
     "De dois poetas alsacianos que ele admirava"
   ],
   "correta": 2,
-  "explicacao": "A «Ode ao Desporto» ganhou o primeiro lugar em literatura nos concursos de arte de Estocolmo 1912, assinada por Hohrod e Eschbach. Só nos anos 1990 Jean Durry descobriu que eram duas aldeias junto a Luttenbach, terra da mulher de Coubertin.",
+  "explicacao": "A «Ode ao Desporto», assinada por Hohrod e Eschbach, ganhou o primeiro lugar em literatura nos concursos de arte de Estocolmo 1912. Segundo o historiador Jean Durry, eram duas aldeias perto de Luttenbach, terra da mulher de Coubertin.",
   "dificuldade_estimada": 4,
   "fontes": [
     {
@@ -32,26 +32,10 @@
       "excerto": "Norbert Müller … wrote: \"the pseudonyms Hohrod and Eschbach were the names of two neighboring villages of the native village of Coubertin's wife, Luttenbach, near Colmar\".",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://de.wikipedia.org/wiki/Ode_an_den_Sport",
-      "dominio": "wikipedia.org",
-      "titulo": "Ode an den Sport (Wikipédia alemã)",
-      "nivel": 2,
-      "excerto": "1990 wurden Hohrod und Eschbach-au-Val – zwei Nachbargemeinden des Heimatortes von Coubertins Ehefrau Marie Rothan (1861–1963), Luttenbach-près-Munster – als Namensgeber der Autorschaft identifiziert.",
-      "consultada_em": "2026-11-11",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "De duas aldeias vizinhas da terra natal da sua mulher",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "wikipedia.org",
-      "data": "2026-11-11",
-      "notas": "AMBIGUIDADE ASSINALADA PELO VERIFICADOR (para o advogado): a fonte principal é Wikipédia (só pista pelas regras); apoiada por madeinalsace.com (turismo regional: «deux communes voisines de Luttenbach») e Wikipédia EN; nenhuma de nível 1; olympics.com timeout. Outras opções sem apoio. Recusadas: olympics.com, library.olympics.com."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -79,6 +63,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte wikipedia.org"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo)"
     }
   ],
   "etiquetas": []

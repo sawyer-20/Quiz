@@ -7,12 +7,12 @@
   "enunciado": "Em 1868, onde estava o astrónomo francês Pierre Janssen quando registou a linha amarela que levaria ao hélio?",
   "opcoes": [
     "Na Austrália",
-    "No Egito",
+    "Na Índia",
     "No Brasil",
-    "Na Índia"
+    "No Egito"
   ],
-  "correta": 3,
-  "explicacao": "Janssen viajou até à Índia para observar um eclipse total do Sol e registou uma linha amarela inédita no espetro solar. O hélio foi detetado no Sol muitos anos antes de ser encontrado na Terra.",
+  "correta": 1,
+  "explicacao": "Janssen viajou até à Índia para observar um eclipse total do Sol e registou uma linha amarela inédita no espetro solar. Essa linha levaria à identificação do hélio, detetado no Sol antes de o ser na Terra.",
   "dificuldade_estimada": 3,
   "fontes": [
     {
@@ -41,26 +41,10 @@
       "excerto": "Pierre-Jules-César Janssen (1824-1907), first obtained evidence for the existence of helium during the solar eclipse of 1868 in India when he detected a new yellow line (587.49 nm) in the solar spectrum",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://arxiv.org/pdf/2401.15998",
-      "dominio": "arxiv.org",
-      "titulo": "In pursuit of the Sun, from Jules Janssen to the present day (arXiv, investigadores do Observatório de Meudon)",
-      "nivel": 1,
-      "excerto": "Janssen thus created a second revolution during the eclipse of 18 August 1868 in India, at Guntoor, when he demonstrated, with Norman Lockyer, the possibility of observing prominences at any time",
-      "consultada_em": "2026-11-11",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Na Índia",
-      "concorda": true,
-      "confianca": "alta",
-      "dominio": "arxiv.org",
-      "data": "2026-11-11",
-      "notas": "2.ª fonte: Smithsonian Magazine (n2): Guntur, Índia, eclipse de 18/08/1868. Sem fontes PT n1 abertas."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -88,6 +72,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte arxiv.org"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo)"
     }
   ],
   "etiquetas": [
