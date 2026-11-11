@@ -32,10 +32,26 @@
       "excerto": "[Longroiva] constitui o mais remoto exemplo que conhecemos em Portugal para uma hurdício. [...] orificios [...] que denunciam a presença de uma galeria de madeira.",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://medievalheritage.eu/en/main-page/dictionary/hoarding/",
+      "dominio": "medievalheritage.eu",
+      "titulo": "Hoarding (dicionário de arquitetura medieval, medievalheritage.eu)",
+      "nivel": 2,
+      "excerto": "a defensive structure in the form of a wooden porch [...] suspended on the supports on the outside of the wall, equipped with shooting gallery in the breastwork and holes in the floor, serving to perpendicular defense of the wall basis.",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Disparar na vertical sobre a base dos muros",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "medievalheritage.eu",
+      "data": "2026-11-11",
+      "notas": "«Hoarding» é o equivalente inglês de hurdício. 2.ª fonte: repositorio-aberto.up.pt (Barroca) descreve o hurdício de Longroiva como galeria de madeira. A função explícita não encontrada em fonte PT n1 (monumentos.gov.pt não abriu). Opções abrigo, sinais de fogo e armazém sem apoio."
+    },
     "advogado": null,
     "editor": null
   },
@@ -57,6 +73,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "Nenhum quiz com esta pergunta nem termo «hurdício»."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte medievalheritage.eu"
     }
   ],
   "etiquetas": []

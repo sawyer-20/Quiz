@@ -41,10 +41,26 @@
       "excerto": "On the weekend, that is, on sabtu (sábado; “Saturday”) and minggu (domingo; “Sunday”), he goes to a pesta (festa; “party”) with his friends.",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://singapura.embaixadaportugal.mne.gov.pt/en/the-embassy/news/portugal-s-linguistic-legacy-in-southeast-asia,-by-jo%C3%A3o-oliveira-2",
+      "dominio": "mne.gov.pt",
+      "titulo": "Portugal's Linguistic Legacy in Southeast Asia, by João Oliveira (Embaixada de Portugal em Singapura)",
+      "nivel": 1,
+      "excerto": "On the weekend, that is, on sabtu (sábado; “Saturday”) and minggu (domingo; “Sunday”), he goes to a pesta (festa; “party”) with his friends.",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Domingo",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "mne.gov.pt",
+      "data": "2026-11-11",
+      "notas": "Artigo de divulgação na página da Embaixada (mesmo texto do BiblioAsia/NLB do pesquisador?). Kamus Dewan (DBP) confirma os dois sentidos de minggu mas sem etimologia. Sem dicionário etimológico académico aberto fora do Wiktionary."
+    },
     "advogado": null,
     "editor": null
   },
@@ -78,6 +94,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (1.º ciclo)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte mne.gov.pt"
     }
   ],
   "etiquetas": []

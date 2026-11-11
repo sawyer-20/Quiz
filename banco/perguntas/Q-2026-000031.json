@@ -41,10 +41,26 @@
       "excerto": "A ilha cresceu 2,4 km2 … O vulcão recuou, restando cerca de 0,6 Km2 na atualidade; local sujeito a intensa erosão natural",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.lneg.pt/wp-content/uploads/2025/04/86_Pereira-et-al.pdf",
+      "dominio": "lneg.pt",
+      "titulo": "Geossítios portugueses na lista dos Primeiros 100 Sítios de Património Geológico da IUGS (Comunicações Geológicas, LNEG, 2025)",
+      "nivel": 1,
+      "excerto": "acrescentando 2,4 km2 de área à ilha do Faial (atualmente resta apenas um quarto desta área devido à erosão costeira)",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Cerca de um quarto",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "lneg.pt",
+      "data": "2026-11-11",
+      "notas": "2.ª fonte: PROGEO (geossitios.progeo.pt): 2,4 km2, restam 0,6 km2. O site da IUGS está bloqueado; a atribuição à IUGS vem do artigo que descreve a candidatura. PT n1 abertas: lneg.pt, geossitios.progeo.pt."
+    },
     "advogado": null,
     "editor": null
   },
@@ -84,6 +100,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (1.º ciclo)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte lneg.pt"
     }
   ],
   "etiquetas": []

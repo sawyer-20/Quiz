@@ -41,10 +41,26 @@
       "excerto": "In return, João III would immediately pay over 350,000 ducats: an advance on his starting offer of 200,000, but a substantial shortfall from the original Castilian demand of 1,000,000.",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://eve.fcsh.unl.pt/en/politics/zaragoza-treaty",
+      "dominio": "unl.pt",
+      "titulo": "The Zaragoza Treaty (Encyclopaedia of Portuguese Expansion, FCSH-NOVA)",
+      "nivel": 1,
+      "excerto": "The Portuguese Crown, in turn, agreed not to build additional fortresses in the region, and was also to pay 350,000 ducados, in exchange for which this Monarchy´s rights would be recognized.",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Fortalezas",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "unl.pt",
+      "data": "2026-11-11",
+      "notas": "A fonte não menciona o raio de 20 léguas (não confirmado por ela). Nenhuma fonte lida refere proibição de igrejas, estaleiros ou feitorias."
+    },
     "advogado": null,
     "editor": null
   },
@@ -78,6 +94,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (1.º ciclo)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte unl.pt"
     }
   ],
   "etiquetas": []

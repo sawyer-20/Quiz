@@ -50,8 +50,8 @@
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
-  "motivo_rejeicao": null,
+  "estado": "rejeitada",
+  "motivo_rejeicao": "fonte não independente (mil.br)",
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
   "historico": [
@@ -78,6 +78,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (1.º ciclo)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "rejeitada",
+      "agente": "verificador-cego",
+      "nota": "fonte não independente (mil.br)"
     }
   ],
   "etiquetas": []
