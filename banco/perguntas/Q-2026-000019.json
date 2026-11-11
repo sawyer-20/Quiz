@@ -107,9 +107,14 @@
     "tradutor": {
       "data": "2026-11-11",
       "notas": "Cinemateca Portuguesa -> Portuguese Cinematheque; cabine de projeção = projection booth."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-06-misto",
   "criada_em": "2026-11-06",
@@ -185,6 +190,19 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Cinemateca Portuguesa -> Portuguese Cinematheque; cabine de projeção = projection booth."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
-  ]
+  ],
+  "options_lock": "af022b4bd52f8ff9a1450edd2900cbe079279793944c8a145550e6e7651f6938"
 }

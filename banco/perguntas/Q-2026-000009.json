@@ -85,9 +85,14 @@
     "tradutor": {
       "data": "2026-11-11",
       "notas": "US-style dates. 'Grã-Bretanha' rendered as 'Britain'."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-04-historia",
   "criada_em": "2026-11-04",
@@ -181,9 +186,22 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "US-style dates. 'Grã-Bretanha' rendered as 'Britain'."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": [
     "classico"
-  ]
+  ],
+  "options_lock": "ce0a9b6a612f30cfd56e2546a72802d56c72dc51d9e0e8aad5934a55ad42f189"
 }

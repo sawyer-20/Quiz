@@ -85,9 +85,14 @@
     "tradutor": {
       "data": "2026-11-11",
       "notas": "Spelling 'meters' (US). 'Tapeçaria' kept as 'Tapestry' (standard English title)."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-04-historia",
   "criada_em": "2026-11-04",
@@ -163,9 +168,22 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Spelling 'meters' (US). 'Tapeçaria' kept as 'Tapestry' (standard English title)."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": [
     "classico"
-  ]
+  ],
+  "options_lock": "146b8df22af5109bb799b4652ffe50e457e6a0ee0a5d0ba9f51c61811deaeae8"
 }

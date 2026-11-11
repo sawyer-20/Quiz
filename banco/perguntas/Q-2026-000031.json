@@ -107,9 +107,14 @@
     "tradutor": {
       "data": "2026-11-11",
       "notas": "Attribution to the IUGS kept. Units not converted."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -179,6 +184,19 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Attribution to the IUGS kept. Units not converted."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
-  ]
+  ],
+  "options_lock": "4ca52fed628c26dd7c8667a2bf6f780efc77f79a93d6046e335a02cd7f6cfd8f"
 }

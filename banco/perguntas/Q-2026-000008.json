@@ -95,9 +95,14 @@
     "tradutor": {
       "data": "2026-11-11",
       "notas": "'cacos' translated as 'shards'."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-04-historia",
   "criada_em": "2026-11-04",
@@ -227,6 +232,19 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "'cacos' translated as 'shards'."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
-  ]
+  ],
+  "options_lock": "6a61a8ecbff4af330a20e8ebb5cc3091f68a16ba6dc5b5b136e58804d3a8030c"
 }

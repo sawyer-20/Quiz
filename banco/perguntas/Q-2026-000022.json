@@ -89,9 +89,14 @@
     "tradutor": {
       "data": "2026-11-11",
       "notas": "Tejo -> Tagus; Museu Nacional do Azulejo -> National Tile Museum; azulejo kept with a gloss in the option."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-06-misto",
   "criada_em": "2026-11-10",
@@ -155,6 +160,19 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Tejo -> Tagus; Museu Nacional do Azulejo -> National Tile Museum; azulejo kept with a gloss in the option."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
-  ]
+  ],
+  "options_lock": "8938b800128ffbc5d8f04893c1ad12724664ed2e96532172b27851dadeb54a8d"
 }

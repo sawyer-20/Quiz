@@ -89,9 +89,14 @@
     "tradutor": {
       "data": "2026-11-11",
       "notas": "Attribution to the University of Coimbra kept; 'toalhas' = 'cloths'."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -155,6 +160,19 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Attribution to the University of Coimbra kept; 'toalhas' = 'cloths'."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
-  ]
+  ],
+  "options_lock": "f5c91ee6cd9d2d108637311266383802187be713815d7cd5dce071e2b437aa36"
 }

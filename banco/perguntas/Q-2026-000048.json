@@ -89,9 +89,14 @@
     "tradutor": {
       "data": "2026-11-11",
       "notas": "'D. Maria II' -> 'Queen Maria II'; 'Infantes' -> 'royal children'."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -161,6 +166,19 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "'D. Maria II' -> 'Queen Maria II'; 'Infantes' -> 'royal children'."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
-  ]
+  ],
+  "options_lock": "1cdeba723d1d2ae50bfde87436eac7c0da64eb602434d4ffc0fd2dac8f8af5f6"
 }

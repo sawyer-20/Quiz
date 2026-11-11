@@ -98,9 +98,14 @@
     "tradutor": {
       "data": "2026-11-11",
       "notas": "D. João VI = John VI; institute name close to the source term 'Surdos-Mudos'. Question 122 characters."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-06-misto",
   "criada_em": "2026-11-10",
@@ -164,6 +169,19 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "D. João VI = John VI; institute name close to the source term 'Surdos-Mudos'. Question 122 characters."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
-  ]
+  ],
+  "options_lock": "b599a691e8aa0302c0f03ebf61f8d8c5bd0a1aa7c0e35451fa34b27a7aa91225"
 }

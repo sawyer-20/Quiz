@@ -88,9 +88,14 @@
     "tradutor": {
       "data": "2026-11-11",
       "notas": "hurdício = hoarding, explained in the question and explanation."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -154,6 +159,19 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "hurdício = hoarding, explained in the question and explanation."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
-  ]
+  ],
+  "options_lock": "b31e9dfc58b01cfcfdafdcf51469b92bcd2b0e9bf9f291b1afff7f6d0de50382"
 }

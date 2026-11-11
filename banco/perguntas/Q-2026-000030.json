@@ -104,9 +104,14 @@
     "tradutor": {
       "data": "2026-11-11",
       "notas": "Portuguese words kept in the options with a short gloss; 'Feira' glossed as 'market day'."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -176,6 +181,19 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Portuguese words kept in the options with a short gloss; 'Feira' glossed as 'market day'."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
-  ]
+  ],
+  "options_lock": "b414b3c71344b8e16d832e83796db66981b8f6f1951bd286c7bd0fae71ae23bd"
 }

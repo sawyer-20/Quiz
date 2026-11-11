@@ -95,9 +95,14 @@
     "tradutor": {
       "data": "2026-11-11",
       "notas": "°C kept; American spelling."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -161,6 +166,19 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "°C kept; American spelling."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
-  ]
+  ],
+  "options_lock": "ed3ccbd9d1bfb953d8f6e598c9155e83f3f268c454edc21aaee00867fd4a0b58"
 }

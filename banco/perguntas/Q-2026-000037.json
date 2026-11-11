@@ -104,9 +104,14 @@
     "tradutor": {
       "data": "2026-11-11",
       "notas": "fragata-grande = great frigatebird (Fregata minor); pelicano-pardo = brown pelican; andorinha-do-mar-ártica = Arctic tern; albatroz-errante = wandering albatross."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -176,6 +181,19 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "fragata-grande = great frigatebird (Fregata minor); pelicano-pardo = brown pelican; andorinha-do-mar-ártica = Arctic tern; albatroz-errante = wandering albatross."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
-  ]
+  ],
+  "options_lock": "5b660c4f0817baa077f05848f5612c0502a0c36485693db055b3bfc35ffbaa70"
 }

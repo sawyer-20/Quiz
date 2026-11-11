@@ -95,6 +95,11 @@
     "tradutor": {
       "data": "2026-11-11",
       "notas": "linha de ensaio -> goal line; ensaio = try; «try at goal» kept from the original."
+    },
+    "conferente": {
+      "aprovado": false,
+      "notas": "só pontuação da explicação en-US",
+      "data": "2026-11-11"
     }
   },
   "estado": "em_verificacao",
@@ -161,6 +166,12 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "linha de ensaio -> goal line; ensaio = try; «try at goal» kept from the original."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"explicação\", \"idioma\": \"en-US\", \"detalhe\": \"«try at goal,» com aspas angulares e vírgula fora das aspas: calque da pontuação portuguesa\"}]"
     }
   ]
 }

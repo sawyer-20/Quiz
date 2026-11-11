@@ -86,9 +86,14 @@
     "tradutor": {
       "data": "2026-11-11",
       "notas": "Quote taken from the source excerpt."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-06-misto",
   "criada_em": "2026-11-06",
@@ -140,9 +145,22 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Quote taken from the source excerpt."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": [
     "classico"
-  ]
+  ],
+  "options_lock": "2de51045215dc8de09fe60bd02cbae55a97d71c5c5353d4eed55511056f7c52a"
 }

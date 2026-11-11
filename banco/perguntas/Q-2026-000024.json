@@ -95,9 +95,14 @@
     "tradutor": {
       "data": "2026-11-11",
       "notas": "espetro -> spectrum."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -167,9 +172,22 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "espetro -> spectrum."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": [
     "classico"
-  ]
+  ],
+  "options_lock": "e49a6f057cf91b2b519ee5f858a713b43003ca5434597f3e841885e0180cced6"
 }

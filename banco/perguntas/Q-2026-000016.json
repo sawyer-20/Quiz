@@ -107,9 +107,14 @@
     "tradutor": {
       "data": "2026-11-11",
       "notas": "Range names kept in Portuguese; numbers with US thousands comma; units not converted."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-06-misto",
   "criada_em": "2026-11-06",
@@ -173,9 +178,22 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Range names kept in Portuguese; numbers with US thousands comma; units not converted."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": [
     "classico"
-  ]
+  ],
+  "options_lock": "c46cc3af6a527dce4bece779558f231ea84b5d291f2764443242d8ad263ca4c7"
 }

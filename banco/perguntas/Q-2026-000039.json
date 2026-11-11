@@ -104,6 +104,11 @@
     "tradutor": {
       "data": "2026-11-11",
       "notas": "Meters (US spelling); date in US format."
+    },
+    "conferente": {
+      "aprovado": false,
+      "notas": "só convenção numérica pt-PT",
+      "data": "2026-11-11"
     }
   },
   "estado": "em_verificacao",
@@ -170,6 +175,12 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Meters (US spelling); date in US format."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"explicação\", \"idioma\": \"pt-PT\", \"detalhe\": \"tempos com ponto decimal à inglesa (1:53.28, 47.99); em pt-PT a vírgula\"}]"
     }
   ],
   "etiquetas": [

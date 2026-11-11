@@ -85,9 +85,14 @@
     "tradutor": {
       "data": "2026-11-11",
       "notas": "US number format; Dunkirk and Barcelona in usual English forms."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-04-historia",
   "criada_em": "2026-11-04",
@@ -163,6 +168,19 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "US number format; Dunkirk and Barcelona in usual English forms."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
-  ]
+  ],
+  "options_lock": "07441ce2dffbcd8a4f18c7df30952fa69dbc12c5095e17a93b0e10e9d44c331b"
 }

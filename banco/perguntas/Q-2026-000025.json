@@ -98,9 +98,14 @@
     "tradutor": {
       "data": "2026-11-11",
       "notas": "Os Lusíadas -> The Lusiads. The pt-PT explanation says 'feita por ele' (ambiguous); followed the source: 'by the diplomat'. 'promovida por' -> 'sponsored'; worth a check by the conferente."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -158,6 +163,19 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Os Lusíadas -> The Lusiads. The pt-PT explanation says 'feita por ele' (ambiguous); followed the source: 'by the diplomat'. 'promovida por' -> 'sponsored'; worth a check by the conferente."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
-  ]
+  ],
+  "options_lock": "f4a8a2375b13e910a0518e895fd9cb54a0510dae8ccc13e7e2ca6b5e22a9dfa1"
 }

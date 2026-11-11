@@ -86,9 +86,14 @@
     "tradutor": {
       "data": "2026-11-11",
       "notas": "Attribution to Michael E. Smith kept. 'Cacao' (not 'cocoa') as in the sources."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-06-misto",
   "criada_em": "2026-11-06",
@@ -146,9 +151,22 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Attribution to Michael E. Smith kept. 'Cacao' (not 'cocoa') as in the sources."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": [
     "classico"
-  ]
+  ],
+  "options_lock": "719fd476ddc1e2dc1c29fddb639e6248f2453292ac67470c80507c01ca45674c"
 }
