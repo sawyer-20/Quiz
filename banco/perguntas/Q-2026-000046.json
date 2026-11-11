@@ -50,8 +50,8 @@
   },
   "sensivel_ao_tempo": false,
   "valida_ate": null,
-  "estado": "em_verificacao",
-  "motivo_rejeicao": null,
+  "estado": "rejeitada",
+  "motivo_rejeicao": "quota de clássicos do lote (regra 16): o lote já tinha 2 clássicos (Q24, Q39); alvo 12 falhou 3 vezes (copiada, clássico, clássico) e não é retomado neste lote",
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
   "historico": [
@@ -60,7 +60,15 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Sem nível 1: britannica 403; CIA Factbook descontinuado. Wikipédia como 2.ª fonte porque não encontrou original acessível. Coordenadas divergem em segundos. Reiquiavique excluída de propósito."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "Facto aparece em quizzes (Byjus, JetPunk); opções nossas, sem cópia. Lote já com 2 clássicos (Q24, Q39)."
     }
   ],
-  "etiquetas": []
+  "etiquetas": [
+    "classico"
+  ]
 }

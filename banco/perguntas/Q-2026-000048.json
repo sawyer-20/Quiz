@@ -1,0 +1,57 @@
+{
+  "id": "Q-2026-000048",
+  "lingua": "pt-PT",
+  "tema": "musica",
+  "subtema": "instrumentos e notação",
+  "formato": "escolha-multipla",
+  "enunciado": "O piano que Liszt levou para Lisboa em 1845 foi dado pela rainha D. Maria II a quem?",
+  "opcoes": [
+    "À Academia Filarmónica de Lisboa",
+    "Ao embaixador de França em Lisboa",
+    "Ao professor de música dos seus filhos",
+    "Ao Teatro de São Carlos"
+  ],
+  "correta": 2,
+  "explicacao": "Liszt viajou com o seu próprio piano Boisselot, enviado como bagagem. A rainha D. Maria II doou-o a Manuel Inocêncio dos Santos, professor de música dos Infantes. Hoje pertence ao Museu Nacional da Música.",
+  "dificuldade_estimada": 3,
+  "fontes": [
+    {
+      "url": "https://artsandculture.google.com/asset/piano-boisselot-et-fils/2gGb1dtttEyckg",
+      "dominio": "google.com",
+      "titulo": "Piano - Boisselot et Fils (Museu Nacional da Música, via Google Arts & Culture)",
+      "nivel": 1,
+      "excerto": "Piano que o compositor e pianista Franz Liszt (1811-1886) trouxe consigo em 1845, aquando da sua passagem por Portugal. Foi oferecido à Rainha D. Maria II (1819-1853) que o doou ao professor de música dos Infantes, Manuel Inocêncio dos Santos",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://proa.ua.pt/index.php/comunicarte/article/download/31762/21754",
+      "dominio": "ua.pt",
+      "titulo": "Artigo sobre Liszt em Portugal, revista Comunicarte (Universidade de Aveiro)",
+      "nivel": 1,
+      "excerto": "Liszt chegou com o seu piano, da marca Boisselot (...) o piano viajou como bagagem. Por cedência de Liszt, a Rainha adquiriu aquele piano e ofereceu-o ao professor dos seus filhos. Hoje está instalado no Museu Nacional de Música em Lisboa.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "sensivel_ao_tempo": false,
+  "valida_ate": null,
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Fontes PT n1: museunacionaldamusica.gov.pt (institucional), artsandculture.google.com (Museu Nacional da Música/DGPC), proa.ua.pt (U. Aveiro). Divergência menor: oferecido à rainha vs adquirido por cedência. Localização atual do piano pode ter mudado (2025 Mafra): não está na pergunta, mas a explicação diz «Hoje pertence ao Museu Nacional da Música»."
+    }
+  ],
+  "etiquetas": []
+}

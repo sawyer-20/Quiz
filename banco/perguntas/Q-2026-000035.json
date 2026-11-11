@@ -4,15 +4,15 @@
   "tema": "geografia",
   "subtema": "fronteiras",
   "formato": "escolha-multipla",
-  "enunciado": "No lago de Constança (Bodensee), em que parte a fronteira Alemanha–Suíça segue a linha mediana do lago?",
+  "enunciado": "Qual destas zonas do lago de Constança tem a fronteira Alemanha–Suíça a correr pelo meio da água?",
   "opcoes": [
     "No Untersee (lago inferior)",
-    "Na baía de Bregenz",
+    "No Obersee, em águas profundas",
     "No Überlinger See",
-    "No Obersee, em águas profundas"
+    "Na baía de Bregenz"
   ],
   "correta": 0,
-  "explicacao": "Só no Untersee e no «funil de Constança» a fronteira germano-suíça corre pelo meio da água. No Obersee, a parte maior, o traçado nunca foi fixado: o tratado em vigor diz que não o altera.",
+  "explicacao": "Segundo a Stuttgarter Zeitung (dpa), que cita a polícia fluvial, o Untersee e o Konstanzer Trichter estão realmente divididos: a fronteira corre ao meio. No Obersee o traçado nunca foi esclarecido em termos de direito internacional.",
   "dificuldade_estimada": 3,
   "fontes": [
     {
@@ -32,26 +32,10 @@
       "excerto": "der Untersee [...] und der sogenannte Konstanzer Trichter [sind] real geteilt. Das bedeutet, die Grenze zwischen Deutschland und der Schweiz verläuft dort genau in der Mitte.",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://www.igkb.org/bodensee/wem-gehoert-der-bodensee",
-      "dominio": "igkb.org",
-      "titulo": "IGKB - Wem gehört der Bodensee?",
-      "nivel": 1,
-      "excerto": "Klar geregelt sind die Verhältnisse am Untersee. Im Jahr 1854 einigten sich das damalige Großherzogtum Baden und der schweizerische Kanton Thurgau auf die Mitte des Rheins und des Rheinsees als Landesgrenze.",
-      "consultada_em": "2026-11-11",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "No Untersee (lago inferior)",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "igkb.org",
-      "data": "2026-11-11",
-      "notas": "AMBIGUIDADE ASSINALADA PELO VERIFICADOR (para o advogado): «linha mediana» é inferência (a IGKB diz 'Mitte' do Reno e do Rheinsee, parte do Untersee, acordo de 1854 entre Baden e Thurgau); existe também um troço definido no Konstanzer Trichter (1878/1938) que pertence ao Obersee, por acordo e não como linha mediana. Obersee: fronteira não regulada (teorias, nenhuma imposta). Überlinger See: só Baden-Württemberg. Corroboração n2: Austria-Forum. Recusada: hls-dhs-dss.ch (403)."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -79,6 +63,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte igkb.org"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo)"
     }
   ],
   "etiquetas": []

@@ -4,15 +4,15 @@
   "tema": "ciencia",
   "subtema": "biologia – comportamento e adaptação animal",
   "formato": "escolha-multipla",
-  "enunciado": "Em 2016, registos de EEG provaram pela primeira vez que uma ave dorme em pleno voo. Qual foi?",
+  "enunciado": "Em 2016, registos de EEG mostraram pela primeira vez que uma ave dorme em pleno voo. Qual foi?",
   "opcoes": [
     "A fragata-grande",
     "O pelicano-pardo",
-    "O albatroz-errante",
-    "A andorinha-do-mar-ártica"
+    "A andorinha-do-mar-ártica",
+    "O albatroz-errante"
   ],
   "correta": 0,
-  "explicacao": "Registos de EEG em fragatas-grandes (Fregata minor) a voar sobre o Pacífico mostraram que dormem com um hemisfério cerebral de cada vez ou com os dois. Dormem sobretudo a planar em círculos, com o olho do hemisfério acordado virado para a direção do voo.",
+  "explicacao": "Registos de EEG em fragatas-grandes em voo mostraram que dormem com um hemisfério cerebral de cada vez ou com os dois. Dormem sobretudo a planar em círculos; os autores sugerem que o hemisfério acordado serve para ver para onde vão.",
   "dificuldade_estimada": 3,
   "fontes": [
     {
@@ -41,26 +41,10 @@
       "excerto": "The results, published in Nature Communications, showed that frigatebirds could soar and glide with one or both sides of their brains asleep.",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4976198/",
-      "dominio": "nih.gov",
-      "titulo": "Evidence that birds sleep in mid-flight (Rattenborg et al., Nature Communications 2016, via PMC)",
-      "nivel": 1,
-      "excerto": "using electroencephalogram recordings of great frigatebirds (Fregata minor) flying over the ocean for up to 10 days, we show that they can sleep with either one hemisphere at a time or both hemispheres simultaneously.",
-      "consultada_em": "2026-11-11",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "A fragata-grande",
-      "concorda": true,
-      "confianca": "alta",
-      "dominio": "nih.gov",
-      "data": "2026-11-11",
-      "notas": "ATENÇÃO PARA O ADVOGADO: a fonte do verificador é o MESMO artigo (Nature Communications 2016) que a fonte do pesquisador em nature.com, só noutro domínio (PMC). Outras opções excluídas por o estudo ter sido só em fragatas; não abriu fonte independente sobre elas."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -88,6 +72,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte nih.gov"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo)"
     }
   ],
   "etiquetas": []

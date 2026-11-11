@@ -4,15 +4,15 @@
   "tema": "ciencia",
   "subtema": "física do quotidiano",
   "formato": "escolha-multipla",
-  "enunciado": "Numa chapa muito acima dos 100 °C, uma gota de água desliza e dura minutos. O que a impede de tocar no metal?",
+  "enunciado": "Numa chapa muito acima dos 100 °C, uma gota de água desliza sem tocar no metal. O que a mantém afastada?",
   "opcoes": [
-    "A tensão superficial, que repele o calor do metal",
-    "Uma almofada de vapor formada pela própria gota",
+    "Bolhas de ar que ficam presas na base da gota",
     "Uma película de óxido que se forma na superfície do metal",
-    "Bolhas de ar que ficam presas na base da gota"
+    "Uma almofada de vapor formada pela própria gota",
+    "A tensão superficial, que repele o calor do metal"
   ],
-  "correta": 1,
-  "explicacao": "É o efeito Leidenfrost: acima de uma certa temperatura, a base da gota evapora e o vapor forma uma almofada fina e isoladora. A gota levita sobre ela, perde calor devagar e quase não tem atrito.",
+  "correta": 2,
+  "explicacao": "É o efeito Leidenfrost: acima de uma certa temperatura, a base da gota evapora e o vapor forma uma almofada fina e isoladora. A gota levita sobre ela e perde calor devagar.",
   "dificuldade_estimada": 2,
   "fontes": [
     {
@@ -32,26 +32,10 @@
       "excerto": "the released vapor forms an insulating layer around the still-liquid droplet. This vapor coat not only slows the boiling, it also reduces friction and makes the droplet hydroplane over the metal.",
       "consultada_em": "2026-11-11",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7979863/",
-      "dominio": "nih.gov",
-      "titulo": "Leidenfrost droplet trampolining (Nature Communications, via PMC)",
-      "nivel": 1,
-      "excerto": "A liquid droplet dispensed over a sufficiently hot surface does not make contact but instead hovers on a cushion of its own self-generated vapor. Since its discovery in 1756, this so-called Leidenfrost effect has been intensively studied.",
-      "consultada_em": "2026-11-11",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Uma almofada de vapor formada pela própria gota",
-      "concorda": true,
-      "confianca": "alta",
-      "dominio": "nih.gov",
-      "data": "2026-11-11",
-      "notas": "Artigo revisto por pares. Película de óxido e bolhas de ar não são causa; tensão superficial só molda a gota."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -79,6 +63,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte nih.gov"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo)"
     }
   ],
   "etiquetas": []
