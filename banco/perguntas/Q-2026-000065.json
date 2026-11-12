@@ -1,0 +1,53 @@
+{
+  "id": "Q-2026-000065",
+  "topic": "Video Games",
+  "subtopic": "consolas / Nintendo",
+  "text": {
+    "pt-PT": {
+      "question": "Em 1953, a Nintendo foi a primeira empresa do Japão a produzir em massa que objeto em plástico?",
+      "options": [
+        "Fichas de casino",
+        "Peças de xadrez",
+        "Cartas de jogar",
+        "Dados de jogo"
+      ],
+      "explanation": "A Nintendo nasceu em 1889 a fazer cartas japonesas (hanafuda) e em 1902 lançou as primeiras cartas ocidentais no Japão. Em 1953 foi a primeira a produzir cartas de plástico em massa, muito antes das consolas."
+    }
+  },
+  "correct": 2,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.nintendo.co.jp/corporate/en/history/index.html"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.nintendo.co.jp/corporate/en/history/index.html",
+      "dominio": "nintendo.co.jp",
+      "titulo": "Corporate Information: Company History, Nintendo Co., Ltd.",
+      "nivel": 1,
+      "excerto": "1953 Became the first company to succeed in mass-producing plastic playing cards in Japan. [...] 1902 Started manufacturing and selling the first western playing cards in Japan.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Só UMA fonte lida (site oficial da Nintendo, nível 1, facto sobre a própria empresa); falta a segunda fonte de outro domínio, a trazer pelo verificador. O ângulo (cartas de plástico, 1953) é menos batido do que 'a Nintendo começou com cartas'. O enunciado dá o ano 1953 e a explicação 1889/1902/1953: só vêm da Nintendo, por isso o verificador deve confirmar com segunda fonte ou o editor/pesquisador retira os anos (o enunciado funciona sem '1953'). 'Cartas de jogar' pode ser dada como resposta mesmo sem plástico: os distratores não são cartas, pelo que não há ambiguidade. Dificuldade 2, e não 1, por ser pouco batido."
+    }
+  ],
+  "etiquetas": []
+}

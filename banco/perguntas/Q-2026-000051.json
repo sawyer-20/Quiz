@@ -40,10 +40,26 @@
       "excerto": "It stands atop a reel of film with five spokes signifying the five original branches of the Academy – actors, directors, producers, technicians and writers.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://academymuseumstore.org/collections/anatomy-of-an-oscar",
+      "dominio": "academymuseumstore.org",
+      "titulo": "Anatomy of an Oscar - Academy Museum Store",
+      "nivel": 2,
+      "excerto": "a stylized figure of a knight holding a crusader's sword while standing on a reel of film with five spokes signifying the five original branches of the Academy",
+      "consultada_em": "2026-11-12",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Um rolo de filme",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "academymuseumstore.org",
+      "data": "2026-11-12",
+      "notas": "Li a fonte, da loja do museu da própria Academia, por isso a classifico como nível 2 e não 1. Só uma fonte. oscars.org e Britannica devolveram 403. Globo, pedestal de mármore e máscara de teatro não constam da descrição."
+    },
     "advogado": null,
     "editor": null
   },
@@ -63,6 +79,12 @@
       "evento": "originalidade: classico",
       "agente": "originalidade",
       "nota": "facto circula em trivia; enunciado e opções nossas"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte academymuseumstore.org"
     }
   ],
   "etiquetas": [

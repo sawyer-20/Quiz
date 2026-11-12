@@ -66,7 +66,15 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Terceira fonte (NASM, domínio si.edu) independente de nasa.gov. A frase «trajetória mais rápida» não está nas fontes que li (só o NASM diz que a V2 passou por Júpiter depois da V1; o Planetary Society, só em resultado de pesquisa, diz «mais rápida»): se o verificador não a confirmar, trocar por «e chegou antes a Júpiter (março de 1979, contra julho de 1979)». Pioneer 11 e Mariner 10 foram lançadas em 1973; não confirmado nas fontes lidas, o verificador deve validar. Facto estável, sem valid_until. Pergunta de data exata: a data está em duas fontes de domínios diferentes."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "facto corrente; enunciado e opções nossas — EM ESPERA (quota de clássicos do lote já atingida; decisão do Andre)"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [
+    "classico"
+  ]
 }

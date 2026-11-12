@@ -40,12 +40,29 @@
       "excerto": "The femur is your thigh bone. It's the longest, strongest bone in your body.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.guinnessworldrecords.com/world-records/67745-longest-bone",
+      "dominio": "guinnessworldrecords.com",
+      "titulo": "Longest bone | Guinness World Records",
+      "nivel": 2,
+      "excerto": "The thigh bone, or femur, is the longest. It constitutes 27.5% of a person's stature normally, and may be expected to be 50 cm (19.75 in) long in a man measuring 180 cm (5 ft 11 in) tall.",
+      "consultada_em": "2026-11-12",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Fémur",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "guinnessworldrecords.com",
+      "data": "2026-11-12",
+      "notas": "Li a fonte, que é de nível 2, e só uma. Britannica devolveu 403. A fonte diz que o fémur é o osso mais longo, o que exclui tíbia, úmero e rádio. Facto anatómico estável."
+    },
     "advogado": null,
-    "editor": null
+    "editor": null,
+    "caminho_leve": true
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -63,9 +80,22 @@
       "evento": "originalidade: classico",
       "agente": "originalidade",
       "nota": "facto muito clássico; enunciado óbvio, opções nossas"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte guinnessworldrecords.com"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "caminho leve (sem advogado do diabo)",
+      "agente": "orquestrador",
+      "nota": "dificuldade 1, fonte de nível 1 do pesquisador (NIH/NCBI); verificador cego concorda"
     }
   ],
   "etiquetas": [
+    "caminho_leve",
     "classico"
   ]
 }

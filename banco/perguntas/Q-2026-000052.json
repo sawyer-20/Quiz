@@ -30,10 +30,26 @@
       "excerto": "the stela fragment features versions of the same decree in three scripts: hieroglyphs, Demotic ... and ancient Greek. ... scholars at the time knew ancient Greek and could therefore piece together the hieroglyphic translation",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.nationalgeographic.com/history/article/how-the-rosetta-stone-unlocked-the-secrets-of-ancient-civilizations",
+      "dominio": "nationalgeographic.com",
+      "titulo": "How the Rosetta Stone unlocked the secrets of ancient civilizations | National Geographic",
+      "nivel": 2,
+      "excerto": "recorded on the stele in Ptolemaic hieroglyphics, Demotic Egyptian script, and ancient Greek script. [...] After translating the ancient Greek, he [Thomas Young] took extensive notes on the hieroglyphs",
+      "consultada_em": "2026-11-12",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Grego antigo",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "nationalgeographic.com",
+      "data": "2026-11-12",
+      "notas": "Li a fonte (nível 2, só uma). A pedra tem hieroglífico, demótico e grego antigo; o grego foi traduzido primeiro e serviu de ponto de partida. Hebraico, fenício e latim não constam dos três textos. Britannica e British Museum devolveram 403, por isso não houve segunda fonte. A pesquisa apresentou o British Museum a dizer o mesmo, mas não o abri."
+    },
     "advogado": null,
     "editor": null
   },
@@ -53,6 +69,12 @@
       "evento": "originalidade: classico",
       "agente": "originalidade",
       "nota": "facto em vários quizzes; enunciado e opções nossas"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte nationalgeographic.com"
     }
   ],
   "etiquetas": [

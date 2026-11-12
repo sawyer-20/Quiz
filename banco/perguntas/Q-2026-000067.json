@@ -1,0 +1,53 @@
+{
+  "id": "Q-2026-000067",
+  "topic": "General Knowledge",
+  "subtopic": "símbolos / bandeiras",
+  "text": {
+    "pt-PT": {
+      "question": "Segundo a lei suíça, os braços da cruz da bandeira da Suíça são mais compridos do que largos em que fração?",
+      "options": [
+        "Metade",
+        "Um sexto",
+        "Um terço",
+        "Um quarto"
+      ],
+      "explanation": "A lei suíça define uma cruz branca sobre fundo vermelho, com os quatro braços iguais, cada um um sexto mais comprido do que largo. A bandeira nacional tem fundo quadrado, o que a torna uma das raras bandeiras de Estado quadradas."
+    }
+  },
+  "correct": 1,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20170101/en/pdf-a/fedlex-data-admin-ch-eli-cc-2015-613-20170101-en-pdf-a.pdf"
+  ],
+  "fontes": [
+    {
+      "url": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20170101/en/pdf-a/fedlex-data-admin-ch-eli-cc-2015-613-20170101-en-pdf-a.pdf",
+      "dominio": "admin.ch",
+      "titulo": "Federal Act on the Protection of the Swiss Coat of Arms and Other Public Signs (Coat of Arms Protection Act), Fedlex",
+      "nivel": 1,
+      "excerto": "[Art. 1] ...a white Swiss cross ... against a red background, whose arms, which are all of equal size, are one-sixth longer than they are wide. Art. 3: The Swiss flag shows a Swiss cross on a square background.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Só UMA fonte lida (legislação suíça no Fedlex, nível 1); o excerto junta Art. 1 e Art. 3 (a leitura abriu a partir de Art. 1 'cross...' já cortado no início da frase, a confirmar o início do Art. 1 no texto completo). Outras fontes oficiais (eda.admin.ch / aboutswitzerland, fdfa) devolveram 403. A frase 'uma das raras bandeiras de Estado quadradas' é do meu conhecimento geral e NÃO está na fonte lida: o editor deve retirá-la ou o verificador fundamentá-la (Vaticano); recomendo tirar a oração final. Dificuldade 3, não 1: facto simples mas desconhecido de quase todos; se a coordenação insistir em dificuldade 1 troco por 'bandeira quadrada' (mais batida, sujeita a ser classificada clássica)."
+    }
+  ],
+  "etiquetas": []
+}

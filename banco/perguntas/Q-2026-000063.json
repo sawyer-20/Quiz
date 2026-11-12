@@ -57,6 +57,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "O paris.fr não diz com todas as letras 'nenhuma mulher'; di-lo a Sorbonne (entrevista ao promotor) e é implícito no projeto de acrescentar mulheres; o verificador deve procurar fonte independente (o site oficial toureiffel.paris devolveu 403 e não abre neste ambiente). 'Nem Marie Curie' vem do excerto da Sorbonne. A parte de 2026 da explicação é dependente do tempo (projeto por validar): o editor pode cortá-la sem tocar no facto. Alvo pensado para evitar a pergunta clássica 'quantos nomes' e dar o ângulo 'ausências'. Wikipédia só serviu de pista."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "sem quiz equivalente"
     }
   ],
   "etiquetas": []

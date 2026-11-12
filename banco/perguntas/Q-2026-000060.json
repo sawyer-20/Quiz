@@ -57,7 +57,15 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Segunda fonte (nível 2) confirma 1922 e a drenagem, mas não as ruas em ângulo reto nem 2500-1500 a.C. (só UNESCO): a explicação apoia-se na UNESCO nesses pontos; se o orquestrador quiser duas fontes para essa data, tirar «floresceu entre 2500 e 1500 a.C.». A UNESCO tem texto contraditório sobre o tijolo (cozido/cru): a pergunta evita o tijolo. Harappa também é do Indo, mas a descoberta de Harappa não é de 1922 (não foi verificado aqui, por isso o verificador deve confirmar que 1922 + ruas em grelha só cabe a Mohenjo-Daro). Britannica 403; Wikipédia não usada. Tema não está entre os já existentes."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "facto corrente; enunciado e opções nossas — EM ESPERA (quota de clássicos do lote já atingida; decisão do Andre)"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [
+    "classico"
+  ]
 }

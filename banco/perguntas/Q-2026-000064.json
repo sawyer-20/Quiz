@@ -73,6 +73,12 @@
       "evento": "alvo retomado",
       "agente": "orquestrador",
       "nota": "retoma única de Q-2026-000035 (lago de Constança), com as notas do advogado (regra 15)"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "sem quiz equivalente"
     }
   ],
   "etiquetas": []

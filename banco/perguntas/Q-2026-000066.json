@@ -1,0 +1,63 @@
+{
+  "id": "Q-2026-000066",
+  "topic": "Nature & Animals",
+  "subtopic": "animais comuns",
+  "text": {
+    "pt-PT": {
+      "question": "Qual destes animais, tal como o gato doméstico, tem inutilizado o gene de um dos recetores do sabor doce?",
+      "options": [
+        "Tigre",
+        "Ser humano",
+        "Rato",
+        "Cão"
+      ],
+      "explanation": "No gato doméstico, o gene Tas1r2, necessário ao recetor do doce, perdeu 247 pares de bases e não funciona. Os investigadores do Monell encontraram a mesma falha no tigre e na chita; cães, ratos e humanos têm sabor doce."
+    }
+  },
+  "correct": 0,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0010003",
+    "https://www.nature.com/news/2005/050718/full/news050718-16.html"
+  ],
+  "fontes": [
+    {
+      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0010003",
+      "dominio": "plos.org",
+      "titulo": "Pseudogenization of a Sweet-Receptor Gene Accounts for Cats' Indifference toward Sugar, PLOS Genetics (2005)",
+      "nivel": 1,
+      "excerto": "Tas1r2 in tiger and cheetah and in six healthy adult domestic cats all show the similar deletion and stop codons. [...] cat Tas1r2 is an unexpressed pseudogene.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.nature.com/news/2005/050718/full/news050718-16.html",
+      "dominio": "nature.com",
+      "titulo": "Cats lack a sweet tooth, Nature News (2005)",
+      "nivel": 2,
+      "excerto": "the gene for T1R2 lacks 247 base pairs of DNA, which means it cannot produce a working protein. [...] The research team has found the same genetic deletion in close relatives of the domestic cat, including the tiger and cheetah.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Facto 'gatos não sentem o doce' é conhecido, mas o ângulo (parentes com o mesmo gene avariado) é pouco batido; pode ainda ser marcado clássico pela originalidade. O estudo é de 2005: não conheço desmentidos nas fontes lidas, mas o verificador deve confirmar que o tigre continua a constar. «Cães, ratos e humanos têm sabor doce»: a Nature diz que cães e humanos gostam de açúcar e o estudo usa receptores de rato; se o editor achar a afirmação sobre o rato pouco apoiada, reduzir a explicação para 'cães e humanos'. O número 247 vem de PLOS+Nature, duas fontes de acordo; não está no enunciado. Distratores defensáveis? Cão e humano, claramente com doce; rato idem (modelo de estudo de receptores do doce)."
+    }
+  ],
+  "etiquetas": []
+}

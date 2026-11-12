@@ -40,10 +40,26 @@
       "excerto": "In 1904 Bolivia officially ceded the coastal territory to Chile under the Treaty of Peace and Friendship. [...] Because Bolivia is landlocked, the oceans offer no aid in moving commodities.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.ebsco.com/research-starters/military-history-and-science/war-pacific/",
+      "dominio": "ebsco.com",
+      "titulo": "War of the Pacific | EBSCO Research Starters",
+      "nivel": 2,
+      "excerto": "The war concluded with treaties that ceded valuable territories to Chile, including [...] Tarapaca and control over Antofagasta, leaving Bolivia landlocked and altering the regional balance of power.",
+      "consultada_em": "2026-11-12",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Bolívia",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "ebsco.com",
+      "data": "2026-11-12",
+      "notas": "Li a fonte (nível 2, só uma). Antofagasta era o único acesso da Bolívia ao mar. Argentina e Paraguai não participaram na guerra. Peru perdeu Tarapacá mas ficou com costa. Britannica devolveu 403. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): O Peru também perdeu território para Chile (Tarapacá), mas manteve costa. Só a Bolívia ficou sem acesso ao mar."
+    },
     "advogado": null,
     "editor": null
   },
@@ -63,6 +79,12 @@
       "evento": "originalidade: classico",
       "agente": "originalidade",
       "nota": "facto presente em vários quizzes; enunciado e opções nossas"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte ebsco.com"
     }
   ],
   "etiquetas": [
