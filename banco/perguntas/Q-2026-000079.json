@@ -1,0 +1,63 @@
+{
+  "id": "Q-2026-000079",
+  "topic": "Space",
+  "subtopic": "astronomia histórica",
+  "text": {
+    "pt-PT": {
+      "question": "Nos cadernos de 1612-1613, Galileu registou Neptuno junto a Júpiter. Que corpo julgou ele estar a ver?",
+      "options": [
+        "Um cometa distante",
+        "Uma nova estrela explosiva",
+        "Uma estrela fixa",
+        "Um reflexo na lente do telescópio"
+      ],
+      "explanation": "Galileu desenhou Neptuno nas suas observações de Júpiter, mas registou-o como estrela fixa. O planeta só foi encontrado em 1846, mais de 200 anos depois, e foi o primeiro localizado por previsão matemática."
+    }
+  },
+  "correct": 2,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://science.nasa.gov/neptune/neptune-facts/",
+    "https://www.nature.com/articles/287311a0"
+  ],
+  "fontes": [
+    {
+      "url": "https://science.nasa.gov/neptune/neptune-facts/",
+      "dominio": "nasa.gov",
+      "titulo": "Neptune: Facts, NASA Science",
+      "nivel": 1,
+      "excerto": "Galileo recorded Neptune as a fixed star during observations with his small telescope in 1612 and 1613. More than 200 years later, the ice giant became the first planet located through mathematical predictions.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.nature.com/articles/287311a0",
+      "dominio": "nature.com",
+      "titulo": "Kowal & Drake, Galileo's observations of Neptune, Nature 287, 311-313 (1980)",
+      "nivel": 1,
+      "excerto": "We have found that Galileo observed the planet Neptune on 28 December 1612 and 28 January 1613. ... Galileo also detected the motion of Neptune.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Dificuldade estimada 3, abaixo do alvo 4: o facto é conhecido em círculos de astronomia e pode aparecer em listas de curiosidades (pode contar como clássico). Datas exatas ficaram fora do texto porque as fontes divergem (27 ou 28 de dezembro de 1612). O resumo do Nature que li não diz 'estrela fixa' (só que o planeta foi tomado por estrela em casos análogos); essa formulação vem da NASA, por isso o verificador deve procurar outra fonte para 'estrela fixa'. David Jamieson (Melbourne, 2009) defende que Galileu suspeitou tratar-se de um planeta; é tese contestada, mas a pergunta refere o que ficou registado. O Britannica devolveu 403."
+    }
+  ],
+  "etiquetas": []
+}

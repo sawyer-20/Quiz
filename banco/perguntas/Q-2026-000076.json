@@ -1,0 +1,63 @@
+{
+  "id": "Q-2026-000076",
+  "topic": "General Knowledge",
+  "subtopic": "etimologia / língua",
+  "text": {
+    "pt-PT": {
+      "question": "A palavra árabe «sifr», de que vêm «zero» e «cifra», traduziu um termo sânscrito que significava o quê?",
+      "options": [
+        "Círculo",
+        "Ponto",
+        "Vazio",
+        "Pedra de contar"
+      ],
+      "explanation": "O árabe «ṣifr» foi um decalque do sânscrito «śūnya», «vazio». Daí vieram «cifra» e, via Fibonacci e o italiano, «zero». Duas palavras comuns que escondem a ideia de vazio."
+    }
+  },
+  "correct": 2,
+  "difficulty": 4,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.treccani.it/vocabolario/zero/",
+    "https://mathshistory.st-andrews.ac.uk/Miller/mathword/z/"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.treccani.it/vocabolario/zero/",
+      "dominio": "treccani.it",
+      "titulo": "Zero, Vocabolario Treccani",
+      "nivel": 1,
+      "excerto": "zero [dal lat. mediev. zèphyrum, adattam. (Leonardo Fibonacci nel Liber abbaci, 1202) dell'arabo ṣifr «nulla, zero», calco del sanscr. śūnyá «vuoto» e poi «zero» (v. anche cifra)]",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://mathshistory.st-andrews.ac.uk/Miller/mathword/z/",
+      "dominio": "st-andrews.ac.uk",
+      "titulo": "Earliest Known Uses of Some of the Words of Mathematics (Z), MacTutor, University of St Andrews",
+      "nivel": 1,
+      "excerto": "ZERO, like its synonym CIPHER, derives from the Sanskrit sunya. ... The first step was the transcription of the Sanskrit word meaning \"void\" into Arabic as as-sifr or sifr.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Treccani remete para a entrada «cifra» mas não li essa entrada; a ligação cifra/zero assenta no MacTutor (cipher via cifra medieval e francês antigo cyfre, descendente de sifr) e na remissão do Treccani. Evitei datas (1202 só aparece nas fontes, não no texto). O verbo 'traduziu' segue o 'calco' do Treccani; o MacTutor diz 'transcrição', mas ambos dão o mesmo sentido (vazio). Classificação: ângulo pouco batido (a raiz sânscrita, não a árabe), mas a ligação zero/cifra aparece em listas de etimologia; não marcar como clássico, com cautela. Distrator 'círculo' é plausível pelo símbolo 0 mas errado segundo as fontes."
+    }
+  ],
+  "etiquetas": []
+}

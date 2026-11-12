@@ -1,0 +1,63 @@
+{
+  "id": "Q-2026-000077",
+  "topic": "Geography",
+  "subtopic": "ilhas / fronteiras",
+  "text": {
+    "pt-PT": {
+      "question": "A fronteira que atravessa o ilhéu báltico de Märket foi redesenhada nos anos 1980. Com que objetivo?",
+      "options": [
+        "Dar à Suécia o único ancoradouro do ilhéu",
+        "Acompanhar a subida do solo após o degelo",
+        "Pôr o farol finlandês em território da Finlândia",
+        "Separar as zonas de pesca dos dois países"
+      ],
+      "explanation": "A fronteira dividia o ilhéu ao meio, mas o farol que a Finlândia construiu em 1885 ficou na parte sueca. Uma revisão da fronteira nos anos 1980 traçou nova linha para o farol ficar em território finlandês."
+    }
+  },
+  "correct": 2,
+  "difficulty": 4,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://data.riksdagen.se/dokument/G801LU16.html",
+    "https://www.atlasobscura.com/places/market-lighthouse"
+  ],
+  "fontes": [
+    {
+      "url": "https://data.riksdagen.se/dokument/G801LU16.html",
+      "dominio": "riksdagen.se",
+      "titulo": "Riksdagen, LU 1984/85:16, alteração da fronteira Suécia-Finlândia (Märket)",
+      "nivel": 1,
+      "excerto": "Finland uppförde år 1885 en fyr ... på Märket. ... Till grund för förslaget har legat önskemålet att fyranläggningen efter gränsöversynen skall vara belägen på finländskt territorium.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.atlasobscura.com/places/market-lighthouse",
+      "dominio": "atlasobscura.com",
+      "titulo": "Märket Lighthouse, Atlas Obscura",
+      "nivel": 2,
+      "excerto": "In 1985, the lighthouse became officially reattached to Finnish territory on the island by a thin stretch of land.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Datas divergem entre fontes (revisão de 1981, aprovada e em vigor em 1985), por isso o texto diz só 'anos 1980' e a explicação não dá o ano. O parlamento sueco diz expressamente que a razão de o farol ter sido erguido no lado sueco não consta dos documentos; a explicação não a afirma (evitar 'por engano'). A segunda fonte (Atlas Obscura) é de nível 2 e de tipo turístico/curiosidades: o verificador deve procurar fonte independente de nível 1 (por exemplo Maanmittauslaitos, nota trocada em 1985, ou o parlamento finlandês HE 189/1986). Os sites lantmateriet.se e majakkaseura.fi falharam (404 e erro de rede)."
+    }
+  ],
+  "etiquetas": []
+}

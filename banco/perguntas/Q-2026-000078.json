@@ -1,0 +1,63 @@
+{
+  "id": "Q-2026-000078",
+  "topic": "Science",
+  "subtopic": "matemática / história da ciência",
+  "text": {
+    "pt-PT": {
+      "question": "O radiocarbono mostrou, em 2017, que as folhas do manuscrito indiano de Bakhshali (com zeros em ponto) vêm de quantas épocas?",
+      "options": [
+        "Pelo menos três épocas",
+        "Uma época por cada folha",
+        "Uma só época",
+        "Duas épocas"
+      ],
+      "explanation": "O radiocarbono deu datas diferentes para as amostras, a mais antiga do século III ou IV. O manuscrito é feito de material de pelo menos três períodos, o que explica por que era tão difícil datá-lo."
+    }
+  },
+  "correct": 0,
+  "difficulty": 4,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.glam.ox.ac.uk/node/218481",
+    "https://www.livescience.com/60425-oldest-zero-indian-manuscipt.html"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.glam.ox.ac.uk/node/218481",
+      "dominio": "ox.ac.uk",
+      "titulo": "Carbon dating finds Bakhshali manuscript contains oldest recorded origins of the symbol 'zero' (Bodleian Libraries, Oxford)",
+      "nivel": 1,
+      "excerto": "...the manuscript, which consists of 70 fragile leaves of birch bark, is in fact composed of material from at least three different periods.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.livescience.com/60425-oldest-zero-indian-manuscipt.html",
+      "dominio": "livescience.com",
+      "titulo": "Nothing to See Here: India's Oldest Use of Zero Identified (Live Science)",
+      "nivel": 2,
+      "excerto": "The carbon dating resulted in three different dates for different parts of the manuscript. The oldest part dated to A.D. 224-383, but two other parts dated to A.D. 680-779 and A.D. 885-993.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Historiadores contestam o que as datas significam para a história do zero (o tratado pode ser da data da folha mais recente); a pergunta evita essa polémica e só pergunta pelo resultado físico da datação. 'Pelo menos três' é a formulação de Oxford; a opção 'Duas épocas' é claramente errada, mas o verificador deve confirmar. O Live Science dá os três intervalos, mas a explicação só usa 'século III ou IV' (Oxford e Live Science concordam). Não é facto clássico de lista de curiosidades; é o pormenor do número de épocas, não o 'zero mais antigo'."
+    }
+  ],
+  "etiquetas": []
+}
