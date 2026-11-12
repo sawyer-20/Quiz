@@ -20,7 +20,8 @@
   "daily_eligible": true,
   "sources": [
     "https://www.nist.gov/si-redefinition/meter",
-    "https://www.npl.co.uk/resources/the-si-units/metre"
+    "https://metrologie-francaise.lne.fr/en/metrology/history-units",
+    "https://link.springer.com/article/10.1007/s00190-019-01257-7"
   ],
   "fontes": [
     {
@@ -58,10 +59,26 @@
       "excerto": "the metre we use ... is about 0.2 millimetres shorter than it was supposed to be ... the metre was supposed to be one ten-millionth part of the Earth quadrant",
       "consultada_em": "2026-11-12",
       "papel": "advogado"
+    },
+    {
+      "url": "https://metrologie-francaise.lne.fr/en/metrology/history-units",
+      "dominio": "lne.fr",
+      "titulo": "The historical evolution of units (LNE, Réseau National de la Métrologie Française)",
+      "nivel": 1,
+      "excerto": "Introduced on 26 March 1791, the metre was defined as being equal to the ten millionth part of one quarter of the terrestrial meridian.",
+      "consultada_em": "2026-11-12",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Do polo Norte ao equador",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "lne.fr",
+      "data": "2026-11-12",
+      "notas": "Excluídas as restantes; fonte lida. Ambiguidade assinalada pelo verificador e afastada pelo advogado do diabo (Paris–polo ≈ 4 900 km → 0,49 m ≠ 1 m)."
+    },
     "advogado": null,
     "editor": {
       "aprovado": true,
@@ -183,6 +200,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "retirada a causa contestada (erros na curvatura da Terra); mantém-se a cifra de 0,2 mm, com 3 fontes"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte lne.fr"
     }
   ]
 }

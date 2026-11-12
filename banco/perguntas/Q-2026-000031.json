@@ -15,6 +15,16 @@
         "Praticamente toda"
       ],
       "explanation": "Cerca de um quarto. A erupção acrescentou 2,4 km² ao Faial, mas a erosão marinha foi desfazendo a terra nova e, segundo a União Internacional de Ciências Geológicas (IUGS), resta hoje apenas cerca de um quarto dessa área."
+    },
+    "en-US": {
+      "question": "According to the IUGS, what fraction of the land the Capelinhos eruption (1957-58) added to Faial remains today after sea erosion?",
+      "options": [
+        "About a quarter",
+        "About half",
+        "About three-quarters",
+        "Nearly all of it"
+      ],
+      "explanation": "About a quarter. The eruption added 2.4 km² to Faial, but sea erosion gradually wore away the new land, and according to the International Union of Geological Sciences (IUGS), only about a quarter of that area remains today."
     }
   },
   "correct": 0,
@@ -93,6 +103,10 @@
       "alteracao_factual": false,
       "notas": "sem alterações de texto",
       "data": "2026-11-12"
+    },
+    "tradutor": {
+      "data": "2026-11-12",
+      "notas": "tradutor"
     }
   },
   "estado": "em_verificacao",
@@ -219,6 +233,12 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "tradutor"
     }
   ]
 }

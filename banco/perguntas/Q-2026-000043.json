@@ -12,6 +12,16 @@
         "Pátria"
       ],
       "explanation": "Portugal. Pessoa escreveu que o livro «chamava-se primitivamente» assim e que mudou o título porque Da Cunha Dias lhe fez notar que o nome da Pátria «estava hoje prostituído a sapatos, como a hotéis a sua maior Dinastia»."
+    },
+    "en-US": {
+      "question": "What was the original title of Fernando Pessoa's \"Mensagem\" before a friend led him to change it?",
+      "options": [
+        "Portugal",
+        "Atlantis",
+        "Lusitania",
+        "Fatherland"
+      ],
+      "explanation": "Portugal. Pessoa wrote that the book \"was originally called\" that, and that he changed the title because Da Cunha Dias pointed out that the name of the Fatherland \"was now prostituted to shoes, as its greatest Dynasty was to hotels.\""
     }
   },
   "correct": 0,
@@ -81,6 +91,10 @@
       "alteracao_factual": false,
       "notas": "sem alterações de texto",
       "data": "2026-11-12"
+    },
+    "tradutor": {
+      "data": "2026-11-12",
+      "notas": "tradutor"
     }
   },
   "estado": "em_verificacao",
@@ -195,6 +209,12 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "tradutor"
     }
   ],
   "markets": [
