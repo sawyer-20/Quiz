@@ -157,7 +157,16 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "markets definido",
+      "agente": "orquestrador",
+      "nota": "decisão do Andre: interesse local, markets [pt]"
     }
   ],
-  "options_lock": "cea573799239c0a975b54667593517c3056ed5521a03f59a65b8f4cfe91018e5"
+  "options_lock": "cea573799239c0a975b54667593517c3056ed5521a03f59a65b8f4cfe91018e5",
+  "markets": [
+    "pt"
+  ]
 }
