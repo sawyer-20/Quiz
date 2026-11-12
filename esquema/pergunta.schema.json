@@ -111,6 +111,10 @@
       "additionalProperties": false,
       "required": ["verificador", "advogado", "editor"],
       "properties": {
+        "caminho_leve": {
+          "description": "Teste do lote 4: factos de dificuldade 1 sem advogado do diabo (uma fonte oficial de nível 1 + verificador cego). Auditados depois por um agente que não os produziu.",
+          "type": "boolean"
+        },
         "verificador": {
           "type": ["object", "null"],
           "additionalProperties": false,

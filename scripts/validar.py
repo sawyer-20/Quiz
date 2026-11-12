@@ -387,7 +387,14 @@ def validar_pergunta(p: dict) -> tuple[list[str], list[str]]:
             erros.append("aprovada sem concordância do verificador às cegas")
         elif ver.get("confianca") == "baixa":
             erros.append("aprovada com confiança baixa do verificador")
-        if not adv or adv.get("aprovado") is not True:
+        if v.get("caminho_leve") is True:
+            if p.get("difficulty") != 1:
+                erros.append("caminho leve só vale para dificuldade 1")
+            if "caminho_leve" not in (p.get("etiquetas") or []):
+                erros.append("caminho leve sem a etiqueta 'caminho_leve'")
+            if not any(f.get("papel") == "pesquisador" and f.get("nivel") == 1 for f in p.get("fontes", [])):
+                erros.append("caminho leve exige fonte de nível 1 do pesquisador")
+        elif not adv or adv.get("aprovado") is not True:
             erros.append("aprovada sem aprovação do advogado do diabo")
         if not edi or edi.get("aprovado") is not True:
             erros.append("aprovada sem aprovação do editor")

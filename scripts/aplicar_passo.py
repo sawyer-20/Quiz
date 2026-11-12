@@ -5,6 +5,7 @@ Nunca escreve texto factual: copia o que o agente devolveu. Uso:
 
   aplicar_passo.py verif        <id> <json>   verificador às cegas (uma pergunta do seu JSON)
   aplicar_passo.py adv          <id> <json>   advogado do diabo (só regista se aprovado)
+  aplicar_passo.py leve         <id>          caminho leve (dif. 1, sem advogado; teste do lote 4)
   aplicar_passo.py reformular   <id> <json>   aplica a reformulação sugerida (volta ao verificador)
   aplicar_passo.py editor       <id> <json>   editor (só estilo: opções e ordem não mudam)
   aplicar_passo.py traducao     <id> <json>   tradutor (escreve o en-US)
@@ -69,6 +70,15 @@ def main():
             rejeitar(q, "originalidade", f"copiada: {nota}")
         gravar(f, q)
         print(f"{pid}: originalidade {veredicto}")
+        return 0
+
+    if cmd == "leve":
+        if q.get("difficulty") != 1 or q.get("estado") != "em_verificacao" or not q["verificacao"].get("verificador"):
+            print("RECUSADO: o caminho leve exige dificuldade 1, em_verificacao e verificador às cegas já registado"); return 3
+        q["verificacao"]["caminho_leve"] = True
+        q["etiquetas"] = sorted(set(q.get("etiquetas", [])) | {"caminho_leve"})
+        ev(q, "caminho leve (sem advogado do diabo)", "orquestrador", sys.argv[3])
+        gravar(f, q); print("CAMINHO LEVE", pid)
         return 0
 
     if cmd in ("rejeitar", "suspender"):
