@@ -1,0 +1,62 @@
+{
+  "id": "Q-2026-000084",
+  "topic": "Football",
+  "subtopic": "recordes / estatísticas",
+  "text": {
+    "pt-PT": {
+      "question": "No Áustria 7–5 Suíça (Mundial de 1954), o jogo com mais golos da história, quantos foram marcados só na 1.ª parte?",
+      "options": [
+        "7",
+        "10",
+        "9",
+        "8"
+      ],
+      "explanation": "A Suíça chegou a vencer por 3–0 aos 19 minutos, mas a Áustria virou para 5–3 aos 35 e foi para o intervalo a ganhar por 5–4: nove golos numa só parte, em Lausana, com temperaturas perto dos 40 graus."
+    }
+  },
+  "correct": 2,
+  "difficulty": 4,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/12-days-to-go-goals-galore-switzerland-1954-2952383"
+  ],
+  "fontes": [
+    {
+      "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/12-days-to-go-goals-galore-switzerland-1954-2952383",
+      "dominio": "fifa.com",
+      "titulo": "12 days to go: Goals galore at Switzerland 1954 (FIFA)",
+      "nivel": 1,
+      "excerto": "Die Eidgenossen raced into a 3-0 lead after just 19 minutes before Austria turned things around to lead 5-3 just 16 minutes later. The Austrians were winning 5-4 by half-time",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/austria-switzerland-highest-scoring-game-1954",
+      "dominio": "fifa.com",
+      "titulo": "Austria 7-5 Switzerland (FIFA)",
+      "nivel": 1,
+      "excerto": "Não lido (a página FIFA devolve texto vazio ao leitor); a pesquisa indica que descreve nove golos numa parte como recorde. Mesmo domínio fifa.com: não conta como segunda fonte.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Só uma fonte lida (FIFA, inside.fifa.com). Os nove golos são deduzidos do intervalo 5–4 (somas 5+4), não ditos como 'nove' na página lida. Falta segunda fonte de domínio diferente (RSSSF 404 no URL tentado; olympics.com deu timeout): o verificador deve arranjá-la. 'Jogo com mais golos' é facto histórico fechado, mas, em teoria, outro jogo de Mundial pode superá-lo: se o editor quiser, acrescentar 'até 2026' (sem valid_until). Os minutos dos golos variam entre fontes (58 vs 60 de Hügi), irrelevante para a pergunta, mas a explicação usa 19 e 35 (35 é 19+16, da FIFA): confirmar com a segunda fonte ou cortar os minutos. Wikipédia só usada como pista."
+    }
+  ],
+  "etiquetas": []
+}

@@ -1,0 +1,63 @@
+{
+  "id": "Q-2026-000085",
+  "topic": "Video Games",
+  "subtopic": "indústria / preservação",
+  "text": {
+    "pt-PT": {
+      "question": "Em 2024, o Gabinete de Direitos de Autor dos EUA recusou que bibliotecas fizessem o quê com videojogos esgotados?",
+      "options": [
+        "Emulá-los dentro das instalações",
+        "Dar acesso remoto a investigadores",
+        "Guardar cópias de preservação",
+        "Vender cópias digitais ao público"
+      ],
+      "explanation": "A Video Game History Foundation e a Software Preservation Network pediam que bibliotecas partilhassem à distância jogos esgotados com investigadores. O Gabinete recusou em outubro de 2024, após oposição da associação da indústria (ESA)."
+    }
+  },
+  "correct": 1,
+  "difficulty": 4,
+  "valid_until": "2027-10-28",
+  "daily_eligible": false,
+  "sources": [
+    "https://gamehistory.org/dmca-2024-statement/",
+    "https://www.infodocket.com/2024/10/25/u-s-copyright-office-rejects-dmca-exemption-to-support-game-preservation/"
+  ],
+  "fontes": [
+    {
+      "url": "https://gamehistory.org/dmca-2024-statement/",
+      "dominio": "gamehistory.org",
+      "titulo": "Statement on the DMCA 2024 triennial review ruling (Video Game History Foundation)",
+      "nivel": 1,
+      "excerto": "allow libraries and archives to remotely share digital access to out-of-print video games in their collections. ... libraries and archives are unable to break copy protection on games in order to make them remotely accessible to researchers.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.infodocket.com/2024/10/25/u-s-copyright-office-rejects-dmca-exemption-to-support-game-preservation/",
+      "dominio": "infodocket.com",
+      "titulo": "US Copyright Office Issues Updated DMCA Regulations (Library Journal infoDOCKET)",
+      "nivel": 2,
+      "excerto": "The U.S. Copyright Office will not expand an exemption to the DMCA rules that would allow for video game preservation in libraries and archives. ... remotely share digital access to out-of-print games",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Facto pode mudar: as isenções valem três anos (próximo ciclo em 2027); valid_until=2027-10-28 é estimativa minha da validade da regra (a pesquisa diz 'efetiva a 28 de outubro de 2024', não li o texto oficial em copyright.gov): confirmar ou usar data do ciclo seguinte. Distrator 'Guardar cópias de preservação' é defendível como errado porque a isenção existente (e alargada) permite a preservação: o verificador deve confirmar com a regra oficial. 'Emulá-los dentro das instalações' também pode ser permitido, por isso é errado como recusa. Não usei o número de 87% (VGHF; só uma fonte lida). Tema jurídico norte-americano, mas ligado à indústria global; sem mercado. Não li copyright.gov nem o Federal Register: nível 1 oficial em falta, só o próprio promotor (VGHF) e imprensa especializada."
+    }
+  ],
+  "etiquetas": []
+}

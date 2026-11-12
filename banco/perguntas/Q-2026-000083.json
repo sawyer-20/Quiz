@@ -1,0 +1,63 @@
+{
+  "id": "Q-2026-000083",
+  "topic": "Movies",
+  "subtopic": "técnica / fotografia",
+  "text": {
+    "pt-PT": {
+      "question": "Que pessoa tinham os estúdios de contratar, nos primeiros tempos, para poderem usar o sistema de cor Technicolor?",
+      "options": [
+        "Edith Head, a figurinista",
+        "Cedric Gibbons, o diretor artístico",
+        "Natalie Kalmus, a consultora de cor",
+        "Gregg Toland, o diretor de fotografia"
+      ],
+      "explanation": "Para alugar o equipamento Technicolor, Hollywood tinha de contratar Natalie Kalmus, mulher do fundador. Planeava as cores de cada cena, cenário e personagem e creditada em mais de 400 títulos, muitas vezes contra a vontade dos realizadores."
+    }
+  },
+  "correct": 2,
+  "difficulty": 4,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.acmi.net.au/stories-and-ideas/natalie-kalmus-ringmaster-technicolor-rainbow/",
+    "https://keyframe.fandor.com/the-film-100-natalie-kalmus-no-73/"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.acmi.net.au/stories-and-ideas/natalie-kalmus-ringmaster-technicolor-rainbow/",
+      "dominio": "acmi.net.au",
+      "titulo": "Natalie Kalmus: ringmaster of the Technicolor rainbow (ACMI, museu do ecrã)",
+      "nivel": 1,
+      "excerto": "In order to hire Technicolor equipment and use the Technicolor system, studios needed to hire Kalmus who understood intimately not just how the process worked but what it needed to be used for.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://keyframe.fandor.com/the-film-100-natalie-kalmus-no-73/",
+      "dominio": "fandor.com",
+      "titulo": "The Film 100: Natalie Kalmus (Fandor Keyframe)",
+      "nivel": 2,
+      "excerto": "Só vista nos resultados de pesquisa, não lida por mim; o verificador deve procurar uma segunda fonte independente e lida (Technicolor, Academia, museu).",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Só uma fonte lida (ACMI). Segunda fonte NÃO lida (Fandor é duvidoso como nível 2); o verificador cego tem de arranjar outra, senão rejeitar. Na explicação, 'mais de 400 títulos' é número de fonte única (ACMI): tirar se não houver segunda fonte. Resultados de pesquisa indicam que a empresa fornecia também operadores de câmara, pelo que o enunciado fixa 'pessoa de cor/consultora'; a resposta é nomeada para evitar ambiguidade. Datas evitadas; 'primeiros tempos' vem do ACMI ('in early Hollywood'). Imagem de 'creditada' na explicação: corrigir 'e creditada' para 'creditada' se o editor pedir estilo. Wikipédia não usada. Britannica, Technicolor.com e LOC devolveram 403/404 ao leitor."
+    }
+  ],
+  "etiquetas": []
+}

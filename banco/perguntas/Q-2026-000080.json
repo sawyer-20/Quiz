@@ -57,6 +57,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "A explicação foi escrita sem números nem 'três dias' (só uma fonte lida). A direção do gradiente (pequenos perto da entrada) vem do National Geographic (nível 2, como descrição do investigador); o resumo do JCU/Science só diz 'size-distance gradients', por isso o verificador deve procurar fonte independente que confirme a direção (artigo Current Biology 2010, cell.com devolveu 403; Science devolveu 403; Deakin 403; Nature 467:255 só tem resumo genérico). Há crítica publicada (Borgia et al.) sobre a ligação ao sucesso de acasalamento; a explicação limita-se a 'tiveram mais sucesso' conforme o resumo do artigo e o NatGeo. O texto diz 'vistos pela fêmea' sem afirmar que a ilusão é intencional (NatGeo diz que a causa é incerta). Os distratores são mutuamente exclusivos da resposta. Dificuldade possivelmente 3-4."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "ângulo próprio"
     }
   ],
   "etiquetas": []

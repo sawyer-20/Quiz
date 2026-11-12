@@ -47,8 +47,8 @@
     "advogado": null,
     "editor": null
   },
-  "estado": "em_verificacao",
-  "motivo_rejeicao": null,
+  "estado": "rejeitada",
+  "motivo_rejeicao": "classico com dificuldade alta (dificuldade 4)",
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
   "historico": [
@@ -57,7 +57,21 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "A 'Guerra do Porco' é conhecida, mas o árbitro menos; ainda assim o tema pode aparecer em listas de curiosidades (possível etiqueta clássico parcial, por isso 4 é arriscado; reduzir a 3 se o verificador achar o facto muito divulgado). O NPS diz que o kaiser delegou numa comissão de três pessoas e decidiu 'através do kaiser'; o FRUS mostra o prémio assinado por Guilherme. A data de assinatura do Tratado de Washington varia (6 ou 8 de maio de 1871 nas fontes), por isso não aparece no texto. Os distratores são soberanos plausíveis que não arbitraram esta disputa; o verificador deve confirmar que nenhum foi árbitro."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "facto habitual de listas de trivia"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "rejeitada",
+      "agente": "originalidade",
+      "nota": "classico com dificuldade alta (dificuldade 4)"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [
+    "classico"
+  ]
 }

@@ -40,10 +40,26 @@
       "excerto": "We have found that Galileo observed the planet Neptune on 28 December 1612 and 28 January 1613. ... Galileo also detected the motion of Neptune.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.ph.unimelb.edu.au/~dnj/AP-June-2009-Galileo-Neptune.pdf",
+      "dominio": "unimelb.edu.au",
+      "titulo": "Galileo's miraculous year: 1609 and the revolutionary telescope (D. Jamieson, Australian Physics 46(3), 2009, Univ. Melbourne)",
+      "nivel": 1,
+      "excerto": "He uses the label \"fixa\" where he plotted the position of Neptune in his notebook, indicating, at least initially, that he believed he was observing a fixed star and not a planet.",
+      "consultada_em": "2026-11-12",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Uma estrela fixa",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "unimelb.edu.au",
+      "data": "2026-11-12",
+      "notas": "Artigo de um professor universitário (Univ. de Melbourne), não é a Nature nem a NASA. Confirma observações de Neptuno em dezembro de 1612 e janeiro de 1613, com o rótulo 'fixa' (estrela fixa). Outras opções (cometa, nova, reflexo na lente) sem apoio na fonte. Ressalva: o autor sugere que Galileo possa ter suspeitado de movimento mais tarde (a 28 de janeiro), mas nunca registou um planeta novo; a pesquisa secundária mostra interpretação contestada. 'Pelo menos inicialmente' acompanha a fonte. Datas exatas não usadas no enunciado, exceto o intervalo 1612-1613, que é confirmado."
+    },
     "advogado": null,
     "editor": null
   },
@@ -63,6 +79,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "ângulo próprio"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte unimelb.edu.au"
     }
   ],
   "etiquetas": []

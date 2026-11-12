@@ -40,10 +40,26 @@
       "excerto": "The carbon dating resulted in three different dates for different parts of the manuscript. The oldest part dated to A.D. 224-383, but two other parts dated to A.D. 680-779 and A.D. 885-993.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://blog.sciencemuseum.org.uk/illuminating-india-starring-oldest-recorded-origins-zero-bakhshali-manuscript/",
+      "dominio": "sciencemuseum.org.uk",
+      "titulo": "Illuminating India: starring the oldest recorded origins of 'zero', the Bakhshali manuscript (Science Museum Blog)",
+      "nivel": 1,
+      "excerto": "the three samples date from different centuries, one (Folio 33) dated from 885-993 CE ... another (Folio 17) dated from 680-779 CE and another (Folio 16) dated from 224-383 CE.",
+      "consultada_em": "2026-11-12",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Pelo menos três épocas",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "sciencemuseum.org.uk",
+      "data": "2026-11-12",
+      "notas": "Só li uma fonte (museu, nível 1) fora dos domínios proibidos; a fonte da Oxford é proibida e a própria datação vem do mesmo estudo. Confirma três amostras de três séculos distintos (c. 3.º-4.º, 8.º e 10.º), com folhas quase 500 anos afastadas. Uma pesquisa mencionou uma alegada revisão de 2024 (799-1102 d.C.) numa cópia traduzida da Wikipédia; não confirmei e não li fonte primária sobre isso. Enunciado diz 'folhas ... vêm de quantas épocas' sem dizer que só três foram datadas; sugiro reformular. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): A opção 'Uma época por cada folha' também é defensável se se ler só as três folhas amostradas (3 folhas, 3 séculos). Mas o manuscrito tem muito mais folhas e só três foram datadas, pelo que 'por cada folha' generaliza sem apoio; 'Pelo menos três' é a formulação que a fonte sustenta. 'Duas' e 'Uma só' estão excluídas."
+    },
     "advogado": null,
     "editor": null
   },
@@ -63,6 +79,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "ângulo próprio"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte sciencemuseum.org.uk"
     }
   ],
   "etiquetas": []

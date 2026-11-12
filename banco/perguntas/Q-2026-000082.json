@@ -57,6 +57,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "É facto relativamente conhecido (possível etiqueta clássico; por isso fica em dificuldade 3, não 4); o ângulo é o material, não 'quem recebeu'. 'Pintada a ouro' (Colorado) e 'sprayed' (Guinness) concordam. O ano de 1958 para a RIAA vem só do Colorado, pelo que o verificador deve confirmá-lo ou retirar a frase final da explicação. O número de vendas (1,2 milhões) foi deixado de fora por ter só uma fonte. A emissão da Library of Congress não foi aberta."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "ângulo próprio (o material do objeto)"
     }
   ],
   "etiquetas": []
