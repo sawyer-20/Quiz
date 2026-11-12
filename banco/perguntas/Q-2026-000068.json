@@ -1,0 +1,63 @@
+{
+  "id": "Q-2026-000068",
+  "topic": "Movies",
+  "subtopic": "realizadores",
+  "text": {
+    "pt-PT": {
+      "question": "Que marca fabricou as lentes ultraluminosas com que Kubrick filmou à luz de velas cenas de «Barry Lyndon»?",
+      "options": [
+        "Leica",
+        "Nikon",
+        "Zeiss",
+        "Panavision"
+      ],
+      "explanation": "Kubrick usou lentes Zeiss de 50 mm f/0.7, as mais luminosas do mundo na altura, para filmar interiores só com velas. Foram feitas apenas dez e Kubrick comprou três."
+    }
+  },
+  "correct": 2,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.zeiss.com/photonics-and-optics/en/home/content/newsroom/news-overview/2022/zeiss-planar-07-50.html",
+    "https://www.afi.com/news/barry-lyndon-1975-afi-catalog-spotlight/"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.zeiss.com/photonics-and-optics/en/home/content/newsroom/news-overview/2022/zeiss-planar-07-50.html",
+      "dominio": "zeiss.com",
+      "titulo": "(Probably) the most famous lens in the world comes back home (ZEISS, comunicado 2022)",
+      "nivel": 1,
+      "excerto": "Only ten of these were produced ... At the time it was the world's fastest lens ... For the candlelight shots shown in ... \"Barry Lyndon\", Stanley Kubrick was therefore able to work without additional light.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.afi.com/news/barry-lyndon-1975-afi-catalog-spotlight/",
+      "dominio": "afi.com",
+      "titulo": "BARRY LYNDON - AFI Catalog Spotlight (American Film Institute)",
+      "nivel": 1,
+      "excerto": "the acquisition of special 50mm f/0.7 Zeiss camera lenses ... to shoot in low and natural light. Only 10 lenses were made, and Kubrick purchased three",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "A AFI diz que as lentes foram «developed by NASA for its lunar program»; a Zeiss diz que seis das dez foram para a NASA mas que não há prova de que a Planar 0.7/50 tenha fotografado o lado oculto da Lua. Por isso a explicação NÃO menciona a NASA. «Mais luminosas do mundo na altura» é afirmação da Zeiss (a AFI não a diz); se o verificador não a achar, trocar por «ultraluminosas». O BFI (lido) confirma só «super-fast lenses» e velas, sem marca. Possível etiqueta de clássico (curiosidade conhecida em listas de cinema), mas o ângulo é o fabricante, não o realizador. ASC devolveu 520, Oscars.org 403. Evitei Satyajit Ray (Óscar honorário) por falta de fonte aberta (oscars.org 403). Distratores: Panavision é fabricante de lentes de cinema; o verificador deve evitar zeiss.com e afi.com."
+    }
+  ],
+  "etiquetas": []
+}

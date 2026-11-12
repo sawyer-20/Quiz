@@ -47,6 +47,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Só UMA fonte lida (site oficial da Nintendo, nível 1, facto sobre a própria empresa); falta a segunda fonte de outro domínio, a trazer pelo verificador. O ângulo (cartas de plástico, 1953) é menos batido do que 'a Nintendo começou com cartas'. O enunciado dá o ano 1953 e a explicação 1889/1902/1953: só vêm da Nintendo, por isso o verificador deve confirmar com segunda fonte ou o editor/pesquisador retira os anos (o enunciado funciona sem '1953'). 'Cartas de jogar' pode ser dada como resposta mesmo sem plástico: os distratores não são cartas, pelo que não há ambiguidade. Dificuldade 2, e não 1, por ser pouco batido."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "sem quiz equivalente (ângulo próprio)"
     }
   ],
   "etiquetas": []

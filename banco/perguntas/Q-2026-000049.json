@@ -6,15 +6,15 @@
     "pt-PT": {
       "question": "Que país sul-americano perdeu a sua costa marítima para o Chile na Guerra do Pacífico e ficou sem acesso ao mar?",
       "options": [
-        "Peru",
         "Paraguai",
-        "Argentina",
-        "Bolívia"
+        "Peru",
+        "Bolívia",
+        "Argentina"
       ],
-      "explanation": "A Bolívia perdeu o litoral e as ricas jazidas de nitratos para o Chile na Guerra do Pacífico. Em 1904 cedeu formalmente o território e continua sem costa. Hoje tem de escoar as mercadorias por terra ou por portos de vizinhos."
+      "explanation": "A Bolívia perdeu o litoral e as ricas jazidas de nitratos para o Chile na Guerra do Pacífico (1879-1883) e continua sem costa. Segundo a Biblioteca do Congresso dos EUA, por ser um país sem litoral, os custos de exportação da Bolívia são mais altos do que os da maioria dos países sul-americanos."
     }
   },
-  "correct": 3,
+  "correct": 2,
   "difficulty": 2,
   "valid_until": null,
   "daily_eligible": true,
@@ -40,26 +40,10 @@
       "excerto": "In 1904 Bolivia officially ceded the coastal territory to Chile under the Treaty of Peace and Friendship. [...] Because Bolivia is landlocked, the oceans offer no aid in moving commodities.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://www.ebsco.com/research-starters/military-history-and-science/war-pacific/",
-      "dominio": "ebsco.com",
-      "titulo": "War of the Pacific | EBSCO Research Starters",
-      "nivel": 2,
-      "excerto": "The war concluded with treaties that ceded valuable territories to Chile, including [...] Tarapaca and control over Antofagasta, leaving Bolivia landlocked and altering the regional balance of power.",
-      "consultada_em": "2026-11-12",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Bolívia",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "ebsco.com",
-      "data": "2026-11-12",
-      "notas": "Li a fonte (nível 2, só uma). Antofagasta era o único acesso da Bolívia ao mar. Argentina e Paraguai não participaram na guerra. Peru perdeu Tarapacá mas ficou com costa. Britannica devolveu 403. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): O Peru também perdeu território para Chile (Tarapacá), mas manteve costa. Só a Bolívia ficou sem acesso ao mar."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -85,6 +69,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte ebsco.com"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação sugerida pelo advogado (ciclo único)"
     }
   ],
   "etiquetas": [

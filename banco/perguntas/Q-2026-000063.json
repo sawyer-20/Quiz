@@ -40,10 +40,26 @@
       "excerto": "En présentant la frise dorée du premier étage ... une touriste m'a demandé où se trouvait celui de Marie Curie. En vérifiant, j'ai découvert qu'il n'y avait aucune femme.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://museum.toulouse-metropole.fr/72-femmes-de-sciences-pour-la-tour-eiffel/",
+      "dominio": "toulouse-metropole.fr",
+      "titulo": "72 femmes de sciences pour la tour Eiffel (Muséum de Toulouse, artigo de Femmes & Sciences)",
+      "nivel": 2,
+      "excerto": "Eiffel avait voulu faire de ce monument un panthéon des sciences, faisant rayonner au premier étage, en lettres d'or, les noms de 72 scientifiques... Étrangement, aucune femme ne figure parmi eux",
+      "consultada_em": "2026-11-12",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Nenhum",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "toulouse-metropole.fr",
+      "data": "2026-11-12",
+      "notas": "Lido com ler_url.py. O artigo cita ainda Sophie Germain como ausente (observação de H. J. Mozans, 1918). Doze, três e um ficam excluídas porque nenhuma mulher consta da lista original. A confusão possível é com o projeto de 2026 de acrescentar 72 nomes de mulheres, que ainda não estão gravados. Os sites da SETE e da Torre Eiffel deram 403. Só encontrei uma fonte lida, de nível 2 (museu municipal, texto de uma associação), mas o facto é explícito e coincide com os resumos de pesquisa de outras fontes (France 3, Pariszigzag), que não li."
+    },
     "advogado": null,
     "editor": null
   },
@@ -63,6 +79,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "sem quiz equivalente"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte toulouse-metropole.fr"
     }
   ],
   "etiquetas": []

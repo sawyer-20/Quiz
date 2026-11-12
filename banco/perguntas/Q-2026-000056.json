@@ -40,10 +40,26 @@
       "excerto": "Each plant produces only two leaves, with a mean average total leaf area of 1 m2 (10.7 sq ft), and never sheds them.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.nature.com/articles/s41467-021-24528-4",
+      "dominio": "nature.com",
+      "titulo": "The Welwitschia genome reveals a unique biology underpinning extreme longevity in deserts (Nature Communications)",
+      "nivel": 1,
+      "excerto": "The species has a highly distinctive morphology, consisting of just two leaves that grow continuously throughout the plant's life.",
+      "consultada_em": "2026-11-12",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Duas",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "nature.com",
+      "data": "2026-11-12",
+      "notas": "Artigo científico lido com ler_url.py. Diz também que o nome afrikaans significa «duas folhas que não morrem». O resumo da pesquisa sobre o Kew (kew.org deu 403) concorda. Uma, quatro e doze ficam excluídas: a planta só tem duas folhas, que crescem durante toda a vida. A planta vive no Namibe/Namib (Kaokoveld, norte da Namíbia e sul de Angola), o que é compatível com o enunciado."
+    },
     "advogado": null,
     "editor": null
   },
@@ -63,6 +79,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "sem pergunta equivalente"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte nature.com"
     }
   ],
   "etiquetas": []

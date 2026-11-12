@@ -50,7 +50,11 @@
       "data": "2026-11-12",
       "notas": "Li a fonte (nível 2, só uma). A pedra tem hieroglífico, demótico e grego antigo; o grego foi traduzido primeiro e serviu de ponto de partida. Hebraico, fenício e latim não constam dos três textos. Britannica e British Museum devolveram 403, por isso não houve segunda fonte. A pesquisa apresentou o British Museum a dizer o mesmo, mas não o abri."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "Smithsonian Magazine aberta e lida: «scholars at the time knew ancient Greek and could therefore piece together the hieroglyphic translation based on the Greek message»; a pedra tem o mesmo decreto em hieróglifos, demótico e grego antigo; encontrada em julho de 1799. Fenício, hebraico e latim não aparecem na pedra, logo não há segunda resposta defensável (a pergunta pede uma língua DA Pedra de Ros",
+      "data": "2026-11-12"
+    },
     "editor": null
   },
   "estado": "em_verificacao",
@@ -75,6 +79,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte nationalgeographic.com"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": [

@@ -1,0 +1,63 @@
+{
+  "id": "Q-2026-000069",
+  "topic": "Music",
+  "subtopic": "compositores",
+  "text": {
+    "pt-PT": {
+      "question": "Quem pediu a Prokofiev, em 1936, «Pedro e o Lobo» para ensinar às crianças os instrumentos da orquestra?",
+      "options": [
+        "Natalya Sats, diretora de um teatro infantil",
+        "Galina Ulanova, bailarina do Bolshoi",
+        "Anna Akhmatova, poetisa russa",
+        "Nadezhda Krupskaya, vice-ministra da Educação"
+      ],
+      "explanation": "Prokofiev voltou à União Soviética em 1936 e foi Natalya Sats, que dirigia o Teatro Infantil Central de Moscovo, quem lhe pediu uma peça para ensinar os instrumentos da orquestra. Nasceu assim «Pedro e o Lobo»."
+    }
+  },
+  "correct": 0,
+  "difficulty": 4,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/PeterAndTheWolf.pdf",
+    "https://www.boosey.com/downloads/prokofjew_werkverzeichnis.pdf"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/PeterAndTheWolf.pdf",
+      "dominio": "loc.gov",
+      "titulo": "Peter and the Wolf (Library of Congress, National Recording Preservation Board)",
+      "nivel": 1,
+      "excerto": "after many successes, he returned permanently in 1936. There, educator Natalya Sats asked him to write a piece that would teach instruments of the orchestra to children, for her Central Children's Theatre.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.boosey.com/downloads/prokofjew_werkverzeichnis.pdf",
+      "dominio": "boosey.com",
+      "titulo": "Prokofieff, catálogo de obras (Boosey & Hawkes, editora)",
+      "nivel": 1,
+      "excerto": "Peter and the Wolf, written spontaneously for Natalia Sats's Moscow Children's Musical Theatre, reaches performance.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Dificuldade real 4, não 2 (o aluno sabe a obra, não a pessoa): a pedido do coordenador privilegiei o ângulo secundário; se a dificuldade 2 for obrigatória, trocar a pergunta para outro ângulo. A LoC diz «Central Children's Theatre», a Boosey «Moscow Children's Musical Theatre» (nomes da mesma instituição segundo a Britannica, que devolveu 403 ao leitor e só vi em resultado de pesquisa): a explicação usa o nome da LoC. A Boosey diz «written spontaneously», a LoC diz «asked him»: a explicação segue a LoC; o verificador deve confirmar a encomenda. O ano 1936 está na LoC (regresso) e, pela cronologia da Boosey, também; a estreia de 2 de maio de 1936 não é usada. Distratores: figuras soviéticas femininas verosímeis; Krupskaya foi vice-ministra da Educação, dado não verificado nas fontes lidas, por isso o verificador deve confirmar ou eu reformulo sem descrição."
+    }
+  ],
+  "etiquetas": []
+}

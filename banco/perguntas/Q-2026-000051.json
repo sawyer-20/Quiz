@@ -7,14 +7,14 @@
       "question": "A estatueta dos Óscares mostra um cavaleiro com uma espada, em pé sobre que objeto?",
       "options": [
         "Uma máscara de teatro",
-        "Um rolo de filme",
         "Um globo terrestre",
-        "Um pedestal de mármore"
+        "Uma coroa de louros",
+        "Um rolo de filme"
       ],
-      "explanation": "O cavaleiro assenta sobre um rolo de filme com cinco raios, que representam os cinco ramos originais da Academia: atores, realizadores, produtores, técnicos e argumentistas. Hoje a Academia tem 19 ramos."
+      "explanation": "O cavaleiro assenta sobre um rolo de filme. Segundo a Academia, os cinco raios do rolo representam os cinco ramos originais da Academia: atores, realizadores, produtores, técnicos e argumentistas."
     }
   },
-  "correct": 1,
+  "correct": 3,
   "difficulty": 1,
   "valid_until": null,
   "daily_eligible": true,
@@ -42,24 +42,17 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://academymuseumstore.org/collections/anatomy-of-an-oscar",
-      "dominio": "academymuseumstore.org",
-      "titulo": "Anatomy of an Oscar - Academy Museum Store",
-      "nivel": 2,
-      "excerto": "a stylized figure of a knight holding a crusader's sword while standing on a reel of film with five spokes signifying the five original branches of the Academy",
+      "url": "https://press-files.oscars.org/sites/default/files/2026-01/A%20BRIEF%20HISTORY%20OF%20THE%20OSCAR.pdf",
+      "dominio": "oscars.org",
+      "titulo": "Academy of Motion Picture Arts and Sciences, A Brief History of the Oscar",
+      "nivel": 1,
+      "excerto": "MGM art director Cedric Gibbons sketched the figure of a knight gripping a sword, standing in front of a film reel. The five spokes of the reel stood for the original five branches of the Academy",
       "consultada_em": "2026-11-12",
-      "papel": "verificador"
+      "papel": "advogado"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Um rolo de filme",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "academymuseumstore.org",
-      "data": "2026-11-12",
-      "notas": "Li a fonte, da loja do museu da própria Academia, por isso a classifico como nível 2 e não 1. Só uma fonte. oscars.org e Britannica devolveram 403. Globo, pedestal de mármore e máscara de teatro não constam da descrição."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -85,6 +78,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte academymuseumstore.org"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação sugerida pelo advogado (ciclo único)"
     }
   ],
   "etiquetas": [

@@ -47,6 +47,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Só UMA fonte lida (legislação suíça no Fedlex, nível 1); o excerto junta Art. 1 e Art. 3 (a leitura abriu a partir de Art. 1 'cross...' já cortado no início da frase, a confirmar o início do Art. 1 no texto completo). Outras fontes oficiais (eda.admin.ch / aboutswitzerland, fdfa) devolveram 403. A frase 'uma das raras bandeiras de Estado quadradas' é do meu conhecimento geral e NÃO está na fonte lida: o editor deve retirá-la ou o verificador fundamentá-la (Vaticano); recomendo tirar a oração final. Dificuldade 3, não 1: facto simples mas desconhecido de quase todos; se a coordenação insistir em dificuldade 1 troco por 'bandeira quadrada' (mais batida, sujeita a ser classificada clássica)."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "sem quiz equivalente (ângulo próprio)"
     }
   ],
   "etiquetas": []

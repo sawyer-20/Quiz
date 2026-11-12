@@ -50,10 +50,26 @@
       "excerto": "zwei unstrittige Grenzziehungen: So seien der Untersee ... und der sogenannte Konstanzer Trichter real geteilt. Das bedeutet, die Grenze zwischen Deutschland und der Schweiz verläuft dort genau in der Mitte.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://vorarlberg.orf.at/v2/news/stories/2980956/",
+      "dominio": "orf.at",
+      "titulo": "Bodensee: Wasser ohne klare Grenzen (ORF Vorarlberg, APA/dpa, 11.05.2019)",
+      "nivel": 2,
+      "excerto": "zwei unstrittige Grenzziehungen: So seien der Untersee... und der sogenannte Konstanzer Trichter real geteilt. Das bedeutet, die Grenze zwischen Deutschland und der Schweiz verläuft dort genau in der Mitte.",
+      "consultada_em": "2026-11-12",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "No Untersee (lago inferior)",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "orf.at",
+      "data": "2026-11-12",
+      "notas": "Baía de Bregenz e baía de Lindau ficam excluídas: ficam na Áustria e na Alemanha (Lindau, Baviera) e não na fronteira Alemanha–Suíça, e o Obersee é a zona de fronteira não definida. O Überlinger See é um braço do Obersee, alemão, também sem fronteira consensual. Só o Untersee (e o Konstanzer Trichter) tem divisão real consensual pela linha média. Falta uma segunda fonte lida para datas/estado atual; a Wikipédia e o Blick só foram vistos nos resultados de pesquisa. O enunciado diz «ao longo da linha média», o que concorda com a fonte. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): A fonte (2019) é anterior a 2026 e é uma única fonte lida, por isso a confiança é média. O resumo da pesquisa sobre o Blick e swisstopo indica que, em 2026, o Obersee continua sem fronteira definida. Também refere que o novo tratado Suíça–Alemanha exclui o lago. O texto da fonte fala também no «Konstanzer Trichter», que não é opção."
+    },
     "advogado": null,
     "editor": null
   },
@@ -79,6 +95,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "sem quiz equivalente"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte orf.at"
     }
   ],
   "etiquetas": []
