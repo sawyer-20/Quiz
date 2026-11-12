@@ -104,9 +104,14 @@
     "tradutor": {
       "data": "2026-11-12",
       "notas": "tradutor"
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "conferente: equivalentes; reparo menor sobre a mistura de «O/Do/De» nas opções, sem reprovar",
+      "data": "2026-11-12"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-04-historia",
   "criada_em": "2026-11-04",
@@ -242,6 +247,19 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "tradutor"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
-  ]
+  ],
+  "options_lock": "a8e6cecbbbbc990a07c02ba5c92cdad6eb5f7546d82b904021d07f65a774de7d"
 }
