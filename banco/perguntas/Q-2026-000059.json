@@ -47,8 +47,8 @@
     "advogado": null,
     "editor": null
   },
-  "estado": "em_verificacao",
-  "motivo_rejeicao": null,
+  "estado": "rejeitada",
+  "motivo_rejeicao": "quota de clássicos do lote (regra 16: o lote já tem 4 clássicos; o limite do Andre é 4)",
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
   "historico": [
@@ -57,7 +57,21 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "IFAB e FA abertas e lidas (a FA reproduz o texto da IFAB, contam como uma fonte pela regra 2; o verificador deve trazer outro domínio, p. ex. FIFA). As Leis podem ser revistas, mas o mínimo de sete mantém-se; sem valid_until. Futebol de 11 apenas; futsal, futebol de 7 e outras variantes têm regras próprias: o enunciado fala das Leis do Jogo (11 contra 11). Cuidado: o enunciado diz 'precisa de ter' e as Leis permitem exceções de saídas temporárias, irrelevantes aqui."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "facto corrente em quizzes; enunciado e opções nossas"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "rejeitada",
+      "agente": "orquestrador",
+      "nota": "quota de clássicos do lote (regra 16: o lote já tem 4 clássicos; o limite do Andre é 4)"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [
+    "classico"
+  ]
 }

@@ -47,8 +47,8 @@
     "advogado": null,
     "editor": null
   },
-  "estado": "em_verificacao",
-  "motivo_rejeicao": null,
+  "estado": "rejeitada",
+  "motivo_rejeicao": "quota de clássicos do lote (regra 16: o lote já tem 4 clássicos; o limite do Andre é 4)",
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
   "historico": [
@@ -57,7 +57,21 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "NASA e ESA abertas e lidas, de acordo. A explicação evita números (243 vs 224,7/225 divergem só no arredondamento). Facto clássico de curiosidades sobre Vénus (meta de clássicos do lote a vigiar); a dificuldade 1 e o enunciado próprio mitigam. Distratores Norte e Sul são fracos mas claramente errados; se a originalidade ou o verificador os acharem triviais, trocar por 'Nascente varia consoante a estação' não serve (a fonte diz que quase não há estações). Sol visto da superfície, por baixo das nuvens: o enunciado fala do 'nascer do Sol' em termos teóricos, como a NASA."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "facto corrente em quizzes; enunciado e opções nossas"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "rejeitada",
+      "agente": "orquestrador",
+      "nota": "quota de clássicos do lote (regra 16: o lote já tem 4 clássicos; o limite do Andre é 4)"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [
+    "classico"
+  ]
 }
