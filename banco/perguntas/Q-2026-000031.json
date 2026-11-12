@@ -62,10 +62,26 @@
       "excerto": "resta, atualmente, cerca de um quarto da nova paisagem criada aquando da erupção.",
       "consultada_em": "2026-11-11",
       "papel": "advogado"
+    },
+    {
+      "url": "https://servicos-sraa.azores.gov.pt/grastore/crads/20170926/Proposta_classificacao_Monumento_Natural_Vulc%C3%A3o_Capelinhos.pdf",
+      "dominio": "azores.gov.pt",
+      "titulo": "Proposta de classificação do Vulcão dos Capelinhos como Monumento Natural (Governo dos Açores, SRAA)",
+      "nivel": 1,
+      "excerto": "tinham sido acrescentados à ilha do Faial cerca de 2.4 Km2 de área – as Terras Novas. [...] da paisagem inicial formada por este vulcão, restam apenas 0.5654Km2.",
+      "consultada_em": "2026-11-12",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Cerca de um quarto",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "azores.gov.pt",
+      "data": "2026-11-12",
+      "notas": "2,4 km² acrescentados e 0,5654 km² restantes (~23,6%); atribuição à IUGS confirmada no texto oficial da IUGS."
+    },
     "advogado": null,
     "editor": {
       "aprovado": true,
@@ -169,6 +185,12 @@
       "evento": "reformulada",
       "agente": "pesquisador",
       "nota": "«fração da área»; nome completo da IUGS (pedido do Andre)"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte azores.gov.pt"
     }
   ]
 }
