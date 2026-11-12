@@ -21,7 +21,7 @@
   "sources": [
     "https://www.nobelprize.org/prizes/literature/1902/summary/",
     "https://uzh.ch/en/researchinnovation/excellence/nobelprize/mommsen.html",
-    "https://www.ebsco.com/research-starters/history/theodor-mommsen/"
+    "https://www.nobelprize.org/prizes/literature/1902/mommsen/facts/"
   ],
   "fontes": [
     {
@@ -171,6 +171,18 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "rejeitada",
+      "agente": "editor",
+      "nota": "copiada: sem alterações de texto"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "rejeição anulada (erro do orquestrador)",
+      "agente": "orquestrador",
+      "nota": "o resultado do editor não trazia o campo originalidade_ok e o script rejeitou por engano; nenhum agente rejeitou a pergunta"
     }
   ],
   "etiquetas": [

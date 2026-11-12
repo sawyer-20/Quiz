@@ -201,6 +201,18 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "rejeitada",
+      "agente": "editor",
+      "nota": "copiada: sem alterações de texto"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "rejeição anulada (erro do orquestrador)",
+      "agente": "orquestrador",
+      "nota": "o resultado do editor não trazia o campo originalidade_ok e o script rejeitou por engano; nenhum agente rejeitou a pergunta"
     }
   ]
 }
