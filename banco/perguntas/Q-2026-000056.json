@@ -1,0 +1,63 @@
+{
+  "id": "Q-2026-000056",
+  "topic": "Nature & Animals",
+  "subtopic": "plantas",
+  "text": {
+    "pt-PT": {
+      "question": "Quantas folhas tem durante toda a vida a Welwitschia mirabilis, planta do deserto do Namibe?",
+      "options": [
+        "Quatro",
+        "Doze",
+        "Duas",
+        "Uma"
+      ],
+      "explanation": "A Welwitschia só produz duas folhas, que crescem a partir da base e nunca cai. Rasgam-se e desfiam-se com o tempo, mas são as mesmas durante toda a vida da planta, que pode viver séculos."
+    }
+  },
+  "correct": 2,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://conservatory.cals.cornell.edu/plants/welwitschia-mirabilis",
+    "https://www.guinnessworldrecords.com/world-records/84107-longest-leaf-lifespan"
+  ],
+  "fontes": [
+    {
+      "url": "https://conservatory.cals.cornell.edu/plants/welwitschia-mirabilis",
+      "dominio": "cornell.edu",
+      "titulo": "Welwitschia mirabilis | Liberty Hyde Bailey Conservatory (Cornell University)",
+      "nivel": 1,
+      "excerto": "Regardless of age, individual plants will only ever grow two leaves ... While they may twist, split, and fray over time, these two leaves will endure throughout the life of the plant.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.guinnessworldrecords.com/world-records/84107-longest-leaf-lifespan",
+      "dominio": "guinnessworldrecords.com",
+      "titulo": "Longest leaf lifespan | Guinness World Records",
+      "nivel": 2,
+      "excerto": "Each plant produces only two leaves, with a mean average total leaf area of 1 m2 (10.7 sq ft), and never sheds them.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Corrigir na redação final: 'nunca cai' deve ler-se 'que nunca perde' (frase da explicação a rever pelo editor, sem mudar o facto). Evitei idades porque as fontes divergem (500-600 anos datados por carbono; 1500+ ou 2000-3000 estimados); 'pode viver séculos' é suportado por ambas. 'Deserto do Namibe' (nome pt-PT; a fonte diz Namib Desert, Namíbia/Angola): o verificador deve confirmar o topónimo. A resposta 'Duas' é facto estável. Não usei a página do Kew (só referida pelo Cornell, não aberta)."
+    }
+  ],
+  "etiquetas": []
+}

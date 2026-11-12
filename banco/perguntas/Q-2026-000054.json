@@ -1,0 +1,63 @@
+{
+  "id": "Q-2026-000054",
+  "topic": "Geography",
+  "subtopic": "rios e lagos",
+  "text": {
+    "pt-PT": {
+      "question": "Que lago da Sibéria contém cerca de 20% da água doce superficial da Terra, quase tanto como os cinco Grandes Lagos juntos?",
+      "options": [
+        "Lago Titicaca",
+        "Lago Ladoga",
+        "Lago Baikal",
+        "Lago Vitória"
+      ],
+      "explanation": "O Baikal, com mais de 1600 m de profundidade, é o lago mais profundo e mais antigo do mundo. Guarda cerca de 20% da água doce superficial do planeta, volume comparável ao dos cinco Grandes Lagos norte-americanos."
+    }
+  },
+  "correct": 2,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.usgs.gov/media/images/lake-baikal-space-largest-oldest-and-deepest-lake",
+    "https://whc.unesco.org/en/list/754"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.usgs.gov/media/images/lake-baikal-space-largest-oldest-and-deepest-lake",
+      "dominio": "usgs.gov",
+      "titulo": "Lake Baikal from space, the largest, oldest, and deepest lake (USGS)",
+      "nivel": 1,
+      "excerto": "approximately 20% of Earth's fresh surface water. This is a volume of water approximately equivalent to all five of the North American Great Lakes combined.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/754",
+      "dominio": "unesco.org",
+      "titulo": "Lake Baikal (UNESCO World Heritage Centre)",
+      "nivel": 1,
+      "excerto": "the oldest (25 million years) and deepest (1,700 m) lake in the world. It contains 20% of the world's total unfrozen freshwater reserve.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Britannica e Rosetta/BM davam 403 noutros alvos, não aqui. Definição: USGS diz 20% da água doce superficial, UNESCO diz 20% da água doce não congelada; o enunciado usa «superficial» (USGS) e o valor é aproximado (20%). A profundidade difere entre fontes (1637 m USGS, 1700 m UNESCO): a explicação usa só «mais de 1600 m», compatível com ambas. Ligação com os Grandes Lagos é do USGS (equivalente em volume); a pista «Sibéria» é aceitável. Distratores: Ladoga é o maior lago da Europa, plausível mas errado."
+    }
+  ],
+  "etiquetas": []
+}

@@ -1,0 +1,53 @@
+{
+  "id": "Q-2026-000052",
+  "topic": "World History",
+  "subtopic": "grandes acontecimentos",
+  "text": {
+    "pt-PT": {
+      "question": "Em 1799 ninguém lia os hieróglifos. Que língua da Pedra de Roseta os estudiosos já sabiam ler e serviu de chave?",
+      "options": [
+        "Fenício",
+        "Grego antigo",
+        "Hebraico",
+        "Latim"
+      ],
+      "explanation": "A Pedra de Roseta traz o mesmo decreto em hieróglifos, demótico e grego antigo. Como os estudiosos já liam grego, o texto grego serviu de ponto de partida para decifrar as duas escritas egípcias."
+    }
+  },
+  "correct": 1,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.smithsonianmag.com/history/rosetta-stone-hieroglyphs-champollion-decipherment-egypt-180980834/"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.smithsonianmag.com/history/rosetta-stone-hieroglyphs-champollion-decipherment-egypt-180980834/",
+      "dominio": "smithsonianmag.com",
+      "titulo": "What Is the Rosetta Stone? How Was It Deciphered? (Smithsonian Magazine)",
+      "nivel": 1,
+      "excerto": "the stela fragment features versions of the same decree in three scripts: hieroglyphs, Demotic ... and ancient Greek. ... scholars at the time knew ancient Greek and could therefore piece together the hieroglyphic translation",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Só uma fonte lida (Smithsonian Magazine, publicação da Smithsonian Institution; se o orquestrador a considerar nível 2, o caminho leve exige nível 1). British Museum devolveu 403 ao leitor (páginas da coleção e do blogue); o resultado de pesquisa do museu confirma o mesmo mas não foi aberto, por isso não o cito. Evita-se data e números. Facto de consenso, mas a pergunta é de dificuldade 2 na prática; pode ser percebida como clássica (Pedra de Roseta), embora o ângulo seja a língua-chave, não o ano."
+    }
+  ],
+  "etiquetas": []
+}

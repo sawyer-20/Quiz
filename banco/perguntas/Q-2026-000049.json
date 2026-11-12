@@ -1,0 +1,63 @@
+{
+  "id": "Q-2026-000049",
+  "topic": "Geography",
+  "subtopic": "países sem costa",
+  "text": {
+    "pt-PT": {
+      "question": "Que país sul-americano perdeu a sua costa marítima para o Chile na Guerra do Pacífico e ficou sem acesso ao mar?",
+      "options": [
+        "Peru",
+        "Paraguai",
+        "Argentina",
+        "Bolívia"
+      ],
+      "explanation": "A Bolívia perdeu o litoral e as ricas jazidas de nitratos para o Chile na Guerra do Pacífico. Em 1904 cedeu formalmente o território e continua sem costa. Hoje tem de escoar as mercadorias por terra ou por portos de vizinhos."
+    }
+  },
+  "correct": 3,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://2009-2017.state.gov/outofdate/bgn/bolivia/82261.htm",
+    "https://tile.loc.gov/storage-services/master/frd/copr/Bolivia.pdf"
+  ],
+  "fontes": [
+    {
+      "url": "https://2009-2017.state.gov/outofdate/bgn/bolivia/82261.htm",
+      "dominio": "state.gov",
+      "titulo": "Bolivia (03/07) - U.S. Department of State, Background Note",
+      "nivel": 1,
+      "excerto": "Bolivia's weakness was demonstrated during the War of the Pacific (1879-83), when it lost its seacoast and the adjoining rich nitrate fields to Chile.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://tile.loc.gov/storage-services/master/frd/copr/Bolivia.pdf",
+      "dominio": "loc.gov",
+      "titulo": "Library of Congress Federal Research Division, Country Profile: Bolivia (2006)",
+      "nivel": 1,
+      "excerto": "In 1904 Bolivia officially ceded the coastal territory to Chile under the Treaty of Peace and Friendship. [...] Because Bolivia is landlocked, the oceans offer no aid in moving commodities.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Ângulo da perda do mar, não da capital. Britannica e LOC (página Global Legal Monitor) deram 403; usei State Dept e LOC Country Profile (abertos e lidos). Datas da guerra divergem entre fontes (1879-83 / 1884), por isso o enunciado e a explicação não as usam; a explicação só usa 1904, que consta na LOC. A parte 'escoar por portos de vizinhos' é inferência leve: se o verificador a contestar, reduzir a explicação para 'continua sem costa'. Peru também perdeu território ao Chile, mas manteve costa: distrator defensável só para quem não ler 'perdeu a costa'."
+    }
+  ],
+  "etiquetas": []
+}
