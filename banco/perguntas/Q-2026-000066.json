@@ -40,10 +40,26 @@
       "excerto": "the gene for T1R2 lacks 247 base pairs of DNA, which means it cannot produce a working protein. [...] The research team has found the same genetic deletion in close relatives of the domestic cat, including the tiger and cheetah.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.frontiersin.org/journals/molecular-biosciences/articles/10.3389/fmolb.2017.00081/full",
+      "dominio": "frontiersin.org",
+      "titulo": "A Matter of Taste: Lineage-Specific Loss of Function of Taste Receptor Genes in Vertebrates (Frontiers in Molecular Biosciences, 2017)",
+      "nivel": 1,
+      "excerto": "cats and felids' (i.e., tigers, cheetahs and lions) indifference toward sugar can be accounted by the pseudogenization of Tas1r2, reflecting their eating behaviors.",
+      "consultada_em": "2026-11-12",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Tigre",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "frontiersin.org",
+      "data": "2026-11-12",
+      "notas": "Tabela 1 da revisão lista o tigre com Tas1r2/sabor doce; PNAS 2012 lido. Ressalva do verificador: o cão ficou excluído com base mais fraca (Canidae com Tas1r2 intacto só visto em resumo de pesquisa)."
+    },
     "advogado": null,
     "editor": null
   },
@@ -75,6 +91,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (ciclo único)"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte frontiersin.org"
     }
   ],
   "etiquetas": []

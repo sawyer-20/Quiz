@@ -1,0 +1,63 @@
+{
+  "id": "Q-2026-000082",
+  "topic": "Music",
+  "subtopic": "história da música popular",
+  "text": {
+    "pt-PT": {
+      "question": "O primeiro «disco de ouro», entregue a Glenn Miller em 1942, era feito de quê?",
+      "options": [
+        "Um disco de vinil folheado a ouro",
+        "Um disco maciço de ouro",
+        "Um disco de latão dourado",
+        "Uma cópia do disco pintada a ouro"
+      ],
+      "explanation": "Em 1942, a RCA Victor ofereceu a Miller, num programa de rádio em direto, uma cópia emoldurada de «Chattanooga Choo Choo» pintada a ouro. A certificação oficial da RIAA só começou em 1958."
+    }
+  },
+  "correct": 3,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.colorado.edu/coloradan/2017/12/01/origins-gold-record",
+    "https://www.guinnessworldrecords.com/world-records/first-gold-disc-music-award"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.colorado.edu/coloradan/2017/12/01/origins-gold-record",
+      "dominio": "colorado.edu",
+      "titulo": "Origins: The Gold Record (University of Colorado Boulder, Coloradan)",
+      "nivel": 1,
+      "excerto": "During a live broadcast, the label presented him with a framed copy of the record sprayed with gold paint. ... In 1958, the RIAA began awarding gold records ... selling at least 500,000 units.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.guinnessworldrecords.com/world-records/first-gold-disc-music-award",
+      "dominio": "guinnessworldrecords.com",
+      "titulo": "First 'gold' disc music award (Guinness World Records)",
+      "nivel": 2,
+      "excerto": "The first actual golden disc was once sprayed by R.C.A. Victor for presentation to ... Alton 'Glenn' Miller ... for his Chattanooga Choo Choo on 10 Feb 1942.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "É facto relativamente conhecido (possível etiqueta clássico; por isso fica em dificuldade 3, não 4); o ângulo é o material, não 'quem recebeu'. 'Pintada a ouro' (Colorado) e 'sprayed' (Guinness) concordam. O ano de 1958 para a RIAA vem só do Colorado, pelo que o verificador deve confirmá-lo ou retirar a frase final da explicação. O número de vendas (1,2 milhões) foi deixado de fora por ter só uma fonte. A emissão da Library of Congress não foi aberta."
+    }
+  ],
+  "etiquetas": []
+}

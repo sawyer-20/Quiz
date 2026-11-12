@@ -57,6 +57,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Treccani remete para a entrada «cifra» mas não li essa entrada; a ligação cifra/zero assenta no MacTutor (cipher via cifra medieval e francês antigo cyfre, descendente de sifr) e na remissão do Treccani. Evitei datas (1202 só aparece nas fontes, não no texto). O verbo 'traduziu' segue o 'calco' do Treccani; o MacTutor diz 'transcrição', mas ambos dão o mesmo sentido (vazio). Classificação: ângulo pouco batido (a raiz sânscrita, não a árabe), mas a ligação zero/cifra aparece em listas de etimologia; não marcar como clássico, com cautela. Distrator 'círculo' é plausível pelo símbolo 0 mas errado segundo as fontes."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "ângulo próprio"
     }
   ],
   "etiquetas": []

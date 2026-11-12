@@ -40,10 +40,26 @@
       "excerto": "discovered in 1922 and named a UNESCO World Heritage Site in 1980 ... The ancient city's drainage and water management systems helped to protect the site from accumulating standing water",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.harappa.com/content/mohenjo-daro-ancient-indus-valley-metropolis",
+      "dominio": "harappa.com",
+      "titulo": "Mohenjo-daro An Ancient Indus Valley Metropolis (Harappa.com)",
+      "nivel": 1,
+      "excerto": "Mohenjo-daro was discovered in 1922 by R. D. Banerji, an officer of the Archaeological Survey of India, two years after major excavations had begun at Harappa, some 590 km to the north.",
+      "consultada_em": "2026-11-12",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Mohenjo-Daro",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "harappa.com",
+      "data": "2026-11-12",
+      "notas": "1922 confirmado por Harappa.com e Encyclopedia.com; National Geographic lida: grelha de ruas e drenagem. Sem fonte lida com «ângulo reto» literal (inferência pequena por «grelha de ruas»). Ur, Cnossos e Babilónia não são da civilização do Indo."
+    },
     "advogado": null,
     "editor": null
   },
@@ -63,6 +79,12 @@
       "evento": "originalidade: classico",
       "agente": "originalidade",
       "nota": "facto corrente; enunciado e opções nossas — EM ESPERA (quota de clássicos do lote já atingida; decisão do Andre)"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte harappa.com"
     }
   ],
   "etiquetas": [

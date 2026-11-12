@@ -57,6 +57,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Datas divergem entre fontes (revisão de 1981, aprovada e em vigor em 1985), por isso o texto diz só 'anos 1980' e a explicação não dá o ano. O parlamento sueco diz expressamente que a razão de o farol ter sido erguido no lado sueco não consta dos documentos; a explicação não a afirma (evitar 'por engano'). A segunda fonte (Atlas Obscura) é de nível 2 e de tipo turístico/curiosidades: o verificador deve procurar fonte independente de nível 1 (por exemplo Maanmittauslaitos, nota trocada em 1985, ou o parlamento finlandês HE 189/1986). Os sites lantmateriet.se e majakkaseura.fi falharam (404 e erro de rede)."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "ângulo próprio"
     }
   ],
   "etiquetas": []

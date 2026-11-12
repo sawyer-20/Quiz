@@ -1,0 +1,63 @@
+{
+  "id": "Q-2026-000081",
+  "topic": "World History",
+  "subtopic": "século XIX",
+  "text": {
+    "pt-PT": {
+      "question": "Quem arbitrou, em 1872, a disputa de fronteira das ilhas San Juan, que tinha provocado a chamada «Guerra do Porco»?",
+      "options": [
+        "O presidente da Confederação Suíça",
+        "O czar Alexandre II da Rússia",
+        "O rei Vítor Emanuel II de Itália",
+        "O imperador alemão Guilherme I"
+      ],
+      "explanation": "O Tratado de Washington (1871) entregou a questão a Guilherme I. A decisão de 21 de outubro de 1872 deu as ilhas aos EUA, com a fronteira pelo canal de Haro, e pôs fim à ocupação conjunta de San Juan."
+    }
+  },
+  "correct": 3,
+  "difficulty": 4,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.nps.gov/sajh/learn/historyculture/the-pig-war.htm",
+    "https://history.state.gov/historicaldocuments/frus1872p2v5/d156"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.nps.gov/sajh/learn/historyculture/the-pig-war.htm",
+      "dominio": "nps.gov",
+      "titulo": "The Pig War, San Juan Island National Historical Park (U.S. National Park Service)",
+      "nivel": 1,
+      "excerto": "In 1871, when Great Britain and the United States signed the Treaty of Washington, the San Juan question was referred to Kaiser Wilhelm I of Germany for settlement. ... On October 21, 1872, the commission, through the kaiser, ruled in favor of the United States",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://history.state.gov/historicaldocuments/frus1872p2v5/d156",
+      "dominio": "state.gov",
+      "titulo": "FRUS 1872, Part II, vol. V, doc. 156: Bancroft to Fish, award of the German Emperor (Office of the Historian)",
+      "nivel": 1,
+      "excerto": "Most in accordance with the true interpretations of the treaty ... is the claim of the Government of the United States that the boundary-line ... should be drawn through the Haro Channel. Given at Berlin, October the 21st, 1872. WILLIAM.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "A 'Guerra do Porco' é conhecida, mas o árbitro menos; ainda assim o tema pode aparecer em listas de curiosidades (possível etiqueta clássico parcial, por isso 4 é arriscado; reduzir a 3 se o verificador achar o facto muito divulgado). O NPS diz que o kaiser delegou numa comissão de três pessoas e decidiu 'através do kaiser'; o FRUS mostra o prémio assinado por Guilherme. A data de assinatura do Tratado de Washington varia (6 ou 8 de maio de 1871 nas fontes), por isso não aparece no texto. Os distratores são soberanos plausíveis que não arbitraram esta disputa; o verificador deve confirmar que nenhum foi árbitro."
+    }
+  ],
+  "etiquetas": []
+}

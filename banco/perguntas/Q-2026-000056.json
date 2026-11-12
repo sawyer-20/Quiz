@@ -60,7 +60,11 @@
       "data": "2026-11-12",
       "notas": "Artigo científico lido via ler_url.py. As folhas adultas rasgam-se e parecem muitas, mas são só duas. Kew não abriu (403). | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Raramente referem-se três folhas em exemplares excecionais (resultado de pesquisa), mas a fonte primária diz duas e o Afrikaans 'tweeblaarkanniedood' = 'duas folhas que não morrem'. Uma, Quatro e Doze ficam excluídas."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "Li o Cornell e o Guinness. O Cornell diz «individual plants will only ever grow two leaves… these two leaves will endure throughout the life of the plant», cresce a partir do meristema basal, as folhas «twist, split, and fray», e os exemplares maiores podem passar de 1500 anos. O Guinness diz «Each plant produces only two leaves… and never sheds them» e dá 500-600 anos para os exemplares pequenos.",
+      "data": "2026-11-12"
+    },
     "editor": null
   },
   "estado": "em_verificacao",
@@ -97,6 +101,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte nature.com"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []

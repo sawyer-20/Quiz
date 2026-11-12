@@ -57,6 +57,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Dificuldade estimada 3, abaixo do alvo 4: o facto é conhecido em círculos de astronomia e pode aparecer em listas de curiosidades (pode contar como clássico). Datas exatas ficaram fora do texto porque as fontes divergem (27 ou 28 de dezembro de 1612). O resumo do Nature que li não diz 'estrela fixa' (só que o planeta foi tomado por estrela em casos análogos); essa formulação vem da NASA, por isso o verificador deve procurar outra fonte para 'estrela fixa'. David Jamieson (Melbourne, 2009) defende que Galileu suspeitou tratar-se de um planeta; é tese contestada, mas a pergunta refere o que ficou registado. O Britannica devolveu 403."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "ângulo próprio"
     }
   ],
   "etiquetas": []

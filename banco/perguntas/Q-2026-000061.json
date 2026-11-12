@@ -49,10 +49,26 @@
       "excerto": "The name is from the Greek word for artificial, since technetium was the very first man-made element, yet despite the name, technetium is found naturally albeit in tiny traces.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.ebsco.com/research-starters/history/segre-identifies-first-artificial-element",
+      "dominio": "ebsco.com",
+      "titulo": "Segrè Identifies the First Artificial Element (EBSCO Research Starters)",
+      "nivel": 2,
+      "excerto": "Emilio Gino Segrè positively identified and characterized the first human-made chemical element, technetium, atomic number 43.",
+      "consultada_em": "2026-11-12",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Tecnécio",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "ebsco.com",
+      "data": "2026-11-12",
+      "notas": "Duas fontes lidas de acordo (EBSCO e Springer, Eur. J. Nucl. Med. 1996). As datas dos outros elementos vêm do conhecimento prévio do verificador, não de fonte lida."
+    },
     "advogado": null,
     "editor": null
   },
@@ -72,6 +88,12 @@
       "evento": "originalidade: classico",
       "agente": "originalidade",
       "nota": "facto corrente; enunciado e opções nossas — EM ESPERA (quota de clássicos do lote já atingida; decisão do Andre)"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte ebsco.com"
     }
   ],
   "etiquetas": [

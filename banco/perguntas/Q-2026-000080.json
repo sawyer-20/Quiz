@@ -1,0 +1,63 @@
+{
+  "id": "Q-2026-000080",
+  "topic": "Nature & Animals",
+  "subtopic": "comportamento",
+  "text": {
+    "pt-PT": {
+      "question": "No pátio de cortejo do pássaro-jardineiro-grande, onde ficam os objetos mais pequenos, vistos pela fêmea?",
+      "options": [
+        "Junto à entrada do corredor, os maiores mais longe",
+        "Misturados ao acaso por todo o pátio",
+        "Em anel à volta do ninho, todos do mesmo tamanho",
+        "No fundo do pátio, os maiores junto à entrada"
+      ],
+      "explanation": "Os machos mantêm um gradiente de tamanhos: objetos pequenos perto da entrada do corredor e cada vez maiores mais longe. Quando os investigadores o inverteram, os machos repuseram-no e os que criam melhor esse efeito visual, da vista da fêmea, tiveram mais sucesso a acasalar."
+    }
+  },
+  "correct": 0,
+  "difficulty": 4,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://researchonline.jcu.edu.au/27152/",
+    "https://www.nationalgeographic.com/science/article/male-bowerbirds-use-forced-perspective-architecture-to-get-more-sex"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.nationalgeographic.com/science/article/male-bowerbirds-use-forced-perspective-architecture-to-get-more-sex",
+      "dominio": "nationalgeographic.com",
+      "titulo": "Male bowerbirds use forced perspective architecture to get more sex (National Geographic)",
+      "nivel": 2,
+      "excerto": "...put smaller objects closer to the avenue entrance and increasingly larger objects further away. ... When he messed up the careful gradients by reversing the large and small trinkets, the males were quick to put things right.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://researchonline.jcu.edu.au/27152/",
+      "dominio": "jcu.edu.au",
+      "titulo": "Kelley & Endler (2012), Illusions promote mating success in great bowerbirds, Science 335 (James Cook University)",
+      "nivel": 1,
+      "excerto": "Male great bowerbirds actively maintain size-distance gradients of objects on their bower courts that create forced-perspective illusions for females viewing their displays from within the bower avenue.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "A explicação foi escrita sem números nem 'três dias' (só uma fonte lida). A direção do gradiente (pequenos perto da entrada) vem do National Geographic (nível 2, como descrição do investigador); o resumo do JCU/Science só diz 'size-distance gradients', por isso o verificador deve procurar fonte independente que confirme a direção (artigo Current Biology 2010, cell.com devolveu 403; Science devolveu 403; Deakin 403; Nature 467:255 só tem resumo genérico). Há crítica publicada (Borgia et al.) sobre a ligação ao sucesso de acasalamento; a explicação limita-se a 'tiveram mais sucesso' conforme o resumo do artigo e o NatGeo. O texto diz 'vistos pela fêmea' sem afirmar que a ilusão é intencional (NatGeo diz que a causa é incerta). Os distratores são mutuamente exclusivos da resposta. Dificuldade possivelmente 3-4."
+    }
+  ],
+  "etiquetas": []
+}

@@ -50,7 +50,11 @@
       "data": "2026-11-12",
       "notas": "Li a fonte (imprensa pública de referência, que cita a norma de 1889). 'Um sexto mais compridos do que largos' equivale a 7:6. Metade, um quarto e um terço ficam excluídos por esta fórmula. Só abri uma fonte, mas a formulação é explícita. A pesquisa deu ainda resultados da Wikipédia e de sites genéricos, usados só como pista e concordantes (7:6). O enunciado diz 'segundo a lei suíça' e a fonte atribui a regra à lei (1889, mantida em 2017)."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "Li o Fedlex. O art. 1.º diz «white, upright, free-standing cross depicted against a red background, whose arms, which are all of equal size, are one-sixth longer than they are wide». O art. 3.º diz «The Swiss flag shows a Swiss cross on a square background». Li também o swissinfo, que diz «The only square national flag apart from that of the Vatican City». Isso sustenta «uma das raras bandeiras qu",
+      "data": "2026-11-12"
+    },
     "editor": null
   },
   "estado": "em_verificacao",
@@ -75,6 +79,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte swissinfo.ch"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []

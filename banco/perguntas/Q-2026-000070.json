@@ -4,17 +4,17 @@
   "subtopic": "regras / competições",
   "text": {
     "pt-PT": {
-      "question": "Que associação nacional levou ao IFAB, em 1890, a proposta de criar o pontapé de penálti?",
+      "question": "Que associação nacional levou ao IFAB a proposta de criar o pontapé de penálti?",
       "options": [
-        "A Associação de Futebol de Inglaterra (FA)",
         "A Associação de Futebol da Escócia",
         "A Associação de Futebol da Irlanda (Irish FA)",
+        "A Associação de Futebol de Inglaterra (FA)",
         "A Associação de Futebol do País de Gales"
       ],
-      "explanation": "A ideia foi de William McCrum, jogador do Milford FC, em Armagh. O secretário da Irish FA, Jack Reid, apresentou-a ao IFAB em 1890 e o penálti entrou nas Leis do Jogo em 1891."
+      "explanation": "A ideia foi de William McCrum, membro da Irish FA. Segundo a RTÉ, McCrum apresentou-a a Jack Reid, da Irish FA, que a propôs como regra numa reunião do IFAB. O pontapé de penálti entrou depois nas Leis do Jogo."
     }
   },
-  "correct": 2,
+  "correct": 1,
   "difficulty": 3,
   "valid_until": null,
   "daily_eligible": true,
@@ -40,26 +40,10 @@
       "excerto": "The penalty kick ... wasn't introduced to the game until 1890 when Irish FA member William McCrum came up with the idea and invented the rule.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://www.attackingfootball.com/the-penalty-kick-william-mccrum/",
-      "dominio": "attackingfootball.com",
-      "titulo": "The Irish Man Who Invented The Penalty Kick: William McCrum",
-      "nivel": 2,
-      "excerto": "The idea of awarding a penalty for foul play inside the box was proposed in 1890 by William McCrum... As William was on the Irish Football Association, he decided to propose the introduction of the penalty kick at a meeting in 1890.",
-      "consultada_em": "2026-11-12",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "A Associação de Futebol da Irlanda (Irish FA)",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "attackingfootball.com",
-      "data": "2026-11-12",
-      "notas": "Li a fonte, que se apoia num texto do museu EPIC (EPIC não abriu: ligação cortada). É imprensa/divulgação desportiva, não nível 1 puro, daí a confiança média. A Wikipédia (só como pista) diz que a Irish FA apresentou a ideia à reunião do IFAB de 1890, que a adiou para 1891. A FA inglesa, a escocesa e a galesa não aparecem como proponentes; a inglesa foi até hostil à ideia ('death penalty', 'Irishman's motion'). Não consegui abrir a página do IFAB nem a Britannica (403), por isso falta uma segunda fonte de nível 1 para o ano exato. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): A fonte só diz que McCrum era da Irish FA e que a proposta foi feita em 1890. A pesquisa também indica que o IFAB só adotou a regra em junho de 1891. Alguns textos datam a submissão em 1890 e outros em 1891. A pergunta fala de 1890, o que bate com a formulação 'levou ao IFAB em 1890'."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -85,6 +69,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte attackingfootball.com"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (ciclo único)"
     }
   ],
   "etiquetas": []
