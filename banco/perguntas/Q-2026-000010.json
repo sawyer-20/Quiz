@@ -79,7 +79,11 @@
       "data": "2026-11-12",
       "notas": "Excluídas as restantes; fonte lida. Ambiguidade assinalada pelo verificador e afastada pelo advogado do diabo (Paris–polo ≈ 4 900 km → 0,49 m ≠ 1 m)."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "Resposta única; 0,2 mm e Dunquerque–Barcelona com duas fontes de acordo; sem causa contestada na explicação.",
+      "data": "2026-11-12"
+    },
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
@@ -206,6 +210,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte lne.fr"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ]
 }
