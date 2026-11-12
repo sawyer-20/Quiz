@@ -11,7 +11,7 @@
         "O perímetro da Terra no equador",
         "De Paris ao polo Norte"
       ],
-      "explanation": "Do polo Norte ao equador, pelo meridiano de Paris. Delambre e Méchain mediram o arco entre Dunquerque e Barcelona, mas erros no cálculo da curvatura da Terra deixaram o metro-padrão original 0,2 mm mais curto."
+      "explanation": "Do polo Norte ao equador, pelo meridiano de Paris. Delambre e Méchain mediram o arco entre Dunquerque e Barcelona, mas o metro-padrão original ficou cerca de 0,2 mm mais curto do que essa décima milionésima parte do arco."
     }
   },
   "correct": 1,
@@ -42,24 +42,26 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://link.springer.com/article/10.1007/s13137-023-00218-9",
-      "dominio": "springer.com",
-      "titulo": "How did the meter acquire its definitive length? (J. Nyblom, GEM, Springer)",
-      "nivel": 1,
-      "excerto": "The French Academy of Science decided in 1791 that the new unit of length, the meter, is to be as one ten millionth part of the meridian quarter from the north pole to the equator.",
+      "url": "https://physicstoday.aip.org/reviews/the-measure-of-all-things-the-seven-year-odyssey-and-hidden-error-that-transformed-the-world",
+      "dominio": "aip.org",
+      "titulo": "Physics Today: The Measure of All Things (recensão)",
+      "nivel": 2,
+      "excerto": "Their estimate of the length of a meter differs by 0.2 mm from its target value of 10−7 of that arc length ... the pole-to-equator arc length along the Paris meridian.",
       "consultada_em": "2026-11-12",
-      "papel": "verificador"
+      "papel": "advogado"
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s00190-019-01257-7",
+      "dominio": "springer.com",
+      "titulo": "How gravity field shortened our metre (J. Geodesy 93, 2019)",
+      "nivel": 1,
+      "excerto": "the metre we use ... is about 0.2 millimetres shorter than it was supposed to be ... the metre was supposed to be one ten-millionth part of the Earth quadrant",
+      "consultada_em": "2026-11-12",
+      "papel": "advogado"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Do polo Norte ao equador",
-      "concorda": true,
-      "confianca": "alta",
-      "dominio": "springer.com",
-      "data": "2026-11-12",
-      "notas": "Opção omite 'ao longo do meridiano de Paris', mas é a única compatível."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": {
       "aprovado": true,
@@ -175,6 +177,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte springer.com"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "retirada a causa contestada (erros na curvatura da Terra); mantém-se a cifra de 0,2 mm, com 3 fontes"
     }
   ]
 }

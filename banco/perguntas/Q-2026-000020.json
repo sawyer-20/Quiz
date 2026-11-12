@@ -70,7 +70,11 @@
       "data": "2026-11-12",
       "notas": "Reservas: Rutgers é nível 1 académico mas não primário; citação da Academia só vista em pesquisa."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "Opção «biografia do imperador Augusto» não defensável: nenhuma fonte mostra que a Academia a destacasse nem que Mommsen a escrevesse.",
+      "data": "2026-11-12"
+    },
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
@@ -161,6 +165,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte rutgers.edu"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": [

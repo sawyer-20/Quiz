@@ -82,7 +82,11 @@
       "data": "2026-11-12",
       "notas": "2,4 km² acrescentados e 0,5654 km² restantes (~23,6%); atribuição à IUGS confirmada no texto oficial da IUGS."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "IUGS, Geoparque Açores e DGT/PNAP concordam (0,6/2,4 = 25%); não consegui derrubar.",
+      "data": "2026-11-12"
+    },
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
@@ -191,6 +195,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte azores.gov.pt"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ]
 }
