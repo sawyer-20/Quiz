@@ -73,8 +73,8 @@
     "advogado": null,
     "editor": null
   },
-  "estado": "em_verificacao",
-  "motivo_rejeicao": null,
+  "estado": "rejeitada",
+  "motivo_rejeicao": "sem confirmação: a fonte independente não confirma «ao longo da linha média» no Untersee; a retoma já esgotou o alvo (regra 15)",
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
   "historico": [
@@ -101,6 +101,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte orf.at"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "rejeitada",
+      "agente": "verificador-cego",
+      "nota": "sem confirmação: a fonte independente não confirma «ao longo da linha média» no Untersee; a retoma já esgotou o alvo (regra 15)"
     }
   ],
   "etiquetas": []

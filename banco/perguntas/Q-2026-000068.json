@@ -57,7 +57,15 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "A AFI diz que as lentes foram «developed by NASA for its lunar program»; a Zeiss diz que seis das dez foram para a NASA mas que não há prova de que a Planar 0.7/50 tenha fotografado o lado oculto da Lua. Por isso a explicação NÃO menciona a NASA. «Mais luminosas do mundo na altura» é afirmação da Zeiss (a AFI não a diz); se o verificador não a achar, trocar por «ultraluminosas». O BFI (lido) confirma só «super-fast lenses» e velas, sem marca. Possível etiqueta de clássico (curiosidade conhecida em listas de cinema), mas o ângulo é o fabricante, não o realizador. ASC devolveu 520, Oscars.org 403. Evitei Satyajit Ray (Óscar honorário) por falta de fonte aberta (oscars.org 403). Distratores: Panavision é fabricante de lentes de cinema; o verificador deve evitar zeiss.com e afi.com."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "facto de listas de trivia de cinema — EM ESPERA (quota de clássicos do lote atingida; decisão do Andre)"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [
+    "classico"
+  ]
 }

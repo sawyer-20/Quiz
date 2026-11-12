@@ -57,6 +57,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Dificuldade real 4, não 2 (o aluno sabe a obra, não a pessoa): a pedido do coordenador privilegiei o ângulo secundário; se a dificuldade 2 for obrigatória, trocar a pergunta para outro ângulo. A LoC diz «Central Children's Theatre», a Boosey «Moscow Children's Musical Theatre» (nomes da mesma instituição segundo a Britannica, que devolveu 403 ao leitor e só vi em resultado de pesquisa): a explicação usa o nome da LoC. A Boosey diz «written spontaneously», a LoC diz «asked him»: a explicação segue a LoC; o verificador deve confirmar a encomenda. O ano 1936 está na LoC (regresso) e, pela cronologia da Boosey, também; a estreia de 2 de maio de 1936 não é usada. Distratores: figuras soviéticas femininas verosímeis; Krupskaya foi vice-ministra da Educação, dado não verificado nas fontes lidas, por isso o verificador deve confirmar ou eu reformulo sem descrição."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "ângulo próprio"
     }
   ],
   "etiquetas": []

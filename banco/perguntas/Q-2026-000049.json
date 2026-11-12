@@ -40,10 +40,26 @@
       "excerto": "In 1904 Bolivia officially ceded the coastal territory to Chile under the Treaty of Peace and Friendship. [...] Because Bolivia is landlocked, the oceans offer no aid in moving commodities.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://time.com/5413887/bolivia-chile-pacific/",
+      "dominio": "time.com",
+      "titulo": "The History Behind Bolivia's Fight to Get to the Ocean (TIME, 2018)",
+      "nivel": 2,
+      "excerto": "Within four years Chileans had redrawn the map of South America by taking almost 50,000 square miles of Bolivian territory, including its 250-mile coastline on the southern Pacific Ocean. Bolivia accepted this loss in 1904",
+      "consultada_em": "2026-11-12",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Bolívia",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "time.com",
+      "data": "2026-11-12",
+      "notas": "Atenção: a opção no pedido está escrita 'Bolivia' sem acento, por isso devolvo o texto exato da opção: 'Bolivia'. A Argentina e o Paraguai nunca tiveram costa disputada com o Chile nesta guerra (o Paraguai já é sem litoral; a Argentina tem costa atlântica). O Peru também perdeu território (Tarapacá, e Tacna temporariamente), mas manteve costa no Pacífico, logo não ficou sem mar. A Britannica deu 403 no leitor, por isso só tenho uma fonte lida de nível 2 (o resumo da pesquisa para a Britannica concorda, mas não a li). Resposta 'Bolivia' (texto da opção)."
+    },
     "advogado": null,
     "editor": null
   },
@@ -75,6 +91,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação sugerida pelo advogado (ciclo único)"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte time.com"
     }
   ],
   "etiquetas": [

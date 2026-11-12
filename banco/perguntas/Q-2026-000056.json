@@ -4,17 +4,17 @@
   "subtopic": "plantas",
   "text": {
     "pt-PT": {
-      "question": "Quantas folhas tem durante toda a vida a Welwitschia mirabilis, planta do deserto do Namibe?",
+      "question": "Quantas folhas permanentes tem, durante toda a vida, a Welwitschia mirabilis, planta do deserto do Namibe?",
       "options": [
+        "Duas",
         "Quatro",
         "Doze",
-        "Duas",
         "Uma"
       ],
-      "explanation": "A Welwitschia só produz duas folhas, que crescem a partir da base e nunca cai. Rasgam-se e desfiam-se com o tempo, mas são as mesmas durante toda a vida da planta, que pode viver séculos."
+      "explanation": "A Welwitschia só produz duas folhas, que crescem continuamente a partir da base da planta. Rasgam-se e desfiam-se com o tempo, mas são as mesmas durante toda a vida da planta, que pode viver séculos."
     }
   },
-  "correct": 2,
+  "correct": 0,
   "difficulty": 2,
   "valid_until": null,
   "daily_eligible": true,
@@ -40,26 +40,10 @@
       "excerto": "Each plant produces only two leaves, with a mean average total leaf area of 1 m2 (10.7 sq ft), and never sheds them.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://www.nature.com/articles/s41467-021-24528-4",
-      "dominio": "nature.com",
-      "titulo": "The Welwitschia genome reveals a unique biology underpinning extreme longevity in deserts (Nature Communications)",
-      "nivel": 1,
-      "excerto": "The species has a highly distinctive morphology, consisting of just two leaves that grow continuously throughout the plant's life.",
-      "consultada_em": "2026-11-12",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Duas",
-      "concorda": true,
-      "confianca": "alta",
-      "dominio": "nature.com",
-      "data": "2026-11-12",
-      "notas": "Artigo científico lido com ler_url.py. Diz também que o nome afrikaans significa «duas folhas que não morrem». O resumo da pesquisa sobre o Kew (kew.org deu 403) concorda. Uma, quatro e doze ficam excluídas: a planta só tem duas folhas, que crescem durante toda a vida. A planta vive no Namibe/Namib (Kaokoveld, norte da Namíbia e sul de Angola), o que é compatível com o enunciado."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -85,6 +69,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte nature.com"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (ciclo único)"
     }
   ],
   "etiquetas": []

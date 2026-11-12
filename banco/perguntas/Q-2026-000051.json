@@ -49,10 +49,26 @@
       "excerto": "MGM art director Cedric Gibbons sketched the figure of a knight gripping a sword, standing in front of a film reel. The five spokes of the reel stood for the original five branches of the Academy",
       "consultada_em": "2026-11-12",
       "papel": "advogado"
+    },
+    {
+      "url": "https://press-files.oscars.org/sites/default/files/2026-01/A%20BRIEF%20HISTORY%20OF%20THE%20OSCAR.pdf",
+      "dominio": "oscars.org",
+      "titulo": "A Brief History of the Oscar (Academy of Motion Picture Arts and Sciences, 2026)",
+      "nivel": 1,
+      "excerto": "In the finished design, the figure of the knight was streamlined, and the film reel was moved beneath its feet. The now iconic statuette was born.",
+      "consultada_em": "2026-11-12",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Um rolo de filme",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "oscars.org",
+      "data": "2026-11-12",
+      "notas": "Fonte oficial da Academia, lida. O cavaleiro segura uma espada e está sobre um rolo de filme (cinco raios = cinco ramos originais). Globo, máscara de teatro e coroa de louros não aparecem como base da estatueta."
+    },
     "advogado": null,
     "editor": null
   },
@@ -84,6 +100,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação sugerida pelo advogado (ciclo único)"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte oscars.org"
     }
   ],
   "etiquetas": [
