@@ -4,7 +4,7 @@
   "subtopic": "História da ciência e da técnica (até 1900)",
   "text": {
     "pt-PT": {
-      "question": "Ao criar o metro, a França revolucionária fê-lo igual a 1/10 000 000 de que distância?",
+      "question": "Quando criou o metro, a França revolucionária definiu-o como a décima milionésima parte de que distância?",
       "options": [
         "O diâmetro da Terra, de polo a polo",
         "Do polo Norte ao equador",
@@ -12,16 +12,6 @@
         "De Paris ao polo Norte"
       ],
       "explanation": "Do polo Norte ao equador, pelo meridiano de Paris. Delambre e Méchain mediram o arco entre Dunquerque e Barcelona, mas erros no cálculo da curvatura da Terra deixaram o metro-padrão original 0,2 mm mais curto."
-    },
-    "en-US": {
-      "question": "When revolutionary France created the meter, it made it equal to 1/10,000,000 of which distance?",
-      "options": [
-        "Earth's diameter, from pole to pole",
-        "From the North Pole to the equator",
-        "Earth's circumference at the equator",
-        "From Paris to the North Pole"
-      ],
-      "explanation": "North Pole to the equator, along the Paris meridian. Delambre and Méchain measured the arc from Dunkirk to Barcelona, but errors in calculating Earth's curvature left the original standard meter 0.2 mm shorter."
     }
   },
   "correct": 1,
@@ -50,49 +40,20 @@
       "excerto": "The Academy formed a commission, which rejected using the pendulum as a unit of length and decided that the new measure should be equal to one ten-millionth of the distance from the North Pole to the Equator (a quadrant of the Earth's circumference).",
       "consultada_em": "2026-11-04",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://www.npl.co.uk/resources/the-si-units/metre",
-      "titulo": "metre (m) - National Physical Laboratory",
-      "nivel": 1,
-      "excerto": "The metre was initially defined as one ten-millionth of the distance on the Earth's surface from the north pole to the equator, on a line passing through Paris.",
-      "dominio": "npl.co.uk",
-      "consultada_em": "2026-11-05",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Do polo Norte ao equador",
-      "concorda": true,
-      "confianca": "alta",
-      "dominio": "npl.co.uk",
-      "data": "2026-11-05",
-      "notas": "NPL e TÜV Nord confirmam. Nota do verificador: 'De Paris ao polo Norte' pode confundir (o meridiano passa por Paris), mas não é defensável."
-    },
-    "advogado": {
-      "aprovado": true,
-      "notas": "Dunquerque–Barcelona, erro de curvatura e metro 0,2 mm curto confirmados no NIST; achatamento 1/334 na Wikipédia. Nenhum distrator defensável (LNE: quarto de meridiano, 1791).",
-      "data": "2026-11-04"
-    },
+    "verificador": null,
+    "advogado": null,
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
       "notas": "Novo ângulo (criação da unidade, fração em algarismos); opções encurtadas, mesmo sentido; 'erros no cálculo da curvatura' e 0,2 mm segundo o NIST. Originalidade: só enciclopédias e uma questão de vestibular (UFG 2009) com outro cálculo.",
       "data": "2026-11-04"
-    },
-    "tradutor": {
-      "data": "2026-11-11",
-      "notas": "US number format; Dunkirk and Barcelona in usual English forms."
-    },
-    "conferente": {
-      "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
     }
   },
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-04-historia",
   "criada_em": "2026-11-04",
@@ -180,7 +141,18 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "reaberta (correção pedida pelo Andre)",
+      "agente": "orquestrador",
+      "nota": "leitura do pt-PT pelo Andre; volta à verificação"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "reformulada",
+      "agente": "pesquisador",
+      "nota": "enunciado reescrito (pedido do Andre)"
     }
-  ],
-  "options_lock": "07441ce2dffbcd8a4f18c7df30952fa69dbc12c5095e17a93b0e10e9d44c331b"
+  ]
 }

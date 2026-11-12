@@ -7,24 +7,14 @@
   ],
   "text": {
     "pt-PT": {
-      "question": "Segundo a IUGS, que parte da terra acrescentada ao Faial pelos Capelinhos (1957-58) resta hoje após a erosão marinha?",
+      "question": "Segundo a IUGS, que fração da área acrescentada ao Faial pelos Capelinhos (1957-58) resta hoje após a erosão marinha?",
       "options": [
         "Cerca de um quarto",
         "Cerca de metade",
         "Cerca de três quartos",
         "Praticamente toda"
       ],
-      "explanation": "Cerca de um quarto. A erupção acrescentou 2,4 km² ao Faial, mas a erosão marinha foi desfazendo a terra nova e, segundo a IUGS, resta hoje apenas cerca de um quarto dessa área."
-    },
-    "en-US": {
-      "question": "According to the IUGS, how much of the land added to Faial by the Capelinhos eruption (1957-58) remains after marine erosion?",
-      "options": [
-        "About a quarter",
-        "About half",
-        "About three quarters",
-        "Almost all of it"
-      ],
-      "explanation": "About a quarter. The eruption added 2.4 km² to Faial, but sea erosion has gradually worn the new land away, and according to the IUGS only about a quarter of that area remains today."
+      "explanation": "Cerca de um quarto. A erupção acrescentou 2,4 km² ao Faial, mas a erosão marinha foi desfazendo a terra nova e, segundo a União Internacional de Ciências Geológicas (IUGS), resta hoje apenas cerca de um quarto dessa área."
     }
   },
   "correct": 0,
@@ -65,15 +55,6 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://www.lneg.pt/wp-content/uploads/2025/04/86_Pereira-et-al.pdf",
-      "dominio": "lneg.pt",
-      "titulo": "Geossítios portugueses na lista dos Primeiros 100 Sítios de Património Geológico da IUGS (Comunicações Geológicas, LNEG, 2025)",
-      "nivel": 1,
-      "excerto": "acrescentando 2,4 km2 de área à ilha do Faial (atualmente resta apenas um quarto desta área devido à erosão costeira)",
-      "consultada_em": "2026-11-11",
-      "papel": "verificador"
-    },
-    {
       "url": "https://www.dn.pt/pais/vulcao-dos-capelinhos-e-monumento-natural--10730266.html",
       "dominio": "dn.pt",
       "titulo": "Vulcão dos Capelinhos é monumento natural (Diário de Notícias)",
@@ -84,37 +65,17 @@
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Cerca de um quarto",
-      "concorda": true,
-      "confianca": "alta",
-      "dominio": "lneg.pt",
-      "data": "2026-11-11",
-      "notas": "2.ª fonte: PROGEO (geossitios.progeo.pt): 2,4 km2, restam 0,6 km2. O site da IUGS está bloqueado; a atribuição à IUGS vem do artigo que descreve a candidatura. PT n1 abertas: lneg.pt, geossitios.progeo.pt."
-    },
-    "advogado": {
-      "aprovado": true,
-      "notas": "Advogado (2.ª passagem): atribuição «segundo a IUGS» confirmada na página oficial da IUGS; DN cita outro documento e concorda.",
-      "data": "2026-11-11"
-    },
+    "verificador": null,
+    "advogado": null,
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
       "notas": "estilo",
       "data": "2026-11-11"
-    },
-    "tradutor": {
-      "data": "2026-11-11",
-      "notas": "Attribution to the IUGS kept. Units not converted."
-    },
-    "conferente": {
-      "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
     }
   },
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -196,7 +157,18 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "reaberta (correção pedida pelo Andre)",
+      "agente": "orquestrador",
+      "nota": "leitura do pt-PT pelo Andre; volta à verificação"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "reformulada",
+      "agente": "pesquisador",
+      "nota": "«fração da área»; nome completo da IUGS (pedido do Andre)"
     }
-  ],
-  "options_lock": "4ca52fed628c26dd7c8667a2bf6f780efc77f79a93d6046e335a02cd7f6cfd8f"
+  ]
 }

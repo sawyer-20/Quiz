@@ -11,17 +11,7 @@
         "Lusitânia",
         "Pátria"
       ],
-      "explanation": "Portugal. Pessoa escreveu que o livro se chamava primitivamente «Portugal» e mudou o título quando o amigo Da Cunha Dias lhe fez notar que o nome da Pátria estava «prostituído a sapatos», como a hotéis."
-    },
-    "en-US": {
-      "question": "What was the original title of Fernando Pessoa's \"Mensagem\" before a friend persuaded him to change it?",
-      "options": [
-        "Portugal",
-        "Atlantis",
-        "Lusitania",
-        "Pátria (Homeland)"
-      ],
-      "explanation": "Portugal. Pessoa wrote that the book was originally titled \"Portugal\" and that he changed it after his friend Da Cunha Dias noted that the name of the Fatherland had been \"prostituted\" to shoes, as to hotels."
+      "explanation": "Portugal. Pessoa escreveu que o livro «chamava-se primitivamente» assim e que mudou o título porque Da Cunha Dias lhe fez notar que o nome da Pátria «estava hoje prostituído a sapatos, como a hotéis a sua maior Dinastia»."
     }
   },
   "correct": 0,
@@ -53,47 +43,27 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://purl.pt/13858/1/geneses/1/3-texto-base-mensagem.html",
-      "dominio": "purl.pt",
-      "titulo": "As Mãos da Escrita - O texto-base de Mensagem (Biblioteca Nacional de Portugal)",
-      "nivel": 1,
-      "excerto": "O título primitivo da Mensagem era Portugal — revelou Armando de Figueiredo. ... no dactiloscrito entregue por Fernando Pessoa na tipografia ... figurava ainda o título ... Portugal, depois emendado a lápis para Mensagem.",
-      "consultada_em": "2026-11-11",
-      "papel": "verificador"
+      "url": "https://revistas.uepg.br/index.php/uniletras/article/download/9432/5800/36073",
+      "dominio": "uepg.br",
+      "titulo": "Annabela Rita, Uniletras v. 38 n. 2 (2016)",
+      "nivel": 2,
+      "excerto": "O meu livro Mensagem chamava-se primitivamente Portugal. Alterei o título porque o meu velho amigo Da Cunha Dias me fez notar [...] que o nome da nossa Pátria estava hoje prostituído a sapatos, como a hotéis a sua maior Dinastia.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Portugal",
-      "concorda": true,
-      "confianca": "alta",
-      "dominio": "purl.pt",
-      "data": "2026-11-11",
-      "notas": "AMBIGUIDADE ASSINALADA PELO VERIFICADOR (para o advogado): títulos anteriores «Legendas» e «Gládio» também citados (não estão nas opções); a parte «amigo o levou a mudá-lo» (Da Cunha Dias) não foi confirmada nesta página. Fonte PT n1: purl.pt (BNP) abre."
-    },
-    "advogado": {
-      "aprovado": true,
-      "notas": "Advogado: citação de Pessoa aberta e lida na revista Ler (U. Porto); a explicação atribui a Pessoa; «primitivamente» é palavra do próprio; BNP concorda. Legendas e Gládio não estão nas opções.",
-      "data": "2026-11-11"
-    },
+    "verificador": null,
+    "advogado": null,
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
       "notas": "explicação direta",
       "data": "2026-11-11"
-    },
-    "tradutor": {
-      "data": "2026-11-11",
-      "notas": "Mensagem kept as title. Pátria kept with a gloss, since it is a candidate title. 'prostituído' as 'prostituted' in quotes."
-    },
-    "conferente": {
-      "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
     }
   },
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -163,9 +133,20 @@
       "evento": "markets definido",
       "agente": "orquestrador",
       "nota": "decisão do Andre: interesse local, markets [pt]"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "reaberta (correção pedida pelo Andre)",
+      "agente": "orquestrador",
+      "nota": "leitura do pt-PT pelo Andre; volta à verificação"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "reformulada",
+      "agente": "pesquisador",
+      "nota": "citação palavra por palavra (pedido do Andre)"
     }
   ],
-  "options_lock": "cea573799239c0a975b54667593517c3056ed5521a03f59a65b8f4cfe91018e5",
   "markets": [
     "pt"
   ]

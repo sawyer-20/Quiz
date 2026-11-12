@@ -6,25 +6,15 @@
     "pt-PT": {
       "question": "O Nobel da Literatura de 1902 foi para o historiador Theodor Mommsen. Que obra a Academia Sueca destacou?",
       "options": [
+        "Uma história da Grécia antiga",
+        "Uma biografia do imperador Augusto",
         "Um romance histórico sobre Júlio César",
-        "Uma história de Roma",
-        "Uma tradução latina da Eneida",
-        "Uma história da Grécia antiga"
+        "Uma história de Roma"
       ],
       "explanation": "Uma história de Roma. A Academia Sueca premiou Mommsen como «o maior mestre vivo da arte de escrever história», com referência especial à sua monumental História de Roma, escrita em parte quando era professor em Zurique."
-    },
-    "en-US": {
-      "question": "The 1902 Nobel Prize in Literature went to historian Theodor Mommsen. Which work did the Swedish Academy highlight?",
-      "options": [
-        "A historical novel about Julius Caesar",
-        "A history of Rome",
-        "A Latin translation of the Aeneid",
-        "A history of ancient Greece"
-      ],
-      "explanation": "A history of Rome. The Swedish Academy honored Mommsen as \"the greatest living master of the art of historical writing,\" citing his monumental A History of Rome, written partly while he was a professor in Zurich."
     }
   },
-  "correct": 1,
+  "correct": 3,
   "difficulty": 3,
   "valid_until": null,
   "daily_eligible": true,
@@ -53,47 +43,27 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://www.ebsco.com/research-starters/history/theodor-mommsen/",
-      "titulo": "Theodor Mommsen (EBSCO Research Starters)",
-      "nivel": 2,
-      "excerto": "Mommsen's most celebrated work, Römische Geschichte (The History of Rome), ... earning him the Nobel Prize in Literature in 1902.",
-      "dominio": "ebsco.com",
-      "consultada_em": "2026-11-10",
-      "papel": "verificador"
+      "url": "https://www.nobelprize.org/prizes/literature/1902/mommsen/facts/",
+      "dominio": "nobelprize.org",
+      "titulo": "Theodor Mommsen – Facts (NobelPrize.org)",
+      "nivel": 1,
+      "excerto": "the greatest living master of the art of historical writing, with special reference to his monumental work, A history of Rome",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Uma história de Roma",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "ebsco.com",
-      "data": "2026-11-10",
-      "notas": "EBSCO (nível 2) aberta; Britannica 403. A citação da Academia só vista num espelho em resultado de pesquisa, não aberta. Outras opções incompatíveis."
-    },
-    "advogado": {
-      "aprovado": true,
-      "notas": "Advogado: citação oficial lida diretamente em nobelprize.org e uzh.ch; opções inequívocas.",
-      "data": "2026-11-10"
-    },
+    "verificador": null,
+    "advogado": null,
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
       "notas": "explicação começa pela resposta",
       "data": "2026-11-10"
-    },
-    "tradutor": {
-      "data": "2026-11-11",
-      "notas": "Quote taken from the source excerpt."
-    },
-    "conferente": {
-      "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
     }
   },
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-06-misto",
   "criada_em": "2026-11-06",
@@ -157,10 +127,21 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "reaberta (correção pedida pelo Andre)",
+      "agente": "orquestrador",
+      "nota": "leitura do pt-PT pelo Andre; volta à verificação"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "reformulada",
+      "agente": "pesquisador",
+      "nota": "opção «tradução latina da Eneida» trocada por «biografia do imperador Augusto» (pedido do Andre)"
     }
   ],
   "etiquetas": [
     "classico"
-  ],
-  "options_lock": "2de51045215dc8de09fe60bd02cbae55a97d71c5c5353d4eed55511056f7c52a"
+  ]
 }
