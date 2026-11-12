@@ -50,10 +50,26 @@
       "excerto": "the greatest living master of the art of historical writing, with special reference to his monumental work, A history of Rome",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://dbcs.rutgers.edu/all-scholars/mommsen-christian-matthias-theodor",
+      "dominio": "rutgers.edu",
+      "titulo": "MOMMSEN, Christian Matthias Theodor (Rutgers, Dictionary of Biographical/Cultural Scholars)",
+      "nivel": 1,
+      "excerto": "In 1902 the Römische Geschichte brought its author the Nobel Prize for Literature; he was the first German and has been the only historian to win the prize, except for Winston Churchill.",
+      "consultada_em": "2026-11-12",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Uma história de Roma",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "rutgers.edu",
+      "data": "2026-11-12",
+      "notas": "Reservas: Rutgers é nível 1 académico mas não primário; citação da Academia só vista em pesquisa."
+    },
     "advogado": null,
     "editor": {
       "aprovado": true,
@@ -139,6 +155,12 @@
       "evento": "reformulada",
       "agente": "pesquisador",
       "nota": "opção «tradução latina da Eneida» trocada por «biografia do imperador Augusto» (pedido do Andre)"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte rutgers.edu"
     }
   ],
   "etiquetas": [
