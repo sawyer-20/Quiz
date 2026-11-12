@@ -40,10 +40,26 @@
       "excerto": "Each plant produces only two leaves, with a mean average total leaf area of 1 m2 (10.7 sq ft), and never sheds them.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.nature.com/articles/s41467-021-24528-4",
+      "dominio": "nature.com",
+      "titulo": "The Welwitschia genome reveals a unique biology underpinning extreme longevity in deserts (Nature Communications)",
+      "nivel": 1,
+      "excerto": "The species has a highly distinctive morphology, consisting of just two leaves that grow continuously throughout the plant's life.",
+      "consultada_em": "2026-11-12",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Duas",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "nature.com",
+      "data": "2026-11-12",
+      "notas": "Artigo científico lido via ler_url.py. As folhas adultas rasgam-se e parecem muitas, mas são só duas. Kew não abriu (403). | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Raramente referem-se três folhas em exemplares excecionais (resultado de pesquisa), mas a fonte primária diz duas e o Afrikaans 'tweeblaarkanniedood' = 'duas folhas que não morrem'. Uma, Quatro e Doze ficam excluídas."
+    },
     "advogado": null,
     "editor": null
   },
@@ -75,6 +91,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (ciclo único)"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte nature.com"
     }
   ],
   "etiquetas": []

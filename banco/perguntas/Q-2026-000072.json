@@ -1,0 +1,63 @@
+{
+  "id": "Q-2026-000072",
+  "topic": "Science",
+  "subtopic": "física",
+  "text": {
+    "pt-PT": {
+      "question": "Na água de um reator nuclear, o brilho azul é causado por que partículas?",
+      "options": [
+        "Neutrões",
+        "Eletrões rápidos (partículas beta)",
+        "Átomos de hélio neutros",
+        "Neutrinos"
+      ],
+      "explanation": "O brilho é radiação de Cherenkov: partículas carregadas, como os eletrões da desintegração beta, vão mais depressa do que a luz na água, que é cerca de 75% da sua velocidade no vácuo. Os neutrões, sem carga, não a produzem diretamente."
+    }
+  },
+  "correct": 1,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.energy.gov/ne/articles/cherenkov-radiation-explained",
+    "https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/cherenkov.html"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.energy.gov/ne/articles/cherenkov-radiation-explained",
+      "dominio": "energy.gov",
+      "titulo": "Cherenkov Radiation, Explained (US Department of Energy, Office of Nuclear Energy)",
+      "nivel": 1,
+      "excerto": "Cherenkov radiation happens when electrically charged particles, such as protons or electrons, travel faster than light in a clear medium like water ... Light slows down to 75 percent of its normal speed when it travels through water.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/cherenkov.html",
+      "dominio": "ucr.edu",
+      "titulo": "Is there an equivalent of the sonic boom for light? (Physics FAQ, University of California, Riverside)",
+      "nivel": 2,
+      "excerto": "The blue glow in the water surrounding nuclear reactors is Cherenkov radiation. The water is there to stop neutrons; but neutrons are uncharged ... The Cherenkov radiation actually comes from beta particles (fast electrons) emitted by fission products.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "O DOE fala em 'partículas carregadas, como protões ou eletrões' e em 'partículas emitidas do combustível'; só a FAQ de física da UCR (nível 2, 1997-98, alojada num domínio universitário) diz 'partículas beta emitidas por produtos de fissão'. O verificador cego deve confirmar com fonte independente de nível 1 (IAEA e Britannica devolveram 403 ao leitor). Em reatores reais há também eletrões de Compton gerados por raios gama (página da Penn State); por isso as opções não incluem gama. 'Átomos de hélio neutros' e 'neutrinos' não têm carga: incontestáveis. '75%' só entra com DOE; se for exigida segunda fonte, o editor pode tirar essa frase sem alterar o facto. Tema Cherenkov é conhecido, mas o ângulo (quem causa o brilho e porque não são os neutrões) é menos batido."
+    }
+  ],
+  "etiquetas": []
+}

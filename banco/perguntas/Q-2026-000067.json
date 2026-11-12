@@ -30,10 +30,26 @@
       "excerto": "[Art. 1] ...a white Swiss cross ... against a red background, whose arms, which are all of equal size, are one-sixth longer than they are wide. Art. 3: The Swiss flag shows a Swiss cross on a square background.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/swiss-abroad-community/cross-purposes-the-unique-swiss-flag/89284039",
+      "dominio": "swissinfo.ch",
+      "titulo": "Flag of Switzerland: Why it's one of only two square national flags (SWI swissinfo.ch)",
+      "nivel": 2,
+      "excerto": "the coat of arms of the Confederation is a free-standing, upright white cross on a red field, the arms of which, equal to each other, are one-sixth longer than they are wide",
+      "consultada_em": "2026-11-12",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Um sexto",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "swissinfo.ch",
+      "data": "2026-11-12",
+      "notas": "Li a fonte (imprensa pública de referência, que cita a norma de 1889). 'Um sexto mais compridos do que largos' equivale a 7:6. Metade, um quarto e um terço ficam excluídos por esta fórmula. Só abri uma fonte, mas a formulação é explícita. A pesquisa deu ainda resultados da Wikipédia e de sites genéricos, usados só como pista e concordantes (7:6). O enunciado diz 'segundo a lei suíça' e a fonte atribui a regra à lei (1889, mantida em 2017)."
+    },
     "advogado": null,
     "editor": null
   },
@@ -53,6 +69,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "sem quiz equivalente (ângulo próprio)"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte swissinfo.ch"
     }
   ],
   "etiquetas": []

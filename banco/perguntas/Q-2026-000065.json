@@ -37,8 +37,8 @@
     "advogado": null,
     "editor": null
   },
-  "estado": "em_verificacao",
-  "motivo_rejeicao": null,
+  "estado": "rejeitada",
+  "motivo_rejeicao": "sem confirmação: «primeira empresa do Japão» só consta da cronologia da própria Nintendo; nenhuma fonte independente a confirma",
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
   "historico": [
@@ -53,6 +53,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "sem quiz equivalente (ângulo próprio)"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "rejeitada",
+      "agente": "verificador-cego",
+      "nota": "sem confirmação: «primeira empresa do Japão» só consta da cronologia da própria Nintendo; nenhuma fonte independente a confirma"
     }
   ],
   "etiquetas": []

@@ -4,17 +4,17 @@
   "subtopic": "animais comuns",
   "text": {
     "pt-PT": {
-      "question": "Qual destes animais, tal como o gato doméstico, tem inutilizado o gene de um dos recetores do sabor doce?",
+      "question": "Qual destes animais, tal como o gato doméstico, tem inutilizado o gene Tas1r2, um dos dois genes do recetor do sabor doce?",
       "options": [
-        "Tigre",
         "Ser humano",
+        "Tigre",
         "Rato",
         "Cão"
       ],
-      "explanation": "No gato doméstico, o gene Tas1r2, necessário ao recetor do doce, perdeu 247 pares de bases e não funciona. Os investigadores do Monell encontraram a mesma falha no tigre e na chita; cães, ratos e humanos têm sabor doce."
+      "explanation": "No gato doméstico, o gene Tas1r2, um dos dois genes do recetor do sabor doce, perdeu 247 pares de bases e não funciona. Segundo a equipa do Monell na PLOS Genetics, a mesma deleção existe no tigre e na chita. Nesse estudo, a sequência do gene no cão, no rato e no ser humano prevê uma proteína aparentemente normal."
     }
   },
-  "correct": 0,
+  "correct": 1,
   "difficulty": 2,
   "valid_until": null,
   "daily_eligible": true,
@@ -40,26 +40,10 @@
       "excerto": "the gene for T1R2 lacks 247 base pairs of DNA, which means it cannot produce a working protein. [...] The research team has found the same genetic deletion in close relatives of the domestic cat, including the tiger and cheetah.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://www.nationalgeographic.com/science/article/sugar-sweet-taste-cats-dolphins-carnivores-genes",
-      "dominio": "nationalgeographic.com",
-      "titulo": "A lack of taste – how dolphins, cats and other meat-eaters lost their sweet tooth (National Geographic)",
-      "nivel": 2,
-      "excerto": "In 2005, Xia Li and Joseph Brand showed that all cats, from house tabbies to wild tigers, carry a useless version of Tas1r2. It's a 'pseudogene', incapable of making a working protein.",
-      "consultada_em": "2026-11-12",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Tigre",
-      "concorda": true,
-      "confianca": "alta",
-      "dominio": "nationalgeographic.com",
-      "data": "2026-11-12",
-      "notas": "Confirmado por duas fontes lidas: National Geographic e Frontiers in Endocrinology 2013 (a mesma microdeleção no exão 3 do tas1R2 está conservada no gato, leão asiático, chita e tigre). Cão: a National Geographic diz que o cão tem cópia funcional de Tas1r2. Rato e ser humano têm recetores do doce funcionais (conhecimento geral; não abri fonte específica para o rato e o humano, mas as opções ficam excluídas pela pergunta ter um só animal com o gene inutilizado como o gato). Não consegui abrir o PNAS (rede bloqueada)."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -85,6 +69,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte nationalgeographic.com"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (ciclo único)"
     }
   ],
   "etiquetas": []
