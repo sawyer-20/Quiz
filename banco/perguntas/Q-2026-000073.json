@@ -57,6 +57,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Facto estável. O aparelho chama-se 'null corrector' (NASA: erro de espaçamento de lente; o artigo arXiv: erro no corretor nulo refletor, por reflexo numa tampa de haste cuja tinta se soltou). As duas versões coincidem no essencial (erro de 1,3 mm no aparelho de teste). A explicação diz 'só foi corrigido em 1993': a NASA diz que WFPC2 e COSTAR foram instalados na primeira missão de assistência, em dezembro de 1993; o editor pode simplificar sem mexer no facto. 'O espelho estava certo para o aparelho de teste' é uma formulação minha de interpretação; se o advogado a achar demasiado, pode ser cortada: NASA só diz que o espelho tinha a curva errada por causa do erro no aparelho. O arXiv é um artigo científico (preprint), por isso nível 2; o verificador deve procurar uma segunda fonte independente de nível 1 (ex.: ESA ou STScI). Facto bastante conhecido entre aficionados; ângulo menos batido é o 1,3 mm e o aparelho de teste, mas é o mais próximo de clássico do lote (dificuldade 3, não 4)."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "ângulo próprio"
     }
   ],
   "etiquetas": []

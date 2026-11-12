@@ -67,7 +67,15 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "As fontes divergem em quem e quando alargou para 40 dias (CDC: 'nas décadas seguintes'; Ravančić: Veneza a meio do séc. XV; PMC: em 1397 Ragusa ainda dizia 30). Por isso a explicação diz só 'nas décadas seguintes' (formulação do CDC) e a pergunta só incide nos 30 dias originais, em que as três fontes coincidem. O CDC fala em 'nos portos europeus... navios 40 dias' na definição geral, mas atribui os 30 dias a Ragusa em 1377. 'Hoje Dubrovnik' é estável. Wikipédia e sites de história popular só serviram de pista. Ângulo: o número 30 contra o 40 habitual, não o 'quem inventou'. Pode ser semi-clássico (origem da quarentena é tema comum), mas o pormenor dos 30 dias é menos batido; dificuldade 3, nunca 4."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "origem da palavra quarentena; EM ESPERA (quota de clássicos do lote atingida)"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [
+    "classico"
+  ]
 }

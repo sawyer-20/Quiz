@@ -57,6 +57,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "O DOE fala em 'partículas carregadas, como protões ou eletrões' e em 'partículas emitidas do combustível'; só a FAQ de física da UCR (nível 2, 1997-98, alojada num domínio universitário) diz 'partículas beta emitidas por produtos de fissão'. O verificador cego deve confirmar com fonte independente de nível 1 (IAEA e Britannica devolveram 403 ao leitor). Em reatores reais há também eletrões de Compton gerados por raios gama (página da Penn State); por isso as opções não incluem gama. 'Átomos de hélio neutros' e 'neutrinos' não têm carga: incontestáveis. '75%' só entra com DOE; se for exigida segunda fonte, o editor pode tirar essa frase sem alterar o facto. Tema Cherenkov é conhecido, mas o ângulo (quem causa o brilho e porque não são os neutrões) é menos batido."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "ângulo próprio"
     }
   ],
   "etiquetas": []
