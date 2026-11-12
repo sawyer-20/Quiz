@@ -12,6 +12,16 @@
         "De Paris ao polo Norte"
       ],
       "explanation": "Do polo Norte ao equador, pelo meridiano de Paris. Delambre e Méchain mediram o arco entre Dunquerque e Barcelona, mas o metro-padrão original ficou cerca de 0,2 mm mais curto do que essa décima milionésima parte do arco."
+    },
+    "en-US": {
+      "question": "When revolutionary France created the meter, it defined it as one ten-millionth of which distance?",
+      "options": [
+        "The Earth's diameter, from pole to pole",
+        "From the North Pole to the equator",
+        "The Earth's circumference at the equator",
+        "From Paris to the North Pole"
+      ],
+      "explanation": "From the North Pole to the equator, along the Paris meridian. Delambre and Méchain measured the arc between Dunkirk and Barcelona, but the original standard meter ended up about 0.2 mm shorter than that ten-millionth of the arc."
     }
   },
   "correct": 1,
@@ -88,8 +98,12 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "Novo ângulo (criação da unidade, fração em algarismos); opções encurtadas, mesmo sentido; 'erros no cálculo da curvatura' e 0,2 mm segundo o NIST. Originalidade: só enciclopédias e uma questão de vestibular (UFG 2009) com outro cálculo.",
-      "data": "2026-11-04"
+      "notas": "sem alterações",
+      "data": "2026-11-12"
+    },
+    "tradutor": {
+      "data": "2026-11-12",
+      "notas": "tradutor"
     }
   },
   "estado": "em_verificacao",
@@ -216,6 +230,18 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "tradutor"
     }
   ]
 }
