@@ -79,8 +79,8 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "explicação começa pela resposta",
-      "data": "2026-11-10"
+      "notas": "sem alterações de texto",
+      "data": "2026-11-12"
     }
   },
   "estado": "em_verificacao",
@@ -183,6 +183,12 @@
       "evento": "rejeição anulada (erro do orquestrador)",
       "agente": "orquestrador",
       "nota": "o resultado do editor não trazia o campo originalidade_ok e o script rejeitou por engano; nenhum agente rejeitou a pergunta"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
     }
   ],
   "etiquetas": [
