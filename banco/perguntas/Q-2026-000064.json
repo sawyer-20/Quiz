@@ -1,0 +1,79 @@
+{
+  "id": "Q-2026-000064",
+  "topic": "Geography",
+  "subtopic": "fronteiras",
+  "text": {
+    "pt-PT": {
+      "question": "Em 2026, em que parte do lago de Constança a fronteira Alemanha–Suíça é consensual, ao longo da linha média?",
+      "options": [
+        "Na baía de Lindau",
+        "No Überlinger See",
+        "Na baía de Bregenz",
+        "No Untersee (lago inferior)"
+      ],
+      "explanation": "No Untersee a fronteira segue a linha média do lago. No Obersee, onde ficam o Überlinger See e as baías de Lindau e Bregenz, nunca foi fixada, e o novo tratado Suíça–Alemanha exclui-o expressamente."
+    }
+  },
+  "correct": 3,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.swisstopo.admin.ch/dam/de/sd-web/nxgNksnth5ZW/Erl%C3%A4uternder%20Bericht%20-%20Vertrag%20Landesgrenze%20CH-D.pdf",
+    "https://www.internationalwaterlaw.org/documents/regionaldocs/Lake_Constance.pdf",
+    "https://www.stuttgarter-zeitung.de/lokales/baden-wuerttemberg/voelkerrecht-wem-gehoert-eigentlich-der-bodensee-79136339.html"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.swisstopo.admin.ch/dam/de/sd-web/nxgNksnth5ZW/Erl%C3%A4uternder%20Bericht%20-%20Vertrag%20Landesgrenze%20CH-D.pdf",
+      "dominio": "admin.ch",
+      "titulo": "Erläuternder Bericht - Vertrag Landesgrenze CH-D (swisstopo, Confederação Suíça)",
+      "nivel": 1,
+      "excerto": "Der Grenzverlauf im Obersee des Bodensees ist vom geplanten Vertrag explizit nicht betroffen ... die Staatsgrenze im Untersee ... entspricht der jeweiligen Position der Mittellinie dieser Wasserläufe.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.internationalwaterlaw.org/documents/regionaldocs/Lake_Constance.pdf",
+      "dominio": "internationalwaterlaw.org",
+      "titulo": "Convention concerning Navigation on Lake Constance (1973), texto na UNECE/TRANS/SC.3",
+      "nivel": 1,
+      "excerto": "None of the other rights of State sovereignty over Lake Constance, particularly the alignment of borders shall be affected by this Convention.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.stuttgarter-zeitung.de/lokales/baden-wuerttemberg/voelkerrecht-wem-gehoert-eigentlich-der-bodensee-79136339.html",
+      "dominio": "stuttgarter-zeitung.de",
+      "titulo": "Völkerrecht: Wem gehört eigentlich der Bodensee? (Stuttgarter Zeitung)",
+      "nivel": 2,
+      "excerto": "zwei unstrittige Grenzziehungen: So seien der Untersee ... und der sogenannte Konstanzer Trichter real geteilt. Das bedeutet, die Grenze zwischen Deutschland und der Schweiz verläuft dort genau in der Mitte.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "RETOMA: tirei 'Obersee' dos distratores e não pergunto onde está a fronteira no Obersee nem as três posições (Suíça/Baden-Württemberg: linha média; Áustria/Baviera: condomínio). Problema a resolver pelo verificador/advogado: a imprensa (Stuttgarter Zeitung) diz que o Konstanzer Trichter, que faz parte do Obersee, também tem fronteira consensual pela linha média; a swisstopo só fala em Untersee e Obersee. O Trichter não aparece nas opções, mas o enunciado fala em 'parte' e as baías de Lindau/Bregenz/Überlinger See não têm costa suíça (a de Lindau e Bregenz nem alemã-suíça; o Überlinger See é tratado à parte na convenção de 1973) logo não há fronteira DE-CH nelas. Se o advogado achar 'consensual' ainda defensável nos distratores, mudar para o ângulo alternativo: 'Que tratado de 1973 deixou expressamente de fora o traçado das fronteiras do lago?' Dependente do tempo: o tratado CH-DE está em preparação, por isso 'Em 2026'. A swisstopo fala em fronteira 'móvel' pela linha média no Untersee; a pergunta só diz linha média, o que é coerente. Leitura via scripts/ler_url.py; os documentos de apoio (lexfind, Wikipédia) não foram usados."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "alvo retomado",
+      "agente": "orquestrador",
+      "nota": "retoma única de Q-2026-000035 (lago de Constança), com as notas do advogado (regra 15)"
+    }
+  ],
+  "etiquetas": []
+}

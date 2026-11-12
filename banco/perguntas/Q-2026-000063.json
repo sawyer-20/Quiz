@@ -1,0 +1,63 @@
+{
+  "id": "Q-2026-000063",
+  "topic": "General Knowledge",
+  "subtopic": "arte e arquitetura",
+  "text": {
+    "pt-PT": {
+      "question": "Dos 72 nomes de sábios gravados a ouro no 1.º andar da Torre Eiffel, quantos são de mulheres?",
+      "options": [
+        "Um",
+        "Doze",
+        "Nenhum",
+        "Três"
+      ],
+      "explanation": "Os 72 nomes são de sábios que viveram entre 1789 e 1889 e não incluem nenhuma mulher, nem Marie Curie. Em janeiro de 2026 foi apresentada uma lista de 72 cientistas para os acompanhar, ainda por validar pelas academias."
+    }
+  },
+  "correct": 2,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.paris.fr/pages/bientot-des-noms-de-femmes-scientifiques-sur-la-tour-eiffel-30620",
+    "https://www.sorbonne-universite.fr/dossiers/femmes-et-sciences/hypatie-72-noms-de-femmes-scientifiques-bientot-graves-sur-la-dame-de-fer"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.paris.fr/pages/bientot-des-noms-de-femmes-scientifiques-sur-la-tour-eiffel-30620",
+      "dominio": "paris.fr",
+      "titulo": "Bientôt 72 noms de femmes scientifiques sur la tour Eiffel ! (Ville de Paris)",
+      "nivel": 1,
+      "excerto": "au premier étage de la tour Eiffel sont inscrits en lettres d'or les noms de 72 illustres savants ... Mais où sont les mathématiciennes, les physiciennes, les astrophysiciennes ?",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.sorbonne-universite.fr/dossiers/femmes-et-sciences/hypatie-72-noms-de-femmes-scientifiques-bientot-graves-sur-la-dame-de-fer",
+      "dominio": "sorbonne-universite.fr",
+      "titulo": "Hypatie : 72 noms de femmes scientifiques bientôt gravés sur la Dame de fer (Sorbonne Université)",
+      "nivel": 1,
+      "excerto": "En présentant la frise dorée du premier étage ... une touriste m'a demandé où se trouvait celui de Marie Curie. En vérifiant, j'ai découvert qu'il n'y avait aucune femme.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "O paris.fr não diz com todas as letras 'nenhuma mulher'; di-lo a Sorbonne (entrevista ao promotor) e é implícito no projeto de acrescentar mulheres; o verificador deve procurar fonte independente (o site oficial toureiffel.paris devolveu 403 e não abre neste ambiente). 'Nem Marie Curie' vem do excerto da Sorbonne. A parte de 2026 da explicação é dependente do tempo (projeto por validar): o editor pode cortá-la sem tocar no facto. Alvo pensado para evitar a pergunta clássica 'quantos nomes' e dar o ângulo 'ausências'. Wikipédia só serviu de pista."
+    }
+  ],
+  "etiquetas": []
+}

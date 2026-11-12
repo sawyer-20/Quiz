@@ -57,7 +57,15 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "SEM FONTE DE NÍVEL 1 ABERTA: oscars.org, Britannica, Smithsonian (NMAAHC e si.edu) deram 403 ou não resolveram; só consegui ler duas fontes de nível 2 (History.com e NBC4), ambas jornalísticas. A pesquisa mostrou que oscars.org/oscars/statuette e o registo NMAAHC dizem o mesmo, mas não os li. Não cabe no caminho leve sem nível 1: recomendo que o verificador tente oscars.org ou academymuseum.org, ou que a pergunta seja rejeitada. O facto é de consenso e estável. 'Realizadores' e 'argumentistas' são a tradução de directors e writers; o número de 19 ramos vem só do History.com (pode mudar): se quiserem evitar números, tirar a última frase. Ângulo: o objeto sob o cavaleiro, não o nome Oscar nem a lista de vencedores."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "facto circula em trivia; enunciado e opções nossas"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [
+    "classico"
+  ]
 }

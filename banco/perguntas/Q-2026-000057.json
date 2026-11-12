@@ -1,0 +1,63 @@
+{
+  "id": "Q-2026-000057",
+  "topic": "Space",
+  "subtopic": "sistema solar",
+  "text": {
+    "pt-PT": {
+      "question": "No planeta Vénus, em que direção nasce o Sol?",
+      "options": [
+        "Norte",
+        "Sul",
+        "Este",
+        "Oeste"
+      ],
+      "explanation": "Vénus gira ao contrário da Terra (rotação retrógrada), por isso o Sol nasce a oeste e põe-se a leste. Além disso, uma rotação completa de Vénus dura mais do que o seu ano, ou seja, mais do que uma volta ao Sol."
+    }
+  },
+  "correct": 3,
+  "difficulty": 1,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://science.nasa.gov/venus/venus-facts/",
+    "https://sci.esa.int/web/venus-express/-/34067-venus-vs-earth"
+  ],
+  "fontes": [
+    {
+      "url": "https://science.nasa.gov/venus/venus-facts/",
+      "dominio": "nasa.gov",
+      "titulo": "Venus: Facts - NASA Science",
+      "nivel": 1,
+      "excerto": "the Sun would rise in the west and set in the east, because Venus spins backward compared to Earth. [...] your 'day' would be 243 Earth days long — longer even than a Venus year, which takes only 225 Earth days.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://sci.esa.int/web/venus-express/-/34067-venus-vs-earth",
+      "dominio": "esa.int",
+      "titulo": "Venus and Earth Compared - ESA Science & Technology",
+      "nivel": 1,
+      "excerto": "Venus rotates in a retrograde direction from east to west, making the Sun rise in the west and set in the east. [...] a sidereal day on Venus lasts 243 Earth days. This is even longer than a Venusian year which is only 224.7 Earth days.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "NASA e ESA abertas e lidas, de acordo. A explicação evita números (243 vs 224,7/225 divergem só no arredondamento). Facto clássico de curiosidades sobre Vénus (meta de clássicos do lote a vigiar); a dificuldade 1 e o enunciado próprio mitigam. Distratores Norte e Sul são fracos mas claramente errados; se a originalidade ou o verificador os acharem triviais, trocar por 'Nascente varia consoante a estação' não serve (a fonte diz que quase não há estações). Sol visto da superfície, por baixo das nuvens: o enunciado fala do 'nascer do Sol' em termos teóricos, como a NASA."
+    }
+  ],
+  "etiquetas": []
+}

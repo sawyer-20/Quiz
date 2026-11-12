@@ -1,0 +1,72 @@
+{
+  "id": "Q-2026-000061",
+  "topic": "Science",
+  "subtopic": "química / elementos",
+  "text": {
+    "pt-PT": {
+      "question": "Qual foi o primeiro elemento químico produzido artificialmente, identificado em 1937 por Perrier e Segrè?",
+      "options": [
+        "Astato",
+        "Tecnécio",
+        "Promécio",
+        "Frâncio"
+      ],
+      "explanation": "O tecnécio (n.º 43) foi o primeiro elemento produzido artificialmente. Perrier e Segrè deram-lhe um nome derivado do grego «tekhnetos», que significa «artificial». Existem apenas vestígios dele na natureza."
+    }
+  },
+  "correct": 1,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.lanl.gov/science-engineering/periodic-table/element/technetium",
+    "https://periodic-table.rsc.org/element/43/technetium"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.lanl.gov/science-engineering/periodic-table/element/technetium",
+      "dominio": "lanl.gov",
+      "titulo": "Technetium Tc 43 (Los Alamos National Laboratory)",
+      "nivel": 1,
+      "excerto": "Because technetium was the first artificially produced element, Perrier and Segrè named the element after the Greek word teknet, meaning 'artificial.'",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://periodic-table.rsc.org/element/43/technetium",
+      "dominio": "rsc.org",
+      "titulo": "Technetium (Royal Society of Chemistry, Periodic Table)",
+      "nivel": 1,
+      "excerto": "Discovery date 1937. Discovered by Carlo Perrier and Emilio Segrè. The name is derived from the Greek 'tekhnetos' meaning artificial.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://periodic-table.rsc.org/element/43/technetium",
+      "dominio": "rsc.org",
+      "titulo": "RSC, texto do podcast na mesma página",
+      "nivel": 1,
+      "excerto": "The name is from the Greek word for artificial, since technetium was the very first man-made element, yet despite the name, technetium is found naturally albeit in tiny traces.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "A RSC diz na ficha que o tecnécio «não ocorre naturalmente» e no podcast que há vestígios naturais; a LANL diz que ocorre em minérios de urânio. A explicação afirma «vestígios» (LANL e podcast RSC) e a pergunta não depende disso: se o verificador estranhar, tirar a última frase. O enunciado não contém o significado do nome (sem pista). Distratores: promécio e astato foram produzidos depois (anos 1940, não verificado nas fontes lidas, o verificador confirma); frâncio foi descoberto na natureza. Dificuldade provavelmente 3, não 2. Duas páginas de domínios diferentes (lanl.gov, rsc.org); Britannica 403, JLab 403."
+    }
+  ],
+  "etiquetas": []
+}

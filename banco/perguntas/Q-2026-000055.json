@@ -47,8 +47,8 @@
     "advogado": null,
     "editor": null
   },
-  "estado": "em_verificacao",
-  "motivo_rejeicao": null,
+  "estado": "rejeitada",
+  "motivo_rejeicao": "quota de clássicos do lote (regra 16: o lote já tem 4 clássicos; o limite do Andre é 4)",
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
   "historico": [
@@ -57,7 +57,21 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "O facto é estável. Evitei chamar-lhe 'primeiro videojogo' (disputado; o BNL diz que houve precursores). O ecrã de 1958 tinha 5 polegadas e o de 1959 era maior, mas a pergunta refere o aparelho, não o tamanho. Opção 'mostrador de agulhas' não é defensável (o ecrã mostrava um ponto luminoso em movimento). Pode ser considerado semi-clássico (Tennis for Two é conhecido nos círculos de história dos jogos), mas o ângulo é o ecrã, não 'quem/quando'. O WebFetch falhou por rede; li o BNL e o Strong com scripts/ler_url.py. A Britannica devolveu 403."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "facto conhecido, enunciado e opções nossas"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "rejeitada",
+      "agente": "orquestrador",
+      "nota": "quota de clássicos do lote (regra 16: o lote já tem 4 clássicos; o limite do Andre é 4)"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [
+    "classico"
+  ]
 }

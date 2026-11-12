@@ -57,7 +57,15 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Facto clássico (fémur), meta de clássicos do lote a vigiar; dificuldade 1 por isso. Britannica deu 403. Nível 1 vem do NCBI/NIH (StatPearls, dois capítulos do mesmo domínio: NBK532982 e NBK535397), segunda fonte de domínio diferente é a Cleveland Clinic (nível 2). Apesar de o alvo pedir ângulo pouco batido, não encontrei fonte aberta para um ângulo mais obscuro dentro do tempo; se a originalidade o recusar como clássico, trocar o ângulo (ex.: osso hioide ou estribo). Pode haver estudos com ossos mais longos em casos individuais, irrelevante para o consenso anatómico."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "facto muito clássico; enunciado óbvio, opções nossas"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [
+    "classico"
+  ]
 }

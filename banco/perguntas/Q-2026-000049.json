@@ -57,7 +57,15 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Ângulo da perda do mar, não da capital. Britannica e LOC (página Global Legal Monitor) deram 403; usei State Dept e LOC Country Profile (abertos e lidos). Datas da guerra divergem entre fontes (1879-83 / 1884), por isso o enunciado e a explicação não as usam; a explicação só usa 1904, que consta na LOC. A parte 'escoar por portos de vizinhos' é inferência leve: se o verificador a contestar, reduzir a explicação para 'continua sem costa'. Peru também perdeu território ao Chile, mas manteve costa: distrator defensável só para quem não ler 'perdeu a costa'."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "facto presente em vários quizzes; enunciado e opções nossas"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [
+    "classico"
+  ]
 }

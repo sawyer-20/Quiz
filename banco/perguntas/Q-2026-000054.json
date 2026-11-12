@@ -47,8 +47,8 @@
     "advogado": null,
     "editor": null
   },
-  "estado": "em_verificacao",
-  "motivo_rejeicao": null,
+  "estado": "rejeitada",
+  "motivo_rejeicao": "quota de clássicos do lote (regra 16: o lote já tem 4 clássicos; o limite do Andre é 4)",
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
   "historico": [
@@ -57,7 +57,21 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Britannica e Rosetta/BM davam 403 noutros alvos, não aqui. Definição: USGS diz 20% da água doce superficial, UNESCO diz 20% da água doce não congelada; o enunciado usa «superficial» (USGS) e o valor é aproximado (20%). A profundidade difere entre fontes (1637 m USGS, 1700 m UNESCO): a explicação usa só «mais de 1600 m», compatível com ambas. Ligação com os Grandes Lagos é do USGS (equivalente em volume); a pista «Sibéria» é aceitável. Distratores: Ladoga é o maior lago da Europa, plausível mas errado."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "forma natural de um facto corrente; sem cópia"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "rejeitada",
+      "agente": "orquestrador",
+      "nota": "quota de clássicos do lote (regra 16: o lote já tem 4 clássicos; o limite do Andre é 4)"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [
+    "classico"
+  ]
 }

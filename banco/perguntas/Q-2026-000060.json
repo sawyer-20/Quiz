@@ -1,0 +1,63 @@
+{
+  "id": "Q-2026-000060",
+  "topic": "World History",
+  "subtopic": "civilizações antigas",
+  "text": {
+    "pt-PT": {
+      "question": "Que cidade da civilização do Indo, descoberta em 1922, tinha ruas em ângulo reto e um sistema de esgotos?",
+      "options": [
+        "Cnossos",
+        "Ur",
+        "Babilónia",
+        "Mohenjo-Daro"
+      ],
+      "explanation": "Mohenjo-Daro, no atual Paquistão, floresceu entre 2500 e 1500 a.C. A UNESCO descreve ruas que se cruzam em ângulo reto e sistemas de saneamento e drenagem, prova de planeamento urbano há mais de 4000 anos."
+    }
+  },
+  "correct": 3,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://whc.unesco.org/en/list/138",
+    "https://archaeology.org/news/2022/09/08/220909-mohenjo-daro-rain/"
+  ],
+  "fontes": [
+    {
+      "url": "https://whc.unesco.org/en/list/138",
+      "dominio": "unesco.org",
+      "titulo": "Archaeological Ruins at Moenjodaro (UNESCO World Heritage Centre)",
+      "nivel": 1,
+      "excerto": "buildings are laid out along streets intersecting each other at right angles, in a highly orderly form of city planning that also incorporated systems of sanitation and drainage.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://archaeology.org/news/2022/09/08/220909-mohenjo-daro-rain/",
+      "dominio": "archaeology.org",
+      "titulo": "Pakistan's Mohenjo-Daro Damaged by Heavy Rain (Archaeology Magazine)",
+      "nivel": 2,
+      "excerto": "discovered in 1922 and named a UNESCO World Heritage Site in 1980 ... The ancient city's drainage and water management systems helped to protect the site from accumulating standing water",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Segunda fonte (nível 2) confirma 1922 e a drenagem, mas não as ruas em ângulo reto nem 2500-1500 a.C. (só UNESCO): a explicação apoia-se na UNESCO nesses pontos; se o orquestrador quiser duas fontes para essa data, tirar «floresceu entre 2500 e 1500 a.C.». A UNESCO tem texto contraditório sobre o tijolo (cozido/cru): a pergunta evita o tijolo. Harappa também é do Indo, mas a descoberta de Harappa não é de 1922 (não foi verificado aqui, por isso o verificador deve confirmar que 1922 + ruas em grelha só cabe a Mohenjo-Daro). Britannica 403; Wikipédia não usada. Tema não está entre os já existentes."
+    }
+  ],
+  "etiquetas": []
+}

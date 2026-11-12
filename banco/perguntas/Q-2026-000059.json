@@ -1,0 +1,63 @@
+{
+  "id": "Q-2026-000059",
+  "topic": "Football",
+  "subtopic": "regras básicas",
+  "text": {
+    "pt-PT": {
+      "question": "Segundo as Leis do Jogo, qual é o número mínimo de jogadores de que uma equipa precisa para um jogo continuar?",
+      "options": [
+        "Sete",
+        "Oito",
+        "Seis",
+        "Cinco"
+      ],
+      "explanation": "Um jogo não pode começar nem continuar se uma das equipas tiver menos de sete jogadores. Se a equipa for responsável por isso, em princípio perde o jogo por desistência, conforme o regulamento da competição."
+    }
+  },
+  "correct": 0,
+  "difficulty": 1,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.theifab.com/laws/latest/the-players/",
+    "https://www.thefa.com/football-rules-governance/lawsandrules/laws/football-11-11/law-3---the-players"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.theifab.com/laws/latest/the-players/",
+      "dominio": "theifab.com",
+      "titulo": "Law 3 - The Players, IFAB",
+      "nivel": 1,
+      "excerto": "A match may not start or continue if either team has fewer than seven players [...] the match will be forfeited by that team, subject to the relevant competition regulations.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.thefa.com/football-rules-governance/lawsandrules/laws/football-11-11/law-3---the-players",
+      "dominio": "thefa.com",
+      "titulo": "Law 3 - The Players (IFAB Laws of the Game 2026-27), The FA",
+      "nivel": 1,
+      "excerto": "A match may not start or continue if either team has fewer than seven players.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "IFAB e FA abertas e lidas (a FA reproduz o texto da IFAB, contam como uma fonte pela regra 2; o verificador deve trazer outro domínio, p. ex. FIFA). As Leis podem ser revistas, mas o mínimo de sete mantém-se; sem valid_until. Futebol de 11 apenas; futsal, futebol de 7 e outras variantes têm regras próprias: o enunciado fala das Leis do Jogo (11 contra 11). Cuidado: o enunciado diz 'precisa de ter' e as Leis permitem exceções de saídas temporárias, irrelevantes aqui."
+    }
+  ],
+  "etiquetas": []
+}

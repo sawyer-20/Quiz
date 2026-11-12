@@ -47,8 +47,8 @@
     "advogado": null,
     "editor": null
   },
-  "estado": "em_verificacao",
-  "motivo_rejeicao": null,
+  "estado": "rejeitada",
+  "motivo_rejeicao": "quota de clássicos do lote (regra 16: o lote já tem 4 clássicos; o limite do Andre é 4)",
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
   "historico": [
@@ -57,7 +57,21 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Britannica devolveu 403. Fontes coincidem em 1941 (uma secundária, ScienceABC, dá 1948; ignorada). A WIPO diz Jura e caça, o NIHF diz bosque; a explicação só fala de montanhas do Jura (WIPO). Facto muito presente em listas de curiosidades: pode contar como clássico (dificuldade 2, ok). Distratores de planta/material podem parecer absurdos; o editor pode afinar. Verificador deve evitar wipo.int e invent.org."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "facto amplamente usado em quizzes; enunciado e opções nossas"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "rejeitada",
+      "agente": "orquestrador",
+      "nota": "quota de clássicos do lote (regra 16: o lote já tem 4 clássicos; o limite do Andre é 4)"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [
+    "classico"
+  ]
 }

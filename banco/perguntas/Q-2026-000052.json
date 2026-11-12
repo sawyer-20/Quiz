@@ -47,7 +47,15 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Só uma fonte lida (Smithsonian Magazine, publicação da Smithsonian Institution; se o orquestrador a considerar nível 2, o caminho leve exige nível 1). British Museum devolveu 403 ao leitor (páginas da coleção e do blogue); o resultado de pesquisa do museu confirma o mesmo mas não foi aberto, por isso não o cito. Evita-se data e números. Facto de consenso, mas a pergunta é de dificuldade 2 na prática; pode ser percebida como clássica (Pedra de Roseta), embora o ângulo seja a língua-chave, não o ano."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "facto em vários quizzes; enunciado e opções nossas"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [
+    "classico"
+  ]
 }

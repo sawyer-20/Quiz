@@ -57,6 +57,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Corrigir na redação final: 'nunca cai' deve ler-se 'que nunca perde' (frase da explicação a rever pelo editor, sem mudar o facto). Evitei idades porque as fontes divergem (500-600 anos datados por carbono; 1500+ ou 2000-3000 estimados); 'pode viver séculos' é suportado por ambas. 'Deserto do Namibe' (nome pt-PT; a fonte diz Namib Desert, Namíbia/Angola): o verificador deve confirmar o topónimo. A resposta 'Duas' é facto estável. Não usei a página do Kew (só referida pelo Cornell, não aberta)."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "sem pergunta equivalente"
     }
   ],
   "etiquetas": []
