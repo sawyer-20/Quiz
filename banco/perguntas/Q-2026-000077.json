@@ -60,7 +60,11 @@
       "data": "2026-11-12",
       "notas": "Proposição do governo sueco (texto oficial; lagen.nu apenas a aloja, não é o Riksdagen). Confirma: farol construído em 1885 na parte sueca, 35-60 m a oeste do ponto médio; nova linha em ziguezague passa 3913 m2 para a Suécia e igual área à volta do farol para a Finlândia; o ilhéu continua dividido em partes iguais. Outras opções excluídas: nada fala de subida do solo, de zonas de pesca como objetivo (a linha no mar não muda) nem de ancoradouro. Observação: a proposição é de 1984 e a alteração entrou em vigor em 1985; a revisão fronteiriça é de 1981. Uma fonte secundária refere que as interseções com a costa se mantiveram também por causa da pesca, mas isso não é o objetivo."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "Li o relatorio da comissao parlamentar sueca (data.riksdagen.se, LU 1984/85:16): 'Finland uppförde år 1885 en fyr ... Härigenom kommer en av Finland år 1885 uppförd fyr, som hittills legat på den svenska delen av skäret, att ligga på den finländska sidan om den nya gränsen'; a fronteira 'går över skärets mittpunkt'; nao ha 'riktig hamnplats' (ancoradouro: distrator 0 e falso). Li tambem a proposic",
+      "data": "2026-11-13"
+    },
     "editor": null
   },
   "estado": "em_verificacao",
@@ -85,6 +89,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte lagen.nu"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []

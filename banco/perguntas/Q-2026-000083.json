@@ -40,10 +40,26 @@
       "excerto": "Só vista nos resultados de pesquisa, não lida por mim; o verificador deve procurar uma segunda fonte independente e lida (Technicolor, Academia, museu).",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.filmatlas.com/entry/529",
+      "dominio": "filmatlas.com",
+      "titulo": "Three-Color Technicolor (1932–1955), Film Atlas",
+      "nivel": 1,
+      "excerto": "Technicolor provided color consultants (headed by Natalie Kalmus) to each production... This was stipulated by contract in the early days of the Technicolor between Herbert Kalmus and the production companies.",
+      "consultada_em": "2026-11-13",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Natalie Kalmus, a consultora de cor",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "filmatlas.com",
+      "data": "2026-11-13",
+      "notas": "A fonte confirma a exigência contratual de ter consultor de cor da Technicolor, com Natalie Kalmus à cabeça. Toland (diretor de fotografia), Edith Head (figurinista) e Gibbons (diretor artístico) não são mencionados como exigência contratual. Nota: o enunciado diz «contratar» e a fonte diz que a Technicolor fornecia o consultor por contrato; o sentido é equivalente para a pergunta. O artigo da Project MUSE pedia verificação e não foi lido."
+    },
     "advogado": null,
     "editor": null
   },
@@ -63,6 +79,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "ângulo próprio"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte filmatlas.com"
     }
   ],
   "etiquetas": []

@@ -60,7 +60,11 @@
       "data": "2026-11-13",
       "notas": "Li a página com ler_url.py. A fonte é um site de história do futebol (nível 2, não é institucional). Nenhum IFAB, FIFA ou Britannica abriu: Britannica deu 403. Outras páginas devolvidas pela pesquisa dizem o mesmo (o secretário-geral da Irish FA, Jack Reid, levou a proposta), mas não as li. A FA inglesa, a escocesa e a galesa aparecem só como quem reagiu ou votou, não como proponentes. A proposta foi apresentada em 1890 e adotada a 2 de junho de 1891."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "Li a RTE: 'McCrum offered his idea of a penalty to Jack Reid of the Irish FA, who in 1890 proposed it as a rule at a meeting of the International Football Association Board'. A pagina da Irish FA (lida) diz 'Irish FA member William McCrum came up with the idea'. A soccerhistory.co.uk (lida): 'The Irish Football Association presented the idea to the International Football Association Board'. As ata",
+      "data": "2026-11-13"
+    },
     "editor": null
   },
   "estado": "em_verificacao",
@@ -97,6 +101,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte soccerhistory.co.uk"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []

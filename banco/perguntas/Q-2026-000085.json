@@ -40,10 +40,26 @@
       "excerto": "The U.S. Copyright Office will not expand an exemption to the DMCA rules that would allow for video game preservation in libraries and archives. ... remotely share digital access to out-of-print games",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.videogameschronicle.com/news/us-copyright-office-refuses-to-allow-remote-access-to-out-of-print-games/",
+      "dominio": "videogameschronicle.com",
+      "titulo": "US Copyright Office refuses to allow remote access to out-of-print games (VGC)",
+      "nivel": 2,
+      "excerto": "The US Copyright Office has refused to grant an exemption that would allow researchers to remotely access out-of-print video games.",
+      "consultada_em": "2026-11-13",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Dar acesso remoto a investigadores",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "videogameschronicle.com",
+      "data": "2026-11-13",
+      "notas": "Li a recomendação oficial da Registadora (copyright.gov, PDF), que confirma que o Gabinete não recomenda a expansão das classes 6(a) e 6(b) (preservação de programas e videojogos), mas a secção 6(b) em si (p. 163 em diante) ficou fora do texto que o leitor devolveu. A recusa específica do acesso remoto vem da imprensa (VGC) e de resultados de pesquisa que citam a decisão. Por isso é média. Opções excluídas: a preservação por bibliotecas e a emulação nas instalações foram mantidas pela renovação da isenção existente (Finnegan, resumo da regra final: jogos sem suporte de servidor, para jogo individual e preservação). Vender cópias digitais ao público nunca esteve em causa. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): O Gabinete recusou também alargamentos ligados à limitação de utilizador único e à premissa de acesso nas instalações. A opção «dar acesso remoto a investigadores» é a que coincide com o pedido recusado."
+    },
     "advogado": null,
     "editor": null
   },
@@ -63,6 +79,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "ângulo próprio"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte videogameschronicle.com"
     }
   ],
   "etiquetas": []

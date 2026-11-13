@@ -39,10 +39,26 @@
       "excerto": "Não lido (a página FIFA devolve texto vazio ao leitor); a pesquisa indica que descreve nove golos numa parte como recorde. Mesmo domínio fifa.com: não conta como segunda fonte.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.thesoccerworldcups.com/games/1954_austria_switzerland.php",
+      "dominio": "thesoccerworldcups.com",
+      "titulo": "Austria 7 vs. Switzerland 5 at the 1954 World Cup, Match Details",
+      "nivel": 2,
+      "excerto": "Goals: 16' Ballaman, 17' Huegi, 19' Huegi, 25' Wagner, 26' R. Koerner, 27' Wagner, 32' Ocwirk, 34' R. Koerner, 39' Ballaman, 53' Wagner, 58' Huegi, 76' Probst",
+      "consultada_em": "2026-11-13",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "9",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "thesoccerworldcups.com",
+      "data": "2026-11-13",
+      "notas": "Contei os golos até ao minuto 45: 16', 17', 19', 25', 26', 27', 32', 34' e 39', ou seja 9 golos (4 suíços, 5 austríacos), com 3 na 2.ª parte (53', 58', 76'). Isto coincide com o intervalo de 5-4 que os resultados de pesquisa e a Wikipédia (só pista) indicam. A conta é minha a partir da lista de minutos; a ESPN abriu mas sem excerto útil. Opções 7, 8 e 10 excluídas. Que seja o jogo com mais golos num Mundial não foi verificado por mim."
+    },
     "advogado": null,
     "editor": null
   },
@@ -62,6 +78,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "ângulo próprio"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte thesoccerworldcups.com"
     }
   ],
   "etiquetas": []
