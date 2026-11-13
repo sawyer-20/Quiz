@@ -40,10 +40,26 @@
       "excerto": "The scientists found that nearly 95 percent of the fish without the cocoons were attacked, compared with just 10 percent of those coated in mucus.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3061186/",
+      "dominio": "nih.gov",
+      "titulo": "Fish mucous cocoons: the 'mosquito nets' of the sea (Grutter et al., Biology Letters, PMC)",
+      "nivel": 1,
+      "excerto": "Fish without mucous cocoons were attacked more by gnathiids than fish with cocoons. [...] Therefore, mucous cocoons protected against attacks by gnathiids, acting like mosquito nets in humans",
+      "consultada_em": "2026-11-13",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "De parasitas que mordem (isópodes gnatídeos)",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "nih.gov",
+      "data": "2026-11-13",
+      "notas": "Li o artigo científico com ler_url.py (PMID 21084337, publicado em linha em novembro de 2010; a pesquisa mostrou a versão impressa como 2011). Experiência com Chlorurus sordidus exposto a gnatídeos durante a noite, com e sem casulo. O artigo diz que a hipótese de proteção contra predadores noturnos está por demonstrar ('remains regularly cited', mas com pouco apoio empírico) e não testa algas nem correntes. As opções de algas tóxicas, correntes e moreias não são testadas nem confirmadas. A pergunta fala de 'parasitas que mordem': os gnatídeos são ectoparasitas que se alimentam do sangue do peixe, o que está certo. O enunciado situa a experiência em 2010 e é compatível com a publicação em linha, mas confirma-se com a data da revista."
+    },
     "advogado": null,
     "editor": null
   },
@@ -63,6 +79,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "ângulo próprio"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte nih.gov"
     }
   ],
   "etiquetas": []

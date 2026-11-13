@@ -69,7 +69,11 @@
       "data": "2026-11-12",
       "notas": "Duas fontes lidas de acordo (EBSCO e Springer, Eur. J. Nucl. Med. 1996). As datas dos outros elementos vêm do conhecimento prévio do verificador, não de fonte lida."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "Li LANL, RSC e EBSCO. LANL: «Because technetium was the first artificially produced element, Perrier and Segrè named the element…» e «technetium occurs naturally among uranium ores». RSC: «derived from the Greek 'tekhnetos' meaning artificial», descoberta 1937, Perrier e Segrè; «about 1 milligram of technetium in a tonne of uranium». EBSCO: «first human-made chemical element, technetium, atomic nu",
+      "data": "2026-11-13"
+    },
     "editor": null
   },
   "estado": "em_verificacao",
@@ -94,6 +98,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte ebsco.com"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": [

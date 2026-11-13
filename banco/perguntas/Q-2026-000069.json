@@ -40,10 +40,26 @@
       "excerto": "Peter and the Wolf, written spontaneously for Natalia Sats's Moscow Children's Musical Theatre, reaches performance.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.wisemusicclassical.com/work/31743/Peter-and-the-Wolf-for-narrator-and-orchestra--Sergei-Prokofiev/",
+      "dominio": "wisemusicclassical.com",
+      "titulo": "Peter and the Wolf (for narrator and orchestra) | Sergei Prokofiev - Wise Music Classical",
+      "nivel": 2,
+      "excerto": "Commissioned in 1936 by Natalya Sats for the Central Children's Theatre in Moscow, Peter and the Wolf, Op. 67, is a \"symphonic tale for children\" designed to introduce young audiences to the instruments of the orchestra.",
+      "consultada_em": "2026-11-13",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Natalya Sats, diretora de um teatro infantil",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "wisemusicclassical.com",
+      "data": "2026-11-13",
+      "notas": "Li a página com ler_url.py. É a ficha de uma editora (nível 2, é obra de consulta de uma editora e não é a Boosey). Só abri uma fonte de nível 1 ou 2; a pesquisa mostrou outras páginas que dizem o mesmo (programas de concerto), mas não as li, por serem de qualidade incerta. As outras opções (Ulanova, Krupskaya, Akhmatova) não aparecem como encomendantes em nenhuma fonte que vi. O enunciado confirma-se: 1936, ensinar às crianças os instrumentos da orquestra. A fonte diz 'encomendada por Sats', não 'pediu', e isso é equivalente."
+    },
     "advogado": null,
     "editor": null
   },
@@ -75,6 +91,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (ciclo único)"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte wisemusicclassical.com"
     }
   ],
   "etiquetas": []

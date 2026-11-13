@@ -56,6 +56,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Só uma fonte lida (FIFA, inside.fifa.com). Os nove golos são deduzidos do intervalo 5–4 (somas 5+4), não ditos como 'nove' na página lida. Falta segunda fonte de domínio diferente (RSSSF 404 no URL tentado; olympics.com deu timeout): o verificador deve arranjá-la. 'Jogo com mais golos' é facto histórico fechado, mas, em teoria, outro jogo de Mundial pode superá-lo: se o editor quiser, acrescentar 'até 2026' (sem valid_until). Os minutos dos golos variam entre fontes (58 vs 60 de Hügi), irrelevante para a pergunta, mas a explicação usa 19 e 35 (35 é 19+16, da FIFA): confirmar com a segunda fonte ou cortar os minutos. Wikipédia só usada como pista."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "ângulo próprio"
     }
   ],
   "etiquetas": []

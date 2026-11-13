@@ -40,10 +40,26 @@
       "excerto": "ZERO, like its synonym CIPHER, derives from the Sanskrit sunya. ... The first step was the transcription of the Sanskrit word meaning \"void\" into Arabic as as-sifr or sifr.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.newworldencyclopedia.org/entry/0_(number)",
+      "dominio": "newworldencyclopedia.org",
+      "titulo": "0 (number) - New World Encyclopedia",
+      "nivel": 2,
+      "excerto": "The word zero comes through the Arabic literal translation of the Sanskrit śūnya, meaning void or empty, into ṣifr meaning empty or vacant.",
+      "consultada_em": "2026-11-13",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Vazio",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "newworldencyclopedia.org",
+      "data": "2026-11-13",
+      "notas": "Li a página com ler_url.py. Enciclopédia editorial (nível 2, mais próxima de obra de divulgação). A Britannica e o Etymonline deram 403. A pesquisa mostrou outras páginas (Wiktionary e dicionários de etimologia) com a mesma tese 'sifr = empréstimo semântico de śūnya, vazio', mas não as li. 'Ponto', 'Pedra de contar' e 'Círculo' não aparecem como significado de śūnya em nenhuma fonte que vi. O 'círculo' é a forma gráfica do zero, mas não o sentido do termo. Falta uma segunda fonte independente lida para elevar a confiança a alta. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Um artigo de arXiv (Boucenna) contesta que 'sifr' derive de 'śūnya', porque a palavra existia em árabe antes do zero. É posição minoritária, e mesmo assim a palavra significava 'vazio'. Não afeta a escolha entre as opções."
+    },
     "advogado": null,
     "editor": null
   },
@@ -63,6 +79,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "ângulo próprio"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte newworldencyclopedia.org"
     }
   ],
   "etiquetas": []

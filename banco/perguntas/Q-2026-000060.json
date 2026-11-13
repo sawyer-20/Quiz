@@ -6,15 +6,15 @@
     "pt-PT": {
       "question": "Que cidade da civilização do Indo, descoberta em 1922, tinha ruas em ângulo reto e um sistema de esgotos?",
       "options": [
-        "Cnossos",
-        "Ur",
         "Babilónia",
-        "Mohenjo-Daro"
+        "Mohenjo-Daro",
+        "Cnossos",
+        "Ur"
       ],
-      "explanation": "Mohenjo-Daro, no atual Paquistão, floresceu entre 2500 e 1500 a.C. A UNESCO descreve ruas que se cruzam em ângulo reto e sistemas de saneamento e drenagem, prova de planeamento urbano há mais de 4000 anos."
+      "explanation": "Mohenjo-Daro, no atual Paquistão, foi uma grande cidade da civilização do Indo, descoberta em 1922. A UNESCO descreve ruas que se cruzam em ângulo reto e sistemas de saneamento e drenagem, sinal de um urbanismo planeado."
     }
   },
-  "correct": 3,
+  "correct": 1,
   "difficulty": 2,
   "valid_until": null,
   "daily_eligible": true,
@@ -40,26 +40,10 @@
       "excerto": "discovered in 1922 and named a UNESCO World Heritage Site in 1980 ... The ancient city's drainage and water management systems helped to protect the site from accumulating standing water",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://www.harappa.com/content/mohenjo-daro-ancient-indus-valley-metropolis",
-      "dominio": "harappa.com",
-      "titulo": "Mohenjo-daro An Ancient Indus Valley Metropolis (Harappa.com)",
-      "nivel": 1,
-      "excerto": "Mohenjo-daro was discovered in 1922 by R. D. Banerji, an officer of the Archaeological Survey of India, two years after major excavations had begun at Harappa, some 590 km to the north.",
-      "consultada_em": "2026-11-12",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Mohenjo-Daro",
-      "concorda": true,
-      "confianca": "alta",
-      "dominio": "harappa.com",
-      "data": "2026-11-12",
-      "notas": "1922 confirmado por Harappa.com e Encyclopedia.com; National Geographic lida: grelha de ruas e drenagem. Sem fonte lida com «ângulo reto» literal (inferência pequena por «grelha de ruas»). Ur, Cnossos e Babilónia não são da civilização do Indo."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -85,6 +69,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte harappa.com"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (ciclo único)"
     }
   ],
   "etiquetas": [

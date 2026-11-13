@@ -40,10 +40,26 @@
       "excerto": "The penalty kick ... wasn't introduced to the game until 1890 when Irish FA member William McCrum came up with the idea and invented the rule.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.soccerhistory.co.uk/penalty-kick",
+      "dominio": "soccerhistory.co.uk",
+      "titulo": "The Penalty Kick - British football history, soccer history",
+      "nivel": 2,
+      "excerto": "the invention of the penalty kick is credited to the goalkeeper and businessman William McCrum in 1890 in Milford, County Armagh, Northern Ireland. The Irish Football Association presented the idea to the International Football Association Board.",
+      "consultada_em": "2026-11-13",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "A Associação de Futebol da Irlanda (Irish FA)",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "soccerhistory.co.uk",
+      "data": "2026-11-13",
+      "notas": "Li a página com ler_url.py. A fonte é um site de história do futebol (nível 2, não é institucional). Nenhum IFAB, FIFA ou Britannica abriu: Britannica deu 403. Outras páginas devolvidas pela pesquisa dizem o mesmo (o secretário-geral da Irish FA, Jack Reid, levou a proposta), mas não as li. A FA inglesa, a escocesa e a galesa aparecem só como quem reagiu ou votou, não como proponentes. A proposta foi apresentada em 1890 e adotada a 2 de junho de 1891."
+    },
     "advogado": null,
     "editor": null
   },
@@ -75,6 +91,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (ciclo único)"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte soccerhistory.co.uk"
     }
   ],
   "etiquetas": []

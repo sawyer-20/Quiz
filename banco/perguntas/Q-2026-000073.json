@@ -6,15 +6,15 @@
     "pt-PT": {
       "question": "O espelho principal do Hubble saiu com a curva errada por um erro de 1,3 mm. Em que peça foi o erro?",
       "options": [
-        "Na posição do espelho secundário",
         "No alinhamento após o lançamento",
         "Num aparelho que testava a curva do espelho",
-        "Na espessura do vidro do espelho principal"
+        "Na espessura do vidro do espelho principal",
+        "Na posição do espelho secundário"
       ],
-      "explanation": "O espelho estava certo para o aparelho de teste, mas este tinha uma lente com 1,3 mm de erro de espaçamento. Resultado: a borda do espelho ficou demasiado plana e as imagens saíram desfocadas, o que só foi corrigido em 1993."
+      "explanation": "O espelho foi polido de acordo com um aparelho de teste, mas este tinha um erro de 1,3 mm no espaçamento de uma lente. Resultado: a borda do espelho ficou demasiado plana e as imagens saíram desfocadas, um defeito que só foi compensado com ótica corretiva instalada em dezembro de 1993."
     }
   },
-  "correct": 2,
+  "correct": 1,
   "difficulty": 3,
   "valid_until": null,
   "daily_eligible": true,
@@ -40,26 +40,10 @@
       "excerto": "NASA commissioned a forensic investigation ... that identified the cause to be a 1.3 mm spacing error in the reflective null corrector device used to optically test the mirror while being figured.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://www.skyatnightmagazine.com/space-missions/what-was-wrong-with-hubble-mirror-how-was-it-fixed",
-      "dominio": "skyatnightmagazine.com",
-      "titulo": "What was wrong with Hubble's mirror, and how was it fixed? | BBC Sky at Night Magazine",
-      "nivel": 2,
-      "excerto": "His report... blamed an optical device called a reflective null corrector, which was supposed to determine the figure of Hubble's mirror. But the location of the null corrector's lens had been incorrectly measured...",
-      "consultada_em": "2026-11-12",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Num aparelho que testava a curva do espelho",
-      "concorda": true,
-      "confianca": "alta",
-      "dominio": "skyatnightmagazine.com",
-      "data": "2026-11-12",
-      "notas": "Li a página (ler_url.py). O erro estava no corretor nulo refletor (aparelho de teste que guiou o polimento), e a curva do espelho acompanhou exatamente o defeito do aparelho; o espelho ficou liso mas com curvatura errada. Exclui: alinhamento pós-lançamento, espelho secundário e espessura do vidro (não mencionados como causa). O valor de 1,3 mm não consta da página que li; a pesquisa de resumo atribuiu 1,3 mm ao espaçamento no corretor nulo (arruelas), mas não o abri numa segunda fonte lida. Só nível 2 lido, mas a causa é explícita; a precisão numérica do enunciado fica por confirmar com duas fontes."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -85,6 +69,18 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte skyatnightmagazine.com"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (ciclo único)"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (ciclo único)"
     }
   ],
   "etiquetas": []

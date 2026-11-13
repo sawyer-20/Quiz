@@ -6,15 +6,15 @@
     "pt-PT": {
       "question": "Na água de um reator nuclear, o brilho azul é causado por que partículas?",
       "options": [
+        "Eletrões rápidos",
+        "Neutrinos",
         "Neutrões",
-        "Eletrões rápidos (partículas beta)",
-        "Átomos de hélio neutros",
-        "Neutrinos"
+        "Átomos de hélio neutros"
       ],
-      "explanation": "O brilho é radiação de Cherenkov: partículas carregadas, como os eletrões da desintegração beta, vão mais depressa do que a luz na água, que é cerca de 75% da sua velocidade no vácuo. Os neutrões, sem carga, não a produzem diretamente."
+      "explanation": "O brilho é radiação de Cherenkov: partículas carregadas, como os eletrões rápidos, vão mais depressa do que a luz na água, onde esta anda a cerca de 75% da sua velocidade no vácuo. Segundo o Physics FAQ da Universidade da Califórnia em Riverside, no brilho dos reatores são partículas beta emitidas por produtos de cisão. Os neutrões, sem carga, não o produzem diretamente."
     }
   },
-  "correct": 1,
+  "correct": 0,
   "difficulty": 3,
   "valid_until": null,
   "daily_eligible": true,
@@ -40,26 +40,10 @@
       "excerto": "The blue glow in the water surrounding nuclear reactors is Cherenkov radiation. The water is there to stop neutrons; but neutrons are uncharged ... The Cherenkov radiation actually comes from beta particles (fast electrons) emitted by fission products.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://www.oceanopticsbook.info/view/light-and-radiometry/level-2/cherenkov-radiation",
-      "dominio": "oceanopticsbook.info",
-      "titulo": "Cherenkov Radiation :: Ocean Optics Web Book",
-      "nivel": 1,
-      "excerto": "The phase speed of light in water is c/n, which is approximately 0.75c... the emitted electron is traveling faster than the speed of light in water and will therefore emit Cherenkov radiation",
-      "consultada_em": "2026-11-12",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Eletrões rápidos (partículas beta)",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "oceanopticsbook.info",
-      "data": "2026-11-12",
-      "notas": "Li a página (ler_url.py). Explica que eletrões (beta) mais rápidos que a luz na água (c/n ≈ 0.75c) emitem radiação de Cherenkov. Nota: o texto lido trata de beta de K-40 no oceano, não de um reator, pelo que a ligação ao reator é uma inferência pequena; a pesquisa (Britannica, Foro Nuclear, patente USPTO) diz o mesmo sobre reatores, mas Britannica deu 403 e não os li na íntegra. Neutrões e neutrinos não emitem o efeito de forma relevante (neutrões são neutros; neutrinos quase não interagem). Átomos de hélio neutros não são partículas carregadas e não excedem c/n no reator. Em reatores, os eletrões vêm frequentemente de eletrões libertados por raios gama (Compton), além de beta; a opção 'Eletrões rápidos (partículas beta)' continua a ser a única defensável."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -85,6 +69,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte oceanopticsbook.info"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (ciclo único)"
     }
   ],
   "etiquetas": []

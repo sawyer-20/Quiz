@@ -57,6 +57,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Facto pode mudar: as isenções valem três anos (próximo ciclo em 2027); valid_until=2027-10-28 é estimativa minha da validade da regra (a pesquisa diz 'efetiva a 28 de outubro de 2024', não li o texto oficial em copyright.gov): confirmar ou usar data do ciclo seguinte. Distrator 'Guardar cópias de preservação' é defendível como errado porque a isenção existente (e alargada) permite a preservação: o verificador deve confirmar com a regra oficial. 'Emulá-los dentro das instalações' também pode ser permitido, por isso é errado como recusa. Não usei o número de 87% (VGHF; só uma fonte lida). Tema jurídico norte-americano, mas ligado à indústria global; sem mercado. Não li copyright.gov nem o Federal Register: nível 1 oficial em falta, só o próprio promotor (VGHF) e imprensa especializada."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "ângulo próprio"
     }
   ],
   "etiquetas": []
