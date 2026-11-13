@@ -12,6 +12,16 @@
         "Vender cópias digitais ao público"
       ],
       "explanation": "Dar acesso remoto a investigadores. Era o pedido da Video Game History Foundation e da Software Preservation Network; o Gabinete recusou em outubro de 2024, após oposição da associação da indústria (ESA)."
+    },
+    "en-US": {
+      "question": "In 2024, the U.S. Copyright Office refused to let libraries do what with out-of-print video games?",
+      "options": [
+        "Emulate them on-site",
+        "Provide remote access to researchers",
+        "Keep preservation copies",
+        "Sell digital copies to the public"
+      ],
+      "explanation": "Providing remote access to researchers. That was the request of the Video Game History Foundation and the Software Preservation Network; the Office denied it in October 2024, after opposition from the industry association (ESA)."
     }
   },
   "correct": 1,
@@ -71,9 +81,18 @@
       "alteracao_factual": false,
       "notas": "Enunciado igual (113 caracteres). Explicação reordenada para começar pela resposta; sem factos novos.",
       "data": "2026-11-13"
+    },
+    "tradutor": {
+      "data": "2026-11-13",
+      "notas": "'Gabinete de Direitos de Autor dos EUA' = U.S. Copyright Office. 'esgotados' = out-of-print (o conferente pode preferir 'no longer sold'). Nomes das organizações mantidos na forma original. Explicação começa pela resposta, como o pt-PT. Opção certa no índice 1."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Mesmos nomes, mesma data (outubro de 2024) e mesma atribuição. Opções equivalentes uma a uma.",
+      "data": "2026-11-13"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -119,7 +138,26 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "'Gabinete de Direitos de Autor dos EUA' = U.S. Copyright Office. 'esgotados' = out-of-print (o conferente pode preferir 'no longer sold'). Nomes das organizações mantidos na forma original. Explicação começa pela resposta, como o pt-PT. Opção certa no índice 1."
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "4cf1e9100cc01460bc76e76da7c963f446a2a1d065c8ac0b4dc4d04e91c33226"
 }

@@ -85,9 +85,14 @@
     "tradutor": {
       "data": "2026-11-13",
       "notas": "'Neptuno' = Neptune. 'nova estrela explosiva' = 'exploding new star' (literal, para não introduzir o termo 'nova'). A explicação começa pela resposta, como o pt-PT. Opção certa no índice 2."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Datas, números e opções batem uma a uma. A opção 1 (\"Uma nova estrela explosiva\" / \"An exploding new star\") é pouco natural nos dois idiomas, mas equivalente e não defensável.",
+      "data": "2026-11-13"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -127,7 +132,20 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "'Neptuno' = Neptune. 'nova estrela explosiva' = 'exploding new star' (literal, para não introduzir o termo 'nova'). A explicação começa pela resposta, como o pt-PT. Opção certa no índice 2."
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "e0cb8046fac99cdc96a9959cf619b1f70fd6a0d818781d2ba752f8542128a5b3"
 }

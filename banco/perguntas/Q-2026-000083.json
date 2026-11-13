@@ -40,10 +40,26 @@
       "excerto": "Só vista nos resultados de pesquisa, não lida por mim; o verificador deve procurar uma segunda fonte independente e lida (Technicolor, Academia, museu).",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/kalmus-natalie-1892-1965",
+      "dominio": "encyclopedia.com",
+      "titulo": "Kalmus, Natalie (1892–1965) – Encyclopedia.com (Women in World History)",
+      "nivel": 2,
+      "excerto": "\"Until 1948,\" writes Marc Wanamaker, \"her name was required to appear as 'Color Consultant' on every motion picture made by the company.\"",
+      "consultada_em": "2026-11-13",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Natalie Kalmus, a consultora de cor",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "encyclopedia.com",
+      "data": "2026-11-13",
+      "notas": "Só uma fonte lida (nível 2); a obrigação de contratar vem de resumos de pesquisa não lidos."
+    },
     "advogado": null,
     "editor": null
   },
@@ -75,6 +91,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (ciclo único)"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte encyclopedia.com"
     }
   ],
   "etiquetas": []

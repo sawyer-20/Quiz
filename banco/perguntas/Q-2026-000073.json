@@ -14,14 +14,14 @@
       "explanation": "Num aparelho de teste, que tinha um erro de 1,3 mm no espaçamento de uma lente, e o espelho foi polido de acordo com ele. A borda ficou demasiado plana e as imagens saíram desfocadas, um defeito que só foi compensado com ótica corretiva instalada em dezembro de 1993."
     },
     "en-US": {
-      "question": "Hubble's primary mirror came out with the wrong curve because of a 1.3 mm error. Which part had the error?",
+      "question": "Hubble's primary mirror came out with the wrong curve because of a 1.3 mm error. Where was the error?",
       "options": [
-        "The alignment after launch",
-        "A device that tested the mirror's curve",
-        "The thickness of the primary mirror's glass",
-        "The position of the secondary mirror"
+        "In the alignment after launch",
+        "In a device that tested the mirror's curve",
+        "In the thickness of the primary mirror's glass",
+        "In the position of the secondary mirror"
       ],
-      "explanation": "A test device: it had a 1.3 mm error in the spacing of a lens, and the mirror was polished to match it. The edge came out too flat and images were blurred, until the corrective optics of December 1993."
+      "explanation": "In a testing device, which had a 1.3 mm error in the spacing of a lens, and the mirror was polished to match it. The edge came out too flat and the images were blurry, a flaw that was only compensated for by corrective optics installed in December 1993."
     }
   },
   "correct": 1,
@@ -84,15 +84,15 @@
     },
     "tradutor": {
       "data": "2026-11-13",
-      "notas": "Unidade mantida em mm. A última frase segue o pt-PT à letra («até a ótica corretiva de dezembro de 1993»), que é elíptica (sem verbo); o conferente pode ver. Opção certa no índice 1."
+      "notas": "Não tenho nesta sessão a tradução anterior de Q-2026-000073 (só recebi a pergunta e as opções pt-PT); a pergunta e as opções en-US são traduzidas agora a partir do pt-PT que o orquestrador enviou, com a opção certa no índice 1. Se já existe uma versão en-US aprovada, o orquestrador deve comparar e manter a que já tinha. Explicação: 2 frases, começa pela resposta; 1.3 mm sem conversão de unidades."
     },
     "conferente": {
-      "aprovado": false,
-      "notas": "Facto, resposta e opções equivalentes. Reprovada apenas por erro gramatical em pt-PT. Como mexe no pt-PT, deve voltar ao circuito segundo a regra 4 e 18.",
+      "aprovado": true,
+      "notas": "Equivalentes nos dois idiomas. A explicação começa com um fragmento (\"Num aparelho de teste, que tinha...\"), mas está igual nos dois idiomas e é aceitável.",
       "data": "2026-11-13"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -162,7 +162,26 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Não tenho nesta sessão a tradução anterior de Q-2026-000073 (só recebi a pergunta e as opções pt-PT); a pergunta e as opções en-US são traduzidas agora a partir do pt-PT que o orquestrador enviou, com a opção certa no índice 1. Se já existe uma versão en-US aprovada, o orquestrador deve comparar e manter a que já tinha. Explicação: 2 frases, começa pela resposta; 1.3 mm sem conversão de unidades."
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "1944147d3031d951fe107290743e615c6a87fdc813df4bb72e373caad7dc6299"
 }

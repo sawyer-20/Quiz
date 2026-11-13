@@ -40,10 +40,26 @@
       "excerto": "Male great bowerbirds actively maintain size-distance gradients of objects on their bower courts that create forced-perspective illusions for females viewing their displays from within the bower avenue.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5319334/",
+      "dominio": "nih.gov",
+      "titulo": "How do great bowerbirds construct perspective illusions? (Royal Society Open Science, via PMC)",
+      "nivel": 1,
+      "excerto": "The objects on the display court are not placed randomly, but are arranged by size so that smaller objects are closer to the avenue and larger objects are further away (i.e. in a positive size–distance gradient)",
+      "consultada_em": "2026-11-13",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Junto à entrada do corredor, os maiores mais longe",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "nih.gov",
+      "data": "2026-11-13",
+      "notas": "Artigo científico lido; exclui as outras três opções."
+    },
     "advogado": null,
     "editor": null
   },
@@ -75,6 +91,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (ciclo único)"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte nih.gov"
     }
   ],
   "etiquetas": []

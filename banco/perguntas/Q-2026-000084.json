@@ -48,10 +48,26 @@
       "excerto": "Austria managed to bounce back from this hammering with five goals of their own - all within the first half.",
       "consultada_em": "2026-11-13",
       "papel": "advogado"
+    },
+    {
+      "url": "https://www.11v11.com/matches/switzerland-v-austria-26-june-1954-226394/",
+      "dominio": "11v11.com",
+      "titulo": "Switzerland v Austria, 26 June 1954 - 11v11 match report",
+      "nivel": 2,
+      "excerto": "Score 7-5 to Austria. Goals Switzerland: Ballaman 16, Hugi 17, Hugi 19, Ballaman 37, Hugi 60. Austria: Wagner 25, Korner 26, Wagner 28, Ocwirk 32, Korner 34, Wagner 53, Probst 77.",
+      "consultada_em": "2026-11-13",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "9",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "11v11.com",
+      "data": "2026-11-13",
+      "notas": "Relatório do verificador chegou truncado depois da fonte (sem notas finais); o resultado «9» e a confiança «media» são os que o agente deu."
+    },
     "advogado": null,
     "editor": null
   },
@@ -83,6 +99,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (ciclo único)"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte 11v11.com"
     }
   ],
   "etiquetas": []
