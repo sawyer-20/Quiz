@@ -73,5 +73,5 @@ Caminho leve (`aplicar_passo.py leve`, campo `verificacao.caminho_leve`, etiquet
 ## Canários (detalhe, só no relatório)
 
 
-- **X1** — No Silbo Gomero, língua assobiada de La Gomera, quantos assobios distintos substituem as cinco vogais do espanhol?  Opções: ['Três', 'Cinco', 'Dois', 'Um'].  Resposta errada marcada de propósito: **Três**. Verdadeira: **Dois**. Resultado do verificador: *(por preencher)*
-- **X2** — Quando um raio atinge areia seca de quartzo, que material se forma no solo?  Opções: ['Cristais de sal', 'Cerâmica de argila', 'Vidro natural, em tubos (fulgurito)', 'Carvão vegetal'].  Resposta errada marcada de propósito: **Cerâmica de argila**. Verdadeira: **Vidro natural, em tubos (fulgurito)**. Resultado do verificador: *(por preencher)*
+- **X1** — No Silbo Gomero, língua assobiada de La Gomera, quantos assobios distintos substituem as cinco vogais do espanhol?  Opções: ['Três', 'Cinco', 'Dois', 'Um'].  Resposta errada marcada de propósito: **Três**. Verdadeira: **Dois**. Resultado do verificador: respondeu a verdadeira (canário rejeitado como devia).
+- **X2** — Quando um raio atinge areia seca de quartzo, que material se forma no solo?  Opções: ['Cristais de sal', 'Cerâmica de argila', 'Vidro natural, em tubos (fulgurito)', 'Carvão vegetal'].  Resposta errada marcada de propósito: **Cerâmica de argila**. Verdadeira: **Vidro natural, em tubos (fulgurito)**. Resultado do verificador: respondeu a verdadeira (canário rejeitado como devia).
