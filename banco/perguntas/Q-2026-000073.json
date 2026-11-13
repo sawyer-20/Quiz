@@ -11,7 +11,7 @@
         "Na espessura do vidro do espelho principal",
         "Na posição do espelho secundário"
       ],
-      "explanation": "Num aparelho de teste: tinha um erro de 1,3 mm no espaçamento de uma lente, e o espelho foi polido de acordo com ele. A borda ficou demasiado plana e as imagens desfocadas, até a ótica corretiva de dezembro de 1993."
+      "explanation": "Num aparelho de teste, que tinha um erro de 1,3 mm no espaçamento de uma lente, e o espelho foi polido de acordo com ele. A borda ficou demasiado plana e as imagens saíram desfocadas, um defeito que só foi compensado com ótica corretiva instalada em dezembro de 1993."
     },
     "en-US": {
       "question": "Hubble's primary mirror came out with the wrong curve because of a 1.3 mm error. Which part had the error?",
@@ -79,12 +79,17 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "Explicação reorganizada para começar pela resposta; mesmos factos, cerca de 215 caracteres. Enunciado igual.",
+      "notas": "Corrigida a frase elíptica sobre a ótica corretiva: o defeito só foi compensado com ótica corretiva instalada em dezembro de 1993, como na explicação original. Duas frases, cerca de 270 caracteres, começa pela resposta. Enunciado igual.",
       "data": "2026-11-13"
     },
     "tradutor": {
       "data": "2026-11-13",
       "notas": "Unidade mantida em mm. A última frase segue o pt-PT à letra («até a ótica corretiva de dezembro de 1993»), que é elíptica (sem verbo); o conferente pode ver. Opção certa no índice 1."
+    },
+    "conferente": {
+      "aprovado": false,
+      "notas": "Facto, resposta e opções equivalentes. Reprovada apenas por erro gramatical em pt-PT. Como mexe no pt-PT, deve voltar ao circuito segundo a regra 4 e 18.",
+      "data": "2026-11-13"
     }
   },
   "estado": "em_verificacao",
@@ -145,6 +150,18 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Unidade mantida em mm. A última frase segue o pt-PT à letra («até a ótica corretiva de dezembro de 1993»), que é elíptica (sem verbo); o conferente pode ver. Opção certa no índice 1."
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"explicação\", \"idioma\": \"pt-PT\", \"detalhe\": \"«até a ótica corretiva de dezembro de 1993» não tem a crase («até à») e a frase fica elíptica e ambígua («até a» pode ler-se como «mesmo a»). Convém uma formulação correta em pt-PT. O en-US «until the corrective optics of December 1993» tem a mesma elipse, mas é compreensível.\"}]"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
     }
   ],
   "etiquetas": []

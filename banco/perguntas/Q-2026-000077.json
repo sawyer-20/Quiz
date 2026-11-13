@@ -85,9 +85,14 @@
     "tradutor": {
       "data": "2026-11-13",
       "notas": "Pergunta reescrita: \"The border that runs through\" substitui \"crossing\" para evitar a leitura de posto fronteiriço. Opções e explicação inalteradas. \"ilhéu\" como \"islet\" (a ficha usa \"skerry\"). Märket mantém a grafia original."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Datas (1885, anos 1980) e opções equivalentes uma a uma. Sem pistas novas.",
+      "data": "2026-11-13"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -139,7 +144,20 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Pergunta reescrita: \"The border that runs through\" substitui \"crossing\" para evitar a leitura de posto fronteiriço. Opções e explicação inalteradas. \"ilhéu\" como \"islet\" (a ficha usa \"skerry\"). Märket mantém a grafia original."
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "0626b496624bec6c3edacb7ee4a01fdcab907f3479aca134f3c30ed617fc394f"
 }

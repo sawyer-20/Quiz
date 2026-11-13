@@ -75,9 +75,14 @@
     "tradutor": {
       "data": "2026-11-13",
       "notas": "Corrigido: removido o prefixo 'Ancient Greek.'; explicação segue o pt-PT. Pergunta e opções iguais à versão anterior."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Equivalente nos dois idiomas. Opções alinhadas uma a uma.",
+      "data": "2026-11-13"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -129,9 +134,22 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Corrigido: removido o prefixo 'Ancient Greek.'; explicação segue o pt-PT. Pergunta e opções iguais à versão anterior."
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": [
     "classico"
-  ]
+  ],
+  "options_lock": "03000e8ba73cbffb4e483ab1edc807ba6d68b3cfcf62c3ac6040e8e083e1affc"
 }

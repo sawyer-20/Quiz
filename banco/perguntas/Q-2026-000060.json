@@ -85,9 +85,14 @@
     "tradutor": {
       "data": "2026-11-13",
       "notas": "'Babilónia' = Babylon, 'Cnossos' = Knossos. Atribuição à UNESCO mantida. 'esgotos' = sewer system na pergunta; 'saneamento e drenagem' = sanitation and drainage na explicação, como no pt-PT."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Atribuição à UNESCO, data de 1922 e opções equivalentes.",
+      "data": "2026-11-13"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -139,9 +144,22 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "'Babilónia' = Babylon, 'Cnossos' = Knossos. Atribuição à UNESCO mantida. 'esgotos' = sewer system na pergunta; 'saneamento e drenagem' = sanitation and drainage na explicação, como no pt-PT."
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": [
     "classico"
-  ]
+  ],
+  "options_lock": "dd04a62f668775ef6a841b58d86bf4c7bb9e445cf10e120faf1b5f076fc8597e"
 }

@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000085",
   "topic": "Video Games",
-  "subtopic": "indústria / preservação",
+  "subtopic": "Preservação de videojogos",
   "text": {
     "pt-PT": {
       "question": "Em 2024, o Gabinete de Direitos de Autor dos EUA recusou que bibliotecas fizessem o quê com videojogos esgotados?",
@@ -11,7 +11,7 @@
         "Guardar cópias de preservação",
         "Vender cópias digitais ao público"
       ],
-      "explanation": "A Video Game History Foundation e a Software Preservation Network pediam que bibliotecas partilhassem à distância jogos esgotados com investigadores. O Gabinete recusou em outubro de 2024, após oposição da associação da indústria (ESA)."
+      "explanation": "Dar acesso remoto a investigadores. Era o pedido da Video Game History Foundation e da Software Preservation Network; o Gabinete recusou em outubro de 2024, após oposição da associação da indústria (ESA)."
     }
   },
   "correct": 1,
@@ -65,7 +65,13 @@
       "notas": "VGHF e infoDOCKET concordam: recusa do acesso remoto a investigadores, outubro de 2024, oposição da ESA; outras opções já eram permitidas.",
       "data": "2026-11-13"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado igual (113 caracteres). Explicação reordenada para começar pela resposta; sem factos novos.",
+      "data": "2026-11-13"
+    }
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -106,6 +112,12 @@
       "data": "2026-11-13",
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "revista pelo editor",
+      "agente": "editor",
       "nota": ""
     }
   ],

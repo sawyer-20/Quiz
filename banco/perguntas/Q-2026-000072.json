@@ -85,9 +85,14 @@
     "tradutor": {
       "data": "2026-11-13",
       "notas": "A explicação começa pela resposta, como o pt-PT. Atribuição ao Physics FAQ da UC Riverside mantida. 'Cherenkov' na grafia inglesa corrente. 'produtos de cisão' = fission products."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Atribuição à Universidade da Califórnia em Riverside, 75% e opções equivalentes.",
+      "data": "2026-11-13"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -139,7 +144,20 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "A explicação começa pela resposta, como o pt-PT. Atribuição ao Physics FAQ da UC Riverside mantida. 'Cherenkov' na grafia inglesa corrente. 'produtos de cisão' = fission products."
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "c64c7a87fc15ff334963918ae9a291e97ba1e1ec79048a7f5e201879cd7373a7"
 }

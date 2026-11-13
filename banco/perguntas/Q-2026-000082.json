@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000082",
   "topic": "Music",
-  "subtopic": "história da música popular",
+  "subtopic": "Certificações musicais",
   "text": {
     "pt-PT": {
       "question": "O primeiro «disco de ouro», entregue a Glenn Miller em 1942, era feito de quê?",
@@ -11,7 +11,7 @@
         "Um disco de latão dourado",
         "Uma cópia do disco pintada a ouro"
       ],
-      "explanation": "Em 1942, a RCA Victor ofereceu a Miller, num programa de rádio em direto, uma cópia emoldurada de «Chattanooga Choo Choo» pintada a ouro. A certificação oficial da RIAA só começou em 1958."
+      "explanation": "Era uma cópia emoldurada de «Chattanooga Choo Choo» pintada a ouro, oferecida a Miller pela RCA Victor num programa de rádio em direto. A certificação oficial da RIAA só começou em 1958."
     }
   },
   "correct": 3,
@@ -65,7 +65,13 @@
       "notas": "Colorado e Spragg confirmam a cópia pintada a ouro; RIAA 1958 com duas fontes lidas; «maciço» não é defensável.",
       "data": "2026-11-13"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado igual. Explicação reordenada para começar pela resposta; sem factos novos.",
+      "data": "2026-11-13"
+    }
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -94,6 +100,12 @@
       "data": "2026-11-13",
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "revista pelo editor",
+      "agente": "editor",
       "nota": ""
     }
   ],
