@@ -68,7 +68,11 @@
       "data": "2026-11-13",
       "notas": "Relatório do verificador chegou truncado depois da fonte (sem notas finais); o resultado «9» e a confiança «media» são os que o agente deu."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "9 golos na 1.ª parte confirmados por 11v11 (minutos), FIFA (5-4 ao intervalo) e FourFourTwo; 40 graus e recorde de golos confirmados.",
+      "data": "2026-11-13"
+    },
     "editor": null
   },
   "estado": "em_verificacao",
@@ -105,6 +109,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte 11v11.com"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []
