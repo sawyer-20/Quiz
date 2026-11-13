@@ -11,7 +11,7 @@
         "8",
         "7"
       ],
-      "explanation": "Nove golos: a Suíça chegou a vencer por 3–0, mas a Áustria virou o jogo e foi para o intervalo a ganhar por 5–4. Foi em Lausana, num dia de calor extremo, com temperaturas perto dos 40 graus."
+      "explanation": "Nove golos: a Suíça chegou a vencer por 3–0, mas a Áustria virou o jogo e foi para o intervalo a ganhar por 5–4. Foi em Lausana, num dia de calor extremo, com temperaturas perto dos 40 graus Celsius."
     },
     "en-US": {
       "question": "In Austria 7-5 Switzerland (1954 World Cup), the highest-scoring game in World Cup history, how many goals came in the first half alone?",
@@ -21,7 +21,7 @@
         "8",
         "7"
       ],
-      "explanation": "Nine goals: Switzerland led 3-0 at one point, but Austria turned the game around and went into halftime ahead 5-4. It was played in Lausanne on an extremely hot day, with temperatures near 40 degrees."
+      "explanation": "Nine goals: Switzerland led 3-0 at one point, but Austria turned the game around and went into halftime ahead 5-4. It was played in Lausanne on an extremely hot day, with temperatures near 40 degrees Celsius."
     }
   },
   "correct": 1,
@@ -87,17 +87,12 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "Enunciado encurtado de 125 para cerca de 113 caracteres: tirei 'marcados', sem mudar o que se pergunta. Explicação reordenada para começar pela resposta e dividida em duas frases. Não acrescentei factos. Opções e ordem iguais.",
+      "notas": "Correção pedida: acrescentei a unidade «Celsius» a «perto dos 40 graus», conforme as fontes indicadas pelo coordenador (FIFA «almost 40 degrees»; FourFourTwo e 11v11 «40°C»). Resto igual. Enunciado e opções sem alteração. Explicação com 2 frases e cerca de 200 caracteres.",
       "data": "2026-11-13"
     },
     "tradutor": {
       "data": "2026-11-13",
-      "notas": "Resultados com hífen simples (en-US corrente). 'Mundial' = World Cup; '1.ª parte' = first half; 'intervalo' = halftime. Lausana = Lausanne. 'perto dos 40 graus' mantido sem conversão e sem unidade (o pt-PT não diz Celsius); o conferente pode ver. 'chegou a vencer por 3-0' = led 3-0 at one point. Opção certa no índice 1."
-    },
-    "conferente": {
-      "aprovado": false,
-      "notas": "Resultado 7-5, 3-0, 5-4 ao intervalo (9 golos), Lausana e opções 10/9/8/7 equivalentes e pela mesma ordem. O pt-PT está aceitável, embora «No Áustria 7–5 Suíça» seja um pouco seco. Diferença menor: travessão (–) no pt-PT e hífen (-) no en-US nos resultados, sem importância. Reprovada só pela unidade de temperatura no en-US.",
-      "data": "2026-11-13"
+      "notas": "Explicação atualizada: '40 degrees Celsius', sem conversão para Fahrenheit. Pergunta e opções iguais às anteriores. Lausana = Lausanne; 'chegou a vencer por 3-0' = led 3-0 at one point. Opção certa no índice 1."
     }
   },
   "estado": "em_verificacao",
@@ -158,6 +153,18 @@
       "evento": "conferência recusada",
       "agente": "conferente",
       "nota": "[{\"onde\": \"explicação\", \"idioma\": \"en-US\", \"detalhe\": \"«temperatures near 40 degrees» não tem unidade. Para um leitor americano, «degrees» lê-se como Fahrenheit, e 40 °F contradiz «extremely hot». O pt-PT «perto dos 40 graus» é natural em Portugal (Celsius). O en-US deve dizer «40 degrees Celsius», com ou sem a conversão para Fahrenheit. Como a unidade é um dado factual, convém confirmar a mudança com quem tem a ficha.\"}]"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Explicação atualizada: '40 degrees Celsius', sem conversão para Fahrenheit. Pergunta e opções iguais às anteriores. Lausana = Lausanne; 'chegou a vencer por 3-0' = led 3-0 at one point. Opção certa no índice 1."
     }
   ],
   "etiquetas": []
