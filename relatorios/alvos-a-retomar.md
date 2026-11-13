@@ -35,3 +35,16 @@ Fora da regra 15, a decidir pelo Andre: **Q-2026-000029** (horizonte artificial 
 | Origem | Alvo | Condição |
 |---|---|---|
 | Q-2026-000013 | Sinédrio (fundação em 1818) | só volta se aparecer uma fonte de nível 1 acessível que confirme 1818 (a Infopédia dá 403). |
+
+## Para o lote 5 (regra 15: não clássicas que esgotaram o ciclo no lote 4, uma única vez)
+
+| Origem | Alvo | Notas do advogado |
+|---|---|---|
+| Q-2026-000063 | Torre Eiffel, 72 nomes e nenhuma mulher | Fixar «nomes escolhidos por Eiffel» (há projeto de inscrever 72 mulheres); a segunda fonte do verificador não era de nível 2 (usar Toulouse/ACMI). |
+| Q-2026-000066 | Gene Tas1r2 do doce (gato, tigre) | Atribuir ao estudo o que se diz do cão; só o cão tem apoio («aparentemente normal»). |
+| Q-2026-000075 | Casulo de muco do peixe-papagaio | Dizer «quase todos» em vez de 94%; atribuir a Grutter; explicação ≤300 caracteres. |
+| Q-2026-000076 | «sifr» e «śūnya» | Dizer «vocabulário Treccani»; Liber Abaci, 1202. |
+| Q-2026-000080 | Pássaro-jardineiro-grande (perspetiva forçada) | «no prazo de três dias» com Endler, Endler e Doerr (Current Biology, 2010); «perto do corredor». |
+| Q-2026-000083 | Technicolor e Natalie Kalmus | Sem «centenas de títulos» nem «na maioria dos filmes»; «casou com», atribuir ao ACMI. |
+
+Fora da regra 15: Q-2026-000078 (Bakhshali) rejeitada, facto superado por revisão de Oxford (2024).

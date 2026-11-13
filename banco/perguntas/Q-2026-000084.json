@@ -93,9 +93,14 @@
     "tradutor": {
       "data": "2026-11-13",
       "notas": "Explicação atualizada: '40 degrees Celsius', sem conversão para Fahrenheit. Pergunta e opções iguais às anteriores. Lausana = Lausanne; 'chegou a vencer por 3-0' = led 3-0 at one point. Opção certa no índice 1."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "A unidade foi corrigida nos dois idiomas («graus Celsius» / «degrees Celsius»). Resultados 7-5, 3-0 e 5-4 ao intervalo, Lausana e opções 10/9/8/7 equivalentes e pela mesma ordem. A explicação tem 2 frases. A pergunta termina em «?». As opções cabem nos 60 caracteres. Diferença só tipográfica: travessão no pt-PT e hífen no en-US nos resultados, sem importância.",
+      "data": "2026-11-13"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -165,7 +170,20 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Explicação atualizada: '40 degrees Celsius', sem conversão para Fahrenheit. Pergunta e opções iguais às anteriores. Lausana = Lausanne; 'chegou a vencer por 3-0' = led 3-0 at one point. Opção certa no índice 1."
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "3bb694c6e8d13b93ddb9ac1264f0fb9c08f0d89cbe3e48d3f86026ccf1f56df3"
 }

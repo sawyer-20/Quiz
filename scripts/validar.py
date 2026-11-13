@@ -98,7 +98,9 @@ def n_frases(texto: str) -> int:
 
 def numeros(texto: str) -> list[str]:
     """Sequências de dígitos de um texto, normalizadas (2,4 e 2.4 -> 2.4; 350 000 e 350,000 -> 350000)."""
-    s = re.sub(r"(?<=\d)[\s\u00a0\u202f,.](?=\d{3}(?!\d))", "", texto or "")
+    # Ordinais em pt («1.ª parte», «3.º andar») não têm dígitos equivalentes em inglês («first half»).
+    s = re.sub(r"\b\d+\.?\s?[ªº]", "", texto or "")
+    s = re.sub(r"(?<=\d)[\s\u00a0\u202f,.](?=\d{3}(?!\d))", "", s)
     s = re.sub(r"(?<=\d),(?=\d)", ".", s)
     return sorted(re.findall(r"\d+(?:\.\d+)?", s))
 

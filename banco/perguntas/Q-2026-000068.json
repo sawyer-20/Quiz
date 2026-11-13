@@ -47,8 +47,8 @@
     "advogado": null,
     "editor": null
   },
-  "estado": "em_verificacao",
-  "motivo_rejeicao": null,
+  "estado": "rejeitada",
+  "motivo_rejeicao": "quota de clássicos do lote (regra 16): a pergunta ficou em espera sem chegar a ser verificada; o limite do Andre era 4 clássicos",
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
   "historico": [
@@ -63,6 +63,12 @@
       "evento": "originalidade: classico",
       "agente": "originalidade",
       "nota": "facto de listas de trivia de cinema — EM ESPERA (quota de clássicos do lote atingida; decisão do Andre)"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "rejeitada",
+      "agente": "orquestrador",
+      "nota": "quota de clássicos do lote (regra 16): a pergunta ficou em espera sem chegar a ser verificada; o limite do Andre era 4 clássicos"
     }
   ],
   "etiquetas": [
