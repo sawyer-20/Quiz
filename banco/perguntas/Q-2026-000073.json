@@ -40,10 +40,26 @@
       "excerto": "NASA commissioned a forensic investigation ... that identified the cause to be a 1.3 mm spacing error in the reflective null corrector device used to optically test the mirror while being figured.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.governmentattic.org/59docs/NASAhubbleOpSystFailureRpt1990.pdf",
+      "dominio": "governmentattic.org",
+      "titulo": "The Hubble Space Telescope Optical Systems Failure Report (Allen Report, 1990)",
+      "nivel": 1,
+      "excerto": "When the Board measured the RNC, the lens was incorrectly spaced from the mirrors. Calculations ... show that the measured amount, 1.3 mm, accounts in detail for the amount and character of the observed image blurring.",
+      "consultada_em": "2026-11-13",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Num aparelho que testava a curva do espelho",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "governmentattic.org",
+      "data": "2026-11-13",
+      "notas": "Li o relatório oficial da comissão de inquérito (cópia hospedada em governmentattic.org, documento primário, domínio diferente dos proibidos). O erro de 1,3 mm esteve no espaçamento da lente no reflective null corrector, o aparelho de teste usado para dar a forma ao espelho primário. Exclusões: o espelho foi polido na forma errada por causa do teste mal montado, e não por erro na espessura do vidro; o espelho secundário e o alinhamento pós-lançamento não são a causa indicada no relatório. O relatório tem o PDF digitalizado, e o nome do relatório pode aparecer com variações."
+    },
     "advogado": null,
     "editor": null
   },
@@ -81,6 +97,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (ciclo único)"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte governmentattic.org"
     }
   ],
   "etiquetas": []

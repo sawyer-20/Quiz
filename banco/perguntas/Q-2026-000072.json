@@ -40,10 +40,26 @@
       "excerto": "The blue glow in the water surrounding nuclear reactors is Cherenkov radiation. The water is there to stop neutrons; but neutrons are uncharged ... The Cherenkov radiation actually comes from beta particles (fast electrons) emitted by fission products.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.oceanopticsbook.info/view/light-and-radiometry/level-2/cherenkov-radiation",
+      "dominio": "oceanopticsbook.info",
+      "titulo": "Cherenkov Radiation (Ocean Optics Web Book)",
+      "nivel": 2,
+      "excerto": "Cherenkov radiation is the cause of the beautiful blue glow around the core of a water-cooled nuclear reactor... the emitted electron is traveling faster than the speed of light in water and will therefore emit Cherenkov radiation",
+      "consultada_em": "2026-11-13",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Eletrões rápidos",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "oceanopticsbook.info",
+      "data": "2026-11-13",
+      "notas": "Li a fonte (obra especializada, nível 2): o brilho azul no núcleo de um reator arrefecido a água é radiação de Cherenkov, emitida por partículas carregadas mais rápidas do que a luz na água (c/n ≈ 0,75c); o exemplo dado é o eletrão. A inferência é pequena, porque a página usa o eletrão no exemplo e não diz «reator» na mesma frase. O resultado de pesquisa da Britannica diz explicitamente que são eletrões do reator, mas não o consegui abrir (403). Exclusões: neutrões e neutrinos não têm carga e não emitem radiação de Cherenkov diretamente; átomos de hélio neutros também não têm carga. Nota: em piscinas de reatores, muitos dos eletrões vêm de dispersão de Compton de raios gama, mas continuam a ser eletrões."
+    },
     "advogado": null,
     "editor": null
   },
@@ -75,6 +91,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (ciclo único)"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte oceanopticsbook.info"
     }
   ],
   "etiquetas": []

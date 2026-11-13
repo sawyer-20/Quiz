@@ -40,10 +40,26 @@
       "excerto": "discovered in 1922 and named a UNESCO World Heritage Site in 1980 ... The ancient city's drainage and water management systems helped to protect the site from accumulating standing water",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.nationalgeographic.com/history/article/indus-valley-egalitarian-ancient-society-mohenjo-daro",
+      "dominio": "nationalgeographic.com",
+      "titulo": "Did this ancient society thrive without elites? (National Geographic)",
+      "nivel": 2,
+      "excerto": "Mohenjo Daro, one of the major centers of the Indus Valley—or Harappan—civilization, was scrupulously planned, featuring water drainage systems, organized city streets, and structures made of standardized bricks.",
+      "consultada_em": "2026-11-13",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Mohenjo-Daro",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "nationalgeographic.com",
+      "data": "2026-11-13",
+      "notas": "Li a National Geographic (nível 2): Mohenjo Daro é cidade do Indo, planeada, com drenagem e ruas organizadas, escavada desde os anos 1920. Li também harappa.com (Harvard/Marshall 1931), que dá as primeiras escavações em 1922-27. As outras opções ficam excluídas: Ur e Babilónia são mesopotâmicas e Cnossos é minoica (Creta), nenhuma é da civilização do Indo. Não consegui abrir uma fonte de nível 1 (Britannica e World History devolveram 403). Os pormenores «ângulo reto» e «1922 como descoberta» vêm de resultados de pesquisa (Britannica Kids, harappa.com) que não consegui abrir. Há atribuição variável da descoberta (Banerji identificou o sítio em 1922; Marshall dirigiu as escavações), mas todas apontam para 1922 e o mesmo local."
+    },
     "advogado": null,
     "editor": null
   },
@@ -75,6 +91,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (ciclo único)"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte nationalgeographic.com"
     }
   ],
   "etiquetas": [
