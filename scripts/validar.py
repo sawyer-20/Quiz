@@ -175,7 +175,9 @@ def validar_texto(idioma: str, tx, estado: str, erros: list, avisos: list):
     if re.search(negativa, q, re.IGNORECASE):
         avisos.append(f"{idioma}: pergunta com negativa: confirmar que não confunde")
     if not 10 <= len(ex) <= 300:
-        erros.append(f"{idioma}: explicação com {len(ex)} caracteres (limite 10 a 300)")
+        # Em perguntas rejeitadas ou suspensas é só um aviso (são dados para melhorar o motor).
+        (avisos if estado in ("rejeitada", "suspensa") else erros).append(
+            f"{idioma}: explicação com {len(ex)} caracteres (limite 10 a 300)")
     if n_frases(ex) > 2:
         # No ecrã «Why» cabem 1 a 2 frases: bloqueia a aprovação, não o trabalho em curso.
         (erros if estado in {"aprovada", "publicada"} else avisos).append(
@@ -302,8 +304,9 @@ def validar_pergunta(p: dict) -> tuple[list[str], list[str]]:
 
     # Fontes
     fontes = p["fontes"] if isinstance(p["fontes"], list) else []
+    inativa = p.get("estado") in ("rejeitada", "suspensa")
     if len(fontes) < 2:
-        erros.append("são precisas pelo menos 2 fontes")
+        (avisos if inativa else erros).append("são precisas pelo menos 2 fontes")
     dominios, wikis, papeis_dom, urls = [], 0, {}, {}
     for i, f in enumerate(fontes, 1):
         if not isinstance(f, dict):
@@ -338,7 +341,7 @@ def validar_pergunta(p: dict) -> tuple[list[str], list[str]]:
         dominios.append(dom)
         papeis_dom.setdefault(f["papel"], set()).add(dom)
     if fontes and len(set(dominios)) < 2:
-        erros.append("as fontes têm de vir de pelo menos 2 domínios diferentes")
+        (avisos if inativa else erros).append("as fontes têm de vir de pelo menos 2 domínios diferentes")
     if wikis > 1:
         erros.append("a Wikipédia só pode contar como uma fonte")
     if fontes and not any(isinstance(f, dict) and f.get("nivel") == 1 for f in fontes):
