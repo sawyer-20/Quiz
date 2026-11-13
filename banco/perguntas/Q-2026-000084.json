@@ -1,0 +1,189 @@
+{
+  "id": "Q-2026-000084",
+  "topic": "Football",
+  "subtopic": "Recordes dos Mundiais",
+  "text": {
+    "pt-PT": {
+      "question": "No Áustria 7–5 Suíça (Mundial de 1954), o jogo com mais golos de todos os Mundiais, quantos foram só na 1.ª parte?",
+      "options": [
+        "10",
+        "9",
+        "8",
+        "7"
+      ],
+      "explanation": "Nove golos: a Suíça chegou a vencer por 3–0, mas a Áustria virou o jogo e foi para o intervalo a ganhar por 5–4. Foi em Lausana, num dia de calor extremo, com temperaturas perto dos 40 graus Celsius."
+    },
+    "en-US": {
+      "question": "In Austria 7-5 Switzerland (1954 World Cup), the highest-scoring game in World Cup history, how many goals came in the first half alone?",
+      "options": [
+        "10",
+        "9",
+        "8",
+        "7"
+      ],
+      "explanation": "Nine goals: Switzerland led 3-0 at one point, but Austria turned the game around and went into halftime ahead 5-4. It was played in Lausanne on an extremely hot day, with temperatures near 40 degrees Celsius."
+    }
+  },
+  "correct": 1,
+  "difficulty": 4,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/12-days-to-go-goals-galore-switzerland-1954-2952383"
+  ],
+  "fontes": [
+    {
+      "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/12-days-to-go-goals-galore-switzerland-1954-2952383",
+      "dominio": "fifa.com",
+      "titulo": "12 days to go: Goals galore at Switzerland 1954 (FIFA)",
+      "nivel": 1,
+      "excerto": "Die Eidgenossen raced into a 3-0 lead after just 19 minutes before Austria turned things around to lead 5-3 just 16 minutes later. The Austrians were winning 5-4 by half-time",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/austria-switzerland-highest-scoring-game-1954",
+      "dominio": "fifa.com",
+      "titulo": "Austria 7-5 Switzerland (FIFA)",
+      "nivel": 1,
+      "excerto": "Não lido (a página FIFA devolve texto vazio ao leitor); a pesquisa indica que descreve nove golos numa parte como recorde. Mesmo domínio fifa.com: não conta como segunda fonte.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://fourfourtwo.com/features/what-is-the-highest-scoring-world-cup-match-ever",
+      "dominio": "fourfourtwo.com",
+      "titulo": "What is the highest-scoring World Cup match ever? | FourFourTwo",
+      "nivel": 2,
+      "excerto": "Austria managed to bounce back from this hammering with five goals of their own - all within the first half.",
+      "consultada_em": "2026-11-13",
+      "papel": "advogado"
+    },
+    {
+      "url": "https://www.11v11.com/matches/switzerland-v-austria-26-june-1954-226394/",
+      "dominio": "11v11.com",
+      "titulo": "Switzerland v Austria, 26 June 1954 - 11v11 match report",
+      "nivel": 2,
+      "excerto": "Score 7-5 to Austria. Goals Switzerland: Ballaman 16, Hugi 17, Hugi 19, Ballaman 37, Hugi 60. Austria: Wagner 25, Korner 26, Wagner 28, Ocwirk 32, Korner 34, Wagner 53, Probst 77.",
+      "consultada_em": "2026-11-13",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "9",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "11v11.com",
+      "data": "2026-11-13",
+      "notas": "Relatório do verificador chegou truncado depois da fonte (sem notas finais); o resultado «9» e a confiança «media» são os que o agente deu."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "9 golos na 1.ª parte confirmados por 11v11 (minutos), FIFA (5-4 ao intervalo) e FourFourTwo; 40 graus e recorde de golos confirmados.",
+      "data": "2026-11-13"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Correção pedida: acrescentei a unidade «Celsius» a «perto dos 40 graus», conforme as fontes indicadas pelo coordenador (FIFA «almost 40 degrees»; FourFourTwo e 11v11 «40°C»). Resto igual. Enunciado e opções sem alteração. Explicação com 2 frases e cerca de 200 caracteres.",
+      "data": "2026-11-13"
+    },
+    "tradutor": {
+      "data": "2026-11-13",
+      "notas": "Explicação atualizada: '40 degrees Celsius', sem conversão para Fahrenheit. Pergunta e opções iguais às anteriores. Lausana = Lausanne; 'chegou a vencer por 3-0' = led 3-0 at one point. Opção certa no índice 1."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "A unidade foi corrigida nos dois idiomas («graus Celsius» / «degrees Celsius»). Resultados 7-5, 3-0 e 5-4 ao intervalo, Lausana e opções 10/9/8/7 equivalentes e pela mesma ordem. A explicação tem 2 frases. A pergunta termina em «?». As opções cabem nos 60 caracteres. Diferença só tipográfica: travessão no pt-PT e hífen no en-US nos resultados, sem importância.",
+      "data": "2026-11-13"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Só uma fonte lida (FIFA, inside.fifa.com). Os nove golos são deduzidos do intervalo 5–4 (somas 5+4), não ditos como 'nove' na página lida. Falta segunda fonte de domínio diferente (RSSSF 404 no URL tentado; olympics.com deu timeout): o verificador deve arranjá-la. 'Jogo com mais golos' é facto histórico fechado, mas, em teoria, outro jogo de Mundial pode superá-lo: se o editor quiser, acrescentar 'até 2026' (sem valid_until). Os minutos dos golos variam entre fontes (58 vs 60 de Hügi), irrelevante para a pergunta, mas a explicação usa 19 e 35 (35 é 19+16, da FIFA): confirmar com a segunda fonte ou cortar os minutos. Wikipédia só usada como pista."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "ângulo próprio"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte thesoccerworldcups.com"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (ciclo único)"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte 11v11.com"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Resultados com hífen simples (en-US corrente). 'Mundial' = World Cup; '1.ª parte' = first half; 'intervalo' = halftime. Lausana = Lausanne. 'perto dos 40 graus' mantido sem conversão e sem unidade (o pt-PT não diz Celsius); o conferente pode ver. 'chegou a vencer por 3-0' = led 3-0 at one point. Opção certa no índice 1."
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"explicação\", \"idioma\": \"en-US\", \"detalhe\": \"«temperatures near 40 degrees» não tem unidade. Para um leitor americano, «degrees» lê-se como Fahrenheit, e 40 °F contradiz «extremely hot». O pt-PT «perto dos 40 graus» é natural em Portugal (Celsius). O en-US deve dizer «40 degrees Celsius», com ou sem a conversão para Fahrenheit. Como a unidade é um dado factual, convém confirmar a mudança com quem tem a ficha.\"}]"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Explicação atualizada: '40 degrees Celsius', sem conversão para Fahrenheit. Pergunta e opções iguais às anteriores. Lausana = Lausanne; 'chegou a vencer por 3-0' = led 3-0 at one point. Opção certa no índice 1."
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "etiquetas": [],
+  "options_lock": "3bb694c6e8d13b93ddb9ac1264f0fb9c08f0d89cbe3e48d3f86026ccf1f56df3"
+}

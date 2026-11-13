@@ -1,0 +1,163 @@
+{
+  "id": "Q-2026-000072",
+  "topic": "Science",
+  "subtopic": "Radiação de Cherenkov",
+  "text": {
+    "pt-PT": {
+      "question": "Na água de um reator nuclear, o brilho azul é causado por que partículas?",
+      "options": [
+        "Eletrões rápidos",
+        "Neutrinos",
+        "Neutrões",
+        "Átomos de hélio neutros"
+      ],
+      "explanation": "Eletrões rápidos: é radiação de Cherenkov, emitida quando partículas carregadas vão mais depressa do que a luz na água, onde esta anda a cerca de 75% da velocidade no vácuo. Segundo o Physics FAQ da Universidade da Califórnia em Riverside, nos reatores são partículas beta de produtos de cisão."
+    },
+    "en-US": {
+      "question": "In the water of a nuclear reactor, the blue glow is caused by which particles?",
+      "options": [
+        "Fast electrons",
+        "Neutrinos",
+        "Neutrons",
+        "Neutral helium atoms"
+      ],
+      "explanation": "Fast electrons: it is Cherenkov radiation, emitted when charged particles travel faster than light does in water, where light moves at about 75% of its speed in a vacuum. According to the University of California, Riverside Physics FAQ, in reactors these are beta particles from fission products."
+    }
+  },
+  "correct": 0,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.energy.gov/ne/articles/cherenkov-radiation-explained",
+    "https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/cherenkov.html"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.energy.gov/ne/articles/cherenkov-radiation-explained",
+      "dominio": "energy.gov",
+      "titulo": "Cherenkov Radiation, Explained (US Department of Energy, Office of Nuclear Energy)",
+      "nivel": 1,
+      "excerto": "Cherenkov radiation happens when electrically charged particles, such as protons or electrons, travel faster than light in a clear medium like water ... Light slows down to 75 percent of its normal speed when it travels through water.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/cherenkov.html",
+      "dominio": "ucr.edu",
+      "titulo": "Is there an equivalent of the sonic boom for light? (Physics FAQ, University of California, Riverside)",
+      "nivel": 2,
+      "excerto": "The blue glow in the water surrounding nuclear reactors is Cherenkov radiation. The water is there to stop neutrons; but neutrons are uncharged ... The Cherenkov radiation actually comes from beta particles (fast electrons) emitted by fission products.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.oceanopticsbook.info/view/light-and-radiometry/level-2/cherenkov-radiation",
+      "dominio": "oceanopticsbook.info",
+      "titulo": "Cherenkov Radiation (Ocean Optics Web Book)",
+      "nivel": 2,
+      "excerto": "Cherenkov radiation is the cause of the beautiful blue glow around the core of a water-cooled nuclear reactor... the emitted electron is traveling faster than the speed of light in water and will therefore emit Cherenkov radiation",
+      "consultada_em": "2026-11-13",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Eletrões rápidos",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "oceanopticsbook.info",
+      "data": "2026-11-13",
+      "notas": "Li a fonte (obra especializada, nível 2): o brilho azul no núcleo de um reator arrefecido a água é radiação de Cherenkov, emitida por partículas carregadas mais rápidas do que a luz na água (c/n ≈ 0,75c); o exemplo dado é o eletrão. A inferência é pequena, porque a página usa o eletrão no exemplo e não diz «reator» na mesma frase. O resultado de pesquisa da Britannica diz explicitamente que são eletrões do reator, mas não o consegui abrir (403). Exclusões: neutrões e neutrinos não têm carga e não emitem radiação de Cherenkov diretamente; átomos de hélio neutros também não têm carga. Nota: em piscinas de reatores, muitos dos eletrões vêm de dispersão de Compton de raios gama, mas continuam a ser eletrões."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "Li o Physics FAQ da UCR: 'The Cherenkov radiation actually comes from beta particles (fast electrons) emitted by fission products'; 'neutrons are uncharged and so do not themselves directly cause the radiation'. Li também o DOE (energy.gov/ne): 'Light slows down to 75 percent of its normal speed' na água, e partículas carregadas como eletrões. Neutrinos, neutrões e hélio neutro não têm carga elétr",
+      "data": "2026-11-13"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Reposta a atribuição ao Physics FAQ da Universidade da Califórnia em Riverside e mantido o 75%. A explicação tem 2 frases e cerca de 294 caracteres, e começa pela resposta. Cortei a frase sobre os neutrões. Enunciado igual.",
+      "data": "2026-11-13"
+    },
+    "tradutor": {
+      "data": "2026-11-13",
+      "notas": "A explicação começa pela resposta, como o pt-PT. Atribuição ao Physics FAQ da UC Riverside mantida. 'Cherenkov' na grafia inglesa corrente. 'produtos de cisão' = fission products."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Atribuição à Universidade da Califórnia em Riverside, 75% e opções equivalentes.",
+      "data": "2026-11-13"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "O DOE fala em 'partículas carregadas, como protões ou eletrões' e em 'partículas emitidas do combustível'; só a FAQ de física da UCR (nível 2, 1997-98, alojada num domínio universitário) diz 'partículas beta emitidas por produtos de fissão'. O verificador cego deve confirmar com fonte independente de nível 1 (IAEA e Britannica devolveram 403 ao leitor). Em reatores reais há também eletrões de Compton gerados por raios gama (página da Penn State); por isso as opções não incluem gama. 'Átomos de hélio neutros' e 'neutrinos' não têm carga: incontestáveis. '75%' só entra com DOE; se for exigida segunda fonte, o editor pode tirar essa frase sem alterar o facto. Tema Cherenkov é conhecido, mas o ângulo (quem causa o brilho e porque não são os neutrões) é menos batido."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "ângulo próprio"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte oceanopticsbook.info"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (ciclo único)"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte oceanopticsbook.info"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "A explicação começa pela resposta, como o pt-PT. Atribuição ao Physics FAQ da UC Riverside mantida. 'Cherenkov' na grafia inglesa corrente. 'produtos de cisão' = fission products."
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "etiquetas": [],
+  "options_lock": "c64c7a87fc15ff334963918ae9a291e97ba1e1ec79048a7f5e201879cd7373a7"
+}

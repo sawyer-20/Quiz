@@ -1,0 +1,172 @@
+{
+  "id": "Q-2026-000033",
+  "topic": "World History",
+  "subtopic": "vida quotidiana",
+  "text": {
+    "pt-PT": {
+      "question": "Que objeto serviu de recibo fiscal no Tesouro inglês medieval e, queimado em 1834, incendiou o Parlamento de Westminster?",
+      "options": [
+        "Rolos de pergaminho selados com cera",
+        "Varas de madeira entalhadas e partidas ao meio",
+        "Fichas de chumbo cunhadas com o brasão real",
+        "Tábuas de cera gravadas com estilete"
+      ],
+      "explanation": "Varas de madeira entalhadas e partidas ao meio: uma metade ficava com o Tesouro, a outra com quem pagava. Em 1834 duas carroças dessas «tallies» foram queimadas nas fornalhas sob a Câmara dos Lordes e o fogo destruiu o Parlamento."
+    },
+    "en-US": {
+      "question": "What object served as a tax receipt in the medieval English Exchequer and, when burned in 1834, set the Houses of Parliament on fire?",
+      "options": [
+        "Wax-sealed parchment rolls",
+        "Notched wooden sticks split in half",
+        "Lead tokens stamped with the royal arms",
+        "Wax tablets engraved with a stylus"
+      ],
+      "explanation": "Notched wooden sticks split in half: one half stayed with the Exchequer, the other with the payer. In 1834 two cartloads of these tallies were burned in the furnaces under the House of Lords, and the fire destroyed Parliament."
+    }
+  },
+  "correct": 1,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.nationalarchives.gov.uk/help/e179/glossary.htm",
+    "https://collection.sciencemuseumgroup.org.uk/objects/co60506/medieval-exchequer-tally-sticks",
+    "https://historyofparliament.com/2025/10/16/the-westminster-fire-of-1834/"
+  ],
+  "fontes": [
+    {
+      "url": "https://historyofparliament.com/2025/10/16/the-westminster-fire-of-1834/",
+      "dominio": "historyofparliament.com",
+      "titulo": "The Westminster Fire of 1834 - The History of Parliament",
+      "nivel": 2,
+      "excerto": "a chimney fire had smouldered under the floor of the House of Lords chamber, caused by the unsupervised and ill-advised burning of two large cartloads of wooden tally sticks (a form of medieval tax receipt created by the Exchequer)",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.nationalarchives.gov.uk/help/e179/glossary.htm",
+      "dominio": "nationalarchives.gov.uk",
+      "titulo": "The National Archives | E 179 | Help | Glossary",
+      "nivel": 1,
+      "excerto": "Tally: A wooden stick, split in two and notched. Half would be given to collectors in receipt of payment at the Exchequer, while the other half would be retained. Many of these were destroyed by a fire in 1834.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co60506/medieval-exchequer-tally-sticks",
+      "dominio": "sciencemuseumgroup.org.uk",
+      "titulo": "Medieval Exchequer Tally Sticks - Science Museum Group Collection",
+      "nivel": 1,
+      "excerto": "The stick would be split in half: the lender received 'the stock'... and the debtor the other half, called the 'foil'. ... a fire to burn a large amount of left behind sticks got out of control, resulting in burning down the Palace of Westminster on 16 October 1834.",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
+    },
+    {
+      "url": "https://historyofparliament.com/2013/10/16/the-fire-of-1834/",
+      "dominio": "historyofparliament.com",
+      "titulo": "Burning the House down: The Fire of 1834 (History of Parliament)",
+      "nivel": 2,
+      "excerto": "unsupervised and ill-advised burning of two large cartloads of wooden tally sticks (a form of medieval tax receipt created by the Exchequer ...) in the heating furnaces below [the House of Lords chamber]",
+      "consultada_em": "2026-11-11",
+      "papel": "advogado"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Varas de madeira entalhadas e partidas ao meio",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "sciencemuseumgroup.org.uk",
+      "data": "2026-11-11",
+      "notas": "Museu confirma varas partidas ao meio (stock e foil) e o incêndio de 16/10/1834. A palavra «recibo» não vem explícita (fala em registo de dívida/pagamento)."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "Advogado: «recibo fiscal», «duas carroças» e «fornalhas sob a Câmara dos Lordes» confirmados na History of Parliament; sem segunda resposta; sem sensibilidade (mais de 10 anos).",
+      "data": "2026-11-11"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "enunciado encurtado; explicação começa pela resposta",
+      "data": "2026-11-11"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "Tesouro inglês -> Exchequer; Parlamento de Westminster -> Houses of Parliament."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Facto relativamente conhecido (curiosidade recorrente), possível clássico. Glossário dos Arquivos Nacionais só liga as tallies ao fogo de forma geral; a causa vem da History of Parliament; verificador deve confirmar com 3.ª fonte. parliament.uk 403."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Nenhum quiz com esta pergunta; ressalva: facto muito conhecido, risco de clássico maior."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte sciencemuseumgroup.org.uk"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: Varas de madeira entalhadas e partidas ao meio; depois: Varas de madeira entalhadas e partidas ao meio"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Tesouro inglês -> Exchequer; Parlamento de Westminster -> Houses of Parliament."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "options_lock": "9c531e5095ba7acd9ef59b227432dd802c4480a4916fad47759ee9b402ad6c98"
+}

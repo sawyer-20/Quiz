@@ -1,19 +1,37 @@
 {
   "id": "Q-2026-000005",
-  "lingua": "pt-PT",
-  "tema": "historia",
-  "subtema": "Conquista normanda de Inglaterra (século XI)",
-  "formato": "escolha-multipla",
-  "enunciado": "Que técnica deu forma às cenas da Tapeçaria de Bayeux, que narra a conquista normanda de 1066?",
-  "opcoes": [
-    "Pintura sobre linho",
-    "Bordado",
-    "Tecelagem em tear",
-    "Estampagem com carimbos de madeira"
+  "topic": "World History",
+  "subtopic": "Conquista normanda de Inglaterra (século XI)",
+  "text": {
+    "pt-PT": {
+      "question": "Que técnica deu forma às cenas da Tapeçaria de Bayeux, que narra a conquista normanda de 1066?",
+      "options": [
+        "Pintura sobre linho",
+        "Bordado",
+        "Tecelagem em tear",
+        "Estampagem com carimbos de madeira"
+      ],
+      "explanation": "Bordado. Apesar do nome, não é uma tapeçaria, em que o desenho se tece no próprio pano: as cenas foram bordadas com fio de lã sobre um fundo de linho com cerca de 70 metros, feito de nove painéis cosidos entre si."
+    },
+    "en-US": {
+      "question": "Which technique was used to create the scenes of the Bayeux Tapestry, which tells the story of the 1066 Norman conquest?",
+      "options": [
+        "Painting on linen",
+        "Embroidery",
+        "Loom weaving",
+        "Stamping with wooden blocks"
+      ],
+      "explanation": "Embroidery. Despite the name, it is not a true tapestry, where the design is woven into the cloth: the scenes were embroidered in wool yarn on a linen ground about 70 meters long, made of nine panels sewn together."
+    }
+  },
+  "correct": 1,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/",
+    "https://marquandrarebooks.princeton.edu/2022/01/a-scrolling-facsimile-of-the-bayeux-tapestry-in-marquand/"
   ],
-  "correta": 1,
-  "explicacao": "Bordado. Apesar do nome, não é uma tapeçaria, em que o desenho se tece no próprio pano: as cenas foram bordadas com fio de lã sobre um fundo de linho com cerca de 70 metros, feito de nove painéis cosidos entre si.",
-  "dificuldade_estimada": 3,
   "fontes": [
     {
       "url": "https://en.wikipedia.org/wiki/Bayeux_Tapestry",
@@ -63,10 +81,17 @@
       "alteracao_factual": false,
       "notas": "Formulação 'é tecnicamente que tipo de obra' é comum em quizzes (Quizzclub, FunTrivia, guias de estudo); reescrita para 'que técnica deu forma às cenas'. Opções em substantivos paralelos, mesma ordem e sentido. Sem quiz em português igual.",
       "data": "2026-11-04"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "Spelling 'meters' (US). 'Tapeçaria' kept as 'Tapestry' (standard English title)."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
   "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-04-historia",
@@ -131,9 +156,34 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Spelling 'meters' (US). 'Tapeçaria' kept as 'Tapestry' (standard English title)."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": [
     "classico"
-  ]
+  ],
+  "options_lock": "146b8df22af5109bb799b4652ffe50e457e6a0ee0a5d0ba9f51c61811deaeae8"
 }

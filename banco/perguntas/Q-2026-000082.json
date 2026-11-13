@@ -1,0 +1,151 @@
+{
+  "id": "Q-2026-000082",
+  "topic": "Music",
+  "subtopic": "Certificações musicais",
+  "text": {
+    "pt-PT": {
+      "question": "O primeiro «disco de ouro», entregue a Glenn Miller em 1942, era feito de quê?",
+      "options": [
+        "Um disco de vinil folheado a ouro",
+        "Um disco maciço de ouro",
+        "Um disco de latão dourado",
+        "Uma cópia do disco pintada a ouro"
+      ],
+      "explanation": "Era uma cópia emoldurada de «Chattanooga Choo Choo» pintada a ouro, oferecida a Miller pela RCA Victor num programa de rádio em direto. A certificação oficial da RIAA só começou em 1958."
+    },
+    "en-US": {
+      "question": "What was the first \"gold record,\" presented to Glenn Miller in 1942, made of?",
+      "options": [
+        "A gold-plated vinyl record",
+        "A solid gold record",
+        "A gold-colored brass record",
+        "A copy of the record painted gold"
+      ],
+      "explanation": "It was a framed copy of \"Chattanooga Choo Choo\" painted gold, given to Miller by RCA Victor on a live radio show. Official RIAA certification did not begin until 1958."
+    }
+  },
+  "correct": 3,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.colorado.edu/coloradan/2017/12/01/origins-gold-record",
+    "https://www.guinnessworldrecords.com/world-records/first-gold-disc-music-award"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.colorado.edu/coloradan/2017/12/01/origins-gold-record",
+      "dominio": "colorado.edu",
+      "titulo": "Origins: The Gold Record (University of Colorado Boulder, Coloradan)",
+      "nivel": 1,
+      "excerto": "During a live broadcast, the label presented him with a framed copy of the record sprayed with gold paint. ... In 1958, the RIAA began awarding gold records ... selling at least 500,000 units.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.guinnessworldrecords.com/world-records/first-gold-disc-music-award",
+      "dominio": "guinnessworldrecords.com",
+      "titulo": "First 'gold' disc music award (Guinness World Records)",
+      "nivel": 2,
+      "excerto": "The first actual golden disc was once sprayed by R.C.A. Victor for presentation to ... Alton 'Glenn' Miller ... for his Chattanooga Choo Choo on 10 Feb 1942.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.dennismspragg.com/chattanooga-choo-choo/",
+      "dominio": "dennismspragg.com",
+      "titulo": "Chattanooga Choo Choo — The First Gold Record (Dennis M. Spragg, historiador/arquivista de Glenn Miller)",
+      "nivel": 2,
+      "excerto": "RCA Victor-Bluebird records awarded Miller with a gold-painted and framed copy of the 78rpm disc after sales had passed one million, two hundred thousand copies.",
+      "consultada_em": "2026-11-13",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Uma cópia do disco pintada a ouro",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "dennismspragg.com",
+      "data": "2026-11-13",
+      "notas": "Spragg diz «gold-painted ... copy of the 78rpm disc». Isso corresponde à opção «cópia do disco pintada a ouro». «Maciço de ouro» fica excluída pelo material (pintura) apesar da frase do locutor. «Vinil folheado a ouro» é errada porque os discos de 78 rpm da época eram de goma-laca, não de vinil. «Latão dourado» não aparece em nenhuma fonte. O enunciado afirma 1942 e entrega a Miller, e ambos estão confirmados (10/02/1942, programa Chesterfield Moonlight Serenade). | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Fontes divergem. A NPR (https://www.npr.org/2017/02/10/514522626/...) cita o locutor da rádio a dizer «solid gold», o que sustentaria «disco maciço de ouro», mas é uma frase de encenação radiofónica, não uma descrição do material. Resultados de pesquisa descrevem ainda «gold-plated stamper» e «master pulverizado com laca dourada», sem eu ter aberto essas páginas. Só uma fonte aberta descreve o material (Spragg), por isso a confiança é média."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "Colorado e Spragg confirmam a cópia pintada a ouro; RIAA 1958 com duas fontes lidas; «maciço» não é defensável.",
+      "data": "2026-11-13"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado igual. Explicação reordenada para começar pela resposta; sem factos novos.",
+      "data": "2026-11-13"
+    },
+    "tradutor": {
+      "data": "2026-11-13",
+      "notas": "Aspas « » passadas a aspas retas; título da canção mantido. 'latão dourado' = gold-colored brass (grafia americana). Opção certa no índice 3."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Opções equivalentes uma a uma. Aspas e pontuação corretas em cada idioma (« » em pt-PT e \" \" em en-US).",
+      "data": "2026-11-13"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "É facto relativamente conhecido (possível etiqueta clássico; por isso fica em dificuldade 3, não 4); o ângulo é o material, não 'quem recebeu'. 'Pintada a ouro' (Colorado) e 'sprayed' (Guinness) concordam. O ano de 1958 para a RIAA vem só do Colorado, pelo que o verificador deve confirmá-lo ou retirar a frase final da explicação. O número de vendas (1,2 milhões) foi deixado de fora por ter só uma fonte. A emissão da Library of Congress não foi aberta."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "ângulo próprio (o material do objeto)"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte dennismspragg.com"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Aspas « » passadas a aspas retas; título da canção mantido. 'latão dourado' = gold-colored brass (grafia americana). Opção certa no índice 3."
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "etiquetas": [],
+  "options_lock": "9230a324e25941571bd1eaebca9038b72121c2e47a6ce33c4f71cfcb12cc5b67"
+}

@@ -1,19 +1,28 @@
 {
   "id": "Q-2026-000006",
-  "lingua": "pt-PT",
-  "tema": "historia",
-  "subtema": "Descobrimentos portugueses (séculos XV–XVI)",
-  "formato": "escolha-multipla",
-  "enunciado": "Segundo a tradição, que nome deu Bartolomeu Dias ao cabo que hoje se chama da Boa Esperança?",
-  "opcoes": [
-    "Cabo das Agulhas",
-    "Cabo dos Ventos",
-    "Cabo Bojador",
-    "Cabo das Tormentas"
+  "topic": "World History",
+  "subtopic": "Descobrimentos portugueses (séculos XV–XVI)",
+  "text": {
+    "pt-PT": {
+      "question": "Segundo a tradição, que nome deu Bartolomeu Dias ao cabo que hoje se chama da Boa Esperança?",
+      "options": [
+        "Cabo das Agulhas",
+        "Cabo dos Ventos",
+        "Cabo Bojador",
+        "Cabo das Tormentas"
+      ],
+      "explanation": "Cabo das Tormentas. Segundo o cronista João de Barros, Dias chamou-lhe «Cabo Tormentoso»; segundo a tradição, D. João II rebatizou-o de Boa Esperança. Há quem atribua este nome ao próprio Dias."
+    }
+  },
+  "correct": 3,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.newadvent.org/cathen/04775b.htm",
+    "https://cultura.marinha.pt/pt/museumarinha_web/multimedia_web/Paginas/Ha-531-anos-bartolomeu-dias.aspx",
+    "https://sahistory.org.za/dated-event/portuguese-navigator-bartholomew-dias-erects-first-stone-cross-south-african-coast"
   ],
-  "correta": 3,
-  "explicacao": "Cabo das Tormentas. Segundo o cronista João de Barros, Dias chamou-lhe «Cabo Tormentoso»; segundo a tradição, D. João II rebatizou-o de Boa Esperança. Há quem atribua este nome ao próprio Dias.",
-  "dificuldade_estimada": 2,
   "fontes": [
     {
       "url": "https://www.newadvent.org/cathen/04775b.htm",
@@ -57,8 +66,6 @@
     "advogado": null,
     "editor": null
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
   "estado": "rejeitada",
   "motivo_rejeicao": "copiada: o enunciado tem a mesma estrutura de 'What did Bartolomeu Dias originally call Cape of Good Hope' (Wayground, lido), com a mesma resposta; o facto é também clássico de quiz (ThatQuiz, ReviewGameZone, FunTrivia). Para entrar, precisa de enunciado com outro ângulo ou estrutura, redigido pelo pesquisador.",
   "lote": "lote-2026-11-04-historia",
@@ -117,6 +124,12 @@
       "evento": "rejeitada",
       "agente": "originalidade",
       "nota": "copiada: o enunciado tem a mesma estrutura de 'What did Bartolomeu Dias originally call Cape of Good Hope' (Wayground, lido), com a mesma resposta; o facto é também clássico de quiz (ThatQuiz, ReviewGameZone, FunTrivia). Para entrar, precisa de enunciado com outro ângulo ou estrutura, redigido pelo pesquisador."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "só pt-PT (pergunta rejeitada ou em curso)"
     }
   ]
 }

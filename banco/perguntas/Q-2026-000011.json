@@ -1,19 +1,28 @@
 {
   "id": "Q-2026-000011",
-  "lingua": "pt-PT",
-  "tema": "historia",
-  "subtema": "Astecas – economia e comércio",
-  "formato": "escolha-multipla",
-  "enunciado": "Nos mercados astecas, que sementes circulavam como moeda nas trocas e nos tributos?",
-  "opcoes": [
-    "Sementes de cacau",
-    "Sementes de abóbora",
-    "Grãos de milho",
-    "Grãos de feijão"
+  "topic": "World History",
+  "subtopic": "Astecas – economia e comércio",
+  "text": {
+    "pt-PT": {
+      "question": "Nos mercados astecas, que sementes circulavam como moeda nas trocas e nos tributos?",
+      "options": [
+        "Sementes de cacau",
+        "Sementes de abóbora",
+        "Grãos de milho",
+        "Grãos de feijão"
+      ],
+      "explanation": "O cacau tinha de ser importado de longe e era um luxo. Era tão valioso que as sementes serviam de moeda nos mercados e eram cobradas como tributo. Havia até falsificadores, que faziam passar sementes falsas por verdadeiras."
+    }
+  },
+  "correct": 0,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://news.asu.edu/content/asu-archaeologist-talks-aztec-currency-new-york-times",
+    "https://www.ie.edu/insights/articles/cervantes-and-cacao-a-bittersweet-legacy/",
+    "https://archive.archaeology.org/0205/reviews/chocolate.html"
   ],
-  "correta": 0,
-  "explicacao": "O cacau tinha de ser importado de longe e era um luxo. Era tão valioso que as sementes serviam de moeda nos mercados e eram cobradas como tributo. Havia até falsificadores, que faziam passar sementes falsas por verdadeiras.",
-  "dificuldade_estimada": 3,
   "fontes": [
     {
       "url": "https://www.ie.edu/insights/articles/cervantes-and-cacao-a-bittersweet-legacy/",
@@ -64,8 +73,6 @@
     "advogado": null,
     "editor": null
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
   "estado": "rejeitada",
   "motivo_rejeicao": "segundo ciclo de correção: na 2.ª passagem o advogado encontrou novo problema corrigível no enunciado — 'circulavam como moeda nas trocas e nos tributos' diz mais do que as fontes sobre os astecas (o cacau era bem exigido como tributo, Codex Mendoza/Cornell; moeda nos mercados). Regra: um só ciclo de correção por pergunta.",
   "lote": "lote-2026-11-04-historia",
@@ -142,6 +149,12 @@
       "evento": "correção de formato",
       "agente": "orquestrador",
       "nota": "Subtema da versão recuperada tinha 63 caracteres; reposto o subtema curto já usado antes (git 418a9f1)."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "só pt-PT (pergunta rejeitada ou em curso)"
     }
   ],
   "etiquetas": [

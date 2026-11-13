@@ -1,0 +1,77 @@
+{
+  "id": "Q-2026-000055",
+  "topic": "Video Games",
+  "subtopic": "história dos jogos",
+  "text": {
+    "pt-PT": {
+      "question": "O jogo Tennis for Two, mostrado num laboratório dos EUA em 1958, usava que aparelho como ecrã?",
+      "options": [
+        "Um projetor de diapositivos",
+        "Um osciloscópio",
+        "Um painel de lâmpadas fixas",
+        "Um mostrador de agulhas"
+      ],
+      "explanation": "Os visitantes do Brookhaven National Laboratory jogaram em 1958 com dois comandos ligados a um computador analógico, e o ecrã era um osciloscópio de 5 polegadas. O jogo foi desmontado em 1959 e o material reutilizado."
+    }
+  },
+  "correct": 1,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.bnl.gov/about/history/firstvideo.php",
+    "https://www.museumofplay.org/blog/following-the-bouncing-ball-tennis-for-two-at-the-strong/"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.bnl.gov/about/history/firstvideo.php",
+      "dominio": "bnl.gov",
+      "titulo": "BNL | History: The First Video Game?",
+      "nivel": 1,
+      "excerto": "Tennis for Two was first introduced on October 18, 1958, at one of the Lab's annual visitors' days. Two people played the electronic tennis game with separate controllers that connected to an analog computer and used an oscilloscope for a screen.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.museumofplay.org/blog/following-the-bouncing-ball-tennis-for-two-at-the-strong/",
+      "dominio": "museumofplay.org",
+      "titulo": "Following The Bouncing Ball: Tennis for Two...at The Strong!",
+      "nivel": 1,
+      "excerto": "On October 18, 1958, a curious object appeared at Brookhaven National Laboratory during its annual Visitor's Day ... a 5½ inch DuMont cathode ray tube X-Y graphic oscilloscope connected to a Donner Scientific Company Model 30 analog computer.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "rejeitada",
+  "motivo_rejeicao": "quota de clássicos do lote (regra 16: o lote já tem 4 clássicos; o limite do Andre é 4)",
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "O facto é estável. Evitei chamar-lhe 'primeiro videojogo' (disputado; o BNL diz que houve precursores). O ecrã de 1958 tinha 5 polegadas e o de 1959 era maior, mas a pergunta refere o aparelho, não o tamanho. Opção 'mostrador de agulhas' não é defensável (o ecrã mostrava um ponto luminoso em movimento). Pode ser considerado semi-clássico (Tennis for Two é conhecido nos círculos de história dos jogos), mas o ângulo é o ecrã, não 'quem/quando'. O WebFetch falhou por rede; li o BNL e o Strong com scripts/ler_url.py. A Britannica devolveu 403."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "facto conhecido, enunciado e opções nossas"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "rejeitada",
+      "agente": "orquestrador",
+      "nota": "quota de clássicos do lote (regra 16: o lote já tem 4 clássicos; o limite do Andre é 4)"
+    }
+  ],
+  "etiquetas": [
+    "classico"
+  ]
+}

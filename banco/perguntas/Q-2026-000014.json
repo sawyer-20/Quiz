@@ -1,19 +1,38 @@
 {
   "id": "Q-2026-000014",
-  "lingua": "pt-PT",
-  "tema": "historia",
-  "subtema": "Astecas – economia",
-  "formato": "escolha-multipla",
-  "enunciado": "Nos mercados astecas, que sementes eram usadas como moeda?",
-  "opcoes": [
-    "Grãos de milho",
-    "Sementes de abóbora",
-    "Feijões",
-    "Sementes de cacau"
+  "topic": "World History",
+  "subtopic": "Astecas – economia",
+  "text": {
+    "pt-PT": {
+      "question": "Nos mercados astecas, que sementes eram usadas como moeda?",
+      "options": [
+        "Grãos de milho",
+        "Sementes de abóbora",
+        "Feijões",
+        "Sementes de cacau"
+      ],
+      "explanation": "Sementes de cacau: segundo o arqueólogo Michael E. Smith, pagavam as compras do dia a dia, enquanto os tecidos de algodão serviam para os bens mais valiosos. O cacau era também a bebida da elite e um tributo exigido à região de Soconusco."
+    },
+    "en-US": {
+      "question": "In Aztec markets, which seeds were used as currency?",
+      "options": [
+        "Corn kernels",
+        "Pumpkin seeds",
+        "Beans",
+        "Cacao seeds"
+      ],
+      "explanation": "Cacao seeds: according to archaeologist Michael E. Smith, they paid for everyday purchases, while cotton cloth was used for more valuable goods. Cacao was also the elite's drink and a tribute demanded from the Soconusco region."
+    }
+  },
+  "correct": 3,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://exhibits.library.cornell.edu/chocolate-food-of-the-gods/feature/when-money-grew-on-trees",
+    "https://news.asu.edu/content/asu-archaeologist-talks-aztec-currency-new-york-times",
+    "https://www.mexicolore.co.uk/maya/chocolate/beanz-meanz-money"
   ],
-  "correta": 3,
-  "explicacao": "Sementes de cacau. Segundo o arqueólogo Michael E. Smith, pagavam as compras do dia a dia, enquanto os tecidos de algodão serviam para os bens mais valiosos. O cacau era também a bebida da elite e um tributo exigido à região de Soconusco.",
-  "dificuldade_estimada": 2,
   "fontes": [
     {
       "url": "https://exhibits.library.cornell.edu/chocolate-food-of-the-gods/feature/when-money-grew-on-trees",
@@ -61,12 +80,19 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "explicação reordenada e encurtada",
-      "data": "2026-11-10"
+      "notas": "explicação encurtada para 1–2 frases (migração v2); sem factos novos",
+      "data": "2026-11-11"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "Attribution to Michael E. Smith kept. 'Cacao' (not 'cocoa') as in the sources."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
   "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-06-misto",
@@ -107,9 +133,40 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Attribution to Michael E. Smith kept. 'Cacao' (not 'cocoa') as in the sources."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": [
     "classico"
-  ]
+  ],
+  "options_lock": "719fd476ddc1e2dc1c29fddb639e6248f2453292ac67470c80507c01ca45674c"
 }

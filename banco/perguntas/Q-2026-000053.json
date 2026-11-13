@@ -1,0 +1,77 @@
+{
+  "id": "Q-2026-000053",
+  "topic": "General Knowledge",
+  "subtopic": "invenções",
+  "text": {
+    "pt-PT": {
+      "question": "O que se agarrou ao pelo do cão de George de Mestral e o inspirou a inventar o velcro?",
+      "options": [
+        "Cardos de giesta secos",
+        "Resina de pinheiro",
+        "Teias de aranha",
+        "Carrapichos de bardana"
+      ],
+      "explanation": "Em 1941, depois de um passeio nas montanhas do Jura com o cão, de Mestral viu ao microscópio que os carrapichos de bardana tinham centenas de pequenos ganchos. Copiou-os num fecho de ganchos e argolas."
+    }
+  },
+  "correct": 3,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.wipo.int/de/web/ip-advantage/w/stories/hooked-on-innovation",
+    "https://www.invent.org/blog/inventors/walk-in-the-woods-velcro"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.wipo.int/de/web/ip-advantage/w/stories/hooked-on-innovation",
+      "dominio": "wipo.int",
+      "titulo": "From a Mountain Walk to 2,100 Patents: The Velcro IP Story (WIPO)",
+      "nivel": 1,
+      "excerto": "he noticed that his trousers and his dog's fur were covered with burdock burrs. ... After observing them under a microscope, he discovered why they clung so tightly: the burrs were covered with hundreds of tiny but strong hooks",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.invent.org/blog/inventors/walk-in-the-woods-velcro",
+      "dominio": "invent.org",
+      "titulo": "How Did a Walk in the Woods Lead to the Invention of VELCRO Fasteners? (National Inventors Hall of Fame)",
+      "nivel": 1,
+      "excerto": "It was in 1941 that he took the walk ... burrs from burdock plants clung to his pants and his dog's fur. ... He found that the burr was covered in thousands of tiny hooks",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "rejeitada",
+  "motivo_rejeicao": "quota de clássicos do lote (regra 16: o lote já tem 4 clássicos; o limite do Andre é 4)",
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Britannica devolveu 403. Fontes coincidem em 1941 (uma secundária, ScienceABC, dá 1948; ignorada). A WIPO diz Jura e caça, o NIHF diz bosque; a explicação só fala de montanhas do Jura (WIPO). Facto muito presente em listas de curiosidades: pode contar como clássico (dificuldade 2, ok). Distratores de planta/material podem parecer absurdos; o editor pode afinar. Verificador deve evitar wipo.int e invent.org."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "facto amplamente usado em quizzes; enunciado e opções nossas"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "rejeitada",
+      "agente": "orquestrador",
+      "nota": "quota de clássicos do lote (regra 16: o lote já tem 4 clássicos; o limite do Andre é 4)"
+    }
+  ],
+  "etiquetas": [
+    "classico"
+  ]
+}

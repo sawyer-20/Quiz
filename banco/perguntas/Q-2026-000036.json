@@ -1,0 +1,184 @@
+{
+  "id": "Q-2026-000036",
+  "topic": "Science",
+  "subtopic": "física do quotidiano",
+  "text": {
+    "pt-PT": {
+      "question": "Numa chapa muito acima dos 100 °C, uma gota de água desliza sem tocar no metal. O que a mantém afastada?",
+      "options": [
+        "Bolhas de ar que ficam presas na base da gota",
+        "Uma película de óxido que se forma na superfície do metal",
+        "Uma almofada de vapor formada pela própria gota",
+        "A tensão superficial, que repele o calor do metal"
+      ],
+      "explanation": "Uma almofada de vapor formada pela própria gota: é o efeito Leidenfrost. A base da gota evapora e o vapor forma uma película fina e isoladora, sobre a qual a gota levita e perde calor devagar."
+    },
+    "en-US": {
+      "question": "On a metal plate far above 100 °C, a water droplet glides without touching the metal. What keeps it apart?",
+      "options": [
+        "Air bubbles trapped under the droplet",
+        "An oxide film forming on the metal surface",
+        "A cushion of vapor formed by the droplet itself",
+        "Surface tension, which repels heat from the metal"
+      ],
+      "explanation": "A cushion of vapor formed by the droplet itself: this is the Leidenfrost effect. The underside of the droplet evaporates, and the vapor forms a thin insulating layer on which the droplet levitates and loses heat slowly."
+    }
+  },
+  "correct": 2,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://arxiv.org/pdf/1202.2157",
+    "https://news.mit.edu/2021/boiling-droplets-oily-surface-0812",
+    "https://www.discovermagazine.com/what-makes-droplets-dance-around-a-hot-surface-and-then-fly-away-18503"
+  ],
+  "fontes": [
+    {
+      "url": "https://arxiv.org/pdf/1202.2157",
+      "dominio": "arxiv.org",
+      "titulo": "The Geometry of the Vapor Layer Under a Leidenfrost Drop (Burton et al., Universidade de Chicago)",
+      "nivel": 1,
+      "excerto": "Such Leidenfrost drops levitate on a thin, insulating cushion of evaporated vapor. Above a Leidenfrost temperature TL there is a sudden increase in the drop lifetime.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.discovermagazine.com/what-makes-droplets-dance-around-a-hot-surface-and-then-fly-away-18503",
+      "dominio": "discovermagazine.com",
+      "titulo": "What Makes Droplets Dance Around a Hot Surface and Then Fly Away? (Discover Magazine)",
+      "nivel": 2,
+      "excerto": "the released vapor forms an insulating layer around the still-liquid droplet. This vapor coat not only slows the boiling, it also reduces friction and makes the droplet hydroplane over the metal.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://news.mit.edu/2021/boiling-droplets-oily-surface-0812",
+      "dominio": "mit.edu",
+      "titulo": "Why boiling droplets can race across hot oily surfaces | MIT News",
+      "nivel": 1,
+      "excerto": "A droplet of boiling water on a hot surface will sometimes levitate on a thin vapor film, a well-studied phenomenon called the Leidenfrost effect. Because it is suspended on a cushion of vapor, the droplet can move across the surface with little friction.",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
+    },
+    {
+      "url": "https://arxiv.org/abs/1202.2157",
+      "dominio": "arxiv.org",
+      "titulo": "The Geometry of the Vapor Layer Under a Leidenfrost Drop",
+      "nivel": 1,
+      "excerto": "liquid drops deposited on a hot surface levitate on a thin vapor cushion fed by evaporation of the liquid.",
+      "consultada_em": "2026-11-11",
+      "papel": "advogado"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Uma almofada de vapor formada pela própria gota",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "mit.edu",
+      "data": "2026-11-11",
+      "notas": "MIT (universidade): gota levita sobre almofada de vapor. Britannica, APS, ScienceDirect 403."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "Advogado: Leidenfrost consensual; distratores sem apoio.",
+      "data": "2026-11-11"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "explicação reordenada (editor tinha posto um ponto final numa opção; mantido o texto original das opções)",
+      "data": "2026-11-11"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "°C kept; American spelling."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Sem números. Temperatura de Leidenfrost varia entre fontes. 'Dura minutos' vem do artigo de Chicago. aps.org 403. Fontes PT novas: nenhuma."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Nenhum quiz com esta formulação ou opções."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte nih.gov"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte mit.edu"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: Uma almofada de vapor formada pela própria gota; depois: Uma almofada de vapor formada pela própria gota"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "°C kept; American spelling."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "options_lock": "ed3ccbd9d1bfb953d8f6e598c9155e83f3f268c454edc21aaee00867fd4a0b58"
+}

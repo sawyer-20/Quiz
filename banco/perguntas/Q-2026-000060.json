@@ -1,0 +1,165 @@
+{
+  "id": "Q-2026-000060",
+  "topic": "World History",
+  "subtopic": "Civilização do Indo",
+  "text": {
+    "pt-PT": {
+      "question": "Que cidade da civilização do Indo, descoberta em 1922, tinha ruas em ângulo reto e um sistema de esgotos?",
+      "options": [
+        "Babilónia",
+        "Mohenjo-Daro",
+        "Cnossos",
+        "Ur"
+      ],
+      "explanation": "Mohenjo-Daro, no atual Paquistão, foi uma grande cidade da civilização do Indo, descoberta em 1922. A UNESCO descreve ruas que se cruzam em ângulo reto e sistemas de saneamento e drenagem, sinal de um urbanismo planeado."
+    },
+    "en-US": {
+      "question": "Which city of the Indus civilization, discovered in 1922, had streets at right angles and a sewer system?",
+      "options": [
+        "Babylon",
+        "Mohenjo-Daro",
+        "Knossos",
+        "Ur"
+      ],
+      "explanation": "Mohenjo-Daro, in present-day Pakistan, was a major city of the Indus civilization, discovered in 1922. UNESCO describes streets crossing at right angles and sanitation and drainage systems, a sign of planned urbanism."
+    }
+  },
+  "correct": 1,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://whc.unesco.org/en/list/138",
+    "https://archaeology.org/news/2022/09/08/220909-mohenjo-daro-rain/"
+  ],
+  "fontes": [
+    {
+      "url": "https://whc.unesco.org/en/list/138",
+      "dominio": "unesco.org",
+      "titulo": "Archaeological Ruins at Moenjodaro (UNESCO World Heritage Centre)",
+      "nivel": 1,
+      "excerto": "buildings are laid out along streets intersecting each other at right angles, in a highly orderly form of city planning that also incorporated systems of sanitation and drainage.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://archaeology.org/news/2022/09/08/220909-mohenjo-daro-rain/",
+      "dominio": "archaeology.org",
+      "titulo": "Pakistan's Mohenjo-Daro Damaged by Heavy Rain (Archaeology Magazine)",
+      "nivel": 2,
+      "excerto": "discovered in 1922 and named a UNESCO World Heritage Site in 1980 ... The ancient city's drainage and water management systems helped to protect the site from accumulating standing water",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.nationalgeographic.com/history/article/indus-valley-egalitarian-ancient-society-mohenjo-daro",
+      "dominio": "nationalgeographic.com",
+      "titulo": "Did this ancient society thrive without elites? (National Geographic)",
+      "nivel": 2,
+      "excerto": "Mohenjo Daro, one of the major centers of the Indus Valley—or Harappan—civilization, was scrupulously planned, featuring water drainage systems, organized city streets, and structures made of standardized bricks.",
+      "consultada_em": "2026-11-13",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Mohenjo-Daro",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "nationalgeographic.com",
+      "data": "2026-11-13",
+      "notas": "Li a National Geographic (nível 2): Mohenjo Daro é cidade do Indo, planeada, com drenagem e ruas organizadas, escavada desde os anos 1920. Li também harappa.com (Harvard/Marshall 1931), que dá as primeiras escavações em 1922-27. As outras opções ficam excluídas: Ur e Babilónia são mesopotâmicas e Cnossos é minoica (Creta), nenhuma é da civilização do Indo. Não consegui abrir uma fonte de nível 1 (Britannica e World History devolveram 403). Os pormenores «ângulo reto» e «1922 como descoberta» vêm de resultados de pesquisa (Britannica Kids, harappa.com) que não consegui abrir. Há atribuição variável da descoberta (Banerji identificou o sítio em 1922; Marshall dirigiu as escavações), mas todas apontam para 1922 e o mesmo local."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "Li a UNESCO (whc.unesco.org/en/list/138): 'The discovery of Moenjodaro in 1922'; 'streets intersecting each other at right angles... systems of sanitation and drainage'; localiza em Sindh, Paquistão; 'well planned city', 'city planning'. Os três distratores (Babilónia, Cnossos, Ur) não pertencem à civilização do Indo, e não encontrei fonte que os apoie. Harappa, a outra cidade possível, não é opçã",
+      "data": "2026-11-13"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Sem alterações: pt-PT correto, enunciado com cerca de 105 caracteres, explicação com 2 frases e cerca de 220 caracteres.",
+      "data": "2026-11-13"
+    },
+    "tradutor": {
+      "data": "2026-11-13",
+      "notas": "'Babilónia' = Babylon, 'Cnossos' = Knossos. Atribuição à UNESCO mantida. 'esgotos' = sewer system na pergunta; 'saneamento e drenagem' = sanitation and drainage na explicação, como no pt-PT."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Atribuição à UNESCO, data de 1922 e opções equivalentes.",
+      "data": "2026-11-13"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Segunda fonte (nível 2) confirma 1922 e a drenagem, mas não as ruas em ângulo reto nem 2500-1500 a.C. (só UNESCO): a explicação apoia-se na UNESCO nesses pontos; se o orquestrador quiser duas fontes para essa data, tirar «floresceu entre 2500 e 1500 a.C.». A UNESCO tem texto contraditório sobre o tijolo (cozido/cru): a pergunta evita o tijolo. Harappa também é do Indo, mas a descoberta de Harappa não é de 1922 (não foi verificado aqui, por isso o verificador deve confirmar que 1922 + ruas em grelha só cabe a Mohenjo-Daro). Britannica 403; Wikipédia não usada. Tema não está entre os já existentes."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "facto corrente; enunciado e opções nossas — EM ESPERA (quota de clássicos do lote já atingida; decisão do Andre)"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte harappa.com"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (ciclo único)"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte nationalgeographic.com"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "'Babilónia' = Babylon, 'Cnossos' = Knossos. Atribuição à UNESCO mantida. 'esgotos' = sewer system na pergunta; 'saneamento e drenagem' = sanitation and drainage na explicação, como no pt-PT."
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "etiquetas": [
+    "classico"
+  ],
+  "options_lock": "dd04a62f668775ef6a841b58d86bf4c7bb9e445cf10e120faf1b5f076fc8597e"
+}

@@ -12,10 +12,10 @@ diz isso no relatório.
 
 ## 1. Sentinela
 
-1. Seleciona as perguntas `aprovada` ou `publicada` com `sensivel_ao_tempo: true` e
-   `valida_ate` nos próximos 30 dias ou já passada.
+1. Seleciona as perguntas `aprovada` ou `publicada` com `valid_until` nos
+   próximos 30 dias ou já passado.
 2. Para cada uma, invoca o agente `sentinela` com a pergunta completa.
-3. Aplica: `manter` → atualiza `valida_ate`; `reformular` → aplica a reformulação da
+3. Aplica: `manter` → atualiza `valid_until`; `reformular` → aplica a reformulação da
    sentinela, passa a pergunta a `em_verificacao` e leva-a de novo pelo
    `verificador-cego`, pelo `advogado-do-diabo` e pelo `editor`; só o
    `scripts/aprovar.py` a volta a aprovar; `retirar` → `estado: "retirada"`. Evento no

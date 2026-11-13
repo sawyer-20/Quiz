@@ -1,0 +1,163 @@
+{
+  "id": "Q-2026-000085",
+  "topic": "Video Games",
+  "subtopic": "Preservação de videojogos",
+  "text": {
+    "pt-PT": {
+      "question": "Em 2024, o Gabinete de Direitos de Autor dos EUA recusou que bibliotecas fizessem o quê com videojogos esgotados?",
+      "options": [
+        "Emulá-los dentro das instalações",
+        "Dar acesso remoto a investigadores",
+        "Guardar cópias de preservação",
+        "Vender cópias digitais ao público"
+      ],
+      "explanation": "Dar acesso remoto a investigadores. Era o pedido da Video Game History Foundation e da Software Preservation Network; o Gabinete recusou em outubro de 2024, após oposição da associação da indústria (ESA)."
+    },
+    "en-US": {
+      "question": "In 2024, the U.S. Copyright Office refused to let libraries do what with out-of-print video games?",
+      "options": [
+        "Emulate them on-site",
+        "Provide remote access to researchers",
+        "Keep preservation copies",
+        "Sell digital copies to the public"
+      ],
+      "explanation": "Providing remote access to researchers. That was the request of the Video Game History Foundation and the Software Preservation Network; the Office denied it in October 2024, after opposition from the industry association (ESA)."
+    }
+  },
+  "correct": 1,
+  "difficulty": 4,
+  "valid_until": null,
+  "daily_eligible": false,
+  "sources": [
+    "https://gamehistory.org/dmca-2024-statement/",
+    "https://www.infodocket.com/2024/10/25/u-s-copyright-office-rejects-dmca-exemption-to-support-game-preservation/"
+  ],
+  "fontes": [
+    {
+      "url": "https://gamehistory.org/dmca-2024-statement/",
+      "dominio": "gamehistory.org",
+      "titulo": "Statement on the DMCA 2024 triennial review ruling (Video Game History Foundation)",
+      "nivel": 1,
+      "excerto": "allow libraries and archives to remotely share digital access to out-of-print video games in their collections. ... libraries and archives are unable to break copy protection on games in order to make them remotely accessible to researchers.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.infodocket.com/2024/10/25/u-s-copyright-office-rejects-dmca-exemption-to-support-game-preservation/",
+      "dominio": "infodocket.com",
+      "titulo": "US Copyright Office Issues Updated DMCA Regulations (Library Journal infoDOCKET)",
+      "nivel": 2,
+      "excerto": "The U.S. Copyright Office will not expand an exemption to the DMCA rules that would allow for video game preservation in libraries and archives. ... remotely share digital access to out-of-print games",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.videogameschronicle.com/news/us-copyright-office-refuses-to-allow-remote-access-to-out-of-print-games/",
+      "dominio": "videogameschronicle.com",
+      "titulo": "US Copyright Office refuses to allow remote access to out-of-print games (VGC)",
+      "nivel": 2,
+      "excerto": "The US Copyright Office has refused to grant an exemption that would allow researchers to remotely access out-of-print video games.",
+      "consultada_em": "2026-11-13",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Dar acesso remoto a investigadores",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "videogameschronicle.com",
+      "data": "2026-11-13",
+      "notas": "Li a recomendação oficial da Registadora (copyright.gov, PDF), que confirma que o Gabinete não recomenda a expansão das classes 6(a) e 6(b) (preservação de programas e videojogos), mas a secção 6(b) em si (p. 163 em diante) ficou fora do texto que o leitor devolveu. A recusa específica do acesso remoto vem da imprensa (VGC) e de resultados de pesquisa que citam a decisão. Por isso é média. Opções excluídas: a preservação por bibliotecas e a emulação nas instalações foram mantidas pela renovação da isenção existente (Finnegan, resumo da regra final: jogos sem suporte de servidor, para jogo individual e preservação). Vender cópias digitais ao público nunca esteve em causa. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): O Gabinete recusou também alargamentos ligados à limitação de utilizador único e à premissa de acesso nas instalações. A opção «dar acesso remoto a investigadores» é a que coincide com o pedido recusado."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "VGHF e infoDOCKET concordam: recusa do acesso remoto a investigadores, outubro de 2024, oposição da ESA; outras opções já eram permitidas.",
+      "data": "2026-11-13"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado igual (113 caracteres). Explicação reordenada para começar pela resposta; sem factos novos.",
+      "data": "2026-11-13"
+    },
+    "tradutor": {
+      "data": "2026-11-13",
+      "notas": "'Gabinete de Direitos de Autor dos EUA' = U.S. Copyright Office. 'esgotados' = out-of-print (o conferente pode preferir 'no longer sold'). Nomes das organizações mantidos na forma original. Explicação começa pela resposta, como o pt-PT. Opção certa no índice 1."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Mesmos nomes, mesma data (outubro de 2024) e mesma atribuição. Opções equivalentes uma a uma.",
+      "data": "2026-11-13"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Facto pode mudar: as isenções valem três anos (próximo ciclo em 2027); valid_until=2027-10-28 é estimativa minha da validade da regra (a pesquisa diz 'efetiva a 28 de outubro de 2024', não li o texto oficial em copyright.gov): confirmar ou usar data do ciclo seguinte. Distrator 'Guardar cópias de preservação' é defendível como errado porque a isenção existente (e alargada) permite a preservação: o verificador deve confirmar com a regra oficial. 'Emulá-los dentro das instalações' também pode ser permitido, por isso é errado como recusa. Não usei o número de 87% (VGHF; só uma fonte lida). Tema jurídico norte-americano, mas ligado à indústria global; sem mercado. Não li copyright.gov nem o Federal Register: nível 1 oficial em falta, só o próprio promotor (VGHF) e imprensa especializada."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "ângulo próprio"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte videogameschronicle.com"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "valid_until retirado",
+      "agente": "advogado-do-diabo",
+      "nota": "recomendação do advogado: facto histórico fechado; a data era estimativa sem fonte"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "valid_until retirado",
+      "agente": "advogado-do-diabo",
+      "nota": "recomendação do advogado: facto histórico fechado; a data era estimativa sem fonte"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "'Gabinete de Direitos de Autor dos EUA' = U.S. Copyright Office. 'esgotados' = out-of-print (o conferente pode preferir 'no longer sold'). Nomes das organizações mantidos na forma original. Explicação começa pela resposta, como o pt-PT. Opção certa no índice 1."
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "etiquetas": [],
+  "options_lock": "4cf1e9100cc01460bc76e76da7c963f446a2a1d065c8ac0b4dc4d04e91c33226"
+}

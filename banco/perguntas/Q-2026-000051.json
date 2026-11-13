@@ -1,0 +1,120 @@
+{
+  "id": "Q-2026-000051",
+  "topic": "Movies",
+  "subtopic": "Óscares / cinema",
+  "text": {
+    "pt-PT": {
+      "question": "A estatueta dos Óscares mostra um cavaleiro com uma espada, em pé sobre que objeto?",
+      "options": [
+        "Uma máscara de teatro",
+        "Um globo terrestre",
+        "Uma coroa de louros",
+        "Um rolo de filme"
+      ],
+      "explanation": "O cavaleiro assenta sobre um rolo de filme. Segundo a Academia, os cinco raios do rolo representam os cinco ramos originais da Academia: atores, realizadores, produtores, técnicos e argumentistas."
+    }
+  },
+  "correct": 3,
+  "difficulty": 1,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.history.com/articles/academy-awards-called-oscars-nickname-origin",
+    "https://www.nbcwashington.com/entertainment/entertainment-news/oscar-statue-history-size-records-academy-awards/4075987/"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.history.com/articles/academy-awards-called-oscars-nickname-origin",
+      "dominio": "history.com",
+      "titulo": "Why Are the Academy Awards Called 'Oscars'? - HISTORY (Jan. 2026)",
+      "nivel": 2,
+      "excerto": "The iconic trophy depicts a knight holding a sword and standing on a film reel with five spokes, each representing one of the Academy's five original branches: actors, directors, producers, technicians and writers. Today, it has 19 branches.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.nbcwashington.com/entertainment/entertainment-news/oscar-statue-history-size-records-academy-awards/4075987/",
+      "dominio": "nbcwashington.com",
+      "titulo": "Why is it called an Oscar? Fun facts about the Academy Awards - NBC4 Washington",
+      "nivel": 2,
+      "excerto": "It stands atop a reel of film with five spokes signifying the five original branches of the Academy – actors, directors, producers, technicians and writers.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://press-files.oscars.org/sites/default/files/2026-01/A%20BRIEF%20HISTORY%20OF%20THE%20OSCAR.pdf",
+      "dominio": "oscars.org",
+      "titulo": "Academy of Motion Picture Arts and Sciences, A Brief History of the Oscar",
+      "nivel": 1,
+      "excerto": "MGM art director Cedric Gibbons sketched the figure of a knight gripping a sword, standing in front of a film reel. The five spokes of the reel stood for the original five branches of the Academy",
+      "consultada_em": "2026-11-12",
+      "papel": "advogado"
+    },
+    {
+      "url": "https://press-files.oscars.org/sites/default/files/2026-01/A%20BRIEF%20HISTORY%20OF%20THE%20OSCAR.pdf",
+      "dominio": "oscars.org",
+      "titulo": "A Brief History of the Oscar (Academy of Motion Picture Arts and Sciences, 2026)",
+      "nivel": 1,
+      "excerto": "In the finished design, the figure of the knight was streamlined, and the film reel was moved beneath its feet. The now iconic statuette was born.",
+      "consultada_em": "2026-11-12",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Um rolo de filme",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "oscars.org",
+      "data": "2026-11-12",
+      "notas": "Fonte oficial da Academia, lida. O cavaleiro segura uma espada e está sobre um rolo de filme (cinco raios = cinco ramos originais). Globo, máscara de teatro e coroa de louros não aparecem como base da estatueta."
+    },
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "rejeitada",
+  "motivo_rejeicao": "esgotou o ciclo de correção: 2.ª passagem do advogado ainda reprovou («em pé sobre» vs «diante de» não confirmado pela fonte lida)",
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "SEM FONTE DE NÍVEL 1 ABERTA: oscars.org, Britannica, Smithsonian (NMAAHC e si.edu) deram 403 ou não resolveram; só consegui ler duas fontes de nível 2 (History.com e NBC4), ambas jornalísticas. A pesquisa mostrou que oscars.org/oscars/statuette e o registo NMAAHC dizem o mesmo, mas não os li. Não cabe no caminho leve sem nível 1: recomendo que o verificador tente oscars.org ou academymuseum.org, ou que a pergunta seja rejeitada. O facto é de consenso e estável. 'Realizadores' e 'argumentistas' são a tradução de directors e writers; o número de 19 ramos vem só do History.com (pode mudar): se quiserem evitar números, tirar a última frase. Ângulo: o objeto sob o cavaleiro, não o nome Oscar nem a lista de vencedores."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "facto circula em trivia; enunciado e opções nossas"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte academymuseumstore.org"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação sugerida pelo advogado (ciclo único)"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte oscars.org"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "rejeitada",
+      "agente": "advogado-do-diabo",
+      "nota": "esgotou o ciclo de correção: 2.ª passagem do advogado ainda reprovou («em pé sobre» vs «diante de» não confirmado pela fonte lida)"
+    }
+  ],
+  "etiquetas": [
+    "classico"
+  ]
+}

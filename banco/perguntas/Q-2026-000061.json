@@ -1,0 +1,162 @@
+{
+  "id": "Q-2026-000061",
+  "topic": "Science",
+  "subtopic": "Elementos químicos e a tabela periódica",
+  "text": {
+    "pt-PT": {
+      "question": "Qual foi o primeiro elemento químico produzido artificialmente, identificado em 1937 por Perrier e Segrè?",
+      "options": [
+        "Astato",
+        "Tecnécio",
+        "Promécio",
+        "Frâncio"
+      ],
+      "explanation": "O tecnécio (n.º 43) foi o primeiro elemento produzido artificialmente, e o nome vem do grego «tekhnetos», «artificial». Na natureza existem apenas vestígios dele."
+    },
+    "en-US": {
+      "question": "Which was the first chemical element produced artificially, identified in 1937 by Perrier and Segrè?",
+      "options": [
+        "Astatine",
+        "Technetium",
+        "Promethium",
+        "Francium"
+      ],
+      "explanation": "Technetium (No. 43) was the first artificially produced element, and its name comes from the Greek \"tekhnetos,\" meaning \"artificial.\" Only traces of it exist in nature."
+    }
+  },
+  "correct": 1,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.lanl.gov/science-engineering/periodic-table/element/technetium",
+    "https://periodic-table.rsc.org/element/43/technetium"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.lanl.gov/science-engineering/periodic-table/element/technetium",
+      "dominio": "lanl.gov",
+      "titulo": "Technetium Tc 43 (Los Alamos National Laboratory)",
+      "nivel": 1,
+      "excerto": "Because technetium was the first artificially produced element, Perrier and Segrè named the element after the Greek word teknet, meaning 'artificial.'",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://periodic-table.rsc.org/element/43/technetium",
+      "dominio": "rsc.org",
+      "titulo": "Technetium (Royal Society of Chemistry, Periodic Table)",
+      "nivel": 1,
+      "excerto": "Discovery date 1937. Discovered by Carlo Perrier and Emilio Segrè. The name is derived from the Greek 'tekhnetos' meaning artificial.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://periodic-table.rsc.org/element/43/technetium",
+      "dominio": "rsc.org",
+      "titulo": "RSC, texto do podcast na mesma página",
+      "nivel": 1,
+      "excerto": "The name is from the Greek word for artificial, since technetium was the very first man-made element, yet despite the name, technetium is found naturally albeit in tiny traces.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.ebsco.com/research-starters/history/segre-identifies-first-artificial-element",
+      "dominio": "ebsco.com",
+      "titulo": "Segrè Identifies the First Artificial Element (EBSCO Research Starters)",
+      "nivel": 2,
+      "excerto": "Emilio Gino Segrè positively identified and characterized the first human-made chemical element, technetium, atomic number 43.",
+      "consultada_em": "2026-11-12",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Tecnécio",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "ebsco.com",
+      "data": "2026-11-12",
+      "notas": "Duas fontes lidas de acordo (EBSCO e Springer, Eur. J. Nucl. Med. 1996). As datas dos outros elementos vêm do conhecimento prévio do verificador, não de fonte lida."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "Li LANL, RSC e EBSCO. LANL: «Because technetium was the first artificially produced element, Perrier and Segrè named the element…» e «technetium occurs naturally among uranium ores». RSC: «derived from the Greek 'tekhnetos' meaning artificial», descoberta 1937, Perrier e Segrè; «about 1 milligram of technetium in a tonne of uranium». EBSCO: «first human-made chemical element, technetium, atomic nu",
+      "data": "2026-11-13"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Explicação reduzida de 3 para 2 frases, sem acrescentar nada; Perrier e Segrè já constam do enunciado.",
+      "data": "2026-11-13"
+    },
+    "tradutor": {
+      "data": "2026-11-13",
+      "notas": "Aspas « » do pt-PT passadas a aspas retas, com a vírgula dentro. Nomes dos elementos na forma inglesa (astatine, promethium, francium). 'n.º 43' = No. 43."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Equivalente. Números, nomes, datas e etimologia coincidem. Pontuação americana correta (vírgula dentro das aspas).",
+      "data": "2026-11-13"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "A RSC diz na ficha que o tecnécio «não ocorre naturalmente» e no podcast que há vestígios naturais; a LANL diz que ocorre em minérios de urânio. A explicação afirma «vestígios» (LANL e podcast RSC) e a pergunta não depende disso: se o verificador estranhar, tirar a última frase. O enunciado não contém o significado do nome (sem pista). Distratores: promécio e astato foram produzidos depois (anos 1940, não verificado nas fontes lidas, o verificador confirma); frâncio foi descoberto na natureza. Dificuldade provavelmente 3, não 2. Duas páginas de domínios diferentes (lanl.gov, rsc.org); Britannica 403, JLab 403."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "facto corrente; enunciado e opções nossas — EM ESPERA (quota de clássicos do lote já atingida; decisão do Andre)"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte ebsco.com"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Aspas « » do pt-PT passadas a aspas retas, com a vírgula dentro. Nomes dos elementos na forma inglesa (astatine, promethium, francium). 'n.º 43' = No. 43."
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "etiquetas": [
+    "classico"
+  ],
+  "options_lock": "0b5ec4060dd827b4a50180d6da9cdb521f78de66177027702950e06f456e7190"
+}

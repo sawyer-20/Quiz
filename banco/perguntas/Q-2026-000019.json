@@ -1,19 +1,41 @@
 {
   "id": "Q-2026-000019",
-  "lingua": "pt-PT",
-  "tema": "cinema-tv",
-  "subtema": "Cinemateca Portuguesa – incêndio de 1981",
-  "formato": "escolha-multipla",
-  "enunciado": "Qual foi a origem do incêndio que, em 1981, destruiu a sala de cinema da Cinemateca Portuguesa, em Lisboa?",
-  "opcoes": [
-    "Um curto-circuito no quadro elétrico da sala",
-    "Uma descarga elétrica durante uma trovoada",
-    "Uma falha no sistema de aquecimento da sala",
-    "A combustão de um rolo de filme em nitrato de celulose"
+  "topic": "Movies",
+  "subtopic": "Cinemateca Portuguesa – incêndio de 1981",
+  "markets": [
+    "pt"
   ],
-  "correta": 3,
-  "explicacao": "A combustão de um rolo de filme em nitrato de celulose, na cabine de projeção. O fogo propagou-se à sala, que ficou totalmente destruída. O nitrato, suporte do filme, é frágil e inflamável.",
-  "dificuldade_estimada": 2,
+  "text": {
+    "pt-PT": {
+      "question": "Qual foi a origem do incêndio que, em 1981, destruiu a sala de cinema da Cinemateca Portuguesa, em Lisboa?",
+      "options": [
+        "Um curto-circuito no quadro elétrico da sala",
+        "Uma descarga elétrica durante uma trovoada",
+        "Uma falha no sistema de aquecimento da sala",
+        "A combustão de um rolo de filme em nitrato de celulose"
+      ],
+      "explanation": "A combustão de um rolo de filme em nitrato de celulose, na cabine de projeção, propagou-se à sala, que ficou totalmente destruída. O nitrato, suporte do filme, é frágil e inflamável."
+    },
+    "en-US": {
+      "question": "What caused the 1981 fire that destroyed the screening room of the Portuguese Cinematheque in Lisbon?",
+      "options": [
+        "A short circuit in the room's electrical panel",
+        "An electrical discharge during a thunderstorm",
+        "A fault in the room's heating system",
+        "Combustion of a reel of cellulose nitrate film"
+      ],
+      "explanation": "Combustion of a reel of cellulose nitrate film in the projection booth spread to the screening room, which was totally destroyed. Nitrate, a film base, is fragile and flammable."
+    }
+  },
+  "correct": 3,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.cinemateca.pt/Cinemateca/Historia.aspx",
+    "https://arquivos.rtp.pt/conteudos/incendio-na-cinemateca/",
+    "https://filmspot.pt/artigo/cinemateca-portuguesa-celebra-a-arte-da-projecao-analogica-em-janeiro-14951/"
+  ],
   "fontes": [
     {
       "url": "https://www.cinemateca.pt/Cinemateca/Historia.aspx",
@@ -79,12 +101,19 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "enunciado reordenado; dificuldade 3→2",
+      "notas": "explicação encurtada para 1–2 frases (migração v2); sem factos novos",
+      "data": "2026-11-11"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "Cinemateca Portuguesa -> Portuguese Cinematheque; cabine de projeção = projection booth."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
       "data": "2026-11-11"
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
   "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-06-misto",
@@ -143,7 +172,37 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Cinemateca Portuguesa -> Portuguese Cinematheque; cabine de projeção = projection booth."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "options_lock": "af022b4bd52f8ff9a1450edd2900cbe079279793944c8a145550e6e7651f6938"
 }

@@ -1,0 +1,86 @@
+{
+  "id": "Q-2026-000062",
+  "topic": "Space",
+  "subtopic": "missões",
+  "text": {
+    "pt-PT": {
+      "question": "Qual destas sondas da NASA foi lançada a 20 de agosto de 1977?",
+      "options": [
+        "Pioneer 11",
+        "Voyager 2",
+        "Mariner 10",
+        "Voyager 1"
+      ],
+      "explanation": "Apesar do número, a Voyager 2 partiu primeiro, a 20 de agosto de 1977. A Voyager 1 foi lançada a 5 de setembro, mas seguiu uma trajetória mais rápida e chegou antes a Júpiter e a Saturno."
+    }
+  },
+  "correct": 1,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://science.nasa.gov/mission/voyager/voyager-2/",
+    "https://airandspace.si.edu/stories/editorial/where-are-voyagers-now"
+  ],
+  "fontes": [
+    {
+      "url": "https://science.nasa.gov/mission/voyager/voyager-2/",
+      "dominio": "nasa.gov",
+      "titulo": "Voyager 2 (NASA Science)",
+      "nivel": 1,
+      "excerto": "Launch Date and Time Aug. 20, 1977 / 14:29:44 UT",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/missions/voyager-1/",
+      "dominio": "nasa.gov",
+      "titulo": "Voyager 1 (NASA JPL)",
+      "nivel": 1,
+      "excerto": "Launch Date Sept. 5, 1977 ... Launched just shortly after its twin spacecraft, Voyager 2, in 1977",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://airandspace.si.edu/stories/editorial/where-are-voyagers-now",
+      "dominio": "si.edu",
+      "titulo": "Where are the Voyagers now? (National Air and Space Museum)",
+      "nivel": 1,
+      "excerto": "Launched in 1977 (September 5 for Voyager 1 (V1) and August 20 for Voyager 2 (V2), whose trajectory took it past Jupiter after Voyager 1)",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "rejeitada",
+  "motivo_rejeicao": "quota de clássicos do lote (regra 16): a pergunta ficou em espera sem chegar a ser verificada; o limite do Andre era 4 clássicos",
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Terceira fonte (NASM, domínio si.edu) independente de nasa.gov. A frase «trajetória mais rápida» não está nas fontes que li (só o NASM diz que a V2 passou por Júpiter depois da V1; o Planetary Society, só em resultado de pesquisa, diz «mais rápida»): se o verificador não a confirmar, trocar por «e chegou antes a Júpiter (março de 1979, contra julho de 1979)». Pioneer 11 e Mariner 10 foram lançadas em 1973; não confirmado nas fontes lidas, o verificador deve validar. Facto estável, sem valid_until. Pergunta de data exata: a data está em duas fontes de domínios diferentes."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "facto corrente; enunciado e opções nossas — EM ESPERA (quota de clássicos do lote já atingida; decisão do Andre)"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "rejeitada",
+      "agente": "orquestrador",
+      "nota": "quota de clássicos do lote (regra 16): a pergunta ficou em espera sem chegar a ser verificada; o limite do Andre era 4 clássicos"
+    }
+  ],
+  "etiquetas": [
+    "classico"
+  ]
+}

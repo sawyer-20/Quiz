@@ -1,0 +1,102 @@
+{
+  "id": "Q-2026-000029",
+  "topic": "General Knowledge",
+  "subtopic": "ciência e técnica em Portugal",
+  "text": {
+    "pt-PT": {
+      "question": "No sextante que Gago Coutinho adaptou para a travessia aérea do Atlântico Sul, o que fazia de horizonte artificial?",
+      "options": [
+        "Uma bolha de ar num pequeno nível",
+        "Um pêndulo suspenso",
+        "Um giroscópio de rotação rápida",
+        "Uma bacia de mercúrio"
+      ],
+      "explanation": "Sem horizonte do mar visível, Coutinho adaptou ao sextante um pequeno nível de bolha de ar. Um espelho auxiliar refletia a imagem da bolha, que servia de horizonte artificial."
+    }
+  },
+  "correct": 0,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://repositorio.iscte-iul.pt/bitstream/10071/4716/1/044_Vis%c3%b5es_O%20sextante%20de%20Coutinho.pdf",
+    "https://cultura.marinha.pt/pt/museumarinha_web/multimedia_web/Paginas/efemeride-travessia-aerea-atlantico-sul-30mar20.aspx",
+    "https://portaldeperiodicos.marinha.mil.br/index.php/navigator/article/download/99/94/438"
+  ],
+  "fontes": [
+    {
+      "url": "https://portaldeperiodicos.marinha.mil.br/index.php/navigator/article/download/99/94/438",
+      "dominio": "mil.br",
+      "titulo": "Canas, Marabujo e Sousa, O sextante de horizonte artificial de Gago Coutinho, Revista Navigator (2019)",
+      "nivel": 2,
+      "excerto": "se adaptou um pequeno nivel de bolha de ar [...] o espelho auxiliar, A, colocado a 45° [...] reflete a imagem da bolha do nível [...] dando origem ao nosso horizonte artificial.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://repositorio.iscte-iul.pt/bitstream/10071/4716/1/044_Vis%c3%b5es_O%20sextante%20de%20Coutinho.pdf",
+      "dominio": "iscte-iul.pt",
+      "titulo": "Jorge Freitas Branco, O sextante de Coutinho (ISCTE-IUL)",
+      "nivel": 1,
+      "excerto": "bolha de ar fazendo de horizonte artificial, espelho auxiliar, pilha alimenta iluminação da bolha para voo noturno.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://cultura.marinha.pt/pt/museumarinha_web/multimedia_web/Paginas/efemeride-travessia-aerea-atlantico-sul-30mar20.aspx",
+      "dominio": "marinha.pt",
+      "titulo": "Museu de Marinha, Efeméride Travessia Aérea Atlântico Sul",
+      "nivel": 1,
+      "excerto": "Gago Coutinho adaptou um sistema de horizonte artificial a um sextante clássico de Marinha para satisfazer as necessidades da navegação aérea.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "rejeitada",
+  "motivo_rejeicao": "fonte não independente (mil.br)",
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Coutinho não inventou o sextante de bolha; o enunciado diz 'adaptou'. Bacia de mercúrio é horizonte artificial terrestre clássico, não aparece nas fontes. Navigator é portal da Marinha brasileira (n2). PT n1 novas: repositorio.iscte-iul.pt e cultura.marinha.pt (via ler_url; WebFetch ENOTFOUND). A pilha para voo noturno só vem do ISCTE."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Nenhum quiz com este enunciado ou opções."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte lusitania100.pt"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "rejeitada",
+      "agente": "verificador-cego",
+      "nota": "fonte não independente (mil.br)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "só pt-PT (pergunta rejeitada ou em curso)"
+    }
+  ]
+}

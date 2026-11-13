@@ -1,0 +1,202 @@
+{
+  "id": "Q-2026-000038",
+  "topic": "General Knowledge",
+  "subtopic": "modalidades fora do futebol",
+  "text": {
+    "pt-PT": {
+      "question": "Segundo as leis de 1845 da Rugby School, o que ganhava uma equipa ao pousar a bola para lá da linha de ensaio?",
+      "options": [
+        "O direito a tentar um pontapé à baliza",
+        "Dois pontos",
+        "Um ponto",
+        "Um pontapé de penalidade"
+      ],
+      "explanation": "O direito a um «try at goal», uma tentativa de pontapé à baliza: nas leis de 1845 pousar a bola não dava pontos, só os golos marcavam. O ensaio só passou a valer pontos mais tarde, a partir de 1886."
+    },
+    "en-US": {
+      "question": "Under the 1845 laws of Rugby School, what did a team earn for grounding the ball beyond the goal line?",
+      "options": [
+        "The right to attempt a kick at goal",
+        "Two points",
+        "One point",
+        "A penalty kick"
+      ],
+      "explanation": "The right to a \"try at goal,\" a kick at the goal: under the 1845 laws, grounding the ball scored no points, and only goals counted. A try only became worth points later, starting in 1886."
+    }
+  },
+  "correct": 0,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.irishtimes.com/sport/sports-jargon-try-1.697492",
+    "https://www.rugbyworld.com/takingpart/rugby-basics/why-is-a-try-called-a-try-in-rugby-136012",
+    "https://rugby365.com/laws-referees/news/scoring-down-the-years/"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.irishtimes.com/sport/sports-jargon-try-1.697492",
+      "dominio": "irishtimes.com",
+      "titulo": "Sports jargon: try - The Irish Times",
+      "nivel": 2,
+      "excerto": "tries were worth nothing when The Laws of Football as Played at Rugby School were drawn up in 1845. The only reward for crossing the line was the resulting opportunity to kick a goal",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.rugbyworld.com/takingpart/rugby-basics/why-is-a-try-called-a-try-in-rugby-136012",
+      "dominio": "rugbyworld.com",
+      "titulo": "Why is a try called a try in rugby? - Rugby World",
+      "nivel": 2,
+      "excerto": "The word 'try' meant just that. If a team got themselves over the line, they had the chance to try to get points by converting the kick at goal.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://rugby365.com/laws-referees/news/scoring-down-the-years/",
+      "dominio": "rugby365.com",
+      "titulo": "Scoring down the years (Paul Dobson, Rugby365)",
+      "nivel": 2,
+      "excerto": "In the beginning there were no points in the game as played at Rugby School. The goal counted. Grounding the ball over the opponents' line gave you the opportunity to attempt (try) to improve (convert) the effort into a goal. The try did not count.",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
+    },
+    {
+      "url": "https://rugbyfootballhistory.com/scoring.htm",
+      "dominio": "rugbyfootballhistory.com",
+      "titulo": "Rugby Football History - scoring",
+      "nivel": 2,
+      "excerto": "In early rugby as played at rugby school, the only scores came from goals and there was no points value associated with scoring. The 1845 rules stated that ... a \"TRY at goal\" had to be earned by touching the ball down ... 1886 (accepted): ... a try one point.",
+      "consultada_em": "2026-11-11",
+      "papel": "advogado"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "O direito a tentar um pontapé à baliza",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "rugby365.com",
+      "data": "2026-11-11",
+      "notas": "Rugby365 (n2). Texto das leis de 1845 (reprodução em PDF alojada em api.club.ffr.fr): regra v «Try at goal»; não diz explicitamente que o toque não valia pontos — a inferência vem do Rugby365. 1 ponto e 2 pontos surgem depois (1886, 1889). Sem nível 1; bathrugbyheritage 403."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "Advogado (2.ª passagem): rugbyfootballhistory.com e Rugby World concordam em 1886; sem contradição.",
+      "data": "2026-11-11"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "estilo",
+      "data": "2026-11-11"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "linha de ensaio -> goal line; ensaio = try; «try at goal» kept from the original."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "2.ª passagem após correção de formato",
+      "data": "2026-11-11"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Sem fonte de nível 1: worldrugbymuseum.com 403, britannica ENOTFOUND, world.rugby 404. Pontos divergem (3 pontos em 1893 vs 1905): evitados. «Um ponto» pode confundir (leis de 1886). Tradução «linha de ensaio» a confirmar pelo editor."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Nenhuma pergunta de quiz com este ângulo nem opções; ressalva: valores históricos de pontos divergem."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte rugbyfootballhistory.com"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte rugby365.com"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: O direito a tentar um pontapé à baliza; depois: O direito a tentar um pontapé à baliza"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "linha de ensaio -> goal line; ensaio = try; «try at goal» kept from the original."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"explicação\", \"idioma\": \"en-US\", \"detalhe\": \"«try at goal,» com aspas angulares e vírgula fora das aspas: calque da pontuação portuguesa\"}]"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "correção de formato aplicada",
+      "agente": "tradutor",
+      "nota": "pontuação/separador decimal apontados pelo conferente; sem mudança factual"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"explicação\", \"idioma\": \"en-US\", \"detalhe\": \"«try at goal,» com aspas angulares e vírgula fora das aspas: calque da pontuação portuguesa\"}]"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "options_lock": "c22fd1a81d50244f1990a0fe922885af2791844618ac27d76568a91d2e35d882"
+}

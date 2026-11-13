@@ -52,3 +52,24 @@
    fontes a apresentam como interpretação de alguém, atribui-se.
 10. Uma página pode dar ao pesquisador até 3 factos (3 perguntas). Cada pergunta continua
     a precisar da sua própria verificação às cegas, com fonte de outro domínio.
+
+## Fontes de nível 1 por tópico (QUIZLUX)
+
+Ponto de partida para o pesquisador, por tópico de arranque. Qualquer fonte de nível 1 vale
+**em qualquer das duas línguas** (pt-PT ou en-US). A lista não substitui as regras acima: cada
+facto continua a precisar de uma fonte aberta e lida, e a segunda fonte de outro domínio.
+
+| Tópico | Fontes de nível 1 |
+|---|---|
+| General Knowledge | museus e bibliotecas nacionais, universidades, institutos de estatística, organismos públicos, enciclopédias editoriais (Britannica, Larousse, Treccani) |
+| Geography | institutos de estatística e cartografia (INE, IGN, USGS, Eurostat), ONU, Banco Mundial, NOAA, atlas oficiais, serviços geológicos |
+| World History | arquivos nacionais, museus (British Museum, Louvre, Smithsonian), universidades, edições críticas e fontes primárias, bibliotecas nacionais |
+| Science | revistas científicas (Nature, Science, PNAS) e o seu texto original, universidades, NIH/NLM, CERN, laboratórios nacionais, IUPAC, NIST |
+| Space | NASA, ESA, ESO, JAXA, Roscosmos, CNES, observatórios e missões (JPL, STScI), IAU |
+| Movies | AMPAS (Oscars), Cannes, Berlinale, Veneza, American Film Institute, cinematecas, bases oficiais dos estúdios e dos festivais, Library of Congress |
+| Music | sítios oficiais de artistas e editoras, Grammy/Recording Academy, Billboard e Official Charts (listas), bibliotecas e museus de música, universidades |
+| Football | FIFA, UEFA, CONMEBOL, federações nacionais, sítios oficiais das ligas e dos clubes (para factos sobre eles), IFFHS e RSSSF só como apoio de nível 2 |
+| Video Games | sítios oficiais dos estúdios e das plataformas (Nintendo, Sony, Microsoft, Valve), Guinness World Records (nível 2), arquivos como a Library of Congress e o Strong Museum of Play, universidades |
+| Nature & Animals | IUCN, NOAA, USGS, serviços de vida selvagem, museus de história natural, revistas científicas, universidades, Smithsonian |
+
+Para perguntas de interesse português, começa pela lista de `regras/fontes-pt.md`.

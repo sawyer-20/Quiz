@@ -1,0 +1,80 @@
+{
+  "id": "Q-2026-000034",
+  "topic": "Geography",
+  "subtopic": "rios e lagos",
+  "text": {
+    "pt-PT": {
+      "question": "Qual destes lagos é o mais profundo do mundo?",
+      "options": [
+        "Lago Vitória",
+        "Lago Baikal",
+        "Lago Superior",
+        "Lago Titicaca"
+      ],
+      "explanation": "O Baikal, na Sibéria, é o lago mais profundo do mundo, com cerca de um quilómetro e meio de fundo. Contém um volume de água equivalente ao de todos os Grandes Lagos da América do Norte juntos."
+    }
+  },
+  "correct": 1,
+  "difficulty": 1,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://whc.unesco.org/en/list/754/",
+    "https://www.usgs.gov/water-science-school/science/lakes-and-reservoirs"
+  ],
+  "fontes": [
+    {
+      "url": "https://whc.unesco.org/en/list/754/",
+      "dominio": "unesco.org",
+      "titulo": "Lake Baikal - UNESCO World Heritage Centre",
+      "nivel": 1,
+      "excerto": "Lake Baikal is the oldest (25 million years) and deepest (1,700 m) lake in the world. It contains 20% of the world's total unfrozen freshwater reserve.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.usgs.gov/water-science-school/science/lakes-and-reservoirs",
+      "dominio": "usgs.gov",
+      "titulo": "Lakes and Reservoirs - U.S. Geological Survey",
+      "nivel": 1,
+      "excerto": "Lake Baikal is the world's oldest, largest, and deepest freshwater lake. Nearly a mile deep and holding over 23,000 cubic kilometers water, a volume equivalent to the total volume of all the Great Lakes of North America.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "rejeitada",
+  "motivo_rejeicao": "copiada: mesmo conjunto de opções e pergunta equivalente à da culTest (play.ceslava.com/cultest, geografia, 'What lake is the deepest in the world?'); alvo volta ao pesquisador",
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Facto clássico (dificuldade 1). Profundidade diverge entre fontes (1637–1741 m); «cerca de um quilómetro e meio» é aproximação do pesquisador. icpdr.org ENOTFOUND."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: copiada",
+      "agente": "originalidade",
+      "nota": "Veredicto do agente: clássico, com a ressalva de que a culTest (play.ceslava.com) pareceria usar as mesmas 4 opções; a página foi aberta pelo orquestrador e confirma: Lago Baikal, Titicaca, Superior, Victoria. Pelo critério do agente (mesmo conjunto de opções) fica copiada."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "rejeitada",
+      "agente": "originalidade",
+      "nota": "copiada: mesmo conjunto de opções e pergunta equivalente à da culTest (play.ceslava.com/cultest, geografia, 'What lake is the deepest in the world?'); alvo volta ao pesquisador"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "só pt-PT (pergunta rejeitada ou em curso)"
+    }
+  ]
+}

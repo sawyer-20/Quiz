@@ -1,0 +1,193 @@
+{
+  "id": "Q-2026-000024",
+  "topic": "Science",
+  "subtopic": "química – o hélio",
+  "text": {
+    "pt-PT": {
+      "question": "Em 1868, onde estava o astrónomo francês Pierre Janssen quando registou a linha amarela que levaria ao hélio?",
+      "options": [
+        "Na Austrália",
+        "Na Índia",
+        "No Brasil",
+        "No Egito"
+      ],
+      "explanation": "Na Índia, onde Janssen foi observar um eclipse total do Sol e registou uma linha amarela inédita no espetro solar. Essa linha levaria ao hélio, detetado no Sol antes de o ser na Terra."
+    },
+    "en-US": {
+      "question": "In 1868, where was French astronomer Pierre Janssen when he recorded the yellow line that would lead to helium?",
+      "options": [
+        "In Australia",
+        "In India",
+        "In Brazil",
+        "In Egypt"
+      ],
+      "explanation": "In India, where Janssen went to observe a total solar eclipse and recorded a previously unknown yellow line in the solar spectrum. That line would lead to helium, detected on the Sun before it was found on Earth."
+    }
+  },
+  "correct": 1,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://periodic-table.rsc.org/element/2/helium",
+    "https://www.lanl.gov/science-engineering/periodic-table/element/helium",
+    "https://winter.group.shef.ac.uk/webelements/helium/history.html"
+  ],
+  "fontes": [
+    {
+      "url": "https://periodic-table.rsc.org/element/2/helium",
+      "dominio": "rsc.org",
+      "titulo": "Helium – Periodic Table, Royal Society of Chemistry",
+      "nivel": 1,
+      "excerto": "In 1868, Pierre J. C. Janssen travelled to India to measure the solar spectrum during a total eclipse and observed a new yellow line which indicated a new element.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.lanl.gov/science-engineering/periodic-table/element/helium",
+      "dominio": "lanl.gov",
+      "titulo": "Helium – Periodic Table of Elements, Los Alamos National Laboratory",
+      "nivel": 1,
+      "excerto": "...first observed the element during a solar eclipse in 1868. Pierre Janssen, a French astronomer observing the eclipse from India, ... was the one to formally record and confirm the new spectrum line.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://winter.group.shef.ac.uk/webelements/helium/history.html",
+      "dominio": "shef.ac.uk",
+      "titulo": "WebElements: Helium – historical information (Univ. of Sheffield)",
+      "nivel": 1,
+      "excerto": "Pierre-Jules-César Janssen (1824-1907), first obtained evidence for the existence of helium during the solar eclipse of 1868 in India when he detected a new yellow line (587.49 nm) in the solar spectrum",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.smithsonianmag.com/history/how-scientists-discovered-helium-first-alien-element-1868-180970057/",
+      "dominio": "smithsonianmag.com",
+      "titulo": "How Scientists Discovered Helium, the First Alien Element, 150 Years Ago (Smithsonian Magazine)",
+      "nivel": 2,
+      "excerto": "going all the way to Guntur, India, for the total solar eclipse of August 18, 1868. ... On the day of the eclipse, armed with his spectroscope, Janssen saw ... a bright yellow line whose wavelength didn't match with any known element.",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Na Índia",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "smithsonianmag.com",
+      "data": "2026-11-11",
+      "notas": "Uma só fonte lida (Smithsonian, n2). Guntur fica na Índia; Brasil, Austrália e Egito não aparecem. Sem fontes PT n1."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "Advogado (2.ª passagem): a pergunta pede onde Janssen estava; explicação neutra quanto a quem descobriu. Smithsonian só vista em resumo, não guardada.",
+      "data": "2026-11-11"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "explicação encurtada para 1–2 frases (migração v2); sem factos novos",
+      "data": "2026-11-11"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "espetro -> spectrum."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Fontes PT n1: rce.casadasciencias.org aberta (só 1868, Lockyer); infopedia.pt 403; britannica 403. Evita datas disputadas e o sufixo. Facto de nicho, não clássico."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "Facto conhecido em quizzes como pergunta sobre o elemento/descobridor; sem pergunta do local nem este conjunto de opções; classico por prudência."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte arxiv.org"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte smithsonianmag.com"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: Na Índia; depois: Na Índia"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "espetro -> spectrum."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "etiquetas": [
+    "classico"
+  ],
+  "options_lock": "e49a6f057cf91b2b519ee5f858a713b43003ca5434597f3e841885e0180cced6"
+}

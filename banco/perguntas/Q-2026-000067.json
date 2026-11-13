@@ -1,0 +1,141 @@
+{
+  "id": "Q-2026-000067",
+  "topic": "General Knowledge",
+  "subtopic": "Bandeiras e símbolos nacionais",
+  "text": {
+    "pt-PT": {
+      "question": "Segundo a lei suíça, os braços da cruz da bandeira são mais compridos do que largos em que fração?",
+      "options": [
+        "Metade",
+        "Um sexto",
+        "Um terço",
+        "Um quarto"
+      ],
+      "explanation": "A lei suíça define uma cruz branca sobre fundo vermelho, com os quatro braços iguais, cada um um sexto mais comprido do que largo. A bandeira nacional tem fundo quadrado, uma raridade entre as bandeiras de Estado."
+    },
+    "en-US": {
+      "question": "According to Swiss law, the arms of the cross on the flag are longer than they are wide by what fraction?",
+      "options": [
+        "One half",
+        "One sixth",
+        "One third",
+        "One quarter"
+      ],
+      "explanation": "Swiss law defines a white cross on a red background, with four equal arms, each one-sixth longer than it is wide. The national flag has a square background, a rarity among national flags."
+    }
+  },
+  "correct": 1,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20170101/en/pdf-a/fedlex-data-admin-ch-eli-cc-2015-613-20170101-en-pdf-a.pdf"
+  ],
+  "fontes": [
+    {
+      "url": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20170101/en/pdf-a/fedlex-data-admin-ch-eli-cc-2015-613-20170101-en-pdf-a.pdf",
+      "dominio": "admin.ch",
+      "titulo": "Federal Act on the Protection of the Swiss Coat of Arms and Other Public Signs (Coat of Arms Protection Act), Fedlex",
+      "nivel": 1,
+      "excerto": "[Art. 1] ...a white Swiss cross ... against a red background, whose arms, which are all of equal size, are one-sixth longer than they are wide. Art. 3: The Swiss flag shows a Swiss cross on a square background.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/swiss-abroad-community/cross-purposes-the-unique-swiss-flag/89284039",
+      "dominio": "swissinfo.ch",
+      "titulo": "Flag of Switzerland: Why it's one of only two square national flags (SWI swissinfo.ch)",
+      "nivel": 2,
+      "excerto": "the coat of arms of the Confederation is a free-standing, upright white cross on a red field, the arms of which, equal to each other, are one-sixth longer than they are wide",
+      "consultada_em": "2026-11-12",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Um sexto",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "swissinfo.ch",
+      "data": "2026-11-12",
+      "notas": "Li a fonte (imprensa pública de referência, que cita a norma de 1889). 'Um sexto mais compridos do que largos' equivale a 7:6. Metade, um quarto e um terço ficam excluídos por esta fórmula. Só abri uma fonte, mas a formulação é explícita. A pesquisa deu ainda resultados da Wikipédia e de sites genéricos, usados só como pista e concordantes (7:6). O enunciado diz 'segundo a lei suíça' e a fonte atribui a regra à lei (1889, mantida em 2017)."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "Li o Fedlex. O art. 1.º diz «white, upright, free-standing cross depicted against a red background, whose arms, which are all of equal size, are one-sixth longer than they are wide». O art. 3.º diz «The Swiss flag shows a Swiss cross on a square background». Li também o swissinfo, que diz «The only square national flag apart from that of the Vatican City». Isso sustenta «uma das raras bandeiras qu",
+      "data": "2026-11-12"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado: retirei a repetição «da Suíça». Explicação: encurtada a segunda frase, mesmo conteúdo.",
+      "data": "2026-11-13"
+    },
+    "tradutor": {
+      "data": "2026-11-13",
+      "notas": "Opções como frações por extenso, na mesma ordem. 'bandeiras de Estado' traduzido por 'national flags' (sem repetir 'state flags', que em inglês tem outro sentido); o conferente pode ver."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Equivalente. Nota menor: «bandeiras de Estado» (pt) vs «national flags» (en) é aceitável no contexto e não altera o facto nem a resposta.",
+      "data": "2026-11-13"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Só UMA fonte lida (legislação suíça no Fedlex, nível 1); o excerto junta Art. 1 e Art. 3 (a leitura abriu a partir de Art. 1 'cross...' já cortado no início da frase, a confirmar o início do Art. 1 no texto completo). Outras fontes oficiais (eda.admin.ch / aboutswitzerland, fdfa) devolveram 403. A frase 'uma das raras bandeiras de Estado quadradas' é do meu conhecimento geral e NÃO está na fonte lida: o editor deve retirá-la ou o verificador fundamentá-la (Vaticano); recomendo tirar a oração final. Dificuldade 3, não 1: facto simples mas desconhecido de quase todos; se a coordenação insistir em dificuldade 1 troco por 'bandeira quadrada' (mais batida, sujeita a ser classificada clássica)."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "sem quiz equivalente (ângulo próprio)"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte swissinfo.ch"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Opções como frações por extenso, na mesma ordem. 'bandeiras de Estado' traduzido por 'national flags' (sem repetir 'state flags', que em inglês tem outro sentido); o conferente pode ver."
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "etiquetas": [],
+  "options_lock": "58fe72f26d38679a1047df00c946c3d4f0604549eda874dc2b0e89b706dce573"
+}

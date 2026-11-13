@@ -1,0 +1,151 @@
+{
+  "id": "Q-2026-000050",
+  "topic": "Science",
+  "subtopic": "Anatomia humana",
+  "text": {
+    "pt-PT": {
+      "question": "Qual destes ossos é o mais longo do corpo humano?",
+      "options": [
+        "Fémur",
+        "Úmero",
+        "Tíbia",
+        "Rádio"
+      ],
+      "explanation": "O fémur, o osso da coxa, é o mais longo, o mais pesado e o mais forte do corpo humano. Liga a bacia ao joelho, onde articula com a tíbia e a rótula, e suporta o peso do tronco ao andar."
+    },
+    "en-US": {
+      "question": "Which of these bones is the longest in the human body?",
+      "options": [
+        "Femur",
+        "Humerus",
+        "Tibia",
+        "Radius"
+      ],
+      "explanation": "The femur, or thigh bone, is the longest, heaviest, and strongest bone in the human body. It connects the pelvis to the knee, where it joins the tibia and the kneecap, and it supports the weight of the trunk when walking."
+    }
+  },
+  "correct": 0,
+  "difficulty": 1,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.ncbi.nlm.nih.gov/sites/books/NBK532982/",
+    "https://my.clevelandclinic.org/health/body/22503-femur"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK532982/",
+      "dominio": "nih.gov",
+      "titulo": "Anatomy, Bony Pelvis and Lower Limb: Femur - StatPearls, NCBI Bookshelf (NIH)",
+      "nivel": 1,
+      "excerto": "The femur is the longest, heaviest, and strongest human bone.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://my.clevelandclinic.org/health/body/22503-femur",
+      "dominio": "clevelandclinic.org",
+      "titulo": "Femur (Thighbone): Anatomy, Function & Common Conditions - Cleveland Clinic",
+      "nivel": 2,
+      "excerto": "The femur is your thigh bone. It's the longest, strongest bone in your body.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.guinnessworldrecords.com/world-records/67745-longest-bone",
+      "dominio": "guinnessworldrecords.com",
+      "titulo": "Longest bone | Guinness World Records",
+      "nivel": 2,
+      "excerto": "The thigh bone, or femur, is the longest. It constitutes 27.5% of a person's stature normally, and may be expected to be 50 cm (19.75 in) long in a man measuring 180 cm (5 ft 11 in) tall.",
+      "consultada_em": "2026-11-12",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Fémur",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "guinnessworldrecords.com",
+      "data": "2026-11-12",
+      "notas": "Li a fonte, que é de nível 2, e só uma. Britannica devolveu 403. A fonte diz que o fémur é o osso mais longo, o que exclui tíbia, úmero e rádio. Facto anatómico estável."
+    },
+    "advogado": null,
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Sem alterações; já estava curto, em pt-PT e com 2 frases.",
+      "data": "2026-11-13"
+    },
+    "caminho_leve": true,
+    "tradutor": {
+      "data": "2026-11-13",
+      "notas": "Termos anatómicos ingleses correntes (femur, humerus, tibia, radius). 'rótula' = kneecap."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Equivalente. Fémur/Femur, Úmero/Humerus, Tíbia/Tibia, Rádio/Radius correspondem uma a uma.",
+      "data": "2026-11-13"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Facto clássico (fémur), meta de clássicos do lote a vigiar; dificuldade 1 por isso. Britannica deu 403. Nível 1 vem do NCBI/NIH (StatPearls, dois capítulos do mesmo domínio: NBK532982 e NBK535397), segunda fonte de domínio diferente é a Cleveland Clinic (nível 2). Apesar de o alvo pedir ângulo pouco batido, não encontrei fonte aberta para um ângulo mais obscuro dentro do tempo; se a originalidade o recusar como clássico, trocar o ângulo (ex.: osso hioide ou estribo). Pode haver estudos com ossos mais longos em casos individuais, irrelevante para o consenso anatómico."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "facto muito clássico; enunciado óbvio, opções nossas"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte guinnessworldrecords.com"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "caminho leve (sem advogado do diabo)",
+      "agente": "orquestrador",
+      "nota": "dificuldade 1, fonte de nível 1 do pesquisador (NIH/NCBI); verificador cego concorda"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Termos anatómicos ingleses correntes (femur, humerus, tibia, radius). 'rótula' = kneecap."
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "etiquetas": [
+    "caminho_leve",
+    "classico"
+  ],
+  "options_lock": "818377c0165a7d7847b18dd188eb5d7d72c31fbb51d7ce4eaead3137d85021e6"
+}

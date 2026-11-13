@@ -1,19 +1,37 @@
 {
   "id": "Q-2026-000009",
-  "lingua": "pt-PT",
-  "tema": "historia",
-  "subtema": "Idade Moderna – calendário gregoriano na Grã-Bretanha",
-  "formato": "escolha-multipla",
-  "enunciado": "Na passagem ao calendário gregoriano, em 1752, que dia se seguiu a 2 de setembro na Grã-Bretanha?",
-  "opcoes": [
-    "12 de setembro",
-    "11 de setembro",
-    "14 de setembro",
-    "13 de setembro"
+  "topic": "World History",
+  "subtopic": "Idade Moderna – calendário gregoriano na Grã-Bretanha",
+  "text": {
+    "pt-PT": {
+      "question": "Na passagem ao calendário gregoriano, em 1752, que dia se seguiu a 2 de setembro na Grã-Bretanha?",
+      "options": [
+        "12 de setembro",
+        "11 de setembro",
+        "14 de setembro",
+        "13 de setembro"
+      ],
+      "explanation": "14 de setembro: foram suprimidos 11 dias (de 3 a 13) e a quarta-feira, dia 2, foi seguida pela quinta-feira, dia 14. A mesma lei mudou o início do ano de 25 de março para 1 de janeiro em Inglaterra, no País de Gales e nas colónias; a Escócia já o fazia desde 1600."
+    },
+    "en-US": {
+      "question": "When Britain switched to the Gregorian calendar in 1752, what day followed September 2?",
+      "options": [
+        "September 12",
+        "September 11",
+        "September 14",
+        "September 13"
+      ],
+      "explanation": "September 14: 11 days (the 3rd through the 13th) were skipped, and Wednesday the 2nd was followed by Thursday the 14th. The same law moved the start of the year from March 25 to January 1 in England, Wales and the colonies; Scotland had done so since 1600."
+    }
+  },
+  "correct": 2,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.rmg.co.uk/stories/time/which-years-are-leap-years-can-you-have-leap-seconds",
+    "https://www.legislation.gov.uk/apgb/Geo2/24/23"
   ],
-  "correta": 2,
-  "explicacao": "14 de setembro: foram suprimidos 11 dias (de 3 a 13) e a quarta-feira, dia 2, foi seguida pela quinta-feira, dia 14. A mesma lei mudou o início do ano de 25 de março para 1 de janeiro em Inglaterra, no País de Gales e nas colónias; a Escócia já o fazia desde 1600.",
-  "dificuldade_estimada": 3,
   "fontes": [
     {
       "url": "https://www.rmg.co.uk/stories/time/which-years-are-leap-years-can-you-have-leap-seconds",
@@ -63,10 +81,17 @@
       "alteracao_factual": false,
       "notas": "Enunciado reescrito sem a fórmula 'passou diretamente de… para'; explicação reduzida a ~255 caracteres. Originalidade: facto aparece como curiosidade (FunTrivia, IFLScience…), mas sem este enunciado copiado ou quase igual.",
       "data": "2026-11-04"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "US-style dates. 'Grã-Bretanha' rendered as 'Britain'."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
   "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-04-historia",
@@ -149,9 +174,34 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "US-style dates. 'Grã-Bretanha' rendered as 'Britain'."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": [
     "classico"
-  ]
+  ],
+  "options_lock": "ce0a9b6a612f30cfd56e2546a72802d56c72dc51d9e0e8aad5934a55ad42f189"
 }

@@ -12,12 +12,17 @@ Tempo por pergunta aprovada = soma das durações dos agentes / perguntas aprova
 tempo de trabalho dos agentes: não conta pausas por limite de utilização, esperas por
 respostas do Andre nem o tempo do orquestrador. Agentes em paralelo somam-se, por isso
 mede o custo, não o tempo de relógio.
+
+Tempo de relógio: se existir relatorios/<lote>-relogio.txt com as linhas `inicio=<ISO 8601>`
+e `fim=<ISO 8601>` (UTC, ex.: 2026-11-11T09:00:00Z), mostra a duração total do lote, pausas
+incluídas. Escreve-se `inicio` no passo 0 e `fim` ao gravar o relatório.
 """
 
 import csv
 import json
 import sys
 from collections import Counter
+from datetime import datetime
 from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent.parent
@@ -64,6 +69,27 @@ def main() -> int:
             por_agente[ev[-1]["agente"] if ev else "?"] += 1
         for a, n in por_agente.most_common():
             print(f"  {a}: {n}")
+
+    # Clássicos no banco inteiro (a quota de 20% conta sobre o banco, a partir de 100).
+    banco = [json.loads(f.read_text(encoding="utf-8"))
+             for f in (RAIZ / "banco" / "perguntas").glob("*.json")]
+    ativas_b = [q for q in banco if q["estado"] in ("aprovada", "publicada")]
+    cl_b = sum("classico" in (q.get("etiquetas") or []) for q in ativas_b)
+    if ativas_b:
+        print(f"Clássicos no banco inteiro: {cl_b} de {len(ativas_b)} aprovadas/publicadas "
+              f"({cl_b / len(ativas_b):.0%}); quota de 20% aplicada a partir de 100")
+
+    relogio = RAIZ / "relatorios" / f"{lote}-relogio.txt"
+    if relogio.exists():
+        d = dict(l.strip().split("=", 1) for l in relogio.read_text(encoding="utf-8").splitlines() if "=" in l)
+        try:
+            ini = datetime.fromisoformat(d["inicio"].replace("Z", "+00:00"))
+            fim = datetime.fromisoformat(d["fim"].replace("Z", "+00:00"))
+            print(f"Tempo de relógio do lote (pausas incluídas): {(fim - ini).total_seconds() / 3600:.1f} h")
+        except (KeyError, ValueError):
+            print("Tempo de relógio: ficheiro relogio.txt incompleto (precisa de inicio= e fim=).")
+    else:
+        print(f"Sem tempo de relógio ({relogio.relative_to(RAIZ)}).")
 
     tempos = RAIZ / "relatorios" / f"{lote}-tempos.csv"
     if tempos.exists():

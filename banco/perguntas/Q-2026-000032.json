@@ -1,0 +1,199 @@
+{
+  "id": "Q-2026-000032",
+  "topic": "World History",
+  "subtopic": "diplomacia",
+  "text": {
+    "pt-PT": {
+      "question": "Que obra nova o Tratado de Saragoça (1529) proibiu a Portugal nas Molucas e num raio de 20 léguas à volta?",
+      "options": [
+        "Feitorias comerciais",
+        "Estaleiros navais",
+        "Fortalezas",
+        "Igrejas e missões"
+      ],
+      "explanation": "Fortalezas: pelo Tratado de Saragoça, D. João III pagou 350 000 ducados pelas pretensões castelhanas às Molucas e ficou impedido de erguer novas fortalezas ali, num raio de 20 léguas."
+    },
+    "en-US": {
+      "question": "What did the Treaty of Zaragoza (1529) forbid Portugal from building in the Moluccas and within 20 leagues around them?",
+      "options": [
+        "Trading posts",
+        "Shipyards",
+        "Fortresses",
+        "Churches and missions"
+      ],
+      "explanation": "Fortresses: under the Treaty of Zaragoza, John III paid 350,000 ducats for Castile's claims to the Moluccas and was barred from building new fortresses there, within 20 leagues."
+    }
+  },
+  "correct": 2,
+  "difficulty": 4,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://cultura.marinha.pt/en/museumarinha_web/multimedia_web/Pages/efemeride-tratado-de-saragoca-22abr21.aspx",
+    "https://press-files.anu.edu.au/downloads/press/p66561/html/ch04s04.html",
+    "https://eve.fcsh.unl.pt/en/politics/zaragoza-treaty"
+  ],
+  "fontes": [
+    {
+      "url": "https://cultura.marinha.pt/en/museumarinha_web/multimedia_web/Pages/efemeride-tratado-de-saragoca-22abr21.aspx",
+      "dominio": "marinha.pt",
+      "titulo": "Efeméride | Tratado de Saragoça (Direção Cultural da Marinha, Museu de Marinha)",
+      "nivel": 1,
+      "excerto": "A Coroa espanhola, cedia a sua posição naquelas ilhas a Portugal, a troco de 350 mil ducados, enquanto a Coroa portuguesa, não poderia erguer mais fortalezas num raio de 20 léguas em redor da zona das Molucas.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://sevilla.2019-2022.org/wp-content/uploads/2016/03/12.ICSevilla2019_Tratado-de-Zaragoza-a15.pdf",
+      "dominio": "2019-2022.org",
+      "titulo": "La huella archivada del viaje y sus protagonistas: Tratado de Zaragoza (transliteración de Cristóbal Bernal), Sevilla 2019-2022",
+      "nivel": 2,
+      "excerto": "el dicho Señor Rey de Portugal no hará por sí, ni por otro, ni mandará hacer, de nuevo, fortaleza alguna en Maluco, ni al derredor de él con veinte leguas, ni de Maluco hasta donde por este contrato se ha por lanzada la línea.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://press-files.anu.edu.au/downloads/press/p66561/html/ch04s04.html",
+      "dominio": "anu.edu.au",
+      "titulo": "Zaragoza 1529: the Moluccas and the Straits (ANU Press)",
+      "nivel": 1,
+      "excerto": "In return, João III would immediately pay over 350,000 ducats: an advance on his starting offer of 200,000, but a substantial shortfall from the original Castilian demand of 1,000,000.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://eve.fcsh.unl.pt/en/politics/zaragoza-treaty",
+      "dominio": "unl.pt",
+      "titulo": "The Zaragoza Treaty (Encyclopaedia of Portuguese Expansion, FCSH-NOVA)",
+      "nivel": 1,
+      "excerto": "The Portuguese Crown, in turn, agreed not to build additional fortresses in the region, and was also to pay 350,000 ducados, in exchange for which this Monarchy´s rights would be recognized.",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
+    },
+    {
+      "url": "https://cultura.marinha.pt/pt/museumarinha_web/multimedia_web/Paginas/22-abril-chegada-brasil-tratado-saragoca.aspx",
+      "dominio": "marinha.pt",
+      "titulo": "Museu de Marinha: Tratado de Saragoça (1529)",
+      "nivel": 1,
+      "excerto": "A Coroa espanhola cedia a sua posição naquelas ilhas a Portugal, a troco de 350 mil ducados, enquanto a Coroa portuguesa não poderia erguer mais fortalezas num raio de 20 léguas em redor da zona das Molucas.",
+      "consultada_em": "2026-11-11",
+      "papel": "advogado"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Fortalezas",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "unl.pt",
+      "data": "2026-11-11",
+      "notas": "A fonte não menciona o raio de 20 léguas (não confirmado por ela). Nenhuma fonte lida refere proibição de igrejas, estaleiros ou feitorias."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "Advogado (2.ª passagem): texto do tratado e Museu de Marinha confirmam fortalezas novas e 20 léguas; 350 000 ducados em Museu, EVE e ANU.",
+      "data": "2026-11-11"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "explicação encurtada para 1–2 frases (migração v2); sem factos novos",
+      "data": "2026-11-11"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "D. João III -> John III; Molucas -> Moluccas; ducados -> ducats; léguas -> leagues."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "N1: cultura.marinha.pt (EN; PT deu timeout) e press-files.anu.edu.au via ler_url (WebFetch ENOTFOUND). Transliteração do tratado (n2). Datas divergem (5 vs 22 abril 1529): fora do texto. Tratado descrito como empenho e retrovenda. Feitorias é o distrator mais discutível. Infopédia 403."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "O pormenor das 20 léguas só em fontes informativas."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte wikisource.org"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte unl.pt"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: Fortalezas; depois: Fortalezas"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "D. João III -> John III; Molucas -> Moluccas; ducados -> ducats; léguas -> leagues."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "options_lock": "87de65eca8ae5d01af8ba57f35a276cd97060c3539dd6eb25ed3897cc3bb2d66"
+}

@@ -1,0 +1,163 @@
+{
+  "id": "Q-2026-000069",
+  "topic": "Music",
+  "subtopic": "Música clássica russa",
+  "text": {
+    "pt-PT": {
+      "question": "Quem pediu a Prokofiev, em 1936, «Pedro e o Lobo» para ensinar às crianças os instrumentos da orquestra?",
+      "options": [
+        "Galina Ulanova, bailarina",
+        "Anna Akhmatova, poetisa",
+        "Nadezhda Krupskaya, pedagoga e dirigente comunista",
+        "Natalya Sats, diretora de um teatro infantil"
+      ],
+      "explanation": "Natalya Sats, diretora de um teatro infantil em Moscovo, pediu a Prokofiev uma peça para ensinar às crianças os instrumentos da orquestra. Ele escreveu «Pedro e o Lobo» para o teatro dela."
+    },
+    "en-US": {
+      "question": "Who asked Prokofiev in 1936 to write \"Peter and the Wolf\" to teach children the instruments of the orchestra?",
+      "options": [
+        "Galina Ulanova, ballerina",
+        "Anna Akhmatova, poet",
+        "Nadezhda Krupskaya, educator and Communist leader",
+        "Natalya Sats, director of a children's theater"
+      ],
+      "explanation": "Natalya Sats, director of a children's theater in Moscow, asked Prokofiev for a piece to teach children the instruments of the orchestra. He wrote \"Peter and the Wolf\" for her theater."
+    }
+  },
+  "correct": 3,
+  "difficulty": 4,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/PeterAndTheWolf.pdf",
+    "https://www.boosey.com/downloads/prokofjew_werkverzeichnis.pdf"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/PeterAndTheWolf.pdf",
+      "dominio": "loc.gov",
+      "titulo": "Peter and the Wolf (Library of Congress, National Recording Preservation Board)",
+      "nivel": 1,
+      "excerto": "after many successes, he returned permanently in 1936. There, educator Natalya Sats asked him to write a piece that would teach instruments of the orchestra to children, for her Central Children's Theatre.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.boosey.com/downloads/prokofjew_werkverzeichnis.pdf",
+      "dominio": "boosey.com",
+      "titulo": "Prokofieff, catálogo de obras (Boosey & Hawkes, editora)",
+      "nivel": 1,
+      "excerto": "Peter and the Wolf, written spontaneously for Natalia Sats's Moscow Children's Musical Theatre, reaches performance.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.wisemusicclassical.com/work/31743/Peter-and-the-Wolf-for-narrator-and-orchestra--Sergei-Prokofiev/",
+      "dominio": "wisemusicclassical.com",
+      "titulo": "Peter and the Wolf (for narrator and orchestra) | Sergei Prokofiev - Wise Music Classical",
+      "nivel": 2,
+      "excerto": "Commissioned in 1936 by Natalya Sats for the Central Children's Theatre in Moscow, Peter and the Wolf, Op. 67, is a \"symphonic tale for children\" designed to introduce young audiences to the instruments of the orchestra.",
+      "consultada_em": "2026-11-13",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Natalya Sats, diretora de um teatro infantil",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "wisemusicclassical.com",
+      "data": "2026-11-13",
+      "notas": "Li a página com ler_url.py. É a ficha de uma editora (nível 2, é obra de consulta de uma editora e não é a Boosey). Só abri uma fonte de nível 1 ou 2; a pesquisa mostrou outras páginas que dizem o mesmo (programas de concerto), mas não as li, por serem de qualidade incerta. As outras opções (Ulanova, Krupskaya, Akhmatova) não aparecem como encomendantes em nenhuma fonte que vi. O enunciado confirma-se: 1936, ensinar às crianças os instrumentos da orquestra. A fonte diz 'encomendada por Sats', não 'pediu', e isso é equivalente."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "Li o PDF da Library of Congress (nivel 1): 'educator Natalya Sats asked him to write a piece that would teach instruments of the orchestra to children, for her Central Children's Theatre', em 1936. A Boosey (editora, lida) diz que a obra foi escrita 'for Natalia Sats's Moscow Children's Musical Theatre' (apoia 'para o teatro dela', nao o 'pediu'). A ficha Wise Music (editora, lida): 'Commissioned ",
+      "data": "2026-11-13"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado igual (105 caracteres). Explicação reordenada para começar pela resposta; sem factos novos.",
+      "data": "2026-11-13"
+    },
+    "tradutor": {
+      "data": "2026-11-13",
+      "notas": "Opção 3 (certa) mantém a posição. \"Moscovo\" passa a Moscow. \"Peter and the Wolf\" é a forma inglesa corrente do título. \"teatro infantil\" passa a \"children's theater\" (grafia americana). A ficha refere o Central Children's Theatre, mas o pt-PT não o nomeia, por isso não o acrescentei."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Textos equivalentes, opções alinhadas uma a uma, explicação com 2 frases, opções até 60 caracteres, sem brasileirismos.",
+      "data": "2026-11-13"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Dificuldade real 4, não 2 (o aluno sabe a obra, não a pessoa): a pedido do coordenador privilegiei o ângulo secundário; se a dificuldade 2 for obrigatória, trocar a pergunta para outro ângulo. A LoC diz «Central Children's Theatre», a Boosey «Moscow Children's Musical Theatre» (nomes da mesma instituição segundo a Britannica, que devolveu 403 ao leitor e só vi em resultado de pesquisa): a explicação usa o nome da LoC. A Boosey diz «written spontaneously», a LoC diz «asked him»: a explicação segue a LoC; o verificador deve confirmar a encomenda. O ano 1936 está na LoC (regresso) e, pela cronologia da Boosey, também; a estreia de 2 de maio de 1936 não é usada. Distratores: figuras soviéticas femininas verosímeis; Krupskaya foi vice-ministra da Educação, dado não verificado nas fontes lidas, por isso o verificador deve confirmar ou eu reformulo sem descrição."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "ângulo próprio"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte teatr-sats.ru"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (ciclo único)"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte wisemusicclassical.com"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Opção 3 (certa) mantém a posição. \"Moscovo\" passa a Moscow. \"Peter and the Wolf\" é a forma inglesa corrente do título. \"teatro infantil\" passa a \"children's theater\" (grafia americana). A ficha refere o Central Children's Theatre, mas o pt-PT não o nomeia, por isso não o acrescentei."
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "etiquetas": [],
+  "options_lock": "73cf93f1c1531d626bf4260afb10acd8ea9cc83ba42a30105f9c20bf0b68cc0a"
+}

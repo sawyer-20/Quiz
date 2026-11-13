@@ -1,0 +1,83 @@
+{
+  "id": "Q-2026-000042",
+  "topic": "General Knowledge",
+  "subtopic": "movimentos e técnicas",
+  "text": {
+    "pt-PT": {
+      "question": "O pigmento «castanho-múmia», apreciado pelos pré-rafaelitas, era feito sobretudo a partir de quê?",
+      "options": [
+        "De resina de acácia endurecida pelo calor",
+        "De restos moídos de múmias egípcias",
+        "De ossos de animais calcinados e moídos",
+        "De terra argilosa importada do vale do Nilo"
+      ],
+      "explanation": "O castanho-múmia (ou «caput mortuum») era feito sobretudo de pez branco, mirra e restos moídos de antigos egípcios e dos seus animais. Foi muito usado na pintura europeia dos séculos XVI a XIX e deixou de se fabricar nos anos 1960."
+    }
+  },
+  "correct": 1,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://harvardartmuseums.org/article/a-pigment-from-the-depths",
+    "https://www.smithsonianmag.com/smart-news/ground-mummies-were-once-ingredient-paint-180950350/"
+  ],
+  "fontes": [
+    {
+      "url": "https://harvardartmuseums.org/article/a-pigment-from-the-depths",
+      "dominio": "harvardartmuseums.org",
+      "titulo": "A Pigment from the Depths (Harvard Art Museums, Straus Center, 2013)",
+      "nivel": 1,
+      "excerto": "Mummy brown, Egyptian brown, or caput mortuum ... was a rich pigment varying in hue from burnt to raw umber, made primarily from white pitch, myrrh, and ground-up ancient Egyptians and their pets.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.smithsonianmag.com/smart-news/ground-mummies-were-once-ingredient-paint-180950350/",
+      "dominio": "smithsonianmag.com",
+      "titulo": "Ground Up Mummies Were Once an Ingredient in Paint (Smithsonian Magazine, 2014)",
+      "nivel": 2,
+      "excerto": "The brown paint the artists used was called Mummy Brown, because it was actually made out of ground up Egyptian mummies.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "rejeitada",
+  "motivo_rejeicao": "quota de clássicos do lote (regra 16): o lote já tinha 2 clássicos (Q24, Q39); alvo 20 volta ao pesquisador com ângulo não clássico",
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Nome do pigmento sugere a resposta (pista ténue). Smithsonian n2 divulgação. «séculos XVI a XIX» (Harvard) e «anos 1960» (Smithsonian/Harvard 1964): confirmar. PT n1 não abertas; arthistory.fsu.edu rede."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "Facto circula em quizzes FunTrivia com outros enunciados e opções. Lote já com 2 clássicos (Q24, Q39)."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "rejeitada",
+      "agente": "orquestrador",
+      "nota": "quota de clássicos do lote (regra 16): o lote já tinha 2 clássicos (Q24, Q39); alvo 20 volta ao pesquisador com ângulo não clássico"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "só pt-PT (pergunta rejeitada ou em curso)"
+    }
+  ],
+  "etiquetas": [
+    "classico"
+  ]
+}

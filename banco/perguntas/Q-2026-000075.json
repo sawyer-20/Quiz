@@ -1,0 +1,109 @@
+{
+  "id": "Q-2026-000075",
+  "topic": "Nature & Animals",
+  "subtopic": "vida marinha",
+  "text": {
+    "pt-PT": {
+      "question": "Numa experiência de 2010, o casulo de muco que o peixe-papagaio cria para dormir reduziu os ataques de quê?",
+      "options": [
+        "De parasitas que mordem (isópodes gnatídeos)",
+        "De moreias, os predadores noturnos",
+        "De correntes fortes durante a noite",
+        "De algas tóxicas"
+      ],
+      "explanation": "Na experiência da bióloga Alexandra Grutter, da Universidade de Queensland, só 10% dos peixes-papagaio dentro do casulo foram atacados por gnatídeos, contra cerca de 94% dos que ficaram sem casulo. Segundo Grutter, os guias e manuais de biologia presumiam que o muco protegia de predadores noturnos como as moreias, mas nenhum estudo experimental tinha examinado a sua função."
+    }
+  },
+  "correct": 0,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://news.uq.edu.au/2010-11-16-fish-sleep-more-soundly-when-they-have-mosquito-net",
+    "https://www.livescience.com/8979-mucus-cocoons-protect-fish-parasites.html"
+  ],
+  "fontes": [
+    {
+      "url": "https://news.uq.edu.au/2010-11-16-fish-sleep-more-soundly-when-they-have-mosquito-net",
+      "dominio": "uq.edu.au",
+      "titulo": "Fish sleep more soundly when they have a mosquito net (University of Queensland)",
+      "nivel": 1,
+      "excerto": "most fish guide books and biology textbooks presumed mucous cocoons protected fish from nocturnal predators such as moray eels, no experimental studies had examined their function. ... Fish without mucous cocoons were attacked more by gnathiids",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.livescience.com/8979-mucus-cocoons-protect-fish-parasites.html",
+      "dominio": "livescience.com",
+      "titulo": "Mucus Cocoons Protect Fish from Parasites (Live Science)",
+      "nivel": 2,
+      "excerto": "The scientists found that nearly 95 percent of the fish without the cocoons were attacked, compared with just 10 percent of those coated in mucus.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.nationalgeographic.com/science/article/parrotfish-sleep-in-a-mosquito-net-made-of-mucus",
+      "dominio": "nationalgeographic.com",
+      "titulo": "Parrotfish sleep in a mosquito net made of mucus (National Geographic)",
+      "nivel": 2,
+      "excerto": "She then added gnathiids to each tank and found that the tiny vampires attacked just 10% of the cocooned fish, but virtually all of the unprotected ones.",
+      "consultada_em": "2026-11-13",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "De parasitas que mordem (isópodes gnatídeos)",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "nationalgeographic.com",
+      "data": "2026-11-13",
+      "notas": "Li só uma fonte de nível 2, porque o ocean.si.edu e o royalsocietypublishing.org não resolveram na rede. O artigo diz que a investigadora (Grutter) testou a hipótese de a muco proteger dos gnatídeos e não das moreias, que são mencionadas só como ideia antiga nunca testada. A pesquisa também aponta o estudo de 2010 na Biology Letters (DOI 10.1098/rsbl.2010.0916). Exclusão das outras opções: o artigo fala de um 'mosquito net', uma barreira física contra parasitas, e não menciona correntes nem algas tóxicas. Os 10% e os 94% vêm de uma única fonte. O enunciado diz 'ataques', que é compatível com a fonte (ataques de gnatídeos)."
+    },
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "rejeitada",
+  "motivo_rejeicao": "esgotou o ciclo de correção: 2.ª passagem do advogado ainda reprovou (detalhes de redação/atribuição)",
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Percentagens: UQ não as dá; Live Science diz 'nearly 95%' e 10%, e a pesquisa sobre o artigo (Biology Letters, 94% e 10%) não foi lida por mim (royalsocietypublishing deu 403). Se o verificador não confirmar 94%/10% por duas fontes, tirar os números da explicação e deixar só 'muito menos atacados'. Distrator 'moreias' é a hipótese antiga dos manuais, mas a experiência só mediu parasitas; o enunciado fixa 'numa experiência de 2010'. Os estudos posteriores dizem que o uso do casulo é facultativo, o que não afeta a pergunta. Smithsonian Ocean (ocean.si.edu) não abriu (502)."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "ângulo próprio"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte nih.gov"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (ciclo único)"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte nationalgeographic.com"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "rejeitada",
+      "agente": "advogado-do-diabo",
+      "nota": "esgotou o ciclo de correção: 2.ª passagem do advogado ainda reprovou (detalhes de redação/atribuição)"
+    }
+  ],
+  "etiquetas": []
+}

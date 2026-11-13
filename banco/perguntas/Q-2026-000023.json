@@ -1,19 +1,27 @@
 {
   "id": "Q-2026-000023",
-  "lingua": "pt-PT",
-  "tema": "desporto",
-  "subtema": "História dos Jogos Olímpicos",
-  "formato": "escolha-multipla",
-  "enunciado": "Pierre de Coubertin, fundador dos Jogos Olímpicos modernos, ganhou uma medalha de ouro olímpica em 1912. Em quê?",
-  "opcoes": [
-    "Hipismo",
-    "Tiro",
-    "Esgrima",
-    "Literatura"
+  "topic": "General Knowledge",
+  "subtopic": "História dos Jogos Olímpicos",
+  "text": {
+    "pt-PT": {
+      "question": "Pierre de Coubertin, fundador dos Jogos Olímpicos modernos, ganhou uma medalha de ouro olímpica em 1912. Em quê?",
+      "options": [
+        "Hipismo",
+        "Tiro",
+        "Esgrima",
+        "Literatura"
+      ],
+      "explanation": "Os Jogos de Estocolmo de 1912 tiveram concursos de arte com medalhas. O ouro de literatura foi para a «Ode ao Desporto», assinada por Georges Hohrod e M. Eschbach, dados como alemães. Era um duplo pseudónimo: o autor do poema era o próprio Coubertin."
+    }
+  },
+  "correct": 3,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.olympedia.org/results/920001",
+    "https://www.smithsonianmag.com/history/poetry-was-an-official-olympic-event-for-nearly-40-years-what-happened-180984838/"
   ],
-  "correta": 3,
-  "explicacao": "Os Jogos de Estocolmo de 1912 tiveram concursos de arte com medalhas. O ouro de literatura foi para a «Ode ao Desporto», assinada por Georges Hohrod e M. Eschbach, dados como alemães. Era um duplo pseudónimo: o autor do poema era o próprio Coubertin.",
-  "dificuldade_estimada": 3,
   "fontes": [
     {
       "url": "https://www.olympedia.org/results/920001",
@@ -39,8 +47,6 @@
     "advogado": null,
     "editor": null
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
   "estado": "rejeitada",
   "motivo_rejeicao": "ambiguidade: medalha em concurso de arte que o COI não reconhece como oficial, enunciado fala em medalha olímpica; sem fonte de nível 1 lida (na dúvida, rejeita). Alvo possível com outro enunciado.",
   "lote": "lote-2026-11-06-misto",
@@ -63,6 +69,12 @@
       "evento": "rejeitada",
       "agente": "verificador-cego",
       "nota": "ambiguidade: medalha em concurso de arte que o COI não reconhece como oficial, enunciado fala em medalha olímpica; sem fonte de nível 1 lida (na dúvida, rejeita). Alvo possível com outro enunciado."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "só pt-PT (pergunta rejeitada ou em curso)"
     }
   ],
   "etiquetas": [

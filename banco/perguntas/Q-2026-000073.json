@@ -1,0 +1,187 @@
+{
+  "id": "Q-2026-000073",
+  "topic": "Space",
+  "subtopic": "Telescópio Espacial Hubble",
+  "text": {
+    "pt-PT": {
+      "question": "O espelho principal do Hubble saiu com a curva errada por um erro de 1,3 mm. Em que peça foi o erro?",
+      "options": [
+        "No alinhamento após o lançamento",
+        "Num aparelho que testava a curva do espelho",
+        "Na espessura do vidro do espelho principal",
+        "Na posição do espelho secundário"
+      ],
+      "explanation": "Num aparelho de teste, que tinha um erro de 1,3 mm no espaçamento de uma lente, e o espelho foi polido de acordo com ele. A borda ficou demasiado plana e as imagens saíram desfocadas, um defeito que só foi compensado com ótica corretiva instalada em dezembro de 1993."
+    },
+    "en-US": {
+      "question": "Hubble's primary mirror came out with the wrong curve because of a 1.3 mm error. Where was the error?",
+      "options": [
+        "In the alignment after launch",
+        "In a device that tested the mirror's curve",
+        "In the thickness of the primary mirror's glass",
+        "In the position of the secondary mirror"
+      ],
+      "explanation": "In a testing device, which had a 1.3 mm error in the spacing of a lens, and the mirror was polished to match it. The edge came out too flat and the images were blurry, a flaw that was only compensated for by corrective optics installed in December 1993."
+    }
+  },
+  "correct": 1,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://science.nasa.gov/mission/hubble/observatory/design/optics/hubbles-mirror-flaw/",
+    "https://arxiv.org/pdf/1203.0002"
+  ],
+  "fontes": [
+    {
+      "url": "https://science.nasa.gov/mission/hubble/observatory/design/optics/hubbles-mirror-flaw/",
+      "dominio": "nasa.gov",
+      "titulo": "Hubble's Mirror Flaw (NASA Science)",
+      "nivel": 1,
+      "excerto": "Hubble's main mirror had the wrong shape because of a lens spacing error. The spacing was off by 1.3 millimeters, which resulted in a mirror that was too flat away from its center.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://arxiv.org/pdf/1203.0002",
+      "dominio": "arxiv.org",
+      "titulo": "Experience with the Hubble Space Telescope: 20 years of an archetype (arXiv 1203.0002)",
+      "nivel": 2,
+      "excerto": "NASA commissioned a forensic investigation ... that identified the cause to be a 1.3 mm spacing error in the reflective null corrector device used to optically test the mirror while being figured.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.governmentattic.org/59docs/NASAhubbleOpSystFailureRpt1990.pdf",
+      "dominio": "governmentattic.org",
+      "titulo": "The Hubble Space Telescope Optical Systems Failure Report (Allen Report, 1990)",
+      "nivel": 1,
+      "excerto": "When the Board measured the RNC, the lens was incorrectly spaced from the mirrors. Calculations ... show that the measured amount, 1.3 mm, accounts in detail for the amount and character of the observed image blurring.",
+      "consultada_em": "2026-11-13",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Num aparelho que testava a curva do espelho",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "governmentattic.org",
+      "data": "2026-11-13",
+      "notas": "Li o relatório oficial da comissão de inquérito (cópia hospedada em governmentattic.org, documento primário, domínio diferente dos proibidos). O erro de 1,3 mm esteve no espaçamento da lente no reflective null corrector, o aparelho de teste usado para dar a forma ao espelho primário. Exclusões: o espelho foi polido na forma errada por causa do teste mal montado, e não por erro na espessura do vidro; o espelho secundário e o alinhamento pós-lançamento não são a causa indicada no relatório. O relatório tem o PDF digitalizado, e o nome do relatório pode aparecer com variações."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "Li a NASA (science.nasa.gov, Hubble's Mirror Flaw): 'improperly set up a device used to test its curve... null corrector... a lens spacing error. The spacing was off by 1.3 millimeters', espelho 'too flat away from its center', COSTAR instalado na primeira missão de manutenção, 'December 1993'. O arXiv 1203.0002 confirma o erro de espaçamento de 1,3 mm no null corrector e a Servicing Mission 1 em ",
+      "data": "2026-11-13"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Corrigida a frase elíptica sobre a ótica corretiva: o defeito só foi compensado com ótica corretiva instalada em dezembro de 1993, como na explicação original. Duas frases, cerca de 270 caracteres, começa pela resposta. Enunciado igual.",
+      "data": "2026-11-13"
+    },
+    "tradutor": {
+      "data": "2026-11-13",
+      "notas": "Não tenho nesta sessão a tradução anterior de Q-2026-000073 (só recebi a pergunta e as opções pt-PT); a pergunta e as opções en-US são traduzidas agora a partir do pt-PT que o orquestrador enviou, com a opção certa no índice 1. Se já existe uma versão en-US aprovada, o orquestrador deve comparar e manter a que já tinha. Explicação: 2 frases, começa pela resposta; 1.3 mm sem conversão de unidades."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Equivalentes nos dois idiomas. A explicação começa com um fragmento (\"Num aparelho de teste, que tinha...\"), mas está igual nos dois idiomas e é aceitável.",
+      "data": "2026-11-13"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Facto estável. O aparelho chama-se 'null corrector' (NASA: erro de espaçamento de lente; o artigo arXiv: erro no corretor nulo refletor, por reflexo numa tampa de haste cuja tinta se soltou). As duas versões coincidem no essencial (erro de 1,3 mm no aparelho de teste). A explicação diz 'só foi corrigido em 1993': a NASA diz que WFPC2 e COSTAR foram instalados na primeira missão de assistência, em dezembro de 1993; o editor pode simplificar sem mexer no facto. 'O espelho estava certo para o aparelho de teste' é uma formulação minha de interpretação; se o advogado a achar demasiado, pode ser cortada: NASA só diz que o espelho tinha a curva errada por causa do erro no aparelho. O arXiv é um artigo científico (preprint), por isso nível 2; o verificador deve procurar uma segunda fonte independente de nível 1 (ex.: ESA ou STScI). Facto bastante conhecido entre aficionados; ângulo menos batido é o 1,3 mm e o aparelho de teste, mas é o mais próximo de clássico do lote (dificuldade 3, não 4)."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "ângulo próprio"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte skyatnightmagazine.com"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (ciclo único)"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (ciclo único)"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte governmentattic.org"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Unidade mantida em mm. A última frase segue o pt-PT à letra («até a ótica corretiva de dezembro de 1993»), que é elíptica (sem verbo); o conferente pode ver. Opção certa no índice 1."
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"explicação\", \"idioma\": \"pt-PT\", \"detalhe\": \"«até a ótica corretiva de dezembro de 1993» não tem a crase («até à») e a frase fica elíptica e ambígua («até a» pode ler-se como «mesmo a»). Convém uma formulação correta em pt-PT. O en-US «until the corrective optics of December 1993» tem a mesma elipse, mas é compreensível.\"}]"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Não tenho nesta sessão a tradução anterior de Q-2026-000073 (só recebi a pergunta e as opções pt-PT); a pergunta e as opções en-US são traduzidas agora a partir do pt-PT que o orquestrador enviou, com a opção certa no índice 1. Se já existe uma versão en-US aprovada, o orquestrador deve comparar e manter a que já tinha. Explicação: 2 frases, começa pela resposta; 1.3 mm sem conversão de unidades."
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "etiquetas": [],
+  "options_lock": "1944147d3031d951fe107290743e615c6a87fdc813df4bb72e373caad7dc6299"
+}

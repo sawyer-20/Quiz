@@ -1,0 +1,67 @@
+{
+  "id": "Q-2026-000058",
+  "topic": "Music",
+  "subtopic": "instrumentos",
+  "text": {
+    "pt-PT": {
+      "question": "O cravo belisca as cordas. Como o piano, inventado por Cristofori, faz soar as suas?",
+      "options": [
+        "Com um arco que as fricciona",
+        "Com o dedo, que as belisca diretamente",
+        "Com foles que as fazem vibrar",
+        "Com martelos que as percutem"
+      ],
+      "explanation": "Bartolomeo Cristofori, de Ppádua, criou em Florença, na corte dos Médicis, uma mecânica de martelos que percutem as cordas em vez de as beliscarem. Isso permitia tocar suave e forte, daí o nome «piano e forte»."
+    }
+  },
+  "correct": 3,
+  "difficulty": 1,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://folklife-media.si.edu/docs/festival/program-book-articles/FESTBK2000_40.pdf"
+  ],
+  "fontes": [
+    {
+      "url": "https://folklife-media.si.edu/docs/festival/program-book-articles/FESTBK2000_40.pdf",
+      "dominio": "si.edu",
+      "titulo": "Piano Traditions, Howard Bass, Smithsonian National Museum of American History (Folklife Festival 2000)",
+      "nivel": 1,
+      "excerto": "Bartolomeo Cristofori, a native of Padua, invented a new type of action using hammers that struck the strings (rather than plucking them, as the harpsichord did) and was capable of playing soft and loud (piano e forte).",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "rejeitada",
+  "motivo_rejeicao": "quota de clássicos do lote (regra 16: o lote já tem 4 clássicos; o limite do Andre é 4)",
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Só UMA fonte lida (Smithsonian, nível 1). O Met (essay e coleção) devolveu 429 e Britannica 403; a pesquisa indica que o Met confirma os martelos, mas não o li. O verificador cego deve fornecer a segunda fonte de domínio diferente. A data (1700 vs 1709 nos manuais) está fora da pergunta e da explicação de propósito. O enunciado menciona 'cravo belisca' como contexto; o distrator 'belisca diretamente' pode ser confundido com a pista do cravo: se o editor achar ambíguo, trocar por 'Com palhetas de pena' (também errado para o piano, mas é o do cravo). Facto de consenso, estável."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "facto corrente em quizzes; enunciado e opções nossas"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "rejeitada",
+      "agente": "orquestrador",
+      "nota": "quota de clássicos do lote (regra 16: o lote já tem 4 clássicos; o limite do Andre é 4)"
+    }
+  ],
+  "etiquetas": [
+    "classico"
+  ]
+}
