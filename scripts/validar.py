@@ -35,7 +35,7 @@ CAMPOS_FONTE = ["url", "dominio", "titulo", "nivel", "excerto", "consultada_em",
 # Etiquetas permitidas. "classico": facto muito conhecido (já usado noutros quizzes),
 # admitido com enunciado próprio; nunca em dificuldade 4 ou 5. Quota: no máximo 20% das
 # perguntas aprovadas e publicadas do banco, aplicada a partir de 100 perguntas.
-ETIQUETAS = {"classico"}
+ETIQUETAS = {"classico", "caminho_leve"}
 QUOTA_CLASSICOS = 0.20       # máximo de clássicos no banco (aprovadas + publicadas)
 BANCO_MINIMO_QUOTA = 100     # a quota só bloqueia a partir de 100 perguntas; abaixo, só se mede
 EVENTO_APROVACAO = "aprovada por aprovar.py"

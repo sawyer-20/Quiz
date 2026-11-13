@@ -60,7 +60,11 @@
       "data": "2026-11-13",
       "notas": "Spragg diz «gold-painted ... copy of the 78rpm disc». Isso corresponde à opção «cópia do disco pintada a ouro». «Maciço de ouro» fica excluída pelo material (pintura) apesar da frase do locutor. «Vinil folheado a ouro» é errada porque os discos de 78 rpm da época eram de goma-laca, não de vinil. «Latão dourado» não aparece em nenhuma fonte. O enunciado afirma 1942 e entrega a Miller, e ambos estão confirmados (10/02/1942, programa Chesterfield Moonlight Serenade). | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Fontes divergem. A NPR (https://www.npr.org/2017/02/10/514522626/...) cita o locutor da rádio a dizer «solid gold», o que sustentaria «disco maciço de ouro», mas é uma frase de encenação radiofónica, não uma descrição do material. Resultados de pesquisa descrevem ainda «gold-plated stamper» e «master pulverizado com laca dourada», sem eu ter aberto essas páginas. Só uma fonte aberta descreve o material (Spragg), por isso a confiança é média."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "Colorado e Spragg confirmam a cópia pintada a ouro; RIAA 1958 com duas fontes lidas; «maciço» não é defensável.",
+      "data": "2026-11-13"
+    },
     "editor": null
   },
   "estado": "em_verificacao",
@@ -85,6 +89,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte dennismspragg.com"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []

@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000077",
   "topic": "Geography",
-  "subtopic": "ilhas / fronteiras",
+  "subtopic": "Fronteiras curiosas",
   "text": {
     "pt-PT": {
       "question": "A fronteira que atravessa o ilhéu báltico de Märket foi redesenhada nos anos 1980. Com que objetivo?",
@@ -11,7 +11,17 @@
         "Pôr o farol finlandês em território da Finlândia",
         "Separar as zonas de pesca dos dois países"
       ],
-      "explanation": "A fronteira dividia o ilhéu ao meio, mas o farol que a Finlândia construiu em 1885 ficou na parte sueca. Uma revisão da fronteira nos anos 1980 traçou nova linha para o farol ficar em território finlandês."
+      "explanation": "Para pôr o farol finlandês em território da Finlândia: a fronteira dividia o ilhéu ao meio, mas o farol que a Finlândia construiu em 1885 ficara na parte sueca. Uma revisão nos anos 1980 traçou nova linha."
+    },
+    "en-US": {
+      "question": "The border that runs through the Baltic islet of Märket was redrawn in the 1980s. What was the purpose?",
+      "options": [
+        "To give Sweden the islet's only anchorage",
+        "To follow the land uplift after the ice melted",
+        "To put the Finnish lighthouse on Finnish territory",
+        "To separate the two countries' fishing zones"
+      ],
+      "explanation": "To put the Finnish lighthouse on Finnish territory: the border split the islet in half, but the lighthouse Finland built in 1885 had ended up on the Swedish side. A revision in the 1980s drew a new line."
     }
   },
   "correct": 2,
@@ -65,7 +75,17 @@
       "notas": "Li o relatorio da comissao parlamentar sueca (data.riksdagen.se, LU 1984/85:16): 'Finland uppförde år 1885 en fyr ... Härigenom kommer en av Finland år 1885 uppförd fyr, som hittills legat på den svenska delen av skäret, att ligga på den finländska sidan om den nya gränsen'; a fronteira 'går över skärets mittpunkt'; nao ha 'riktig hamnplats' (ancoradouro: distrator 0 e falso). Li tambem a proposic",
       "data": "2026-11-13"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado igual (100 caracteres). Explicação começa agora pela resposta, 2 frases, sem factos novos.",
+      "data": "2026-11-13"
+    },
+    "tradutor": {
+      "data": "2026-11-13",
+      "notas": "Pergunta reescrita: \"The border that runs through\" substitui \"crossing\" para evitar a leitura de posto fronteiriço. Opções e explicação inalteradas. \"ilhéu\" como \"islet\" (a ficha usa \"skerry\"). Märket mantém a grafia original."
+    }
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -95,6 +115,30 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "\"ilhéu\" traduzido como \"islet\" (a ficha usa \"skerry\"; \"islet\" é mais comum num quiz). Märket mantém a grafia original. \"subida do solo após o degelo\" passa a \"land uplift after the ice melted\" (rebound pós-glaciar)."
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"explicação\", \"idioma\": \"en-US\", \"detalhe\": \"A explicação en-US está em falta. Não dá para confirmar que diz o mesmo que a pt-PT (farol de 1885 na parte sueca, revisão nos anos 1980) e a explicação é obrigatória.\"}, {\"onde\": \"pergunta\", \"idioma\": \"en-US\", \"detalhe\": \"'The border crossing the Baltic islet' pode ler-se como 'border crossing' (posto fronteiriço), o que torna a frase ambígua. 'redesigned' é um calque de 'redesenhada'. Em inglês americano natural seria 'was redrawn'.\"}]"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Pergunta reescrita: \"The border that runs through\" substitui \"crossing\" para evitar a leitura de posto fronteiriço. Opções e explicação inalteradas. \"ilhéu\" como \"islet\" (a ficha usa \"skerry\"). Märket mantém a grafia original."
     }
   ],
   "etiquetas": []

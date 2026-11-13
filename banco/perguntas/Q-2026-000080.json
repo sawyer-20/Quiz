@@ -6,15 +6,15 @@
     "pt-PT": {
       "question": "No pátio de cortejo do pássaro-jardineiro-grande, onde ficam os objetos mais pequenos, vistos pela fêmea?",
       "options": [
-        "Junto à entrada do corredor, os maiores mais longe",
-        "Misturados ao acaso por todo o pátio",
+        "No fundo do pátio, os maiores junto à entrada",
         "Em anel à volta do ninho, todos do mesmo tamanho",
-        "No fundo do pátio, os maiores junto à entrada"
+        "Junto à entrada do corredor, os maiores mais longe",
+        "Misturados ao acaso por todo o pátio"
       ],
-      "explanation": "Os machos mantêm um gradiente de tamanhos: objetos pequenos perto da entrada do corredor e cada vez maiores mais longe. Quando os investigadores o inverteram, os machos repuseram-no e os que criam melhor esse efeito visual, da vista da fêmea, tiveram mais sucesso a acasalar."
+      "explanation": "Os machos mantêm um gradiente de tamanhos: objetos pequenos perto do corredor de onde a fêmea observa e objetos cada vez maiores mais longe. Quando o biólogo John Endler e colegas trocaram de lugar os objetos grandes e pequenos, os machos repuseram o gradiente em cerca de três dias. Segundo Kelley e Endler (Science, 2012), os machos cuja disposição criava melhor a ilusão de perspetiva, vista da posição da fêmea, tiveram mais sucesso a acasalar."
     }
   },
-  "correct": 0,
+  "correct": 2,
   "difficulty": 4,
   "valid_until": null,
   "daily_eligible": true,
@@ -40,26 +40,10 @@
       "excerto": "Male great bowerbirds actively maintain size-distance gradients of objects on their bower courts that create forced-perspective illusions for females viewing their displays from within the bower avenue.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5319334/",
-      "dominio": "nih.gov",
-      "titulo": "How do great bowerbirds construct perspective illusions? (Royal Society Open Science, 2017, via PMC)",
-      "nivel": 1,
-      "excerto": "Males placed the first 10 objects in the half of the court closest to the avenue... (artigo sobre o gradiente positivo tamanho-distância: objetos menores junto à entrada do corredor, maiores mais longe)",
-      "consultada_em": "2026-11-13",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Junto à entrada do corredor, os maiores mais longe",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "nih.gov",
-      "data": "2026-11-13",
-      "notas": "Li o PMC, mas o excerto que o leitor devolveu só cobre a reconstrução do pátio. A frase explícita do gradiente (menores junto ao corredor, tamanho a crescer com a distância) vem do resumo da pesquisa, não de um trecho que eu tenha lido na página. Dos mesmos autores do trabalho da Science a evitar, mas é um artigo diferente e noutra entidade (Royal Society, Current Biology). Outras opções excluídas: anel de objetos iguais e objetos misturados ao acaso contrariam o gradiente. A opção «maiores junto à entrada» é o inverso do gradiente. Ilusão de perspetiva forçada: a fêmea vê os objetos com tamanho aparente uniforme."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -85,6 +69,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte nih.gov"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (ciclo único)"
     }
   ],
   "etiquetas": []

@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000052",
   "topic": "World History",
-  "subtopic": "grandes acontecimentos",
+  "subtopic": "Egiptologia e a Pedra de Roseta",
   "text": {
     "pt-PT": {
       "question": "Em 1799 ninguém lia os hieróglifos. Que língua da Pedra de Roseta os estudiosos já sabiam ler e serviu de chave?",
@@ -12,6 +12,16 @@
         "Latim"
       ],
       "explanation": "A Pedra de Roseta traz o mesmo decreto em hieróglifos, demótico e grego antigo. Como os estudiosos já liam grego, o texto grego serviu de ponto de partida para decifrar as duas escritas egípcias."
+    },
+    "en-US": {
+      "question": "In 1799, no one could read hieroglyphs. Which language on the Rosetta Stone could scholars already read, giving them the key?",
+      "options": [
+        "Phoenician",
+        "Ancient Greek",
+        "Hebrew",
+        "Latin"
+      ],
+      "explanation": "The Rosetta Stone carries the same decree in hieroglyphs, Demotic, and ancient Greek. Because scholars already read Greek, the Greek text served as the starting point for deciphering the two Egyptian scripts."
     }
   },
   "correct": 1,
@@ -55,7 +65,17 @@
       "notas": "Smithsonian Magazine aberta e lida: «scholars at the time knew ancient Greek and could therefore piece together the hieroglyphic translation based on the Greek message»; a pedra tem o mesmo decreto em hieróglifos, demótico e grego antigo; encontrada em julho de 1799. Fenício, hebraico e latim não aparecem na pedra, logo não há segunda resposta defensável (a pergunta pede uma língua DA Pedra de Ros",
       "data": "2026-11-12"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Sem alterações; enunciado com cerca de 112 caracteres, dentro do alvo.",
+      "data": "2026-11-13"
+    },
+    "tradutor": {
+      "data": "2026-11-13",
+      "notas": "Corrigido: removido o prefixo 'Ancient Greek.'; explicação segue o pt-PT. Pergunta e opções iguais à versão anterior."
+    }
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -85,6 +105,30 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Pedra de Roseta = Rosetta Stone; 'demótico' = Demotic. Explicação começa pela resposta."
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"explicação\", \"idioma\": \"en-US\", \"detalhe\": \"A explicação en-US começa por «Ancient Greek.», um fragmento que não existe no pt-PT. Acrescenta texto e repete a resposta certa. Com a frase seguinte, passa a ter 2 frases, e o pt-PT tem 1 só frase de abertura equivalente. Os dois textos têm de dizer o mesmo, sem nada a mais.\"}]"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Corrigido: removido o prefixo 'Ancient Greek.'; explicação segue o pt-PT. Pergunta e opções iguais à versão anterior."
     }
   ],
   "etiquetas": [

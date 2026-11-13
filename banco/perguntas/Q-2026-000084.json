@@ -4,17 +4,17 @@
   "subtopic": "recordes / estatísticas",
   "text": {
     "pt-PT": {
-      "question": "No Áustria 7–5 Suíça (Mundial de 1954), o jogo com mais golos da história, quantos foram marcados só na 1.ª parte?",
+      "question": "No Áustria 7–5 Suíça (Mundial de 1954), o jogo com mais golos de todos os Mundiais, quantos foram marcados só na 1.ª parte?",
       "options": [
-        "7",
         "10",
         "9",
-        "8"
+        "8",
+        "7"
       ],
-      "explanation": "A Suíça chegou a vencer por 3–0 aos 19 minutos, mas a Áustria virou para 5–3 aos 35 e foi para o intervalo a ganhar por 5–4: nove golos numa só parte, em Lausana, com temperaturas perto dos 40 graus."
+      "explanation": "A Suíça chegou a vencer por 3–0, mas a Áustria virou o jogo e foi para o intervalo a ganhar por 5–4: nove golos numa só parte, em Lausana, num dia de calor extremo, com temperaturas perto dos 40 graus."
     }
   },
-  "correct": 2,
+  "correct": 1,
   "difficulty": 4,
   "valid_until": null,
   "daily_eligible": true,
@@ -41,24 +41,17 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://www.thesoccerworldcups.com/games/1954_austria_switzerland.php",
-      "dominio": "thesoccerworldcups.com",
-      "titulo": "Austria 7 vs. Switzerland 5 at the 1954 World Cup, Match Details",
+      "url": "https://fourfourtwo.com/features/what-is-the-highest-scoring-world-cup-match-ever",
+      "dominio": "fourfourtwo.com",
+      "titulo": "What is the highest-scoring World Cup match ever? | FourFourTwo",
       "nivel": 2,
-      "excerto": "Goals: 16' Ballaman, 17' Huegi, 19' Huegi, 25' Wagner, 26' R. Koerner, 27' Wagner, 32' Ocwirk, 34' R. Koerner, 39' Ballaman, 53' Wagner, 58' Huegi, 76' Probst",
+      "excerto": "Austria managed to bounce back from this hammering with five goals of their own - all within the first half.",
       "consultada_em": "2026-11-13",
-      "papel": "verificador"
+      "papel": "advogado"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "9",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "thesoccerworldcups.com",
-      "data": "2026-11-13",
-      "notas": "Contei os golos até ao minuto 45: 16', 17', 19', 25', 26', 27', 32', 34' e 39', ou seja 9 golos (4 suíços, 5 austríacos), com 3 na 2.ª parte (53', 58', 76'). Isto coincide com o intervalo de 5-4 que os resultados de pesquisa e a Wikipédia (só pista) indicam. A conta é minha a partir da lista de minutos; a ESPN abriu mas sem excerto útil. Opções 7, 8 e 10 excluídas. Que seja o jogo com mais golos num Mundial não foi verificado por mim."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -84,6 +77,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte thesoccerworldcups.com"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (ciclo único)"
     }
   ],
   "etiquetas": []

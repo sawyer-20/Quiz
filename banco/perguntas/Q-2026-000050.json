@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000050",
   "topic": "Science",
-  "subtopic": "corpo humano",
+  "subtopic": "Anatomia humana",
   "text": {
     "pt-PT": {
       "question": "Qual destes ossos é o mais longo do corpo humano?",
@@ -12,6 +12,16 @@
         "Rádio"
       ],
       "explanation": "O fémur, o osso da coxa, é o mais longo, o mais pesado e o mais forte do corpo humano. Liga a bacia ao joelho, onde articula com a tíbia e a rótula, e suporta o peso do tronco ao andar."
+    },
+    "en-US": {
+      "question": "Which of these bones is the longest in the human body?",
+      "options": [
+        "Femur",
+        "Humerus",
+        "Tibia",
+        "Radius"
+      ],
+      "explanation": "The femur, or thigh bone, is the longest, heaviest, and strongest bone in the human body. It connects the pelvis to the knee, where it joins the tibia and the kneecap, and it supports the weight of the trunk when walking."
     }
   },
   "correct": 0,
@@ -61,10 +71,25 @@
       "notas": "Li a fonte, que é de nível 2, e só uma. Britannica devolveu 403. A fonte diz que o fémur é o osso mais longo, o que exclui tíbia, úmero e rádio. Facto anatómico estável."
     },
     "advogado": null,
-    "editor": null,
-    "caminho_leve": true
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Sem alterações; já estava curto, em pt-PT e com 2 frases.",
+      "data": "2026-11-13"
+    },
+    "caminho_leve": true,
+    "tradutor": {
+      "data": "2026-11-13",
+      "notas": "Termos anatómicos ingleses correntes (femur, humerus, tibia, radius). 'rótula' = kneecap."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Equivalente. Fémur/Femur, Úmero/Humerus, Tíbia/Tibia, Rádio/Radius correspondem uma a uma.",
+      "data": "2026-11-13"
+    }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -92,10 +117,35 @@
       "evento": "caminho leve (sem advogado do diabo)",
       "agente": "orquestrador",
       "nota": "dificuldade 1, fonte de nível 1 do pesquisador (NIH/NCBI); verificador cego concorda"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Termos anatómicos ingleses correntes (femur, humerus, tibia, radius). 'rótula' = kneecap."
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": [
     "caminho_leve",
     "classico"
-  ]
+  ],
+  "options_lock": "818377c0165a7d7847b18dd188eb5d7d72c31fbb51d7ce4eaead3137d85021e6"
 }

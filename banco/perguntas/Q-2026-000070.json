@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000070",
   "topic": "Football",
-  "subtopic": "regras / competições",
+  "subtopic": "Regras do jogo",
   "text": {
     "pt-PT": {
       "question": "Que associação nacional levou ao IFAB a proposta de criar o pontapé de penálti?",
@@ -11,7 +11,17 @@
         "A Associação de Futebol de Inglaterra (FA)",
         "A Associação de Futebol do País de Gales"
       ],
-      "explanation": "A ideia foi de William McCrum, membro da Irish FA. Segundo a RTÉ, McCrum apresentou-a a Jack Reid, da Irish FA, que a propôs como regra numa reunião do IFAB. O pontapé de penálti entrou depois nas Leis do Jogo."
+      "explanation": "A Irish FA: foi William McCrum, membro da associação, quem teve a ideia. Segundo a RTÉ, apresentou-a a Jack Reid, da Irish FA, que a propôs como regra numa reunião do IFAB; o penálti entrou depois nas Leis do Jogo."
+    },
+    "en-US": {
+      "question": "Which national association brought the proposal to create the penalty kick to the IFAB?",
+      "options": [
+        "The Scottish Football Association",
+        "The Irish Football Association (Irish FA)",
+        "The English Football Association (FA)",
+        "The Football Association of Wales"
+      ],
+      "explanation": "The Irish FA: William McCrum, a member of the association, came up with the idea. According to RTÉ, he presented it to Jack Reid of the Irish FA, who proposed it as a rule at an IFAB meeting; the penalty kick then entered the Laws of the Game."
     }
   },
   "correct": 1,
@@ -65,9 +75,24 @@
       "notas": "Li a RTE: 'McCrum offered his idea of a penalty to Jack Reid of the Irish FA, who in 1890 proposed it as a rule at a meeting of the International Football Association Board'. A pagina da Irish FA (lida) diz 'Irish FA member William McCrum came up with the idea'. A soccerhistory.co.uk (lida): 'The Irish Football Association presented the idea to the International Football Association Board'. As ata",
       "data": "2026-11-13"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado igual. Explicação reduzida de 3 para 2 frases, começando pela resposta; sem factos novos.",
+      "data": "2026-11-13"
+    },
+    "tradutor": {
+      "data": "2026-11-13",
+      "notas": "Nomes das associações na forma inglesa corrente (Scottish FA, English FA, FA of Wales). Mantida a atribuição à RTÉ. \"Laws of the Game\" é o nome oficial das regras do IFAB."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Atribuição «Segundo a RTÉ»/«According to RTÉ» mantida, nomes iguais, 2 frases nas duas explicações, opções equivalentes.",
+      "data": "2026-11-13"
+    }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -107,7 +132,32 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Nomes das associações na forma inglesa corrente (Scottish FA, English FA, FA of Wales). Mantida a atribuição à RTÉ. \"Laws of the Game\" é o nome oficial das regras do IFAB."
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "7345376bf0fd404a553b13609462ff3a9401b0d36cc3d9c94743df940d0e9ac5"
 }

@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000079",
   "topic": "Space",
-  "subtopic": "astronomia histórica",
+  "subtopic": "Galileu e Neptuno",
   "text": {
     "pt-PT": {
       "question": "Nos cadernos de 1612-1613, Galileu registou Neptuno junto a Júpiter. Que corpo julgou ele estar a ver?",
@@ -11,7 +11,17 @@
         "Uma estrela fixa",
         "Um reflexo na lente do telescópio"
       ],
-      "explanation": "Galileu desenhou Neptuno nas suas observações de Júpiter, mas registou-o como estrela fixa. O planeta só foi encontrado em 1846, mais de 200 anos depois, e foi o primeiro localizado por previsão matemática."
+      "explanation": "Uma estrela fixa: Galileu desenhou Neptuno ao observar Júpiter, mas registou-o assim. O planeta só foi encontrado em 1846, mais de 200 anos depois, e foi o primeiro localizado por previsão matemática."
+    },
+    "en-US": {
+      "question": "In his 1612-1613 notebooks, Galileo recorded Neptune near Jupiter. What object did he think he was seeing?",
+      "options": [
+        "A distant comet",
+        "An exploding new star",
+        "A fixed star",
+        "A reflection in the telescope lens"
+      ],
+      "explanation": "A fixed star: Galileo drew Neptune while observing Jupiter, but recorded it that way. The planet was not found until 1846, more than 200 years later, and was the first located by mathematical prediction."
     }
   },
   "correct": 2,
@@ -60,8 +70,22 @@
       "data": "2026-11-12",
       "notas": "Artigo de um professor universitário (Univ. de Melbourne), não é a Nature nem a NASA. Confirma observações de Neptuno em dezembro de 1612 e janeiro de 1613, com o rótulo 'fixa' (estrela fixa). Outras opções (cometa, nova, reflexo na lente) sem apoio na fonte. Ressalva: o autor sugere que Galileo possa ter suspeitado de movimento mais tarde (a 28 de janeiro), mas nunca registou um planeta novo; a pesquisa secundária mostra interpretação contestada. 'Pelo menos inicialmente' acompanha a fonte. Datas exatas não usadas no enunciado, exceto o intervalo 1612-1613, que é confirmado."
     },
-    "advogado": null,
-    "editor": null
+    "advogado": {
+      "aprovado": true,
+      "notas": "NASA (science.nasa.gov/neptune/neptune-facts): 'Galileo recorded Neptune as a fixed star during observations with his small telescope in 1612 and 1613. More than 200 years later, the ice giant became the first planet located through mathematical predictions'; descoberta em 1846 ('since its discovery in 1846'). Jamieson (Univ. de Melbourne, Australian Physics 2009), que li: Galileo usa o rótulo 'fi",
+      "data": "2026-11-13"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Explicação reorganizada para começar pela resposta; mesmos factos, cerca de 200 caracteres. Enunciado igual.",
+      "data": "2026-11-13"
+    },
+    "tradutor": {
+      "data": "2026-11-13",
+      "notas": "'Neptuno' = Neptune. 'nova estrela explosiva' = 'exploding new star' (literal, para não introduzir o termo 'nova'). A explicação começa pela resposta, como o pt-PT. Opção certa no índice 2."
+    }
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -85,6 +109,24 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte unimelb.edu.au"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "'Neptuno' = Neptune. 'nova estrela explosiva' = 'exploding new star' (literal, para não introduzir o termo 'nova'). A explicação começa pela resposta, como o pt-PT. Opção certa no índice 2."
     }
   ],
   "etiquetas": []

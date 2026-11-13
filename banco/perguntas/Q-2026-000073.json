@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000073",
   "topic": "Space",
-  "subtopic": "telescópios",
+  "subtopic": "Telescópio Espacial Hubble",
   "text": {
     "pt-PT": {
       "question": "O espelho principal do Hubble saiu com a curva errada por um erro de 1,3 mm. Em que peça foi o erro?",
@@ -11,7 +11,17 @@
         "Na espessura do vidro do espelho principal",
         "Na posição do espelho secundário"
       ],
-      "explanation": "O espelho foi polido de acordo com um aparelho de teste, mas este tinha um erro de 1,3 mm no espaçamento de uma lente. Resultado: a borda do espelho ficou demasiado plana e as imagens saíram desfocadas, um defeito que só foi compensado com ótica corretiva instalada em dezembro de 1993."
+      "explanation": "Num aparelho de teste: tinha um erro de 1,3 mm no espaçamento de uma lente, e o espelho foi polido de acordo com ele. A borda ficou demasiado plana e as imagens desfocadas, até a ótica corretiva de dezembro de 1993."
+    },
+    "en-US": {
+      "question": "Hubble's primary mirror came out with the wrong curve because of a 1.3 mm error. Which part had the error?",
+      "options": [
+        "The alignment after launch",
+        "A device that tested the mirror's curve",
+        "The thickness of the primary mirror's glass",
+        "The position of the secondary mirror"
+      ],
+      "explanation": "A test device: it had a 1.3 mm error in the spacing of a lens, and the mirror was polished to match it. The edge came out too flat and images were blurred, until the corrective optics of December 1993."
     }
   },
   "correct": 1,
@@ -60,8 +70,22 @@
       "data": "2026-11-13",
       "notas": "Li o relatório oficial da comissão de inquérito (cópia hospedada em governmentattic.org, documento primário, domínio diferente dos proibidos). O erro de 1,3 mm esteve no espaçamento da lente no reflective null corrector, o aparelho de teste usado para dar a forma ao espelho primário. Exclusões: o espelho foi polido na forma errada por causa do teste mal montado, e não por erro na espessura do vidro; o espelho secundário e o alinhamento pós-lançamento não são a causa indicada no relatório. O relatório tem o PDF digitalizado, e o nome do relatório pode aparecer com variações."
     },
-    "advogado": null,
-    "editor": null
+    "advogado": {
+      "aprovado": true,
+      "notas": "Li a NASA (science.nasa.gov, Hubble's Mirror Flaw): 'improperly set up a device used to test its curve... null corrector... a lens spacing error. The spacing was off by 1.3 millimeters', espelho 'too flat away from its center', COSTAR instalado na primeira missão de manutenção, 'December 1993'. O arXiv 1203.0002 confirma o erro de espaçamento de 1,3 mm no null corrector e a Servicing Mission 1 em ",
+      "data": "2026-11-13"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Explicação reorganizada para começar pela resposta; mesmos factos, cerca de 215 caracteres. Enunciado igual.",
+      "data": "2026-11-13"
+    },
+    "tradutor": {
+      "data": "2026-11-13",
+      "notas": "Unidade mantida em mm. A última frase segue o pt-PT à letra («até a ótica corretiva de dezembro de 1993»), que é elíptica (sem verbo); o conferente pode ver. Opção certa no índice 1."
+    }
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -103,6 +127,24 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte governmentattic.org"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Unidade mantida em mm. A última frase segue o pt-PT à letra («até a ótica corretiva de dezembro de 1993»), que é elíptica (sem verbo); o conferente pode ver. Opção certa no índice 1."
     }
   ],
   "etiquetas": []

@@ -63,8 +63,8 @@
     "advogado": null,
     "editor": null
   },
-  "estado": "em_verificacao",
-  "motivo_rejeicao": null,
+  "estado": "rejeitada",
+  "motivo_rejeicao": "facto superado por revisão científica: o relatório de Oxford de 2024 retira a datação de 2017 («pelo menos três épocas»)",
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
   "historico": [
@@ -85,6 +85,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte sciencemuseum.org.uk"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "rejeitada",
+      "agente": "advogado-do-diabo",
+      "nota": "facto superado por revisão científica: o relatório de Oxford de 2024 retira a datação de 2017 («pelo menos três épocas»)"
     }
   ],
   "etiquetas": []

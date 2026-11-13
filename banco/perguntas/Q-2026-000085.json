@@ -16,7 +16,7 @@
   },
   "correct": 1,
   "difficulty": 4,
-  "valid_until": "2027-10-28",
+  "valid_until": null,
   "daily_eligible": false,
   "sources": [
     "https://gamehistory.org/dmca-2024-statement/",
@@ -60,7 +60,11 @@
       "data": "2026-11-13",
       "notas": "Li a recomendação oficial da Registadora (copyright.gov, PDF), que confirma que o Gabinete não recomenda a expansão das classes 6(a) e 6(b) (preservação de programas e videojogos), mas a secção 6(b) em si (p. 163 em diante) ficou fora do texto que o leitor devolveu. A recusa específica do acesso remoto vem da imprensa (VGC) e de resultados de pesquisa que citam a decisão. Por isso é média. Opções excluídas: a preservação por bibliotecas e a emulação nas instalações foram mantidas pela renovação da isenção existente (Finnegan, resumo da regra final: jogos sem suporte de servidor, para jogo individual e preservação). Vender cópias digitais ao público nunca esteve em causa. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): O Gabinete recusou também alargamentos ligados à limitação de utilizador único e à premissa de acesso nas instalações. A opção «dar acesso remoto a investigadores» é a que coincide com o pedido recusado."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "VGHF e infoDOCKET concordam: recusa do acesso remoto a investigadores, outubro de 2024, oposição da ESA; outras opções já eram permitidas.",
+      "data": "2026-11-13"
+    },
     "editor": null
   },
   "estado": "em_verificacao",
@@ -85,6 +89,24 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte videogameschronicle.com"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "valid_until retirado",
+      "agente": "advogado-do-diabo",
+      "nota": "recomendação do advogado: facto histórico fechado; a data era estimativa sem fonte"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "valid_until retirado",
+      "agente": "advogado-do-diabo",
+      "nota": "recomendação do advogado: facto histórico fechado; a data era estimativa sem fonte"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []

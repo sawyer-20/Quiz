@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000056",
   "topic": "Nature & Animals",
-  "subtopic": "plantas",
+  "subtopic": "Botânica de climas extremos",
   "text": {
     "pt-PT": {
       "question": "Quantas folhas permanentes tem, durante toda a vida, a Welwitschia mirabilis, planta do deserto do Namibe?",
@@ -12,10 +12,20 @@
         "Uma"
       ],
       "explanation": "A Welwitschia só produz duas folhas, que crescem continuamente a partir da base da planta. Rasgam-se e desfiam-se com o tempo, mas são as mesmas durante toda a vida da planta, que pode viver séculos."
+    },
+    "en-US": {
+      "question": "How many permanent leaves does Welwitschia mirabilis, a plant of the Namib Desert, have throughout its entire life?",
+      "options": [
+        "Two",
+        "Four",
+        "Twelve",
+        "One"
+      ],
+      "explanation": "Welwitschia has just two leaves, which grow continuously from the base of the plant. They split and fray with age, but they are the same two leaves for the plant's whole life, which can last centuries."
     }
   },
   "correct": 0,
-  "difficulty": 2,
+  "difficulty": 3,
   "valid_until": null,
   "daily_eligible": true,
   "sources": [
@@ -65,9 +75,24 @@
       "notas": "Li o Cornell e o Guinness. O Cornell diz «individual plants will only ever grow two leaves… these two leaves will endure throughout the life of the plant», cresce a partir do meristema basal, as folhas «twist, split, and fray», e os exemplares maiores podem passar de 1500 anos. O Guinness diz «Each plant produces only two leaves… and never sheds them» e dá 500-600 anos para os exemplares pequenos.",
       "data": "2026-11-12"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Texto igual. Dificuldade subida de 2 para 3: poucos conhecem a planta, e só a opção certa e a «Uma» são plausíveis para quem não a conhece.",
+      "data": "2026-11-13"
+    },
+    "tradutor": {
+      "data": "2026-11-13",
+      "notas": "'deserto do Namibe' = Namib Desert (forma inglesa corrente). A explicação começa pelo sujeito e não por 'Two' para caber em 2 frases; a resposta está logo na primeira frase."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Equivalente. Duas/Two, Quatro/Four, Doze/Twelve, Uma/One, pela mesma ordem.",
+      "data": "2026-11-13"
+    }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -107,7 +132,32 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "'deserto do Namibe' = Namib Desert (forma inglesa corrente). A explicação começa pelo sujeito e não por 'Two' para caber em 2 frases; a resposta está logo na primeira frase."
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "fe9beb8f8b46ab4f32d7f0569b7cf62ba4ace03cea03c884e6050ceb436c256c"
 }

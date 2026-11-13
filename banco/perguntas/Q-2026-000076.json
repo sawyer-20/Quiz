@@ -40,15 +40,31 @@
       "excerto": "ZERO, like its synonym CIPHER, derives from the Sanskrit sunya. ... The first step was the transcription of the Sanskrit word meaning \"void\" into Arabic as as-sifr or sifr.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.newworldencyclopedia.org/entry/0_(number)",
+      "dominio": "newworldencyclopedia.org",
+      "titulo": "0 (number) - New World Encyclopedia",
+      "nivel": 2,
+      "excerto": "The word zero comes through the Arabic literal translation of the Sanskrit śūnya (शून्य), meaning void or empty, into ṣifr (صفر) meaning empty or vacant.",
+      "consultada_em": "2026-11-13",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Vazio",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "newworldencyclopedia.org",
+      "data": "2026-11-13",
+      "notas": "Li uma enciclopédia (nível 2). Nas pesquisas, a Britannica de 1911 diz que 'sifr' significava literalmente 'uma coisa vazia', e o Dictionary.com e o Wiktionary dão 'empty' e calque de śūnya, mas só abri a New World Encyclopedia (Wikipédia usada só como pista). A resposta 'Vazio' (void/empty) é a tradução de śūnya. Falta uma segunda fonte aberta, por isso a confiança é média. O ocean.si.edu e o royalsocietypublishing.org não foram acessíveis. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Há uma leitura minoritária (dois artigos arXiv) segundo a qual 'sifr' já existia em árabe antes do zero e não seria tradução de śūnya. As outras opções (círculo, pedra de contar, ponto) não são defensáveis: nenhuma fonte as associa a śūnya."
+    },
     "advogado": null,
     "editor": null
   },
-  "estado": "em_verificacao",
-  "motivo_rejeicao": null,
+  "estado": "rejeitada",
+  "motivo_rejeicao": "esgotou o ciclo de correção: 2.ª passagem do advogado ainda reprovou (detalhes de redação/atribuição)",
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
   "historico": [
@@ -75,6 +91,18 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (ciclo único)"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte newworldencyclopedia.org"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "rejeitada",
+      "agente": "advogado-do-diabo",
+      "nota": "esgotou o ciclo de correção: 2.ª passagem do advogado ainda reprovou (detalhes de redação/atribuição)"
     }
   ],
   "etiquetas": []

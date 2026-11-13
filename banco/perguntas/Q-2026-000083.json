@@ -6,15 +6,15 @@
     "pt-PT": {
       "question": "Que pessoa tinham os estúdios de contratar, nos primeiros tempos, para poderem usar o sistema de cor Technicolor?",
       "options": [
-        "Edith Head, a figurinista",
-        "Cedric Gibbons, o diretor artístico",
+        "Gregg Toland, o diretor de fotografia",
         "Natalie Kalmus, a consultora de cor",
-        "Gregg Toland, o diretor de fotografia"
+        "Edith Head, a figurinista",
+        "Cedric Gibbons, o diretor artístico"
       ],
-      "explanation": "Para alugar o equipamento Technicolor, Hollywood tinha de contratar Natalie Kalmus, mulher do fundador. Planeava as cores de cada cena, cenário e personagem e creditada em mais de 400 títulos, muitas vezes contra a vontade dos realizadores."
+      "explanation": "Nos primeiros tempos da Technicolor, os estúdios que queriam usar o sistema tinham de contratar Natalie Kalmus, casada com Herbert Kalmus, um dos fundadores da empresa. Era a consultora de cor que aparecia creditada na maioria dos filmes e supervisionou centenas de títulos. Segundo a própria, preparava um mapa de cores para cada cena, cenário e personagem. Segundo o museu ACMI, o seu papel era muitas vezes mal recebido por realizadores e estúdios."
     }
   },
-  "correct": 2,
+  "correct": 1,
   "difficulty": 4,
   "valid_until": null,
   "daily_eligible": true,
@@ -40,26 +40,10 @@
       "excerto": "Só vista nos resultados de pesquisa, não lida por mim; o verificador deve procurar uma segunda fonte independente e lida (Technicolor, Academia, museu).",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://www.filmatlas.com/entry/529",
-      "dominio": "filmatlas.com",
-      "titulo": "Three-Color Technicolor (1932–1955), Film Atlas",
-      "nivel": 1,
-      "excerto": "Technicolor provided color consultants (headed by Natalie Kalmus) to each production... This was stipulated by contract in the early days of the Technicolor between Herbert Kalmus and the production companies.",
-      "consultada_em": "2026-11-13",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Natalie Kalmus, a consultora de cor",
-      "concorda": true,
-      "confianca": "alta",
-      "dominio": "filmatlas.com",
-      "data": "2026-11-13",
-      "notas": "A fonte confirma a exigência contratual de ter consultor de cor da Technicolor, com Natalie Kalmus à cabeça. Toland (diretor de fotografia), Edith Head (figurinista) e Gibbons (diretor artístico) não são mencionados como exigência contratual. Nota: o enunciado diz «contratar» e a fonte diz que a Technicolor fornecia o consultor por contrato; o sentido é equivalente para a pergunta. O artigo da Project MUSE pedia verificação e não foi lido."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -85,6 +69,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte filmatlas.com"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (ciclo único)"
     }
   ],
   "etiquetas": []

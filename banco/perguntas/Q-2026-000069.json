@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000069",
   "topic": "Music",
-  "subtopic": "compositores",
+  "subtopic": "Música clássica russa",
   "text": {
     "pt-PT": {
       "question": "Quem pediu a Prokofiev, em 1936, «Pedro e o Lobo» para ensinar às crianças os instrumentos da orquestra?",
@@ -11,7 +11,17 @@
         "Nadezhda Krupskaya, pedagoga e dirigente comunista",
         "Natalya Sats, diretora de um teatro infantil"
       ],
-      "explanation": "Foi Natalya Sats, que dirigia um teatro infantil em Moscovo, quem pediu a Prokofiev uma peça para ensinar às crianças os instrumentos da orquestra. Prokofiev escreveu «Pedro e o Lobo» para o teatro dela."
+      "explanation": "Natalya Sats, diretora de um teatro infantil em Moscovo, pediu a Prokofiev uma peça para ensinar às crianças os instrumentos da orquestra. Ele escreveu «Pedro e o Lobo» para o teatro dela."
+    },
+    "en-US": {
+      "question": "Who asked Prokofiev in 1936 to write \"Peter and the Wolf\" to teach children the instruments of the orchestra?",
+      "options": [
+        "Galina Ulanova, ballerina",
+        "Anna Akhmatova, poet",
+        "Nadezhda Krupskaya, educator and Communist leader",
+        "Natalya Sats, director of a children's theater"
+      ],
+      "explanation": "Natalya Sats, director of a children's theater in Moscow, asked Prokofiev for a piece to teach children the instruments of the orchestra. He wrote \"Peter and the Wolf\" for her theater."
     }
   },
   "correct": 3,
@@ -65,9 +75,24 @@
       "notas": "Li o PDF da Library of Congress (nivel 1): 'educator Natalya Sats asked him to write a piece that would teach instruments of the orchestra to children, for her Central Children's Theatre', em 1936. A Boosey (editora, lida) diz que a obra foi escrita 'for Natalia Sats's Moscow Children's Musical Theatre' (apoia 'para o teatro dela', nao o 'pediu'). A ficha Wise Music (editora, lida): 'Commissioned ",
       "data": "2026-11-13"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado igual (105 caracteres). Explicação reordenada para começar pela resposta; sem factos novos.",
+      "data": "2026-11-13"
+    },
+    "tradutor": {
+      "data": "2026-11-13",
+      "notas": "Opção 3 (certa) mantém a posição. \"Moscovo\" passa a Moscow. \"Peter and the Wolf\" é a forma inglesa corrente do título. \"teatro infantil\" passa a \"children's theater\" (grafia americana). A ficha refere o Central Children's Theatre, mas o pt-PT não o nomeia, por isso não o acrescentei."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Textos equivalentes, opções alinhadas uma a uma, explicação com 2 frases, opções até 60 caracteres, sem brasileirismos.",
+      "data": "2026-11-13"
+    }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -107,7 +132,32 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Opção 3 (certa) mantém a posição. \"Moscovo\" passa a Moscow. \"Peter and the Wolf\" é a forma inglesa corrente do título. \"teatro infantil\" passa a \"children's theater\" (grafia americana). A ficha refere o Central Children's Theatre, mas o pt-PT não o nomeia, por isso não o acrescentei."
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "73cf93f1c1531d626bf4260afb10acd8ea9cc83ba42a30105f9c20bf0b68cc0a"
 }
