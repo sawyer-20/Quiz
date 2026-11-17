@@ -67,11 +67,31 @@
       "excerto": "It was a publicity stunt from RCA Victor who literally sprayed a master copy of the record with gold lacquer after the record sold a whopping 1.2 million copies.",
       "consultada_em": "2026-11-17",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.dennismspragg.com/chattanooga-choo-choo/",
+      "dominio": "dennismspragg.com",
+      "titulo": "Chattanooga Choo Choo - the first gold record (Dennis M. Spragg)",
+      "nivel": 2,
+      "excerto": "RCA Victor-Bluebird records awarded Miller with a gold-painted and framed copy of the 78rpm disc ... The gold record ... is permanently preserved by the Glenn Miller Collections of the American Music Research Center at the University of Colorado Boulder.",
+      "consultada_em": "2026-11-17",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
-    "advogado": null
+    "verificador": {
+      "resposta_texto": "Uma cópia do disco pulverizada com tinta dourada",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "dennismspragg.com",
+      "data": "2026-11-17",
+      "notas": "Spragg e MusicRow (https://musicrow.com/2016/05/glenn-millers-chattanooga-choo-choo-celebrates-75-years/) dizem que era uma cópia do disco de 78 rpm pintada de dourado. Isto exclui o ouro maciço e o latão moldado. 'Pulverizada' é uma inferência pequena a partir de 'pintado'. Não encontrei fonte de nível 1 ou 2 fora de colorado.edu que reproduza a posição da universidade. Por isso a confiança é média e 'revestida a folha de ouro' fica como alternativa defensável. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): A atribuição 'segundo a Universidade do Colorado' não foi confirmada pela fonte da universidade (domínio proibido). Spragg é o historiador das coleções Glenn Miller da universidade, mas não é a universidade. A placa histórica do condado de Hamilton (hmdb.org, vista só no resumo da pesquisa) diz 'gold-plated', o que apoiaria 'folha de ouro'. Spragg e MusicRow dizem 'pintado'."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "O enunciado atribui a descrição à Universidade do Colorado, o que neutraliza a divergência de fontes: Spragg e MusicRow dizem «pintado» (compatível com a opção certa) e a placa da hmdb diz «gold-plated». Esta última não coincide com «folha de ouro» nem com «ouro maciço», e a hmdb só foi vista em resumo. A explicação já não cita o limiar de 500 000 unidades, que a minha pesquisa mostrou ser disputado para 1958. Para 1958 como início dos discos de ouro oficiais da RIAA, a pesquisa encontrou a página da Universidade do Colorado, a NPR e outros resultados, e o resumo da pesquisa dá-o como facto. 1,2 milhões de vendas está em duas fontes de nível 2 (mixdownmag e Spragg). A data de 10 de fevereiro de 1942 vem da Guinness e já não consta do texto. A explicação tem 2 frases e cerca de 265 caracteres. Não consegui derrubar a pergunta. Só li os resultados da pesquisa, não abri páginas com ler_url.py.",
+      "data": "2026-11-17"
+    }
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -209,6 +229,18 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (2.º ciclo: atribuição/redação, sem mudar facto, resposta nem opções)"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte dennismspragg.com"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []

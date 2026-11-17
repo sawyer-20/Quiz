@@ -49,11 +49,31 @@
       "excerto": "He uses the label \"fixa\" where he plotted the position of Neptune in his notebook (Fig 1).",
       "consultada_em": "2026-11-17",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.discovermagazine.com/did-galileo-spot-neptune-two-centuries-before-its-discovery-38856",
+      "dominio": "discovermagazine.com",
+      "titulo": "Did Galileo Spot Neptune Two Centuries Before Its \"Discovery\"? (Discover Magazine)",
+      "nivel": 2,
+      "excerto": "Its widely accepted that in 1612 and again in 1613 Galileo must have observed Neptune, although at the time he thought it was a star, spotted during his observation of Jupiter's moons.",
+      "consultada_em": "2026-11-17",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
-    "advogado": null,
+    "verificador": {
+      "resposta_texto": "Uma estrela fixa",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "discovermagazine.com",
+      "data": "2026-11-17",
+      "notas": "Mantenho a análise anterior com as opções reordenadas. Li o Discover Magazine (nível 2): Galileu pensava que era uma estrela. A Wikipédia (nível 3) diz 'mistook Neptune for a fixed star', e resumos secundários dizem que o caderno usa o rótulo 'fixa'. Não abri fonte de nível 1 fora dos domínios proibidos que diga explicitamente 'fixa'. As opções nova explosiva, cometa e reflexo na lente não aparecem em nenhuma fonte. Confiança média por ser nível 2 com pequena inferência de 'star' para 'fixed star'. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Jamieson (Melbourne) sugere que Galileu pode ter suspeitado de um planeta (nota de 28 de janeiro de 1613 sobre o movimento da 'estrela' e ponto sem legenda em 6 de janeiro). É uma hipótese e Galileu nunca o afirmou. A resposta mais bem apoiada continua a ser 'estrela fixa'. A formulação 'Como o registou?' não muda o resultado."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "Tentei encontrar uma segunda resposta defensável entre os distratores (nova estrela, cometa, reflexo na lente) e nenhuma fonte os apoia. A controvérsia Kowal e Drake (movimento detetado) está atribuída na explicação e não contradiz o que a pergunta faz, que é como Galileu o registou: como estrela fixa (NASA; Jamieson, etiqueta «fixa» no caderno). Sem datas ou números além de 1612-1613, que a NASA e a Jamieson sustentam. A explicação tem 2 frases e cerca de 280 caracteres. Sem linguagem de dúvida sem atribuição e sem tema sensível. Não reli as páginas nesta passagem final: a avaliação apoia-se nos excertos recebidos.",
+      "data": "2026-11-17"
+    },
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
@@ -155,6 +175,18 @@
       "data": "2026-11-17",
       "evento": "revista pelo editor",
       "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte discovermagazine.com"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
       "nota": ""
     }
   ],
