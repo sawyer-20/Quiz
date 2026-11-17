@@ -12,6 +12,16 @@
         "Dar acesso remoto a investigadores"
       ],
       "explanation": "Acesso remoto a investigadores. Por recomendação da Registadora dos Direitos de Autor, a Bibliotecária manteve em outubro de 2024 a regra que limita o acesso às instalações da biblioteca; não ficou demonstrado que fora delas fosse lícito."
+    },
+    "en-US": {
+      "question": "In 2024, the Librarian of Congress declined to expand the legal exemption for libraries to do what with unavailable video games?",
+      "options": [
+        "Let people play them on library premises",
+        "Sell digital copies to the public",
+        "Keep preservation copies",
+        "Give researchers remote access"
+      ],
+      "explanation": "Remote access for researchers. On the Register of Copyrights' recommendation, the Librarian kept the October 2024 rule limiting access to library premises; it wasn't shown that off-premises access would be lawful."
     }
   },
   "correct": 3,
@@ -98,6 +108,10 @@
       "alteracao_factual": false,
       "notas": "Enunciado encurtado: 'já não disponíveis no mercado' passou a 'indisponíveis' (sentido igual; a pergunta e as opções não mudam). Explicação começa agora pela resposta e foi condensada, sem factos novos. Dificuldade 4 mantida.",
       "data": "2026-11-17"
+    },
+    "tradutor": {
+      "data": "2026-11-17",
+      "notas": "«Indisponíveis» traduzido como «unavailable», sem acrescentar «out-of-print». «Registadora dos Direitos de Autor» traduzido como «Register of Copyrights», o cargo oficial. «Fora delas fosse lícito» traduzido como «off-premises access would be lawful», seguindo o excerto do Federal Register («likely to be noninfringing»). A opção «Jogá-los nas instalações da biblioteca» passou a «Let people play them on library premises» para soar natural."
     }
   },
   "estado": "em_verificacao",
@@ -260,6 +274,12 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "«Indisponíveis» traduzido como «unavailable», sem acrescentar «out-of-print». «Registadora dos Direitos de Autor» traduzido como «Register of Copyrights», o cargo oficial. «Fora delas fosse lícito» traduzido como «off-premises access would be lawful», seguindo o excerto do Federal Register («likely to be noninfringing»). A opção «Jogá-los nas instalações da biblioteca» passou a «Let people play them on library premises» para soar natural."
     }
   ],
   "etiquetas": []

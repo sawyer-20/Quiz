@@ -12,6 +12,16 @@
         "10"
       ],
       "explanation": "Nove golos: a Suíça chegou a vencer por 3–0, mas a Áustria virou o jogo e foi para o intervalo a ganhar por 5–4. Com 12 golos, é o jogo com mais golos da história dos Mundiais, segundo a FIFA."
+    },
+    "en-US": {
+      "question": "In Austria's 7–5 win over Switzerland in the 1954 World Cup quarterfinals, how many goals were scored in the first half alone?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "explanation": "Nine goals: Switzerland led 3–0 at one point, but Austria turned the game around and went into halftime ahead 5–4. With 12 goals, it is the highest-scoring match in World Cup history, according to FIFA."
     }
   },
   "correct": 2,
@@ -88,6 +98,10 @@
       "alteracao_factual": false,
       "notas": "Sem alterações: já cumpre pt-PT, limite de caracteres e começa pela resposta. Dificuldade 4 mantida (número exato de golos na 1.ª parte, só adivinhável).",
       "data": "2026-11-17"
+    },
+    "tradutor": {
+      "data": "2026-11-17",
+      "notas": "«Áustria 7–5 Suíça» reformulado como «Austria's 7–5 win over Switzerland» (o resultado é o mesmo). «1.ª parte» passou a «first half» e «intervalo» a «halftime». A atribuição à FIFA foi mantida."
     }
   },
   "estado": "em_verificacao",
@@ -274,6 +288,12 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "«Áustria 7–5 Suíça» reformulado como «Austria's 7–5 win over Switzerland» (o resultado é o mesmo). «1.ª parte» passou a «first half» e «intervalo» a «halftime». A atribuição à FIFA foi mantida."
     }
   ],
   "etiquetas": []

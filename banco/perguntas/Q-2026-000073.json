@@ -12,6 +12,16 @@
         "Num aparelho que testava a curva do espelho"
       ],
       "explanation": "Num aparelho de teste, o corretor nulo: uma lente com 1,3 mm de erro no espaçamento levou a um espelho demasiado plano longe do centro."
+    },
+    "en-US": {
+      "question": "Hubble's primary mirror came out with the wrong shape because of a 1.3 mm error. Where did the error occur?",
+      "options": [
+        "In the alignment after launch",
+        "In the thickness of the primary mirror's glass",
+        "In the position of the secondary mirror",
+        "In a device that tested the mirror's curve"
+      ],
+      "explanation": "In a testing device, the null corrector: a lens with a 1.3 mm spacing error led to a mirror that was too flat away from its center."
     }
   },
   "correct": 3,
@@ -71,6 +81,10 @@
       "alteracao_factual": false,
       "notas": "Enunciado inalterado (97 caracteres). Explicação reordenada para começar pela resposta; retirei 'imagens desfocadas' e 'polido de acordo com ele', que não constam dos excertos fornecidos. Dificuldade mantida.",
       "data": "2026-11-17"
+    },
+    "tradutor": {
+      "data": "2026-11-17",
+      "notas": "«Espelho principal» traduzido como «primary mirror» (termo corrente; o excerto da NASA usa «main mirror»). «Corretor nulo» traduzido como «null corrector», como na fonte. 1,3 mm mantido como 1.3 mm, sem conversão."
     }
   },
   "estado": "em_verificacao",
@@ -191,6 +205,12 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "«Espelho principal» traduzido como «primary mirror» (termo corrente; o excerto da NASA usa «main mirror»). «Corretor nulo» traduzido como «null corrector», como na fonte. 1,3 mm mantido como 1.3 mm, sem conversão."
     }
   ],
   "etiquetas": []
