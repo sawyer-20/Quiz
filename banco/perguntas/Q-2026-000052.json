@@ -146,10 +146,14 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "originalidade (definição nova): original",
+      "agente": "originalidade",
+      "nota": "definição de 17/11/2026: ângulo próprio; o agente deixa margem ao Andre para uma leitura mais estrita"
     }
   ],
-  "etiquetas": [
-    "classico"
-  ],
+  "etiquetas": [],
   "options_lock": "03000e8ba73cbffb4e483ab1edc807ba6d68b3cfcf62c3ac6040e8e083e1affc"
 }

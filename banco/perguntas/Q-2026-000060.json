@@ -156,10 +156,14 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "originalidade (definição nova): original",
+      "agente": "originalidade",
+      "nota": "definição de 17/11/2026: nenhuma pergunta de quiz com este enunciado"
     }
   ],
-  "etiquetas": [
-    "classico"
-  ],
+  "etiquetas": [],
   "options_lock": "dd04a62f668775ef6a841b58d86bf4c7bb9e445cf10e120faf1b5f076fc8597e"
 }

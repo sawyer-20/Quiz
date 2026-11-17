@@ -141,6 +141,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "originalidade (definição nova): classico",
+      "agente": "originalidade",
+      "nota": "mantém-se: facto e forma habituais em quizzes"
     }
   ],
   "etiquetas": [
