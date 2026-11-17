@@ -4,7 +4,7 @@
   "subtopic": "Telescópio Espacial Hubble",
   "text": {
     "pt-PT": {
-      "question": "O espelho principal do Hubble saiu com a curva errada por um erro de 1,3 mm. Onde esteve o erro?",
+      "question": "O espelho principal do Hubble saiu com a forma errada por um erro de 1,3 mm. Onde esteve o erro?",
       "options": [
         "No alinhamento após o lançamento",
         "Na espessura do vidro do espelho principal",
@@ -79,7 +79,7 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "Enunciado inalterado (97 caracteres). Explicação reordenada para começar pela resposta; retirei 'imagens desfocadas' e 'polido de acordo com ele', que não constam dos excertos fornecidos. Dificuldade mantida.",
+      "notas": "Enunciado: «com a curva errada» passou a «com a forma errada», o que tira a repetição lexical com a opção certa; o que se pergunta não mudou. A forma bate com a fonte da NASA (wrong shape). Explicação sem alterações (136 caracteres, 1 frase, não repete «curva»). Dificuldade mantida em 3.",
       "data": "2026-11-17"
     },
     "tradutor": {
@@ -222,6 +222,12 @@
       "evento": "conferência recusada",
       "agente": "conferente",
       "nota": "[{\"onde\": \"pergunta\", \"idioma\": \"pt-PT\", \"detalhe\": \"Pista nova: o enunciado diz «curva errada» e a opção certa (3) diz «testava a curva do espelho». A palavra «curva» repete-se no enunciado e na opção certa, o que a torna a opção mais óbvia. No en-US o enunciado usa «wrong shape» e a opção usa «curve», por isso a pista não existe lá. Os dois idiomas ficam assimétricos.\"}]"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
     }
   ],
   "etiquetas": []

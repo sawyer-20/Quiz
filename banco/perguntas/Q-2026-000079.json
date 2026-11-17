@@ -1,17 +1,17 @@
 {
   "id": "Q-2026-000079",
   "topic": "Space",
-  "subtopic": "Galileu e Neptuno",
+  "subtopic": "Descoberta de Neptuno",
   "text": {
     "pt-PT": {
-      "question": "Nos cadernos de Galileu de 1612-1613, um ponto de luz junto a Júpiter é hoje identificado como Neptuno. Como o registou ele?",
+      "question": "Nos cadernos de Galileu de 1612-1613, um ponto de luz junto a Júpiter é hoje identificado como Neptuno. Como o registou?",
       "options": [
         "Uma nova estrela explosiva",
         "Um cometa distante",
         "Um reflexo na lente do telescópio",
         "Uma estrela fixa"
       ],
-      "explanation": "Segundo a NASA, Galileu registou-o como estrela fixa, e o físico David Jamieson nota que a etiqueta «fixa» está nos cadernos. Kowal e Drake defendem que ele chegou a detetar o movimento. A NASA acrescenta que foi o primeiro planeta localizado por previsão matemática."
+      "explanation": "Uma estrela fixa: segundo a NASA, foi assim que Galileu o registou, e o físico David Jamieson nota que a etiqueta «fixa» está nos cadernos, mas Kowal e Drake defendem que ele chegou a detetar o movimento. A NASA diz que foi o primeiro planeta localizado por previsão matemática."
     }
   },
   "correct": 3,
@@ -53,7 +53,14 @@
   ],
   "verificacao": {
     "verificador": null,
-    "advogado": null
+    "advogado": null,
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado: cortei só o «ele» final (redundante), pergunta igual. Explicação reduzida de 3 para 2 frases, cerca de 280 caracteres (contagem manual, convém confirmar com limites.py), com as três atribuições (NASA; Jamieson, etiqueta «fixa»; Kowal e Drake, movimento) e a menção da NASA ao primeiro planeta localizado por previsão matemática. Nenhum facto novo nem retirado. Dificuldade mantida em 3.",
+      "data": "2026-11-17"
+    }
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -143,6 +150,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (2.º ciclo: atribuição/redação, sem mudar facto, resposta nem opções)"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
     }
   ],
   "etiquetas": []
