@@ -12,6 +12,16 @@
         "Uma cópia do disco pintada a ouro"
       ],
       "explanation": "Era uma cópia de «Chattanooga Choo Choo» pintada a ouro, entregue a Miller pela RCA Victor em direto na rádio, a 10 de fevereiro de 1942. Segundo a revista Mixdown, o locutor disse que era «ouro maciço», mas a Universidade do Colorado descreve-o como uma cópia pulverizada com tinta dourada."
+    },
+    "en-US": {
+      "question": "What was the first \"gold record,\" presented to Glenn Miller in 1942, actually made of?",
+      "options": [
+        "A gold-plated vinyl record",
+        "A solid gold record",
+        "A gold-colored brass record",
+        "A copy of the record painted gold"
+      ],
+      "explanation": "It was a copy of \"Chattanooga Choo Choo\" painted gold, presented to Miller by RCA Victor live on the radio on February 10, 1942. According to Mixdown magazine, the announcer said it was \"solid gold,\" but the University of Colorado describes it as a copy sprayed with gold paint."
     }
   },
   "correct": 3,
@@ -89,9 +99,18 @@
       "alteracao_factual": false,
       "notas": "Enunciado intacto. Explicação reduzida a 2 frases (cerca de 292 caracteres): retirei a frase da RIAA/1958 e o pormenor 'emoldurada'; mantive a atribuição à Mixdown e as citações em «». 'chegou a dizer' passou a 'disse' por economia.",
       "data": "2026-11-17"
+    },
+    "tradutor": {
+      "data": "2026-11-17",
+      "notas": "Pergunta com 'actually' para 'na realidade'. Opções iguais às da versão anterior. Aspas « » passadas a aspas retas, com a vírgula dentro. Atribuições mantidas (Mixdown, University of Colorado). Data em formato americano (February 10, 1942). 'revista Mixdown' = Mixdown magazine. Opção certa no índice 3."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Mesmo facto: cópia de «Chattanooga Choo Choo» pintada a ouro, entregue pela RCA Victor em direto na rádio a 10/02/1942. As duas atribuições («segundo a Mixdown» e a Universidade do Colorado) estão iguais nos dois idiomas. As opções 0 a 3 são equivalentes uma a uma (folheado/gold-plated, maciço/solid, latão dourado/gold-colored brass, cópia pintada/copy painted). O pt-PT está correto («em direto», «pulverizada»). O en-US usa a vírgula dentro das aspas, como é norma americana. A explicação tem 2 frases, a pergunta termina em «?» e as opções cabem nos 60 caracteres. Não há pistas novas.",
+      "data": "2026-11-17"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -173,7 +192,26 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Pergunta com 'actually' para 'na realidade'. Opções iguais às da versão anterior. Aspas « » passadas a aspas retas, com a vírgula dentro. Atribuições mantidas (Mixdown, University of Colorado). Data em formato americano (February 10, 1942). 'revista Mixdown' = Mixdown magazine. Opção certa no índice 3."
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "9230a324e25941571bd1eaebca9038b72121c2e47a6ce33c4f71cfcb12cc5b67"
 }

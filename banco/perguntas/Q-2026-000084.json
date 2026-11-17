@@ -11,7 +11,7 @@
         "8",
         "10"
       ],
-      "explanation": "Nove golos: a Suíça chegou a vencer por 3–0, mas a Áustria virou o jogo e foi para o intervalo a ganhar por 5–4. Foi em Lausanne, num dia de calor extremo, com temperaturas perto dos 40 graus Celsius. Com 12 golos, é o jogo com mais golos da história dos Mundiais, segundo a FIFA."
+      "explanation": "Nove golos: a Suíça chegou a vencer por 3–0, mas a Áustria virou o jogo e foi para o intervalo a ganhar por 5–4. Com 12 golos, é o jogo com mais golos da história dos Mundiais, segundo a FIFA."
     }
   },
   "correct": 0,
@@ -57,7 +57,7 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "Só corrigi 'Lausanne' para 'Lausana'. Enunciado e opções intocados; explicação já cumpria 2 frases e o limite de caracteres.",
+      "notas": "Explicação reduzida a 2 frases (cerca de 200 caracteres). Retirei a frase do calor e de Lausanne, o que resolve o anglicismo (seria «Lausana»). Mantive a atribuição «segundo a FIFA». Enunciado e opções intocados.",
       "data": "2026-11-17"
     }
   },
@@ -179,6 +179,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (2.º ciclo: redação/atribuição)"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
     }
   ],
   "etiquetas": []
