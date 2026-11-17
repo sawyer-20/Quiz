@@ -4,17 +4,17 @@
   "subtopic": "Mundiais de futebol",
   "text": {
     "pt-PT": {
-      "question": "No Áustria 7–5 Suíça (Mundial de 1954), o jogo com mais golos de qualquer Mundial até 2026, quantos foram só na 1.ª parte?",
+      "question": "No Áustria 7–5 Suíça, quarto de final do Mundial de 1954, quantos golos foram marcados só na 1.ª parte?",
       "options": [
-        "10",
         "9",
+        "7",
         "8",
-        "7"
+        "10"
       ],
-      "explanation": "Nove golos: a Suíça chegou a vencer por 3–0, mas a Áustria virou o jogo e foi para o intervalo a ganhar por 5–4. Foi em Lausana, num dia de calor extremo, com temperaturas perto dos 40 graus Celsius."
+      "explanation": "Nove golos: a Suíça chegou a vencer por 3–0, mas a Áustria virou o jogo e foi para o intervalo a ganhar por 5–4. Foi em Lausanne, num dia de calor extremo, com temperaturas perto dos 40 graus Celsius. Com 12 golos, é o jogo com mais golos da história dos Mundiais, segundo a FIFA."
     }
   },
-  "correct": 1,
+  "correct": 0,
   "difficulty": 4,
   "valid_until": null,
   "daily_eligible": true,
@@ -48,26 +48,10 @@
       "excerto": "Austria managed to bounce back from this hammering with five goals of their own - all within the first half.",
       "consultada_em": "2026-11-13",
       "papel": "advogado"
-    },
-    {
-      "url": "https://www.rsssf.org/tables/54full.html",
-      "dominio": "rsssf.org",
-      "titulo": "World Cup 1954 finals (RSSSF)",
-      "nivel": 2,
-      "excerto": "26.06.54 (17.00) Lausanne, La Pontaise AUT - SUI 7:5 (5:4) (-32000)",
-      "consultada_em": "2026-11-17",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "9",
-      "concorda": true,
-      "confianca": "alta",
-      "dominio": "rsssf.org",
-      "data": "2026-11-17",
-      "notas": "Ao intervalo 5-4, logo 9 golos na 1.ª parte. A lista de golos do RSSSF (0:1 aos 16', 0:2 aos 17', 0:3 aos 23', depois golos austriacos) é coerente. O athlet.org (AMP) confirma: 'Leading 5-4 at the break'. Duas fontes de acordo. Não verifiquei a afirmação de 'mais golos de qualquer Mundial até 2026'; é conhecida como o recorde, mas não a confirmei nesta sessão."
-    },
+    "verificador": null,
     "advogado": null,
     "editor": {
       "aprovado": true,
@@ -189,6 +173,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte rsssf.org"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (2.º ciclo: redação/atribuição)"
     }
   ],
   "etiquetas": []

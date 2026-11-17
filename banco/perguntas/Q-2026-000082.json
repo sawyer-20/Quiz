@@ -78,7 +78,11 @@
       "data": "2026-11-17",
       "notas": "Lida so uma fonte de nivel 2, especialista e historiador de Glenn Miller. Exclui o ouro maciço, porque o objeto era uma cópia pintada. Latão e vinil folheado nao aparecem em nenhuma fonte. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Uma pesquisa web (nao lida em pagina propria) refere outras descricoes, como estampador dourado com laca ou banhado a ouro. Mas so a fonte lida diz pintada, e nenhuma indica ouro maciço, vinil folheado ou latão."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "Lidas: Colorado (cópia emoldurada pulverizada com tinta dourada, RCA Victor, em direto), Mixdown (locutor Paul Douglas: «gold, solid gold»; «lacquer»), Guinness e dennismspragg.com (10 de fevereiro de 1942, duas fontes independentes). Atribuição à Mixdown e ao Colorado correta. Distratores sem suporte: nenhuma fonte fala em vinil folheado, ouro maciço real ou latão. Sem segunda resposta.",
+      "data": "2026-11-17"
+    },
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
@@ -163,6 +167,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte dennismspragg.com"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []
