@@ -12,10 +12,20 @@
         "Uma cópia do disco fundida em ouro maciço"
       ],
       "explanation": "Segundo a Universidade do Colorado, foi uma cópia do disco pulverizada com tinta dourada; a Guinness World Records diz que a RCA Victor a mandou pulverizar. A oferta seguiu-se a 1,2 milhões de vendas e só em 1958 a RIAA começou a atribuir discos de ouro oficiais."
+    },
+    "en-US": {
+      "question": "According to the University of Colorado, what was the first \"gold record,\" given to Glenn Miller in 1942, made of?",
+      "options": [
+        "A copy of the record covered in gold leaf",
+        "A copy of the record sprayed with gold paint",
+        "A copy of the record molded in polished brass",
+        "A copy of the record cast in solid gold"
+      ],
+      "explanation": "According to the University of Colorado, it was a copy of the record sprayed with gold paint; Guinness World Records says RCA Victor had it sprayed. The award followed 1.2 million sales, and the RIAA only began awarding official gold records in 1958."
     }
   },
   "correct": 1,
-  "difficulty": 3,
+  "difficulty": 4,
   "valid_until": null,
   "daily_eligible": true,
   "sources": [
@@ -91,6 +101,17 @@
       "aprovado": true,
       "notas": "O enunciado atribui a descrição à Universidade do Colorado, o que neutraliza a divergência de fontes: Spragg e MusicRow dizem «pintado» (compatível com a opção certa) e a placa da hmdb diz «gold-plated». Esta última não coincide com «folha de ouro» nem com «ouro maciço», e a hmdb só foi vista em resumo. A explicação já não cita o limiar de 500 000 unidades, que a minha pesquisa mostrou ser disputado para 1958. Para 1958 como início dos discos de ouro oficiais da RIAA, a pesquisa encontrou a página da Universidade do Colorado, a NPR e outros resultados, e o resumo da pesquisa dá-o como facto. 1,2 milhões de vendas está em duas fontes de nível 2 (mixdownmag e Spragg). A data de 10 de fevereiro de 1942 vem da Guinness e já não consta do texto. A explicação tem 2 frases e cerca de 265 caracteres. Não consegui derrubar a pergunta. Só li os resultados da pesquisa, não abri páginas com ler_url.py.",
       "data": "2026-11-17"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado e explicação já estavam em pt-PT correto e dentro dos limites (cerca de 105 e 275 caracteres), por isso ficam iguais. A dificuldade passou de 3 para 4: o público culto sabe que o prémio existe, mas não sabe como era o primeiro, e as quatro opções são plausíveis. Subtema mantido.",
+      "data": "2026-11-17"
+    },
+    "tradutor": {
+      "data": "2026-11-17",
+      "notas": "Resposta certa no índice 1, ordem das opções igual. A pergunta pt-PT pergunta «como era», e o en-US diz «made of», que é mais natural e continua a cobrir as 4 opções (material ou acabamento). Atribuições mantidas (University of Colorado, Guinness World Records). «Disco de ouro» passou a \"gold record\", entre aspas. «Moldada» passou a \"molded\" e «fundida» a \"cast\", como no pt-PT. «Só em 1958 ... começou a atribuir discos de ouro oficiais» passou a \"only began awarding official gold records in 1958\"."
     }
   },
   "estado": "em_verificacao",
@@ -241,6 +262,18 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Resposta certa no índice 1, ordem das opções igual. A pergunta pt-PT pergunta «como era», e o en-US diz «made of», que é mais natural e continua a cobrir as 4 opções (material ou acabamento). Atribuições mantidas (University of Colorado, Guinness World Records). «Disco de ouro» passou a \"gold record\", entre aspas. «Moldada» passou a \"molded\" e «fundida» a \"cast\", como no pt-PT. «Só em 1958 ... começou a atribuir discos de ouro oficiais» passou a \"only began awarding official gold records in 1958\"."
     }
   ],
   "etiquetas": []

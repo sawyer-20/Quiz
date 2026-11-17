@@ -12,6 +12,16 @@
         "Uma estrela fixa"
       ],
       "explanation": "Uma estrela fixa: segundo a NASA, foi assim que Galileu o registou, e o físico David Jamieson nota que a etiqueta «fixa» está nos cadernos, mas Kowal e Drake defendem que ele chegou a detetar o movimento. A NASA diz que foi o primeiro planeta localizado por previsão matemática."
+    },
+    "en-US": {
+      "question": "In Galileo's 1612-1613 notebooks, a point of light near Jupiter is now identified as Neptune. How did he record it?",
+      "options": [
+        "A new exploding star",
+        "A distant comet",
+        "A reflection in the telescope lens",
+        "A fixed star"
+      ],
+      "explanation": "A fixed star: according to NASA, that is how Galileo recorded it, and physicist David Jamieson notes the label \"fixa\" is in the notebooks, but Kowal and Drake argue he did detect its motion. NASA says it was the first planet located by mathematical prediction."
     }
   },
   "correct": 3,
@@ -80,6 +90,10 @@
       "alteracao_factual": false,
       "notas": "Enunciado: cortei só o «ele» final (redundante), pergunta igual. Explicação reduzida de 3 para 2 frases, cerca de 280 caracteres (contagem manual, convém confirmar com limites.py), com as três atribuições (NASA; Jamieson, etiqueta «fixa»; Kowal e Drake, movimento) e a menção da NASA ao primeiro planeta localizado por previsão matemática. Nenhum facto novo nem retirado. Dificuldade mantida em 3.",
       "data": "2026-11-17"
+    },
+    "tradutor": {
+      "data": "2026-11-17",
+      "notas": "Correct answer stays at index 3 (zero-based), the fourth option. Galileo's \"fixa\" label kept in quotes as in the source. \"Neptuno\" became \"Neptune\". \"Nova explosiva\" was rendered as \"A new exploding star\" (a nova/supernova-type event), which keeps the pt-PT sense. \"chegou a detetar\" became \"did detect\", following Kowal and Drake's wording (\"also detected the motion\"). Attributions to NASA, Jamieson, and Kowal and Drake are kept. The explanation is about 270 characters in 2 sentences."
     }
   },
   "estado": "em_verificacao",
@@ -188,6 +202,12 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Correct answer stays at index 3 (zero-based), the fourth option. Galileo's \"fixa\" label kept in quotes as in the source. \"Neptuno\" became \"Neptune\". \"Nova explosiva\" was rendered as \"A new exploding star\" (a nova/supernova-type event), which keeps the pt-PT sense. \"chegou a detetar\" became \"did detect\", following Kowal and Drake's wording (\"also detected the motion\"). Attributions to NASA, Jamieson, and Kowal and Drake are kept. The explanation is about 270 characters in 2 sentences."
     }
   ],
   "etiquetas": []
