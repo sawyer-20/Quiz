@@ -1,19 +1,28 @@
 {
   "id": "Q-2026-000017",
-  "lingua": "pt-PT",
-  "tema": "ciencia",
-  "subtema": "química",
-  "formato": "escolha-multipla",
-  "enunciado": "Segundo a Royal Society of Chemistry, porque é que o hélio, sendo gás, tem o sufixo «-ium», próprio dos metais?",
-  "opcoes": [
-    "Por ser o elemento mais abundante no Sol",
-    "Porque Lockyer, ao dar-lhe o nome, o supôs um metal",
-    "Por ter sido isolado num minério de urânio",
-    "Por conduzir eletricidade como os metais"
+  "topic": "Science",
+  "subtopic": "química",
+  "text": {
+    "pt-PT": {
+      "question": "Segundo a Royal Society of Chemistry, porque é que o hélio, sendo gás, tem o sufixo «-ium», próprio dos metais?",
+      "options": [
+        "Por ser o elemento mais abundante no Sol",
+        "Porque Lockyer, ao dar-lhe o nome, o supôs um metal",
+        "Por ter sido isolado num minério de urânio",
+        "Por conduzir eletricidade como os metais"
+      ],
+      "explanation": "Segundo a Royal Society of Chemistry, Lockyer, ao observar o Sol em 1868, supôs que o novo elemento era um metal e chamou-lhe helium, de Helios (Sol). É um gás quase nada reativo. O Laboratório Nacional de Los Alamos apresenta esse motivo apenas como hipótese."
+    }
+  },
+  "correct": 1,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://periodic-table.rsc.org/element/2/helium",
+    "https://winter.group.shef.ac.uk/webelements/helium/history.html",
+    "https://rce.casadasciencias.org/rceapp/art/2014/187/"
   ],
-  "correta": 1,
-  "explicacao": "Segundo a Royal Society of Chemistry, Lockyer, ao observar o Sol em 1868, supôs que o novo elemento era um metal e chamou-lhe helium, de Helios (Sol). É um gás quase nada reativo. O Laboratório Nacional de Los Alamos apresenta esse motivo apenas como hipótese.",
-  "dificuldade_estimada": 2,
   "fontes": [
     {
       "url": "https://periodic-table.rsc.org/element/2/helium",
@@ -64,8 +73,6 @@
     "advogado": null,
     "editor": null
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
   "estado": "rejeitada",
   "motivo_rejeicao": "2.º ciclo de correção esgotado (regra 14): motivo do sufixo é interpretação (RSC afirma; LANL e Jensen 2004 dizem não documentado); reescrever",
   "lote": "lote-2026-11-06-misto",
@@ -112,7 +119,12 @@
       "evento": "rejeitada",
       "agente": "advogado-do-diabo",
       "nota": "2.º ciclo de correção esgotado (regra 14): motivo do sufixo é interpretação (RSC afirma; LANL e Jensen 2004 dizem não documentado); reescrever"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "só pt-PT (pergunta rejeitada ou em curso)"
     }
-  ],
-  "etiquetas": []
+  ]
 }

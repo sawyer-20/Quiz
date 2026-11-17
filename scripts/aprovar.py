@@ -5,12 +5,13 @@ Uso:
     python3 scripts/aprovar.py Q-2026-000005 [Q-2026-000006 ...]
     python3 scripts/aprovar.py banco/perguntas/Q-2026-000005.json
 
-Para cada pergunta em "em_verificacao":
+Para cada pergunta em "em_verificacao" (com o en-US escrito pelo tradutor e a aprovação do
+conferente: o validar.py recusa a que só existir num idioma):
   1. prepara a versão aprovada (estado "aprovada" e o evento "aprovada por aprovar.py"
      no histórico);
   2. corre o scripts/validar.py sobre essa versão e, se for um clássico, verifica a quota
      de clássicos do banco (máximo 20%, aplicada a partir de 100 perguntas);
-  3. só se tudo passar grava o ficheiro. Se falhar, o ficheiro fica como estava.
+  3. grava as opções aprovadas (options_lock) e só se tudo passar grava o ficheiro. Se falhar, o ficheiro fica como estava.
 
 Sai com código 1 se alguma pergunta não for aprovada.
 """
@@ -26,7 +27,7 @@ from pathlib import Path
 RAIZ = Path(__file__).resolve().parent.parent
 BANCO = RAIZ / "banco" / "perguntas"
 sys.path.insert(0, str(RAIZ / "scripts"))
-from validar import EVENTO_APROVACAO, quota_classicos  # noqa: E402
+from validar import EVENTO_APROVACAO, opcoes_lock, quota_classicos  # noqa: E402
 
 
 def caminho(arg: str) -> Path:
@@ -66,6 +67,7 @@ def aprovar(f: Path) -> bool:
         return False
     c = deepcopy(q)
     c["estado"] = "aprovada"
+    c["options_lock"] = opcoes_lock(c)  # a partir daqui o texto das opções é imutável
     c["historico"].append({"data": date.today().isoformat(), "evento": EVENTO_APROVACAO,
                            "agente": "aprovar.py", "nota": "validar.py sem erros"})
     erros = validar_candidata(c)

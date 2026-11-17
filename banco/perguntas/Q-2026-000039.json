@@ -1,0 +1,214 @@
+{
+  "id": "Q-2026-000039",
+  "topic": "General Knowledge",
+  "subtopic": "recordes",
+  "text": {
+    "pt-PT": {
+      "question": "Até ao fim de 2025, qual destas provas femininas de pista ao ar livre tinha o recorde mundial mais antigo em vigor?",
+      "options": [
+        "400 metros",
+        "800 metros",
+        "200 metros",
+        "1500 metros"
+      ],
+      "explanation": "Os 800 m: o recorde (1:53,28) de Jarmila Kratochvílová, em Munique, a 26 de julho de 1983, era o mais antigo ao ar livre do atletismo. O dela nos 400 m (47,99) foi batido dois anos depois por Marita Koch."
+    },
+    "en-US": {
+      "question": "As of the end of 2025, which of these women's outdoor track events had the oldest world record still standing?",
+      "options": [
+        "400 meters",
+        "800 meters",
+        "200 meters",
+        "1500 meters"
+      ],
+      "explanation": "The 800 m: Jarmila Kratochvílová's record (1:53.28), set in Munich on July 26, 1983, was the oldest outdoor record in athletics. Her 400 m mark (47.99) was broken two years later by Marita Koch."
+    }
+  },
+  "correct": 1,
+  "difficulty": 3,
+  "valid_until": "2026-12-31",
+  "daily_eligible": false,
+  "sources": [
+    "https://worldathletics.org/news/news/30-years-on-jarmila-kratochvilovas-800m-wor",
+    "https://www.guinnessworldrecords.com/world-records/fastest-run-800-metres-female",
+    "https://athleticsweekly.com/news/opinion/the-world-800m-record-that-has-stood-the-test-of-time-1039969804/"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.guinnessworldrecords.com/world-records/fastest-run-800-metres-female",
+      "dominio": "guinnessworldrecords.com",
+      "titulo": "Fastest run 800 metres (female) - Guinness World Records",
+      "nivel": 2,
+      "excerto": "On 26 July 1983, Jarmila Kratochvílová (Czechoslovakia) ran a time of 1 minute 53.28 seconds for the 800 m at the Olympic Stadium in Munich, Germany. It is the longest-standing individual record in athletics.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://worldathletics.org/news/news/30-years-on-jarmila-kratochvilovas-800m-wor",
+      "dominio": "worldathletics.org",
+      "titulo": "30 years on - World Athletics",
+      "nivel": 1,
+      "excerto": "Since 4 June 2011, it has been the oldest official IAAF World record [...] the 400m [47.99] was to remain unbeaten for just over two years until her great rival Marita Koch clocked 47.60.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://athleticsweekly.com/news/opinion/the-world-800m-record-that-has-stood-the-test-of-time-1039969804/",
+      "dominio": "athleticsweekly.com",
+      "titulo": "The world 800m record that has stood the test of time - Athletics Weekly",
+      "nivel": 2,
+      "excerto": "Jarmila Kratochvílová's 800m mark of 1:53.28 was set 40 years ago [...] it remains the oldest outdoor world record in the book.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.irishtimes.com/sport/athletics/2024/05/24/sonia-osullivan-the-world-record-that-has-stood-for-41-years-may-soon-be-broken/",
+      "dominio": "irishtimes.com",
+      "titulo": "Sonia O'Sullivan: The world record that has stood for 41 years may soon be broken (The Irish Times)",
+      "nivel": 2,
+      "excerto": "Jarmila Kratochvílová of Czechoslovakia set a world record in 1983 in the 800m. It still stands today.",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
+    },
+    {
+      "url": "https://marathonhandbook.com/oldest-running-world-records/",
+      "dominio": "marathonhandbook.com",
+      "titulo": "Oldest running world records (Marathon Handbook)",
+      "nivel": 2,
+      "excerto": "Kratochvílová 800 m (1:53.28, Munique, 26-07-1983) ainda em vigor, o mais antigo recorde individual de atletismo; Marita Koch bateu os 400 m em 1985",
+      "consultada_em": "2026-11-11",
+      "papel": "advogado"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "800 metros",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "irishtimes.com",
+      "data": "2026-11-11",
+      "notas": "Só o Irish Times (n2) lido: 800 m de 1983 (1:53.28) e que o recorde dos 400 m de Kratochvílová foi batido. Datas de 400 m (Koch 1985), 200 m (1988) e 1500 m (2015) só vistas em resultados de pesquisa. Falta 2.ª fonte lida para números (regra 4). nation.africa 403."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "Advogado (2.ª passagem): recorde dos 800 m em vigor em 2026; 400 m batido por Koch em 1985; sem outra opção com recorde anterior a 1983.",
+      "data": "2026-11-11"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "estilo",
+      "data": "2026-11-11"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "Meters (US spelling); date in US format."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "2.ª passagem após correção de formato",
+      "data": "2026-11-11"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Fim de 2025 não confirmado diretamente pela World Athletics (página de 2013); confirmação vem de Athletics Weekly (abril 2025). Fontes PT não tentadas."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "Facto muito divulgado; sem quiz com este enunciado nem as mesmas 4 opções."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte wikipedia.org"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte irishtimes.com"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: 800 metros; depois: 800 metros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Meters (US spelling); date in US format."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"explicação\", \"idioma\": \"pt-PT\", \"detalhe\": \"tempos com ponto decimal à inglesa (1:53.28, 47.99); em pt-PT a vírgula\"}]"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "correção de formato aplicada",
+      "agente": "tradutor",
+      "nota": "pontuação/separador decimal apontados pelo conferente; sem mudança factual"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"explicação\", \"idioma\": \"pt-PT\", \"detalhe\": \"tempos com ponto decimal à inglesa (1:53.28, 47.99); em pt-PT a vírgula\"}]"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "etiquetas": [
+    "classico"
+  ],
+  "options_lock": "2ec83f9950321d2be8f02cac5880600515ced679d542aa669779ef1c33ca90c1"
+}

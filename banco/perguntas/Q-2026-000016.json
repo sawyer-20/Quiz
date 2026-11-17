@@ -1,19 +1,41 @@
 {
   "id": "Q-2026-000016",
-  "lingua": "pt-PT",
-  "tema": "geografia",
-  "subtema": "Relevo de Portugal",
-  "formato": "escolha-multipla",
-  "enunciado": "Em que serra fica o ponto mais alto de Portugal continental?",
-  "opcoes": [
-    "Serra da Estrela",
-    "Serra da Lousã",
-    "Serra do Marão",
-    "Serra do Gerês"
+  "topic": "Geography",
+  "subtopic": "Relevo de Portugal",
+  "markets": [
+    "pt"
   ],
-  "correta": 0,
-  "explicacao": "Na Serra da Estrela, na Torre, com 1993 m. Mas é só o topo do continente: o ponto mais alto do país é a Montanha do Pico, nos Açores, com 2351 m.",
-  "dificuldade_estimada": 1,
+  "text": {
+    "pt-PT": {
+      "question": "Em que serra fica o ponto mais alto de Portugal continental?",
+      "options": [
+        "Serra da Estrela",
+        "Serra da Lousã",
+        "Serra do Marão",
+        "Serra do Gerês"
+      ],
+      "explanation": "Na Serra da Estrela, na Torre, com 1993 m. Mas é só o topo do continente: o ponto mais alto do país é a Montanha do Pico, nos Açores, com 2351 m."
+    },
+    "en-US": {
+      "question": "In which mountain range is the highest point of mainland Portugal?",
+      "options": [
+        "Serra da Estrela",
+        "Serra da Lousã",
+        "Serra do Marão",
+        "Serra do Gerês"
+      ],
+      "explanation": "Serra da Estrela, at the Torre, 1,993 m. But that is only the top of the mainland: the country's highest point is Pico Mountain in the Azores, at 2,351 m."
+    }
+  },
+  "correct": 0,
+  "difficulty": 1,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://roteirodasminas.dgeg.gov.pt/en/lista-de-pontos/torre-plateau-geosite-en-1/",
+    "https://geoparkestrela2.primelayer.pt/storage/conteudos/doc/doc_subconteudo_67f7f23212c559.44749431.pdf",
+    "https://acores.rtp.pt/local/instalado-novo-marco-geodesico-no-ponto-mais-alto-de-portugal/"
+  ],
   "fontes": [
     {
       "url": "https://roteirodasminas.dgeg.gov.pt/en/lista-de-pontos/torre-plateau-geosite-en-1/",
@@ -81,10 +103,17 @@
       "alteracao_factual": false,
       "notas": "explicação começa pela resposta",
       "data": "2026-11-10"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "Range names kept in Portuguese; numbers with US thousands comma; units not converted."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
   "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-06-misto",
@@ -137,9 +166,34 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Range names kept in Portuguese; numbers with US thousands comma; units not converted."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": [
     "classico"
-  ]
+  ],
+  "options_lock": "c46cc3af6a527dce4bece779558f231ea84b5d291f2764443242d8ad263ca4c7"
 }

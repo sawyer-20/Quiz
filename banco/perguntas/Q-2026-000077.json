@@ -1,0 +1,163 @@
+{
+  "id": "Q-2026-000077",
+  "topic": "Geography",
+  "subtopic": "Fronteiras curiosas",
+  "text": {
+    "pt-PT": {
+      "question": "A fronteira que atravessa o ilhéu báltico de Märket foi redesenhada nos anos 1980. Com que objetivo?",
+      "options": [
+        "Dar à Suécia o único ancoradouro do ilhéu",
+        "Acompanhar a subida do solo após o degelo",
+        "Pôr o farol finlandês em território da Finlândia",
+        "Separar as zonas de pesca dos dois países"
+      ],
+      "explanation": "Para pôr o farol finlandês em território da Finlândia: a fronteira dividia o ilhéu ao meio, mas o farol que a Finlândia construiu em 1885 ficara na parte sueca. Uma revisão nos anos 1980 traçou nova linha."
+    },
+    "en-US": {
+      "question": "The border that runs through the Baltic islet of Märket was redrawn in the 1980s. What was the purpose?",
+      "options": [
+        "To give Sweden the islet's only anchorage",
+        "To follow the land uplift after the ice melted",
+        "To put the Finnish lighthouse on Finnish territory",
+        "To separate the two countries' fishing zones"
+      ],
+      "explanation": "To put the Finnish lighthouse on Finnish territory: the border split the islet in half, but the lighthouse Finland built in 1885 had ended up on the Swedish side. A revision in the 1980s drew a new line."
+    }
+  },
+  "correct": 2,
+  "difficulty": 4,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://data.riksdagen.se/dokument/G801LU16.html",
+    "https://www.atlasobscura.com/places/market-lighthouse"
+  ],
+  "fontes": [
+    {
+      "url": "https://data.riksdagen.se/dokument/G801LU16.html",
+      "dominio": "riksdagen.se",
+      "titulo": "Riksdagen, LU 1984/85:16, alteração da fronteira Suécia-Finlândia (Märket)",
+      "nivel": 1,
+      "excerto": "Finland uppförde år 1885 en fyr ... på Märket. ... Till grund för förslaget har legat önskemålet att fyranläggningen efter gränsöversynen skall vara belägen på finländskt territorium.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.atlasobscura.com/places/market-lighthouse",
+      "dominio": "atlasobscura.com",
+      "titulo": "Märket Lighthouse, Atlas Obscura",
+      "nivel": 2,
+      "excerto": "In 1985, the lighthouse became officially reattached to Finnish territory on the island by a thin stretch of land.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://lagen.nu/prop/1983/84:202",
+      "dominio": "lagen.nu",
+      "titulo": "Prop. 1983/84:202 – om ändring av riksgränsen mellan Sverige och Finland (lagen.nu)",
+      "nivel": 1,
+      "excerto": "Det är ett gemensamt svenskt-finskt intresse att den finländska fyren blir belägen på finländskt territorium. Jag anser därför att riksgränsen bör ges en ny sträckning på Märket",
+      "consultada_em": "2026-11-12",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Pôr o farol finlandês em território da Finlândia",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "lagen.nu",
+      "data": "2026-11-12",
+      "notas": "Proposição do governo sueco (texto oficial; lagen.nu apenas a aloja, não é o Riksdagen). Confirma: farol construído em 1885 na parte sueca, 35-60 m a oeste do ponto médio; nova linha em ziguezague passa 3913 m2 para a Suécia e igual área à volta do farol para a Finlândia; o ilhéu continua dividido em partes iguais. Outras opções excluídas: nada fala de subida do solo, de zonas de pesca como objetivo (a linha no mar não muda) nem de ancoradouro. Observação: a proposição é de 1984 e a alteração entrou em vigor em 1985; a revisão fronteiriça é de 1981. Uma fonte secundária refere que as interseções com a costa se mantiveram também por causa da pesca, mas isso não é o objetivo."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "Li o relatorio da comissao parlamentar sueca (data.riksdagen.se, LU 1984/85:16): 'Finland uppförde år 1885 en fyr ... Härigenom kommer en av Finland år 1885 uppförd fyr, som hittills legat på den svenska delen av skäret, att ligga på den finländska sidan om den nya gränsen'; a fronteira 'går över skärets mittpunkt'; nao ha 'riktig hamnplats' (ancoradouro: distrator 0 e falso). Li tambem a proposic",
+      "data": "2026-11-13"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado igual (100 caracteres). Explicação começa agora pela resposta, 2 frases, sem factos novos.",
+      "data": "2026-11-13"
+    },
+    "tradutor": {
+      "data": "2026-11-13",
+      "notas": "Pergunta reescrita: \"The border that runs through\" substitui \"crossing\" para evitar a leitura de posto fronteiriço. Opções e explicação inalteradas. \"ilhéu\" como \"islet\" (a ficha usa \"skerry\"). Märket mantém a grafia original."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Datas (1885, anos 1980) e opções equivalentes uma a uma. Sem pistas novas.",
+      "data": "2026-11-13"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Datas divergem entre fontes (revisão de 1981, aprovada e em vigor em 1985), por isso o texto diz só 'anos 1980' e a explicação não dá o ano. O parlamento sueco diz expressamente que a razão de o farol ter sido erguido no lado sueco não consta dos documentos; a explicação não a afirma (evitar 'por engano'). A segunda fonte (Atlas Obscura) é de nível 2 e de tipo turístico/curiosidades: o verificador deve procurar fonte independente de nível 1 (por exemplo Maanmittauslaitos, nota trocada em 1985, ou o parlamento finlandês HE 189/1986). Os sites lantmateriet.se e majakkaseura.fi falharam (404 e erro de rede)."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "ângulo próprio"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte lagen.nu"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "\"ilhéu\" traduzido como \"islet\" (a ficha usa \"skerry\"; \"islet\" é mais comum num quiz). Märket mantém a grafia original. \"subida do solo após o degelo\" passa a \"land uplift after the ice melted\" (rebound pós-glaciar)."
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"explicação\", \"idioma\": \"en-US\", \"detalhe\": \"A explicação en-US está em falta. Não dá para confirmar que diz o mesmo que a pt-PT (farol de 1885 na parte sueca, revisão nos anos 1980) e a explicação é obrigatória.\"}, {\"onde\": \"pergunta\", \"idioma\": \"en-US\", \"detalhe\": \"'The border crossing the Baltic islet' pode ler-se como 'border crossing' (posto fronteiriço), o que torna a frase ambígua. 'redesigned' é um calque de 'redesenhada'. Em inglês americano natural seria 'was redrawn'.\"}]"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Pergunta reescrita: \"The border that runs through\" substitui \"crossing\" para evitar a leitura de posto fronteiriço. Opções e explicação inalteradas. \"ilhéu\" como \"islet\" (a ficha usa \"skerry\"). Märket mantém a grafia original."
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "etiquetas": [],
+  "options_lock": "0626b496624bec6c3edacb7ee4a01fdcab907f3479aca134f3c30ed617fc394f"
+}

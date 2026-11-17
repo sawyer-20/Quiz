@@ -1,0 +1,115 @@
+{
+  "id": "Q-2026-000027",
+  "topic": "General Knowledge",
+  "subtopic": "Jogos Olímpicos – concursos de arte",
+  "text": {
+    "pt-PT": {
+      "question": "Em 1912, Coubertin concorreu à literatura sob os pseudónimos Hohrod e Eschbach. De onde vinham esses nomes?",
+      "options": [
+        "De dois atletas franceses dos Jogos de 1900",
+        "De dois antepassados da família Coubertin",
+        "De duas aldeias perto da terra natal da sua mulher",
+        "De dois poetas alsacianos que ele admirava"
+      ],
+      "explanation": "A «Ode ao Desporto», assinada por Hohrod e Eschbach, ganhou o primeiro lugar em literatura nos concursos de arte de Estocolmo 1912. Segundo o historiador Jean Durry, eram duas aldeias perto de Luttenbach, terra da mulher de Coubertin."
+    }
+  },
+  "correct": 2,
+  "difficulty": 4,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://journals.muni.cz/studiasportiva/article/download/12748/11608/27846",
+    "https://www.olympedia.org/results/920001",
+    "https://www.madeinalsace.com/pierre-de-coubertin-les-jeux-olympiques-et-lalsace/"
+  ],
+  "fontes": [
+    {
+      "url": "https://journals.muni.cz/studiasportiva/article/download/12748/11608/27846",
+      "dominio": "muni.cz",
+      "titulo": "Studia sportiva (Masaryk University): artigo sobre os concursos de arte olímpicos",
+      "nivel": 1,
+      "excerto": "The authors of the work were two unknown writers Georges Hohrod and Martin Eschbach. As it turned out later, it was Coubertin's pseudonyms… Jean Durry … discovered that these two names were in fact the names of two villages near Luttenbach near Colmar, where Coubertin's wife was born.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.olympedia.org/results/920001",
+      "dominio": "olympedia.org",
+      "titulo": "Olympedia – Literature, Open (1912)",
+      "nivel": 2,
+      "excerto": "Norbert Müller … wrote: \"the pseudonyms Hohrod and Eschbach were the names of two neighboring villages of the native village of Coubertin's wife, Luttenbach, near Colmar\".",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.madeinalsace.com/pierre-de-coubertin-les-jeux-olympiques-et-lalsace/",
+      "dominio": "madeinalsace.com",
+      "titulo": "Pierre de Coubertin, les jeux olympiques et l'Alsace (Made In Alsace)",
+      "nivel": 2,
+      "excerto": "cette ode est « officiellement » déposée sous les pseudonymes, de M. Eschbach et Georges Hohrod, deux communes voisines de Luttenbach. [...] épouse ... Christa Anna Marie Rothan ... château de la belle-famille, à Luttenbach.",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "De duas aldeias perto da terra natal da sua mulher",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "madeinalsace.com",
+      "data": "2026-11-11",
+      "notas": "AMBIGUIDADE ASSINALADA PELO VERIFICADOR (para o advogado): fonte de promoção turística regional; Luttenbach é a terra da família da mulher, não é certo que seja a terra natal exata; Hohrod por vezes ligado a Hohrodberg. library.olympics.com devolveu 0 caracteres; olympic-museum.de só confirma os pseudónimos. Nada indica as outras opções. PT n1: nenhuma."
+    },
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "rejeitada",
+  "motivo_rejeicao": "2.º ciclo de correção esgotado (regra 14): «terra natal» da mulher não é suportado (as fontes dizem casa/terra da família dos sogros); cadeia de fontes é uma só (Jean Durry); fonte do verificador é turismo regional; alvo já retomado (Q23), não regressa à lista (regra 15)",
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "N1: journals.muni.cz. olympics.com timeout/ENOTFOUND. Olympedia n2 só via ler_url. Origem assenta em Jean Durry (Olympic Review 2000), citado por ambas. Muni diz que a mulher nasceu em Luttenbach; Olympedia 'native village'. Evita «medalha olímpica»."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Quizzes só perguntam a prova do ouro de 1912; nenhum sobre a origem dos pseudónimos."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte wikipedia.org"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte madeinalsace.com"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "rejeitada",
+      "agente": "advogado-do-diabo",
+      "nota": "2.º ciclo de correção esgotado (regra 14): «terra natal» da mulher não é suportado (as fontes dizem casa/terra da família dos sogros); cadeia de fontes é uma só (Jean Durry); fonte do verificador é turismo regional; alvo já retomado (Q23), não regressa à lista (regra 15)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "só pt-PT (pergunta rejeitada ou em curso)"
+    }
+  ]
+}

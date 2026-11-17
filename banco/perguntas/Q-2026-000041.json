@@ -1,0 +1,83 @@
+{
+  "id": "Q-2026-000041",
+  "topic": "Geography",
+  "subtopic": "rios e lagos",
+  "text": {
+    "pt-PT": {
+      "question": "Qual destes mares é o único sem qualquer costa, por ser delimitado só por correntes oceânicas?",
+      "options": [
+        "Mar dos Sargaços",
+        "Mar Negro",
+        "Mar Mediterrâneo",
+        "Mar Báltico"
+      ],
+      "explanation": "O Mar dos Sargaços fica dentro do Atlântico e é o único mar sem fronteira terrestre: o Gulf Stream e outras três correntes definem-lhe os limites, que por isso variam com as estações."
+    }
+  },
+  "correct": 0,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://oceanservice.noaa.gov/facts/sargassosea.html",
+    "https://www.worldatlas.com/seas/which-sea-has-no-coastline.html"
+  ],
+  "fontes": [
+    {
+      "url": "https://oceanservice.noaa.gov/facts/sargassosea.html",
+      "dominio": "noaa.gov",
+      "titulo": "What is the Sargasso Sea? (NOAA National Ocean Service)",
+      "nivel": 1,
+      "excerto": "The Sargasso Sea, located entirely within the Atlantic Ocean, is the only sea without a land boundary. [...] the Sargasso Sea is defined only by ocean currents.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.worldatlas.com/seas/which-sea-has-no-coastline.html",
+      "dominio": "worldatlas.com",
+      "titulo": "Which Sea Has No Coastline? (WorldAtlas)",
+      "nivel": 2,
+      "excerto": "the Sargasso Sea is the only sea in the world without any coastline. With no land boundaries, it is surrounded by four currents which are the Gulf Stream, North Atlantic Current, Canary Current, and North Atlantic Equatorial Current.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "rejeitada",
+  "motivo_rejeicao": "quota de clássicos do lote (regra 16): o lote já tinha 2 clássicos (Q24, Q39); alvo 12 volta ao pesquisador com ângulo não clássico",
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Dificuldade realista 3, não 1. WorldAtlas n2 comercial; sargassoseacommission.org (rede), ocean.si.edu 403. 'Único' depende da definição de mar; Bermuda nas franjas. Britannica/icpdr 403."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "Facto clássico de quizzes; opções diferentes das páginas abertas. Etiqueta classico. Lote já com 2 clássicos (Q24, Q39)."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "rejeitada",
+      "agente": "orquestrador",
+      "nota": "quota de clássicos do lote (regra 16): o lote já tinha 2 clássicos (Q24, Q39); alvo 12 volta ao pesquisador com ângulo não clássico"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "só pt-PT (pergunta rejeitada ou em curso)"
+    }
+  ],
+  "etiquetas": [
+    "classico"
+  ]
+}

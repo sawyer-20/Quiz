@@ -1,10 +1,28 @@
-# Motor de factos (versão 1.1)
+# Motor de factos — QUIZLUX (versão 2.0: pt-PT e en-US)
 
-A linha de verificação da app de quiz: 9 agentes do Claude Code, 3 comandos, um esquema
+A linha de verificação da app QUIZLUX: 11 agentes do Claude Code, 3 comandos, um esquema
 de pergunta e os scripts de validação, aprovação e leitura. Nenhuma pergunta chega ao
 banco sem duas fontes de domínios diferentes, uma verificação de originalidade, uma
 verificação às cegas (testada com canários), um advogado do diabo e uma aprovação
 automática.
+
+## O que mudou na 2.0 (QUIZLUX)
+
+- **Cada pergunta existe em pt-PT e en-US.** O facto verifica-se uma vez (no texto pt-PT);
+  o `tradutor` escreve o en-US e o `conferente` (cego: vê só os dois textos) confirma que
+  dizem o mesmo e que o pt-PT não tem formas do português do Brasil. Nova linha: pesquisador
+  → originalidade → verificador → advogado → editor → **tradutor → conferente** →
+  `aprovar.py`.
+- **Esquema v2** (`esquema/pergunta.schema.json`): `topic` (10 tópicos de arranque:
+  General Knowledge, Geography, World History, Science, Space, Movies, Music, Football,
+  Video Games, Nature & Animals), `subtopic`, `markets` (opcional, ex. `["pt"]`), `text`
+  (`pt-PT` e `en-US` com `question`, `options`, `explanation`), `correct` (índice igual nos
+  dois), `difficulty`, `daily_eligible`, `valid_until`, `sources` (URLs mostrados ao jogador).
+- A explicação tem 1 a 2 frases. O texto das opções é imutável depois da aprovação
+  (`options_lock`, gravado pelo `aprovar.py`).
+- `scripts/migrar_v2.py` migrou o banco; `scripts/montar_pergunta.py` e
+  `scripts/aplicar_passo.py` montam e atualizam as perguntas (o orquestrador não escreve JSON
+  à mão). Fontes de nível 1 por tópico em `regras/fontes.md`.
 
 ## O que mudou na 1.1
 
@@ -57,7 +75,7 @@ estão em `em_verificacao`.
 
 | Comando | Quando | O que faz |
 | --- | --- | --- |
-| `/produzir-lote tema=… n=…` | Sempre que precisares de perguntas | Pesquisador → originalidade → verificador às cegas → advogado do diabo → editor → `aprovar.py` |
+| `/produzir-lote tema=… n=…` | Sempre que precisares de perguntas | Pesquisador → originalidade → verificador às cegas → advogado do diabo → editor → tradutor → conferente → `aprovar.py` |
 | `/auditar n=30` | Todas as semanas (n=100 antes de lançar) | Reverifica às cegas uma amostra; acima de 1% de erro, trava a publicação |
 | `/manutencao` | Todas as semanas | Sentinela das perguntas com prazo, triagem dos reportes, calibração |
 

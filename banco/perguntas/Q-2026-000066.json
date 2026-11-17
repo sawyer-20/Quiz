@@ -1,0 +1,109 @@
+{
+  "id": "Q-2026-000066",
+  "topic": "Nature & Animals",
+  "subtopic": "animais comuns",
+  "text": {
+    "pt-PT": {
+      "question": "Qual destes animais, tal como o gato doméstico, tem inutilizado o gene Tas1r2, um dos dois genes do recetor do sabor doce?",
+      "options": [
+        "Ser humano",
+        "Tigre",
+        "Rato",
+        "Cão"
+      ],
+      "explanation": "No gato doméstico, o gene Tas1r2, um dos dois genes do recetor do sabor doce, perdeu 247 pares de bases e não funciona. Segundo a equipa do Monell na PLOS Genetics, a mesma deleção existe no tigre e na chita. Nesse estudo, a sequência do gene no cão, no rato e no ser humano prevê uma proteína aparentemente normal."
+    }
+  },
+  "correct": 1,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0010003",
+    "https://www.nature.com/news/2005/050718/full/news050718-16.html"
+  ],
+  "fontes": [
+    {
+      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0010003",
+      "dominio": "plos.org",
+      "titulo": "Pseudogenization of a Sweet-Receptor Gene Accounts for Cats' Indifference toward Sugar, PLOS Genetics (2005)",
+      "nivel": 1,
+      "excerto": "Tas1r2 in tiger and cheetah and in six healthy adult domestic cats all show the similar deletion and stop codons. [...] cat Tas1r2 is an unexpressed pseudogene.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.nature.com/news/2005/050718/full/news050718-16.html",
+      "dominio": "nature.com",
+      "titulo": "Cats lack a sweet tooth, Nature News (2005)",
+      "nivel": 2,
+      "excerto": "the gene for T1R2 lacks 247 base pairs of DNA, which means it cannot produce a working protein. [...] The research team has found the same genetic deletion in close relatives of the domestic cat, including the tiger and cheetah.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.frontiersin.org/journals/molecular-biosciences/articles/10.3389/fmolb.2017.00081/full",
+      "dominio": "frontiersin.org",
+      "titulo": "A Matter of Taste: Lineage-Specific Loss of Function of Taste Receptor Genes in Vertebrates (Frontiers in Molecular Biosciences, 2017)",
+      "nivel": 1,
+      "excerto": "cats and felids' (i.e., tigers, cheetahs and lions) indifference toward sugar can be accounted by the pseudogenization of Tas1r2, reflecting their eating behaviors.",
+      "consultada_em": "2026-11-12",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Tigre",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "frontiersin.org",
+      "data": "2026-11-12",
+      "notas": "Tabela 1 da revisão lista o tigre com Tas1r2/sabor doce; PNAS 2012 lido. Ressalva do verificador: o cão ficou excluído com base mais fraca (Canidae com Tas1r2 intacto só visto em resumo de pesquisa)."
+    },
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "rejeitada",
+  "motivo_rejeicao": "esgotou o ciclo de correção: 2.ª passagem do advogado reprovou (a explicação afirma sobre rato e ser humano o que a fonte só diz do cão)",
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Facto 'gatos não sentem o doce' é conhecido, mas o ângulo (parentes com o mesmo gene avariado) é pouco batido; pode ainda ser marcado clássico pela originalidade. O estudo é de 2005: não conheço desmentidos nas fontes lidas, mas o verificador deve confirmar que o tigre continua a constar. «Cães, ratos e humanos têm sabor doce»: a Nature diz que cães e humanos gostam de açúcar e o estudo usa receptores de rato; se o editor achar a afirmação sobre o rato pouco apoiada, reduzir a explicação para 'cães e humanos'. O número 247 vem de PLOS+Nature, duas fontes de acordo; não está no enunciado. Distratores defensáveis? Cão e humano, claramente com doce; rato idem (modelo de estudo de receptores do doce)."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "sem quiz equivalente (ângulo próprio)"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte nationalgeographic.com"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (ciclo único)"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte frontiersin.org"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "rejeitada",
+      "agente": "advogado-do-diabo",
+      "nota": "esgotou o ciclo de correção: 2.ª passagem do advogado reprovou (a explicação afirma sobre rato e ser humano o que a fonte só diz do cão)"
+    }
+  ],
+  "etiquetas": []
+}

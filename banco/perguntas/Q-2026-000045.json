@@ -1,0 +1,178 @@
+{
+  "id": "Q-2026-000045",
+  "topic": "General Knowledge",
+  "subtopic": "património e museus",
+  "markets": [
+    "pt"
+  ],
+  "text": {
+    "pt-PT": {
+      "question": "Na Biblioteca Joanina, em Coimbra, as mesas são cobertas com couro no fim de cada dia. Para as proteger de quê?",
+      "options": [
+        "Da humidade do rio Mondego",
+        "Do pó levantado pelos visitantes",
+        "Dos dejetos dos morcegos que lá vivem",
+        "Da luz solar que entra pelas janelas"
+      ],
+      "explanation": "Dos dejetos dos morcegos. Segundo a Universidade de Coimbra, vivem morcegos na biblioteca, por isso as mesas são cobertas com «toalhas» de couro no fim de cada dia, para impedir os danos que os dejetos causam."
+    },
+    "en-US": {
+      "question": "In the Joanina Library in Coimbra, the tables are covered with leather at the end of each day. What are they protected from?",
+      "options": [
+        "Humidity from the Mondego River",
+        "Dust stirred up by visitors",
+        "Droppings from the bats that live there",
+        "Sunlight coming through the windows"
+      ],
+      "explanation": "Bat droppings. According to the University of Coimbra, bats live in the library, so the tables are covered with leather \"cloths\" at the end of each day to prevent the damage the droppings cause."
+    }
+  },
+  "correct": 2,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://visit.uc.pt/pt/space-list/joanina",
+    "https://www.dn.pt/arquivo/diario-de-noticias/biblioteca-joanina-gasta-fortuna-para-nao-deixar-os-livros-morrer.html",
+    "https://www.noticiasdecoimbra.pt/ja-conhece-os-guardioes-noturnos-do-tesouro-da-biblioteca-joanina-de-coimbra/"
+  ],
+  "fontes": [
+    {
+      "url": "https://visit.uc.pt/pt/space-list/joanina",
+      "dominio": "uc.pt",
+      "titulo": "Biblioteca Joanina - UnivCoimbra - UCTour (Universidade de Coimbra)",
+      "nivel": 1,
+      "excerto": "Habitam a Biblioteca duas colónias de morcegos que contribuem para o controle de pragas. [...] no final de cada dia, é necessário cobrir as mesas com «toalhas» de couro. [...] impedir os danos causados pelos dejetos dos animais.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.dn.pt/arquivo/diario-de-noticias/biblioteca-joanina-gasta-fortuna-para-nao-deixar-os-livros-morrer.html",
+      "dominio": "dn.pt",
+      "titulo": "Biblioteca Joanina gasta fortuna para não deixar os livros morrer (Diário de Notícias, 2015)",
+      "nivel": 2,
+      "excerto": "Há registos da compra de peles, em finais do século XVIII, para proteger as mesas dos dejetos dos morcegos. [...] cobrir de peles todas as mesas, ao final, e destapá-las na manhã seguinte, limpando os dejetos dos morcegos.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.noticiasdecoimbra.pt/ja-conhece-os-guardioes-noturnos-do-tesouro-da-biblioteca-joanina-de-coimbra/",
+      "dominio": "noticiasdecoimbra.pt",
+      "titulo": "Já conhece os guardiões noturnos do tesouro da Biblioteca Joanina de Coimbra? (Notícias de Coimbra)",
+      "nivel": 2,
+      "excerto": "As suas fezes poderiam causar problemas. A solução dos bibliotecários [...] consiste em cobrir à noite as mesas do século XVIII com tecido feito de pele de animal. Posteriormente, todas as manhãs, eles limpam o chão.",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Dos dejetos dos morcegos que lá vivem",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "noticiasdecoimbra.pt",
+      "data": "2026-11-11",
+      "notas": "Jornal local (n2). Fonte diz «pele de animal» e «à noite»; nenhuma fonte oficial lida confirma «couro». Pó, luz solar e humidade não aparecem como motivo. uc.pt proibido."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "Advogado (2.ª passagem): «no final de cada dia» e «couro» literalmente na fonte da UC (n1); explicação atribuída à UC.",
+      "data": "2026-11-11"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "estilo",
+      "data": "2026-11-11"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "Attribution to the University of Coimbra kept; 'toalhas' = 'cloths'."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Morcegos da Joanina em listas de curiosidades; semiclássico. Fiolhais: sem prova científica conclusiva do papel dos morcegos. PT n1: visit.uc.pt abre; uc.pt/noticias.uc.pt 403; baes.uc.pt 502."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Nenhuma pergunta de quiz nem opções; só artigos de viagem."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte centerofportugal.com"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte noticiasdecoimbra.pt"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: Dos dejetos dos morcegos que lá vivem; depois: Dos dejetos dos morcegos que lá vivem"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Attribution to the University of Coimbra kept; 'toalhas' = 'cloths'."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "options_lock": "f5c91ee6cd9d2d108637311266383802187be713815d7cd5dce071e2b437aa36"
+}

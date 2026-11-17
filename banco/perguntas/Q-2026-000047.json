@@ -1,0 +1,177 @@
+{
+  "id": "Q-2026-000047",
+  "topic": "World History",
+  "subtopic": "arquitetura e artes aplicadas",
+  "markets": [
+    "pt"
+  ],
+  "text": {
+    "pt-PT": {
+      "question": "Nos castelos medievais portugueses, para que servia o hurdício, galeria de madeira no topo das torres?",
+      "options": [
+        "Fazer sinais com fogueiras aos castelos vizinhos",
+        "Disparar na vertical sobre a base dos muros",
+        "Guardar armas e mantimentos durante um cerco",
+        "Abrigar as sentinelas da chuva e do frio"
+      ],
+      "explanation": "Servia para disparar na vertical sobre a base dos muros: o hurdício era uma galeria de madeira saliente no topo das muralhas e das torres. Segundo o historiador Mário Barroca, foram os Templários que o introduziram em Portugal."
+    },
+    "en-US": {
+      "question": "What was the hurdício (hoarding), a wooden gallery atop the towers of medieval Portuguese castles, used for?",
+      "options": [
+        "Signaling to neighboring castles with bonfires",
+        "Firing straight down at the base of the walls",
+        "Storing weapons and supplies during a siege",
+        "Sheltering sentries from rain and cold"
+      ],
+      "explanation": "Firing straight down at the base of the walls: the hurdício (hoarding) was a wooden gallery projecting from the top of walls and towers. According to historian Mário Barroca, the Templars introduced it to Portugal."
+    }
+  },
+  "correct": 1,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://projetos.dhlab.fcsh.unl.pt/files/original/8cce7364fca20287203002044c21a53a52377364.pdf",
+    "https://imovel.patrimoniocultural.gov.pt/detalhes.php?code=71169"
+  ],
+  "fontes": [
+    {
+      "url": "https://projetos.dhlab.fcsh.unl.pt/files/original/8cce7364fca20287203002044c21a53a52377364.pdf",
+      "dominio": "unl.pt",
+      "titulo": "Guia de Inventário - Fortificações Medievais e Modernas (IHRU/SIPA, 2015, v1.1, documento provisório)",
+      "nivel": 1,
+      "excerto": "O terceiro aspeto inovador introduzido pelos Templários é o cadafalso ou húrdício, uma galeria de madeira que coroava as estruturas torreadas, na face externa dos muros, permitindo tiro vertical sobre a base dos muros.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://projetos.dhlab.fcsh.unl.pt/files/original/41fd9f1c979604bd5ef7bf9299a4f78fe48868cf.pdf",
+      "dominio": "unl.pt",
+      "titulo": "Estudo FCSH-NOVA (projeto DHLab) sobre castelos templários e a torre de Longroiva",
+      "nivel": 1,
+      "excerto": "[Longroiva] constitui o mais remoto exemplo que conhecemos em Portugal para uma hurdício. [...] orificios [...] que denunciam a presença de uma galeria de madeira.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://imovel.patrimoniocultural.gov.pt/detalhes.php?code=71169",
+      "dominio": "patrimoniocultural.gov.pt",
+      "titulo": "Castelo de Langóbria - PESQUISA GERAL - Património Cultural (DGPC)",
+      "nivel": 1,
+      "excerto": "originalmente, foi rodeada por um hurdício, uma galeria de madeira (de que ainda restam os apoios a toda a roda da torre) que protegia superiormente a estrutura e permitia o ataque vertical sobre os inimigos",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Disparar na vertical sobre a base dos muros",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "patrimoniocultural.gov.pt",
+      "data": "2026-11-11",
+      "notas": "Apoio: estudo da U. do Porto (ler.letras.up.pt/uploads/ficheiros/8396.pdf, n1) descreve o hurdício de Longroiva como galeria de madeira, sem dizer expressamente 'tiro vertical'. A fonte diz 'ataque vertical sobre os inimigos' e não 'base dos muros' (inferência pequena; outras opções sem apoio). monumentos.gov.pt DNS/reset; baes.uc.pt 502; pt.wikipedia 404."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "Advogado (2.ª passagem): atribuição a Barroca confirmada no artigo de 1998; tiro vertical sobre a base dos muros apoiado em dois guias de inventário e na ficha DGPC; distratores sem apoio.",
+      "data": "2026-11-11"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "estilo",
+      "data": "2026-11-11"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "hurdício = hoarding, explained in the question and explanation."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Duas fontes no mesmo domínio de alojamento (projetos.dhlab.fcsh.unl.pt): verificador deve procurar outro domínio. castelosdeportugal.pt n2 duvidoso. Datas divergentes (1174/1176): evitadas. Recusadas: raco.cat, core.ac.uk, bdigital.ufp.pt (403), estudogeral.sib.uc.pt (302), dspace.uevora.pt (SSL), cm-tomar.pt e comum.rcaap.pt (ligação cortada)."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Nenhum quiz com esta pergunta nem termo «hurdício»."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte medievalheritage.eu"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte patrimoniocultural.gov.pt"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: Disparar na vertical sobre a base dos muros; depois: Disparar na vertical sobre a base dos muros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "hurdício = hoarding, explained in the question and explanation."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "options_lock": "b31e9dfc58b01cfcfdafdcf51469b92bcd2b0e9bf9f291b1afff7f6d0de50382"
+}

@@ -1,0 +1,199 @@
+{
+  "id": "Q-2026-000037",
+  "topic": "Nature & Animals",
+  "subtopic": "biologia – comportamento e adaptação animal",
+  "text": {
+    "pt-PT": {
+      "question": "Em 2016, registos de EEG mostraram pela primeira vez que uma ave dorme em pleno voo. Qual foi?",
+      "options": [
+        "A fragata-grande",
+        "O pelicano-pardo",
+        "A andorinha-do-mar-ártica",
+        "O albatroz-errante"
+      ],
+      "explanation": "A fragata-grande: os registos de EEG mostraram que dorme em voo, com um hemisfério cerebral de cada vez ou com os dois. Dorme sobretudo a planar em círculos; os autores sugerem que o hemisfério acordado serve para ver para onde vai."
+    },
+    "en-US": {
+      "question": "In 2016, EEG recordings first showed that a bird sleeps while flying. Which bird was it?",
+      "options": [
+        "The great frigatebird",
+        "The brown pelican",
+        "The Arctic tern",
+        "The wandering albatross"
+      ],
+      "explanation": "The great frigatebird: EEG recordings showed it sleeps in flight, with one brain hemisphere at a time or with both. It sleeps mostly while soaring in circles; the authors suggest the awake hemisphere helps it see where it is going."
+    }
+  },
+  "correct": 0,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.nature.com/articles/ncomms12468",
+    "https://www.mpg.de/10783234/frigatebirds-sleep-midflight",
+    "https://www.discovermagazine.com/birds-sleep-during-flights-too-17906"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.nature.com/articles/ncomms12468",
+      "dominio": "nature.com",
+      "titulo": "Evidence that birds sleep in mid-flight (Nature Communications, 2016)",
+      "nivel": 1,
+      "excerto": "using electroencephalogram recordings of great frigatebirds (Fregata minor) flying over the ocean for up to 10 days, we show that they can sleep with either one hemisphere at a time or both hemispheres simultaneously.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.mpg.de/10783234/frigatebirds-sleep-midflight",
+      "dominio": "mpg.de",
+      "titulo": "Snoozing between the skies and Earth (Max-Planck-Gesellschaft, 2016)",
+      "nivel": 1,
+      "excerto": "A team of scientists headed by Niels Rattenborg from the Max Planck Institute for Ornithology in Seewiesen has demonstrated, for the first time that birds can fly in sleep mode.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.discovermagazine.com/birds-sleep-during-flights-too-17906",
+      "dominio": "discovermagazine.com",
+      "titulo": "Birds Sleep During Flights, Too (Discover Magazine)",
+      "nivel": 2,
+      "excerto": "The results, published in Nature Communications, showed that frigatebirds could soar and glide with one or both sides of their brains asleep.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.nationalgeographic.com/animals/article/swift-bird-10-month-migration",
+      "dominio": "nationalgeographic.com",
+      "titulo": "These Birds Fly Almost a Year Without Landing | National Geographic",
+      "nivel": 2,
+      "excerto": "This August, Niels Rattenborg of the Max Planck Institute for Ornithology in Germany proved that frigate birds ... do the same. He fitted brainwave sensors to 15 frigatebirds and showed that they sleep mid-flight",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
+    },
+    {
+      "url": "https://www.audubon.org/news/scientists-finally-have-evidence-frigatebirds-sleep-while-flying",
+      "dominio": "audubon.org",
+      "titulo": "Scientists Finally Have Evidence That Frigatebirds Sleep While Flying",
+      "nivel": 2,
+      "excerto": "All of the sleep recorded in the study occurred during the upwards-circling portion of the flight; the birds didn't sleep at all while gliding down.",
+      "consultada_em": "2026-11-11",
+      "papel": "advogado"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "A fragata-grande",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "nationalgeographic.com",
+      "data": "2026-11-11",
+      "notas": "NatGeo (out. 2016) e ScienceAlert noticiam o mesmo estudo (contam como uma fonte n2). A espécie «fragata-grande» aparece no ScienceAlert/pesquisa; NatGeo diz só 'frigate birds'. Albatroz só hipótese noutras fontes, sem EEG."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "Advogado: leu o artigo original; confirma «primeira vez», sono com um hemisfério ou os dois, sobretudo em correntes ascendentes; a função de ver para onde vão é sugestão dos autores, atribuída na explicação. Nenhuma outra ave com EEG em voo.",
+      "data": "2026-11-11"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "explicação encurtada para 1–2 frases (migração v2); sem factos novos",
+      "data": "2026-11-11"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "fragata-grande = great frigatebird (Fregata minor); pelicano-pardo = brown pelican; andorinha-do-mar-ártica = Arctic tern; albatroz-errante = wandering albatross."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Sem números. 'Pela primeira vez' assenta no paper e no comunicado MPG. Albatroz é distrator plausível; estudo só em fragatas. Fontes PT n1: nenhuma."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Nenhum quiz com este enunciado ou opções."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte nih.gov"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte nationalgeographic.com"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: A fragata-grande; depois: A fragata-grande"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "fragata-grande = great frigatebird (Fregata minor); pelicano-pardo = brown pelican; andorinha-do-mar-ártica = Arctic tern; albatroz-errante = wandering albatross."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "options_lock": "5b660c4f0817baa077f05848f5612c0502a0c36485693db055b3bfc35ffbaa70"
+}

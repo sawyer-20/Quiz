@@ -1,19 +1,28 @@
 {
   "id": "Q-2026-000018",
-  "lingua": "pt-PT",
-  "tema": "musica",
-  "subtema": "compositores portugueses",
-  "formato": "escolha-multipla",
-  "enunciado": "A quem dedicou João Domingos Bomtempo o seu Requiem, editado em Paris?",
-  "opcoes": [
-    "A Luís Vaz de Camões",
-    "A Vasco da Gama",
-    "A D. José I",
-    "Ao Infante D. Henrique"
+  "topic": "Music",
+  "subtopic": "compositores portugueses",
+  "text": {
+    "pt-PT": {
+      "question": "A quem dedicou João Domingos Bomtempo o seu Requiem, editado em Paris?",
+      "options": [
+        "A Luís Vaz de Camões",
+        "A Vasco da Gama",
+        "A D. José I",
+        "Ao Infante D. Henrique"
+      ],
+      "explanation": "O Requiem em dó menor, op. 23, de Bomtempo tem na edição parisiense a dedicatória «Ouvrage consacré à la Mémoire de Camões». Segundo Beatriz Peralta García, a obra foi composta na sequência da edição de Os Lusíadas promovida em Paris pelo diplomata Morgado de Mateus."
+    }
+  },
+  "correct": 0,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://livros.fcsh.unl.pt/cham/catalog/download/172/712/2021?inline=1",
+    "https://www.metropolitana.pt/en/musicalia/the-lusitanian-requiem/",
+    "https://www.mundoclasico.com/articulo/39172/nuevos-datos-acerca-de-las-primeras-audiciones-del-requiem-op-23-de-bomtempo-en-paris-y-londres"
   ],
-  "correta": 0,
-  "explicacao": "O Requiem em dó menor, op. 23, de Bomtempo tem na edição parisiense a dedicatória «Ouvrage consacré à la Mémoire de Camões». Segundo Beatriz Peralta García, a obra foi composta na sequência da edição de Os Lusíadas promovida em Paris pelo diplomata Morgado de Mateus.",
-  "dificuldade_estimada": 3,
   "fontes": [
     {
       "url": "https://www.metropolitana.pt/en/musicalia/the-lusitanian-requiem/",
@@ -64,8 +73,6 @@
     "advogado": null,
     "editor": null
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
   "estado": "rejeitada",
   "motivo_rejeicao": "2.º ciclo de correção esgotado (regra 14): 'dedicou' impreciso para dedicatória à memória; verificador só leu uma fonte (mic.pt); reescrever",
   "lote": "lote-2026-11-06-misto",
@@ -106,7 +113,12 @@
       "evento": "rejeitada",
       "agente": "advogado-do-diabo",
       "nota": "2.º ciclo de correção esgotado (regra 14): 'dedicou' impreciso para dedicatória à memória; verificador só leu uma fonte (mic.pt); reescrever"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "só pt-PT (pergunta rejeitada ou em curso)"
     }
-  ],
-  "etiquetas": []
+  ]
 }

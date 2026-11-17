@@ -1,0 +1,112 @@
+{
+  "id": "Q-2026-000028",
+  "topic": "General Knowledge",
+  "subtopic": "transportes de Lisboa",
+  "text": {
+    "pt-PT": {
+      "question": "Quando o Elevador da Glória começou a funcionar, em 1885, como era movido, antes do vapor e da eletricidade?",
+      "options": [
+        "Por tração animal, com mulas",
+        "Por um motor a gás",
+        "Por contrapeso de água",
+        "Por ar comprimido"
+      ],
+      "explanation": "O ascensor da Glória, obra do engenheiro Raoul Mesnier du Ponsard, abriu em 1885 com cabo e contrapeso de água. Só depois passou a vapor e, mais tarde, a eletricidade (em 1914-1915)."
+    }
+  },
+  "correct": 2,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://observador.pt/especiais/elevador-da-gloria-quando-o-formosissimo-espectaculo-foi-inaugurado-e-encantou-lisboa-ha-140-anos/",
+    "https://www.dn.pt/arquivo/diario-de-noticias/para-o-turista-e-nao-so...-elevador-da-gloria-faz-130-anos.html",
+    "https://www.timeout.pt/lisboa/pt/noticias/13-factos-e-curiosidades-sobre-o-elevador-da-gloria-090425"
+  ],
+  "fontes": [
+    {
+      "url": "https://observador.pt/especiais/elevador-da-gloria-quando-o-formosissimo-espectaculo-foi-inaugurado-e-encantou-lisboa-ha-140-anos/",
+      "dominio": "observador.pt",
+      "titulo": "Quando o \"formosíssimo\" elevador foi inaugurado, há 140 anos – Observador",
+      "nivel": 2,
+      "excerto": "O sistema de tração então adotado era o de cremalheira e cabo por contrapeso de água. Posteriormente [...] o elevador da Glória (1885) [...] funcionou a vapor e, a partir de 1915, a eletricidade.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.dn.pt/arquivo/diario-de-noticias/para-o-turista-e-nao-so...-elevador-da-gloria-faz-130-anos.html",
+      "dominio": "dn.pt",
+      "titulo": "Memória DN: Quando o Elevador da Glória fez 130 anos",
+      "nivel": 2,
+      "excerto": "A 24 de outubro de 1885, quando a obra do engenheiro português Raoul Mesnier du Ponsard, começou a circular, [...] o cabo equilibrado por contrapeso de água.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.timeout.pt/lisboa/pt/noticias/13-factos-e-curiosidades-sobre-o-elevador-da-gloria-090425",
+      "dominio": "timeout.pt",
+      "titulo": "13 factos e curiosidades sobre o Elevador da Glória (Time Out)",
+      "nivel": 2,
+      "excerto": "funcionou numa primeira fase com base num sistema de contrapeso de água [...]. Mais tarde, passou à locomoção a vapor e, em 1914, tornou-se eléctrico.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://fugas.publico.pt/Viagens/354478_leva-me-ate-ao-topo-da-colina",
+      "dominio": "publico.pt",
+      "titulo": "Leva-me até ao topo da colina (Fugas, Público)",
+      "nivel": 2,
+      "excerto": "Na altura, o ascensor funcionava com um sistema de contrapeso de água ... [depois] foi dotado de um motor a vapor e depois electrificado em 1914.” (Susana Fonseca, Museu da Carris)",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Por contrapeso de água",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "publico.pt",
+      "data": "2026-11-11",
+      "notas": "2.ª fonte: Wikipédia EN (pista): water balance, 24/10/1885, vapor em 1886. Outras opções sem apoio. SIPA (monumentos.gov.pt) não resolveu; wikiwand 403."
+    },
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "rejeitada",
+  "motivo_rejeicao": "sensibilidade: o Elevador da Glória foi palco de acidente com mortos em setembro de 2025 (tragédia com menos de 10 anos, tema a evitar); sem salvação por reformulação",
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Só imprensa (n2). monumentos.gov.pt (SIPA) erro de rede; repositorioaberto.uab.pt 403; acervodigital.unesp.br falhou; reuters 401; visitlisboa 404; dn.pt ENOTFOUND no WebFetch mas abre com ler_url. Fontes divergem em datas da eletrificação (1914 vs 1915). Time Out é lifestyle (só reforço)."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Nenhum quiz com esta pergunta ou opções."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte publico.pt"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "rejeitada",
+      "agente": "advogado-do-diabo",
+      "nota": "sensibilidade: o Elevador da Glória foi palco de acidente com mortos em setembro de 2025 (tragédia com menos de 10 anos, tema a evitar); sem salvação por reformulação"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "só pt-PT (pergunta rejeitada ou em curso)"
+    }
+  ]
+}

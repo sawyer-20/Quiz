@@ -1,0 +1,109 @@
+{
+  "id": "Q-2026-000063",
+  "topic": "General Knowledge",
+  "subtopic": "arte e arquitetura",
+  "text": {
+    "pt-PT": {
+      "question": "Dos 72 nomes de sábios gravados a ouro no 1.º andar da Torre Eiffel, quantos são de mulheres?",
+      "options": [
+        "Nenhum",
+        "Um",
+        "Doze",
+        "Três"
+      ],
+      "explanation": "Os 72 nomes escolhidos por Gustave Eiffel para o 1.º andar da torre, em letras douradas, são todos de homens. Não consta nenhuma mulher, nem sequer a matemática Sophie Germain."
+    }
+  },
+  "correct": 0,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.paris.fr/pages/bientot-des-noms-de-femmes-scientifiques-sur-la-tour-eiffel-30620",
+    "https://www.sorbonne-universite.fr/dossiers/femmes-et-sciences/hypatie-72-noms-de-femmes-scientifiques-bientot-graves-sur-la-dame-de-fer"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.paris.fr/pages/bientot-des-noms-de-femmes-scientifiques-sur-la-tour-eiffel-30620",
+      "dominio": "paris.fr",
+      "titulo": "Bientôt 72 noms de femmes scientifiques sur la tour Eiffel ! (Ville de Paris)",
+      "nivel": 1,
+      "excerto": "au premier étage de la tour Eiffel sont inscrits en lettres d'or les noms de 72 illustres savants ... Mais où sont les mathématiciennes, les physiciennes, les astrophysiciennes ?",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.sorbonne-universite.fr/dossiers/femmes-et-sciences/hypatie-72-noms-de-femmes-scientifiques-bientot-graves-sur-la-dame-de-fer",
+      "dominio": "sorbonne-universite.fr",
+      "titulo": "Hypatie : 72 noms de femmes scientifiques bientôt gravés sur la Dame de fer (Sorbonne Université)",
+      "nivel": 1,
+      "excerto": "En présentant la frise dorée du premier étage ... une touriste m'a demandé où se trouvait celui de Marie Curie. En vérifiant, j'ai découvert qu'il n'y avait aucune femme.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://janinetissot.fdaf.org/72_savants_Tour_Eiffel.pdf",
+      "dominio": "fdaf.org",
+      "titulo": "72 savants de la Tour Eiffel (Janine Tissot, FDAF), citando Bertrand Lemoine, site oficial da Tour Eiffel",
+      "nivel": 2,
+      "excerto": "Malheureusement, on ne trouve aucune femme parmi ces 72 noms. (Source : Bertrand Lemoine, site officiel de la Tour Eiffel)",
+      "consultada_em": "2026-11-12",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Nenhum",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "fdaf.org",
+      "data": "2026-11-12",
+      "notas": "O site oficial toureiffel.paris devolveu 403 ao leitor (só vi o resumo da pesquisa, que dá a mesma frase), por isso a fonte lida é um PDF que cita o texto oficial: confiança média. Os nomes foram gravados por Eiffel em 1889 e as mulheres só estão previstas para o futuro (iniciativa recente, fora do âmbito dos 72 atuais). Doze, Um e Três excluídas."
+    },
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "rejeitada",
+  "motivo_rejeicao": "esgotou o ciclo de correção: 2.ª passagem do advogado reprovou (enunciado ambíguo face ao projeto de inscrever nomes de mulheres no 1.º andar; fonte do verificador não é de nível 2)",
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "O paris.fr não diz com todas as letras 'nenhuma mulher'; di-lo a Sorbonne (entrevista ao promotor) e é implícito no projeto de acrescentar mulheres; o verificador deve procurar fonte independente (o site oficial toureiffel.paris devolveu 403 e não abre neste ambiente). 'Nem Marie Curie' vem do excerto da Sorbonne. A parte de 2026 da explicação é dependente do tempo (projeto por validar): o editor pode cortá-la sem tocar no facto. Alvo pensado para evitar a pergunta clássica 'quantos nomes' e dar o ângulo 'ausências'. Wikipédia só serviu de pista."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "sem quiz equivalente"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte toulouse-metropole.fr"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (ciclo único)"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte fdaf.org"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "rejeitada",
+      "agente": "advogado-do-diabo",
+      "nota": "esgotou o ciclo de correção: 2.ª passagem do advogado reprovou (enunciado ambíguo face ao projeto de inscrever nomes de mulheres no 1.º andar; fonte do verificador não é de nível 2)"
+    }
+  ],
+  "etiquetas": []
+}

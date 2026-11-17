@@ -1,0 +1,87 @@
+{
+  "id": "Q-2026-000071",
+  "topic": "World History",
+  "subtopic": "Idade Média",
+  "text": {
+    "pt-PT": {
+      "question": "Em 1377, Ragusa (hoje Dubrovnik) impôs isolamento a quem vinha de zonas de peste. Quantos dias durava o original?",
+      "options": [
+        "30 dias",
+        "40 dias",
+        "60 dias",
+        "14 dias"
+      ],
+      "explanation": "O Grande Conselho de Ragusa fixou 30 dias (o «trentino») em 1377. O prazo só foi alargado para 40 dias («quaranta») nas décadas seguintes, e daí vem a palavra quarentena."
+    }
+  },
+  "correct": 0,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://wwwnc.cdc.gov/eid/article/19/2/ET-1902_article",
+    "https://hrcak.srce.hr/file/398280",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7439156/"
+  ],
+  "fontes": [
+    {
+      "url": "https://wwwnc.cdc.gov/eid/article/19/2/ET-1902_article",
+      "dominio": "cdc.gov",
+      "titulo": "Etymologia: Quarantine (Emerging Infectious Diseases, CDC)",
+      "nivel": 1,
+      "excerto": "In 1377, the Great Council of Ragusa (modern-day Dubrovnik) established a 30-day separation period (trentino) for visitors from plague-endemic areas. In the following decades ... extended from 30 to 40 days (quarantino).",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://hrcak.srce.hr/file/398280",
+      "dominio": "srce.hr",
+      "titulo": "Ravančić, G. Dubrovnik's Invention of the Quarantine (Radovi - Zavod za hrvatsku povijest, 2021)",
+      "nivel": 1,
+      "excerto": "in 1377, Dubrovnik's authorities proclaimed an ordinance against the spread of disease ... in the mid-15th century Venice prolonged the isolation period from the original 30 to 40 days (quaranta).",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7439156/",
+      "dominio": "nih.gov",
+      "titulo": "Learning from the past in the COVID-19 era (PMC)",
+      "nivel": 1,
+      "excerto": "Originally, the period of isolation was limited to 30 days ... The 30-day period outlined in the 1377 'quarantine' edict was known in Italian as a 'trentino'.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "rejeitada",
+  "motivo_rejeicao": "quota de clássicos do lote (regra 16): a pergunta ficou em espera sem chegar a ser verificada; o limite do Andre era 4 clássicos",
+  "lote": "lote-2026-11-12-bilingue",
+  "criada_em": "2026-11-12",
+  "historico": [
+    {
+      "data": "2026-11-12",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "As fontes divergem em quem e quando alargou para 40 dias (CDC: 'nas décadas seguintes'; Ravančić: Veneza a meio do séc. XV; PMC: em 1397 Ragusa ainda dizia 30). Por isso a explicação diz só 'nas décadas seguintes' (formulação do CDC) e a pergunta só incide nos 30 dias originais, em que as três fontes coincidem. O CDC fala em 'nos portos europeus... navios 40 dias' na definição geral, mas atribui os 30 dias a Ragusa em 1377. 'Hoje Dubrovnik' é estável. Wikipédia e sites de história popular só serviram de pista. Ângulo: o número 30 contra o 40 habitual, não o 'quem inventou'. Pode ser semi-clássico (origem da quarentena é tema comum), mas o pormenor dos 30 dias é menos batido; dificuldade 3, nunca 4."
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "origem da palavra quarentena; EM ESPERA (quota de clássicos do lote atingida)"
+    },
+    {
+      "data": "2026-11-13",
+      "evento": "rejeitada",
+      "agente": "orquestrador",
+      "nota": "quota de clássicos do lote (regra 16): a pergunta ficou em espera sem chegar a ser verificada; o limite do Andre era 4 clássicos"
+    }
+  ],
+  "etiquetas": [
+    "classico"
+  ]
+}

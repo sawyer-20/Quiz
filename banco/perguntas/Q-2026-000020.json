@@ -1,19 +1,38 @@
 {
   "id": "Q-2026-000020",
-  "lingua": "pt-PT",
-  "tema": "literatura",
-  "subtema": "Prémios históricos – Nobel",
-  "formato": "escolha-multipla",
-  "enunciado": "O Nobel da Literatura de 1902 foi para o historiador Theodor Mommsen. Que obra a Academia Sueca destacou?",
-  "opcoes": [
-    "Um romance histórico sobre Júlio César",
-    "Uma história de Roma",
-    "Uma tradução latina da Eneida",
-    "Uma história da Grécia antiga"
+  "topic": "General Knowledge",
+  "subtopic": "Prémios históricos – Nobel",
+  "text": {
+    "pt-PT": {
+      "question": "O Nobel da Literatura de 1902 foi para o historiador Theodor Mommsen. Que obra a Academia Sueca destacou?",
+      "options": [
+        "Uma história da Grécia antiga",
+        "Uma biografia do imperador Augusto",
+        "Um romance histórico sobre Júlio César",
+        "Uma história de Roma"
+      ],
+      "explanation": "Uma história de Roma. A Academia Sueca premiou Mommsen como «o maior mestre vivo da arte de escrever história», com referência especial à sua monumental História de Roma, escrita em parte quando era professor em Zurique."
+    },
+    "en-US": {
+      "question": "The 1902 Nobel Prize in Literature went to historian Theodor Mommsen. Which work did the Swedish Academy highlight?",
+      "options": [
+        "A history of ancient Greece",
+        "A biography of Emperor Augustus",
+        "A historical novel about Julius Caesar",
+        "A history of Rome"
+      ],
+      "explanation": "A history of Rome. The Swedish Academy honored Mommsen as \"the greatest living master of the art of historical writing,\" with special reference to his monumental A History of Rome, written partly while he was a professor in Zurich."
+    }
+  },
+  "correct": 3,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.nobelprize.org/prizes/literature/1902/summary/",
+    "https://uzh.ch/en/researchinnovation/excellence/nobelprize/mommsen.html",
+    "https://www.nobelprize.org/prizes/literature/1902/mommsen/facts/"
   ],
-  "correta": 1,
-  "explicacao": "Uma história de Roma. A Academia Sueca premiou Mommsen como «o maior mestre vivo da arte de escrever história», com referência especial à sua monumental História de Roma, escrita em parte quando era professor em Zurique.",
-  "dificuldade_estimada": 3,
   "fontes": [
     {
       "url": "https://www.nobelprize.org/prizes/literature/1902/summary/",
@@ -34,12 +53,21 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://www.ebsco.com/research-starters/history/theodor-mommsen/",
-      "titulo": "Theodor Mommsen (EBSCO Research Starters)",
-      "nivel": 2,
-      "excerto": "Mommsen's most celebrated work, Römische Geschichte (The History of Rome), ... earning him the Nobel Prize in Literature in 1902.",
-      "dominio": "ebsco.com",
-      "consultada_em": "2026-11-10",
+      "url": "https://www.nobelprize.org/prizes/literature/1902/mommsen/facts/",
+      "dominio": "nobelprize.org",
+      "titulo": "Theodor Mommsen – Facts (NobelPrize.org)",
+      "nivel": 1,
+      "excerto": "the greatest living master of the art of historical writing, with special reference to his monumental work, A history of Rome",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://dbcs.rutgers.edu/all-scholars/mommsen-christian-matthias-theodor",
+      "dominio": "rutgers.edu",
+      "titulo": "MOMMSEN, Christian Matthias Theodor (Rutgers, Dictionary of Biographical/Cultural Scholars)",
+      "nivel": 1,
+      "excerto": "In 1902 the Römische Geschichte brought its author the Nobel Prize for Literature; he was the first German and has been the only historian to win the prize, except for Winston Churchill.",
+      "consultada_em": "2026-11-12",
       "papel": "verificador"
     }
   ],
@@ -47,26 +75,33 @@
     "verificador": {
       "resposta_texto": "Uma história de Roma",
       "concorda": true,
-      "confianca": "media",
-      "dominio": "ebsco.com",
-      "data": "2026-11-10",
-      "notas": "EBSCO (nível 2) aberta; Britannica 403. A citação da Academia só vista num espelho em resultado de pesquisa, não aberta. Outras opções incompatíveis."
+      "confianca": "alta",
+      "dominio": "rutgers.edu",
+      "data": "2026-11-12",
+      "notas": "Reservas: Rutgers é nível 1 académico mas não primário; citação da Academia só vista em pesquisa."
     },
     "advogado": {
       "aprovado": true,
-      "notas": "Advogado: citação oficial lida diretamente em nobelprize.org e uzh.ch; opções inequívocas.",
-      "data": "2026-11-10"
+      "notas": "Opção «biografia do imperador Augusto» não defensável: nenhuma fonte mostra que a Academia a destacasse nem que Mommsen a escrevesse.",
+      "data": "2026-11-12"
     },
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "explicação começa pela resposta",
-      "data": "2026-11-10"
+      "notas": "sem alterações de texto",
+      "data": "2026-11-12"
+    },
+    "tradutor": {
+      "data": "2026-11-12",
+      "notas": "tradutor"
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "conferente: mesmo facto, mesma resposta, opções equivalentes",
+      "data": "2026-11-12"
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
   "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-06-misto",
@@ -107,9 +142,94 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Quote taken from the source excerpt."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "reaberta (correção pedida pelo Andre)",
+      "agente": "orquestrador",
+      "nota": "leitura do pt-PT pelo Andre; volta à verificação"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "reformulada",
+      "agente": "pesquisador",
+      "nota": "opção «tradução latina da Eneida» trocada por «biografia do imperador Augusto» (pedido do Andre)"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte rutgers.edu"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "rejeitada",
+      "agente": "editor",
+      "nota": "copiada: sem alterações de texto"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "rejeição anulada (erro do orquestrador)",
+      "agente": "orquestrador",
+      "nota": "o resultado do editor não trazia o campo originalidade_ok e o script rejeitou por engano; nenhum agente rejeitou a pergunta"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "tradutor"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": [
     "classico"
-  ]
+  ],
+  "options_lock": "08273f00433e8065ff8d97d769178e1c1a9c3de30722f9e9dfe7c7667d3551fb"
 }

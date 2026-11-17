@@ -1,0 +1,158 @@
+{
+  "id": "Q-2026-000026",
+  "topic": "World History",
+  "subtopic": "Descobrimentos – Cabo da Boa Esperança",
+  "markets": [
+    "pt"
+  ],
+  "text": {
+    "pt-PT": {
+      "question": "Segundo Duarte Pacheco Pereira, o que viu Bartolomeu Dias que o levou a dar o nome «Boa Esperança» ao cabo?",
+      "options": [
+        "Um grande rio navegável que entrava pelo interior",
+        "Povos locais a oferecerem ouro e marfim",
+        "Um porto abrigado onde as naus se podiam reparar",
+        "A costa a virar para norte e nordeste"
+      ],
+      "explanation": "A costa a virar para norte e nordeste. No Esmeraldo de Situ Orbis, Duarte Pacheco Pereira escreve que foi por isso que Bartolomeu Dias deu ao cabo o nome de Boa Esperança: fazia esperar encontrar a Índia."
+    }
+  },
+  "correct": 3,
+  "difficulty": 4,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://upjournals.up.ac.za/index.php/historia/article/download/2611/2459/10214",
+    "https://archive.org/stream/esmeraldodesitu00peregoog/esmeraldodesitu00peregoog_djvu.txt",
+    "https://www.sahistory.org.za/people/bartolomeu-dias"
+  ],
+  "fontes": [
+    {
+      "url": "https://archive.org/stream/esmeraldodesitu00peregoog/esmeraldodesitu00peregoog_djvu.txt",
+      "dominio": "archive.org",
+      "titulo": "Esmeraldo de situ orbis (edição de 1892, texto português), livro III, cap. 7",
+      "nivel": 2,
+      "excerto": "Bartholomeu Dias que o descobrio por mandado delRey Dom Joham [...] veendo que esta costa [...] voltaua daly em diante ao norte & ao nordeste [...] onde se esperaua auerse de descobrir a India; por esta causa lhe pos nome cabo de boa esperança",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://archive.org/stream/in.gov.ignca.1658/1658_djvu.txt",
+      "dominio": "archive.org",
+      "titulo": "Esmeraldo de Situ Orbis, trad. G. H. T. Kimble, Hakluyt Society, 1937, pp. 153-154",
+      "nivel": 2,
+      "excerto": "for Bertholameu Diaz, who discovered it at the command of the late King John [...] when he saw that the coast here turned northwards and northeastwards [...] giving great hope of the discovery of India, called it the \"Cape of Good Hope\"",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://upjournals.up.ac.za/index.php/historia/article/download/2611/2459/10214",
+      "dominio": "up.ac.za",
+      "titulo": "A. Axelson, artigo na revista Historia (Univ. de Pretória), sobre falácias populares acerca de Dias",
+      "nivel": 1,
+      "excerto": "There is further proof that it was Dias who named the cape the Cape of Good Hope. [...] Pacheco Pereira [...] wrote that 'it was with good reason that this promontory was called Cabo de Boa Esperanca, for Bertolomeu Dias [...] called it the Cape of Good Hope'",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.sahistory.org.za/people/bartolomeu-dias",
+      "dominio": "sahistory.org.za",
+      "titulo": "Bartolomeu Dias, South African History Online",
+      "nivel": 2,
+      "excerto": "Professor Axelson scotches this with reference to Pacheco Pereira's statement: It was not without good reason that this promontory received the name Cabo da Boa Esperanca because Bartolomeu Dias, who discovered it at the command of the late King João [...] saw that the coast here turned northwards",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://unisapressjournals.co.za/index.php/EUSA/article/download/5400/3232/25639",
+      "dominio": "unisapressjournals.co.za",
+      "titulo": "Portuguese Place Names in South Africa (P.E. Raper, Names: Journal of the Onomastic Society of Southern Africa)",
+      "nivel": 2,
+      "excerto": "Duarte Pacheco informs us that Dias ... changed the name, since he noticed 'that the route was towards Sub-Egypt, and thence to the end of Arabia, (and) hopes were entertained of discovering India. For this reason he named it the Cape of Good Hope'.",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "A costa a virar para norte e nordeste",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "unisapressjournals.co.za",
+      "data": "2026-11-11",
+      "notas": "AMBIGUIDADE ASSINALADA PELO VERIFICADOR (para o advogado): não conseguiu abrir o texto português do Esmeraldo; a fonte cita Pacheco em tradução inglesa antiga; a opção coincide por inferência (rumo para Subegito e fim da Arábia = norte e nordeste); a expressão exata não foi verificada no original. Zenodo e BNP (purl.pt/28964) só metadados. Recusadas: revistas.usp.br (302), cctic.ese.ipsantarem.pt (rede). Recomenda confirmar pela edição crítica (Gulbenkian)."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "Advogado (2.ª passagem): leu o texto português do Esmeraldo (edição de 1892, livro III cap. 7): o sujeito de «lhe pôs nome» é Bartolomeu Dias; confirma «norte e nordeste» e «esperava-se descobrir a Índia». A pergunta atribui a Pacheco Pereira. Edição crítica da Gulbenkian não foi aberta.",
+      "data": "2026-11-11"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "explicação reordenada",
+      "data": "2026-11-11"
+    }
+  },
+  "estado": "suspensa",
+  "motivo_rejeicao": "em espera: falta fonte de nível 1 do texto do Esmeraldo ou reformulação atribuída («segundo Duarte Pacheco Pereira…»)",
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Português original na edição de 1892 (OCR): sujeito de «lhe pôs nome» é Dias. Edição crítica Gulbenkian inacessível (Zenodo/RUTTER só livro I). Kimble, Axelson e SAHO apoiam-se na mesma passagem (contam como uma); 2.ª fonte independente: texto de 1892. Dias ter encontrado Pacheco no Príncipe vem de SAHO/Axelson. PT n1 não abertas; impactum-journals.uc.pt ENOTFOUND, revhistoria2.webhostusp 502."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Nenhuma pergunta sobre o motivo do nome segundo Pacheco Pereira."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte unisapressjournals.co.za"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte unisapressjournals.co.za"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: A costa a virar para norte e nordeste; depois: A costa a virar para norte e nordeste"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2 e suspensa",
+      "agente": "orquestrador",
+      "nota": "em espera: falta fonte de nível 1 do texto do Esmeraldo ou reformulação atribuída («segundo Duarte Pacheco Pereira…»)"
+    }
+  ]
+}

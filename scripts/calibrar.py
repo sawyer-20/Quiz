@@ -112,7 +112,8 @@ def dificuldade_estimada(pergunta_id):
     if not ficheiro.exists():
         return None
     try:
-        return json.loads(ficheiro.read_text(encoding="utf-8")).get("dificuldade_estimada")
+        q = json.loads(ficheiro.read_text(encoding="utf-8"))
+        return q.get("difficulty", q.get("dificuldade_estimada"))
     except (json.JSONDecodeError, OSError):
         return None
 

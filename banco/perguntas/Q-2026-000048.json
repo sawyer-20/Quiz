@@ -1,0 +1,184 @@
+{
+  "id": "Q-2026-000048",
+  "topic": "Music",
+  "subtopic": "instrumentos e notação",
+  "markets": [
+    "pt"
+  ],
+  "text": {
+    "pt-PT": {
+      "question": "O piano que Liszt levou para Lisboa em 1845 foi dado pela rainha D. Maria II a quem?",
+      "options": [
+        "Ao embaixador de França em Lisboa",
+        "Ao professor de música dos seus filhos",
+        "À Academia Filarmónica de Lisboa",
+        "Ao Teatro de São Carlos"
+      ],
+      "explanation": "Ao professor de música dos Infantes, Manuel Inocêncio dos Santos: segundo o Museu Nacional da Música, o piano Boisselot de Liszt foi oferecido à rainha D. Maria II, que o doou a esse professor. Hoje está nesse museu."
+    },
+    "en-US": {
+      "question": "To whom did Queen Maria II give the piano that Liszt brought to Lisbon in 1845?",
+      "options": [
+        "The French ambassador in Lisbon",
+        "Her children's music teacher",
+        "The Philharmonic Academy of Lisbon",
+        "The São Carlos Theater"
+      ],
+      "explanation": "To the royal children's music teacher, Manuel Inocêncio dos Santos: according to the National Museum of Music, Liszt's Boisselot piano was offered to Queen Maria II, who donated it to him. It is now in that museum."
+    }
+  },
+  "correct": 1,
+  "difficulty": 4,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://artsandculture.google.com/asset/piano-boisselot-et-fils/2gGb1dtttEyckg",
+    "https://proa.ua.pt/index.php/comunicarte/article/download/31762/21754",
+    "https://24noticias.sapo.pt/vida/artigos/museu-da-musica-vai-estrear-recem-restaurado-cravo-taskin-de-1782-em-ciclo-de-concertos"
+  ],
+  "fontes": [
+    {
+      "url": "https://artsandculture.google.com/asset/piano-boisselot-et-fils/2gGb1dtttEyckg",
+      "dominio": "google.com",
+      "titulo": "Piano - Boisselot et Fils (Museu Nacional da Música, via Google Arts & Culture)",
+      "nivel": 1,
+      "excerto": "Piano que o compositor e pianista Franz Liszt (1811-1886) trouxe consigo em 1845, aquando da sua passagem por Portugal. Foi oferecido à Rainha D. Maria II (1819-1853) que o doou ao professor de música dos Infantes, Manuel Inocêncio dos Santos",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://proa.ua.pt/index.php/comunicarte/article/download/31762/21754",
+      "dominio": "ua.pt",
+      "titulo": "Artigo sobre Liszt em Portugal, revista Comunicarte (Universidade de Aveiro)",
+      "nivel": 1,
+      "excerto": "Liszt chegou com o seu piano, da marca Boisselot (...) o piano viajou como bagagem. Por cedência de Liszt, a Rainha adquiriu aquele piano e ofereceu-o ao professor dos seus filhos. Hoje está instalado no Museu Nacional de Música em Lisboa.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://24noticias.sapo.pt/vida/artigos/museu-da-musica-vai-estrear-recem-restaurado-cravo-taskin-de-1782-em-ciclo-de-concertos",
+      "dominio": "sapo.pt",
+      "titulo": "Museu da Música vai estrear recém-restaurado cravo Taskin de 1782 em ciclo de concertos - 24 Notícias (SAPO)",
+      "nivel": 2,
+      "excerto": "Liszt trouxe consigo um piano fabricado em Marselha pela oficina Boisselot et Fils, que foi adquirido por D. Maria II para o professor de música dos infantes, Manuel Inocêncio Liberato dos Santos.",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Ao professor de música dos seus filhos",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "sapo.pt",
+      "data": "2026-11-11",
+      "notas": "ATENÇÃO PARA O ADVOGADO: só uma fonte n2 lida (SAPO 24: «adquirido por D. Maria II para o professor»). A ficha MM 434 do Museu (n1: oferecido à rainha, que o doou ao professor) só em resultados de pesquisa (404). 'Infantes' vs 'seus filhos': inferência pequena. A ficha do museu põe ponto de interrogação na oferta de Liszt à rainha; getLISBON: 'gifted (or sold?)'. 'Dado' vs 'adquirido'. Academia Filarmónica, embaixador de França e São Carlos sem apoio. mnmusica.gov.pt/museu aberto, sem destinatário."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "Advogado (2.ª passagem): Museu e Comunicarte concordam no passo que a pergunta testa (a rainha deu o piano ao professor de música dos filhos); a diferença oferta/aquisição está no passo anterior (Liszt→rainha); nenhum distrator tem apoio.",
+      "data": "2026-11-11"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "explicação encurtada para 1–2 frases (migração v2); sem factos novos",
+      "data": "2026-11-11"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "'D. Maria II' -> 'Queen Maria II'; 'Infantes' -> 'royal children'."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Fontes PT n1: museunacionaldamusica.gov.pt (institucional), artsandculture.google.com (Museu Nacional da Música/DGPC), proa.ua.pt (U. Aveiro). Divergência menor: oferecido à rainha vs adquirido por cedência. Localização atual do piano pode ter mudado (2025 Mafra): não está na pergunta, mas a explicação diz «Hoje pertence ao Museu Nacional da Música»."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Nenhum quiz com este facto; só páginas de museu e artigos."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte observador.pt"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte sapo.pt"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: Ao professor de música dos seus filhos; depois: Ao professor de música dos seus filhos"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "'D. Maria II' -> 'Queen Maria II'; 'Infantes' -> 'royal children'."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "options_lock": "1cdeba723d1d2ae50bfde87436eac7c0da64eb602434d4ffc0fd2dac8f8af5f6"
+}

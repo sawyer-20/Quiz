@@ -1,19 +1,41 @@
 {
   "id": "Q-2026-000021",
-  "lingua": "pt-PT",
-  "tema": "portugal",
-  "subtema": "língua gestual e educação de surdos",
-  "formato": "escolha-multipla",
-  "enunciado": "De que país veio o professor contratado por D. João VI para fundar em Lisboa o Real Instituto de Surdos-Mudos e Cegos?",
-  "opcoes": [
-    "França",
-    "Suécia",
-    "Inglaterra",
-    "Espanha"
+  "topic": "General Knowledge",
+  "subtopic": "língua gestual e educação de surdos",
+  "markets": [
+    "pt"
   ],
-  "correta": 1,
-  "explicacao": "Da Suécia: Pär Aron Borg já fundara um instituto semelhante no seu país e criou o alfabeto manual que usou em Lisboa. Segundo o Governo português, o alfabeto da língua gestual portuguesa e o da sueca revelam uma origem comum.",
-  "dificuldade_estimada": 3,
+  "text": {
+    "pt-PT": {
+      "question": "De que país veio o professor contratado por D. João VI para fundar em Lisboa o Real Instituto de Surdos-Mudos e Cegos?",
+      "options": [
+        "França",
+        "Suécia",
+        "Inglaterra",
+        "Espanha"
+      ],
+      "explanation": "Da Suécia: Pär Aron Borg já fundara um instituto semelhante no seu país e criou o alfabeto manual que usou em Lisboa. Segundo o Governo português, o alfabeto da língua gestual portuguesa e o da sueca revelam uma origem comum."
+    },
+    "en-US": {
+      "question": "Which country did the teacher hired by John VI to found Lisbon's Royal Institute for the Deaf-Mute and the Blind come from?",
+      "options": [
+        "France",
+        "Sweden",
+        "England",
+        "Spain"
+      ],
+      "explanation": "Sweden: Pär Aron Borg had already founded a similar institute there and created the manual alphabet he used in Lisbon. According to the Portuguese government, the Portuguese and Swedish sign language alphabets share a common origin."
+    }
+  },
+  "correct": 1,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://ciencia.ucp.pt/ws/files/94941997/94898216.pdf",
+    "https://repositorio-aberto.up.pt/bitstream/10216/139181/2/525421.pdf",
+    "https://www.portugal.gov.pt/pt/gc23/comunicacao/noticia?i=maos-que-falam-hoje-e-dia-nacional-da-lingua-gestual-portuguesa"
+  ],
   "fontes": [
     {
       "url": "https://ciencia.ucp.pt/ws/files/94941997/94898216.pdf",
@@ -72,10 +94,17 @@
       "alteracao_factual": false,
       "notas": "estilo",
       "data": "2026-11-11"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "D. João VI = John VI; institute name close to the source term 'Surdos-Mudos'. Question 122 characters."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
   "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-06-misto",
@@ -128,7 +157,31 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "D. João VI = John VI; institute name close to the source term 'Surdos-Mudos'. Question 122 characters."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "options_lock": "b599a691e8aa0302c0f03ebf61f8d8c5bd0a1aa7c0e35451fa34b27a7aa91225"
 }

@@ -1,0 +1,262 @@
+{
+  "id": "Q-2026-000031",
+  "topic": "Geography",
+  "subtopic": "Açores – vulcanismo e paisagem",
+  "markets": [
+    "pt"
+  ],
+  "text": {
+    "pt-PT": {
+      "question": "Segundo a IUGS, que fração da área acrescentada ao Faial pelos Capelinhos (1957-58) resta hoje após a erosão marinha?",
+      "options": [
+        "Cerca de um quarto",
+        "Cerca de metade",
+        "Cerca de três quartos",
+        "Praticamente toda"
+      ],
+      "explanation": "Cerca de um quarto. A erupção acrescentou 2,4 km² ao Faial, mas a erosão marinha foi desfazendo a terra nova e, segundo a União Internacional de Ciências Geológicas (IUGS), resta hoje apenas cerca de um quarto dessa área."
+    },
+    "en-US": {
+      "question": "According to the IUGS, what fraction of the land the Capelinhos eruption (1957-58) added to Faial remains today after sea erosion?",
+      "options": [
+        "About a quarter",
+        "About half",
+        "About three-quarters",
+        "Nearly all of it"
+      ],
+      "explanation": "About a quarter. The eruption added 2.4 km² to Faial, but sea erosion gradually wore away the new land, and according to the International Union of Geological Sciences (IUGS), only about a quarter of that area remains today."
+    }
+  },
+  "correct": 0,
+  "difficulty": 4,
+  "valid_until": "2028-11-11",
+  "daily_eligible": false,
+  "sources": [
+    "https://www.azoresgeopark.com/media/docs/totens_faial.pdf",
+    "https://iugs-geoheritage.org/geoheritage_sites/capelinhos-volcano/",
+    "https://pnap.dgterritorio.gov.pt/sites/default/files/Vulcao_Capelinhos.pdf"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.azoresgeopark.com/media/docs/totens_faial.pdf",
+      "dominio": "azoresgeopark.com",
+      "titulo": "Geoparque Açores – totens Faial",
+      "nivel": 1,
+      "excerto": "A erupção dos Capelinhos, que aumentou a área da ilha em 2,4 km2 (da qual resta atualmente apenas cerca de 0,6 km2), constituiu um marco histórico na vulcanologia mundial",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://iugs-geoheritage.org/geoheritage_sites/capelinhos-volcano/",
+      "dominio": "iugs-geoheritage.org",
+      "titulo": "IUGS Geoheritage – Capelinhos volcano",
+      "nivel": 1,
+      "excerto": "adding 2.4 km2 to Faial Island – with only a fourth of this area remaining today due to sea erosion.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://pnap.dgterritorio.gov.pt/sites/default/files/Vulcao_Capelinhos.pdf",
+      "dominio": "dgterritorio.gov.pt",
+      "titulo": "Prémio Nacional de Paisagem 2012 – Proteção e Gestão da Paisagem do Vulcão dos Capelinhos (DGT / Governo dos Açores)",
+      "nivel": 1,
+      "excerto": "A ilha cresceu 2,4 km2 … O vulcão recuou, restando cerca de 0,6 Km2 na atualidade; local sujeito a intensa erosão natural",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.dn.pt/pais/vulcao-dos-capelinhos-e-monumento-natural--10730266.html",
+      "dominio": "dn.pt",
+      "titulo": "Vulcão dos Capelinhos é monumento natural (Diário de Notícias)",
+      "nivel": 2,
+      "excerto": "resta, atualmente, cerca de um quarto da nova paisagem criada aquando da erupção.",
+      "consultada_em": "2026-11-11",
+      "papel": "advogado"
+    },
+    {
+      "url": "https://servicos-sraa.azores.gov.pt/grastore/crads/20170926/Proposta_classificacao_Monumento_Natural_Vulc%C3%A3o_Capelinhos.pdf",
+      "dominio": "azores.gov.pt",
+      "titulo": "Proposta de classificação do Vulcão dos Capelinhos como Monumento Natural (Governo dos Açores, SRAA)",
+      "nivel": 1,
+      "excerto": "tinham sido acrescentados à ilha do Faial cerca de 2.4 Km2 de área – as Terras Novas. [...] da paisagem inicial formada por este vulcão, restam apenas 0.5654Km2.",
+      "consultada_em": "2026-11-12",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Cerca de um quarto",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "azores.gov.pt",
+      "data": "2026-11-12",
+      "notas": "2,4 km² acrescentados e 0,5654 km² restantes (~23,6%); atribuição à IUGS confirmada no texto oficial da IUGS."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "IUGS, Geoparque Açores e DGT/PNAP concordam (0,6/2,4 = 25%); não consegui derrubar.",
+      "data": "2026-11-12"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "sem alterações de texto",
+      "data": "2026-11-12"
+    },
+    "tradutor": {
+      "data": "2026-11-12",
+      "notas": "tradutor"
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "conferente: mesmo facto, mesma resposta, opções equivalentes",
+      "data": "2026-11-12"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "3 fontes de domínios diferentes concordam; as duas portuguesas podem partilhar origem (Governo dos Açores/Geoparque). Estudos Manchester/EGU 2019 falam em ~2,5 km² (não abertos). Área restante muda com a erosão (sensivel_ao_tempo). PT n1 abertas: azoresgeopark.com, pnap.dgterritorio.gov.pt; iugs-geoheritage.org internacional. dn.pt n2 lido."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "pesquisador",
+      "nota": "correção: valida_ate e enunciado encurtado"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Nenhuma pergunta de quiz sobre a fração restante."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte azores.gov.pt"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte lneg.pt"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: Cerca de um quarto; depois: Cerca de um quarto"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Attribution to the IUGS kept. Units not converted."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "reaberta (correção pedida pelo Andre)",
+      "agente": "orquestrador",
+      "nota": "leitura do pt-PT pelo Andre; volta à verificação"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "reformulada",
+      "agente": "pesquisador",
+      "nota": "«fração da área»; nome completo da IUGS (pedido do Andre)"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte azores.gov.pt"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "rejeitada",
+      "agente": "editor",
+      "nota": "copiada: sem alterações de texto"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "rejeição anulada (erro do orquestrador)",
+      "agente": "orquestrador",
+      "nota": "o resultado do editor não trazia o campo originalidade_ok e o script rejeitou por engano; nenhum agente rejeitou a pergunta"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "tradutor"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "options_lock": "cffff9be62fbb2618828da97e68621373e88246abd6fe570ec449e502101591a"
+}

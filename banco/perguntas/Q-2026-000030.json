@@ -1,0 +1,199 @@
+{
+  "id": "Q-2026-000030",
+  "topic": "General Knowledge",
+  "subtopic": "língua portuguesa",
+  "text": {
+    "pt-PT": {
+      "question": "De que palavra portuguesa vem o malaio «minggu», que significa «semana»?",
+      "options": [
+        "Feira",
+        "Domingo",
+        "Semana",
+        "Sábado"
+      ],
+      "explanation": "Domingo. Em malaio e em indonésio, «minggu» passou a designar o período de sete dias, a semana; é um dos empréstimos do português ao malaio."
+    },
+    "en-US": {
+      "question": "Which Portuguese word does the Malay \"minggu,\" meaning \"week,\" come from?",
+      "options": [
+        "Feira (market day)",
+        "Domingo (Sunday)",
+        "Semana (week)",
+        "Sábado (Saturday)"
+      ],
+      "explanation": "Domingo. In Malay and Indonesian, \"minggu\" came to mean the seven-day period, the week; it is one of the Portuguese loanwords in Malay."
+    }
+  },
+  "correct": 1,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://periodicos.uff.br/cadernosdeletras/article/download/48994/29687",
+    "https://singapura.embaixadaportugal.mne.gov.pt/en/the-embassy/news/portugal-s-linguistic-legacy-in-southeast-asia,-by-jo%C3%A3o-oliveira-2",
+    "https://journal.uinjkt.ac.id/index.php/dialektika/article/download/31895/pdf"
+  ],
+  "fontes": [
+    {
+      "url": "https://periodicos.uff.br/cadernosdeletras/article/download/48994/29687",
+      "dominio": "uff.br",
+      "titulo": "Bolácio, E. (2021), inventário de empréstimos do português ao malaio/indonésio, Cadernos de Letras UFF, v.32, n.62",
+      "nivel": 1,
+      "excerto": "minggu < domingo misa < missa moler < mulher nanas < ananás (Hari) Natal < Natal nona < dona ordi ou rodi < ordem pad(e)ri < padre",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://dictionary.cambridge.org/us/dictionary/english-malaysian/week",
+      "dominio": "cambridge.org",
+      "titulo": "Cambridge Dictionary, English-Malay: week",
+      "nivel": 2,
+      "excerto": "week noun ● any sequence of seven days, especially from Sunday to Saturday minggu It's three weeks since I saw her.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://biblioasia.nlb.gov.sg/vol-19/issue-1/apr-jun-2023/portuguese-legacy-southeast-asia",
+      "dominio": "nlb.gov.sg",
+      "titulo": "Portugal's Linguistic Legacy in Southeast Asia, BiblioAsia (National Library Board, Singapura)",
+      "nivel": 2,
+      "excerto": "On the weekend, that is, on sabtu (sábado; “Saturday”) and minggu (domingo; “Sunday”), he goes to a pesta (festa; “party”) with his friends.",
+      "consultada_em": "2026-11-11",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://singapura.embaixadaportugal.mne.gov.pt/en/the-embassy/news/portugal-s-linguistic-legacy-in-southeast-asia,-by-jo%C3%A3o-oliveira-2",
+      "dominio": "mne.gov.pt",
+      "titulo": "Portugal's Linguistic Legacy in Southeast Asia, by João Oliveira (Embaixada de Portugal em Singapura)",
+      "nivel": 1,
+      "excerto": "On the weekend, that is, on sabtu (sábado; “Saturday”) and minggu (domingo; “Sunday”), he goes to a pesta (festa; “party”) with his friends.",
+      "consultada_em": "2026-11-11",
+      "papel": "verificador"
+    },
+    {
+      "url": "https://journal.uinjkt.ac.id/index.php/dialektika/article/download/31895/pdf",
+      "dominio": "uinjkt.ac.id",
+      "titulo": "Dialektika (UIN Jakarta), tabela de empréstimos portugueses em indonésio",
+      "nivel": 1,
+      "excerto": "Tabela paralela de formas portuguesas e indonésias: «... Dança Domingo Dona Escola ...» alinhada com «... Dansa Minggu Nona Sekolah ...»",
+      "consultada_em": "2026-11-11",
+      "papel": "advogado"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Domingo",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "mne.gov.pt",
+      "data": "2026-11-11",
+      "notas": "Artigo de divulgação na página da Embaixada (mesmo texto do BiblioAsia/NLB do pesquisador?). Kamus Dewan (DBP) confirma os dois sentidos de minggu mas sem etimologia. Sem dicionário etimológico académico aberto fora do Wiktionary."
+    },
+    "advogado": {
+      "aprovado": true,
+      "notas": "Advogado (2.ª passagem): a tabela do Dialektika (n1, académica) é independente do BiblioAsia (a página da Embaixada republica o mesmo artigo); distratores sem apoio; Kamus Dewan confirma os dois sentidos.",
+      "data": "2026-11-11"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "explicação encurtada para 1–2 frases (migração v2); sem factos novos",
+      "data": "2026-11-11"
+    },
+    "tradutor": {
+      "data": "2026-11-11",
+      "notas": "Portuguese words kept in the options with a short gloss; 'Feira' glossed as 'market day'."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "",
+      "data": "2026-11-11"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-11-misto",
+  "criada_em": "2026-11-11",
+  "historico": [
+    {
+      "data": "2026-11-11",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Sem fonte PT n1 da lista; artigo académico brasileiro (UFF, n1). repositorium.sdum.uminho.pt e baes.uc.pt erro de rede; kbbi não resolve; unesco.org redireciona. 'século XVI' vem do resumo visto na pesquisa, não do excerto lido. Distrator «Semana» pode induzir em erro."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Nenhuma pergunta nem opções em quizzes; só dicionários e artigos."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte wiktionary.org"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte mne.gov.pt"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": "resposta antes: Domingo; depois: Domingo"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Portuguese words kept in the options with a short gloss; 'Feira' glossed as 'market day'."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "options_lock": "b414b3c71344b8e16d832e83796db66981b8f6f1951bd286c7bd0fae71ae23bd"
+}

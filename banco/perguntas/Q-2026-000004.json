@@ -1,19 +1,27 @@
 {
   "id": "Q-2026-000004",
-  "lingua": "pt-PT",
-  "tema": "historia",
-  "subtema": "Antiguidade — Egito ptolemaico (Pedra de Roseta)",
-  "formato": "escolha-multipla",
-  "enunciado": "A Pedra de Roseta repete o mesmo decreto em hieróglifos, em demótico e em que outra escrita?",
-  "opcoes": [
-    "Aramaico",
-    "Grego antigo",
-    "Cuneiforme acádio",
-    "Latim"
+  "topic": "World History",
+  "subtopic": "Antiguidade — Egito ptolemaico (Pedra de Roseta)",
+  "text": {
+    "pt-PT": {
+      "question": "A Pedra de Roseta repete o mesmo decreto em hieróglifos, em demótico e em que outra escrita?",
+      "options": [
+        "Aramaico",
+        "Grego antigo",
+        "Cuneiforme acádio",
+        "Latim"
+      ],
+      "explanation": "O decreto de 196 a.C., em honra de Ptolemeu V, foi gravado em três escritas. O grego era a língua usada na administração. Como já se sabia ler, a versão grega serviu de chave para decifrar os hieróglifos, e Champollion anunciou a decifração em 1822."
+    }
+  },
+  "correct": 1,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://arce.org/resource/rosetta-stone-unlocking-ancient-egyptian-language/",
+    "https://www.worldhistory.org/Rosetta_Stone/"
   ],
-  "correta": 1,
-  "explicacao": "O decreto de 196 a.C., em honra de Ptolemeu V, foi gravado em três escritas. O grego era a língua usada na administração. Como já se sabia ler, a versão grega serviu de chave para decifrar os hieróglifos, e Champollion anunciou a decifração em 1822.",
-  "dificuldade_estimada": 2,
   "fontes": [
     {
       "url": "https://pt.wikipedia.org/wiki/Pedra_de_Roseta",
@@ -59,8 +67,6 @@
     },
     "editor": null
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
   "estado": "rejeitada",
   "motivo_rejeicao": "copiada: o enunciado verificado ('hieróglifos, demótico e que outra escrita?') aparece quase igual em vários quizzes (ProProfs, FunTrivia, ThatQuiz, Wayground, Bibliotheca Alexandrina). A reformulação do editor ('qual das três versões abriu caminho aos hieróglifos?') muda o que se pergunta e fica incoerente com as opções (três delas não são versões da pedra). Ciclo de correção já usado; rejeitada pelo orquestrador.",
   "lote": "lote-2026-11-04-historia",
@@ -101,6 +107,12 @@
       "evento": "rejeitada",
       "agente": "editor",
       "nota": "copiada: o enunciado verificado ('hieróglifos, demótico e que outra escrita?') aparece quase igual em vários quizzes (ProProfs, FunTrivia, ThatQuiz, Wayground, Bibliotheca Alexandrina). A reformulação do editor ('qual das três versões abriu caminho aos hieróglifos?') muda o que se pergunta e fica incoerente com as opções (três delas não são versões da pedra). Ciclo de correção já usado; rejeitada pelo orquestrador."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "só pt-PT (pergunta rejeitada ou em curso)"
     }
   ]
 }

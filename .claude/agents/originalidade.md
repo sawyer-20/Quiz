@@ -25,11 +25,13 @@ Até 5 perguntas, cada uma com `ref`, enunciado e opções (sem indicação da c
      igual à nossa ou a sua tradução (um ângulo, uma imagem, um pormenor ou uma
      construção que não é a forma óbvia de perguntar o facto), **ou o mesmo conjunto de
      opções** (as mesmas 4 respostas, por qualquer ordem, mesmo traduzidas);
-   - `classico`: o **facto** aparece como pergunta noutros quizzes e o nosso enunciado
-     usa a forma natural, quase única, de o perguntar (sujeito, verbo e objeto
-     inevitáveis), com opções diferentes. Coincidir na forma natural de perguntar não é
-     copiar;
-   - `original`: nem o texto nem o facto aparecem como pergunta de quiz.
+   - `classico`: o **facto E a forma de o perguntar** são habituais em concursos, apps e
+     sites de quiz (o facto aparece como pergunta de quiz e o nosso enunciado usa a forma
+     natural, quase única, de o perguntar), com opções diferentes. Coincidir na forma
+     natural de perguntar não é copiar. Definição do Andre (17/11/2026);
+   - `original`: o texto não aparece como pergunta de quiz. **Um facto verdadeiro e
+     conhecido, perguntado com um ângulo próprio que não aparece em quizzes, é `original`**,
+     mesmo que o facto circule em artigos, flashcards ou listas de curiosidades.
 
    Exemplo de `classico` (não `copiada`): o nosso "Segundo a tradição, que nome deu
    Bartolomeu Dias ao cabo que hoje se chama da Boa Esperança?", com as opções Cabo das

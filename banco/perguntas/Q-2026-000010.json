@@ -1,19 +1,38 @@
 {
   "id": "Q-2026-000010",
-  "lingua": "pt-PT",
-  "tema": "historia",
-  "subtema": "História da ciência e da técnica (até 1900)",
-  "formato": "escolha-multipla",
-  "enunciado": "Ao criar o metro, a França revolucionária fê-lo igual a 1/10 000 000 de que distância?",
-  "opcoes": [
-    "O diâmetro da Terra, de polo a polo",
-    "Do polo Norte ao equador",
-    "O perímetro da Terra no equador",
-    "De Paris ao polo Norte"
+  "topic": "World History",
+  "subtopic": "História da ciência e da técnica (até 1900)",
+  "text": {
+    "pt-PT": {
+      "question": "Quando criou o metro, a França revolucionária definiu-o como a décima milionésima parte de que distância?",
+      "options": [
+        "O diâmetro da Terra, de polo a polo",
+        "Do polo Norte ao equador",
+        "O perímetro da Terra no equador",
+        "De Paris ao polo Norte"
+      ],
+      "explanation": "Do polo Norte ao equador, pelo meridiano de Paris. Delambre e Méchain mediram o arco entre Dunquerque e Barcelona, mas o metro-padrão original ficou cerca de 0,2 mm mais curto do que essa décima milionésima parte do arco."
+    },
+    "en-US": {
+      "question": "When revolutionary France created the meter, it defined it as one ten-millionth of which distance?",
+      "options": [
+        "The Earth's diameter, from pole to pole",
+        "From the North Pole to the equator",
+        "The Earth's circumference at the equator",
+        "From Paris to the North Pole"
+      ],
+      "explanation": "From the North Pole to the equator, along the Paris meridian. Delambre and Méchain measured the arc between Dunkirk and Barcelona, but the original standard meter ended up about 0.2 mm shorter than that ten-millionth of the arc."
+    }
+  },
+  "correct": 1,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.nist.gov/si-redefinition/meter",
+    "https://metrologie-francaise.lne.fr/en/metrology/history-units",
+    "https://link.springer.com/article/10.1007/s00190-019-01257-7"
   ],
-  "correta": 1,
-  "explicacao": "Do polo Norte ao equador, pelo meridiano de Paris. Delambre e Méchain mediram o arco entre Dunquerque e Barcelona, mas erros no cálculo da curvatura da Terra deixaram o metro-padrão original 0,2 mm mais curto.",
-  "dificuldade_estimada": 3,
   "fontes": [
     {
       "url": "https://www.nist.gov/si-redefinition/meter",
@@ -34,12 +53,30 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://www.npl.co.uk/resources/the-si-units/metre",
-      "titulo": "metre (m) - National Physical Laboratory",
+      "url": "https://physicstoday.aip.org/reviews/the-measure-of-all-things-the-seven-year-odyssey-and-hidden-error-that-transformed-the-world",
+      "dominio": "aip.org",
+      "titulo": "Physics Today: The Measure of All Things (recensão)",
+      "nivel": 2,
+      "excerto": "Their estimate of the length of a meter differs by 0.2 mm from its target value of 10−7 of that arc length ... the pole-to-equator arc length along the Paris meridian.",
+      "consultada_em": "2026-11-12",
+      "papel": "advogado"
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s00190-019-01257-7",
+      "dominio": "springer.com",
+      "titulo": "How gravity field shortened our metre (J. Geodesy 93, 2019)",
       "nivel": 1,
-      "excerto": "The metre was initially defined as one ten-millionth of the distance on the Earth's surface from the north pole to the equator, on a line passing through Paris.",
-      "dominio": "npl.co.uk",
-      "consultada_em": "2026-11-05",
+      "excerto": "the metre we use ... is about 0.2 millimetres shorter than it was supposed to be ... the metre was supposed to be one ten-millionth part of the Earth quadrant",
+      "consultada_em": "2026-11-12",
+      "papel": "advogado"
+    },
+    {
+      "url": "https://metrologie-francaise.lne.fr/en/metrology/history-units",
+      "dominio": "lne.fr",
+      "titulo": "The historical evolution of units (LNE, Réseau National de la Métrologie Française)",
+      "nivel": 1,
+      "excerto": "Introduced on 26 March 1791, the metre was defined as being equal to the ten millionth part of one quarter of the terrestrial meridian.",
+      "consultada_em": "2026-11-12",
       "papel": "verificador"
     }
   ],
@@ -48,25 +85,32 @@
       "resposta_texto": "Do polo Norte ao equador",
       "concorda": true,
       "confianca": "alta",
-      "dominio": "npl.co.uk",
-      "data": "2026-11-05",
-      "notas": "NPL e TÜV Nord confirmam. Nota do verificador: 'De Paris ao polo Norte' pode confundir (o meridiano passa por Paris), mas não é defensável."
+      "dominio": "lne.fr",
+      "data": "2026-11-12",
+      "notas": "Excluídas as restantes; fonte lida. Ambiguidade assinalada pelo verificador e afastada pelo advogado do diabo (Paris–polo ≈ 4 900 km → 0,49 m ≠ 1 m)."
     },
     "advogado": {
       "aprovado": true,
-      "notas": "Dunquerque–Barcelona, erro de curvatura e metro 0,2 mm curto confirmados no NIST; achatamento 1/334 na Wikipédia. Nenhum distrator defensável (LNE: quarto de meridiano, 1791).",
-      "data": "2026-11-04"
+      "notas": "Resposta única; 0,2 mm e Dunquerque–Barcelona com duas fontes de acordo; sem causa contestada na explicação.",
+      "data": "2026-11-12"
     },
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "Novo ângulo (criação da unidade, fração em algarismos); opções encurtadas, mesmo sentido; 'erros no cálculo da curvatura' e 0,2 mm segundo o NIST. Originalidade: só enciclopédias e uma questão de vestibular (UFG 2009) com outro cálculo.",
-      "data": "2026-11-04"
+      "notas": "sem alterações",
+      "data": "2026-11-12"
+    },
+    "tradutor": {
+      "data": "2026-11-12",
+      "notas": "tradutor"
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "conferente: equivalentes; reparo menor sobre a mistura de «O/Do/De» nas opções, sem reprovar",
+      "data": "2026-11-12"
     }
   },
-  "sensivel_ao_tempo": false,
-  "valida_ate": null,
   "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-04-historia",
@@ -131,6 +175,91 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "migrada para v2",
+      "agente": "orquestrador",
+      "nota": "facto já verificado; aguarda o en-US (tradutor) e a conferência (conferente)"
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "US number format; Dunkirk and Barcelona in usual English forms."
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-11",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "reaberta (correção pedida pelo Andre)",
+      "agente": "orquestrador",
+      "nota": "leitura do pt-PT pelo Andre; volta à verificação"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "reformulada",
+      "agente": "pesquisador",
+      "nota": "enunciado reescrito (pedido do Andre)"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte springer.com"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "retirada a causa contestada (erros na curvatura da Terra); mantém-se a cifra de 0,2 mm, com 3 fontes"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte lne.fr"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "tradutor"
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-12",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
-  ]
+  ],
+  "options_lock": "a8e6cecbbbbc990a07c02ba5c92cdad6eb5f7546d82b904021d07f65a774de7d"
 }
