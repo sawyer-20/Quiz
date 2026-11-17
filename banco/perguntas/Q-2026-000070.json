@@ -55,8 +55,8 @@
     "verificador": null,
     "advogado": null
   },
-  "estado": "em_verificacao",
-  "motivo_rejeicao": null,
+  "estado": "suspensa",
+  "motivo_rejeicao": "reaberta por revisão editorial de 17/11 e parada: sem fonte independente de nível 1 ou 2 para a verificação cega (só Wikipédia e blogue); a decidir pelo Andre",
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
   "historico": [
@@ -137,6 +137,12 @@
       "evento": "verificação interrompida: sem fonte independente de nível 1 ou 2",
       "agente": "orquestrador",
       "nota": "o verificador cego confirmou a resposta (confiança média) mas só com Wikipédia e um blogue (nível 3), em duas tentativas; as fontes de nível 1/2 abertas (irishfa.com, rte.ie, soccerhistory.co.uk) são do pesquisador. Fica em em_verificacao à espera de decisão do Andre (regra 5)."
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "suspensa",
+      "agente": "orquestrador",
+      "nota": "reaberta por revisão editorial de 17/11 e parada: sem fonte independente de nível 1 ou 2 para a verificação cega (só Wikipédia e blogue); a decidir pelo Andre"
     }
   ],
   "etiquetas": []

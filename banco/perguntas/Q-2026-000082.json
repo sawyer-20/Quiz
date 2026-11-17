@@ -112,9 +112,14 @@
     "tradutor": {
       "data": "2026-11-17",
       "notas": "Resposta certa no índice 1, ordem das opções igual. A pergunta pt-PT pergunta «como era», e o en-US diz «made of», que é mais natural e continua a cobrir as 4 opções (material ou acabamento). Atribuições mantidas (University of Colorado, Guinness World Records). «Disco de ouro» passou a \"gold record\", entre aspas. «Moldada» passou a \"molded\" e «fundida» a \"cast\", como no pt-PT. «Só em 1958 ... começou a atribuir discos de ouro oficiais» passou a \"only began awarding official gold records in 1958\"."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Atribuições (Universidade do Colorado, Guinness World Records), 1,2 milhões e 1958 coincidem. Opções equivalentes pela mesma ordem e todas com menos de 60 caracteres. A pergunta pt «como era» e a en «made of» têm um matiz ligeiramente diferente, mas as opções respondem a ambas da mesma forma. Sem pistas novas.",
+      "data": "2026-11-17"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -274,7 +279,20 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Resposta certa no índice 1, ordem das opções igual. A pergunta pt-PT pergunta «como era», e o en-US diz «made of», que é mais natural e continua a cobrir as 4 opções (material ou acabamento). Atribuições mantidas (University of Colorado, Guinness World Records). «Disco de ouro» passou a \"gold record\", entre aspas. «Moldada» passou a \"molded\" e «fundida» a \"cast\", como no pt-PT. «Só em 1958 ... começou a atribuir discos de ouro oficiais» passou a \"only began awarding official gold records in 1958\"."
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "edcd8a9988623df46a08b72c5f00db798f63b0c3af5dad81bf5ea374a2a124d9"
 }

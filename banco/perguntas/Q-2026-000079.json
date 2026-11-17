@@ -94,9 +94,14 @@
     "tradutor": {
       "data": "2026-11-17",
       "notas": "Correct answer stays at index 3 (zero-based), the fourth option. Galileo's \"fixa\" label kept in quotes as in the source. \"Neptuno\" became \"Neptune\". \"Nova explosiva\" was rendered as \"A new exploding star\" (a nova/supernova-type event), which keeps the pt-PT sense. \"chegou a detetar\" became \"did detect\", following Kowal and Drake's wording (\"also detected the motion\"). Attributions to NASA, Jamieson, and Kowal and Drake are kept. The explanation is about 270 characters in 2 sentences."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Atribuições (NASA, Jamieson, Kowal e Drake) e datas iguais nos dois idiomas. Opções equivalentes uma a uma. A palavra «fixa»/\"fixa\" é citação do caderno, por isso mantê-la no en-US é correto. Explicação com 2 frases e dentro dos limites.",
+      "data": "2026-11-17"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -208,7 +213,20 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Correct answer stays at index 3 (zero-based), the fourth option. Galileo's \"fixa\" label kept in quotes as in the source. \"Neptuno\" became \"Neptune\". \"Nova explosiva\" was rendered as \"A new exploding star\" (a nova/supernova-type event), which keeps the pt-PT sense. \"chegou a detetar\" became \"did detect\", following Kowal and Drake's wording (\"also detected the motion\"). Attributions to NASA, Jamieson, and Kowal and Drake are kept. The explanation is about 270 characters in 2 sentences."
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "de5cc0ea3345f9320d106b3b1e141e578f1075519d793f7c01ad4b2a46619597"
 }
