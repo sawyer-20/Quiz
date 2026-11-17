@@ -48,3 +48,9 @@ Fora da regra 15, a decidir pelo Andre: **Q-2026-000029** (horizonte artificial 
 | Q-2026-000083 | Technicolor e Natalie Kalmus | Sem «centenas de títulos» nem «na maioria dos filmes»; «casou com», atribuir ao ACMI. |
 
 Fora da regra 15: Q-2026-000078 (Bakhshali) rejeitada, facto superado por revisão de Oxford (2024).
+
+### Acrescento de 17/11/2026 (reavaliação da originalidade com a definição nova)
+
+Entram também no lote 5, como retoma única e sem repetir a pesquisa (já têm texto e fontes do pesquisador; seguem para o verificador cego): **Q-2026-000051** (estatueta dos Óscares; lembrar a nota do advogado «em pé sobre» contra «diante de»), **Q-2026-000054** (Baikal), **Q-2026-000058** (cravo e piano), **Q-2026-000062** (sonda de 20/8/1977), **Q-2026-000068** (lentes de Barry Lyndon). Com a definição nova ficaram `original` e perderam a etiqueta `classico`. Mantêm-se clássicas e fora: Q49, Q53, Q55, Q57, Q59, Q71.
+
+**Q-2026-000070** (Irish FA e o penálti) está `suspensa`: o verificador cego não achou fonte independente de nível 1 ou 2. Decisão do Andre (voltar à versão anterior, procurar nova fonte ou rejeitar).
