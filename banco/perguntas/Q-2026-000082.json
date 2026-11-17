@@ -67,10 +67,26 @@
       "excerto": "It was a publicity stunt from RCA Victor who literally sprayed a master copy of the record with gold lacquer after the record sold a whopping 1.2 million copies.",
       "consultada_em": "2026-11-17",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.dennismspragg.com/chattanooga-choo-choo/",
+      "dominio": "dennismspragg.com",
+      "titulo": "Chattanooga Choo Choo - the first gold record (Dennis M. Spragg, historiador do arquivo Glenn Miller)",
+      "nivel": 2,
+      "excerto": "On February 10, 1942, RCA Victor-Bluebird records awarded Miller with a gold-painted and framed copy of the 78rpm disc after sales had passed one million, two hundred thousand copies.",
+      "consultada_em": "2026-11-17",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Uma cópia do disco pulverizada com tinta dourada",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "dennismspragg.com",
+      "data": "2026-11-17",
+      "notas": "Spragg e MusicRow (https://musicrow.com/2016/05/glenn-millers-chattanooga-choo-choo-celebrates-75-years/) concordam que era uma cópia do disco de 78 rpm pintada de dourado. Isto exclui o ouro maciço e o latão moldado. O revestimento a folha de ouro é contrariado por 'painted'. A palavra 'pulverizada' é uma inferência pequena, pois uma fonte secundária citada na pesquisa fala em 'sprayed with gold lacquer'. Confiança média por esse motivo e pela fonte divergente (placa histórica, 'gold-plated'). | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Uma placa histórica do condado de Hamilton (vista só no resumo da pesquisa, sem abrir a página) fala em 'gold-plated stamper', e uma transcrição da locução diz 'solid gold'. A opção 'revestida a folha de ouro' ou a de ouro maciço poderiam parecer defensáveis. Duas fontes lidas dizem 'pintado': Spragg (arquivista de Glenn Miller) e MusicRow ('RCA Victor executives painted a 78 rpm record gold'). Nenhuma diz 'pulverizada' (spray) de forma explícita. Escolhi a opção da tinta por ser a única compatível com 'pintado'."
+    },
     "advogado": null
   },
   "estado": "em_verificacao",
@@ -185,6 +201,12 @@
       "evento": "reformulada",
       "agente": "pesquisador",
       "nota": "Enunciado passa de «De que era feito» para «Como era», para permitir opções paralelas. Quatro opções reescritas com a mesma estrutura («Uma cópia do disco + particípio + material»), sem «vinil». Explicação reescrita só com factos confirmados nas duas fontes lidas; saiu a atribuição ao locutor e a data exata."
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte dennismspragg.com"
     }
   ],
   "etiquetas": []
