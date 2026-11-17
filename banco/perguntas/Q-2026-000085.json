@@ -58,10 +58,26 @@
       "excerto": "solely for the purpose of preservation of the game in a playable form by an eligible library, archives, or museum",
       "consultada_em": "2026-11-17",
       "papel": "advogado"
+    },
+    {
+      "url": "https://gameworldobserver.com/2024/10/28/dmca-exemption-denied-out-of-print-video-games",
+      "dominio": "gameworldobserver.com",
+      "titulo": "US Copyright Office rejects DMCA exemption to allow remote access to out-of-print video games",
+      "nivel": 2,
+      "excerto": "This would allow libraries and archives to legally circumvent the restrictions and remotely share copies of out-of-print games for academic and other research purposes. Last week, the US Copyright Office has rejected the proposed exemption.",
+      "consultada_em": "2026-11-17",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Dar acesso remoto a investigadores",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "gameworldobserver.com",
+      "data": "2026-11-17",
+      "notas": "A busca web resumiu a recomendação da Registadora (copyright.gov): a isenção existente foi renovada, com preservação e jogo nas instalações, e o pedido de acesso fora das instalações foi recusado. Isto exclui 'guardar cópias de preservação' e 'jogá-los nas instalações'. Vender cópias nunca foi pedido. O PDF de copyright.gov abriu, mas as pesquisas por 'premises' e 'off-premises' não devolveram nada (provavelmente texto do PDF mal extraído), por isso a fonte citada é de nível 2."
+    },
     "advogado": null,
     "editor": {
       "aprovado": true,
@@ -153,6 +169,12 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte gameworldobserver.com"
     }
   ],
   "etiquetas": []

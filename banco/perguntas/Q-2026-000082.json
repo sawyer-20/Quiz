@@ -58,10 +58,26 @@
       "excerto": "it actually is a recording of 'Chattanooga Choo Choo', but it's in gold, solid gold, and is really fine",
       "consultada_em": "2026-11-17",
       "papel": "advogado"
+    },
+    {
+      "url": "https://www.dennismspragg.com/chattanooga-choo-choo/",
+      "dominio": "dennismspragg.com",
+      "titulo": "Chattanooga Choo Choo by Dennis M. Spragg",
+      "nivel": 2,
+      "excerto": "On February 10, 1942, RCA Victor-Bluebird records awarded Miller with a gold-painted and framed copy of the 78rpm disc after sales had passed one million, two hundred thousand copies.",
+      "consultada_em": "2026-11-17",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Uma cópia do disco pintada a ouro",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "dennismspragg.com",
+      "data": "2026-11-17",
+      "notas": "Lida so uma fonte de nivel 2, especialista e historiador de Glenn Miller. Exclui o ouro maciço, porque o objeto era uma cópia pintada. Latão e vinil folheado nao aparecem em nenhuma fonte. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Uma pesquisa web (nao lida em pagina propria) refere outras descricoes, como estampador dourado com laca ou banhado a ouro. Mas so a fonte lida diz pintada, e nenhuma indica ouro maciço, vinil folheado ou latão."
+    },
     "advogado": null,
     "editor": {
       "aprovado": true,
@@ -141,6 +157,12 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte dennismspragg.com"
     }
   ],
   "etiquetas": []
