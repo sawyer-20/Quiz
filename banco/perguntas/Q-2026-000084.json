@@ -12,6 +12,16 @@
         "10"
       ],
       "explanation": "Nove golos: a Suíça chegou a vencer por 3–0, mas a Áustria virou o jogo e foi para o intervalo a ganhar por 5–4. Com 12 golos, é o jogo com mais golos da história dos Mundiais, segundo a FIFA."
+    },
+    "en-US": {
+      "question": "In Austria 7-5 Switzerland, a quarterfinal of the 1954 World Cup, how many goals were scored in the first half alone?",
+      "options": [
+        "9",
+        "7",
+        "8",
+        "10"
+      ],
+      "explanation": "Nine goals: Switzerland led 3-0 at one point, but Austria turned the game around and went into halftime ahead 5-4. With 12 goals, it is the highest-scoring game in World Cup history, according to FIFA."
     }
   },
   "correct": 0,
@@ -68,13 +78,21 @@
       "data": "2026-11-17",
       "notas": "Ler a página nesta sessão. Foi um quarto de final (1/4 Finals, 26-06-1954). Há 9 golos até ao 39' e o seguinte é aos 53', por isso a 1.ª parte teve 9 golos (5-4 ao intervalo). Pesquisas independentes dão também 5-4 ao intervalo (ESPN abriu mas sem texto útil; worldfootball.net deu 403). Apenas uma fonte aberta e lida com a lista de golos, e é um site estatístico, daí confiança média. Opções 7, 8 e 10 excluídas pela contagem."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "Resposta 9 (5–4 ao intervalo) confirmada por FIFA e RSSSF. O recorde de 12 golos está atribuído à FIFA (2018) e, depois do Mundial de 2026, a beIN lista-o em 1.º. Já não depende de «até 2026». Opções sem segunda resposta.",
+      "data": "2026-11-17"
+    },
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
       "notas": "Explicação reduzida a 2 frases (cerca de 200 caracteres). Retirei a frase do calor e de Lausanne, o que resolve o anglicismo (seria «Lausana»). Mantive a atribuição «segundo a FIFA». Enunciado e opções intocados.",
       "data": "2026-11-17"
+    },
+    "tradutor": {
+      "data": "2026-11-17",
+      "notas": "Opções na nova ordem do pt-PT (certa no índice 0). Resultados com hífen simples. 'quarto de final' = quarterfinal (grafia americana). 'chegou a vencer por 3-0' = led 3-0 at one point. Atribuição à FIFA mantida."
     }
   },
   "estado": "em_verificacao",
@@ -207,6 +225,18 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte thesoccerworldcups.com"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Opções na nova ordem do pt-PT (certa no índice 0). Resultados com hífen simples. 'quarto de final' = quarterfinal (grafia americana). 'chegou a vencer por 3-0' = led 3-0 at one point. Atribuição à FIFA mantida."
     }
   ],
   "etiquetas": []

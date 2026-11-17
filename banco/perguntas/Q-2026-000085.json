@@ -12,6 +12,16 @@
         "Dar acesso remoto a investigadores"
       ],
       "explanation": "O Gabinete recusou o acesso remoto de investigadores a videojogos esgotados e, em outubro de 2024, manteve os limites em vigor, que impedem disponibilizá-los fora da biblioteca. Segundo a Video Game History Foundation, a associação da indústria (ESA) opôs-se ao pedido na audiência."
+    },
+    "en-US": {
+      "question": "In 2024, the U.S. Copyright Office refused to expand the legal exemption to let libraries do what with out-of-print video games?",
+      "options": [
+        "Sell digital copies to the public",
+        "Keep preservation copies",
+        "Play them on library premises",
+        "Give researchers remote access"
+      ],
+      "explanation": "The Office denied remote access for researchers to out-of-print video games and, in October 2024, kept the current limits, which bar making them available outside the library. According to the Video Game History Foundation, the industry association (ESA) opposed the request at the hearing."
     }
   },
   "correct": 3,
@@ -78,13 +88,21 @@
       "data": "2026-11-17",
       "notas": "A regra final recusou retirar a limitação de premissas (jogos não podem ser disponibilizados fora das instalações) pedida para a classe 6(b), com o argumento de acesso remoto de investigadores. A preservação de cópias já era permitida e foi renovada, logo não foi recusada. Jogar nas instalações continua permitido. Vender cópias nunca foi pedido. Todas as outras opções excluídas."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "notas": "O texto atual corresponde ao que as fontes dizem: manteve os limites em vigor (VGC, CFR 201.40(b)(19)) e a oposição da ESA vem atribuída à VGHF. Opções 1 e 2 já são permitidas, a 0 nunca foi pedida. Outubro de 2024: VGHF e VGC. Não reli o PDF do Federal Register nesta passagem.",
+      "data": "2026-11-17"
+    },
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
       "notas": "Explicação reduzida a 2 frases (cerca de 285 caracteres), a começar pela resposta. Retirei o risco de prejuízo para o mercado e a referência à Software Preservation Network como autora do pedido. Mantive a atribuição «Segundo a Video Game History Foundation». Enunciado e opções intocados.",
       "data": "2026-11-17"
+    },
+    "tradutor": {
+      "data": "2026-11-17",
+      "notas": "Opções na nova ordem do pt-PT (certa no índice 3). 'Gabinete de Direitos de Autor dos EUA' = U.S. Copyright Office; 'esgotados' = out-of-print (o conferente pode preferir 'no longer sold'). 'isenção legal' = legal exemption. Atribuição à Video Game History Foundation mantida; ESA identificada como 'industry association' como no pt-PT. Explicação com 290 caracteres, perto do limite de 300."
     }
   },
   "estado": "em_verificacao",
@@ -193,6 +211,18 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte federalregister.gov"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Opções na nova ordem do pt-PT (certa no índice 3). 'Gabinete de Direitos de Autor dos EUA' = U.S. Copyright Office; 'esgotados' = out-of-print (o conferente pode preferir 'no longer sold'). 'isenção legal' = legal exemption. Atribuição à Video Game History Foundation mantida; ESA identificada como 'industry association' como no pt-PT. Explicação com 290 caracteres, perto do limite de 300."
     }
   ],
   "etiquetas": []
