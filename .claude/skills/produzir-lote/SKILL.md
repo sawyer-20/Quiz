@@ -86,9 +86,11 @@ opções; sem indicar a certa). Os canários não passam por aqui.
   `classico com dificuldade alta` e o alvo volta ao passo 1. A percentagem de clássicos
   no lote é um indicador do pesquisador (meta: até 20%), não um bloqueio; a quota de 20%
   conta sobre o banco e o `aprovar.py` aplica-a a partir de 100 perguntas.
-  **Regra 16:** quando o lote já tem 2 clássicos, um clássico novo é trocado por outro
-  alvo (novo pedido ao pesquisador, com ângulo não clássico) já aqui, antes da
-  verificação; o rejeitado fica com motivo `quota de clássicos do lote`.
+  **Regra 16 (definição nova):** «clássico» é o facto E a forma de o perguntar serem
+  habituais em quizzes. O limite é 20% das aprovadas do lote (não um número fixo): os
+  clássicos que ultrapassarem a vaga previsível ficam em espera, e os que sobrarem no fim
+  são rejeitados com motivo `quota de clássicos do lote`. Não mudes a definição nos pedidos
+  à originalidade: ela está no ficheiro do agente.
 - `original`: segue.
 - `completa: false` (pesquisas interrompidas): a pergunta fica em `em_verificacao` e o
   passo repete-se para ela antes de avançar.
@@ -125,6 +127,12 @@ sido rejeitadas por `discorda`, para o lote, grava o relatório e explica ao And
 
 ## 4. Advogado do diabo
 
+**Antes de invocar o advogado**, corre `python3 scripts/limites.py <ids>`: as perguntas que
+falharem (explicação com mais de 300 caracteres ou 2 frases, opção com mais de 60, enunciado
+com mais de 200) voltam ao editor, que encurta sem mudar facto, atribuição nem opções. Um
+relatório do advogado (ou de qualquer agente) cortado ou com JSON inválido **não se
+reconstrói à mão** (regra 23): pede ao agente o JSON completo ou repete o passo.
+
 Invoca o agente `advogado-do-diabo` com blocos de até 5 rascunhos completos (incluindo a
 resposta e as fontes do pesquisador e do verificador).
 
@@ -134,8 +142,9 @@ resposta e as fontes do pesquisador e do verificador).
   que o alvo já seja um alvo retomado.
 - Só problemas `corrigivel` com `reformulacao_sugerida`: aplica **exatamente** a
   reformulação do advogado (não escreves texto teu) e volta ao passo 3 (nova verificação
-  às cegas) e depois a este passo. Só há **um** ciclo de correção por pergunta; à
-  segunda, rejeita e, se não é clássica, regista-a em `relatorios/alvos-a-retomar.md`
+  às cegas) e depois a este passo. Há **um** ciclo de correção por pergunta; um **segundo** só quando o
+  que falta é de redação, atribuição ou arredondamento (não muda facto, resposta nem
+  opções); máximo de dois ciclos (regra 14). Esgotados, rejeita e, se não é clássica, regista-a em `relatorios/alvos-a-retomar.md`
   (regra 15; só uma retoma por alvo). (Uma pergunta reaberta por mudança de regra ou por auditoria tem
   direito a um ciclo novo.)
 - `fontes_substitutas` ou outra correção só de fontes: aplica-a e volta a invocar o

@@ -24,12 +24,16 @@ ficheiros e nunca tomas decisões de produto sozinho.
 6. Português europeu (pt-PT) em tudo: perguntas, explicações e relatórios.
 7. Nunca copiar perguntas de concursos (Joker, Dr. Why, Trivial Pursuit, Quem Quer Ser
    Milionário), de outras apps ou de sites de quiz. A originalidade mede o **texto**,
-   não o facto: um facto clássico pode entrar com enunciado próprio e leva a etiqueta
-   `classico` (nunca em dificuldade 4 ou 5). Quota: no máximo 20% de clássicos entre as
-   perguntas aprovadas e publicadas do **banco**, aplicada a partir de 100 perguntas;
-   abaixo disso, só se mede. No lote, a percentagem de clássicos é um indicador do
-   pesquisador (meta: até 20%), não um bloqueio. Originalidade interrompida (limite de
-   utilização ou erro): a pergunta fica em `em_verificacao`.
+   não o facto. **Definição de «clássico» (decisão do Andre, 17/11/2026): o facto e a forma
+   de o perguntar são habituais em concursos, apps e sites de quiz.** Um facto conhecido,
+   perguntado com um ângulo próprio que não aparece em quizzes, é `original`. O clássico
+   pode entrar com enunciado próprio e leva a etiqueta `classico` (nunca em dificuldade 4
+   ou 5): as perguntas clássicas e fáceis mantêm o jogador nos primeiros níveis; o limite
+   serve só para o banco não ser de trivia genérica. Limites: no máximo **20% das
+   aprovadas do lote** (arredondado para baixo, em percentagem e não em número absoluto) e
+   20% das aprovadas e publicadas do **banco**, esta aplicada a partir de 100 perguntas;
+   abaixo disso, só se mede. Originalidade interrompida (limite de utilização ou erro): a
+   pergunta fica em `em_verificacao`.
 8. Nada ligado ao retalho alimentar (temas, marcas, patrocínios).
 9. Os agentes não leem nem escrevem ficheiros (é isso que protege a verificação às
    cegas): devolvem JSON. Só tu escreves em `banco/` e em `relatorios/`. Por isso, em
@@ -48,15 +52,25 @@ ficheiros e nunca tomas decisões de produto sozinho.
     Se um agente devolveu `aprovado: false` e aplicaste a correção dele (incluindo trocar
     ou tirar uma fonte), a pergunta volta a esse agente, e só o veredicto que ele der fica
     registado em `verificacao`.
-14. **Um ciclo de correção por pergunta, na produção.** Uma pergunta reaberta por mudança
-    de regra ou por auditoria tem direito a um ciclo novo.
+14. **Ciclos de correção por pergunta, na produção.** Há um ciclo de correção. Um **segundo
+    ciclo** só é permitido quando o que falta é de redação, atribuição ou arredondamento e
+    **não muda o facto, a resposta nem as opções**; qualquer mudança ao facto reinicia a
+    pergunta no verificador cego. Máximo de dois ciclos. As atribuições que o advogado
+    exigir ficam no campo `sources` (a explicação só atribui quando for necessário para a
+    regra das fontes). Antes de a pergunta ir ao advogado, o orquestrador valida os limites
+    de texto (explicação até 300 caracteres e 2 frases, opções até 60, enunciado até 200)
+    com `python3 scripts/limites.py <ids>`: foi o limite de 300 caracteres que reabriu e
+    matou perguntas do lote 4. Uma pergunta reaberta por mudança de regra ou por auditoria
+    tem direito a ciclos novos.
 15. **Alvos a retomar.** Uma pergunta não clássica que esgota o ciclo de correção gera um
     alvo a retomar no lote seguinte, **uma única vez**, com ângulo novo e as notas do
     advogado. A lista está em `relatorios/alvos-a-retomar.md`. Um alvo já retomado que
     volta a falhar não regressa à lista.
 16. **Clássicos no plano do lote.** Pelo menos 8 em cada 10 alvos têm ângulo não clássico.
-    Quando o lote já tem 2 clássicos, um clássico novo é trocado por outro alvo logo a
-    seguir à originalidade, antes da verificação.
+    O lote não pode ter mais de 20% de clássicos entre as aprovadas (regra 7): quando o
+    acréscimo de um clássico novo ultrapassaria esse limite no fim do lote, o clássico fica
+    em espera (`em_verificacao`, nota no histórico) e só avança se sobrar vaga; no fim do
+    lote, os que ficarem em espera são rejeitados com motivo `quota de clássicos do lote`.
 17. **Mudanças ao motor entram por pedido de merge para o `main`** (regras, agentes,
     skills, scripts). O banco e os relatórios de lote seguem no ramo de trabalho.
 18. **O facto verifica-se uma vez, o texto escreve-se duas.** O pesquisador, o verificador,
@@ -76,6 +90,11 @@ ficheiros e nunca tomas decisões de produto sozinho.
     alvo muda.
 22. **Mercados.** `markets` (ex.: `["pt"]`) só se usa em perguntas de interesse local; sem
     valor = global. `daily_eligible` só para factos estáveis (sem `valid_until`).
+
+23. **Relatórios truncados ou malformados não se aplicam.** Um relatório de agente cortado a
+    meio ou com JSON inválido pode ter perdido uma objeção no fim. O orquestrador não o
+    reconstrói: pede ao agente que o devolva completo ou repete o passo. Nunca aprova uma
+    pergunta que dependa de um relatório assim.
 
 ## Onde estão as coisas
 
