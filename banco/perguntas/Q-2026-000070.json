@@ -53,7 +53,8 @@
   ],
   "verificacao": {
     "verificador": null,
-    "advogado": null
+    "advogado": null,
+    "editor": null
   },
   "estado": "suspensa",
   "motivo_rejeicao": "reaberta por revisão editorial de 17/11 e parada: sem fonte independente de nível 1 ou 2 para a verificação cega (só Wikipédia e blogue); a decidir pelo Andre",
