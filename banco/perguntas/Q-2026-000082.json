@@ -4,14 +4,14 @@
   "subtopic": "História da música",
   "text": {
     "pt-PT": {
-      "question": "Como era, na realidade, o primeiro «disco de ouro», entregue a Glenn Miller em 1942?",
+      "question": "Segundo a Guinness World Records, como era o primeiro «disco de ouro», entregue a Glenn Miller em 1942?",
       "options": [
-        "Uma cópia do disco fundida em ouro maciço",
+        "Uma cópia do disco revestida a folha de ouro",
         "Uma cópia do disco moldada em latão polido",
         "Uma cópia do disco pulverizada com tinta dourada",
-        "Uma cópia do disco revestida a folha de ouro"
+        "Uma cópia do disco fundida em ouro maciço"
       ],
-      "explanation": "Foi uma cópia de «Chattanooga Choo Choo» pulverizada com tinta dourada, oferecida pela RCA Victor a Miller em direto na rádio, após 1,2 milhões de vendas. Só em 1958 a RIAA começou a atribuir discos de ouro oficiais."
+      "explanation": "Segundo a Guinness World Records, o primeiro disco de ouro foi uma cópia de «Chattanooga Choo Choo» pulverizada com tinta dourada pela RCA Victor; a oferta seguiu-se a 1,2 milhões de vendas. Só em 1958 a RIAA começou a atribuir discos de ouro oficiais."
     }
   },
   "correct": 2,
@@ -67,26 +67,10 @@
       "excerto": "It was a publicity stunt from RCA Victor who literally sprayed a master copy of the record with gold lacquer after the record sold a whopping 1.2 million copies.",
       "consultada_em": "2026-11-17",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://www.dennismspragg.com/chattanooga-choo-choo/",
-      "dominio": "dennismspragg.com",
-      "titulo": "Chattanooga Choo Choo - the first gold record (Dennis M. Spragg, historiador do arquivo Glenn Miller)",
-      "nivel": 2,
-      "excerto": "On February 10, 1942, RCA Victor-Bluebird records awarded Miller with a gold-painted and framed copy of the 78rpm disc after sales had passed one million, two hundred thousand copies.",
-      "consultada_em": "2026-11-17",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Uma cópia do disco pulverizada com tinta dourada",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "dennismspragg.com",
-      "data": "2026-11-17",
-      "notas": "Spragg e MusicRow (https://musicrow.com/2016/05/glenn-millers-chattanooga-choo-choo-celebrates-75-years/) concordam que era uma cópia do disco de 78 rpm pintada de dourado. Isto exclui o ouro maciço e o latão moldado. O revestimento a folha de ouro é contrariado por 'painted'. A palavra 'pulverizada' é uma inferência pequena, pois uma fonte secundária citada na pesquisa fala em 'sprayed with gold lacquer'. Confiança média por esse motivo e pela fonte divergente (placa histórica, 'gold-plated'). | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Uma placa histórica do condado de Hamilton (vista só no resumo da pesquisa, sem abrir a página) fala em 'gold-plated stamper', e uma transcrição da locução diz 'solid gold'. A opção 'revestida a folha de ouro' ou a de ouro maciço poderiam parecer defensáveis. Duas fontes lidas dizem 'pintado': Spragg (arquivista de Glenn Miller) e MusicRow ('RCA Victor executives painted a 78 rpm record gold'). Nenhuma diz 'pulverizada' (spray) de forma explícita. Escolhi a opção da tinta por ser a única compatível com 'pintado'."
-    },
+    "verificador": null,
     "advogado": null
   },
   "estado": "em_verificacao",
@@ -207,6 +191,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte dennismspragg.com"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (2.º ciclo: atribuição/redação, sem mudar facto, resposta nem opções)"
     }
   ],
   "etiquetas": []

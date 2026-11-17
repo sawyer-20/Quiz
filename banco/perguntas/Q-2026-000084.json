@@ -77,7 +77,11 @@
       "data": "2026-11-17",
       "notas": "Contei os minutos dos golos. Na 1.ª parte houve 4 golos suíços (16', 17', 19', 37') e 5 austríacos (25', 26', 28', 32', 34'), ou seja 9, com 5-4 ao intervalo. Os restantes 3 golos (Hugi 60', Wagner 53', Probst 77') foram na 2.ª parte. A pesquisa na Wikipédia também dá 5-4 ao intervalo, mas não a abri. As opções 10, 7 e 8 ficam excluídas. A fonte é nível 2 (base de dados de resultados), mas os minutos são explícitos e coerentes com o 7-5 final."
     },
-    "advogado": null
+    "advogado": {
+      "aprovado": true,
+      "notas": "Contagem: FIFA dá 5-4 ao intervalo (9 golos) e as duas bases de minutos, apesar de divergirem em alguns minutos, dão 9 na 1.ª parte e 3 na 2.ª; as opções 7, 8 e 10 não são defensáveis. Recorde de 12 golos: pesquisa mostra que o jogo continua a ser o mais goleador de um Mundial, incluindo depois de 2026 (o jogo com mais golos em 2026 ficou-se pelos 10). A explicação já atribui o recorde à FIFA. Não consegui derrubar.",
+      "data": "2026-11-17"
+    }
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -251,6 +255,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte 11v11.com"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []

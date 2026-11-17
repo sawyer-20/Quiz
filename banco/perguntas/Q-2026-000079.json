@@ -4,17 +4,17 @@
   "subtopic": "Galileu e Neptuno",
   "text": {
     "pt-PT": {
-      "question": "Nos cadernos de 1612-1613, Galileu registou Neptuno junto a Júpiter. Como classificou ele esse ponto de luz?",
+      "question": "Nos cadernos de Galileu de 1612-1613, um ponto de luz junto a Júpiter é hoje identificado como Neptuno. Como o registou ele?",
       "options": [
         "Um reflexo na lente do telescópio",
+        "Uma nova estrela explosiva",
         "Um cometa distante",
-        "Uma estrela fixa",
-        "Uma nova estrela explosiva"
+        "Uma estrela fixa"
       ],
-      "explanation": "Galileu registou-o como estrela fixa, com a etiqueta «fixa» nos cadernos de dezembro de 1612. Neptuno só foi encontrado em 1846, mais de 200 anos depois, e foi o primeiro planeta localizado por previsão matemática."
+      "explanation": "Segundo a NASA, Galileu registou-o como estrela fixa (a etiqueta «fixa» está nos cadernos, nota o físico David Jamieson), embora Jamieson defenda que ele pode ter notado o movimento. Neptuno só foi localizado em 1846, o primeiro planeta achado por previsão matemática."
     }
   },
-  "correct": 2,
+  "correct": 3,
   "difficulty": 3,
   "valid_until": null,
   "daily_eligible": true,
@@ -49,26 +49,10 @@
       "excerto": "He uses the label \"fixa\" where he plotted the position of Neptune in his notebook (Fig 1).",
       "consultada_em": "2026-11-17",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://www.discovermagazine.com/did-galileo-spot-neptune-two-centuries-before-its-discovery-38856",
-      "dominio": "discovermagazine.com",
-      "titulo": "Did Galileo Spot Neptune Two Centuries Before Its \"Discovery\"? (Discover Magazine)",
-      "nivel": 2,
-      "excerto": "Its widely accepted that in 1612 and again in 1613 Galileo must have observed Neptune, although at the time he thought it was a star, spotted during his observation of Jupiter's moons.",
-      "consultada_em": "2026-11-17",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Uma estrela fixa",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "discovermagazine.com",
-      "data": "2026-11-17",
-      "notas": "Mantenho a resposta. Li o Discover Magazine (imprensa de referência, nível 2), que diz que Galileu pensava que era uma estrela. Não encontrei fonte de nível 1 fora dos domínios proibidos que diga explicitamente 'fixa'. O Pisa PDF não abriu por erro de rede e o phys.org devolveu 429. O SpaceNews que li reproduz o comunicado da Universidade de Melbourne, por isso não o uso como fonte independente. A Wikipédia (nível 3) diz 'mistook Neptune for a fixed star' e serve só de pista. A confiança é média porque o Discover diz 'star' e não 'fixed star'. A inferência para 'fixa' é pequena e é coerente com o rótulo dos cadernos citado em fontes secundárias. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Jamieson (Melbourne) defende que Galileu pode ter percebido que era um planeta. O argumento assenta na nota de 28 de janeiro de 1613 sobre o movimento da 'estrela' e num ponto sem legenda em 6 de janeiro. É uma hipótese e não está provada. Os cadernos registam o ponto como 'fixa' (informação vinda de resumos secundários e da Wikipédia, não confirmada por fonte de nível 1 ou 2 aberta). A opção 'estrela fixa' continua a ser a única apoiada pelas fontes. Cometa, reflexo na lente e nova estrela não aparecem em nenhuma."
-    },
+    "verificador": null,
     "advogado": null
   },
   "estado": "em_verificacao",
@@ -141,6 +125,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte discovermagazine.com"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (2.º ciclo: atribuição/redação, sem mudar facto, resposta nem opções)"
     }
   ],
   "etiquetas": []

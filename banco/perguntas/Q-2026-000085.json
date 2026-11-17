@@ -87,7 +87,11 @@
       "data": "2026-11-17",
       "notas": "O texto em vigor mantém a isenção de preservação de videojogos só dentro das instalações da biblioteca. Isso exclui 'Guardar cópias de preservação' e 'Jogá-los nas instalações', que são o que a isenção já permite. A OSnews (2024-11-27, nível 3) diz: 'The US copyright office has denied a request for a DMCA exemption that would allow libraries to remotely share digital access to preserved video games.' Uma pesquisa mostrou que os pedidos de SPN/LCA eram de acesso remoto a investigadores, com a oposição da ESA. A opção 'Vender cópias digitais ao público' nunca foi pedida. Não consegui ler a passagem da Recomendação (https://www.copyright.gov/1201/2024/2024_Section_1201_Registers_Recommendation.pdf) que fala da recusa. O enunciado diz 'Bibliotecária do Congresso', mas a recomendação é da Registadora dos Direitos de Autor e a regra final é da Bibliotecária. Não vi razão para duvidar. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): O regulamento em vigor prova que a limitação às instalações continua, mas não contém a fundamentação da recusa. A Recomendação da Bibliotecária (PDF do copyright.gov) só abri em parte: a pesquisa de 'remote access' só deu a secção de software em geral e a de 'premises' não deu nada. Por isso a recusa explícita do acesso remoto vem de fontes secundárias. As outras opções não são o que foi recusado: guardar cópias de preservação e jogar nas instalações já estão permitidos; vender cópias ao público não foi pedido."
     },
-    "advogado": null
+    "advogado": {
+      "aprovado": true,
+      "notas": "Recomendação da Registadora (18/10/2024, dirigida a Carla Hayden) abre-se e confirma a rejeição do acesso remoto de software preservado; não localizei a passagem exata da classe dos videojogos na parte do PDF que o leitor devolve (140 mil caracteres). Mesmo assim: Federal Register (n1) diz que os proponentes não demonstraram que o acesso fora das instalações fosse provavelmente lícito e que a Bibliotecária aceita a recomendação para todas as classes; 37 CFR 201.40 (n1) confirma o limite às instalações; gamehistory.org (n1) e a pesquisa confirmam a recusa do acesso remoto. Distratores: jogar nas instalações e preservar já eram permitidos, vender cópias nunca foi pedido: nenhum é defensável. valid_until 2027-10-28 adequado ao ciclo trienal. Nota de sensibilidade menor: Hayden e Perlmutter deixaram os cargos em 2025 (litígio), mas a pergunta não toca nisso e usa só o ato de 2024. Aprovada, com a ressalva de a passagem da Recomendação não ter sido lida por nenhum dos agentes.",
+      "data": "2026-11-17"
+    }
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -237,6 +241,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte copyright.gov"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []
