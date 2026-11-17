@@ -103,9 +103,14 @@
     "tradutor": {
       "data": "2026-11-17",
       "notas": "Opções na nova ordem do pt-PT (certa no índice 3). 'Gabinete de Direitos de Autor dos EUA' = U.S. Copyright Office; 'esgotados' = out-of-print (o conferente pode preferir 'no longer sold'). 'isenção legal' = legal exemption. Atribuição à Video Game History Foundation mantida; ESA identificada como 'industry association' como no pt-PT. Explicação com 290 caracteres, perto do limite de 300."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Mesmo facto: recusa de acesso remoto para investigadores, outubro de 2024, atribuição à Video Game History Foundation e oposição da ESA. As opções 0 a 3 são equivalentes uma a uma e só a 3 é a recusada. Em pt-PT «esgotados» e em en-US «out-of-print» são equivalentes naturais. Explicação com 2 frases, pergunta com «?» e opções dentro dos 60 caracteres. Sem pistas novas.",
+      "data": "2026-11-17"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -223,7 +228,20 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Opções na nova ordem do pt-PT (certa no índice 3). 'Gabinete de Direitos de Autor dos EUA' = U.S. Copyright Office; 'esgotados' = out-of-print (o conferente pode preferir 'no longer sold'). 'isenção legal' = legal exemption. Atribuição à Video Game History Foundation mantida; ESA identificada como 'industry association' como no pt-PT. Explicação com 290 caracteres, perto do limite de 300."
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "89ab983811954ba58dbb2eeb67e549c0ba83f67f04e431ae2deecd8d2c891dd1"
 }

@@ -93,9 +93,14 @@
     "tradutor": {
       "data": "2026-11-17",
       "notas": "Opções na nova ordem do pt-PT (certa no índice 0). Resultados com hífen simples. 'quarto de final' = quarterfinal (grafia americana). 'chegou a vencer por 3-0' = led 3-0 at one point. Atribuição à FIFA mantida."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Resultado 7-5, quarto de final de 1954, 3-0 e 5-4 ao intervalo, 12 golos e atribuição à FIFA estão iguais nos dois idiomas. As opções 9/7/8/10 estão pela mesma ordem, com certa no índice 0 nos dois. A explicação tem 2 frases. Diferença só tipográfica: travessão no pt-PT e hífen no en-US nos resultados.",
+      "data": "2026-11-17"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -237,7 +242,20 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Opções na nova ordem do pt-PT (certa no índice 0). Resultados com hífen simples. 'quarto de final' = quarterfinal (grafia americana). 'chegou a vencer por 3-0' = led 3-0 at one point. Atribuição à FIFA mantida."
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "427d6ce15a49cd8c43845cb0dd2e147bcd75cb4a377a85812dcf313e56d95625"
 }
