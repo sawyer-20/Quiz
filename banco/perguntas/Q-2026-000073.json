@@ -11,7 +11,7 @@
         "Na posição do espelho secundário",
         "Num aparelho que testava a curva do espelho"
       ],
-      "explanation": "O erro esteve num aparelho de teste (o corretor nulo), com 1,3 mm de erro no espaçamento de uma lente, e o espelho foi polido de acordo com ele. A borda ficou demasiado plana e as imagens saíram desfocadas."
+      "explanation": "Num aparelho de teste, o corretor nulo: uma lente com 1,3 mm de erro no espaçamento levou a um espelho demasiado plano longe do centro."
     }
   },
   "correct": 3,
@@ -63,6 +63,13 @@
     "advogado": {
       "aprovado": true,
       "notas": "Tentei: segunda resposta (alinhamento pós-lançamento, espessura do vidro, espelho secundário: nenhuma fonte as apoia; o relatório Allen e a NASA apontam o corretor nulo refletor). 1,3 mm confirmado por 3 fontes (NASA, arXiv, relatório Allen). Explicação (espaçamento da lente, polido de acordo com o aparelho, borda demasiado plana, imagens desfocadas) está suportada. Sem validade temporal nem sensibilidade. Não consegui derrubar.",
+      "data": "2026-11-17"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado inalterado (97 caracteres). Explicação reordenada para começar pela resposta; retirei 'imagens desfocadas' e 'polido de acordo com ele', que não constam dos excertos fornecidos. Dificuldade mantida.",
       "data": "2026-11-17"
     }
   },
@@ -177,6 +184,12 @@
       "data": "2026-11-17",
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "revista pelo editor",
+      "agente": "editor",
       "nota": ""
     }
   ],

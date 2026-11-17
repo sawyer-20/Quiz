@@ -81,6 +81,13 @@
       "aprovado": true,
       "notas": "Contagem: FIFA dá 5-4 ao intervalo (9 golos) e as duas bases de minutos, apesar de divergirem em alguns minutos, dão 9 na 1.ª parte e 3 na 2.ª; as opções 7, 8 e 10 não são defensáveis. Recorde de 12 golos: pesquisa mostra que o jogo continua a ser o mais goleador de um Mundial, incluindo depois de 2026 (o jogo com mais golos em 2026 ficou-se pelos 10). A explicação já atribui o recorde à FIFA. Não consegui derrubar.",
       "data": "2026-11-17"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Sem alterações: já cumpre pt-PT, limite de caracteres e começa pela resposta. Dificuldade 4 mantida (número exato de golos na 1.ª parte, só adivinhável).",
+      "data": "2026-11-17"
     }
   },
   "estado": "em_verificacao",
@@ -260,6 +267,12 @@
       "data": "2026-11-17",
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "revista pelo editor",
+      "agente": "editor",
       "nota": ""
     }
   ],

@@ -49,10 +49,26 @@
       "excerto": "He uses the label \"fixa\" where he plotted the position of Neptune in his notebook (Fig 1).",
       "consultada_em": "2026-11-17",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.discovermagazine.com/did-galileo-spot-neptune-two-centuries-before-its-discovery-38856",
+      "dominio": "discovermagazine.com",
+      "titulo": "Did Galileo Spot Neptune Two Centuries Before Its \"Discovery\"? (Discover Magazine)",
+      "nivel": 2,
+      "excerto": "Its widely accepted that in 1612 and again in 1613 Galileo must have observed Neptune, although at the time he thought it was a star, spotted during his observation of Jupiter's moons.",
+      "consultada_em": "2026-11-17",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Uma estrela fixa",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "discovermagazine.com",
+      "data": "2026-11-17",
+      "notas": "Mesma base da resposta anterior. O Discover Magazine (nível 2) diz que Galileu pensava que era uma estrela. A Wikipédia (nível 3) diz 'mistook Neptune for a fixed star', e resumos secundários dizem que os cadernos rotulam o ponto como 'fixa'. Não abri nenhuma fonte de nível 1 fora dos domínios proibidos que o diga explicitamente. O SpaceNews reproduz o comunicado de Melbourne e não o usei. Cometa, reflexo na lente e nova não aparecem em nenhuma fonte. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Jamieson (Melbourne) sugere que Galileu pode ter suspeitado de um planeta, pela nota de 28 de janeiro de 1613 e por um ponto sem legenda em 6 de janeiro. Não é consenso e Galileu não o afirmou. O enunciado reformulado ('Como o registou ele?') fica coerente com 'estrela fixa'."
+    },
     "advogado": null
   },
   "estado": "em_verificacao",
@@ -131,6 +147,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (2.º ciclo: atribuição/redação, sem mudar facto, resposta nem opções)"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte discovermagazine.com"
     }
   ],
   "etiquetas": []

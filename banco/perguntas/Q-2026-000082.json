@@ -67,10 +67,26 @@
       "excerto": "It was a publicity stunt from RCA Victor who literally sprayed a master copy of the record with gold lacquer after the record sold a whopping 1.2 million copies.",
       "consultada_em": "2026-11-17",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.dennismspragg.com/chattanooga-choo-choo/",
+      "dominio": "dennismspragg.com",
+      "titulo": "Chattanooga Choo Choo - the first gold record (Dennis M. Spragg)",
+      "nivel": 2,
+      "excerto": "On February 10, 1942, RCA Victor-Bluebird records awarded Miller with a gold-painted and framed copy of the 78rpm disc after sales had passed one million, two hundred thousand copies.",
+      "consultada_em": "2026-11-17",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Uma cópia do disco pulverizada com tinta dourada",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "dennismspragg.com",
+      "data": "2026-11-17",
+      "notas": "ATENÇÃO À INDEPENDÊNCIA. Para a atribuição à Guinness, só encontrei a entrada da Guinness no domínio guinnessworldrecords.com.br (https://www.guinnessworldrecords.com.br/world-records/first-gold-disc-music-award), que é o mesmo editor do domínio proibido guinnessworldrecords.com e o mesmo texto do título a evitar. Li-a e diz: 'The first actual golden disc was once sprayed by R.C.A. Victor for presentation to ... Glenn Miller ... on 10 Feb 1942.' Por isso 'pulverizada com tinta dourada' é confirmada para a Guinness, mas o orquestrador deve tratar essa confirmação como NÃO independente e como republicação do site proibido. A fonte própria que indico (Spragg, nível 2) e o MusicRow (https://musicrow.com/2016/05/glenn-millers-chattanooga-choo-choo-celebrates-75-years/, 'RCA Victor executives painted a 78 rpm record gold') confirmam só que o disco era uma cópia pintada. Isto exclui o ouro maciço, o latão moldado e a folha de ouro. A atribuição 'segundo a Guinness' em si não foi confirmada fora do domínio da Guinness. A NPR (https://www.npr.org/2017/02/10/514522626/how-chattanooga-choo-choo-became-the-worlds-first-gold-record) cita o locutor a dizer 'solid gold' em direto, e isso não prova o material. Confiança média. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): A placa histórica do condado de Hamilton, vista só no resumo da pesquisa, fala em 'gold-plated stamper'. A transcrição da locução na NPR diz 'solid gold'. Duas fontes independentes que li dizem 'pintado': Spragg e MusicRow. Também encontrei a página da Guinness (ver notas) e ela diz 'sprayed'."
+    },
     "advogado": null
   },
   "estado": "em_verificacao",
@@ -197,6 +213,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (2.º ciclo: atribuição/redação, sem mudar facto, resposta nem opções)"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte dennismspragg.com"
     }
   ],
   "etiquetas": []

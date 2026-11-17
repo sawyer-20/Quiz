@@ -4,14 +4,14 @@
   "subtopic": "Preservação de videojogos",
   "text": {
     "pt-PT": {
-      "question": "Em 2024, a Bibliotecária do Congresso dos EUA recusou alargar a isenção legal para bibliotecas fazerem o quê com videojogos já não disponíveis no mercado?",
+      "question": "Em 2024, a Bibliotecária do Congresso dos EUA recusou alargar a isenção legal para bibliotecas fazerem o quê com videojogos indisponíveis?",
       "options": [
         "Jogá-los nas instalações da biblioteca",
         "Vender cópias digitais ao público",
         "Guardar cópias de preservação",
         "Dar acesso remoto a investigadores"
       ],
-      "explanation": "Por recomendação da Registadora dos Direitos de Autor, a Bibliotecária do Congresso manteve em outubro de 2024 a regra que só permite aceder aos jogos nas instalações da biblioteca. A Registadora concluiu que não ficou demonstrado que o acesso fora delas fosse lícito."
+      "explanation": "Acesso remoto a investigadores. Por recomendação da Registadora dos Direitos de Autor, a Bibliotecária manteve em outubro de 2024 a regra que limita o acesso às instalações da biblioteca; não ficou demonstrado que fora delas fosse lícito."
     }
   },
   "correct": 3,
@@ -90,6 +90,13 @@
     "advogado": {
       "aprovado": true,
       "notas": "Recomendação da Registadora (18/10/2024, dirigida a Carla Hayden) abre-se e confirma a rejeição do acesso remoto de software preservado; não localizei a passagem exata da classe dos videojogos na parte do PDF que o leitor devolve (140 mil caracteres). Mesmo assim: Federal Register (n1) diz que os proponentes não demonstraram que o acesso fora das instalações fosse provavelmente lícito e que a Bibliotecária aceita a recomendação para todas as classes; 37 CFR 201.40 (n1) confirma o limite às instalações; gamehistory.org (n1) e a pesquisa confirmam a recusa do acesso remoto. Distratores: jogar nas instalações e preservar já eram permitidos, vender cópias nunca foi pedido: nenhum é defensável. valid_until 2027-10-28 adequado ao ciclo trienal. Nota de sensibilidade menor: Hayden e Perlmutter deixaram os cargos em 2025 (litígio), mas a pergunta não toca nisso e usa só o ato de 2024. Aprovada, com a ressalva de a passagem da Recomendação não ter sido lida por nenhum dos agentes.",
+      "data": "2026-11-17"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado encurtado: 'já não disponíveis no mercado' passou a 'indisponíveis' (sentido igual; a pergunta e as opções não mudam). Explicação começa agora pela resposta e foi condensada, sem factos novos. Dificuldade 4 mantida.",
       "data": "2026-11-17"
     }
   },
@@ -246,6 +253,12 @@
       "data": "2026-11-17",
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "revista pelo editor",
+      "agente": "editor",
       "nota": ""
     }
   ],
