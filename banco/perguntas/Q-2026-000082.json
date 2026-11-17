@@ -4,27 +4,17 @@
   "subtopic": "História da música",
   "text": {
     "pt-PT": {
-      "question": "De que era feito, na realidade, o primeiro «disco de ouro», entregue a Glenn Miller em 1942?",
+      "question": "Como era, na realidade, o primeiro «disco de ouro», entregue a Glenn Miller em 1942?",
       "options": [
-        "Um disco de vinil folheado a ouro",
-        "Um disco maciço de ouro",
-        "Um disco de latão dourado",
-        "Uma cópia do disco pintada a ouro"
+        "Uma cópia do disco fundida em ouro maciço",
+        "Uma cópia do disco moldada em latão polido",
+        "Uma cópia do disco pulverizada com tinta dourada",
+        "Uma cópia do disco revestida a folha de ouro"
       ],
-      "explanation": "Era uma cópia de «Chattanooga Choo Choo» pintada a ouro, entregue a Miller pela RCA Victor em direto na rádio, a 10 de fevereiro de 1942. Segundo a revista Mixdown, o locutor disse que era «ouro maciço», mas a Universidade do Colorado descreve-o como uma cópia pulverizada com tinta dourada."
-    },
-    "en-US": {
-      "question": "What was the first \"gold record,\" presented to Glenn Miller in 1942, actually made of?",
-      "options": [
-        "A gold-plated vinyl record",
-        "A solid gold record",
-        "A gold-colored brass record",
-        "A copy of the record painted gold"
-      ],
-      "explanation": "It was a copy of \"Chattanooga Choo Choo\" painted gold, presented to Miller by RCA Victor live on the radio on February 10, 1942. According to Mixdown magazine, the announcer said it was \"solid gold,\" but the University of Colorado describes it as a copy sprayed with gold paint."
+      "explanation": "Foi uma cópia de «Chattanooga Choo Choo» pulverizada com tinta dourada, oferecida pela RCA Victor a Miller em direto na rádio, após 1,2 milhões de vendas. Só em 1958 a RIAA começou a atribuir discos de ouro oficiais."
     }
   },
-  "correct": 3,
+  "correct": 2,
   "difficulty": 3,
   "valid_until": null,
   "daily_eligible": true,
@@ -33,24 +23,6 @@
     "https://www.guinnessworldrecords.com/world-records/first-gold-disc-music-award"
   ],
   "fontes": [
-    {
-      "url": "https://www.colorado.edu/coloradan/2017/12/01/origins-gold-record",
-      "dominio": "colorado.edu",
-      "titulo": "Origins: The Gold Record (University of Colorado Boulder, Coloradan)",
-      "nivel": 1,
-      "excerto": "During a live broadcast, the label presented him with a framed copy of the record sprayed with gold paint. ... In 1958, the RIAA began awarding gold records ... selling at least 500,000 units.",
-      "consultada_em": "2026-11-12",
-      "papel": "pesquisador"
-    },
-    {
-      "url": "https://www.guinnessworldrecords.com/world-records/first-gold-disc-music-award",
-      "dominio": "guinnessworldrecords.com",
-      "titulo": "First 'gold' disc music award (Guinness World Records)",
-      "nivel": 2,
-      "excerto": "The first actual golden disc was once sprayed by R.C.A. Victor for presentation to ... Alton 'Glenn' Miller ... for his Chattanooga Choo Choo on 10 Feb 1942.",
-      "consultada_em": "2026-11-12",
-      "papel": "pesquisador"
-    },
     {
       "url": "https://www.riaa.com/gold-platinum/about-awards/",
       "dominio": "riaa.com",
@@ -70,47 +42,38 @@
       "papel": "advogado"
     },
     {
-      "url": "https://www.dennismspragg.com/chattanooga-choo-choo/",
-      "dominio": "dennismspragg.com",
-      "titulo": "Chattanooga Choo Choo by Dennis M. Spragg",
+      "url": "https://www.colorado.edu/coloradan/2017/12/01/origins-gold-record",
+      "dominio": "colorado.edu",
+      "titulo": "Origins: The Gold Record (University of Colorado Boulder, Coloradan)",
+      "nivel": 1,
+      "excerto": "During a live broadcast, the label presented him with a framed copy of the record sprayed with gold paint. ... In 1958, the RIAA began awarding gold records ... selling at least 500,000 units.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.guinnessworldrecords.com/world-records/first-gold-disc-music-award",
+      "dominio": "guinnessworldrecords.com",
+      "titulo": "First 'gold' disc music award (Guinness World Records)",
       "nivel": 2,
-      "excerto": "On February 10, 1942, RCA Victor-Bluebird records awarded Miller with a gold-painted and framed copy of the 78rpm disc after sales had passed one million, two hundred thousand copies.",
+      "excerto": "The first actual golden disc was once sprayed by R.C.A. Victor for presentation to ... Alton 'Glenn' Miller ... for his Chattanooga Choo Choo on 10 Feb 1942.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://mixdownmag.com.au/news/the-gold-record-how-a-publicity-stunt-80-years-ago-paved-the-way-for-album-certifications/",
+      "dominio": "mixdownmag.com.au",
+      "titulo": "The Gold Record: the publicity stunt over 80 years ago (Mixdown)",
+      "nivel": 2,
+      "excerto": "It was a publicity stunt from RCA Victor who literally sprayed a master copy of the record with gold lacquer after the record sold a whopping 1.2 million copies.",
       "consultada_em": "2026-11-17",
-      "papel": "verificador"
+      "papel": "pesquisador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Uma cópia do disco pintada a ouro",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "dennismspragg.com",
-      "data": "2026-11-17",
-      "notas": "Lida so uma fonte de nivel 2, especialista e historiador de Glenn Miller. Exclui o ouro maciço, porque o objeto era uma cópia pintada. Latão e vinil folheado nao aparecem em nenhuma fonte. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Uma pesquisa web (nao lida em pagina propria) refere outras descricoes, como estampador dourado com laca ou banhado a ouro. Mas so a fonte lida diz pintada, e nenhuma indica ouro maciço, vinil folheado ou latão."
-    },
-    "advogado": {
-      "aprovado": true,
-      "notas": "Lidas: Colorado (cópia emoldurada pulverizada com tinta dourada, RCA Victor, em direto), Mixdown (locutor Paul Douglas: «gold, solid gold»; «lacquer»), Guinness e dennismspragg.com (10 de fevereiro de 1942, duas fontes independentes). Atribuição à Mixdown e ao Colorado correta. Distratores sem suporte: nenhuma fonte fala em vinil folheado, ouro maciço real ou latão. Sem segunda resposta.",
-      "data": "2026-11-17"
-    },
-    "editor": {
-      "aprovado": true,
-      "originalidade_ok": true,
-      "alteracao_factual": false,
-      "notas": "Enunciado intacto. Explicação reduzida a 2 frases (cerca de 292 caracteres): retirei a frase da RIAA/1958 e o pormenor 'emoldurada'; mantive a atribuição à Mixdown e as citações em «». 'chegou a dizer' passou a 'disse' por economia.",
-      "data": "2026-11-17"
-    },
-    "tradutor": {
-      "data": "2026-11-17",
-      "notas": "Pergunta com 'actually' para 'na realidade'. Opções iguais às da versão anterior. Aspas « » passadas a aspas retas, com a vírgula dentro. Atribuições mantidas (Mixdown, University of Colorado). Data em formato americano (February 10, 1942). 'revista Mixdown' = Mixdown magazine. Opção certa no índice 3."
-    },
-    "conferente": {
-      "aprovado": true,
-      "notas": "Mesmo facto: cópia de «Chattanooga Choo Choo» pintada a ouro, entregue pela RCA Victor em direto na rádio a 10/02/1942. As duas atribuições («segundo a Mixdown» e a Universidade do Colorado) estão iguais nos dois idiomas. As opções 0 a 3 são equivalentes uma a uma (folheado/gold-plated, maciço/solid, latão dourado/gold-colored brass, cópia pintada/copy painted). O pt-PT está correto («em direto», «pulverizada»). O en-US usa a vírgula dentro das aspas, como é norma americana. A explicação tem 2 frases, a pergunta termina em «?» e as opções cabem nos 60 caracteres. Não há pistas novas.",
-      "data": "2026-11-17"
-    }
+    "verificador": null,
+    "advogado": null
   },
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -210,8 +173,19 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "reaberta (revisão editorial de 17/11: observações do Andre; segundo ciclo)",
+      "agente": "orquestrador",
+      "nota": "aprovação do circuito anulada; correção redigida pelo pesquisador"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "reformulada",
+      "agente": "pesquisador",
+      "nota": "Enunciado passa de «De que era feito» para «Como era», para permitir opções paralelas. Quatro opções reescritas com a mesma estrutura («Uma cópia do disco + particípio + material»), sem «vinil». Explicação reescrita só com factos confirmados nas duas fontes lidas; saiu a atribuição ao locutor e a data exata."
     }
   ],
-  "etiquetas": [],
-  "options_lock": "9230a324e25941571bd1eaebca9038b72121c2e47a6ce33c4f71cfcb12cc5b67"
+  "etiquetas": []
 }

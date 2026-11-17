@@ -6,25 +6,15 @@
     "pt-PT": {
       "question": "Que associação nacional levou ao IFAB a proposta de criar o pontapé de penálti?",
       "options": [
-        "A Associação de Futebol da Escócia",
-        "A Associação de Futebol da Irlanda (Irish FA)",
-        "A Associação de Futebol de Inglaterra (FA)",
-        "A Associação de Futebol do País de Gales"
+        "A Irish FA, hoje a federação da Irlanda do Norte",
+        "A Football Association of Wales, do País de Gales",
+        "A Scottish FA, da Escócia",
+        "A Football Association (FA), de Inglaterra"
       ],
-      "explanation": "A Irish FA: foi William McCrum, membro da associação, quem teve a ideia. Segundo a RTÉ, apresentou-a a Jack Reid, da Irish FA, que a propôs como regra numa reunião do IFAB; o penálti entrou depois nas Leis do Jogo."
-    },
-    "en-US": {
-      "question": "Which national association brought the proposal to create the penalty kick to the IFAB?",
-      "options": [
-        "The Scottish Football Association",
-        "The Irish Football Association (Irish FA)",
-        "The English Football Association (FA)",
-        "The Football Association of Wales"
-      ],
-      "explanation": "The Irish FA: William McCrum, a member of the association, came up with the idea. According to RTÉ, he presented it to Jack Reid of the Irish FA, who proposed it as a rule at an IFAB meeting; the penalty kick then entered the Laws of the Game."
+      "explanation": "A ideia foi de William McCrum, de Milford (Armagh), membro da Irish FA, hoje a federação da Irlanda do Norte. Segundo a RTÉ, Jack Reid, da Irish FA, propô-la como regra ao IFAB em 1890; o penálti foi aprovado em 1891."
     }
   },
-  "correct": 1,
+  "correct": 0,
   "difficulty": 3,
   "valid_until": null,
   "daily_eligible": true,
@@ -54,45 +44,18 @@
     {
       "url": "https://www.soccerhistory.co.uk/penalty-kick",
       "dominio": "soccerhistory.co.uk",
-      "titulo": "The Penalty Kick - British football history, soccer history",
+      "titulo": "Penalty kick (soccerhistory.co.uk)",
       "nivel": 2,
-      "excerto": "the invention of the penalty kick is credited to the goalkeeper and businessman William McCrum in 1890 in Milford, County Armagh, Northern Ireland. The Irish Football Association presented the idea to the International Football Association Board.",
-      "consultada_em": "2026-11-13",
-      "papel": "verificador"
+      "excerto": "the invention of the penalty kick is credited to ... William McCrum in 1890 in Milford, County Armagh, Northern Ireland. The Irish Football Association presented the idea to the International Football Association Board.",
+      "consultada_em": "2026-11-17",
+      "papel": "pesquisador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "A Associação de Futebol da Irlanda (Irish FA)",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "soccerhistory.co.uk",
-      "data": "2026-11-13",
-      "notas": "Li a página com ler_url.py. A fonte é um site de história do futebol (nível 2, não é institucional). Nenhum IFAB, FIFA ou Britannica abriu: Britannica deu 403. Outras páginas devolvidas pela pesquisa dizem o mesmo (o secretário-geral da Irish FA, Jack Reid, levou a proposta), mas não as li. A FA inglesa, a escocesa e a galesa aparecem só como quem reagiu ou votou, não como proponentes. A proposta foi apresentada em 1890 e adotada a 2 de junho de 1891."
-    },
-    "advogado": {
-      "aprovado": true,
-      "notas": "Li a RTE: 'McCrum offered his idea of a penalty to Jack Reid of the Irish FA, who in 1890 proposed it as a rule at a meeting of the International Football Association Board'. A pagina da Irish FA (lida) diz 'Irish FA member William McCrum came up with the idea'. A soccerhistory.co.uk (lida): 'The Irish Football Association presented the idea to the International Football Association Board'. As ata",
-      "data": "2026-11-13"
-    },
-    "editor": {
-      "aprovado": true,
-      "originalidade_ok": true,
-      "alteracao_factual": false,
-      "notas": "Enunciado igual. Explicação reduzida de 3 para 2 frases, começando pela resposta; sem factos novos.",
-      "data": "2026-11-13"
-    },
-    "tradutor": {
-      "data": "2026-11-13",
-      "notas": "Nomes das associações na forma inglesa corrente (Scottish FA, English FA, FA of Wales). Mantida a atribuição à RTÉ. \"Laws of the Game\" é o nome oficial das regras do IFAB."
-    },
-    "conferente": {
-      "aprovado": true,
-      "notas": "Atribuição «Segundo a RTÉ»/«According to RTÉ» mantida, nomes iguais, 2 frases nas duas explicações, opções equivalentes.",
-      "data": "2026-11-13"
-    }
+    "verificador": null,
+    "advogado": null
   },
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -156,8 +119,19 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "reaberta (revisão editorial de 17/11: observações do Andre; segundo ciclo)",
+      "agente": "orquestrador",
+      "nota": "aprovação do circuito anulada; correção redigida pelo pesquisador"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "reformulada",
+      "agente": "pesquisador",
+      "nota": "Opção certa passa a «A Irish FA, hoje a federação da Irlanda do Norte», eliminando a confusão com a FAI (República da Irlanda). As outras três opções passam à mesma estrutura («A [sigla/nome], de/do [país]»). Enunciado mantido. Explicação reescrita para incluir a precisão e a localização de McCrum (Milford, Armagh) e mantém a atribuição à RTÉ."
     }
   ],
-  "etiquetas": [],
-  "options_lock": "7345376bf0fd404a553b13609462ff3a9401b0d36cc3d9c94743df940d0e9ac5"
+  "etiquetas": []
 }

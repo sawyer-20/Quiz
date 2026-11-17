@@ -4,24 +4,14 @@
   "subtopic": "Galileu e Neptuno",
   "text": {
     "pt-PT": {
-      "question": "Nos cadernos de 1612-1613, Galileu registou Neptuno junto a Júpiter. Que corpo julgou ele estar a ver?",
+      "question": "Nos cadernos de 1612-1613, Galileu registou Neptuno junto a Júpiter. Como classificou ele esse ponto de luz?",
       "options": [
+        "Um reflexo na lente do telescópio",
         "Um cometa distante",
-        "Uma nova estrela explosiva",
         "Uma estrela fixa",
-        "Um reflexo na lente do telescópio"
+        "Uma nova estrela explosiva"
       ],
-      "explanation": "Uma estrela fixa: Galileu desenhou Neptuno ao observar Júpiter, mas registou-o assim. O planeta só foi encontrado em 1846, mais de 200 anos depois, e foi o primeiro localizado por previsão matemática."
-    },
-    "en-US": {
-      "question": "In his 1612-1613 notebooks, Galileo recorded Neptune near Jupiter. What object did he think he was seeing?",
-      "options": [
-        "A distant comet",
-        "An exploding new star",
-        "A fixed star",
-        "A reflection in the telescope lens"
-      ],
-      "explanation": "A fixed star: Galileo drew Neptune while observing Jupiter, but recorded it that way. The planet was not found until 1846, more than 200 years later, and was the first located by mathematical prediction."
+      "explanation": "Galileu registou-o como estrela fixa, com a etiqueta «fixa» nos cadernos de dezembro de 1612. Neptuno só foi encontrado em 1846, mais de 200 anos depois, e foi o primeiro planeta localizado por previsão matemática."
     }
   },
   "correct": 2,
@@ -54,45 +44,18 @@
     {
       "url": "https://www.ph.unimelb.edu.au/~dnj/AP-June-2009-Galileo-Neptune.pdf",
       "dominio": "unimelb.edu.au",
-      "titulo": "Galileo's miraculous year: 1609 and the revolutionary telescope (D. Jamieson, Australian Physics 46(3), 2009, Univ. Melbourne)",
+      "titulo": "Jamieson, Galileo's observations of Neptune (Australian Physics, 2009, Univ. de Melbourne)",
       "nivel": 1,
-      "excerto": "He uses the label \"fixa\" where he plotted the position of Neptune in his notebook, indicating, at least initially, that he believed he was observing a fixed star and not a planet.",
-      "consultada_em": "2026-11-12",
-      "papel": "verificador"
+      "excerto": "He uses the label \"fixa\" where he plotted the position of Neptune in his notebook (Fig 1).",
+      "consultada_em": "2026-11-17",
+      "papel": "pesquisador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Uma estrela fixa",
-      "concorda": true,
-      "confianca": "alta",
-      "dominio": "unimelb.edu.au",
-      "data": "2026-11-12",
-      "notas": "Artigo de um professor universitário (Univ. de Melbourne), não é a Nature nem a NASA. Confirma observações de Neptuno em dezembro de 1612 e janeiro de 1613, com o rótulo 'fixa' (estrela fixa). Outras opções (cometa, nova, reflexo na lente) sem apoio na fonte. Ressalva: o autor sugere que Galileo possa ter suspeitado de movimento mais tarde (a 28 de janeiro), mas nunca registou um planeta novo; a pesquisa secundária mostra interpretação contestada. 'Pelo menos inicialmente' acompanha a fonte. Datas exatas não usadas no enunciado, exceto o intervalo 1612-1613, que é confirmado."
-    },
-    "advogado": {
-      "aprovado": true,
-      "notas": "NASA (science.nasa.gov/neptune/neptune-facts): 'Galileo recorded Neptune as a fixed star during observations with his small telescope in 1612 and 1613. More than 200 years later, the ice giant became the first planet located through mathematical predictions'; descoberta em 1846 ('since its discovery in 1846'). Jamieson (Univ. de Melbourne, Australian Physics 2009), que li: Galileo usa o rótulo 'fi",
-      "data": "2026-11-13"
-    },
-    "editor": {
-      "aprovado": true,
-      "originalidade_ok": true,
-      "alteracao_factual": false,
-      "notas": "Explicação reorganizada para começar pela resposta; mesmos factos, cerca de 200 caracteres. Enunciado igual.",
-      "data": "2026-11-13"
-    },
-    "tradutor": {
-      "data": "2026-11-13",
-      "notas": "'Neptuno' = Neptune. 'nova estrela explosiva' = 'exploding new star' (literal, para não introduzir o termo 'nova'). A explicação começa pela resposta, como o pt-PT. Opção certa no índice 2."
-    },
-    "conferente": {
-      "aprovado": true,
-      "notas": "Datas, números e opções batem uma a uma. A opção 1 (\"Uma nova estrela explosiva\" / \"An exploding new star\") é pouco natural nos dois idiomas, mas equivalente e não defensável.",
-      "data": "2026-11-13"
-    }
+    "verificador": null,
+    "advogado": null
   },
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -144,8 +107,19 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "reaberta (revisão editorial de 17/11: observações do Andre; segundo ciclo)",
+      "agente": "orquestrador",
+      "nota": "aprovação do circuito anulada; correção redigida pelo pesquisador"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "reformulada",
+      "agente": "pesquisador",
+      "nota": "Enunciado: «julgou ele estar a ver» passou a «Como classificou ele esse ponto de luz?» (descreve o registo, não a crença). Explicação: «registou-o como estrela fixa», com a etiqueta «fixa» como facto dos cadernos; retirada a frase tautológica e a «observar Júpiter, mas». Opções e resposta iguais. A nota de 28 de janeiro de 1613 não entra, para não afirmar interpretação."
     }
   ],
-  "etiquetas": [],
-  "options_lock": "e0cb8046fac99cdc96a9959cf619b1f70fd6a0d818781d2ba752f8542128a5b3"
+  "etiquetas": []
 }

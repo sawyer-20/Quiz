@@ -4,27 +4,17 @@
   "subtopic": "Telescópio Espacial Hubble",
   "text": {
     "pt-PT": {
-      "question": "O espelho principal do Hubble saiu com a curva errada por um erro de 1,3 mm. Em que peça foi o erro?",
+      "question": "O espelho principal do Hubble saiu com a curva errada por um erro de 1,3 mm. Onde esteve o erro?",
       "options": [
         "No alinhamento após o lançamento",
-        "Num aparelho que testava a curva do espelho",
         "Na espessura do vidro do espelho principal",
-        "Na posição do espelho secundário"
+        "Na posição do espelho secundário",
+        "Num aparelho que testava a curva do espelho"
       ],
-      "explanation": "Num aparelho de teste, que tinha um erro de 1,3 mm no espaçamento de uma lente, e o espelho foi polido de acordo com ele. A borda ficou demasiado plana e as imagens saíram desfocadas, um defeito que só foi compensado com ótica corretiva instalada em dezembro de 1993."
-    },
-    "en-US": {
-      "question": "Hubble's primary mirror came out with the wrong curve because of a 1.3 mm error. Where was the error?",
-      "options": [
-        "In the alignment after launch",
-        "In a device that tested the mirror's curve",
-        "In the thickness of the primary mirror's glass",
-        "In the position of the secondary mirror"
-      ],
-      "explanation": "In a testing device, which had a 1.3 mm error in the spacing of a lens, and the mirror was polished to match it. The edge came out too flat and the images were blurry, a flaw that was only compensated for by corrective optics installed in December 1993."
+      "explanation": "O erro esteve num aparelho de teste (o corretor nulo), com 1,3 mm de erro no espaçamento de uma lente, e o espelho foi polido de acordo com ele. A borda ficou demasiado plana e as imagens saíram desfocadas."
     }
   },
-  "correct": 1,
+  "correct": 3,
   "difficulty": 3,
   "valid_until": null,
   "daily_eligible": true,
@@ -50,49 +40,13 @@
       "excerto": "NASA commissioned a forensic investigation ... that identified the cause to be a 1.3 mm spacing error in the reflective null corrector device used to optically test the mirror while being figured.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://www.governmentattic.org/59docs/NASAhubbleOpSystFailureRpt1990.pdf",
-      "dominio": "governmentattic.org",
-      "titulo": "The Hubble Space Telescope Optical Systems Failure Report (Allen Report, 1990)",
-      "nivel": 1,
-      "excerto": "When the Board measured the RNC, the lens was incorrectly spaced from the mirrors. Calculations ... show that the measured amount, 1.3 mm, accounts in detail for the amount and character of the observed image blurring.",
-      "consultada_em": "2026-11-13",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Num aparelho que testava a curva do espelho",
-      "concorda": true,
-      "confianca": "alta",
-      "dominio": "governmentattic.org",
-      "data": "2026-11-13",
-      "notas": "Li o relatório oficial da comissão de inquérito (cópia hospedada em governmentattic.org, documento primário, domínio diferente dos proibidos). O erro de 1,3 mm esteve no espaçamento da lente no reflective null corrector, o aparelho de teste usado para dar a forma ao espelho primário. Exclusões: o espelho foi polido na forma errada por causa do teste mal montado, e não por erro na espessura do vidro; o espelho secundário e o alinhamento pós-lançamento não são a causa indicada no relatório. O relatório tem o PDF digitalizado, e o nome do relatório pode aparecer com variações."
-    },
-    "advogado": {
-      "aprovado": true,
-      "notas": "Li a NASA (science.nasa.gov, Hubble's Mirror Flaw): 'improperly set up a device used to test its curve... null corrector... a lens spacing error. The spacing was off by 1.3 millimeters', espelho 'too flat away from its center', COSTAR instalado na primeira missão de manutenção, 'December 1993'. O arXiv 1203.0002 confirma o erro de espaçamento de 1,3 mm no null corrector e a Servicing Mission 1 em ",
-      "data": "2026-11-13"
-    },
-    "editor": {
-      "aprovado": true,
-      "originalidade_ok": true,
-      "alteracao_factual": false,
-      "notas": "Corrigida a frase elíptica sobre a ótica corretiva: o defeito só foi compensado com ótica corretiva instalada em dezembro de 1993, como na explicação original. Duas frases, cerca de 270 caracteres, começa pela resposta. Enunciado igual.",
-      "data": "2026-11-13"
-    },
-    "tradutor": {
-      "data": "2026-11-13",
-      "notas": "Não tenho nesta sessão a tradução anterior de Q-2026-000073 (só recebi a pergunta e as opções pt-PT); a pergunta e as opções en-US são traduzidas agora a partir do pt-PT que o orquestrador enviou, com a opção certa no índice 1. Se já existe uma versão en-US aprovada, o orquestrador deve comparar e manter a que já tinha. Explicação: 2 frases, começa pela resposta; 1.3 mm sem conversão de unidades."
-    },
-    "conferente": {
-      "aprovado": true,
-      "notas": "Equivalentes nos dois idiomas. A explicação começa com um fragmento (\"Num aparelho de teste, que tinha...\"), mas está igual nos dois idiomas e é aceitável.",
-      "data": "2026-11-13"
-    }
+    "verificador": null,
+    "advogado": null
   },
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -180,8 +134,19 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "reaberta (revisão editorial de 17/11: observações do Andre; segundo ciclo)",
+      "agente": "orquestrador",
+      "nota": "aprovação do circuito anulada; correção redigida pelo pesquisador"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "reformulada",
+      "agente": "pesquisador",
+      "nota": "Enunciado: 'Em que peça foi o erro?' passa a 'Onde esteve o erro?'. Explicação reescrita em 2 frases (≈200 caracteres), sem a menção a dezembro de 1993 e com o nome 'corretor nulo' da NASA. Resposta e opções inalteradas."
     }
   ],
-  "etiquetas": [],
-  "options_lock": "1944147d3031d951fe107290743e615c6a87fdc813df4bb72e373caad7dc6299"
+  "etiquetas": []
 }

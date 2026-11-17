@@ -4,53 +4,25 @@
   "subtopic": "Preservação de videojogos",
   "text": {
     "pt-PT": {
-      "question": "Em 2024, o Gabinete de Direitos de Autor dos EUA recusou alargar a isenção legal para permitir que bibliotecas fizessem o quê com videojogos esgotados?",
+      "question": "Em 2024, a Bibliotecária do Congresso dos EUA recusou alargar a isenção legal para bibliotecas fazerem o quê com videojogos já não disponíveis no mercado?",
       "options": [
+        "Jogá-los nas instalações da biblioteca",
         "Vender cópias digitais ao público",
         "Guardar cópias de preservação",
-        "Jogá-los nas instalações da biblioteca",
         "Dar acesso remoto a investigadores"
       ],
-      "explanation": "O Gabinete recusou o acesso remoto de investigadores a videojogos esgotados e, em outubro de 2024, manteve os limites em vigor, que impedem disponibilizá-los fora da biblioteca. Segundo a Video Game History Foundation, a associação da indústria (ESA) opôs-se ao pedido na audiência."
-    },
-    "en-US": {
-      "question": "In 2024, the U.S. Copyright Office refused to expand the legal exemption to let libraries do what with out-of-print video games?",
-      "options": [
-        "Sell digital copies to the public",
-        "Keep preservation copies",
-        "Play them on library premises",
-        "Give researchers remote access"
-      ],
-      "explanation": "The Office denied remote access for researchers to out-of-print video games and, in October 2024, kept the current limits, which bar making them available outside the library. According to the Video Game History Foundation, the industry association (ESA) opposed the request at the hearing."
+      "explanation": "Por recomendação da Registadora dos Direitos de Autor, a Bibliotecária do Congresso manteve em outubro de 2024 a regra que só permite aceder aos jogos nas instalações da biblioteca. A Registadora concluiu que não ficou demonstrado que o acesso fora delas fosse lícito."
     }
   },
   "correct": 3,
   "difficulty": 4,
-  "valid_until": null,
+  "valid_until": "2027-10-28",
   "daily_eligible": false,
   "sources": [
     "https://gamehistory.org/dmca-2024-statement/",
     "https://www.infodocket.com/2024/10/25/u-s-copyright-office-rejects-dmca-exemption-to-support-game-preservation/"
   ],
   "fontes": [
-    {
-      "url": "https://gamehistory.org/dmca-2024-statement/",
-      "dominio": "gamehistory.org",
-      "titulo": "Statement on the DMCA 2024 triennial review ruling (Video Game History Foundation)",
-      "nivel": 1,
-      "excerto": "allow libraries and archives to remotely share digital access to out-of-print video games in their collections. ... libraries and archives are unable to break copy protection on games in order to make them remotely accessible to researchers.",
-      "consultada_em": "2026-11-12",
-      "papel": "pesquisador"
-    },
-    {
-      "url": "https://www.infodocket.com/2024/10/25/u-s-copyright-office-rejects-dmca-exemption-to-support-game-preservation/",
-      "dominio": "infodocket.com",
-      "titulo": "US Copyright Office Issues Updated DMCA Regulations (Library Journal infoDOCKET)",
-      "nivel": 2,
-      "excerto": "The U.S. Copyright Office will not expand an exemption to the DMCA rules that would allow for video game preservation in libraries and archives. ... remotely share digital access to out-of-print games",
-      "consultada_em": "2026-11-12",
-      "papel": "pesquisador"
-    },
     {
       "url": "https://www.copyright.gov/1201/2024/",
       "dominio": "copyright.gov",
@@ -70,47 +42,38 @@
       "papel": "advogado"
     },
     {
+      "url": "https://gamehistory.org/dmca-2024-statement/",
+      "dominio": "gamehistory.org",
+      "titulo": "Statement on the DMCA 2024 triennial review ruling (Video Game History Foundation)",
+      "nivel": 1,
+      "excerto": "allow libraries and archives to remotely share digital access to out-of-print video games in their collections. ... libraries and archives are unable to break copy protection on games in order to make them remotely accessible to researchers.",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.infodocket.com/2024/10/25/u-s-copyright-office-rejects-dmca-exemption-to-support-game-preservation/",
+      "dominio": "infodocket.com",
+      "titulo": "US Copyright Office Issues Updated DMCA Regulations (Library Journal infoDOCKET)",
+      "nivel": 2,
+      "excerto": "The U.S. Copyright Office will not expand an exemption to the DMCA rules that would allow for video game preservation in libraries and archives. ... remotely share digital access to out-of-print games",
+      "consultada_em": "2026-11-12",
+      "papel": "pesquisador"
+    },
+    {
       "url": "https://public-inspection.federalregister.gov/2024-24563.pdf",
       "dominio": "federalregister.gov",
-      "titulo": "Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies (Federal Register, 2024-24563, Library of Congress / Copyright Office)",
+      "titulo": "Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies (Final rule, Federal Register 2024-24563, Library of Congress / Copyright Office)",
       "nivel": 1,
-      "excerto": "The Register concludes that proponents did not show that removing the single-user limitation for preserved computer programs or permitting off-premises access to video games are likely to be noninfringing.",
+      "excerto": "The Register concludes that proponents did not show that ... permitting off-premises access to video games are likely to be noninfringing. ... the Librarian of Congress accepts that recommendation with respect to all the classes of works.",
       "consultada_em": "2026-11-17",
-      "papel": "verificador"
+      "papel": "pesquisador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Dar acesso remoto a investigadores",
-      "concorda": true,
-      "confianca": "alta",
-      "dominio": "federalregister.gov",
-      "data": "2026-11-17",
-      "notas": "A regra final recusou retirar a limitação de premissas (jogos não podem ser disponibilizados fora das instalações) pedida para a classe 6(b), com o argumento de acesso remoto de investigadores. A preservação de cópias já era permitida e foi renovada, logo não foi recusada. Jogar nas instalações continua permitido. Vender cópias nunca foi pedido. Todas as outras opções excluídas."
-    },
-    "advogado": {
-      "aprovado": true,
-      "notas": "O texto atual corresponde ao que as fontes dizem: manteve os limites em vigor (VGC, CFR 201.40(b)(19)) e a oposição da ESA vem atribuída à VGHF. Opções 1 e 2 já são permitidas, a 0 nunca foi pedida. Outubro de 2024: VGHF e VGC. Não reli o PDF do Federal Register nesta passagem.",
-      "data": "2026-11-17"
-    },
-    "editor": {
-      "aprovado": true,
-      "originalidade_ok": true,
-      "alteracao_factual": false,
-      "notas": "Explicação reduzida a 2 frases (cerca de 285 caracteres), a começar pela resposta. Retirei o risco de prejuízo para o mercado e a referência à Software Preservation Network como autora do pedido. Mantive a atribuição «Segundo a Video Game History Foundation». Enunciado e opções intocados.",
-      "data": "2026-11-17"
-    },
-    "tradutor": {
-      "data": "2026-11-17",
-      "notas": "Opções na nova ordem do pt-PT (certa no índice 3). 'Gabinete de Direitos de Autor dos EUA' = U.S. Copyright Office; 'esgotados' = out-of-print (o conferente pode preferir 'no longer sold'). 'isenção legal' = legal exemption. Atribuição à Video Game History Foundation mantida; ESA identificada como 'industry association' como no pt-PT. Explicação com 290 caracteres, perto do limite de 300."
-    },
-    "conferente": {
-      "aprovado": true,
-      "notas": "Mesmo facto: recusa de acesso remoto para investigadores, outubro de 2024, atribuição à Video Game History Foundation e oposição da ESA. As opções 0 a 3 são equivalentes uma a uma e só a 3 é a recusada. Em pt-PT «esgotados» e em en-US «out-of-print» são equivalentes naturais. Explicação com 2 frases, pergunta com «?» e opções dentro dos 60 caracteres. Sem pistas novas.",
-      "data": "2026-11-17"
-    }
+    "verificador": null,
+    "advogado": null
   },
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -240,8 +203,19 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "reaberta (revisão editorial de 17/11: observações do Andre; segundo ciclo)",
+      "agente": "orquestrador",
+      "nota": "aprovação do circuito anulada; correção redigida pelo pesquisador"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "reformulada",
+      "agente": "pesquisador",
+      "nota": "(a) Sujeito: «o Gabinete» passou a «a Bibliotecária do Congresso», com a Registadora a recomendar, como no texto oficial. (b) «esgotados» substituído por «já não disponíveis no mercado» (formulação da regra). Explicação reescrita com atribuição e sem a referência à Video Game History Foundation e à ESA, que não vinham da fonte oficial lida. Opções e resposta iguais. Acrescentado valid_until 2027-10-28 (fim do ciclo trienal) por prudência."
     }
   ],
-  "etiquetas": [],
-  "options_lock": "89ab983811954ba58dbb2eeb67e549c0ba83f67f04e431ae2deecd8d2c891dd1"
+  "etiquetas": []
 }

@@ -4,27 +4,17 @@
   "subtopic": "Mundiais de futebol",
   "text": {
     "pt-PT": {
-      "question": "No Áustria 7–5 Suíça, quarto de final do Mundial de 1954, quantos golos foram marcados só na 1.ª parte?",
+      "question": "No jogo Áustria 7–5 Suíça, dos quartos de final do Mundial de 1954, quantos golos foram marcados só na 1.ª parte?",
       "options": [
-        "9",
         "7",
         "8",
+        "9",
         "10"
       ],
       "explanation": "Nove golos: a Suíça chegou a vencer por 3–0, mas a Áustria virou o jogo e foi para o intervalo a ganhar por 5–4. Com 12 golos, é o jogo com mais golos da história dos Mundiais, segundo a FIFA."
-    },
-    "en-US": {
-      "question": "In Austria 7-5 Switzerland, a quarterfinal of the 1954 World Cup, how many goals were scored in the first half alone?",
-      "options": [
-        "9",
-        "7",
-        "8",
-        "10"
-      ],
-      "explanation": "Nine goals: Switzerland led 3-0 at one point, but Austria turned the game around and went into halftime ahead 5-4. With 12 goals, it is the highest-scoring game in World Cup history, according to FIFA."
     }
   },
-  "correct": 0,
+  "correct": 2,
   "difficulty": 4,
   "valid_until": null,
   "daily_eligible": true,
@@ -32,6 +22,15 @@
     "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/12-days-to-go-goals-galore-switzerland-1954-2952383"
   ],
   "fontes": [
+    {
+      "url": "https://fourfourtwo.com/features/what-is-the-highest-scoring-world-cup-match-ever",
+      "dominio": "fourfourtwo.com",
+      "titulo": "What is the highest-scoring World Cup match ever? | FourFourTwo",
+      "nivel": 2,
+      "excerto": "Austria managed to bounce back from this hammering with five goals of their own - all within the first half.",
+      "consultada_em": "2026-11-13",
+      "papel": "advogado"
+    },
     {
       "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/12-days-to-go-goals-galore-switzerland-1954-2952383",
       "dominio": "fifa.com",
@@ -51,56 +50,20 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://fourfourtwo.com/features/what-is-the-highest-scoring-world-cup-match-ever",
-      "dominio": "fourfourtwo.com",
-      "titulo": "What is the highest-scoring World Cup match ever? | FourFourTwo",
-      "nivel": 2,
-      "excerto": "Austria managed to bounce back from this hammering with five goals of their own - all within the first half.",
-      "consultada_em": "2026-11-13",
-      "papel": "advogado"
-    },
-    {
       "url": "https://www.thesoccerworldcups.com/games/1954_austria_switzerland.php",
       "dominio": "thesoccerworldcups.com",
       "titulo": "Austria 7 vs. Switzerland 5 at the 1954 World Cup, Match Details",
       "nivel": 2,
-      "excerto": "Game played in the 1954 World Cup, 1/4 Finals. Goals: 16' Ballaman, 17' Huegi, 19' Huegi, 25' Wagner, 26' Koerner, 27' Wagner, 32' Ocwirk, 34' Koerner, 39' Ballaman, 53' Wagner, 58' Huegi, 76' Probst",
+      "excerto": "Austria 7 - 5 Switzerland. Goals: 16', 17', 19', 25', 26', 27', 32', 34', 39', 53', 58', 76' (12 golos; 9 até ao minuto 39, 3 depois do intervalo).",
       "consultada_em": "2026-11-17",
-      "papel": "verificador"
+      "papel": "pesquisador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "9",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "thesoccerworldcups.com",
-      "data": "2026-11-17",
-      "notas": "Ler a página nesta sessão. Foi um quarto de final (1/4 Finals, 26-06-1954). Há 9 golos até ao 39' e o seguinte é aos 53', por isso a 1.ª parte teve 9 golos (5-4 ao intervalo). Pesquisas independentes dão também 5-4 ao intervalo (ESPN abriu mas sem texto útil; worldfootball.net deu 403). Apenas uma fonte aberta e lida com a lista de golos, e é um site estatístico, daí confiança média. Opções 7, 8 e 10 excluídas pela contagem."
-    },
-    "advogado": {
-      "aprovado": true,
-      "notas": "Resposta 9 (5–4 ao intervalo) confirmada por FIFA e RSSSF. O recorde de 12 golos está atribuído à FIFA (2018) e, depois do Mundial de 2026, a beIN lista-o em 1.º. Já não depende de «até 2026». Opções sem segunda resposta.",
-      "data": "2026-11-17"
-    },
-    "editor": {
-      "aprovado": true,
-      "originalidade_ok": true,
-      "alteracao_factual": false,
-      "notas": "Explicação reduzida a 2 frases (cerca de 200 caracteres). Retirei a frase do calor e de Lausanne, o que resolve o anglicismo (seria «Lausana»). Mantive a atribuição «segundo a FIFA». Enunciado e opções intocados.",
-      "data": "2026-11-17"
-    },
-    "tradutor": {
-      "data": "2026-11-17",
-      "notas": "Opções na nova ordem do pt-PT (certa no índice 0). Resultados com hífen simples. 'quarto de final' = quarterfinal (grafia americana). 'chegou a vencer por 3-0' = led 3-0 at one point. Atribuição à FIFA mantida."
-    },
-    "conferente": {
-      "aprovado": true,
-      "notas": "Resultado 7-5, quarto de final de 1954, 3-0 e 5-4 ao intervalo, 12 golos e atribuição à FIFA estão iguais nos dois idiomas. As opções 9/7/8/10 estão pela mesma ordem, com certa no índice 0 nos dois. A explicação tem 2 frases. Diferença só tipográfica: travessão no pt-PT e hífen no en-US nos resultados.",
-      "data": "2026-11-17"
-    }
+    "verificador": null,
+    "advogado": null
   },
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -254,8 +217,19 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "reaberta (revisão editorial de 17/11: observações do Andre; segundo ciclo)",
+      "agente": "orquestrador",
+      "nota": "aprovação do circuito anulada; correção redigida pelo pesquisador"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "reformulada",
+      "agente": "pesquisador",
+      "nota": "Opções reordenadas por ordem crescente (7, 8, 9, 10). 'quarto de final' passa a 'quartos de final' e o enunciado passa a 'No jogo Áustria 7–5 Suíça, dos quartos de final do Mundial de 1954, ...'. Frase 'jogo com mais golos da história dos Mundiais, segundo a FIFA' confirmada na página inside.fifa.com e mantida. Facto e resposta (9) inalterados."
     }
   ],
-  "etiquetas": [],
-  "options_lock": "427d6ce15a49cd8c43845cb0dd2e147bcd75cb4a377a85812dcf313e56d95625"
+  "etiquetas": []
 }
