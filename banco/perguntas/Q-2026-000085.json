@@ -58,10 +58,26 @@
       "excerto": "solely for the purpose of preservation of the game in a playable form by an eligible library, archives, or museum",
       "consultada_em": "2026-11-17",
       "papel": "advogado"
+    },
+    {
+      "url": "https://public-inspection.federalregister.gov/2024-24563.pdf",
+      "dominio": "federalregister.gov",
+      "titulo": "Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies (Federal Register, 2024-24563, Library of Congress / Copyright Office)",
+      "nivel": 1,
+      "excerto": "The Register concludes that proponents did not show that removing the single-user limitation for preserved computer programs or permitting off-premises access to video games are likely to be noninfringing.",
+      "consultada_em": "2026-11-17",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Dar acesso remoto a investigadores",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "federalregister.gov",
+      "data": "2026-11-17",
+      "notas": "A regra final recusou retirar a limitação de premissas (jogos não podem ser disponibilizados fora das instalações) pedida para a classe 6(b), com o argumento de acesso remoto de investigadores. A preservação de cópias já era permitida e foi renovada, logo não foi recusada. Jogar nas instalações continua permitido. Vender cópias nunca foi pedido. Todas as outras opções excluídas."
+    },
     "advogado": null,
     "editor": {
       "aprovado": true,
@@ -171,6 +187,12 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte federalregister.gov"
     }
   ],
   "etiquetas": []

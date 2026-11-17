@@ -48,10 +48,26 @@
       "excerto": "Austria managed to bounce back from this hammering with five goals of their own - all within the first half.",
       "consultada_em": "2026-11-13",
       "papel": "advogado"
+    },
+    {
+      "url": "https://www.thesoccerworldcups.com/games/1954_austria_switzerland.php",
+      "dominio": "thesoccerworldcups.com",
+      "titulo": "Austria 7 vs. Switzerland 5 at the 1954 World Cup, Match Details",
+      "nivel": 2,
+      "excerto": "Game played in the 1954 World Cup, 1/4 Finals. Goals: 16' Ballaman, 17' Huegi, 19' Huegi, 25' Wagner, 26' Koerner, 27' Wagner, 32' Ocwirk, 34' Koerner, 39' Ballaman, 53' Wagner, 58' Huegi, 76' Probst",
+      "consultada_em": "2026-11-17",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "9",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "thesoccerworldcups.com",
+      "data": "2026-11-17",
+      "notas": "Ler a página nesta sessão. Foi um quarto de final (1/4 Finals, 26-06-1954). Há 9 golos até ao 39' e o seguinte é aos 53', por isso a 1.ª parte teve 9 golos (5-4 ao intervalo). Pesquisas independentes dão também 5-4 ao intervalo (ESPN abriu mas sem texto útil; worldfootball.net deu 403). Apenas uma fonte aberta e lida com a lista de golos, e é um site estatístico, daí confiança média. Opções 7, 8 e 10 excluídas pela contagem."
+    },
     "advogado": null,
     "editor": {
       "aprovado": true,
@@ -185,6 +201,12 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte thesoccerworldcups.com"
     }
   ],
   "etiquetas": []
