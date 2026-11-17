@@ -112,9 +112,14 @@
     "tradutor": {
       "data": "2026-11-17",
       "notas": "«Indisponíveis» traduzido como «unavailable», sem acrescentar «out-of-print». «Registadora dos Direitos de Autor» traduzido como «Register of Copyrights», o cargo oficial. «Fora delas fosse lícito» traduzido como «off-premises access would be lawful», seguindo o excerto do Federal Register («likely to be noninfringing»). A opção «Jogá-los nas instalações da biblioteca» passou a «Let people play them on library premises» para soar natural."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Mesma afirmação, mesma data (outubro de 2024) e mesmas entidades (Bibliotecária do Congresso, Registadora dos Direitos de Autor) nos dois idiomas. As quatro opções correspondem uma a uma. A explicação tem 2 frases e menos de 300 caracteres. pt-PT correto («Jogá-los», «Registadora», «instalações»).",
+      "data": "2026-11-17"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -280,7 +285,20 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "«Indisponíveis» traduzido como «unavailable», sem acrescentar «out-of-print». «Registadora dos Direitos de Autor» traduzido como «Register of Copyrights», o cargo oficial. «Fora delas fosse lícito» traduzido como «off-premises access would be lawful», seguindo o excerto do Federal Register («likely to be noninfringing»). A opção «Jogá-los nas instalações da biblioteca» passou a «Let people play them on library premises» para soar natural."
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "6bfd0e382ae58c46acb7570584d1c9d0a8bf4af01154c7380f943d526ef2a006"
 }

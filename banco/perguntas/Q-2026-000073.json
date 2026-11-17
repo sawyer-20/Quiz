@@ -85,6 +85,11 @@
     "tradutor": {
       "data": "2026-11-17",
       "notas": "«Espelho principal» traduzido como «primary mirror» (termo corrente; o excerto da NASA usa «main mirror»). «Corretor nulo» traduzido como «null corrector», como na fonte. 1,3 mm mantido como 1.3 mm, sem conversão."
+    },
+    "conferente": {
+      "aprovado": false,
+      "notas": "O facto, as opções (uma a uma, pela mesma ordem) e a explicação são equivalentes, e o índice certo é o mesmo. Rejeito na dúvida, só pela pista lexical em pt-PT. Para corrigir, o enunciado pt-PT deve evitar «curva» (por exemplo «com a forma errada»), ou os dois idiomas devem usar a mesma palavra. Como isto mexe no texto, o tradutor deve refazê-lo e a pergunta deve ser reavaliada.",
+      "data": "2026-11-17"
     }
   },
   "estado": "em_verificacao",
@@ -211,6 +216,12 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "«Espelho principal» traduzido como «primary mirror» (termo corrente; o excerto da NASA usa «main mirror»). «Corretor nulo» traduzido como «null corrector», como na fonte. 1,3 mm mantido como 1.3 mm, sem conversão."
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"pergunta\", \"idioma\": \"pt-PT\", \"detalhe\": \"Pista nova: o enunciado diz «curva errada» e a opção certa (3) diz «testava a curva do espelho». A palavra «curva» repete-se no enunciado e na opção certa, o que a torna a opção mais óbvia. No en-US o enunciado usa «wrong shape» e a opção usa «curve», por isso a pista não existe lá. Os dois idiomas ficam assimétricos.\"}]"
     }
   ],
   "etiquetas": []

@@ -102,9 +102,14 @@
     "tradutor": {
       "data": "2026-11-17",
       "notas": "«Áustria 7–5 Suíça» reformulado como «Austria's 7–5 win over Switzerland» (o resultado é o mesmo). «1.ª parte» passou a «first half» e «intervalo» a «halftime». A atribuição à FIFA foi mantida."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Números, resultado (7–5), parcial ao intervalo (5–4), 3–0 inicial e atribuição «segundo a FIFA»/«according to FIFA» coincidem. As opções numéricas são idênticas. A explicação tem 2 frases nos dois idiomas.",
+      "data": "2026-11-17"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -294,7 +299,20 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "«Áustria 7–5 Suíça» reformulado como «Austria's 7–5 win over Switzerland» (o resultado é o mesmo). «1.ª parte» passou a «first half» e «intervalo» a «halftime». A atribuição à FIFA foi mantida."
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "342a4f954e006e63b759d37b52fc8c18a8487f1306aec68218f26b8a6704fbc6"
 }

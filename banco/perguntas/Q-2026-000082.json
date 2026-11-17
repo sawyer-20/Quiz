@@ -4,17 +4,17 @@
   "subtopic": "História da música",
   "text": {
     "pt-PT": {
-      "question": "Segundo a Guinness World Records, como era o primeiro «disco de ouro», entregue a Glenn Miller em 1942?",
+      "question": "Segundo a Universidade do Colorado, como era o primeiro «disco de ouro», entregue a Glenn Miller em 1942?",
       "options": [
         "Uma cópia do disco revestida a folha de ouro",
-        "Uma cópia do disco moldada em latão polido",
         "Uma cópia do disco pulverizada com tinta dourada",
+        "Uma cópia do disco moldada em latão polido",
         "Uma cópia do disco fundida em ouro maciço"
       ],
-      "explanation": "Segundo a Guinness World Records, o primeiro disco de ouro foi uma cópia de «Chattanooga Choo Choo» pulverizada com tinta dourada pela RCA Victor; a oferta seguiu-se a 1,2 milhões de vendas. Só em 1958 a RIAA começou a atribuir discos de ouro oficiais."
+      "explanation": "Segundo a Universidade do Colorado, foi uma cópia do disco pulverizada com tinta dourada; a Guinness World Records diz que a RCA Victor a mandou pulverizar. A oferta seguiu-se a 1,2 milhões de vendas e só em 1958 a RIAA começou a atribuir discos de ouro oficiais."
     }
   },
-  "correct": 2,
+  "correct": 1,
   "difficulty": 3,
   "valid_until": null,
   "daily_eligible": true,
@@ -67,26 +67,10 @@
       "excerto": "It was a publicity stunt from RCA Victor who literally sprayed a master copy of the record with gold lacquer after the record sold a whopping 1.2 million copies.",
       "consultada_em": "2026-11-17",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://www.dennismspragg.com/chattanooga-choo-choo/",
-      "dominio": "dennismspragg.com",
-      "titulo": "Chattanooga Choo Choo - the first gold record (Dennis M. Spragg)",
-      "nivel": 2,
-      "excerto": "On February 10, 1942, RCA Victor-Bluebird records awarded Miller with a gold-painted and framed copy of the 78rpm disc after sales had passed one million, two hundred thousand copies.",
-      "consultada_em": "2026-11-17",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Uma cópia do disco pulverizada com tinta dourada",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "dennismspragg.com",
-      "data": "2026-11-17",
-      "notas": "ATENÇÃO À INDEPENDÊNCIA. Para a atribuição à Guinness, só encontrei a entrada da Guinness no domínio guinnessworldrecords.com.br (https://www.guinnessworldrecords.com.br/world-records/first-gold-disc-music-award), que é o mesmo editor do domínio proibido guinnessworldrecords.com e o mesmo texto do título a evitar. Li-a e diz: 'The first actual golden disc was once sprayed by R.C.A. Victor for presentation to ... Glenn Miller ... on 10 Feb 1942.' Por isso 'pulverizada com tinta dourada' é confirmada para a Guinness, mas o orquestrador deve tratar essa confirmação como NÃO independente e como republicação do site proibido. A fonte própria que indico (Spragg, nível 2) e o MusicRow (https://musicrow.com/2016/05/glenn-millers-chattanooga-choo-choo-celebrates-75-years/, 'RCA Victor executives painted a 78 rpm record gold') confirmam só que o disco era uma cópia pintada. Isto exclui o ouro maciço, o latão moldado e a folha de ouro. A atribuição 'segundo a Guinness' em si não foi confirmada fora do domínio da Guinness. A NPR (https://www.npr.org/2017/02/10/514522626/how-chattanooga-choo-choo-became-the-worlds-first-gold-record) cita o locutor a dizer 'solid gold' em direto, e isso não prova o material. Confiança média. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): A placa histórica do condado de Hamilton, vista só no resumo da pesquisa, fala em 'gold-plated stamper'. A transcrição da locução na NPR diz 'solid gold'. Duas fontes independentes que li dizem 'pintado': Spragg e MusicRow. Também encontrei a página da Guinness (ver notas) e ela diz 'sprayed'."
-    },
+    "verificador": null,
     "advogado": null
   },
   "estado": "em_verificacao",
@@ -219,6 +203,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte dennismspragg.com"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (2.º ciclo: atribuição/redação, sem mudar facto, resposta nem opções)"
     }
   ],
   "etiquetas": []
