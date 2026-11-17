@@ -11,7 +11,7 @@
         "Jogá-los nas instalações da biblioteca",
         "Dar acesso remoto a investigadores"
       ],
-      "explanation": "O Gabinete recusou permitir o acesso remoto de investigadores a videojogos esgotados. A petição era da Software Preservation Network, apoiada pela Video Game History Foundation. Em outubro de 2024, o Gabinete deu razão à associação da indústria (ESA) e a outros opositores, e manteve a regra em vigor, que só permite a preservação dentro das instalações da biblioteca."
+      "explanation": "O Gabinete recusou permitir o acesso remoto de investigadores a videojogos esgotados. Em outubro de 2024, deu razão à associação da indústria (ESA) contra a petição da Software Preservation Network e manteve a regra, que só permite a preservação nas instalações da biblioteca."
     }
   },
   "correct": 3,
@@ -67,8 +67,8 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "Enunciado igual (113 caracteres). Explicação reordenada para começar pela resposta; sem factos novos.",
-      "data": "2026-11-13"
+      "notas": "Enunciado mantido (cerca de 150 caracteres). Explicação reduzida a 2 frases (cerca de 277 caracteres): retirei a Video Game History Foundation e 'outros opositores'. Os restantes factos e as opções não mudaram.",
+      "data": "2026-11-17"
     }
   },
   "estado": "em_verificacao",
@@ -147,6 +147,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (repetição por relatório malformado)"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
     }
   ],
   "etiquetas": []

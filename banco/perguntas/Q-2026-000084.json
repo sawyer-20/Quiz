@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000084",
   "topic": "Football",
-  "subtopic": "Recordes dos Mundiais",
+  "subtopic": "Mundiais de futebol",
   "text": {
     "pt-PT": {
       "question": "No Áustria 7–5 Suíça (Mundial de 1954), o jogo com mais golos de qualquer Mundial até 2026, quantos foram só na 1.ª parte?",
@@ -11,7 +11,7 @@
         "8",
         "7"
       ],
-      "explanation": "Nove golos: a Suíça chegou a vencer por 3–0, mas a Áustria virou o jogo e foi para o intervalo a ganhar por 5–4. Foi em Lausanne, num dia de calor extremo, com temperaturas perto dos 40 graus Celsius."
+      "explanation": "Nove golos: a Suíça chegou a vencer por 3–0, mas a Áustria virou o jogo e foi para o intervalo a ganhar por 5–4. Foi em Lausana, num dia de calor extremo, com temperaturas perto dos 40 graus Celsius."
     }
   },
   "correct": 1,
@@ -57,8 +57,8 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "Correção pedida: acrescentei a unidade «Celsius» a «perto dos 40 graus», conforme as fontes indicadas pelo coordenador (FIFA «almost 40 degrees»; FourFourTwo e 11v11 «40°C»). Resto igual. Enunciado e opções sem alteração. Explicação com 2 frases e cerca de 200 caracteres.",
-      "data": "2026-11-13"
+      "notas": "Só corrigi 'Lausanne' para 'Lausana'. Enunciado e opções intocados; explicação já cumpria 2 frases e o limite de caracteres.",
+      "data": "2026-11-17"
     }
   },
   "estado": "em_verificacao",
@@ -161,6 +161,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (repetição por relatório malformado)"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
     }
   ],
   "etiquetas": []

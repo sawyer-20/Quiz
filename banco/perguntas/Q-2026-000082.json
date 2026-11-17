@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000082",
   "topic": "Music",
-  "subtopic": "Certificações musicais",
+  "subtopic": "História da música",
   "text": {
     "pt-PT": {
       "question": "De que era feito, na realidade, o primeiro «disco de ouro», entregue a Glenn Miller em 1942?",
@@ -11,7 +11,7 @@
         "Um disco de latão dourado",
         "Uma cópia do disco pintada a ouro"
       ],
-      "explanation": "Era uma cópia emoldurada de «Chattanooga Choo Choo» pintada a ouro, entregue a Miller pela RCA Victor numa emissão de rádio em direto, em 10 de fevereiro de 1942. Segundo a revista Mixdown, o locutor chegou a dizer no ar que era «ouro maciço», mas a Universidade do Colorado, que guarda o disco, descreve-o como uma cópia pulverizada com tinta dourada. A certificação oficial da RIAA só começou em 1958."
+      "explanation": "Era uma cópia de «Chattanooga Choo Choo» pintada a ouro, entregue a Miller pela RCA Victor em direto na rádio, a 10 de fevereiro de 1942. Segundo a revista Mixdown, o locutor disse que era «ouro maciço», mas a Universidade do Colorado descreve-o como uma cópia pulverizada com tinta dourada."
     }
   },
   "correct": 3,
@@ -67,8 +67,8 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "Enunciado igual. Explicação reordenada para começar pela resposta; sem factos novos.",
-      "data": "2026-11-13"
+      "notas": "Enunciado intacto. Explicação reduzida a 2 frases (cerca de 292 caracteres): retirei a frase da RIAA/1958 e o pormenor 'emoldurada'; mantive a atribuição à Mixdown e as citações em «». 'chegou a dizer' passou a 'disse' por economia.",
+      "data": "2026-11-17"
     }
   },
   "estado": "em_verificacao",
@@ -135,6 +135,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (repetição por relatório malformado)"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
     }
   ],
   "etiquetas": []
