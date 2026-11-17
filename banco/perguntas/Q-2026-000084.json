@@ -57,10 +57,26 @@
       "excerto": "Austria 7 - 5 Switzerland. Goals: 16', 17', 19', 25', 26', 27', 32', 34', 39', 53', 58', 76' (12 golos; 9 até ao minuto 39, 3 depois do intervalo).",
       "consultada_em": "2026-11-17",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.11v11.com/matches/switzerland-v-austria-26-june-1954-226394/",
+      "dominio": "11v11.com",
+      "titulo": "Switzerland v Austria, 26 June 1954 - 11v11 match report",
+      "nivel": 2,
+      "excerto": "Switzerland: Ballaman 16, Hugi 17, Hugi 19, Ballaman 37, Hugi 60. Austria: Wagner 25, Korner 26, Wagner 28, Ocwirk 32, Korner 34, Wagner 53, Probst 77.",
+      "consultada_em": "2026-11-17",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "9",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "11v11.com",
+      "data": "2026-11-17",
+      "notas": "Contei os minutos dos golos. Na 1.ª parte houve 4 golos suíços (16', 17', 19', 37') e 5 austríacos (25', 26', 28', 32', 34'), ou seja 9, com 5-4 ao intervalo. Os restantes 3 golos (Hugi 60', Wagner 53', Probst 77') foram na 2.ª parte. A pesquisa na Wikipédia também dá 5-4 ao intervalo, mas não a abri. As opções 10, 7 e 8 ficam excluídas. A fonte é nível 2 (base de dados de resultados), mas os minutos são explícitos e coerentes com o 7-5 final."
+    },
     "advogado": null
   },
   "estado": "em_verificacao",
@@ -229,6 +245,12 @@
       "evento": "reformulada",
       "agente": "pesquisador",
       "nota": "Opções reordenadas por ordem crescente (7, 8, 9, 10). 'quarto de final' passa a 'quartos de final' e o enunciado passa a 'No jogo Áustria 7–5 Suíça, dos quartos de final do Mundial de 1954, ...'. Frase 'jogo com mais golos da história dos Mundiais, segundo a FIFA' confirmada na página inside.fifa.com e mantida. Facto e resposta (9) inalterados."
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte 11v11.com"
     }
   ],
   "etiquetas": []

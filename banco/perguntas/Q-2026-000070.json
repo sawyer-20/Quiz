@@ -131,6 +131,12 @@
       "evento": "reformulada",
       "agente": "pesquisador",
       "nota": "Opção certa passa a «A Irish FA, hoje a federação da Irlanda do Norte», eliminando a confusão com a FAI (República da Irlanda). As outras três opções passam à mesma estrutura («A [sigla/nome], de/do [país]»). Enunciado mantido. Explicação reescrita para incluir a precisão e a localização de McCrum (Milford, Armagh) e mantém a atribuição à RTÉ."
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "verificação interrompida: sem fonte independente de nível 1 ou 2",
+      "agente": "orquestrador",
+      "nota": "o verificador cego confirmou a resposta (confiança média) mas só com Wikipédia e um blogue (nível 3), em duas tentativas; as fontes de nível 1/2 abertas (irishfa.com, rte.ie, soccerhistory.co.uk) são do pesquisador. Fica em em_verificacao à espera de decisão do Andre (regra 5)."
     }
   ],
   "etiquetas": []
