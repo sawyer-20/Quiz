@@ -159,6 +159,12 @@
       "evento": "originalidade (definição nova): classico",
       "agente": "originalidade",
       "nota": "mantém-se: forma natural e muito habitual"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "verificação repetida (regra 23)",
+      "agente": "verificador-cego",
+      "nota": "repetição do verificador cego (relatório anterior malformado): respondeu Tecnécio, confiança alta; fonte EBSCO (n2)"
     }
   ],
   "etiquetas": [

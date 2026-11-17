@@ -162,6 +162,12 @@
       "evento": "originalidade (definição nova): original",
       "agente": "originalidade",
       "nota": "definição de 17/11/2026: nenhuma pergunta de quiz com este enunciado"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "verificação repetida (regra 23)",
+      "agente": "verificador-cego",
+      "nota": "repetição do verificador cego (relatório anterior malformado): respondeu Mohenjo-Daro, confiança média; fonte doam.gov.pk (n1) confirma ruas em ângulo reto e drenagem, mas não o ano de 1922 (1922 confirmado por UNESCO, Archaeology e Harappa.com noutras passagens)"
     }
   ],
   "etiquetas": [],

@@ -182,6 +182,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "verificação repetida (regra 23)",
+      "agente": "verificador-cego",
+      "nota": "repetição do verificador cego (relatório anterior truncado): respondeu 9, confiança média; fonte athlet.org (n2): 5-4 ao intervalo"
     }
   ],
   "etiquetas": [],
