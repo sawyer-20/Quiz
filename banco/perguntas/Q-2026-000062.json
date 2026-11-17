@@ -78,9 +78,13 @@
       "evento": "rejeitada",
       "agente": "orquestrador",
       "nota": "quota de clássicos do lote (regra 16): a pergunta ficou em espera sem chegar a ser verificada; o limite do Andre era 4 clássicos"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "originalidade reavaliada (definição de 17/11): original",
+      "agente": "originalidade",
+      "nota": "original (definição de 17/11), com a ressalva de que a forma pode existir fora do alcance da pesquisa. Entra no lote 5 como retoma única (regra 15), sem repetir a pesquisa."
     }
   ],
-  "etiquetas": [
-    "classico"
-  ]
+  "etiquetas": []
 }

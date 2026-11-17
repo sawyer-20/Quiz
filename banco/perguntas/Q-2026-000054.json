@@ -69,9 +69,13 @@
       "evento": "rejeitada",
       "agente": "orquestrador",
       "nota": "quota de clássicos do lote (regra 16: o lote já tem 4 clássicos; o limite do Andre é 4)"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "originalidade reavaliada (definição de 17/11): original",
+      "agente": "originalidade",
+      "nota": "original (definição de 17/11); confiança moderada (o facto dos 20% é muito conhecido). Entra no lote 5 como retoma única (regra 15), sem repetir a pesquisa."
     }
   ],
-  "etiquetas": [
-    "classico"
-  ]
+  "etiquetas": []
 }

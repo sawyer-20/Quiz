@@ -112,9 +112,13 @@
       "evento": "rejeitada",
       "agente": "advogado-do-diabo",
       "nota": "esgotou o ciclo de correção: 2.ª passagem do advogado ainda reprovou («em pé sobre» vs «diante de» não confirmado pela fonte lida)"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "originalidade reavaliada (definição de 17/11): original",
+      "agente": "originalidade",
+      "nota": "original (definição de 17/11): o enunciado 'em pé sobre que objeto' não aparece em quizzes; os quizzes encontrados perguntam o que a estatueta segura ou representa. Entra no lote 5 como retoma única (regra 15), sem repetir a pesquisa."
     }
   ],
-  "etiquetas": [
-    "classico"
-  ]
+  "etiquetas": []
 }
