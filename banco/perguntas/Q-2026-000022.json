@@ -89,6 +89,12 @@
     "tradutor": {
       "data": "2026-11-18",
       "notas": "Opção certa agora sem glosa («Azulejo»), igual ao pt-PT e em forma às outras três. A explicação mantém «tile panel», que esclarece o termo. Resto do texto inalterado. Pergunta com 125 caracteres (acima do alvo de 120, abaixo do máximo de 200)."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Mesmo facto nos dois idiomas, com a mesma atribuição (Gabriel del Barco), o mesmo museu e os mesmos monumentos. Opções equivalentes uma a uma e pela mesma ordem; a certa é a 3 (Azulejo). Regra 28: não há pistas gramaticais nem lexicais, porque o enunciado não contém a palavra «azulejo» nem «tile» e as opções são todas substantivos sem concordância com o enunciado. Limites cumpridos: explicação com 2 frases, opções curtas, pergunta termina em «?». «Óleo sobre tela» é normal em pt-PT. «National Tile Museum» é a tradução corrente de «Museu Nacional do Azulejo».",
+      "data": "2026-11-18",
+      "hash_texto": "2b9d3e21e8785d8bbe6e6ea52bddc7ea9247b41661ee463bfde804f0d5090014"
     }
   },
   "estado": "em_verificacao",
@@ -185,6 +191,12 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Opção certa agora sem glosa («Azulejo»), igual ao pt-PT e em forma às outras três. A explicação mantém «tile panel», que esclarece o termo. Resto do texto inalterado. Pergunta com 125 caracteres (acima do alvo de 120, abaixo do máximo de 200)."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ]
 }
