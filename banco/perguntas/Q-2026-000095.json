@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000095",
   "topic": "Music",
-  "subtopic": "Música clássica",
+  "subtopic": "Música clássica: sinfonias de Haydn",
   "text": {
     "pt-PT": {
       "question": "Na «Sinfonia do Adeus» de Haydn, que gesto faz cada músico antes de sair do palco, um a um, no final?",
@@ -71,12 +71,16 @@
       "notas": "Li a página com ler_url.py. A fonte diz que cada músico apaga a vela com que iluminava a partitura e sai do palco. A pesquisa, que não abri, diz o mesmo, e acrescenta que o Haydn deixou uma indicação na partitura. As outras opções não aparecem nas fontes que li: não há desafinação, vénia ao príncipe nem partitura fechada. A UC Davis e a Britannica devolveram 403, por isso só tenho esta fonte de nível 2 e a confiança podia ser média. Mantive alta porque o gesto da vela é consensual em todas as descrições. A tradição é difundida, mas há quem a discuta quanto a pormenores.",
       "hash_texto": "123703483ac314e8688ea2e37339247f131753daceff3d0929cfae7f1a4f05b3"
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "Afirmação a afirmação: (1) cada músico apaga a vela e sai, até restarem dois violinos: LA Phil (e Esterházy/LSO para as velas). (2) Sinfonia n.º 45: Esterházy, LSO, LA Phil. (3) 1772: as três. (4) 'Segundo a anedota mais conhecida': Esterházy diz que a versão dos músicos com saudades é a mais conhecida e que Dies já a registava; a atribuição à anedota está bem. (5) Recado ao príncipe Nikolaus Esterházy: Esterházy, LA Phil, LSO. (6) Saudades de Eisenstadt: apoiado só pela página Esterházy (Eisenstadt nomeado; o LA Phil diz 'Vienna', o LSO diz Viena), mas a explicação atribui-o à anedota, o que é fiel; sugestão opcional: manter a atribuição como está. A expressão 'da sua estante' já saiu da explicação; a opção 'Apaga a vela da sua estante' é coerente com a NPR (vela a iluminar a partitura), que não reabri nesta passagem. Tentei derrubar os distratores (vénia ao príncipe, desafinar, fechar a partitura): nenhuma das fontes lidas os apoia como gesto da sinfonia. Ordem das opções no ficheiro (certa no índice 1) não afeta o veredicto. Resíduo aceite: nem todos os músicos saem com a vela na versão histórica (os sopros saem antes), mas o gesto 'apagar a vela' é o canónico descrito pelas fontes. | páginas lidas pelo advogado: https://esterhazy.at/joseph-haydn/joseph-haydns-werdegang/haydns-abschiedssinfonie (aberta e lida com ler_url.py: apoia 'Sinfonia n.º 45 / Hob. I:45'; apresentação ao príncipe Nikolaus I. Esterházy em 1772; a versão dos músicos com saudades (Heimweh) de Eisenstadt, dada como 'bis heute die bekannteste' e atribuída a Dies e Griesinger, com as outras versões referidas como alternativas; os músicos saem um a um e apagam as luzes ('Lichter auslöschten'), até ficar só uma violino), https://www.laphil.com/works/symphony-no-45-farewell (aberta e lida com ler_url.py: 'Composed: 1772'; 'player after player ... blew out his candle, and left, until only two violins ... remained'; 'Tis said' atribui o desfecho à anedota), https://www.lso.co.uk/explore/what-you-shoul"
+    },
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "Enunciado e opções intactos. Explicação começa pela resposta, em 2 frases; atribuição ao LSO mantida. Dificuldade e subtema confirmados.",
+      "notas": "Segundo ciclo: enunciado e opções intactos. Explicação mantida (cerca de 230 caracteres, 2 frases, começa pela resposta, sem dúvida nem números novos). A anedota e Eisenstadt têm apoio no esterhazy.at (n1), segundo o pedido; os dois violinos e 1772 não os confirmei nos excertos, que não recebi, por isso o advogado deve garantir que constam das fontes. Dificuldade 3 mantida. Subtema afinado.",
       "data": "2026-11-18"
     }
   },
@@ -192,6 +196,18 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte northcountrypublicradio.org"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
     }
   ],
   "etiquetas": []

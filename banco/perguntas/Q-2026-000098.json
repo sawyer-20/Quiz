@@ -12,6 +12,16 @@
         "Um segurança da exposição"
       ],
       "explanation": "Foi o cão Pickles. O troféu foi roubado a 20 de março de 1966 e, a 27, o cão encontrou um embrulho de jornal atado com cordel, que o dono, David Corbett, abriu: era a taça."
+    },
+    "en-US": {
+      "question": "In 1966, the World Cup trophy was stolen from an exhibition in London. Who found it, wrapped in newspaper, a week later?",
+      "options": [
+        "A Scotland Yard officer",
+        "A Daily Mirror journalist",
+        "A dog named Pickles, out walking with his owner",
+        "A security guard at the exhibition"
+      ],
+      "explanation": "It was Pickles the dog. The trophy was stolen on March 20, 1966, and on March 27 the dog found a package of newspaper tied with string, which his owner, David Corbett, opened: it was the trophy."
     }
   },
   "correct": 2,
@@ -91,6 +101,10 @@
       "alteracao_factual": false,
       "notas": "Opções agora na ordem do ficheiro, conforme indicado pelo coordenador (índice 0 a 3; certa no índice 2, o cão Pickles). A ordem que usei no relatório anterior era a da mensagem inicial e estava errada. Enunciado e texto das opções intactos (2.º ciclo, regra 27). Na explicação troquei «farejou» por «encontrou»: o verbo «farejar» não consta do resumo das fontes (regra 29). Dificuldade 3 mantida; subtema afinado.",
       "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "Datas em formato americano (March 20, 1966). «a taça» passou a «the trophy» para repetir o termo da pergunta. «Um agente da Scotland Yard» = «A Scotland Yard officer». Daily Mirror e Scotland Yard mantidos na forma original. «cordel» = «string», como na ficha de facto (newspaper and string). Sem diferenças de facto face ao pt-PT."
     }
   },
   "estado": "em_verificacao",
@@ -205,6 +219,12 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Datas em formato americano (March 20, 1966). «a taça» passou a «the trophy» para repetir o termo da pergunta. «Um agente da Scotland Yard» = «A Scotland Yard officer». Daily Mirror e Scotland Yard mantidos na forma original. «cordel» = «string», como na ficha de facto (newspaper and string). Sem diferenças de facto face ao pt-PT."
     }
   ],
   "etiquetas": [
