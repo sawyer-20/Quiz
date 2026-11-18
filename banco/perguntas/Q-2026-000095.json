@@ -6,15 +6,15 @@
     "pt-PT": {
       "question": "Na «Sinfonia do Adeus» de Haydn, que gesto faz cada músico antes de sair do palco, um a um, no final?",
       "options": [
+        "Desafina de propósito o seu instrumento",
         "Apaga a vela da sua estante",
         "Faz uma vénia ao príncipe",
-        "Desafina de propósito o seu instrumento",
         "Fecha a partitura e deixa-a na cadeira"
       ],
-      "explanation": "Cada músico apaga a vela da sua estante e sai, até restarem dois violinos, no final da Sinfonia n.º 45 (1772). Segundo a anedota, era um recado ao príncipe Nikolaus Esterházy: os músicos tinham saudades de casa, em Eisenstadt."
+      "explanation": "Cada músico apaga a sua vela e sai, até restarem só dois violinos, no final da Sinfonia n.º 45 (1772). Segundo a anedota mais conhecida, era um recado ao príncipe Nikolaus Esterházy, porque os músicos tinham saudades de Eisenstadt."
     }
   },
-  "correct": 0,
+  "correct": 1,
   "difficulty": 3,
   "valid_until": null,
   "daily_eligible": false,
@@ -50,10 +50,27 @@
       "excerto": "Es ist eine der hartnäckigsten Anekdoten...: Fürst Nikolaus Esterházy residiert... im Schloss Eszterháza und die Musiker haben Heimweh nach Eisenstadt. ... lässt er am Ende seiner neuen Sinfonie die Orchestermitglieder nach und nach aufstehen und die Bühne verlassen.",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.northcountrypublicradio.org/news/npr/nx-s1-5311909/a-silent-protest-haydn-and-a-bunch-of-chorus-girls-got-there-first",
+      "dominio": "northcountrypublicradio.org",
+      "titulo": "A 'silent' protest? Haydn and a bunch of chorus girls got there first (NPR, via NCPR News)",
+      "nivel": 2,
+      "excerto": "one by one, each musician in the orchestra stands up, blows out the candle they were using to illuminate their sheet music and walks off the stage",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Apaga a vela da sua estante",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "northcountrypublicradio.org",
+      "data": "2026-11-18",
+      "notas": "Li a página com ler_url.py. A fonte diz que cada músico apaga a vela com que iluminava a partitura e sai do palco. A pesquisa, que não abri, diz o mesmo, e acrescenta que o Haydn deixou uma indicação na partitura. As outras opções não aparecem nas fontes que li: não há desafinação, vénia ao príncipe nem partitura fechada. A UC Davis e a Britannica devolveram 403, por isso só tenho esta fonte de nível 2 e a confiança podia ser média. Mantive alta porque o gesto da vela é consensual em todas as descrições. A tradição é difundida, mas há quem a discuta quanto a pormenores.",
+      "hash_texto": "123703483ac314e8688ea2e37339247f131753daceff3d0929cfae7f1a4f05b3"
+    },
     "advogado": null,
     "editor": {
       "aprovado": true,
@@ -151,6 +168,30 @@
       "evento": "devolvida a em_verificacao",
       "agente": "orquestrador",
       "nota": "triagem da auditoria: explicação reescrita; a repetir verificador, advogado, editor, tradutor e conferente"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte classicfm.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (2.º ciclo (auditoria 18/11)): interpretacao: A página do esterhazy.at (n1) dá o recado ao príncipe como anedota com várias versões concorrentes: saudades de casa/Eis"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (2.º ciclo (auditoria 18/11)): formulacao: Regra 29: a explicação diz que o músico apaga a vela «da sua estante». Nenhuma página que abri refere a estante: o LA Ph"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte northcountrypublicradio.org"
     }
   ],
   "etiquetas": []

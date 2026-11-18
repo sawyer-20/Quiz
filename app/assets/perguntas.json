@@ -1,0 +1,1626 @@
+[
+ {
+  "id": "Q-2026-000005",
+  "topic": "World History",
+  "difficulty": 3,
+  "daily": true,
+  "correct": 1,
+  "text": {
+   "pt-PT": {
+    "q": "Que técnica deu forma às cenas da Tapeçaria de Bayeux, que narra a conquista normanda de 1066?",
+    "o": [
+     "Pintura sobre linho",
+     "Bordado",
+     "Tecelagem em tear",
+     "Estampagem com carimbos de madeira"
+    ],
+    "e": "Bordado. Apesar do nome, não é uma tapeçaria, em que o desenho se tece no próprio pano: as cenas foram bordadas com fio de lã sobre um fundo de linho com cerca de 70 metros, feito de nove painéis cosidos entre si."
+   },
+   "en-US": {
+    "q": "Which technique was used to create the scenes of the Bayeux Tapestry, which tells the story of the 1066 Norman conquest?",
+    "o": [
+     "Painting on linen",
+     "Embroidery",
+     "Loom weaving",
+     "Stamping with wooden blocks"
+    ],
+    "e": "Embroidery. Despite the name, it is not a true tapestry, where the design is woven into the cloth: the scenes were embroidered in wool yarn on a linen ground about 70 meters long, made of nine panels sewn together."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000008",
+  "topic": "World History",
+  "difficulty": 4,
+  "daily": true,
+  "correct": 2,
+  "text": {
+   "pt-PT": {
+    "q": "O Monte Testaccio, em Roma, é uma colina artificial. De que é feita quase por inteiro?",
+    "o": [
+     "Escória de fornos de fundição",
+     "Cacos de ânforas de vinho",
+     "Cacos de ânforas de azeite",
+     "Entulho do incêndio de 64 d.C."
+    ],
+    "e": "De cacos de ânforas de azeite, deitadas fora na época imperial e vindas na grande maioria da Bética, no sul da Hispânia. Os romanos espalhavam cal sobre os cacos."
+   },
+   "en-US": {
+    "q": "Monte Testaccio in Rome is an artificial hill. What is it made of almost entirely?",
+    "o": [
+     "Foundry furnace slag",
+     "Wine amphora shards",
+     "Olive oil amphora shards",
+     "Rubble from the fire of A.D. 64"
+    ],
+    "e": "Olive oil amphora shards, discarded in the imperial era and coming mostly from Baetica, in southern Hispania. The Romans spread lime over the shards."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000009",
+  "topic": "World History",
+  "difficulty": 3,
+  "daily": true,
+  "correct": 2,
+  "text": {
+   "pt-PT": {
+    "q": "Na passagem ao calendário gregoriano, em 1752, que dia se seguiu a 2 de setembro na Grã-Bretanha?",
+    "o": [
+     "12 de setembro",
+     "11 de setembro",
+     "14 de setembro",
+     "13 de setembro"
+    ],
+    "e": "14 de setembro: foram suprimidos 11 dias (de 3 a 13) e a quarta-feira, dia 2, foi seguida pela quinta-feira, dia 14. A mesma lei mudou o início do ano de 25 de março para 1 de janeiro em Inglaterra, no País de Gales e nas colónias; a Escócia já o fazia desde 1600."
+   },
+   "en-US": {
+    "q": "When Britain switched to the Gregorian calendar in 1752, what day followed September 2?",
+    "o": [
+     "September 12",
+     "September 11",
+     "September 14",
+     "September 13"
+    ],
+    "e": "September 14: 11 days (the 3rd through the 13th) were skipped, and Wednesday the 2nd was followed by Thursday the 14th. The same law moved the start of the year from March 25 to January 1 in England, Wales and the colonies; Scotland had done so since 1600."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000010",
+  "topic": "World History",
+  "difficulty": 3,
+  "daily": true,
+  "correct": 1,
+  "text": {
+   "pt-PT": {
+    "q": "Quando criou o metro, a França revolucionária definiu-o como a décima milionésima parte de que distância?",
+    "o": [
+     "O diâmetro da Terra, de polo a polo",
+     "Do polo Norte ao equador",
+     "O perímetro da Terra no equador",
+     "De Paris ao polo Norte"
+    ],
+    "e": "Do polo Norte ao equador, pelo meridiano de Paris. Delambre e Méchain mediram o arco entre Dunquerque e Barcelona, mas o metro-padrão original ficou cerca de 0,2 mm mais curto do que essa décima milionésima parte do arco."
+   },
+   "en-US": {
+    "q": "When revolutionary France created the meter, it defined it as one ten-millionth of which distance?",
+    "o": [
+     "The Earth's diameter, from pole to pole",
+     "From the North Pole to the equator",
+     "The Earth's circumference at the equator",
+     "From Paris to the North Pole"
+    ],
+    "e": "From the North Pole to the equator, along the Paris meridian. Delambre and Méchain measured the arc between Dunkirk and Barcelona, but the original standard meter ended up about 0.2 mm shorter than that ten-millionth of the arc."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000012",
+  "topic": "World History",
+  "difficulty": 3,
+  "daily": true,
+  "correct": 1,
+  "text": {
+   "pt-PT": {
+    "q": "A ilha artificial de Dejima, em Nagasaki, foi construída na década de 1630 para confinar mercadores de que nacionalidade?",
+    "o": [
+     "Ingleses",
+     "Portugueses",
+     "Neerlandeses",
+     "Chineses"
+    ],
+    "e": "Portugueses: o xogunato começou a construir Dejima em 1634 para os confinar e travar o cristianismo. Em 1639 foram proibidos de vir ao Japão e, em 1641, a feitoria neerlandesa de Hirado mudou-se para a ilha."
+   },
+   "en-US": {
+    "q": "The artificial island of Dejima in Nagasaki was built in the 1630s to confine merchants of which nationality?",
+    "o": [
+     "English",
+     "Portuguese",
+     "Dutch",
+     "Chinese"
+    ],
+    "e": "Portuguese: the shogunate began building Dejima in 1634 to confine them and curb Christianity. In 1639 they were banned from Japan, and in 1641 the Dutch trading post at Hirado moved to the island."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000014",
+  "topic": "World History",
+  "difficulty": 2,
+  "daily": true,
+  "correct": 3,
+  "text": {
+   "pt-PT": {
+    "q": "Nos mercados astecas, que sementes eram usadas como moeda?",
+    "o": [
+     "Grãos de milho",
+     "Sementes de abóbora",
+     "Feijões",
+     "Sementes de cacau"
+    ],
+    "e": "Sementes de cacau: segundo o arqueólogo Michael E. Smith, pagavam as compras do dia a dia, enquanto os tecidos de algodão serviam para os bens mais valiosos. O cacau era também a bebida da elite e um tributo exigido à região de Soconusco."
+   },
+   "en-US": {
+    "q": "In Aztec markets, which seeds were used as currency?",
+    "o": [
+     "Corn kernels",
+     "Pumpkin seeds",
+     "Beans",
+     "Cacao seeds"
+    ],
+    "e": "Cacao seeds: according to archaeologist Michael E. Smith, they paid for everyday purchases, while cotton cloth was used for more valuable goods. Cacao was also the elite's drink and a tribute demanded from the Soconusco region."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000016",
+  "topic": "Geography",
+  "difficulty": 1,
+  "daily": true,
+  "correct": 0,
+  "text": {
+   "pt-PT": {
+    "q": "Em que serra fica o ponto mais alto de Portugal continental?",
+    "o": [
+     "Serra da Estrela",
+     "Serra da Lousã",
+     "Serra do Marão",
+     "Serra do Gerês"
+    ],
+    "e": "Na Serra da Estrela, na Torre, com 1993 m. Mas é só o topo do continente: o ponto mais alto do país é a Montanha do Pico, nos Açores, com 2351 m."
+   },
+   "en-US": {
+    "q": "In which mountain range is the highest point of mainland Portugal?",
+    "o": [
+     "Serra da Estrela",
+     "Serra da Lousã",
+     "Serra do Marão",
+     "Serra do Gerês"
+    ],
+    "e": "Serra da Estrela, at the Torre, 1,993 m. But that is only the top of the mainland: the country's highest point is Pico Mountain in the Azores, at 2,351 m."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000019",
+  "topic": "Movies",
+  "difficulty": 4,
+  "daily": true,
+  "correct": 3,
+  "text": {
+   "pt-PT": {
+    "q": "Qual foi a origem do incêndio que, em 1981, destruiu a sala de cinema da Cinemateca Portuguesa, em Lisboa?",
+    "o": [
+     "Um curto-circuito no quadro elétrico da sala",
+     "Uma descarga elétrica durante uma trovoada",
+     "Uma falha no sistema de aquecimento da sala",
+     "A combustão de um rolo de filme em nitrato de celulose"
+    ],
+    "e": "A combustão de um rolo de filme em nitrato de celulose provocou o incêndio que destruiu totalmente a sala de cinema da Cinemateca."
+   },
+   "en-US": {
+    "q": "What caused the 1981 fire that destroyed the screening room of the Portuguese Cinematheque in Lisbon?",
+    "o": [
+     "A short circuit in the room's electrical panel",
+     "An electrical discharge during a thunderstorm",
+     "A fault in the room's heating system",
+     "Combustion of a reel of cellulose nitrate film"
+    ],
+    "e": "Combustion of a reel of cellulose nitrate film caused the fire that totally destroyed the Cinematheque's screening room."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000020",
+  "topic": "General Knowledge",
+  "difficulty": 3,
+  "daily": true,
+  "correct": 3,
+  "text": {
+   "pt-PT": {
+    "q": "O Nobel da Literatura de 1902 foi para o historiador Theodor Mommsen. Que obra a Academia Sueca destacou?",
+    "o": [
+     "Uma história da Grécia antiga",
+     "Uma biografia do imperador Augusto",
+     "Um romance histórico sobre Júlio César",
+     "Uma história de Roma"
+    ],
+    "e": "Uma história de Roma. A Academia Sueca premiou Mommsen como «o maior mestre vivo da arte de escrever história», com referência especial à sua monumental História de Roma, escrita em parte quando era professor em Zurique."
+   },
+   "en-US": {
+    "q": "The 1902 Nobel Prize in Literature went to historian Theodor Mommsen. Which work did the Swedish Academy highlight?",
+    "o": [
+     "A history of ancient Greece",
+     "A biography of Emperor Augustus",
+     "A historical novel about Julius Caesar",
+     "A history of Rome"
+    ],
+    "e": "A history of Rome. The Swedish Academy honored Mommsen as \"the greatest living master of the art of historical writing,\" with special reference to his monumental A History of Rome, written partly while he was a professor in Zurich."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000021",
+  "topic": "General Knowledge",
+  "difficulty": 3,
+  "daily": true,
+  "correct": 1,
+  "text": {
+   "pt-PT": {
+    "q": "De que país veio o professor contratado por D. João VI para fundar em Lisboa o Real Instituto de Surdos-Mudos e Cegos?",
+    "o": [
+     "França",
+     "Suécia",
+     "Inglaterra",
+     "Espanha"
+    ],
+    "e": "Da Suécia: Pär Aron Borg já fundara um instituto semelhante no seu país e criou o alfabeto manual que usou em Lisboa. Segundo o Governo português, o alfabeto da língua gestual portuguesa e o da sueca revelam uma origem comum."
+   },
+   "en-US": {
+    "q": "Which country did the teacher hired by John VI to found Lisbon's Royal Institute for the Deaf-Mute and the Blind come from?",
+    "o": [
+     "France",
+     "Sweden",
+     "England",
+     "Spain"
+    ],
+    "e": "Sweden: Pär Aron Borg had already founded a similar institute there and created the manual alphabet he used in Lisbon. According to the Portuguese government, the Portuguese and Swedish sign language alphabets share a common origin."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000022",
+  "topic": "General Knowledge",
+  "difficulty": 2,
+  "daily": true,
+  "correct": 3,
+  "text": {
+   "pt-PT": {
+    "q": "O Grande Panorama de Lisboa mostra a cidade vista do Tejo antes do terramoto de 1755. Em que suporte foi feito?",
+    "o": [
+     "Gravura em cobre",
+     "Tapeçaria",
+     "Óleo sobre tela",
+     "Azulejo"
+    ],
+    "e": "Em azulejo: painel pintado a azul sobre branco, atribuído a Gabriel del Barco e guardado no Museu Nacional do Azulejo. Mostra a Lisboa anterior a 1755, com a Torre de Belém e o Mosteiro dos Jerónimos entre os edifícios."
+   },
+   "en-US": {
+    "q": "The Great Panorama of Lisbon shows the city as seen from the Tagus before the 1755 earthquake. What medium was it made in?",
+    "o": [
+     "Copper engraving",
+     "Tapestry",
+     "Oil on canvas",
+     "Azulejo"
+    ],
+    "e": "Azulejo: a painted blue-on-white tile panel attributed to Gabriel del Barco and kept at the National Tile Museum. It shows Lisbon before 1755, with the Belém Tower and the Jerónimos Monastery among its buildings."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000024",
+  "topic": "Science",
+  "difficulty": 3,
+  "daily": true,
+  "correct": 1,
+  "text": {
+   "pt-PT": {
+    "q": "Em 1868, onde estava o astrónomo francês Pierre Janssen quando registou a linha amarela que levaria ao hélio?",
+    "o": [
+     "Na Austrália",
+     "Na Índia",
+     "No Brasil",
+     "No Egito"
+    ],
+    "e": "Na Índia, onde Janssen foi observar um eclipse total do Sol e registou uma linha amarela inédita no espetro solar. Essa linha levaria ao hélio, detetado no Sol antes de o ser na Terra."
+   },
+   "en-US": {
+    "q": "In 1868, where was French astronomer Pierre Janssen when he recorded the yellow line that would lead to helium?",
+    "o": [
+     "In Australia",
+     "In India",
+     "In Brazil",
+     "In Egypt"
+    ],
+    "e": "In India, where Janssen went to observe a total solar eclipse and recorded a previously unknown yellow line in the solar spectrum. That line would lead to helium, detected on the Sun before it was found on Earth."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000025",
+  "topic": "Music",
+  "difficulty": 4,
+  "daily": true,
+  "correct": 3,
+  "text": {
+   "pt-PT": {
+    "q": "Segundo Beatriz Peralta García, o Requiem de Bomtempo surgiu após a edição parisiense de Os Lusíadas, promovida por que diplomata?",
+    "o": [
+     "Duque de Palmela",
+     "Silvestre Pinheiro Ferreira",
+     "Marquês de Pombal",
+     "Morgado de Mateus"
+    ],
+    "e": "Morgado de Mateus: segundo Beatriz Peralta García, o Requiem em dó menor, op. 23, «À memória de Camões», de Bomtempo foi composto na sequência da edição de Os Lusíadas feita por ele em Paris."
+   },
+   "en-US": {
+    "q": "According to Beatriz Peralta García, Bomtempo's Requiem followed the Paris edition of The Lusiads, sponsored by which diplomat?",
+    "o": [
+     "Duke of Palmela",
+     "Silvestre Pinheiro Ferreira",
+     "Marquis of Pombal",
+     "Morgado de Mateus"
+    ],
+    "e": "Morgado de Mateus: according to Beatriz Peralta García, Bomtempo's Requiem in C minor, Op. 23, \"To the Memory of Camões,\" was composed after the Paris edition of The Lusiads produced by the diplomat."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000030",
+  "topic": "General Knowledge",
+  "difficulty": 3,
+  "daily": true,
+  "correct": 1,
+  "text": {
+   "pt-PT": {
+    "q": "De que palavra portuguesa vem o malaio «minggu», que significa «semana»?",
+    "o": [
+     "Feira",
+     "Domingo",
+     "Semana",
+     "Sábado"
+    ],
+    "e": "Domingo. Em malaio e em indonésio, «minggu» passou a designar o período de sete dias, a semana; é um dos empréstimos do português ao malaio."
+   },
+   "en-US": {
+    "q": "Which Portuguese word does the Malay \"minggu,\" meaning \"week,\" come from?",
+    "o": [
+     "Feira (market day)",
+     "Domingo (Sunday)",
+     "Semana (week)",
+     "Sábado (Saturday)"
+    ],
+    "e": "Domingo. In Malay and Indonesian, \"minggu\" came to mean the seven-day period, the week; it is one of the Portuguese loanwords in Malay."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000031",
+  "topic": "Geography",
+  "difficulty": 4,
+  "daily": false,
+  "correct": 0,
+  "text": {
+   "pt-PT": {
+    "q": "Segundo a IUGS, que fração da área acrescentada ao Faial pelos Capelinhos (1957-58) resta hoje após a erosão marinha?",
+    "o": [
+     "Cerca de um quarto",
+     "Cerca de metade",
+     "Cerca de três quartos",
+     "Praticamente toda"
+    ],
+    "e": "Cerca de um quarto. A erupção acrescentou 2,4 km² ao Faial, mas a erosão marinha foi desfazendo a terra nova e, segundo a União Internacional de Ciências Geológicas (IUGS), resta hoje apenas cerca de um quarto dessa área."
+   },
+   "en-US": {
+    "q": "According to the IUGS, what fraction of the land the Capelinhos eruption (1957-58) added to Faial remains today after sea erosion?",
+    "o": [
+     "About a quarter",
+     "About half",
+     "About three-quarters",
+     "Nearly all of it"
+    ],
+    "e": "About a quarter. The eruption added 2.4 km² to Faial, but sea erosion gradually wore away the new land, and according to the International Union of Geological Sciences (IUGS), only about a quarter of that area remains today."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000032",
+  "topic": "World History",
+  "difficulty": 4,
+  "daily": true,
+  "correct": 2,
+  "text": {
+   "pt-PT": {
+    "q": "Que obra nova o Tratado de Saragoça (1529) proibiu a Portugal nas Molucas e num raio de 20 léguas à volta?",
+    "o": [
+     "Feitorias comerciais",
+     "Estaleiros navais",
+     "Fortalezas",
+     "Igrejas e missões"
+    ],
+    "e": "Fortalezas: pelo Tratado de Saragoça, D. João III pagou 350 000 ducados pelas pretensões castelhanas às Molucas e ficou impedido de erguer novas fortalezas ali, num raio de 20 léguas."
+   },
+   "en-US": {
+    "q": "What did the Treaty of Zaragoza (1529) forbid Portugal from building in the Moluccas and within 20 leagues around them?",
+    "o": [
+     "Trading posts",
+     "Shipyards",
+     "Fortresses",
+     "Churches and missions"
+    ],
+    "e": "Fortresses: under the Treaty of Zaragoza, John III paid 350,000 ducats for Castile's claims to the Moluccas and was barred from building new fortresses there, within 20 leagues."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000033",
+  "topic": "World History",
+  "difficulty": 3,
+  "daily": true,
+  "correct": 1,
+  "text": {
+   "pt-PT": {
+    "q": "Que objeto serviu de recibo fiscal no Tesouro inglês medieval e, queimado em 1834, incendiou o Parlamento de Westminster?",
+    "o": [
+     "Rolos de pergaminho selados com cera",
+     "Varas de madeira entalhadas e partidas ao meio",
+     "Fichas de chumbo cunhadas com o brasão real",
+     "Tábuas de cera gravadas com estilete"
+    ],
+    "e": "Varas de madeira entalhadas e partidas ao meio: uma metade ficava com o Tesouro, a outra com quem pagava. Em 1834 duas carroças dessas «tallies» foram queimadas nas fornalhas sob a Câmara dos Lordes e o fogo destruiu o Parlamento."
+   },
+   "en-US": {
+    "q": "What object served as a tax receipt in the medieval English Exchequer and, when burned in 1834, set the Houses of Parliament on fire?",
+    "o": [
+     "Wax-sealed parchment rolls",
+     "Notched wooden sticks split in half",
+     "Lead tokens stamped with the royal arms",
+     "Wax tablets engraved with a stylus"
+    ],
+    "e": "Notched wooden sticks split in half: one half stayed with the Exchequer, the other with the payer. In 1834 two cartloads of these tallies were burned in the furnaces under the House of Lords, and the fire destroyed Parliament."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000036",
+  "topic": "Science",
+  "difficulty": 2,
+  "daily": true,
+  "correct": 2,
+  "text": {
+   "pt-PT": {
+    "q": "Numa chapa muito acima dos 100 °C, uma gota de água desliza sem tocar no metal. O que a mantém afastada?",
+    "o": [
+     "Bolhas de ar que ficam presas na base da gota",
+     "Uma película de óxido que se forma na superfície do metal",
+     "Uma almofada de vapor formada pela própria gota",
+     "A tensão superficial, que repele o calor do metal"
+    ],
+    "e": "Uma almofada de vapor formada pela própria gota: é o efeito Leidenfrost. A base da gota evapora e o vapor forma uma película fina e isoladora, sobre a qual a gota levita e perde calor devagar."
+   },
+   "en-US": {
+    "q": "On a metal plate far above 100 °C, a water droplet glides without touching the metal. What keeps it apart?",
+    "o": [
+     "Air bubbles trapped under the droplet",
+     "An oxide film forming on the metal surface",
+     "A cushion of vapor formed by the droplet itself",
+     "Surface tension, which repels heat from the metal"
+    ],
+    "e": "A cushion of vapor formed by the droplet itself: this is the Leidenfrost effect. The underside of the droplet evaporates, and the vapor forms a thin insulating layer on which the droplet levitates and loses heat slowly."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000037",
+  "topic": "Nature & Animals",
+  "difficulty": 3,
+  "daily": true,
+  "correct": 0,
+  "text": {
+   "pt-PT": {
+    "q": "Em 2016, registos de EEG mostraram pela primeira vez que uma ave dorme em pleno voo. Qual foi?",
+    "o": [
+     "A fragata-grande",
+     "O pelicano-pardo",
+     "A andorinha-do-mar-ártica",
+     "O albatroz-errante"
+    ],
+    "e": "A fragata-grande: os registos de EEG mostraram que dorme em voo, com um hemisfério cerebral de cada vez ou com os dois. Dorme sobretudo a planar em círculos; os autores sugerem que o hemisfério acordado serve para ver para onde vai."
+   },
+   "en-US": {
+    "q": "In 2016, EEG recordings first showed that a bird sleeps while flying. Which bird was it?",
+    "o": [
+     "The great frigatebird",
+     "The brown pelican",
+     "The Arctic tern",
+     "The wandering albatross"
+    ],
+    "e": "The great frigatebird: EEG recordings showed it sleeps in flight, with one brain hemisphere at a time or with both. It sleeps mostly while soaring in circles; the authors suggest the awake hemisphere helps it see where it is going."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000038",
+  "topic": "General Knowledge",
+  "difficulty": 3,
+  "daily": false,
+  "correct": 0,
+  "text": {
+   "pt-PT": {
+    "q": "Segundo as leis de 1845 da Rugby School, o que ganhava uma equipa ao pousar a bola para lá da linha de ensaio?",
+    "o": [
+     "O direito a tentar um pontapé à baliza",
+     "Dois pontos",
+     "Um ponto",
+     "Um pontapé de penalidade"
+    ],
+    "e": "O direito a um «try at goal», uma tentativa de pontapé à baliza: nas leis de 1845 pousar a bola não dava pontos, só os golos marcavam. O ensaio só passou a valer pontos mais tarde."
+   },
+   "en-US": {
+    "q": "Under the 1845 laws of Rugby School, what did a team earn for grounding the ball beyond the goal line?",
+    "o": [
+     "The right to attempt a kick at goal",
+     "Two points",
+     "One point",
+     "A penalty kick"
+    ],
+    "e": "The right to a \"try at goal,\" a chance to kick at the goal: under the 1845 laws, grounding the ball scored no points, and only goals counted. A try only came to be worth points later."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000039",
+  "topic": "General Knowledge",
+  "difficulty": 3,
+  "daily": false,
+  "correct": 1,
+  "text": {
+   "pt-PT": {
+    "q": "Até ao fim de 2025, qual destas provas femininas de pista ao ar livre tinha o recorde mundial mais antigo em vigor?",
+    "o": [
+     "400 metros",
+     "800 metros",
+     "200 metros",
+     "1500 metros"
+    ],
+    "e": "Os 800 m: o recorde (1:53,28) de Jarmila Kratochvílová, em Munique, a 26 de julho de 1983, era o mais antigo ao ar livre do atletismo. O dela nos 400 m (47,99) foi batido dois anos depois por Marita Koch."
+   },
+   "en-US": {
+    "q": "As of the end of 2025, which of these women's outdoor track events had the oldest world record still standing?",
+    "o": [
+     "400 meters",
+     "800 meters",
+     "200 meters",
+     "1500 meters"
+    ],
+    "e": "The 800 m: Jarmila Kratochvílová's record (1:53.28), set in Munich on July 26, 1983, was the oldest outdoor record in athletics. Her 400 m mark (47.99) was broken two years later by Marita Koch."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000043",
+  "topic": "General Knowledge",
+  "difficulty": 3,
+  "daily": true,
+  "correct": 0,
+  "text": {
+   "pt-PT": {
+    "q": "Que título tinha primitivamente a «Mensagem», de Fernando Pessoa, antes de um amigo o levar a mudá-lo?",
+    "o": [
+     "Portugal",
+     "Atlântida",
+     "Lusitânia",
+     "Pátria"
+    ],
+    "e": "Portugal. Pessoa escreveu que o livro «chamava-se primitivamente» assim e que mudou o título porque Da Cunha Dias lhe fez notar que o nome da Pátria «estava hoje prostituído a sapatos, como a hotéis a sua maior Dinastia»."
+   },
+   "en-US": {
+    "q": "What was the original title of Fernando Pessoa's \"Mensagem\" before a friend led him to change it?",
+    "o": [
+     "Portugal",
+     "Atlantis",
+     "Lusitania",
+     "Fatherland"
+    ],
+    "e": "Portugal. Pessoa wrote that the book \"was originally called\" that, and that he changed the title because Da Cunha Dias pointed out that the name of the Fatherland \"was now prostituted to shoes, as its greatest Dynasty was to hotels.\""
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000045",
+  "topic": "General Knowledge",
+  "difficulty": 3,
+  "daily": true,
+  "correct": 2,
+  "text": {
+   "pt-PT": {
+    "q": "Na Biblioteca Joanina, em Coimbra, as mesas são cobertas com couro no fim de cada dia. Para as proteger de quê?",
+    "o": [
+     "Da humidade do rio Mondego",
+     "Do pó levantado pelos visitantes",
+     "Dos dejetos dos morcegos que lá vivem",
+     "Da luz solar que entra pelas janelas"
+    ],
+    "e": "Dos dejetos dos morcegos. Segundo a Universidade de Coimbra, vivem morcegos na biblioteca, por isso as mesas são cobertas com «toalhas» de couro no fim de cada dia, para impedir os danos que os dejetos causam."
+   },
+   "en-US": {
+    "q": "In the Joanina Library in Coimbra, the tables are covered with leather at the end of each day. What are they protected from?",
+    "o": [
+     "Humidity from the Mondego River",
+     "Dust stirred up by visitors",
+     "Droppings from the bats that live there",
+     "Sunlight coming through the windows"
+    ],
+    "e": "Bat droppings. According to the University of Coimbra, bats live in the library, so the tables are covered with leather \"cloths\" at the end of each day to prevent the damage the droppings cause."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000047",
+  "topic": "World History",
+  "difficulty": 3,
+  "daily": true,
+  "correct": 1,
+  "text": {
+   "pt-PT": {
+    "q": "Nos castelos medievais portugueses, para que servia o hurdício, galeria de madeira no topo das torres?",
+    "o": [
+     "Fazer sinais com fogueiras aos castelos vizinhos",
+     "Disparar na vertical sobre a base dos muros",
+     "Guardar armas e mantimentos durante um cerco",
+     "Abrigar as sentinelas da chuva e do frio"
+    ],
+    "e": "Servia para disparar na vertical sobre a base dos muros: o hurdício era uma galeria de madeira saliente no topo das muralhas e das torres. Segundo o historiador Mário Barroca, foram os Templários que o introduziram em Portugal."
+   },
+   "en-US": {
+    "q": "What was the hurdício (hoarding), a wooden gallery atop the towers of medieval Portuguese castles, used for?",
+    "o": [
+     "Signaling to neighboring castles with bonfires",
+     "Firing straight down at the base of the walls",
+     "Storing weapons and supplies during a siege",
+     "Sheltering sentries from rain and cold"
+    ],
+    "e": "Firing straight down at the base of the walls: the hurdício (hoarding) was a wooden gallery projecting from the top of walls and towers. According to historian Mário Barroca, the Templars introduced it to Portugal."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000048",
+  "topic": "Music",
+  "difficulty": 4,
+  "daily": true,
+  "correct": 1,
+  "text": {
+   "pt-PT": {
+    "q": "O piano que Liszt levou para Lisboa em 1845 foi dado pela rainha D. Maria II a quem?",
+    "o": [
+     "Ao embaixador de França em Lisboa",
+     "Ao professor de música dos seus filhos",
+     "À Academia Filarmónica de Lisboa",
+     "Ao Teatro de São Carlos"
+    ],
+    "e": "Ao professor de música dos Infantes, Manuel Inocêncio dos Santos: segundo o Museu Nacional da Música, o piano Boisselot de Liszt foi oferecido à rainha D. Maria II, que o doou a esse professor. Hoje está nesse museu."
+   },
+   "en-US": {
+    "q": "To whom did Queen Maria II give the piano that Liszt brought to Lisbon in 1845?",
+    "o": [
+     "The French ambassador in Lisbon",
+     "Her children's music teacher",
+     "The Philharmonic Academy of Lisbon",
+     "The São Carlos Theater"
+    ],
+    "e": "To the royal children's music teacher, Manuel Inocêncio dos Santos: according to the National Museum of Music, Liszt's Boisselot piano was offered to Queen Maria II, who donated it to him. It is now in that museum."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000050",
+  "topic": "Science",
+  "difficulty": 1,
+  "daily": true,
+  "correct": 0,
+  "text": {
+   "pt-PT": {
+    "q": "Qual destes ossos é o mais longo do corpo humano?",
+    "o": [
+     "Fémur",
+     "Úmero",
+     "Tíbia",
+     "Rádio"
+    ],
+    "e": "O fémur, o osso da coxa, é o mais longo, o mais pesado e o mais forte do corpo humano. Liga a bacia ao joelho, onde articula com a tíbia e a rótula, e suporta o peso do tronco ao andar."
+   },
+   "en-US": {
+    "q": "Which of these bones is the longest in the human body?",
+    "o": [
+     "Femur",
+     "Humerus",
+     "Tibia",
+     "Radius"
+    ],
+    "e": "The femur, or thigh bone, is the longest, heaviest, and strongest bone in the human body. It connects the pelvis to the knee, where it joins the tibia and the kneecap, and it supports the weight of the trunk when walking."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000051",
+  "topic": "Movies",
+  "difficulty": 2,
+  "daily": true,
+  "correct": 3,
+  "text": {
+   "pt-PT": {
+    "q": "A estatueta dos Óscares mostra um cavaleiro com uma espada, em pé sobre que objeto?",
+    "o": [
+     "Uma máscara de teatro",
+     "Um globo terrestre",
+     "Uma coroa de louros",
+     "Um rolo de filme"
+    ],
+    "e": "Um rolo de filme. Segundo a Academia, os cinco raios do rolo representam os cinco ramos originais da Academia: atores, realizadores, produtores, técnicos e argumentistas."
+   },
+   "en-US": {
+    "q": "The Oscar statuette shows a knight holding a sword, standing on what object?",
+    "o": [
+     "A theater mask",
+     "A globe",
+     "A laurel wreath",
+     "A reel of film"
+    ],
+    "e": "A reel of film. According to the Academy, the reel's five spokes represent the Academy's five original branches: actors, directors, producers, technicians, and writers."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000052",
+  "topic": "World History",
+  "difficulty": 2,
+  "daily": true,
+  "correct": 1,
+  "text": {
+   "pt-PT": {
+    "q": "Em 1799 ninguém lia os hieróglifos. Que língua da Pedra de Roseta os estudiosos já sabiam ler e serviu de chave?",
+    "o": [
+     "Fenício",
+     "Grego antigo",
+     "Hebraico",
+     "Latim"
+    ],
+    "e": "A Pedra de Roseta traz o mesmo decreto em hieróglifos, demótico e grego antigo. Como os estudiosos já liam grego, o texto grego serviu de ponto de partida para decifrar as duas escritas egípcias."
+   },
+   "en-US": {
+    "q": "In 1799, no one could read hieroglyphs. Which language on the Rosetta Stone could scholars already read, giving them the key?",
+    "o": [
+     "Phoenician",
+     "Ancient Greek",
+     "Hebrew",
+     "Latin"
+    ],
+    "e": "The Rosetta Stone carries the same decree in hieroglyphs, Demotic, and ancient Greek. Because scholars already read Greek, the Greek text served as the starting point for deciphering the two Egyptian scripts."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000054",
+  "topic": "Geography",
+  "difficulty": 2,
+  "daily": true,
+  "correct": 2,
+  "text": {
+   "pt-PT": {
+    "q": "Que lago da Sibéria contém cerca de 20% da água doce superficial da Terra, quase tanto como os cinco Grandes Lagos juntos?",
+    "o": [
+     "Lago Titicaca",
+     "Lago Ladoga",
+     "Lago Baikal",
+     "Lago Vitória"
+    ],
+    "e": "O Baikal, com mais de 1600 m de profundidade, é o lago mais profundo e mais antigo do mundo. Guarda cerca de 20% da água doce superficial do planeta, volume comparável ao dos cinco Grandes Lagos norte-americanos."
+   },
+   "en-US": {
+    "q": "Which Siberian lake holds about 20% of the world's surface fresh water, nearly as much as the five Great Lakes combined?",
+    "o": [
+     "Lake Titicaca",
+     "Lake Ladoga",
+     "Lake Baikal",
+     "Lake Victoria"
+    ],
+    "e": "Lake Baikal, more than 1,600 m deep, is the deepest and oldest lake in the world. It holds about 20% of the planet's surface fresh water, a volume comparable to that of the five North American Great Lakes."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000056",
+  "topic": "Nature & Animals",
+  "difficulty": 3,
+  "daily": true,
+  "correct": 0,
+  "text": {
+   "pt-PT": {
+    "q": "Quantas folhas permanentes tem, durante toda a vida, a Welwitschia mirabilis, planta do deserto do Namibe?",
+    "o": [
+     "Duas",
+     "Quatro",
+     "Doze",
+     "Uma"
+    ],
+    "e": "A Welwitschia só produz duas folhas, que crescem continuamente a partir da base da planta. Rasgam-se e desfiam-se com o tempo, mas são as mesmas durante toda a vida da planta, que pode viver séculos."
+   },
+   "en-US": {
+    "q": "How many permanent leaves does Welwitschia mirabilis, a plant of the Namib Desert, have throughout its entire life?",
+    "o": [
+     "Two",
+     "Four",
+     "Twelve",
+     "One"
+    ],
+    "e": "Welwitschia has just two leaves, which grow continuously from the base of the plant. They split and fray with age, but they are the same two leaves for the plant's whole life, which can last centuries."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000058",
+  "topic": "Music",
+  "difficulty": 1,
+  "daily": true,
+  "correct": 3,
+  "text": {
+   "pt-PT": {
+    "q": "O cravo belisca as cordas. Como o piano, inventado por Cristofori, faz soar as suas?",
+    "o": [
+     "Com um arco que as fricciona",
+     "Com o dedo, que as belisca diretamente",
+     "Com foles que as fazem vibrar",
+     "Com martelos que as percutem"
+    ],
+    "e": "Com martelos que percutem as cordas. Bartolomeo Cristofori, de Pádua, criou em Florença, na corte dos Médicis, esta mecânica, que permitia tocar suave e forte, daí o nome «piano e forte»."
+   },
+   "en-US": {
+    "q": "The harpsichord plucks its strings. How does the piano, invented by Cristofori, sound its strings?",
+    "o": [
+     "With a bow that rubs them",
+     "With the finger, which plucks them directly",
+     "With bellows that make them vibrate",
+     "With hammers that strike them"
+    ],
+    "e": "With hammers that strike the strings. Bartolomeo Cristofori, from Padua, created this mechanism in Florence, at the Medici court; it allowed soft and loud playing, hence the name \"piano e forte.\""
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000060",
+  "topic": "World History",
+  "difficulty": 2,
+  "daily": true,
+  "correct": 1,
+  "text": {
+   "pt-PT": {
+    "q": "Que cidade da civilização do Indo, descoberta em 1922, tinha ruas em ângulo reto e um sistema de esgotos?",
+    "o": [
+     "Babilónia",
+     "Mohenjo-Daro",
+     "Cnossos",
+     "Ur"
+    ],
+    "e": "Mohenjo-Daro, no atual Paquistão, foi uma grande cidade da civilização do Indo, descoberta em 1922. A UNESCO descreve ruas que se cruzam em ângulo reto e sistemas de saneamento e drenagem, sinal de um urbanismo planeado."
+   },
+   "en-US": {
+    "q": "Which city of the Indus civilization, discovered in 1922, had streets at right angles and a sewer system?",
+    "o": [
+     "Babylon",
+     "Mohenjo-Daro",
+     "Knossos",
+     "Ur"
+    ],
+    "e": "Mohenjo-Daro, in present-day Pakistan, was a major city of the Indus civilization, discovered in 1922. UNESCO describes streets crossing at right angles and sanitation and drainage systems, a sign of planned urbanism."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000061",
+  "topic": "Science",
+  "difficulty": 3,
+  "daily": true,
+  "correct": 1,
+  "text": {
+   "pt-PT": {
+    "q": "Qual foi o primeiro elemento químico produzido artificialmente, identificado em 1937 por Perrier e Segrè?",
+    "o": [
+     "Astato",
+     "Tecnécio",
+     "Promécio",
+     "Frâncio"
+    ],
+    "e": "O tecnécio (n.º 43) foi o primeiro elemento produzido artificialmente, e o nome vem do grego «tekhnetos», «artificial». Na natureza existem apenas vestígios dele."
+   },
+   "en-US": {
+    "q": "Which was the first chemical element produced artificially, identified in 1937 by Perrier and Segrè?",
+    "o": [
+     "Astatine",
+     "Technetium",
+     "Promethium",
+     "Francium"
+    ],
+    "e": "Technetium (No. 43) was the first artificially produced element, and its name comes from the Greek \"tekhnetos,\" meaning \"artificial.\" Only traces of it exist in nature."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000062",
+  "topic": "Space",
+  "difficulty": 3,
+  "daily": true,
+  "correct": 1,
+  "text": {
+   "pt-PT": {
+    "q": "Qual destas sondas da NASA foi lançada a 20 de agosto de 1977?",
+    "o": [
+     "Pioneer 11",
+     "Voyager 2",
+     "Mariner 10",
+     "Voyager 1"
+    ],
+    "e": "A Voyager 2, apesar do número, partiu primeiro, a 20 de agosto de 1977. A Voyager 1 foi lançada a 5 de setembro, mas seguiu uma trajetória mais rápida e chegou antes a Júpiter e a Saturno."
+   },
+   "en-US": {
+    "q": "Which of these NASA probes was launched on August 20, 1977?",
+    "o": [
+     "Pioneer 11",
+     "Voyager 2",
+     "Mariner 10",
+     "Voyager 1"
+    ],
+    "e": "Voyager 2, despite its number, launched first, on August 20, 1977. Voyager 1 was launched on September 5 but took a faster trajectory and reached Jupiter and Saturn first."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000067",
+  "topic": "General Knowledge",
+  "difficulty": 3,
+  "daily": true,
+  "correct": 1,
+  "text": {
+   "pt-PT": {
+    "q": "Segundo a lei suíça, os braços da cruz da bandeira são mais compridos do que largos em que fração?",
+    "o": [
+     "Metade",
+     "Um sexto",
+     "Um terço",
+     "Um quarto"
+    ],
+    "e": "A lei suíça define uma cruz branca sobre fundo vermelho, com os quatro braços iguais, cada um um sexto mais comprido do que largo. A bandeira nacional tem fundo quadrado, uma raridade entre as bandeiras de Estado."
+   },
+   "en-US": {
+    "q": "According to Swiss law, the arms of the cross on the flag are longer than they are wide by what fraction?",
+    "o": [
+     "One half",
+     "One sixth",
+     "One third",
+     "One quarter"
+    ],
+    "e": "Swiss law defines a white cross on a red background, with four equal arms, each one-sixth longer than it is wide. The national flag has a square background, a rarity among national flags."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000068",
+  "topic": "Movies",
+  "difficulty": 3,
+  "daily": true,
+  "correct": 2,
+  "text": {
+   "pt-PT": {
+    "q": "Que marca fabricou as lentes ultraluminosas com que Kubrick filmou à luz de velas cenas de «Barry Lyndon»?",
+    "o": [
+     "Leica",
+     "Nikon",
+     "Zeiss",
+     "Panavision"
+    ],
+    "e": "A Zeiss: Kubrick usou lentes de 50 mm f/0.7, as mais luminosas do mundo na altura, para filmar interiores só com velas. Foram feitas apenas dez e Kubrick comprou três."
+   },
+   "en-US": {
+    "q": "Which company made the ultra-fast lenses Kubrick used to film candlelit scenes in \"Barry Lyndon\"?",
+    "o": [
+     "Leica",
+     "Nikon",
+     "Zeiss",
+     "Panavision"
+    ],
+    "e": "Zeiss: Kubrick used 50 mm f/0.7 lenses, the fastest in the world at the time, to film interiors lit only by candles. Only ten were made, and Kubrick bought three."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000069",
+  "topic": "Music",
+  "difficulty": 4,
+  "daily": true,
+  "correct": 3,
+  "text": {
+   "pt-PT": {
+    "q": "Quem pediu a Prokofiev, em 1936, «Pedro e o Lobo» para ensinar às crianças os instrumentos da orquestra?",
+    "o": [
+     "Galina Ulanova, bailarina",
+     "Anna Akhmatova, poetisa",
+     "Nadezhda Krupskaya, pedagoga e dirigente comunista",
+     "Natalya Sats, diretora de um teatro infantil"
+    ],
+    "e": "Natalya Sats, diretora de um teatro infantil em Moscovo, pediu a Prokofiev uma peça para ensinar às crianças os instrumentos da orquestra. Ele escreveu «Pedro e o Lobo» para o teatro dela."
+   },
+   "en-US": {
+    "q": "Who asked Prokofiev in 1936 to write \"Peter and the Wolf\" to teach children the instruments of the orchestra?",
+    "o": [
+     "Galina Ulanova, ballerina",
+     "Anna Akhmatova, poet",
+     "Nadezhda Krupskaya, educator and Communist leader",
+     "Natalya Sats, director of a children's theater"
+    ],
+    "e": "Natalya Sats, director of a children's theater in Moscow, asked Prokofiev for a piece to teach children the instruments of the orchestra. He wrote \"Peter and the Wolf\" for her theater."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000070",
+  "topic": "Football",
+  "difficulty": 3,
+  "daily": true,
+  "correct": 1,
+  "text": {
+   "pt-PT": {
+    "q": "Que associação nacional levou ao IFAB a proposta de criar o pontapé de penálti?",
+    "o": [
+     "A Associação de Futebol da Escócia",
+     "A Associação de Futebol da Irlanda (Irish FA)",
+     "A Associação de Futebol de Inglaterra (FA)",
+     "A Associação de Futebol do País de Gales"
+    ],
+    "e": "A Irish FA: foi William McCrum, membro da associação, quem teve a ideia. Segundo a RTÉ, apresentou-a a Jack Reid, da Irish FA, que a propôs como regra numa reunião do IFAB; o penálti entrou depois nas Leis do Jogo."
+   },
+   "en-US": {
+    "q": "Which national association brought the proposal to create the penalty kick to the IFAB?",
+    "o": [
+     "The Scottish Football Association",
+     "The Irish Football Association (Irish FA)",
+     "The English Football Association (FA)",
+     "The Football Association of Wales"
+    ],
+    "e": "The Irish FA: William McCrum, a member of the association, came up with the idea. According to RTÉ, he presented it to Jack Reid of the Irish FA, who proposed it as a rule at an IFAB meeting; the penalty kick then entered the Laws of the Game."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000072",
+  "topic": "Science",
+  "difficulty": 3,
+  "daily": true,
+  "correct": 0,
+  "text": {
+   "pt-PT": {
+    "q": "Na água de um reator nuclear, o brilho azul é causado por que partículas?",
+    "o": [
+     "Eletrões rápidos",
+     "Neutrinos",
+     "Neutrões",
+     "Átomos de hélio neutros"
+    ],
+    "e": "Eletrões rápidos: é radiação de Cherenkov, emitida quando partículas carregadas vão mais depressa do que a luz na água, onde esta anda a cerca de 75% da velocidade no vácuo. Segundo o Physics FAQ da Universidade da Califórnia em Riverside, nos reatores são partículas beta de produtos de cisão."
+   },
+   "en-US": {
+    "q": "In the water of a nuclear reactor, the blue glow is caused by which particles?",
+    "o": [
+     "Fast electrons",
+     "Neutrinos",
+     "Neutrons",
+     "Neutral helium atoms"
+    ],
+    "e": "Fast electrons: it is Cherenkov radiation, emitted when charged particles travel faster than light does in water, where light moves at about 75% of its speed in a vacuum. According to the University of California, Riverside Physics FAQ, in reactors these are beta particles from fission products."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000073",
+  "topic": "Space",
+  "difficulty": 3,
+  "daily": true,
+  "correct": 3,
+  "text": {
+   "pt-PT": {
+    "q": "O espelho principal do Hubble saiu com a forma errada por um erro de 1,3 mm. Onde esteve o erro?",
+    "o": [
+     "No alinhamento após o lançamento",
+     "Na espessura do vidro do espelho principal",
+     "Na posição do espelho secundário",
+     "Num aparelho que testava a curva do espelho"
+    ],
+    "e": "Num aparelho de teste, o corretor nulo: uma lente com 1,3 mm de erro no espaçamento levou a um espelho demasiado plano longe do centro."
+   },
+   "en-US": {
+    "q": "Hubble's primary mirror came out with the wrong shape because of a 1.3 mm error. Where did the error occur?",
+    "o": [
+     "In the alignment after launch",
+     "In the thickness of the primary mirror's glass",
+     "In the position of the secondary mirror",
+     "In a device that tested the mirror's curve"
+    ],
+    "e": "In a testing device, the null corrector: a lens with a 1.3 mm spacing error led to a mirror that was too flat away from its center."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000077",
+  "topic": "Geography",
+  "difficulty": 4,
+  "daily": true,
+  "correct": 2,
+  "text": {
+   "pt-PT": {
+    "q": "A fronteira que atravessa o ilhéu báltico de Märket foi redesenhada nos anos 1980. Com que objetivo?",
+    "o": [
+     "Dar à Suécia o único ancoradouro do ilhéu",
+     "Acompanhar a subida do solo após o degelo",
+     "Pôr o farol finlandês em território da Finlândia",
+     "Separar as zonas de pesca dos dois países"
+    ],
+    "e": "Para pôr o farol finlandês em território da Finlândia: a fronteira dividia o ilhéu ao meio, mas o farol que a Finlândia construiu em 1885 ficara na parte sueca. Uma revisão nos anos 1980 traçou nova linha."
+   },
+   "en-US": {
+    "q": "The border that runs through the Baltic islet of Märket was redrawn in the 1980s. What was the purpose?",
+    "o": [
+     "To give Sweden the islet's only anchorage",
+     "To follow the land uplift after the ice melted",
+     "To put the Finnish lighthouse on Finnish territory",
+     "To separate the two countries' fishing zones"
+    ],
+    "e": "To put the Finnish lighthouse on Finnish territory: the border split the islet in half, but the lighthouse Finland built in 1885 had ended up on the Swedish side. A revision in the 1980s drew a new line."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000079",
+  "topic": "Space",
+  "difficulty": 3,
+  "daily": true,
+  "correct": 3,
+  "text": {
+   "pt-PT": {
+    "q": "Nos cadernos de Galileu de 1612-1613, um ponto de luz junto a Júpiter é hoje identificado como Neptuno. Como o registou?",
+    "o": [
+     "Uma nova estrela explosiva",
+     "Um cometa distante",
+     "Um reflexo na lente do telescópio",
+     "Uma estrela fixa"
+    ],
+    "e": "Uma estrela fixa: segundo a NASA, foi assim que Galileu o registou, e o físico David Jamieson nota que a etiqueta «fixa» está nos cadernos, mas Kowal e Drake defendem que ele chegou a detetar o movimento. A NASA diz que foi o primeiro planeta localizado por previsão matemática."
+   },
+   "en-US": {
+    "q": "In Galileo's 1612-1613 notebooks, a point of light near Jupiter is now identified as Neptune. How did he record it?",
+    "o": [
+     "A new exploding star",
+     "A distant comet",
+     "A reflection in the telescope lens",
+     "A fixed star"
+    ],
+    "e": "A fixed star: according to NASA, that is how Galileo recorded it, and physicist David Jamieson notes the label \"fixa\" (fixed) is in the notebooks, but Kowal and Drake argue he did detect its motion. NASA says it was the first planet located by mathematical prediction."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000082",
+  "topic": "Music",
+  "difficulty": 4,
+  "daily": true,
+  "correct": 1,
+  "text": {
+   "pt-PT": {
+    "q": "Segundo a Universidade do Colorado, como era o primeiro «disco de ouro», entregue a Glenn Miller em 1942?",
+    "o": [
+     "Uma cópia do disco revestida a folha de ouro",
+     "Uma cópia do disco pulverizada com tinta dourada",
+     "Uma cópia do disco moldada em latão polido",
+     "Uma cópia do disco fundida em ouro maciço"
+    ],
+    "e": "Segundo a Universidade do Colorado, foi uma cópia do disco pulverizada com tinta dourada; a Guinness World Records diz que a RCA Victor a mandou pulverizar. A oferta seguiu-se a 1,2 milhões de vendas e só em 1958 a RIAA começou a atribuir discos de ouro oficiais."
+   },
+   "en-US": {
+    "q": "According to the University of Colorado, what was the first \"gold record,\" given to Glenn Miller in 1942, made of?",
+    "o": [
+     "A copy of the record covered in gold leaf",
+     "A copy of the record sprayed with gold paint",
+     "A copy of the record molded in polished brass",
+     "A copy of the record cast in solid gold"
+    ],
+    "e": "According to the University of Colorado, it was a copy of the record sprayed with gold paint; Guinness World Records says RCA Victor had it sprayed. The award followed 1.2 million sales, and the RIAA only began awarding official gold records in 1958."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000084",
+  "topic": "Football",
+  "difficulty": 4,
+  "daily": true,
+  "correct": 2,
+  "text": {
+   "pt-PT": {
+    "q": "No jogo Áustria 7–5 Suíça, dos quartos de final do Mundial de 1954, quantos golos foram marcados só na 1.ª parte?",
+    "o": [
+     "7",
+     "8",
+     "9",
+     "10"
+    ],
+    "e": "Nove golos: a Suíça chegou a vencer por 3–0, mas a Áustria virou o jogo e foi para o intervalo a ganhar por 5–4. Com 12 golos, é o jogo com mais golos da história dos Mundiais, segundo a FIFA."
+   },
+   "en-US": {
+    "q": "In Austria's 7–5 win over Switzerland in the 1954 World Cup quarterfinals, how many goals were scored in the first half alone?",
+    "o": [
+     "7",
+     "8",
+     "9",
+     "10"
+    ],
+    "e": "Nine goals: Switzerland led 3–0 at one point, but Austria turned the game around and went into halftime ahead 5–4. With 12 goals, it is the highest-scoring match in World Cup history, according to FIFA."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000085",
+  "topic": "Video Games",
+  "difficulty": 4,
+  "daily": false,
+  "correct": 3,
+  "text": {
+   "pt-PT": {
+    "q": "Em 2024, a Bibliotecária do Congresso dos EUA recusou alargar a isenção legal para bibliotecas fazerem o quê com videojogos que já não são comercializados?",
+    "o": [
+     "Jogá-los nas instalações da biblioteca",
+     "Vender cópias digitais ao público",
+     "Guardar cópias de preservação",
+     "Dar acesso remoto a investigadores"
+    ],
+    "e": "Acesso remoto a investigadores. Segundo a VGHF, na audiência a ESA (Entertainment Software Association) declarou que nunca apoiaria o acesso remoto para investigação; o Copyright Office não concedeu a nova isenção em outubro de 2024."
+   },
+   "en-US": {
+    "q": "In 2024, the Librarian of Congress declined to extend the library copyright exemption to doing what with games no longer sold?",
+    "o": [
+     "Play them on library premises",
+     "Sell digital copies to the public",
+     "Make preservation copies",
+     "Give researchers remote access"
+    ],
+    "e": "Remote access for researchers. According to the VGHF, at the hearing the ESA (Entertainment Software Association) said it would never support remote access for research; the Copyright Office did not grant the new exemption in October 2024."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000086",
+  "topic": "Movies",
+  "difficulty": 4,
+  "daily": true,
+  "correct": 3,
+  "text": {
+   "pt-PT": {
+    "q": "Após os maus resultados do Technicolor de duas cores, que princípio defendeu Natalie Kalmus junto dos cineastas?",
+    "o": [
+     "Saturação máxima em todas as cenas",
+     "Cor apenas em cenas de exterior",
+     "Uma só cor dominante em cada filme",
+     "Contenção no uso da cor"
+    ],
+    "e": "Contenção no uso da cor. Segundo o ACMI, depois de o Technicolor de duas cores dar resultados «não naturais e desastrosos», Natalie Kalmus, supervisora de cor, pediu aos cineastas «contenção da cor» (colour restraint)."
+   },
+   "en-US": {
+    "q": "After two-color Technicolor's poor results, what principle did Natalie Kalmus urge on filmmakers?",
+    "o": [
+     "Maximum saturation in every scene",
+     "Color only in outdoor scenes",
+     "A single dominant color in each film",
+     "Restraint in the use of color"
+    ],
+    "e": "Restraint in the use of color. According to ACMI, after two-color Technicolor gave \"unnatural and disastrous\" results, color supervisor Natalie Kalmus urged filmmakers to practice \"color restraint.\""
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000087",
+  "topic": "Movies",
+  "difficulty": 3,
+  "daily": true,
+  "correct": 0,
+  "text": {
+   "pt-PT": {
+    "q": "No livro original «O Feiticeiro de Oz», de que cor eram os sapatos mágicos de Dorothy, que no filme de 1939 passaram a vermelhos?",
+    "o": [
+     "Prateados",
+     "Verde-esmeralda",
+     "Dourados",
+     "Azul-safira"
+    ],
+    "e": "Prateados: no romance de L. Frank Baum os sapatos eram de prata. Segundo a Biblioteca do Congresso, terão sido mudados para rubi no filme da MGM de 1939 para tirar partido da fotografia a cores."
+   },
+   "en-US": {
+    "q": "In the original book, \"The Wonderful Wizard of Oz,\" what color were Dorothy's magic shoes, which turned red in the 1939 film?",
+    "o": [
+     "Silver",
+     "Emerald green",
+     "Gold",
+     "Sapphire blue"
+    ],
+    "e": "Silver: in L. Frank Baum's novel the shoes were silver. According to the Library of Congress, they were reportedly changed to ruby in the 1939 MGM film to take advantage of color photography."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000089",
+  "topic": "Nature & Animals",
+  "difficulty": 2,
+  "daily": true,
+  "correct": 2,
+  "text": {
+   "pt-PT": {
+    "q": "No estudo de 2005 que explicou a indiferença do gato ao açúcar, em que outro animal testado o gene Tas1r2 estava inutilizado?",
+    "o": [
+     "Ser humano",
+     "Cão",
+     "Tigre",
+     "Rato"
+    ],
+    "e": "O tigre: no estudo de 2005 (PLoS Genetics), tal como a chita, mostrou a mesma deleção de 247 pares de bases no Tas1r2 do gato. Segundo o estudo, o cão, o ser humano, o rato e a ratazana têm sabor doce funcional."
+   },
+   "en-US": {
+    "q": "In the 2005 study that explained why cats are indifferent to sugar, in which other tested animal was the Tas1r2 gene disabled?",
+    "o": [
+     "Human",
+     "Dog",
+     "Tiger",
+     "Mouse"
+    ],
+    "e": "The tiger: in the 2005 study (PLoS Genetics), it showed the same 247-base-pair deletion in Tas1r2 as the domestic cat, as did the cheetah. According to the study, dogs, humans, mice and rats have a functional sweet taste."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000090",
+  "topic": "Nature & Animals",
+  "difficulty": 3,
+  "daily": true,
+  "correct": 3,
+  "text": {
+   "pt-PT": {
+    "q": "Segundo a bióloga Lexa Grutter, de que protege o peixe-papagaio o casulo de muco em que dorme?",
+    "o": [
+     "De algas que se fixam nas escamas",
+     "De bactérias presentes na água do recife",
+     "De ondas e correntes fortes durante a noite",
+     "De parasitas que lhe mordem, os isópodes gnatídeos"
+    ],
+    "e": "De parasitas, os isópodes gnatídeos: na experiência de Grutter, divulgada em 2010, quase todos os peixes-papagaio sem casulo foram atacados, contra poucos dos que o tinham. De noite, sem peixes-limpadores, o casulo funciona como rede mosquiteira."
+   },
+   "en-US": {
+    "q": "According to biologist Lexa Grutter, what does the mucus cocoon a parrotfish sleeps in protect it from?",
+    "o": [
+     "Algae that attach to its scales",
+     "Bacteria in the reef water",
+     "Strong waves and currents at night",
+     "Biting parasites, the gnathiid isopods"
+    ],
+    "e": "Parasites, the gnathiid isopods: in Grutter's experiment, reported in 2010, almost all parrotfish without a cocoon were attacked, versus few of those that had one. At night, with no cleaner fish around, the cocoon works like a mosquito net."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000091",
+  "topic": "Nature & Animals",
+  "difficulty": 3,
+  "daily": true,
+  "correct": 0,
+  "text": {
+   "pt-PT": {
+    "q": "Num estudo de 2010, Endler, Endler e Doerr inverteram o gradiente de tamanho dos objetos nos pátios de pássaros-jardineiros-grandes. O que fizeram os machos em três dias?",
+    "o": [
+     "Restabeleceram o gradiente original dos objetos",
+     "Trocaram todos os objetos por outros de cor diferente",
+     "Abandonaram o pátio e construíram outro noutro local",
+     "Aceitaram a nova ordem e deixaram de a alterar"
+    ],
+    "e": "Restabeleceram o gradiente original em três dias (Current Biology, 2010). Os machos dispõem os objetos do pátio com tamanho crescente a partir da entrada do corredor, o que cria perspetiva forçada para a fêmea."
+   },
+   "en-US": {
+    "q": "In a 2010 study, Endler, Endler and Doerr reversed the size gradient of objects in great bowerbird courts. What did the males do within three days?",
+    "o": [
+     "They restored the original gradient of the objects",
+     "They swapped all the objects for ones of a different color",
+     "They abandoned the court and built another elsewhere",
+     "They accepted the new order and stopped changing it"
+    ],
+    "e": "They restored the original gradient within three days (Current Biology, 2010). Males arrange the court's objects in increasing size starting from the avenue's entrance, which creates a forced perspective for the female."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000093",
+  "topic": "General Knowledge",
+  "difficulty": 4,
+  "daily": true,
+  "correct": 1,
+  "text": {
+   "pt-PT": {
+    "q": "No «Liber Abaci» (1202), que palavra latina medieval, adaptada do árabe «sifr», usou Fibonacci para designar o sinal 0?",
+    "o": [
+     "Orbiculum",
+     "Zephyrum",
+     "Nihilum",
+     "Vacuum"
+    ],
+    "e": "Zephyrum (ou «zephirum»): Fibonacci adaptou-a do árabe ṣifr e, segundo a Treccani, é a origem de «zero». Um estudo no repositório da Universidade de Oxford regista-o como o primeiro termo latino para o 0."
+   },
+   "en-US": {
+    "q": "In the \"Liber Abaci\" (1202), what medieval Latin word, adapted from the Arabic \"sifr,\" did Fibonacci use for the sign 0?",
+    "o": [
+     "Orbiculum",
+     "Zephyrum",
+     "Nihilum",
+     "Vacuum"
+    ],
+    "e": "Zephyrum (or \"zephirum\"): Fibonacci adapted it from the Arabic ṣifr and, according to Treccani, it is the origin of \"zero.\" A study in the University of Oxford repository records it as the first Latin term for 0."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000096",
+  "topic": "World History",
+  "difficulty": 3,
+  "daily": true,
+  "correct": 3,
+  "text": {
+   "pt-PT": {
+    "q": "Em 2004, em Sumbawa, foi achada uma aldeia sob cerca de 3 m de cinza de 1815, a «Pompeia do Oriente». De que reino era?",
+    "o": [
+     "Reino de Mataram",
+     "Reino de Srivijaya",
+     "Reino de Majapahit",
+     "Reino de Tambora"
+    ],
+    "e": "Era do Reino de Tambora. Os cientistas encontraram uma aldeia e dois adultos soterrados em cerca de 3 m de cinza da erupção de 1815; a semelhança com o Vesúvio deu-lhe o nome de «Pompeia do Oriente»."
+   },
+   "en-US": {
+    "q": "In 2004, a village buried under about 3 m of 1815 ash, dubbed the \"Pompeii of the East,\" was found on Sumbawa. Which kingdom was it from?",
+    "o": [
+     "Kingdom of Mataram",
+     "Kingdom of Srivijaya",
+     "Kingdom of Majapahit",
+     "Kingdom of Tambora"
+    ],
+    "e": "It belonged to the Kingdom of Tambora. Scientists found a village and two adults buried in about 3 m of ash from the 1815 eruption; the resemblance to Vesuvius gave it the name \"Pompeii of the East.\""
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000097",
+  "topic": "Science",
+  "difficulty": 4,
+  "daily": true,
+  "correct": 2,
+  "text": {
+   "pt-PT": {
+    "q": "A balança de Kibble, usada para realizar o quilograma a partir da constante de Planck, tinha antes outro nome. Qual?",
+    "o": [
+     "Balança de Planck",
+     "Balança de joule",
+     "Balança de watt",
+     "Balança de ampere"
+    ],
+    "e": "Balança de watt: chamava-se assim porque mede corrente e tensão na bobina, cujo produto se exprime em watts. Foi concebida por Bryan Kibble no NPL (1975, segundo o NIST) e hoje tem o nome do inventor."
+   },
+   "en-US": {
+    "q": "The Kibble balance, used to realize the kilogram from the Planck constant, was formerly known by another name. What?",
+    "o": [
+     "Planck balance",
+     "Joule balance",
+     "Watt balance",
+     "Ampere balance"
+    ],
+    "e": "Watt balance: it was so named because it measures current and voltage in the coil, whose product is expressed in watts. Bryan Kibble designed it at the NPL (1975, according to NIST), and it now bears its inventor's name."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000099",
+  "topic": "Football",
+  "difficulty": 4,
+  "daily": true,
+  "correct": 1,
+  "text": {
+   "pt-PT": {
+    "q": "Até 2026, o vencedor mais velho da Bola de Ouro recebeu-a em 1956. Que idade tinha nessa altura?",
+    "o": [
+     "36 anos",
+     "41 anos",
+     "34 anos",
+     "38 anos"
+    ],
+    "e": "Tinha 41 anos: Stanley Matthews, do Blackpool, venceu a primeira Bola de Ouro. Ainda jogou mais nove anos, até se retirar aos 50."
+   },
+   "en-US": {
+    "q": "As of 2026, the oldest Ballon d'Or winner received it in 1956. How old was he at the time?",
+    "o": [
+     "36 years old",
+     "41 years old",
+     "34 years old",
+     "38 years old"
+    ],
+    "e": "He was 41: Stanley Matthews of Blackpool won the first Ballon d'Or. He played on for nine more years, until retiring at 50."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000100",
+  "topic": "Video Games",
+  "difficulty": 2,
+  "daily": true,
+  "correct": 2,
+  "text": {
+   "pt-PT": {
+    "q": "Em 1889, em Quioto, Fusajiro Yamauchi fundou a empresa que viria a ser a Nintendo. Que produto fabricava?",
+    "o": [
+     "Bonecas de porcelana",
+     "Brinquedos de madeira",
+     "Cartas de jogar japonesas (hanafuda)",
+     "Leques de papel"
+    ],
+    "e": "Fabricava hanafuda, as cartas de jogar tradicionais japonesas: a Nintendo nasceu assim em 1889, em Quioto, segundo a própria empresa. Ainda como Nintendo Koppai, a MoneyWeek descreve-a a fazer essas cartas."
+   },
+   "en-US": {
+    "q": "In 1889, in Kyoto, Fusajiro Yamauchi founded the company that would become Nintendo. What product did it make?",
+    "o": [
+     "Porcelain dolls",
+     "Wooden toys",
+     "Japanese playing cards (hanafuda)",
+     "Paper fans"
+    ],
+    "e": "It made hanafuda, traditional Japanese playing cards: according to the company itself, Nintendo began this way in Kyoto in 1889. MoneyWeek describes it, still as Nintendo Koppai, making those cards."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000101",
+  "topic": "General Knowledge",
+  "difficulty": 2,
+  "daily": true,
+  "correct": 2,
+  "text": {
+   "pt-PT": {
+    "q": "Em 1520, Fernão de Magalhães chamou «Pacífico» ao oceano que atravessava. Que característica do mar o levou a esse nome?",
+    "o": [
+     "A ausência de ilhas e de terra à vista",
+     "A temperatura amena da água",
+     "A calma das águas",
+     "A paz feita com os povos das costas vizinhas"
+    ],
+    "e": "A calma das águas. Magalhães entrou no oceano em novembro de 1520 e encontrou águas invulgarmente calmas; chamou-lhe «pacífico», que significa tranquilo, e o nome ficou para o maior oceano do planeta."
+   },
+   "en-US": {
+    "q": "In 1520, Ferdinand Magellan named the ocean he was crossing \"Pacific.\" What feature of the sea led him to that name?",
+    "o": [
+     "No islands or land in sight",
+     "The mild water temperature",
+     "The calmness of its waters",
+     "Peace made with the peoples of nearby coasts"
+    ],
+    "e": "The calmness of its waters. Magellan entered the ocean in November 1520 and found unusually calm waters; he called it \"pacific,\" meaning peaceful, and the name stuck for the planet's largest ocean."
+   }
+  }
+ }
+]

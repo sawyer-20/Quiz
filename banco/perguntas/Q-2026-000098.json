@@ -1,17 +1,17 @@
 {
   "id": "Q-2026-000098",
   "topic": "Football",
-  "subtopic": "Mundial de 1966",
+  "subtopic": "Mundial de 1966: o roubo do troféu",
   "text": {
     "pt-PT": {
       "question": "Em 1966, o troféu do Mundial foi roubado numa exposição em Londres. Quem o encontrou, embrulhado em jornal, uma semana depois?",
       "options": [
-        "Um segurança da exposição",
+        "Um agente da Scotland Yard",
         "Um jornalista do Daily Mirror",
         "Um cão chamado Pickles, a passear com o dono",
-        "Um agente da Scotland Yard"
+        "Um segurança da exposição"
       ],
-      "explanation": "Foi um cão chamado Pickles. Uma semana depois do roubo, a 20 de março de 1966, farejou um embrulho de jornal atado com cordel, e o dono, David Corbett, levou-o à esquadra de polícia, onde ficou entre os suspeitos."
+      "explanation": "Foi o cão Pickles. O troféu foi roubado a 20 de março de 1966 e, a 27, o cão encontrou um embrulho de jornal atado com cordel, que o dono, David Corbett, abriu: era a taça."
     }
   },
   "correct": 2,
@@ -59,16 +59,37 @@
       "excerto": "On Sunday 20 March 1966, the FIFA World Cup Trophy was stolen. ... Now a week since the robbery... the black and white dog started sniffing around at an unusual package. \"It was wrapped in tightly-bound newspaper and string...\"",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.deseret.com/sports/2026/06/22/how-pickles-the-dog-saved-the-fifa-world-cup-60-years-ago/",
+      "dominio": "deseret.com",
+      "titulo": "How a dog saved the FIFA World Cup 60 years ago (Deseret News)",
+      "nivel": 2,
+      "excerto": "A week after its theft, a dog named Pickles found the trophy while heading out on a walk with his owner, David Corbett... Pickles started sniffing a newspaper-wrapped package sitting in the bushes",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
-    "advogado": null,
+    "verificador": {
+      "resposta_texto": "Um cão chamado Pickles, a passear com o dono",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "deseret.com",
+      "data": "2026-11-18",
+      "notas": "Li a página com ler_url.py. A fonte confirma o roubo, a descoberta uma semana depois e o embrulho em jornal. Corbett não era jornalista, segurança nem agente da Scotland Yard: era o dono do cão e chegou a ser suspeito. Isso aparece na pesquisa, mas não abri essa fonte. Washington Post, Bloomberg, Britannica e footballtransfers falharam (rede ou 403). Só tenho uma fonte de nível 2 aberta, por isso a confiança é média. O enunciado diz «exposição em Londres», e a fonte confirma o roubo numa exposição de selos em Westminster. Isso vem da pesquisa, que não abri. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Quem abriu o embrulho foi o dono, David Corbett, mas a opção diz que foi o cão a encontrá-lo durante o passeio, e é assim que as fontes contam. Nenhuma das outras três opções tem apoio.",
+      "hash_texto": "45a6c8e755c17204c7c6185a11d4bdfee3508b8f66a0f146fabc64f3b1f50f37"
+    },
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "Todas as afirmações da explicação têm apoio: Pickles, 20 de março, 27 de março, embrulho de jornal atado com cordel, dono David Corbett que o abriu, e era a taça. As datas coincidem em três fontes de domínios diferentes. Os distratores não resistem: nenhuma fonte dá o achado a um segurança, a um jornalista ou a um agente da Scotland Yard (o history.co.uk diz que foi resolvido «not by Scotland Yard, but by a dog»). A ambiguidade cão/dono está coberta pela opção, que diz «um cão chamado Pickles, a passear com o dono». As fontes divergem sobre o local exato (junto a um carro, atrás de uma sebe ou debaixo de um loureiro), mas a pergunta e a explicação não o referem. Não vi problemas de validade temporal nem de sensibilidade. O si.com não o abri nesta passagem, e as afirmações assentam nas três páginas acima. | páginas lidas pelo advogado: https://www.history.co.uk/articles/pickles-the-dog-world-cup (lido na íntegra: roubo a 20 de março de 1966; achado a 27 de março, «a week after the theft»; Pickles e David Corbett; embrulho de jornal atado com cordel; exposição de selos em Londres), https://www.crimeandinvestigation.co.uk/articles/how-world-cup-trophy-was-stolen-and-recovered-1966 (lido na íntegra: domingo, 20 de março, o troféu desapareceu; a 27 de março Corbett e Pickles encontraram o embrulho atado com cordel e coberto de jornal; Scotland Yard envolvida só no resgate falhado), https://londonist.com/london/history/picklesworldcup (lido na íntegra: 20 de março, roubo na Methodist Central Hall; 27 de março, Corbett: «I tore the paper off... saw gold»; exposição de selos)"
+    },
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "Enunciado e opções intactos. Explicação reorganizada para começar pela resposta, em 2 frases (cerca de 195 caracteres). Dificuldade subida de 2 para 3: o episódio é conhecido, mas o público geral não acerta de forma quase unânime. Subtema afinado de «Mundiais» para «Mundial de 1966».",
+      "notas": "Opções agora na ordem do ficheiro, conforme indicado pelo coordenador (índice 0 a 3; certa no índice 2, o cão Pickles). A ordem que usei no relatório anterior era a da mensagem inicial e estava errada. Enunciado e texto das opções intactos (2.º ciclo, regra 27). Na explicação troquei «farejou» por «encontrou»: o verbo «farejar» não consta do resumo das fontes (regra 29). Dificuldade 3 mantida; subtema afinado.",
       "data": "2026-11-18"
     }
   },
@@ -154,6 +175,36 @@
       "evento": "devolvida a em_verificacao",
       "agente": "orquestrador",
       "nota": "triagem da auditoria: explicação reescrita; a repetir verificador, advogado, editor, tradutor e conferente"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte londonist.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (2.º ciclo (auditoria 18/11)): formulacao: «Uma semana depois do roubo, a 20 de março de 1966, farejou…» é ambígua e pode ler-se como achado a 20 de março. Segundo; interpretacao: «levou-o à esquadra de polícia, onde ficou entre os suspeitos» não tem apoio numa página que eu tenha conseguido abrir. "
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte deseret.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
     }
   ],
   "etiquetas": [
