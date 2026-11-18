@@ -60,7 +60,11 @@
       "notas": "Li o texto do ensaio da própria Kalmus, reproduzido pelo museu. O princípio é a contenção («color restraint»). «Saturação máxima» é o contrário do que ela defende. «Uma só cor dominante» e «cor apenas em exteriores» não aparecem como princípios dela nos excertos que li. O ensaio é de 1935, o que é compatível com «depois dos maus resultados» do Technicolor de duas cores.",
       "hash_texto": "94a27c4c1ec96393f0caec9c2891dc775527b611f863ea2ca8f623da83014256"
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "Confirmei no ACMI (\"unnatural and disastrous results\", \"colour restraint\") e no ensaio de Kalmus no Eastman (\"We must constantly practice color restraint\"). A explicação atribui ao ACMI e as citações coincidem. Nenhum distrator tem apoio nas fontes: «saturação máxima» é o oposto do que Kalmus critica. Sem datas nem números. | páginas lidas pelo advogado: https://www.acmi.net.au/works/100238--graphic-natalie-kalmus-technicolor-pioneer/, https://www.eastman.org/sites/default/files/technicolor/pdfs/ColorConsultants_ColorConsciousness.pdf"
+    },
     "editor": null
   },
   "estado": "em_verificacao",
@@ -85,6 +89,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte eastman.org"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []

@@ -61,7 +61,11 @@
       "notas": "Li a página. Nas experiências, os gnatídeos atacaram só 10% dos peixes com casulo e quase todos os sem casulo. A fonte nomeia a investigadora como Alexandra Grutter, de nome próprio completo, e o enunciado diz Lexa. O enunciado diz que o peixe cria o casulo para dormir e a fonte confirma. Ondas e correntes, algas e bactérias não aparecem como função testada. A fonte diz também que o muco não exclui outras funções, mas a pergunta é sobre a hipótese de Grutter. Eu não confirmei a alcunha Lexa.",
       "hash_texto": "cc711924bd82697766125264b9de8e20bd27d92fa9907bb8658f1001e00d99a5"
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "A UQ confirma «Dr Alexandra (Lexa) Grutter», gnatídeos como parasitas e o ano de 2010 (notícia de 16/11/2010). O LiveScience dá cerca de 95% de ataques sem casulo contra 10% com casulo, o que sustenta «quase todos» e «poucos». A «rede mosquiteira» é imagem da própria Grutter, e a explicação não a apresenta como facto isolado. A UQ diz que os manuais presumiam proteção contra predadores como as moreias, mas essa hipótese não figura entre as opções. Algas, bactérias e correntes não têm apoio nas fontes. | páginas lidas pelo advogado: https://news.uq.edu.au/2010-11-16-fish-sleep-more-soundly-when-they-have-mosquito-net, https://www.livescience.com/8979-mucus-cocoons-protect-fish-parasites.html"
+    },
     "editor": null
   },
   "estado": "em_verificacao",
@@ -86,6 +90,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte nationalgeographic.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []

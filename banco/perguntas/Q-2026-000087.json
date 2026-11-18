@@ -6,15 +6,15 @@
     "pt-PT": {
       "question": "No livro original «O Feiticeiro de Oz», de que cor eram os sapatos mágicos de Dorothy, que no filme de 1939 passaram a vermelhos?",
       "options": [
+        "Prateados",
         "Verde-esmeralda",
         "Dourados",
-        "Prateados",
         "Azul-safira"
       ],
-      "explanation": "No romance de L. Frank Baum os sapatos eram de prata. A Biblioteca do Congresso refere que a cor foi mudada para rubi no filme da MGM de 1939 para aproveitar ao máximo a fotografia a cores."
+      "explanation": "No romance de L. Frank Baum os sapatos eram de prata. Segundo a Biblioteca do Congresso, terão sido mudados para rubi no filme da MGM de 1939 para tirar partido da fotografia a cores."
     }
   },
-  "correct": 2,
+  "correct": 0,
   "difficulty": 2,
   "valid_until": null,
   "daily_eligible": true,
@@ -30,27 +30,10 @@
       "excerto": "Originally silver in Baum's book, the slippers were purportedly changed to ruby to take full advantage of color photography. Each shoe is covered with red satin, to which 2,300 sequins are applied.",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://archive.org/stream/wonderfulwizardo00baumiala/wonderfulwizardo00baumiala_djvu.txt",
-      "dominio": "archive.org",
-      "titulo": "The Wonderful Wizard of Oz (L. Frank Baum, 1900, texto integral, Internet Archive)",
-      "nivel": 1,
-      "excerto": "nothing was left but the silver shoes. ... \"But the silver shoes are yours, and you shall have them to wear.\"",
-      "consultada_em": "2026-11-18",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Prateados",
-      "concorda": true,
-      "confianca": "alta",
-      "dominio": "archive.org",
-      "data": "2026-11-18",
-      "notas": "Fonte primária: o próprio livro de Baum, onde os sapatos são sempre «silver». Verde-esmeralda, azul-safira e dourados não aparecem. Que o filme de 1939 os tornou vermelhos (rubi) vem só de resultados de pesquisa secundários (Smithsonian, etc.), que não abri. Não afeta a resposta, que é sobre o livro. Fonte não é da Library of Congress.",
-      "hash_texto": "f2c81af4ca407bff0c7d5eb6708701fc09f1fe6c723e3d170f074a61f6958e14"
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -76,6 +59,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte archive.org"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo): duvida: A LoC diz que os sapatos foram \"purportedly changed\" (alegadamente mudados) para rubi, para aproveitar a cor. A explicaç"
     }
   ],
   "etiquetas": [

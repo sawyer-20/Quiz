@@ -6,15 +6,15 @@
     "pt-PT": {
       "question": "No estudo de 2005 que explicou a indiferença do gato ao açúcar, em que outro animal testado o gene Tas1r2 estava inutilizado?",
       "options": [
-        "Rato",
-        "Cão",
         "Ser humano",
-        "Tigre"
+        "Cão",
+        "Tigre",
+        "Rato"
       ],
-      "explanation": "No estudo de 2005 (PLoS Genetics), o tigre e a chita mostraram a mesma deleção de 247 pares de bases no Tas1r2 do gato. O cão, o ser humano, o ratinho e o rato têm, segundo o estudo, sabor doce funcional."
+      "explanation": "No estudo de 2005 (PLoS Genetics), o tigre e a chita mostraram a mesma deleção de 247 pares de bases no Tas1r2 do gato. Segundo o estudo, o cão, o ser humano, o rato e a ratazana têm sabor doce funcional."
     }
   },
-  "correct": 3,
+  "correct": 2,
   "difficulty": 2,
   "valid_until": null,
   "daily_eligible": true,
@@ -40,27 +40,10 @@
       "excerto": "The Monell researchers also detected the same gene defect in tiger and cheetah, suggesting that it is common to species throughout the cat family.",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://www.scientificamerican.com/article/why-cats-taste-no-sweets/",
-      "dominio": "scientificamerican.com",
-      "titulo": "Why Cats Taste No Sweets (Scientific American)",
-      "nivel": 2,
-      "excerto": "All cats, however—including lions, tigers and British longhairs, oh my!—lack a chunk of DNA that occurs in the Tas1r2 gene of other mammals ... (the depleted feline gene) is a pseudogene.",
-      "consultada_em": "2026-11-18",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Tigre",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "scientificamerican.com",
-      "data": "2026-11-18",
-      "notas": "Lido também o ScienceDaily de 2005 (comunicado do Monell, que é republicação, por isso não o uso como fonte principal): «The Monell researchers also detected the same gene defect in tiger and cheetah». A pesquisa ao artigo PMC1183522 diz o mesmo (tigre e chita, microdeleção de 247 pb no exão 3). Esse artigo não foi aberto por mim e é o próprio estudo, que consta da lista a evitar. Ser humano, rato e cão: o Tas1r2 é funcional (a pesquisa ao estudo PNAS 2012 refere o cão com gene intacto; o PNAS deu 403). Confiança média porque a fonte nível 2 não nomeia o tigre como espécie testada em 2005 nem exclui diretamente as outras opções.",
-      "hash_texto": "02b2c1ba554f84083342666a7c06b53ec16832ec79b947bb760baa04fb916c14"
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -86,6 +69,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte scientificamerican.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo): formulacao: Em pt-PT, «rato» é o mouse e «ratazana» é o rat. A explicação diz «ratinho e rato», o que traduz mal «mouse and rat» e c"
     }
   ],
   "etiquetas": []
