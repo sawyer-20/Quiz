@@ -39,10 +39,27 @@
       "excerto": "Originally, the palme refers to the coat of arms and motto of the city of Cannes: “Praemium palma victori”, meaning “The palme is the prize of the winner”.",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://en.palaisdesfestivals.com/palais-events/trade-shows-and-events/cannes-film-festival/",
+      "dominio": "palaisdesfestivals.com",
+      "titulo": "Cannes welcomes the Festival de Cannes, the world's most famous film festival (Palais des Festivals)",
+      "nivel": 2,
+      "excerto": "The Palme, whose design is inspired by the coat of arms of the city of Cannes, weighs 118 grams and requires 40 hours of work by five artisans at the maison Chopard.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "O brasão da cidade de Cannes",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "palaisdesfestivals.com",
+      "data": "2026-11-18",
+      "notas": "Li a página com o leitor. O Palais des Festivals é o palácio de congressos de Cannes, um domínio diferente do festival-cannes.com, e a frase é própria, não uma cópia dos textos do Festival. Segunda fonte lida, dos Arquivos municipais da cidade de Cannes (https://expos-historiques.cannes.com/les-iles-de-lerins/les-iles-de-lerins/hagiographie-ministres-du-culte): «La devise de Cannes est « Praemium palma victori »... Les armoiries de Cannes sont d'azur à une palme d'argent, posée en barre, accompagnée de deux fleurs de lys d'or». Isto confirma que a palma está no brasão da cidade. Excluídas as opções Mónaco, Palácio dos Festivais e ministério da Cultura: nenhuma fonte as liga à palma. A parte «presente em documentos do Festival desde 1939» não tem fonte independente: só a encontrei na directenjeu.fr, que não aceitas. Fica por confirmar fora dessa página e do festival-cannes.com. A pergunta tem ainda a ressalva de a edição de 1939 ter sido cancelada, mas isso não afeta a resposta. A confiança é «media» porque o Palais diz «inspired by» o brasão, não «homenageia».",
+      "hash_texto": "b7405a0ea43e4f2acc8b79ca486a3a245bf015bbd794bfff37b60fab2c24d5d8"
+    },
     "advogado": null,
     "editor": null
   },
@@ -62,6 +79,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "O facto circula em artigos e na página do Festival, mas não encontrei nenhuma pergunta de quiz com este ângulo (emblema da cidade, documentos de 1939). Opções sem correspondência. | provas: https://www.festival-cannes.com/en/2025/a-palme-for-an-emblem/ (página do Festival com o facto, não quiz); https://www.wikiwand.com/en/articles/Palme_d'Or (enciclopédia)"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte palaisdesfestivals.com"
     }
   ],
   "etiquetas": []
