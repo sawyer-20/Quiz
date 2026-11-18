@@ -20,7 +20,8 @@
   "daily_eligible": false,
   "sources": [
     "https://gamehistory.org/dmca-2024-statement/",
-    "https://www.infodocket.com/2024/10/25/u-s-copyright-office-rejects-dmca-exemption-to-support-game-preservation/"
+    "https://www.infodocket.com/2024/10/25/u-s-copyright-office-rejects-dmca-exemption-to-support-game-preservation/",
+    "https://www.copyright.gov/1201/2024/2024_Section_1201_Registers_Recommendation.pdf"
   ],
   "fontes": [
     {
@@ -67,10 +68,27 @@
       "excerto": "The Register concludes that proponents did not show that ... permitting off-premises access to video games are likely to be noninfringing. ... the Librarian of Congress accepts that recommendation with respect to all the classes of works.",
       "consultada_em": "2026-11-17",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.copyright.gov/1201/2024/2024_Section_1201_Registers_Recommendation.pdf",
+      "dominio": "copyright.gov",
+      "titulo": "Section 1201 Rulemaking: Ninth Triennial Proceeding, Recommendation of the Register of Copyrights (October 2024)",
+      "nivel": 1,
+      "excerto": "Class 6(a) and 6(b): Expansion of the exemption for preservation of computer programs and video games, except with respect to clarifying the single-user limitation in the current computer program preservation exemption...",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Dar acesso remoto a investigadores",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "copyright.gov",
+      "data": "2026-11-18",
+      "notas": "O NewsNet 1057 do Copyright Office (copyright.gov/newsnet/2024/1057.html) diz que o Librarian adotou a Recomendação da Registadora na íntegra. A Recomendação só aceitou o esclarecimento do limite de utilizador único para programas informáticos. O alargamento para videojogos não foi concedido. O pedido era retirar a condição de o jogo não estar disponível fora das instalações da biblioteca, ou seja, o acesso remoto de investigadores. A imprensa de apoio (GamesHub, TechSpot e outras, vistas só nos resultados da pesquisa) refere recusa por risco de uso recreativo e dano de mercado. Não consegui localizar no PDF a passagem exata sobre o acesso remoto: a pesquisa por 'recreational' e 'off-premises' não deu resultados e o excerto acima só mostra o que ficou excluído do alargamento. Outras opções: guardar cópias de preservação, e o jogo nas instalações, já são permitidos (a isenção de preservação foi renovada sem oposição). Vender cópias digitais ao público nunca foi pedido nem é abrangido. O enunciado fala em 'isenção legal para bibliotecas', o que é compatível. A fórmula 'Bibliotecária do Congresso' (Carla Hayden) não foi verificada por mim.",
+      "hash_texto": "abbc5312bf25cff7369642ebb715fcbb3891e24a46af787dc3167244a008edce"
+    },
     "advogado": null,
     "editor": {
       "aprovado": true,
@@ -80,7 +98,7 @@
       "data": "2026-11-18"
     }
   },
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -324,8 +342,25 @@
       "evento": "fonte acrescentada pelo pesquisador (sem mudar o texto)",
       "agente": "pesquisador",
       "nota": "auditoria 18/11"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte copyright.gov"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "`sources` sincronizado com `fontes`"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "devolvida a em_verificacao",
+      "agente": "orquestrador",
+      "nota": "lacuna da auditoria: explicação reformulada; a repetir advogado, editor, tradutor e conferente"
     }
   ],
-  "etiquetas": [],
-  "options_lock": "673e54f6e5d892186d1cb78f10f71d0393ed674fd23abd2ca1e9dff56eda7798"
+  "etiquetas": []
 }

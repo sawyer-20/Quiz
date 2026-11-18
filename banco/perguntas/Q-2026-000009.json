@@ -30,7 +30,7 @@
   "daily_eligible": true,
   "sources": [
     "https://www.rmg.co.uk/stories/time/which-years-are-leap-years-can-you-have-leap-seconds",
-    "https://www.legislation.gov.uk/apgb/Geo2/24/23"
+    "https://libguides.ctstatelibrary.org/hg/colonialresearch/calendar"
   ],
   "fontes": [
     {
@@ -212,6 +212,12 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "`sources` sincronizado com `fontes`"
     }
   ],
   "etiquetas": [

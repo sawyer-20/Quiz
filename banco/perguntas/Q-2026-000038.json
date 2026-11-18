@@ -21,7 +21,7 @@
   "sources": [
     "https://www.irishtimes.com/sport/sports-jargon-try-1.697492",
     "https://www.rugbyworld.com/takingpart/rugby-basics/why-is-a-try-called-a-try-in-rugby-136012",
-    "https://rugby365.com/laws-referees/news/scoring-down-the-years/"
+    "https://en.wikisource.org/wiki/Laws_of_Football_as_played_at_Rugby_School_(1845)"
   ],
   "fontes": [
     {
@@ -59,10 +59,27 @@
       "excerto": "The first written 'football rules' were composed by three of its pupils in 1845 and printed in a small, pocket-sized book. This is where many of the words and phrases associated with the game, such as 'try', came to light.",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://en.wikisource.org/wiki/Laws_of_Football_as_played_at_Rugby_School_(1845)",
+      "dominio": "wikisource.org",
+      "titulo": "Laws of Football as played at Rugby School (1845) - Wikisource",
+      "nivel": 2,
+      "excerto": "v. Try at goal. A ball touched between the goal-posts may be brought up to either of them, but not between. ... the ball must be place-kicked and not dropped ... and it must go over the bar and between the posts",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "O direito a tentar um pontapé à baliza",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "wikisource.org",
+      "data": "2026-11-18",
+      "notas": "Pelo texto de 1845 não há pontuação para o ensaio. A recompensa de pousar a bola é a 'try at goal', um pontapé de colocação que só conta golo se passar entre os postes. As opções 'Um ponto' e 'Dois pontos' ficam excluídas porque o texto não prevê pontos por touch-down (os resumos dizem que só o golo contava). 'Um pontapé de penalidade' fica excluída porque não existe essa figura na regra. Falta uma segunda fonte de nível 1 ou 2 aberta, o que justifica 'media'. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): A transcrição das leis de 1845 só mostra a regra 'Try at goal'. Não diz em termos explícitos que tocar a bola dava só esse direito. Essa parte vem de resumos históricos que vi nos resultados da pesquisa (Bath Rugby Heritage, que devolveu 403 e não abri, e outros). O ponto fraco é a inferência, e a única fonte aberta é uma transcrição na Wikisource, que classifiquei como nível 2.",
+      "hash_texto": "54b9b8c020b2bd1769dfa982618cf524552352c907e05f77f140394829e7a824"
+    },
     "advogado": null,
     "editor": {
       "aprovado": true,
@@ -72,7 +89,7 @@
       "data": "2026-11-11"
     }
   },
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -178,7 +195,24 @@
       "evento": "fonte acrescentada pelo pesquisador (sem mudar o texto)",
       "agente": "pesquisador",
       "nota": "auditoria 18/11"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte wikisource.org"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "`sources` sincronizado com `fontes`"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "devolvida a em_verificacao",
+      "agente": "orquestrador",
+      "nota": "lacuna da auditoria: explicação reformulada; a repetir advogado, editor, tradutor e conferente"
     }
-  ],
-  "options_lock": "c22fd1a81d50244f1990a0fe922885af2791844618ac27d76568a91d2e35d882"
+  ]
 }

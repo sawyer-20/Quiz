@@ -31,7 +31,7 @@
   "sources": [
     "https://www.cambridge.org/core/journals/greece-and-rome/article/abs/latest-work-on-the-export-of-baetican-olive-oil-to-rome-and-the-army/07D28E24DEC41641E1383BAC0CFF12D6",
     "https://turismoroma.it/it/luoghi/monte-dei-cocci",
-    "https://hdl.handle.net/2445/147000"
+    "https://www.oliveoiltimes.com/world/monte-testaccio-remnants-ancient-trade/46185"
   ],
   "fontes": [
     {
@@ -258,6 +258,12 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "`sources` sincronizado com `fontes`"
     }
   ],
   "options_lock": "6a61a8ecbff4af330a20e8ebb5cc3091f68a16ba6dc5b5b136e58804d3a8030c"

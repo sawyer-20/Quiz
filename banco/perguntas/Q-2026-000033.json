@@ -30,8 +30,8 @@
   "daily_eligible": true,
   "sources": [
     "https://www.nationalarchives.gov.uk/help/e179/glossary.htm",
-    "https://collection.sciencemuseumgroup.org.uk/objects/co60506/medieval-exchequer-tally-sticks",
-    "https://historyofparliament.com/2025/10/16/the-westminster-fire-of-1834/"
+    "https://historyofparliament.com/2025/10/16/the-westminster-fire-of-1834/",
+    "https://www.londonmuseum.org.uk/collections/v/object-372215/tallystick/"
   ],
   "fontes": [
     {
@@ -180,6 +180,12 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "`sources` sincronizado com `fontes`"
     }
   ],
   "options_lock": "9c531e5095ba7acd9ef59b227432dd802c4480a4916fad47759ee9b402ad6c98"
