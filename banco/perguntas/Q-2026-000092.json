@@ -7,11 +7,11 @@
       "question": "Dos 72 nomes de sábios que Gustave Eiffel escolheu para a sua torre, quantos são de mulheres?",
       "options": [
         "Três",
-        "Uma",
+        "Um",
         "Seis",
-        "Nenhuma"
+        "Nenhum"
       ],
-      "explanation": "Nenhuma: os 72 nomes que Eiffel escolheu para a torre são todos de homens, segundo o CNRS. Em janeiro de 2026, a Cidade de Paris divulgou uma lista provisória de 72 mulheres cientistas, ainda sujeita a parecer das Academias."
+      "explanation": "Nenhum: os 72 nomes que Eiffel escolheu para a torre são todos de homens, segundo o CNRS. Em janeiro de 2026, a Cidade de Paris divulgou uma lista provisória de 72 mulheres cientistas, ainda sujeita a parecer das Academias."
     },
     "en-US": {
       "question": "Of the 72 names of scholars that Gustave Eiffel chose for his tower, how many are women?",
@@ -50,27 +50,10 @@
       "excerto": "Ces savants, ayant vécu entre 1789 et 1889, font partie des 72 scientifiques dont les noms ont été gravés sur la tour Eiffel lors de sa construction. [...] Mais où sont les mathématiciennes [...] ?",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://museum.toulouse-metropole.fr/72-femmes-de-sciences-pour-la-tour-eiffel/",
-      "dominio": "toulouse-metropole.fr",
-      "titulo": "72 femmes de sciences pour la tour Eiffel - Muséum de Toulouse",
-      "nivel": 2,
-      "excerto": "Eiffel avait voulu faire de ce monument un panthéon des sciences, faisant rayonner au premier étage, en lettres d'or, les noms de 72 scientifiques [...] Étrangement, aucune femme ne figure parmi eux",
-      "consultada_em": "2026-11-18",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Nenhuma",
-      "concorda": true,
-      "confianca": "alta",
-      "dominio": "toulouse-metropole.fr",
-      "data": "2026-11-18",
-      "notas": "Confirmado por duas fontes abertas e lidas: Muséum de Toulouse (museu público) e IGBMC (instituto de investigação: 'the names of 72 French scholars, all men, engraved in gold letters around its first level'). Seis, Uma e Três ficam excluídas (zero mulheres). O site oficial toureiffel.paris, que a pesquisa resumiu como dizendo o mesmo, devolveu 403 ao leitor, por isso não o li. O projeto de 2026 para acrescentar 72 nomes de mulheres é posterior e não altera a lista original de Eiffel (as inscrições novas estão previstas para o início de 2027).",
-      "hash_texto": "855f0f2f6039de05304a37858e392b3d947d83e10cd7f29586e6cdf5a7efd823"
-    },
+    "verificador": null,
     "advogado": {
       "aprovado": true,
       "data": "2026-11-18",
@@ -87,11 +70,7 @@
       "data": "2026-11-18",
       "notas": "Corrigido: «scholars» (sábios), «how many are women?», «all men». A lista de 2026 mantém «women scientists», como o pt-PT («mulheres cientistas»)."
     },
-    "conferente": {
-      "aprovado": false,
-      "notas": "O facto, os números (72), a atribuição ao CNRS e a cautela sobre a lista provisória coincidem nos dois idiomas. O único defeito é a concordância de género em pt-PT. Rejeito na dúvida.",
-      "data": "2026-11-18"
-    }
+    "conferente": null
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -163,6 +142,12 @@
       "evento": "conferência recusada",
       "agente": "conferente",
       "nota": "[{\"onde\": \"pergunta\", \"idioma\": \"pt-PT\", \"detalhe\": \"«quantos são de mulheres?» pede o masculino (nomes), mas as opções 1 e 3 são «Uma» e «Nenhuma», no feminino. A concordância falha e as opções ficam incoerentes com o enunciado. O en-US não tem este problema, por isso o enunciado e as opções do pt-PT têm de ser acertados (por exemplo «Um» e «Nenhum») ou o enunciado reformulado. Qualquer mudança de opção obriga a repetir a verificação e o conferente.\"}]"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "concordância de género corrigida em pt-PT (conferente cego); verificador e conferente repetem",
+      "agente": "pesquisador",
+      "nota": "Enunciado inalterado (já concordava no masculino com «nomes» e «quantos»). Opções passam ao masculino: «Nenhuma» para «Nenhum» (a certa) e «Uma» para «Um». «Três» e «Seis» são invariáveis. Na explicação, só a primeira palavra mudou: «Nenhuma» para «Nenhum»."
     }
   ],
   "etiquetas": []
