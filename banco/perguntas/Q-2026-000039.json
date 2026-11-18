@@ -62,15 +62,6 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://www.irishtimes.com/sport/athletics/2024/05/24/sonia-osullivan-the-world-record-that-has-stood-for-41-years-may-soon-be-broken/",
-      "dominio": "irishtimes.com",
-      "titulo": "Sonia O'Sullivan: The world record that has stood for 41 years may soon be broken (The Irish Times)",
-      "nivel": 2,
-      "excerto": "Jarmila Kratochvílová of Czechoslovakia set a world record in 1983 in the 800m. It still stands today.",
-      "consultada_em": "2026-11-11",
-      "papel": "verificador"
-    },
-    {
       "url": "https://marathonhandbook.com/oldest-running-world-records/",
       "dominio": "marathonhandbook.com",
       "titulo": "Oldest running world records (Marathon Handbook)",
@@ -78,6 +69,15 @@
       "excerto": "Kratochvílová 800 m (1:53.28, Munique, 26-07-1983) ainda em vigor, o mais antigo recorde individual de atletismo; Marita Koch bateu os 400 m em 1985",
       "consultada_em": "2026-11-11",
       "papel": "advogado"
+    },
+    {
+      "url": "https://www.irishtimes.com/sport/athletics/2024/05/24/sonia-osullivan-the-world-record-that-has-stood-for-41-years-may-soon-be-broken/",
+      "dominio": "irishtimes.com",
+      "titulo": "Sonia O'Sullivan: The world record that has stood for 41 years may soon be broken (The Irish Times, 24/05/2024)",
+      "nivel": 2,
+      "excerto": "the women's world 800m record of 1:53.28 set by Jarmila Kratochvílová ... in July 1983 ... It is the longest-standing outdoor record in the books",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
@@ -86,8 +86,9 @@
       "concorda": true,
       "confianca": "media",
       "dominio": "irishtimes.com",
-      "data": "2026-11-11",
-      "notas": "Só o Irish Times (n2) lido: 800 m de 1983 (1:53.28) e que o recorde dos 400 m de Kratochvílová foi batido. Datas de 400 m (Koch 1985), 200 m (1988) e 1500 m (2015) só vistas em resultados de pesquisa. Falta 2.ª fonte lida para números (regra 4). nation.africa 403."
+      "data": "2026-11-18",
+      "notas": "Aberto e lido: Irish Times (nível 2). Diz que o recorde feminino dos 800 m (1:53.28, Munique, 26/07/1983) é o recorde ao ar livre mais antigo em vigor, e que os 47.99 dela nos 400 m (1983) já não são o recorde. As outras três opções estão excluídas por datas posteriores a 1983 que vi só em resultados de pesquisa (não abri páginas): 400 m, Koch 47.60, 1985; 200 m, Griffith-Joyner, 1988; 1500 m, recorde mais recente. Só tenho uma fonte de nível 2 aberta. O artigo é de maio de 2024, por isso 'até ao fim de 2025' vem da inferência de que o recorde continuava em vigor; os resultados da pesquisa de 2025 e 2026 apontam o mesmo (a pesquisa não mostrou nenhum recorde batido).",
+      "hash_texto": "502884adbc49534321c5acfe5b989773f1e5c732d38e0776b210f3efbf7f080d"
     },
     "advogado": {
       "aprovado": true,
@@ -212,6 +213,12 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte irishtimes.com"
     }
   ],
   "etiquetas": [

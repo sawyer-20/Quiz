@@ -34,7 +34,7 @@
   "sources": [
     "https://artsandculture.google.com/asset/piano-boisselot-et-fils/2gGb1dtttEyckg",
     "https://proa.ua.pt/index.php/comunicarte/article/download/31762/21754",
-    "https://24noticias.sapo.pt/vida/artigos/museu-da-musica-vai-estrear-recem-restaurado-cravo-taskin-de-1782-em-ciclo-de-concertos"
+    "https://www.portugalresident.com/lisztomania-liszt-in-lisbon/"
   ],
   "fontes": [
     {
@@ -56,12 +56,12 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://24noticias.sapo.pt/vida/artigos/museu-da-musica-vai-estrear-recem-restaurado-cravo-taskin-de-1782-em-ciclo-de-concertos",
-      "dominio": "sapo.pt",
-      "titulo": "Museu da Música vai estrear recém-restaurado cravo Taskin de 1782 em ciclo de concertos - 24 Notícias (SAPO)",
+      "url": "https://www.portugalresident.com/lisztomania-liszt-in-lisbon/",
+      "dominio": "portugalresident.com",
+      "titulo": "Lisztomania - Liszt in Lisbon (Portugal Resident)",
       "nivel": 2,
-      "excerto": "Liszt trouxe consigo um piano fabricado em Marselha pela oficina Boisselot et Fils, que foi adquirido por D. Maria II para o professor de música dos infantes, Manuel Inocêncio Liberato dos Santos.",
-      "consultada_em": "2026-11-11",
+      "excerto": "At the end of his visit, he offered the instrument to the Queen as a gift, and she passed it on to the piano teacher of her children; it is now in the National Music Museum in Lisbon.",
+      "consultada_em": "2026-11-18",
       "papel": "verificador"
     }
   ],
@@ -70,9 +70,10 @@
       "resposta_texto": "Ao professor de música dos seus filhos",
       "concorda": true,
       "confianca": "media",
-      "dominio": "sapo.pt",
-      "data": "2026-11-11",
-      "notas": "ATENÇÃO PARA O ADVOGADO: só uma fonte n2 lida (SAPO 24: «adquirido por D. Maria II para o professor»). A ficha MM 434 do Museu (n1: oferecido à rainha, que o doou ao professor) só em resultados de pesquisa (404). 'Infantes' vs 'seus filhos': inferência pequena. A ficha do museu põe ponto de interrogação na oferta de Liszt à rainha; getLISBON: 'gifted (or sold?)'. 'Dado' vs 'adquirido'. Academia Filarmónica, embaixador de França e São Carlos sem apoio. mnmusica.gov.pt/museu aberto, sem destinatário."
+      "dominio": "portugalresident.com",
+      "data": "2026-11-18",
+      "notas": "Aberto e lido: Portugal Resident (imprensa em inglês, nível 2). Diz 'the Queen' sem a nomear; é D. Maria II, rainha em 1845 (inferência pequena). Os resultados da pesquisa (Wikipédia pt, só pista) identificam o professor como Manuel Inocêncio Liberato dos Santos, mestre de música da Casa Real e dos filhos da rainha. O Público confirma o piano Boisselot que Liszt trouxe a Lisboa em 1845, hoje no Museu da Música. A página do Museu Nacional da Música não abriu (404/ENOTFOUND). Excluídas: Teatro de São Carlos, Academia Filarmónica e embaixador de França, que não aparecem em nenhuma fonte como destinatários. A Academia Filarmónica só surge como entidade que Liszt frequentou. Só uma fonte aberta de nível 2.",
+      "hash_texto": "2d4bc0b5557a57f4d6ccdd6d0ff3a4edb0c77de287ec9c443983924a6fda30bf"
     },
     "advogado": {
       "aprovado": true,
@@ -185,6 +186,18 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte portugalresident.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "`sources` sincronizado com `fontes` (fonte do verificador mudou na repetição com hash)"
     }
   ],
   "options_lock": "1cdeba723d1d2ae50bfde87436eac7c0da64eb602434d4ffc0fd2dac8f8af5f6"
