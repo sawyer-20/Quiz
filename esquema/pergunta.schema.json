@@ -72,7 +72,7 @@
     "etiquetas": {
       "description": "Opcional. 'classico': facto muito conhecido com enunciado próprio; nunca em dificuldade 4 ou 5; no máximo 20% das perguntas aprovadas e publicadas do banco, aplicado a partir de 100 (validar.py).",
       "type": "array", "uniqueItems": true,
-      "items": { "type": "string", "enum": ["classico", "caminho_leve"] }
+      "items": { "type": "string", "enum": ["classico"] }
     }
   },
   "$defs": {
@@ -111,10 +111,6 @@
       "additionalProperties": false,
       "required": ["verificador", "advogado", "editor"],
       "properties": {
-        "caminho_leve": {
-          "description": "Teste do lote 4: factos de dificuldade 1 sem advogado do diabo (uma fonte oficial de nível 1 + verificador cego). Auditados depois por um agente que não os produziu.",
-          "type": "boolean"
-        },
         "verificador": {
           "type": ["object", "null"],
           "additionalProperties": false,

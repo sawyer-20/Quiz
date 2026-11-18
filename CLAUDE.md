@@ -71,8 +71,12 @@ ficheiros e nunca tomas decisões de produto sozinho.
     acréscimo de um clássico novo ultrapassaria esse limite no fim do lote, o clássico fica
     em espera (`em_verificacao`, nota no histórico) e só avança se sobrar vaga; no fim do
     lote, os que ficarem em espera são rejeitados com motivo `quota de clássicos do lote`.
-17. **Mudanças ao motor entram por pedido de merge para o `main`** (regras, agentes,
-    skills, scripts). O banco e os relatórios de lote seguem no ramo de trabalho.
+17. **Tudo entra no `main` por pedido de merge, e o merge é sempre do Andre.** O trabalho
+    faz-se no ramo de trabalho. O motor (regras, agentes, skills, scripts) e o banco/relatórios
+    vão no mesmo pedido, que descreve em secções separadas o que é motor e o que é banco, para
+    o Andre ler o motor sem se perder no banco. (Alinhada com a prática em 18/11/2026: o PR #1
+    já levou 82 perguntas para o `main`, o que contradizia a versão anterior desta regra, «o
+    banco segue no ramo de trabalho». O Andre pode preferir o contrário: pedidos separados.)
 18. **O facto verifica-se uma vez, o texto escreve-se duas.** O pesquisador, o verificador,
     o advogado e o editor trabalham no texto pt-PT (a referência). O `tradutor` escreve o
     en-US a partir do pt-PT aprovado e da ficha de facto; o `conferente` (cego: vê só os

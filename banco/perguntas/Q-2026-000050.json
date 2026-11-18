@@ -70,7 +70,11 @@
       "data": "2026-11-12",
       "notas": "Li a fonte, que é de nível 2, e só uma. Britannica devolveu 403. A fonte diz que o fémur é o osso mais longo, o que exclui tíbia, úmero e rádio. Facto anatómico estável."
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "Abri as duas fontes e li-as. O NCBI/StatPearls diz «The femur is the longest, heaviest, and strongest human bone». O Cleveland Clinic diz «the longest, strongest bone in your body». Os distratores (úmero, tíbia, rádio) são todos mais curtos, por isso não há segunda resposta defensável e não há ambiguidade de definição. O facto é estável. Cada afirmação da explicação tem suporte no StatPearls. «Mais pesado» e «mais forte» estão na frase inicial. «Liga a bacia ao joelho» e «articula com a tíbia» vêm de 'The medial and lateral condyles join the femur to the tibia, forming the knee joint' e da articulação da cabeça do fémur com o acetábulo da pelve. A rótula vem do 'patellofemoral joint'. O peso do tronco vem de 'The weight of the upper body rests on the two femoral heads'. Não há linguagem de dúvida nem interpretação apresentada como facto. A explicação não precisa de reformulação. Só «ao andar» é uma ligeira paráfrase de 'weight bearing and gait stability', e é aceitável. Nível 1 presente (NCBI). Sem Wikipédia. Tema neutro. | páginas lidas pelo advogado: https://www.ncbi.nlm.nih.gov/sites/books/NBK532982/, https://my.clevelandclinic.org/health/body/22503-femur"
+    },
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
@@ -78,7 +82,6 @@
       "notas": "Sem alterações; já estava curto, em pt-PT e com 2 frases.",
       "data": "2026-11-13"
     },
-    "caminho_leve": true,
     "tradutor": {
       "data": "2026-11-13",
       "notas": "Termos anatómicos ingleses correntes (femur, humerus, tibia, radius). 'rótula' = kneecap."
@@ -154,10 +157,21 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "etiqueta caminho_leve retirada (caminho leve abandonado)",
+      "agente": "orquestrador",
+      "nota": "advogado do diabo aprovou em 18/11; texto inalterado"
     }
   ],
   "etiquetas": [
-    "caminho_leve",
     "classico"
   ],
   "options_lock": "818377c0165a7d7847b18dd188eb5d7d72c31fbb51d7ce4eaead3137d85021e6"

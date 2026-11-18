@@ -73,7 +73,6 @@
       "notas": "Enunciado inalterado. Gralha corrigida: «Ppádua» passou a «Pádua» (não consultei a fonte; a grafia é a do nome da cidade). Explicação reordenada para começar pela resposta, sem factos novos. Dificuldade e subtema mantidos.",
       "data": "2026-11-18"
     },
-    "caminho_leve": true,
     "tradutor": {
       "data": "2026-11-18",
       "notas": "Opção 1 (dedo) mantida como no pt-PT, que a repete em parte a pergunta (belisca); sem alterações. 'piano e forte' mantido em italiano, entre aspas, como no pt-PT. Padua e Florence na forma inglesa; Bartolomeo Cristofori com a forma original."
@@ -161,10 +160,14 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "etiqueta caminho_leve retirada (caminho leve abandonado)",
+      "agente": "orquestrador",
+      "nota": "advogado do diabo já tinha aprovado; sem mudança de texto"
     }
   ],
-  "etiquetas": [
-    "caminho_leve"
-  ],
+  "etiquetas": [],
   "options_lock": "18d5233e30f072c50691276c1a17fc381c2bef3ad6eeb98d45b01973d264ed94"
 }
