@@ -79,12 +79,12 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://www.copyright.gov/title37/201/37cfr201-40.html",
+      "url": "https://www.copyright.gov/1201/2024/2024_Section_1201_Registers_Recommendation.pdf",
       "dominio": "copyright.gov",
-      "titulo": "37 CFR 201.40 (Copyright Office, regulamento em vigor)",
+      "titulo": "Section 1201 Rulemaking: Ninth Triennial Proceeding - Recommendation of the Register of Copyrights (October 2024)",
       "nivel": 1,
-      "excerto": "...solely for the purpose of preservation of the game in a playable form by an eligible library, archives, or museum... the video game is not distributed or made available outside of the physical premises of the eligible library, archives, or museum.",
-      "consultada_em": "2026-11-17",
+      "excerto": "Class 6(a) and 6(b): Expansion of the exemption for preservation of computer programs and video games [not recommended]... The Register does not recommend granting the proposed expansion of this exemption that would otherwise remove the single-user limitation.",
+      "consultada_em": "2026-11-18",
       "papel": "verificador"
     }
   ],
@@ -94,8 +94,9 @@
       "concorda": true,
       "confianca": "media",
       "dominio": "copyright.gov",
-      "data": "2026-11-17",
-      "notas": "O texto em vigor mantém a isenção de preservação de videojogos só dentro das instalações da biblioteca. Isso exclui 'Guardar cópias de preservação' e 'Jogá-los nas instalações', que são o que a isenção já permite. A OSnews (2024-11-27, nível 3) diz: 'The US copyright office has denied a request for a DMCA exemption that would allow libraries to remotely share digital access to preserved video games.' Uma pesquisa mostrou que os pedidos de SPN/LCA eram de acesso remoto a investigadores, com a oposição da ESA. A opção 'Vender cópias digitais ao público' nunca foi pedida. Não consegui ler a passagem da Recomendação (https://www.copyright.gov/1201/2024/2024_Section_1201_Registers_Recommendation.pdf) que fala da recusa. O enunciado diz 'Bibliotecária do Congresso', mas a recomendação é da Registadora dos Direitos de Autor e a regra final é da Bibliotecária. Não vi razão para duvidar. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): O regulamento em vigor prova que a limitação às instalações continua, mas não contém a fundamentação da recusa. A Recomendação da Bibliotecária (PDF do copyright.gov) só abri em parte: a pesquisa de 'remote access' só deu a secção de software em geral e a de 'premises' não deu nada. Por isso a recusa explícita do acesso remoto vem de fontes secundárias. As outras opções não são o que foi recusado: guardar cópias de preservação e jogar nas instalações já estão permitidos; vender cópias ao público não foi pedido."
+      "data": "2026-11-18",
+      "notas": "Abri o PDF da Recomendação da Registadora (copyright.gov, nível 1) com scripts/ler_url.py. A leitura devolveu só cerca de 141 mil caracteres. A secção da Classe 6(b), que começa na p. 163, ficou de fora, por isso não li a passagem explícita sobre 'acesso fora das instalações'. O que li no PDF confirma o seguinte. (1) O sumário diz que o pedido de expansão das Classes 6(a) e 6(b), a isenção de preservação de programas e videojogos, não foi recomendado. (2) A isenção de preservação de videojogos já existia e foi renovada: bibliotecas, arquivos e museus podem preservar videojogos sem suporte de servidor e permitir o jogo individual. Logo 'Guardar cópias de preservação' está errada, porque já era permitido. (3) O PDF não fala de vender cópias digitais nem de jogar nas instalações como pedidos recusados. 'Jogá-los nas instalações da biblioteca' já era permitido pela isenção em vigor, que limita o acesso às instalações. 'Vender cópias digitais ao público' não foi pedido. O pedido de SPN/LCA era retirar a limitação às instalações para dar acesso remoto a investigadores. A citação da Registadora vem de reportagem secundária (nível 3, https://gamesradar.com e https://gameworldobserver.com, não abertos por mim): 'proponents did not show that removing the single-user limitation for preserved computer programs or permitting off-premises access to video games are likely to be noninfringing'. A confiança é média por esse motivo. O WebFetch falhou com ENOTFOUND para www.copyright.gov, mas o ler_url.py abriu-o. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): A pergunta fala da Bibliotecária do Congresso, mas a recomendação é da Registadora dos Direitos de Autor; a Bibliotecária adotou-a na regra final. O enunciado diz 'isenção legal'; tecnicamente é uma isenção temporária à proibição de contornar proteções (DMCA s.1201). Nenhuma das outras opções é defensável.",
+      "hash_texto": "abbc5312bf25cff7369642ebb715fcbb3891e24a46af787dc3167244a008edce"
     },
     "advogado": {
       "aprovado": true,
@@ -310,6 +311,12 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Resposta certa no índice 3. 'Registadora dos Direitos de Autor' = Register of Copyrights (cargo oficial); 'Bibliotecária do Congresso' = Librarian of Congress. A pergunta tem 138 caracteres (acima do alvo de 120, abaixo do máximo de 200). 'no longer sold commercially' traduz 'já não são comercializados' (a regra diz 'no longer reasonably available in the commercial marketplace'). Na explicação, 'would be lawful' traduz 'fosse lícito' (a fonte diz 'noninfringing'). Sem unidades nem aspas."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte copyright.gov"
     }
   ],
   "etiquetas": []
