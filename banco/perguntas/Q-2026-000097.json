@@ -85,9 +85,15 @@
     "tradutor": {
       "data": "2026-11-18",
       "notas": "«balança de joule/watt/ampere» com minúscula no pt-PT; em inglês usei maiúscula nas opções (Joule/Watt/Ampere balance) por consistência de lista. Atribuição ao NIST mantida (1975)."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Resposta certa: balança de watt/Watt balance. A atribuição «1975, segundo o NIST»/«1975, according to NIST» é igual nos dois idiomas. As opções correspondem uma a uma.",
+      "data": "2026-11-18",
+      "hash_texto": "deb71ab07509acc8a739f6a194b92cc4dd35b5fe686554c78373675884420ab0"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-18",
@@ -139,7 +145,20 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "«balança de joule/watt/ampere» com minúscula no pt-PT; em inglês usei maiúscula nas opções (Joule/Watt/Ampere balance) por consistência de lista. Atribuição ao NIST mantida (1975)."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "7b2e6b32b4396cefd964ce5a75d3c82250c6d7f18ec9cfb0f61b0fc7682ea862"
 }

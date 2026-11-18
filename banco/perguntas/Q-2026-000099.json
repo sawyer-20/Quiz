@@ -86,9 +86,15 @@
     "tradutor": {
       "data": "2026-11-18",
       "notas": "«Bola de Ouro» -> Ballon d'Or (nome corrente em inglês). «Blackpool» sem \"FC\" como no pt-PT."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Resposta certa: 41 anos nos dois idiomas. «Até 2026»/«As of 2026» e os números (nove anos, 50) coincidem. As opções correspondem pela mesma ordem.",
+      "data": "2026-11-18",
+      "hash_texto": "0b29e822598d4cc8d076948a33b6537e138478ae84cd8ca8412c4dead8be5223"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-18",
@@ -140,7 +146,20 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "«Bola de Ouro» -> Ballon d'Or (nome corrente em inglês). «Blackpool» sem \"FC\" como no pt-PT."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "714512021e151d54190e6fd5f49e692b83a109b1794d5eed2f09670302292046"
 }

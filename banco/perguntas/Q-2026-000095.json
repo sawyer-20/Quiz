@@ -86,9 +86,15 @@
     "tradutor": {
       "data": "2026-11-18",
       "notas": "Explicação reescrita sem a abreviatura «No.» («Symphony No. 45» -> «Haydn's 45th Symphony»), para o validador contar 2 frases. Resto igual. Título «Sinfonia do Adeus» -> \"Farewell\" Symphony. Atribuição ao LSO mantida. Opção 0 usa \"their\" neutro."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Pergunta, opções (uma a uma, mesma ordem) e explicação equivalentes. A atribuição «segundo o LSO» e «according to the LSO» coincide. Datas e números iguais: 1772, n.º 45, dois violinos. Nenhuma pista lexical nova: a palavra «vela/candle» só aparece na opção e na explicação. pt-PT correto («vénia», «a sua estante»). en-US natural. Limites respeitados: 2 frases, opções com menos de 60 caracteres, pergunta termina em «?».",
+      "data": "2026-11-18",
+      "hash_texto": "b2c93cfb807e678ff5c6df5037e268a0e7bd02eed90890abbd68f8e8d28a9c60"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-18",
@@ -146,7 +152,20 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Explicação reescrita sem a abreviatura «No.» («Symphony No. 45» -> «Haydn's 45th Symphony»), para o validador contar 2 frases. Resto igual. Título «Sinfonia do Adeus» -> \"Farewell\" Symphony. Atribuição ao LSO mantida. Opção 0 usa \"their\" neutro."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "87006eb60fcfdaa983d62036da6932448ac48b668da54086f6503b8571694a0b"
 }

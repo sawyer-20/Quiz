@@ -86,9 +86,15 @@
     "tradutor": {
       "data": "2026-11-18",
       "notas": "Atribuições mantidas: «segundo a própria empresa» -> \"according to the company itself\"; MoneyWeek. Quioto -> Kyoto. «Nintendo Koppai» mantido como no pt-PT."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Mesmo facto: 1889, Quioto, Fusajiro Yamauchi, hanafuda. As atribuições («segundo a própria empresa» e a MoneyWeek, que descreve a Nintendo Koppai) coincidem nos dois idiomas. Opções equivalentes pela mesma ordem. A opção certa traz o termo «hanafuda» entre parênteses nos dois idiomas, o que a torna um pouco mais específica, mas isto não é uma pista nova da tradução. pt-PT correto («a fazer» em vez de gerúndio). en-US natural. Limites respeitados.",
+      "data": "2026-11-18",
+      "hash_texto": "4025e6cbdd0cb62f42b02980e660d8b94752af2f62e3f4c5e53fa89b096d2cc9"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-18",
@@ -140,9 +146,22 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Atribuições mantidas: «segundo a própria empresa» -> \"according to the company itself\"; MoneyWeek. Quioto -> Kyoto. «Nintendo Koppai» mantido como no pt-PT."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": [
     "classico"
-  ]
+  ],
+  "options_lock": "4ec7a366652a03282d871897ab60520e332f0830de82a6240553ba5099962d92"
 }

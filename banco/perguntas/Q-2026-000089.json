@@ -86,9 +86,15 @@
     "tradutor": {
       "data": "2026-11-18",
       "notas": "Opção certa no índice 2 (Tiger), ordem mantida. «Rato» = Mouse (opção 4); «ratazana» = rats (só na explicação). O pt-PT diz «do gato» e «tal como a chita»; usei «the domestic cat» para evitar ambiguidade com a pergunta, sem acrescentar facto novo (se o conferente preferir literal: «in the cat's Tas1r2»). Mantida a atribuição «According to the study». Explicação com cerca de 250 caracteres e 2 frases."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Resposta certa (índice 2, tigre/Tiger) igual nos dois idiomas. As outras opções correspondem uma a uma: ser humano/Human, cão/Dog, rato/Mouse. Atribuição «Segundo o estudo»/«According to the study» mantida. Pormenor menor: o en-US diz «domestic cat» onde o pt-PT diz só «gato». Não muda o facto nem a resposta.",
+      "data": "2026-11-18",
+      "hash_texto": "d43369244e24c39322ba5dd81d7ba93d2dbdf117160da0b613a094b8e7eaeaea"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-18",
@@ -146,7 +152,20 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Opção certa no índice 2 (Tiger), ordem mantida. «Rato» = Mouse (opção 4); «ratazana» = rats (só na explicação). O pt-PT diz «do gato» e «tal como a chita»; usei «the domestic cat» para evitar ambiguidade com a pergunta, sem acrescentar facto novo (se o conferente preferir literal: «in the cat's Tas1r2»). Mantida a atribuição «According to the study». Explicação com cerca de 250 caracteres e 2 frases."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "68c7d21b4357a7627f2f932b422ad9a291fa9389e7f9431dcd9f3cb27f3cd0ec"
 }

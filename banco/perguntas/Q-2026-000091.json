@@ -94,7 +94,7 @@
       "hash_texto": "d97e756a1d280d49b7fead2b09c4a7a86a36ef42b806c198aac5fb14d0db5c68"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-18",
@@ -152,7 +152,14 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "cba8659dad764077d606a83de6466680c45e9372567b56dc72a0d26f5be1ff6a"
 }

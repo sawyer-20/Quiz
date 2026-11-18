@@ -96,9 +96,15 @@
     "tradutor": {
       "data": "2026-11-18",
       "notas": "Datas em formato americano (March 27, March 20). «Agente da Scotland Yard» -> \"officer\"."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Datas (20 e 27 de março de 1966), nomes e a resposta certa coincidem. A opção certa é mais longa e mais específica que as outras, nos dois idiomas por igual. Não vem da tradução, mas fica como observação para o editor.",
+      "data": "2026-11-18",
+      "hash_texto": "992d44e0d75ae3e78a6699742cc824205d04b49fd581ea0ebb596ebc30fef6c8"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-18",
@@ -150,9 +156,22 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Datas em formato americano (March 27, March 20). «Agente da Scotland Yard» -> \"officer\"."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": [
     "classico"
-  ]
+  ],
+  "options_lock": "2f64dd9926fcd982798235d0b0a09ec6f5585c72f8e68e2f956f897cbf59f696"
 }

@@ -86,9 +86,15 @@
     "tradutor": {
       "data": "2026-11-18",
       "notas": "Correta = índice 3. Corrigido conforme o conferente: a alcunha «Pompeii of the East» liga-se agora claramente à aldeia («a village ... dubbed the ...»), e na explicação usei «the resemblance to Vesuvius», como no pt-PT. Unidade mantida em metros (3 m). Opções e ordem inalteradas."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Números e datas coincidem (2004, 1815, cerca de 3 m, dois adultos). A resposta certa é Tambora nos dois idiomas e as opções correspondem pela mesma ordem. A explicação tem 2 frases.",
+      "data": "2026-11-18",
+      "hash_texto": "837e917329795941da05475bf798ae47e71975923f89593ffc23e92479cd0edf"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-18",
@@ -146,7 +152,20 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Correta = índice 3. Corrigido conforme o conferente: a alcunha «Pompeii of the East» liga-se agora claramente à aldeia («a village ... dubbed the ...»), e na explicação usei «the resemblance to Vesuvius», como no pt-PT. Unidade mantida em metros (3 m). Opções e ordem inalteradas."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "dd7604cc80782ee2a78d5a142be84579bbe491a4ac8517d464e9b1f07292033a"
 }
