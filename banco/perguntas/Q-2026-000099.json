@@ -11,11 +11,11 @@
         "34 anos",
         "38 anos"
       ],
-      "explanation": "Stanley Matthews, do Blackpool, venceu a primeira Bola de Ouro com 41 anos e ainda jogou mais nove anos, até se retirar aos 50."
+      "explanation": "Tinha 41 anos: Stanley Matthews, do Blackpool, venceu a primeira Bola de Ouro. Ainda jogou mais nove anos, até se retirar aos 50."
     }
   },
   "correct": 1,
-  "difficulty": 3,
+  "difficulty": 4,
   "valid_until": null,
   "daily_eligible": true,
   "sources": [
@@ -66,7 +66,13 @@
       "data": "2026-11-18",
       "notas": "O ballondor.com (nível 1, publicado em julho de 2026) diz que Matthews tinha 41 anos, 10 meses e 17 dias. Diz também que é o vencedor mais velho de sempre, contando homens e mulheres. O Guinness (nível 2) dá 41 anos e 321 dias a 18 de dezembro de 1956, e diz que ele jogou mais nove anos e se retirou aos 50. As duas fontes concordam. Os distratores são idades de Messi (36 e 34) e Benzema (34); nenhum é a idade de Matthews. O 38 não corresponde a nenhum vencedor. O 'Até 2026' no enunciado já fixa a validade, e nenhum vencedor de 2026 ultrapassaria 41 anos e 10 meses. A explicação tem 2 frases e menos de 300 caracteres, sem linguagem de dúvida. Não consegui derrubar. | páginas lidas pelo advogado: https://ballondor.com/news/posts/who-is-the-oldest-ballon-dor-winner, https://www.guinnessworldrecords.com/world-records/788751-oldest-winner-of-footballs-soccers-ballon-dor-award"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado e opções intactos. Explicação começa pela resposta, mantém números e atribuições (cerca de 130 caracteres, 2 frases). Dificuldade subida de 3 para 4: poucos conhecem a idade de Matthews e as opções são muito próximas entre si.",
+      "data": "2026-11-18"
+    }
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -107,6 +113,12 @@
       "data": "2026-11-18",
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
       "nota": ""
     }
   ],

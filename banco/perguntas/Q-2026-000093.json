@@ -11,7 +11,7 @@
         "Nihilum",
         "Vacuum"
       ],
-      "explanation": "Fibonacci escreveu que o sinal 0 se chamava «zephyrum» (ou «zephirum») em árabe, adaptando ṣifr; segundo a Treccani, é a origem de «zero». Um estudo no repositório da Universidade de Oxford regista-o como o primeiro termo latino para o 0."
+      "explanation": "Zephyrum (ou «zephirum»): Fibonacci adaptou-a do árabe ṣifr e, segundo a Treccani, é a origem de «zero». Um estudo no repositório da Universidade de Oxford regista-o como o primeiro termo latino para o 0."
     }
   },
   "correct": 1,
@@ -61,8 +61,18 @@
       "notas": "A fonte lida cita a frase do Liber Abaci com «zephirum» e diz que é a primeira vez que a palavra aparece em latim. Confiança média porque a grafia da opção («Zephyrum») difere da citada («zephirum»), e porque a fonte é um capítulo de livro com a tradução, e não a edição crítica. As outras três opções foram excluídas por ausência: a fonte não lhes dá esse papel. Não usei Treccani nem Oxford. O enunciado diz «adaptada do árabe sifr», o que a fonte confirma. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): A palavra no original é grafada «zephirum» (também «zephyrum» em algumas edições). A opção «Zephyrum» é a única que corresponde ao termo de Fibonacci, só com variante ortográfica. Vacuum, Orbiculum e Nihilum não aparecem na fonte como termo usado por Fibonacci para o 0.",
       "hash_texto": "cf6142ee9404df6bdd4e60eb28391d13a0105d9f3d21ac4586e3ef41f98d9eb4"
     },
-    "advogado": null,
-    "editor": null
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "A Treccani (n1) dá «lat. mediev. zèphyrum, adattam. (Fibonacci, Liber abbaci, 1202) dell'arabo ṣifr». O texto de Oxford diz «the earliest occurrence of a Latin term for the symbol 0». O Springer, independente, diz «the first time the word appears in Latin» e cita a frase do Liber Abaci. A atribuição «segundo a Treccani» e a de Oxford estão certas. «Zephyrum» e «zephirum» são variantes, ambas aceites na explicação. Nenhum distrator tem apoio. Não derrubei. | páginas lidas pelo advogado: https://www.treccani.it/vocabolario/zero/, https://ora.ox.ac.uk/objects/uuid:d73b5a83-4f01-4347-a257-e2fb8cbca12c/files/s6m311q832, https://link.springer.com/chapter/10.1007/978-3-031-52692-3_5"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado e opções intactos. Explicação reordenada para começar pela resposta e encurtada; atribuições mantidas. Dificuldade e subtema confirmados.",
+      "data": "2026-11-18"
+    }
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -98,6 +108,18 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte springer.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
     }
   ],
   "etiquetas": []

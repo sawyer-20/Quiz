@@ -73,9 +73,15 @@
     "tradutor": {
       "data": "2026-11-18",
       "notas": "Opção 1 (dedo) mantida como no pt-PT, que a repete em parte a pergunta (belisca); sem alterações. 'piano e forte' mantido em italiano, entre aspas, como no pt-PT. Padua e Florence na forma inglesa; Bartolomeo Cristofori com a forma original."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Opções equivalentes uma a uma: fricciona/rubs, belisca/plucks, foles/bellows, martelos/hammers. A pista do enunciado (o cravo belisca) existe nos dois idiomas e descarta a opção 1 da mesma forma. Explicação com 2 frases, com «piano e forte» nos dois.",
+      "data": "2026-11-18",
+      "hash_texto": "59a465043820e28db02e4665173bc4fc1bcff6c79866809e84f6e93875c44df2"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-12",
@@ -133,9 +139,22 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Opção 1 (dedo) mantida como no pt-PT, que a repete em parte a pergunta (belisca); sem alterações. 'piano e forte' mantido em italiano, entre aspas, como no pt-PT. Padua e Florence na forma inglesa; Bartolomeo Cristofori com a forma original."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": [
     "caminho_leve"
-  ]
+  ],
+  "options_lock": "18d5233e30f072c50691276c1a17fc381c2bef3ad6eeb98d45b01973d264ed94"
 }

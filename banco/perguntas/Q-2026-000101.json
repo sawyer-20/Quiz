@@ -86,9 +86,15 @@
     "tradutor": {
       "data": "2026-11-18",
       "notas": "Correta = índice 2. Fernão de Magalhães -> Ferdinand Magellan (forma inglesa corrente)."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Facto, datas e opções equivalentes. Os distratores mantêm o mesmo grau de plausibilidade nos dois idiomas.",
+      "data": "2026-11-18",
+      "hash_texto": "a5f98cb415c2e0ba3e929e4b1159647086da5ba975849b24d672033ebca34817"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-18",
@@ -128,7 +134,20 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Correta = índice 2. Fernão de Magalhães -> Ferdinand Magellan (forma inglesa corrente)."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "baa9421199667c0dd801d7757371f3ab801068842b0e2591e0ace54945809f5b"
 }

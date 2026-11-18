@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000088",
   "topic": "Movies",
-  "subtopic": "Festivais",
+  "subtopic": "Cannes e a Palma de Ouro",
   "text": {
     "pt-PT": {
       "question": "A palma da Palma de Ouro de Cannes remete para que emblema?",
@@ -11,7 +11,7 @@
         "O emblema do Palácio dos Festivais",
         "O logótipo do ministério francês da Cultura"
       ],
-      "explanation": "Segundo o Festival de Cannes, a palma remete para o brasão e o lema da cidade de Cannes, «Praemium palma victori». O troféu da Palma de Ouro nasceu desse símbolo."
+      "explanation": "O brasão da cidade de Cannes. Segundo o Festival de Cannes, a palma remete para o brasão e o lema da cidade, «Praemium palma victori», e o troféu da Palma de Ouro nasceu desse símbolo."
     }
   },
   "correct": 0,
@@ -65,7 +65,13 @@
       "data": "2026-11-18",
       "notas": "O Festival de Cannes diz que a palma remete para o brasão e o lema da cidade, «Praemium palma victori». O Palais des Festivals diz que o troféu se inspira no brasão da cidade, o que apoia a segunda frase da explicação. Os distratores (Mónaco, Palácio dos Festivais, ministério) não têm apoio nas fontes. Não consegui derrubar a pergunta. | páginas lidas pelo advogado: https://www.festival-cannes.com/en/2025/a-palme-for-an-emblem/, https://en.palaisdesfestivals.com/palais-events/trade-shows-and-events/cannes-film-festival/"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado e opções intactos. Explicação começa agora pela resposta e mantém a atribuição ao Festival de Cannes. Subtema afinado de «Festivais» para algo mais específico. Dificuldade mantida.",
+      "data": "2026-11-18"
+    }
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -106,6 +112,12 @@
       "data": "2026-11-18",
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
       "nota": ""
     }
   ],

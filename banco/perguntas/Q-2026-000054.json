@@ -86,9 +86,15 @@
     "tradutor": {
       "data": "2026-11-18",
       "notas": "1600 m mantido como '1,600 m' sem conversão. 'Baikal' passa a 'Lake Baikal' na explicação e nas opções (forma inglesa corrente). 'cerca de 20%' mantido como 'about 20%'."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Mesmos números (20%, 1600 m), mesma comparação com os Grandes Lagos. Opções equivalentes uma a uma. Limites respeitados.",
+      "data": "2026-11-18",
+      "hash_texto": "ce5fa058cf4ff11df4c8b380cabe7ef9f7f9093011432672c211c78773820905"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-12",
@@ -146,7 +152,20 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "1600 m mantido como '1,600 m' sem conversão. 'Baikal' passa a 'Lake Baikal' na explicação e nas opções (forma inglesa corrente). 'cerca de 20%' mantido como 'about 20%'."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "0cadbe8e36ac864787d83fcced75bdde370db03eb7dfc5b40f0c0345bccb8cdb"
 }

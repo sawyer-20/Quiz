@@ -86,9 +86,15 @@
     "tradutor": {
       "data": "2026-11-18",
       "notas": "'lentes ultraluminosas' -> 'ultra-fast lenses' (termo corrente em inglês para objetivas de grande abertura). 'marca' -> 'company'. Aspas «» passam a aspas inglesas. Unidade 50 mm mantida."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Mesmos números (50 mm f/0.7, dez feitas, três compradas). «Marca» e «company» são equivalentes para estas quatro opções. Opções idênticas, mesma ordem. Explicação com 2 frases.",
+      "data": "2026-11-18",
+      "hash_texto": "1154766ac60f0f382b0ea802cd37ed565ea930a54631e20843828cdb07247594"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-12",
@@ -152,7 +158,20 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "'lentes ultraluminosas' -> 'ultra-fast lenses' (termo corrente em inglês para objetivas de grande abertura). 'marca' -> 'company'. Aspas «» passam a aspas inglesas. Unidade 50 mm mantida."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "68d9184febf5424f4394fb2e2117603436d9c3af1e0bfd5592b2b8b32ebeefc6"
 }

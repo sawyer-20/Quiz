@@ -11,11 +11,11 @@
         "Dourados",
         "Azul-safira"
       ],
-      "explanation": "No romance de L. Frank Baum os sapatos eram de prata. Segundo a Biblioteca do Congresso, terão sido mudados para rubi no filme da MGM de 1939 para tirar partido da fotografia a cores."
+      "explanation": "Prateados: no romance de L. Frank Baum os sapatos eram de prata. Segundo a Biblioteca do Congresso, terão sido mudados para rubi no filme da MGM de 1939 para tirar partido da fotografia a cores."
     }
   },
   "correct": 0,
-  "difficulty": 2,
+  "difficulty": 3,
   "valid_until": null,
   "daily_eligible": true,
   "sources": [
@@ -56,7 +56,13 @@
       "data": "2026-11-18",
       "notas": "A LOC diz «originally silver in Baum's book» e «purportedly changed to ruby». O Smithsonian confirma que no livro e no guião original os sapatos são de prata e que foram mudados antes das filmagens por causa do Technicolor. A dúvida («terão sido») está atribuída à Biblioteca do Congresso, o que a regra permite. Não encontrei fonte que apoie verde, dourado ou azul para o livro. Não consegui derrubar a pergunta. | páginas lidas pelo advogado: https://www.loc.gov/exhibits/oz/ozsect2.html, https://www.smithsonianmag.com/smithsonian-institution/without-camera-emerald-city-would-have-been-color-mud-180961463/"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado e opções intactos. Explicação passa a começar pela resposta; mantive a atribuição à Biblioteca do Congresso e o «terão sido» da fonte. Dificuldade subida de 2 para 3: o filme é conhecido, mas a cor original do livro não é do domínio geral.",
+      "data": "2026-11-18"
+    }
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -97,6 +103,12 @@
       "data": "2026-11-18",
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
       "nota": ""
     }
   ],

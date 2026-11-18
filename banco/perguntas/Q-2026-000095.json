@@ -11,7 +11,7 @@
         "Desafina de propósito o seu instrumento",
         "Fecha a partitura e deixa-a na cadeira"
       ],
-      "explanation": "Na Sinfonia n.º 45 (1772), os músicos apagavam a vela e saíam, até restarem dois violinos. Segundo o LSO, era um recado ao príncipe Nikolaus Esterházy: a temporada de verão tinha acabado e era hora de regressar a Viena."
+      "explanation": "Apaga a vela da estante e sai. Na Sinfonia n.º 45 (1772), isto repete-se até restarem dois violinos; segundo o LSO, era um recado ao príncipe Nikolaus Esterházy: a temporada de verão tinha acabado e era hora de regressar a Viena."
     }
   },
   "correct": 0,
@@ -61,8 +61,18 @@
       "notas": "Li a Classic FM (nível 2, revista/rádio especializada), que confirma que cada músico apaga a vela da sua estante e sai. A pesquisa mostrou o mesmo noutras páginas (orquestras, universidades), mas só abri esta. Não encontrei fonte de nível 1 aberta e lida, daí a confiança média. Desafinar, fechar a partitura e vénia não aparecem em nenhuma fonte como o gesto. Nota: a tradição também diz que os músicos levam a partitura ou o instrumento ao sair, mas o gesto distintivo antes de sair é apagar a vela. O episódio é uma tradição, não está documentado de forma contemporânea, segundo uma página da pesquisa.",
       "hash_texto": "b7b957c98c8dac2ac0b021afba4cc945e875f15c040ba939f10927f378fe087a"
     },
-    "advogado": null,
-    "editor": null
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "O LSO diz «blowing out their candles», «a heavy hint to the Prince that the summer season was over» e «return to Vienna», em novembro de 1772. O Classic FM diz «extinguish the candle on their music stand ... until only a pair of violins remain». O LA Phil confirma 1772 e as duas últimas, violinos. Nenhuma fonte apoia os outros gestos: vénia, desafinar, fechar a partitura. O LSO refere que arrumam os instrumentos, o que não faz da opção da partitura uma resposta certa. A atribuição ao LSO está correta. Não derrubei. | páginas lidas pelo advogado: https://www.lso.co.uk/explore/what-you-should-know-about-joseph-haydn/, https://www.classicfm.com/composers/haydn/pictures/haydn-facts-great-composer/haydn-farewell-symphony/, https://www.laphil.com/works/symphony-no-45-farewell"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado e opções intactos. Explicação começa pela resposta, em 2 frases; atribuição ao LSO mantida. Dificuldade e subtema confirmados.",
+      "data": "2026-11-18"
+    }
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -98,6 +108,18 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte classicfm.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
     }
   ],
   "etiquetas": []

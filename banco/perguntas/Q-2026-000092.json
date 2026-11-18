@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000092",
   "topic": "General Knowledge",
-  "subtopic": "arte e arquitetura",
+  "subtopic": "Torre Eiffel",
   "text": {
     "pt-PT": {
       "question": "Dos 72 nomes de sábios que Gustave Eiffel escolheu para a sua torre, quantos são de mulheres?",
@@ -11,7 +11,7 @@
         "Seis",
         "Nenhuma"
       ],
-      "explanation": "Os 72 nomes escolhidos por Eiffel para a torre são todos de homens, segundo o CNRS. Em janeiro de 2026, a Cidade de Paris divulgou uma lista provisória de 72 mulheres cientistas, ainda sujeita a parecer das Academias."
+      "explanation": "Nenhuma: os 72 nomes que Eiffel escolheu para a torre são todos de homens, segundo o CNRS. Em janeiro de 2026, a Cidade de Paris divulgou uma lista provisória de 72 mulheres cientistas, ainda sujeita a parecer das Academias."
     }
   },
   "correct": 3,
@@ -61,8 +61,18 @@
       "notas": "Confirmado por duas fontes abertas e lidas: Muséum de Toulouse (museu público) e IGBMC (instituto de investigação: 'the names of 72 French scholars, all men, engraved in gold letters around its first level'). Seis, Uma e Três ficam excluídas (zero mulheres). O site oficial toureiffel.paris, que a pesquisa resumiu como dizendo o mesmo, devolveu 403 ao leitor, por isso não o li. O projeto de 2026 para acrescentar 72 nomes de mulheres é posterior e não altera a lista original de Eiffel (as inscrições novas estão previstas para o início de 2027).",
       "hash_texto": "855f0f2f6039de05304a37858e392b3d947d83e10cd7f29586e6cdf5a7efd823"
     },
-    "advogado": null,
-    "editor": null
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "O CNRS (n1) diz que os 72 nomes na 1.ª plataforma são de 72 «male scientists» escolhidos pelo próprio Eiffel. O paris.fr (n1, atualizado a 28/01/2026) confirma a lista de 72 mulheres a submeter às Academias para parecer. A data de janeiro de 2026 está no texto, por isso o estado «provisória» não fica desatualizado. A fonte do verificador (Toulouse Métropole) diz «aucune femme». Tentei derrubar com a lista de 72 mulheres como segunda resposta e não é nenhuma das opções. Não encontrei segunda resposta defensável. | páginas lidas pelo advogado: https://www.cnrs.fr/en/update/women-scientists-be-showcased-eiffel-tower-soon, https://www.paris.fr/pages/bientot-des-noms-de-femmes-scientifiques-sur-la-tour-eiffel-30620"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado e opções intactos. Explicação começa pela resposta; conteúdo igual. Subtema afinado de «arte e arquitetura» para «Torre Eiffel».",
+      "data": "2026-11-18"
+    }
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -98,6 +108,18 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte toulouse-metropole.fr"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
     }
   ],
   "etiquetas": []

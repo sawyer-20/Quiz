@@ -86,9 +86,15 @@
     "tradutor": {
       "data": "2026-11-18",
       "notas": "Correta = índice 3. «divulgada em 2010» traduzido por «reported in 2010». «peixes-limpadores» = cleaner fish."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Atribuição a Grutter, ano 2010 e opções equivalentes. A opção certa é a mais longa e específica nos dois idiomas, por isso não é uma pista só de um idioma.",
+      "data": "2026-11-18",
+      "hash_texto": "7a6b9014455741a44a9c654ca03d6391ad5903f1ee8d82752f130c300af9cea9"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-18",
@@ -134,7 +140,20 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Correta = índice 3. «divulgada em 2010» traduzido por «reported in 2010». «peixes-limpadores» = cleaner fish."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "cc8edaa8335f1af7fa3fffeee95fca27e1bdbc9cf292688e981d068e9a90ca89"
 }

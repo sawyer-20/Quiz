@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000098",
   "topic": "Football",
-  "subtopic": "Mundiais",
+  "subtopic": "Mundial de 1966",
   "text": {
     "pt-PT": {
       "question": "Em 1966, o troféu do Mundial foi roubado numa exposição em Londres. Quem o encontrou, embrulhado em jornal, uma semana depois?",
@@ -11,11 +11,11 @@
         "Um cão chamado Pickles, a passear com o dono",
         "Um agente da Scotland Yard"
       ],
-      "explanation": "Pickles farejou o embrulho em jornal atado com cordel a 27 de março de 1966, uma semana depois do roubo de 20 de março; o dono, David Corbett, avisou depois a polícia."
+      "explanation": "Foi um cão chamado Pickles, que farejou o embrulho em jornal atado com cordel a 27 de março de 1966, uma semana depois do roubo de 20 de março. O dono, David Corbett, avisou depois a polícia."
     }
   },
   "correct": 2,
-  "difficulty": 2,
+  "difficulty": 3,
   "valid_until": null,
   "daily_eligible": true,
   "sources": [
@@ -76,7 +76,13 @@
       "data": "2026-11-18",
       "notas": "Abri as duas fontes. O history.co.uk diz que o troféu foi roubado a 20 de março de 1966 e encontrado a 27 de março, por Pickles, que farejava um embrulho em jornal atado com cordel (\"newspaper and tied with string\"). Diz também que Corbett levou o embrulho para casa e só depois contactou a polícia. O Deseret News diz que o roubo foi \"the next day\" depois de 19 de março, que o troféu foi encontrado \"a week after its theft\" e que Corbett o devolveu à polícia. As duas fontes concordam nas datas e no dono. O 'Scotland Yard' do distrator é falso: a própria fonte diz que a resolução não veio da polícia. Não há segunda resposta defensável. O troféu foi encontrado por Pickles, a passear com o dono, e não por segurança, jornalista ou polícia. O 'Daily Mirror' só aparece no Deseret como autor de uma notícia de 2018 sobre o ladrão, sem relação com o achado. A explicação tem 2 frases e menos de 300 caracteres, sem linguagem de dúvida. Não consegui derrubar. | páginas lidas pelo advogado: https://www.history.co.uk/articles/pickles-the-dog-world-cup, https://www.deseret.com/sports/2026/06/22/how-pickles-the-dog-saved-the-fifa-world-cup-60-years-ago/"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado e opções intactos. Explicação reorganizada para começar pela resposta, em 2 frases (cerca de 195 caracteres). Dificuldade subida de 2 para 3: o episódio é conhecido, mas o público geral não acerta de forma quase unânime. Subtema afinado de «Mundiais» para «Mundial de 1966».",
+      "data": "2026-11-18"
+    }
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -117,6 +123,12 @@
       "data": "2026-11-18",
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
       "nota": ""
     }
   ],

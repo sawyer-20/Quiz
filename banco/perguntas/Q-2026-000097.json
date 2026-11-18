@@ -11,11 +11,11 @@
         "Balança de watt",
         "Balança de ampere"
       ],
-      "explanation": "Chamava-se balança de watt porque mede corrente e tensão na bobina, cujo produto se exprime em watts. Foi concebida por Bryan Kibble no NPL (1975, segundo o NIST) e hoje tem o nome do inventor."
+      "explanation": "Balança de watt: chamava-se assim porque mede corrente e tensão na bobina, cujo produto se exprime em watts. Foi concebida por Bryan Kibble no NPL (1975, segundo o NIST) e hoje tem o nome do inventor."
     }
   },
   "correct": 2,
-  "difficulty": 3,
+  "difficulty": 4,
   "valid_until": null,
   "daily_eligible": true,
   "sources": [
@@ -60,8 +60,18 @@
       "notas": "O BIPM (organismo intergovernamental, nível 1) diz que as «watt balances» passaram a chamar-se «Kibble balances» em homenagem a Bryan Kibble. Balança de Planck, de ampere e de joule não são o nome anterior segundo a fonte. A fonte BIPM não é a NIST nem a de Schlamminger e El Haddad. Não abri uma segunda fonte, mas a pesquisa também mostrou o NPL e a Wikipédia a dizer o mesmo.",
       "hash_texto": "6885fc19173c2302ab9585a3b578c37af1a4760fcd12d35b2306c6816289bd18"
     },
-    "advogado": null,
-    "editor": null
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "O NIST (n1) diz «originally called a watt balance because it makes measurements of both current and voltage ... expressed in watts» e que Kibble a concebeu no NPL em 1975. O BIPM (n1) diz que a comunidade metrológica renomeou as watt balances como Kibble balances. O BIPM não tem o ano 1975. Encontrei uma segunda fonte para o ano: o artigo da Metrologia (Robinson e Schlamminger, em PDF alojado em ifsc.usp.br) diz «invented at the NPL by Bryan Kibble in 1975». O ano tem assim duas fontes e a atribuição ao NIST está correta. Sugiro acrescentar essa fonte ao campo sources, se o orquestrador a quiser. «Balança de joule» e «de ampere» são instrumentos distintos (a balança de corrente/ampere é a que a balança de watt pretendia substituir) e não foram nomes da balança de Kibble. Não derrubei. | páginas lidas pelo advogado: https://www.nist.gov/si-redefinition/kilogram/kilogram-kibble-balance, https://www.bipm.org/en/mass-metrology/kibble-balance, https://ifsc.usp.br/lavfis/wp-content/uploads/2023/01/The-watt-or-Kibble-balance-a-technique-for-implementing-the-new-SI-definition-of-the-unit-of-mass.pdf"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado e opções intactos. Explicação começa pela resposta; conteúdo igual. Dificuldade subida de 3 para 4: tema de nicho, e um público culto acertaria bem menos de metade. Subtema confirmado.",
+      "data": "2026-11-18"
+    }
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -97,6 +107,18 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte bipm.org"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
     }
   ],
   "etiquetas": []

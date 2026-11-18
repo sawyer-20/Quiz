@@ -85,9 +85,15 @@
     "tradutor": {
       "data": "2026-11-18",
       "notas": "Correta = índice 3. O ACMI escreve «colour restraint» (grafia britânica); no en-US usei «color restraint» dentro das aspas, como grafia americana do mesmo termo. Aspas de «não naturais e desastrosos» traduzidas como \"unnatural and disastrous\" (tradução do pt-PT, não citação literal confirmada)."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Atribuição ao ACMI, citações e opções equivalentes uma a uma. Sem pistas novas.",
+      "data": "2026-11-18",
+      "hash_texto": "fbfc9732999d108c491b168a2f6f69b8d33dd5e14dfc8fb5da4dd98583abf732"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-18",
@@ -133,7 +139,20 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Correta = índice 3. O ACMI escreve «colour restraint» (grafia britânica); no en-US usei «color restraint» dentro das aspas, como grafia americana do mesmo termo. Aspas de «não naturais e desastrosos» traduzidas como \"unnatural and disastrous\" (tradução do pt-PT, não citação literal confirmada)."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "f7d3d9d6f95a9e054054ab7b3ab6c948595f3887059b3b5378293e28448dbbf3"
 }

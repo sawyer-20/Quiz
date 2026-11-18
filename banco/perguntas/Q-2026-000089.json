@@ -11,7 +11,7 @@
         "Tigre",
         "Rato"
       ],
-      "explanation": "No estudo de 2005 (PLoS Genetics), o tigre e a chita mostraram a mesma deleção de 247 pares de bases no Tas1r2 do gato. Segundo o estudo, o cão, o ser humano, o rato e a ratazana têm sabor doce funcional."
+      "explanation": "O tigre. No estudo de 2005 (PLoS Genetics), o tigre e a chita mostraram a mesma deleção de 247 pares de bases no Tas1r2 do gato. Segundo o estudo, o cão, o ser humano, o rato e a ratazana têm sabor doce funcional."
     }
   },
   "correct": 2,
@@ -66,7 +66,13 @@
       "data": "2026-11-18",
       "notas": "O estudo de 2005 (PLoS Genetics) mostra a mesma deleção de 247 pb no Tas1r2 do tigre e da chita, além do gato. Diz também que cão, ser humano, rato e ratazana têm sabor doce funcional, por isso os três distratores são claramente errados. A chita não aparece nas opções, logo não há segunda resposta. O OMIA confirma de forma independente. Não consegui derrubar a pergunta. | páginas lidas pelo advogado: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0010003, https://omia.org/OMIA001617/9685/"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado e opções intactos. Explicação passa a começar pela resposta curta, sem alterar números nem atribuição. Dificuldade mantida: o tigre é o felino óbvio entre as opções. Subtema mantido.",
+      "data": "2026-11-18"
+    }
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -107,6 +113,12 @@
       "data": "2026-11-18",
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
       "nota": ""
     }
   ],

@@ -11,7 +11,7 @@
         "Abandonaram o pátio e construíram outro noutro local",
         "Aceitaram a nova ordem e deixaram de a alterar"
       ],
-      "explanation": "Os machos dispõem os objetos do pátio com tamanho crescente a partir da entrada do corredor, o que cria perspetiva forçada para a fêmea. Depois de os investigadores inverterem o gradiente (Current Biology, 2010), os machos recuperaram-no em três dias."
+      "explanation": "Restabeleceram o gradiente original em três dias (Current Biology, 2010). Os machos dispõem os objetos do pátio com tamanho crescente a partir da entrada do corredor, o que cria perspetiva forçada para a fêmea."
     }
   },
   "correct": 0,
@@ -66,7 +66,13 @@
       "data": "2026-11-18",
       "notas": "A página da JCU confirma os autores (Endler, Endler e Doerr), a Current Biology, o ano de 2010 e o resumo. O resumo diz que os objetos aumentam de tamanho com a distância à entrada do corredor, que isso cria perspetiva forçada para a audiência e que, após a inversão experimental, os machos recuperaram o gradiente em 3 dias. O PMC confirma os 3 dias para gradientes piorados por reorganização dos objetos. A passagem do PMC sobre a substituição completa demorar mais de 3 dias é de outra experiência (limpeza total do pátio) e não contradiz a pergunta. Não consegui derrubar a pergunta. | páginas lidas pelo advogado: https://researchonline.jcu.edu.au/16872/, https://pmc.ncbi.nlm.nih.gov/articles/PMC5319334/"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado e opções intactos (o enunciado tem cerca de 170 caracteres, acima do alvo de 120, mas não o encurtei por já estar verificado). Explicação reordenada para começar pela resposta, com a atribuição mantida. Dificuldade e subtema mantidos.",
+      "data": "2026-11-18"
+    }
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -107,6 +113,12 @@
       "data": "2026-11-18",
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
       "nota": ""
     }
   ],

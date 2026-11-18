@@ -95,9 +95,15 @@
     "tradutor": {
       "data": "2026-11-18",
       "notas": "Datas no formato americano (August 20, 1977; September 5). 'chegou antes' traduzido como 'reached ... first'."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Datas (20 de agosto e 5 de setembro de 1977) e ordem de chegada iguais nos dois idiomas. Opções idênticas, mesma ordem. Explicação com 2 frases.",
+      "data": "2026-11-18",
+      "hash_texto": "cf5314ac52e91d03df8a865237d30e03519d5788f46a54c6d6313d387a0a08ed"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-12",
@@ -155,7 +161,20 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Datas no formato americano (August 20, 1977; September 5). 'chegou antes' traduzido como 'reached ... first'."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "e2ef3224f81beeb7b8f189083f92735402a09f49ffb0928b65c752346de9d4df"
 }

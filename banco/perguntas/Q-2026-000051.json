@@ -104,9 +104,15 @@
     "tradutor": {
       "data": "2026-11-18",
       "notas": "Correta = índice 3. «raios do rolo» traduzido por «spokes». «Academia» = the Academy (of Motion Picture Arts and Sciences), sem expandir o nome. «theater» em grafia americana."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Atribuição à Academia e lista dos cinco ramos equivalentes. «Óscares» está correto em pt-PT e «theater» em en-US.",
+      "data": "2026-11-18",
+      "hash_texto": "c2c2f212efbfe82cca38ce9e390f114e25e47a93b480a0eeaf47869aa6d4e53e"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-12",
@@ -182,7 +188,20 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Correta = índice 3. «raios do rolo» traduzido por «spokes». «Academia» = the Academy (of Motion Picture Arts and Sciences), sem expandir o nome. «theater» em grafia americana."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "58ab2fddb7e96a7860b2d34fb49f1e2afdc2f7e99574651355179b6fa683f659"
 }
