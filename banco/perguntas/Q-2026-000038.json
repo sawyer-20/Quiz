@@ -11,17 +11,7 @@
         "Um ponto",
         "Um pontapé de penalidade"
       ],
-      "explanation": "O direito a um «try at goal», uma tentativa de pontapé à baliza: nas leis de 1845 pousar a bola não dava pontos, só os golos marcavam. O ensaio só passou a valer pontos mais tarde, a partir de 1886."
-    },
-    "en-US": {
-      "question": "Under the 1845 laws of Rugby School, what did a team earn for grounding the ball beyond the goal line?",
-      "options": [
-        "The right to attempt a kick at goal",
-        "Two points",
-        "One point",
-        "A penalty kick"
-      ],
-      "explanation": "The right to a \"try at goal,\" a kick at the goal: under the 1845 laws, grounding the ball scored no points, and only goals counted. A try only became worth points later, starting in 1886."
+      "explanation": "O direito a um «try at goal», uma tentativa de pontapé à baliza: nas leis de 1845 pousar a bola não dava pontos, só os golos marcavam. O ensaio só passou a valer pontos mais tarde."
     }
   },
   "correct": 0,
@@ -53,15 +43,6 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://rugby365.com/laws-referees/news/scoring-down-the-years/",
-      "dominio": "rugby365.com",
-      "titulo": "Scoring down the years (Paul Dobson, Rugby365)",
-      "nivel": 2,
-      "excerto": "In the beginning there were no points in the game as played at Rugby School. The goal counted. Grounding the ball over the opponents' line gave you the opportunity to attempt (try) to improve (convert) the effort into a goal. The try did not count.",
-      "consultada_em": "2026-11-11",
-      "papel": "verificador"
-    },
-    {
       "url": "https://rugbyfootballhistory.com/scoring.htm",
       "dominio": "rugbyfootballhistory.com",
       "titulo": "Rugby Football History - scoring",
@@ -69,36 +50,25 @@
       "excerto": "In early rugby as played at rugby school, the only scores came from goals and there was no points value associated with scoring. The 1845 rules stated that ... a \"TRY at goal\" had to be earned by touching the ball down ... 1886 (accepted): ... a try one point.",
       "consultada_em": "2026-11-11",
       "papel": "advogado"
+    },
+    {
+      "url": "https://www.worldrugby.org/halloffame/inductees/704759",
+      "dominio": "worldrugby.org",
+      "titulo": "World Rugby Hall of Fame: William Webb Ellis",
+      "nivel": 1,
+      "excerto": "The first written 'football rules' were composed by three of its pupils in 1845 and printed in a small, pocket-sized book. This is where many of the words and phrases associated with the game, such as 'try', came to light.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "O direito a tentar um pontapé à baliza",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "rugby365.com",
-      "data": "2026-11-11",
-      "notas": "Rugby365 (n2). Texto das leis de 1845 (reprodução em PDF alojada em api.club.ffr.fr): regra v «Try at goal»; não diz explicitamente que o toque não valia pontos — a inferência vem do Rugby365. 1 ponto e 2 pontos surgem depois (1886, 1889). Sem nível 1; bathrugbyheritage 403."
-    },
-    "advogado": {
-      "aprovado": true,
-      "notas": "Advogado (2.ª passagem): rugbyfootballhistory.com e Rugby World concordam em 1886; sem contradição.",
-      "data": "2026-11-11"
-    },
+    "verificador": null,
+    "advogado": null,
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
       "notas": "estilo",
-      "data": "2026-11-11"
-    },
-    "tradutor": {
-      "data": "2026-11-11",
-      "notas": "linha de ensaio -> goal line; ensaio = try; «try at goal» kept from the original."
-    },
-    "conferente": {
-      "aprovado": true,
-      "notas": "2.ª passagem após correção de formato",
       "data": "2026-11-11"
     }
   },
@@ -196,6 +166,18 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reformulada",
+      "agente": "pesquisador",
+      "nota": "auditoria 18/11: lacuna de fonte na explicação; Li rugbyfootballhistory.com/scoring.htm (base especializada, nível 2). Confirma que em 1845 só os golos pontuavam e que o «try at goal» dava o direito ao pontapé. Diz também que antes de 1886 cada clu"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "fonte acrescentada pelo pesquisador (sem mudar o texto)",
+      "agente": "pesquisador",
+      "nota": "auditoria 18/11"
     }
   ],
   "options_lock": "c22fd1a81d50244f1990a0fe922885af2791844618ac27d76568a91d2e35d882"

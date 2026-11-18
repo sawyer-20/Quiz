@@ -52,12 +52,12 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://www.legislation.gov.uk/apgb/Geo2/24/23",
-      "titulo": "Calendar (New Style) Act 1750 (legislation.gov.uk)",
+      "url": "https://libguides.ctstatelibrary.org/hg/colonialresearch/calendar",
+      "dominio": "ctstatelibrary.org",
+      "titulo": "1752 Calendar Change - Colonial Records & Topics - Connecticut State Library",
       "nivel": 1,
-      "excerto": "the natural day next immediately following the said second day of September shall be called, reckoned, and accounted to be the fourteenth day of September, omitting for that time only the eleven intermediate nominal days of the common calendar",
-      "dominio": "legislation.gov.uk",
-      "consultada_em": "2026-11-05",
+      "excerto": "September 2, 1752 was followed by September 14, 1752 (drop of 11 days to conform to the Gregorian calendar)",
+      "consultada_em": "2026-11-18",
       "papel": "verificador"
     }
   ],
@@ -65,10 +65,11 @@
     "verificador": {
       "resposta_texto": "14 de setembro",
       "concorda": true,
-      "confianca": "alta",
-      "dominio": "legislation.gov.uk",
-      "data": "2026-11-05",
-      "notas": "Texto da lei: 2 de setembro seguido de 14; 11, 12 e 13 excluídos."
+      "confianca": "media",
+      "dominio": "ctstatelibrary.org",
+      "data": "2026-11-18",
+      "notas": "Li a página oficial de uma biblioteca estatal (nível 1/2): refere a mudança de 2 para 14 de setembro de 1752. Britannica e parliament.uk deram 403 e não os li. A pesquisa também indica a Calendar (New Style) Act 1750, mas só a li em resultados. 11 dias omitidos (3 a 13 de setembro) excluem 11, 12 e 13 de setembro. A página fala do calendário colonial americano, que seguiu a mesma lei britânica; a fonte original em si (a Act) não foi aberta.",
+      "hash_texto": "c1f1511d94a9ef4e74a3e830b6d8fae50a167ddd88d7a4977a839f8f7981ffc8"
     },
     "advogado": {
       "aprovado": true,
@@ -88,8 +89,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
+      "notas": "Datas, dias da semana, 11 dias suprimidos e atribuição à Escócia coincidem. Explicação com 2 frases e cerca de 265 caracteres no pt-PT, dentro do limite.",
+      "data": "2026-11-18",
+      "hash_texto": "c91c8fab597d84c67523b796bccc78114140a613b1ffd135019ea91872f6f4f5"
     }
   },
   "estado": "aprovada",
@@ -198,6 +200,18 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte ctstatelibrary.org"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "etiquetas": [

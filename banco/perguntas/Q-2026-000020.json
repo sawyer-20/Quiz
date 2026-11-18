@@ -98,8 +98,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "conferente: mesmo facto, mesma resposta, opções equivalentes",
-      "data": "2026-11-12"
+      "notas": "Citação, atribuição à Academia Sueca e opções equivalentes uma a uma. Sem pista gramatical: «obra» e «work» são neutros quanto às opções. Explicação com 2 frases.",
+      "data": "2026-11-18",
+      "hash_texto": "ae5246227af0ec567af71786d8ae607e606e6052da2ec7a0ae065464e29bd138"
     }
   },
   "estado": "aprovada",
@@ -226,6 +227,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "etiquetas": [

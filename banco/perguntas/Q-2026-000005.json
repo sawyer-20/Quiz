@@ -88,8 +88,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
+      "notas": "Equivalentes em tudo (70 m, nove painéis, linho, lã). Sem pista gramatical ou lexical só num idioma. Explicação com 2 frases.",
+      "data": "2026-11-18",
+      "hash_texto": "00b6a9a14a860feddd5034a5b36d9dd84e011bb2ce5580b0dafef40ab93257b5"
     }
   },
   "estado": "aprovada",
@@ -180,6 +181,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "etiquetas": [

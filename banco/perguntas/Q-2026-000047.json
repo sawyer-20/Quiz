@@ -91,8 +91,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
+      "notas": "A glosa «(hoarding)» no enunciado en-US é só um esclarecimento do termo e não indica a opção certa. A atribuição a Mário Barroca é igual nos dois idiomas. Regra 28 sem problemas.",
+      "data": "2026-11-18",
+      "hash_texto": "75477165ac4e99942fe6ecfe655f7c2fa303b65bc6d186d695db60c422369f7e"
     }
   },
   "estado": "aprovada",
@@ -171,6 +172,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "options_lock": "b31e9dfc58b01cfcfdafdcf51469b92bcd2b0e9bf9f291b1afff7f6d0de50382"

@@ -89,8 +89,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
+      "notas": "A atribuição a Michael E. Smith é a mesma nos dois idiomas. A repetição da palavra «sementes»/«seeds» na opção certa e na opção 1 existe igual nos dois idiomas, por isso não é pista nova. Fica como observação para o editor: milho e feijões também são sementes.",
+      "data": "2026-11-18",
+      "hash_texto": "aff2a34ad774d5b222ee0cc9446c8b648a0b931b39f4bd44af11231c8af61508"
     }
   },
   "estado": "aprovada",
@@ -163,6 +164,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "etiquetas": [

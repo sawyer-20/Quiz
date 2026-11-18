@@ -107,8 +107,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "conferente: equivalentes; reparo menor sobre a mistura de «O/Do/De» nas opções, sem reprovar",
-      "data": "2026-11-12"
+      "notas": "Mesma estrutura sintática das opções nos dois idiomas (0 e 2 nominais, 1 e 3 com preposição), por isso não há pista nova só num idioma. Perímetro e circumference são equivalentes. Opções com menos de 60 caracteres.",
+      "data": "2026-11-18",
+      "hash_texto": "44ab25145c07a6cfeaa65108896aea05d7b03dfe4f7cf7304670b84f57c90e2c"
     }
   },
   "estado": "aprovada",
@@ -259,6 +260,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "options_lock": "a8e6cecbbbbc990a07c02ba5c92cdad6eb5f7546d82b904021d07f65a774de7d"

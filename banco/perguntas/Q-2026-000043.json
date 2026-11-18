@@ -98,8 +98,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "conferente: mesmo facto, mesma resposta, opções equivalentes",
-      "data": "2026-11-12"
+      "notas": "A citação de Pessoa está traduzida com fidelidade. Pátria/Fatherland, Atlântida/Atlantis e Lusitânia/Lusitania são equivalentes. Regra 28: sem pista num só idioma.",
+      "data": "2026-11-18",
+      "hash_texto": "74a2d1894f3ba3e92e9f8d6b7797c77ba96a57d99a3a814c622fbedf8fe3f5f2"
     }
   },
   "estado": "aprovada",
@@ -232,6 +233,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "markets": [

@@ -92,8 +92,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
+      "notas": "Texto equivalente nos dois idiomas. Atribuição «Segundo a Universidade de Coimbra» e «According to the University of Coimbra» iguais. Concordância correta com «proteger de» nas quatro opções. Regra 28 sem problemas. Enunciado sem a palavra «morcegos».",
+      "data": "2026-11-18",
+      "hash_texto": "65249ae604d17719febae496e01f30b3bd049ee2147194de16588d5a78cb68de"
     }
   },
   "estado": "aprovada",
@@ -172,6 +173,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "options_lock": "f5c91ee6cd9d2d108637311266383802187be713815d7cd5dce071e2b437aa36"

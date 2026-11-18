@@ -101,8 +101,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
+      "notas": "A atribuição «Segundo o Governo português» e «According to the Portuguese government» coincidem. Opções equivalentes, sem pista de género ou número.",
+      "data": "2026-11-18",
+      "hash_texto": "96b559f79fe3677890c5c1110600151e40aa638da671bf27e694ab6644a73b55"
     }
   },
   "estado": "aprovada",
@@ -181,6 +182,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "options_lock": "b599a691e8aa0302c0f03ebf61f8d8c5bd0a1aa7c0e35451fa34b27a7aa91225"

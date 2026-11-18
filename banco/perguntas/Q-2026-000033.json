@@ -53,15 +53,6 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co60506/medieval-exchequer-tally-sticks",
-      "dominio": "sciencemuseumgroup.org.uk",
-      "titulo": "Medieval Exchequer Tally Sticks - Science Museum Group Collection",
-      "nivel": 1,
-      "excerto": "The stick would be split in half: the lender received 'the stock'... and the debtor the other half, called the 'foil'. ... a fire to burn a large amount of left behind sticks got out of control, resulting in burning down the Palace of Westminster on 16 October 1834.",
-      "consultada_em": "2026-11-11",
-      "papel": "verificador"
-    },
-    {
       "url": "https://historyofparliament.com/2013/10/16/the-fire-of-1834/",
       "dominio": "historyofparliament.com",
       "titulo": "Burning the House down: The Fire of 1834 (History of Parliament)",
@@ -69,16 +60,26 @@
       "excerto": "unsupervised and ill-advised burning of two large cartloads of wooden tally sticks (a form of medieval tax receipt created by the Exchequer ...) in the heating furnaces below [the House of Lords chamber]",
       "consultada_em": "2026-11-11",
       "papel": "advogado"
+    },
+    {
+      "url": "https://www.londonmuseum.org.uk/collections/v/object-372215/tallystick/",
+      "dominio": "londonmuseum.org.uk",
+      "titulo": "Tallystick | London Museum",
+      "nivel": 1,
+      "excerto": "Tally sticks were used as receipts for loans or other payments. Notches were cut into them recording the amount of money involved, and then the stick was split lengthways.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
     "verificador": {
       "resposta_texto": "Varas de madeira entalhadas e partidas ao meio",
       "concorda": true,
-      "confianca": "alta",
-      "dominio": "sciencemuseumgroup.org.uk",
-      "data": "2026-11-11",
-      "notas": "Museu confirma varas partidas ao meio (stock e foil) e o incêndio de 16/10/1834. A palavra «recibo» não vem explícita (fala em registo de dívida/pagamento)."
+      "confianca": "media",
+      "dominio": "londonmuseum.org.uk",
+      "data": "2026-11-18",
+      "notas": "Li o museu (nível 1) sobre o uso como recibo e a divisão ao meio. Li também chr.org.uk (nível 2/3, não primária), que descreve o salgueiro dividido em foil e stock e a ligação ao Tesouro (Exchequer), e a página de Fordham, que diz que em 1834 queimaram as tally sticks e o fogo destruiu o Palácio de Westminster (só via a pesquisa; a ligação caiu). A ligação direta ao incêndio de 1834 num nível 1 aberto: a página do parlamento.uk deu 403 e só a li no resultado de pesquisa; a de Fordham (universidade, nível 1) leu-se numa passagem inicial. Os rolos de pergaminho, as tábuas de cera e as fichas de chumbo não são o objeto do incêndio em nenhuma fonte. Atenção: o enunciado diz 'queimado em 1834' no singular; as fontes falam de duas carroças de varas.",
+      "hash_texto": "ab269f8e051e39ebfd234affb7f9e29e59f8f6e9c4f6f3d2fc68895796c0ce47"
     },
     "advogado": {
       "aprovado": true,
@@ -98,8 +99,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
+      "notas": "O facto (tallies, 1834, fornalhas sob a Câmara dos Lordes) é o mesmo nos dois textos. As quatro opções coincidem pela mesma ordem. As opções cabem em 60 caracteres e a explicação tem 2 frases. Não há pista gramatical nem lexical.",
+      "data": "2026-11-18",
+      "hash_texto": "522f6a05c8f241e27b6ae72995bd9f14b119fa0872afa276821939121cb2ce06"
     }
   },
   "estado": "aprovada",
@@ -166,6 +168,18 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte londonmuseum.org.uk"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "options_lock": "9c531e5095ba7acd9ef59b227432dd802c4480a4916fad47759ee9b402ad6c98"

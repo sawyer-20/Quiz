@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000012",
   "topic": "World History",
-  "subtopic": "Japão – período Edo e comércio com o Ocidente (Dejima)",
+  "subtopic": "Dejima e o Japão isolado",
   "text": {
     "pt-PT": {
       "question": "A ilha artificial de Dejima, em Nagasaki, foi construída na década de 1630 para confinar mercadores de que nacionalidade?",
@@ -11,7 +11,7 @@
         "Neerlandeses",
         "Chineses"
       ],
-      "explanation": "Portugueses: o xogunato começou a construir Dejima em 1634 para os confinar e travar o cristianismo. Em 1639 foram proibidos de vir ao Japão e, em 1641, a feitoria neerlandesa de Hirado mudou-se para a ilha, onde ficou mais de dois séculos."
+      "explanation": "Portugueses: o xogunato começou a construir Dejima em 1634 para os confinar e travar o cristianismo. Em 1639 foram proibidos de vir ao Japão e, em 1641, a feitoria neerlandesa de Hirado mudou-se para a ilha."
     },
     "en-US": {
       "question": "The artificial island of Dejima in Nagasaki was built in the 1630s to confine merchants of which nationality?",
@@ -21,7 +21,7 @@
         "Dutch",
         "Chinese"
       ],
-      "explanation": "Portuguese: the shogunate began building Dejima in 1634 to confine them and curb Christianity. In 1639 they were banned from Japan, and in 1641 the Dutch trading post at Hirado moved to the island, where it stayed for over two centuries."
+      "explanation": "Portuguese: the shogunate began building Dejima in 1634 to confine them and curb Christianity. In 1639 they were banned from Japan, and in 1641 the Dutch trading post at Hirado moved to the island."
     }
   },
   "correct": 1,
@@ -79,17 +79,18 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "explicação encurtada para 1–2 frases (migração v2); sem factos novos",
-      "data": "2026-11-11"
+      "notas": "Retirada só a cláusula «onde ficou mais de dois séculos». O resto da explicação fica igual e cabe na cronologia do site de Dejima (1634, 1639, 1641). Enunciado e opções intocados. Cerca de 205 caracteres, 2 frases.",
+      "data": "2026-11-18"
     },
     "tradutor": {
-      "data": "2026-11-11",
-      "notas": "xogunato = shogunate; neerlandeses = Dutch; feitoria = trading post."
+      "data": "2026-11-18",
+      "notas": "Pergunta e opções mantidas exatamente como estavam. Explicação: retirada a cláusula final 'where it stayed for over two centuries', que o novo pt-PT já não tem. 197 caracteres, 2 frases."
     },
     "conferente": {
       "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
+      "notas": "As datas (1630s, 1634, 1639, 1641) coincidem. As quatro nacionalidades correspondem uma a uma pela mesma ordem. O plural masculino de «mercadores» concorda com todas as opções. Regra 28 sem problemas.",
+      "data": "2026-11-18",
+      "hash_texto": "bc62d9524bb17e1ccda841667dbb6203f8fa22d96a0f58fa03be85a446de558a"
     }
   },
   "estado": "aprovada",
@@ -186,6 +187,24 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Pergunta e opções mantidas exatamente como estavam. Explicação: retirada a cláusula final 'where it stayed for over two centuries', que o novo pt-PT já não tem. 197 caracteres, 2 frases."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "etiquetas": [

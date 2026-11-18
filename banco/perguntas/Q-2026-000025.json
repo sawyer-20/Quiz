@@ -101,8 +101,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
+      "notas": "A atribuição a Beatriz Peralta García, o op. 23 e a tonalidade são iguais nos dois idiomas. As quatro opções coincidem uma a uma. Não há pista gramatical.",
+      "data": "2026-11-18",
+      "hash_texto": "f97287d83083feaccf389c7f1dfaf7ec1f41cf173e19f480ff7a89edf1a43bff"
     }
   },
   "estado": "aprovada",
@@ -175,6 +176,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "options_lock": "f4a8a2375b13e910a0518e895fd9cb54a0510dae8ccc13e7e2ca6b5e22a9dfa1"

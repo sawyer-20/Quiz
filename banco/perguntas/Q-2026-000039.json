@@ -107,8 +107,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "2.ª passagem após correção de formato",
-      "data": "2026-11-11"
+      "notas": "Mesmos números (1:53,28; 47,99), datas e nomes. Enquadramento «até ao fim de 2025» e «as of the end of 2025» equivalente. Grafia americana («meters»). Regra 28: sem pista.",
+      "data": "2026-11-18",
+      "hash_texto": "31fb740fa5a36337656ba5d81863b7641d9cd550685e9d26ed25fbe26727306d"
     }
   },
   "estado": "aprovada",
@@ -205,6 +206,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "etiquetas": [

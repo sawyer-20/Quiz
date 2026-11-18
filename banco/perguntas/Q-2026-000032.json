@@ -107,8 +107,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
+      "notas": "Os 350 000 ducados, as 20 léguas e D. João III / John III coincidem. A omissão de «raio» no en-US («within 20 leagues») não muda o sentido. «Que obra nova» está no singular e as opções estão no plural, por isso não há pista de concordância. As quatro opções coincidem uma a uma.",
+      "data": "2026-11-18",
+      "hash_texto": "1976db713392defa89ed2a467ce52d64003b89dcdc003773380281841899288e"
     }
   },
   "estado": "aprovada",
@@ -193,6 +194,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "options_lock": "87de65eca8ae5d01af8ba57f35a276cd97060c3539dd6eb25ed3897cc3bb2d66"

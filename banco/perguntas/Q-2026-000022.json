@@ -22,7 +22,7 @@
         "Copper engraving",
         "Tapestry",
         "Oil on canvas",
-        "Azulejo (glazed tile)"
+        "Azulejo"
       ],
       "explanation": "Azulejo: a painted blue-on-white tile panel attributed to Gabriel del Barco and kept at the National Tile Museum. It shows Lisbon before 1755, with the Belém Tower and the Jerónimos Monastery among its buildings."
     }
@@ -87,16 +87,11 @@
       "data": "2026-11-11"
     },
     "tradutor": {
-      "data": "2026-11-11",
-      "notas": "Tejo -> Tagus; Museu Nacional do Azulejo -> National Tile Museum; azulejo kept with a gloss in the option."
-    },
-    "conferente": {
-      "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
+      "data": "2026-11-18",
+      "notas": "Opção certa agora sem glosa («Azulejo»), igual ao pt-PT e em forma às outras três. A explicação mantém «tile panel», que esclarece o termo. Resto do texto inalterado. Pergunta com 125 caracteres (acima do alvo de 120, abaixo do máximo de 200)."
     }
   },
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-06-misto",
   "criada_em": "2026-11-10",
@@ -172,7 +167,24 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"opção 3\", \"idioma\": \"en-US\", \"detalhe\": \"A opção certa tem a glosa «Azulejo (glazed tile)», que as outras três não têm e que o pt-PT também não tem («Azulejo»). Destaca a opção certa só em en-US, o que é uma pista nova (regra 3 e regra 28). As opções deixam de ser equivalentes em forma. Uma opção não pode ter glosa a menos que as outras também tenham.\"}]"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "devolvida a em_verificacao",
+      "agente": "orquestrador",
+      "nota": "conferente (auditoria) recusou a opção certa en-US «Azulejo (glazed tile)» (glosa só na certa); a opção volta ao tradutor"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Opção certa agora sem glosa («Azulejo»), igual ao pt-PT e em forma às outras três. A explicação mantém «tile panel», que esclarece o termo. Resto do texto inalterado. Pergunta com 125 caracteres (acima do alvo de 120, abaixo do máximo de 200)."
     }
-  ],
-  "options_lock": "8938b800128ffbc5d8f04893c1ad12724664ed2e96532172b27851dadeb54a8d"
+  ]
 }

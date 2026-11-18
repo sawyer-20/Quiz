@@ -93,8 +93,8 @@
       "hash_texto": "151091e8aab78c148f2291de7ee03a0f06861dc3727d06f2f843d3b90a164c0a"
     }
   },
-  "estado": "aprovada",
-  "motivo_rejeicao": null,
+  "estado": "suspensa",
+  "motivo_rejeicao": "decisão do Andre (18/11): sem segunda fonte independente do festival que ligue a Palma de Ouro ao brasão; suspensa, não rejeitada",
   "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-18",
   "historico": [
@@ -169,6 +169,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "suspensa",
+      "agente": "orquestrador",
+      "nota": "decisão do Andre (18/11): sem segunda fonte independente do festival que ligue a Palma de Ouro ao brasão; suspensa, não rejeitada"
     }
   ],
   "etiquetas": [],

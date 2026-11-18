@@ -110,8 +110,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "conferente: mesmo facto, mesma resposta, opções equivalentes",
-      "data": "2026-11-12"
+      "notas": "A atribuição à IUGS, os 2,4 km² e as datas coincidem. A opção «Praticamente toda» concorda em género com «fração» e «área», mas só numa opção errada, por isso não dá pista.",
+      "data": "2026-11-18",
+      "hash_texto": "9484f92647d8e5ec5b86ae29957caefdccf9a2875035154d4142c5d4eaa5c48f"
     }
   },
   "estado": "aprovada",
@@ -256,6 +257,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "options_lock": "cffff9be62fbb2618828da97e68621373e88246abd6fe570ec449e502101591a"

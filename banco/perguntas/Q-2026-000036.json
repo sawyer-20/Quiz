@@ -98,8 +98,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
+      "notas": "Efeito Leidenfrost: facto, explicação (2 frases) e opções equivalentes uma a uma. Regra 28: sem pista de género ou número num só idioma.",
+      "data": "2026-11-18",
+      "hash_texto": "471067b7deea3b07b5bbec219dec74a5fee1424532ab46043d2018596e6485b3"
     }
   },
   "estado": "aprovada",
@@ -178,6 +179,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "options_lock": "ed3ccbd9d1bfb953d8f6e598c9155e83f3f268c454edc21aaee00867fd4a0b58"

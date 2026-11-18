@@ -110,8 +110,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
+      "notas": "Equivalentes. Opções iguais (nomes próprios) e concordância feminina sem pista. Explicação com 2 frases nos dois idiomas. Números iguais (1993 m e 2351 m).",
+      "data": "2026-11-18",
+      "hash_texto": "678b7ca1ca29a1f0a860d561bf541dc1289b36d300104b9deba3b9959e1c4411"
     }
   },
   "estado": "aprovada",
@@ -190,6 +191,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "etiquetas": [

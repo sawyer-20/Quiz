@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000019",
   "topic": "Movies",
-  "subtopic": "Cinemateca Portuguesa – incêndio de 1981",
+  "subtopic": "Cinemateca Portuguesa",
   "markets": [
     "pt"
   ],
@@ -14,7 +14,7 @@
         "Uma falha no sistema de aquecimento da sala",
         "A combustão de um rolo de filme em nitrato de celulose"
       ],
-      "explanation": "A combustão de um rolo de filme em nitrato de celulose, na cabine de projeção, propagou-se à sala, que ficou totalmente destruída. O nitrato, suporte do filme, é frágil e inflamável."
+      "explanation": "A combustão de um rolo de filme em nitrato de celulose provocou o incêndio que destruiu totalmente a sala de cinema da Cinemateca."
     },
     "en-US": {
       "question": "What caused the 1981 fire that destroyed the screening room of the Portuguese Cinematheque in Lisbon?",
@@ -24,11 +24,11 @@
         "A fault in the room's heating system",
         "Combustion of a reel of cellulose nitrate film"
       ],
-      "explanation": "Combustion of a reel of cellulose nitrate film in the projection booth spread to the screening room, which was totally destroyed. Nitrate, a film base, is fragile and flammable."
+      "explanation": "Combustion of a reel of cellulose nitrate film caused the fire that totally destroyed the Cinematheque's screening room."
     }
   },
   "correct": 3,
-  "difficulty": 2,
+  "difficulty": 4,
   "valid_until": null,
   "daily_eligible": true,
   "sources": [
@@ -101,17 +101,18 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "explicação encurtada para 1–2 frases (migração v2); sem factos novos",
-      "data": "2026-11-11"
+      "notas": "Retiradas «na cabine de projeção» e «frágil e inflamável». O que fica (combustão do rolo em nitrato de celulose, destruição total da sala) vem da página da Cinemateca. Não acrescentei data nem pormenores. Enunciado e opções intocados, mesma ordem. Uma só frase, cerca de 130 caracteres. Dificuldade subida de 3 para 4 por ser um facto muito específico, estimada a olho e sem dados de respostas.",
+      "data": "2026-11-18"
     },
     "tradutor": {
-      "data": "2026-11-11",
-      "notas": "Cinemateca Portuguesa -> Portuguese Cinematheque; cabine de projeção = projection booth."
+      "data": "2026-11-18",
+      "notas": "Pergunta e opções mantidas exatamente como estavam. Explicação: retiradas as cláusulas sobre a cabine de projeção e a fragilidade do nitrato, que o novo pt-PT já não tem. 1 frase, 121 caracteres."
     },
     "conferente": {
       "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
+      "notas": "A opção certa é a mais específica nos dois idiomas, por isso não há pista só num deles. «Sala de cinema» e «screening room» equivalem-se. Regra 28 sem problemas.",
+      "data": "2026-11-18",
+      "hash_texto": "07a68754f3127db7098a434de2c58f25e9f0f056ae5f40623098697f8c233a3a"
     }
   },
   "estado": "aprovada",
@@ -202,6 +203,24 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Pergunta e opções mantidas exatamente como estavam. Explicação: retiradas as cláusulas sobre a cabine de projeção e a fragilidade do nitrato, que o novo pt-PT já não tem. 1 frase, 121 caracteres."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "options_lock": "af022b4bd52f8ff9a1450edd2900cbe079279793944c8a145550e6e7651f6938"

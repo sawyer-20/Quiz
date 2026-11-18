@@ -98,8 +98,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
+      "notas": "Equivalentes. As formas «espetro» e «detetado» seguem o Acordo de 1990 e estão em pt-PT. A concordância «Na/No» não dá pista, porque cada opção tem o seu artigo nos dois idiomas. Explicação com 2 frases.",
+      "data": "2026-11-18",
+      "hash_texto": "9db63dd6c00a3e4186f612d9e2319d952bc435079d2a45dd6e98a467c497fd55"
     }
   },
   "estado": "aprovada",
@@ -184,6 +185,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "etiquetas": [
