@@ -85,9 +85,15 @@
     "tradutor": {
       "data": "2026-11-18",
       "notas": "Corrigido: aspas retas duplas no lema latino."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "A atribuição ao Festival de Cannes, o lema latino e as quatro opções coincidem. Há uma pista lexical (Cannes aparece na pergunta e na opção certa), mas existe nos dois idiomas e não é nova. Pontuação americana correta.",
+      "data": "2026-11-18",
+      "hash_texto": "151091e8aab78c148f2291de7ee03a0f06861dc3727d06f2f843d3b90a164c0a"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-18",
@@ -151,7 +157,20 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Corrigido: aspas retas duplas no lema latino."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "a44f3e96d6aaa62476c65c3891a23cf3a8ee5dcf596f73ba78de82793db49dbc"
 }

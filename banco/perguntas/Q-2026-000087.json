@@ -76,9 +76,15 @@
     "tradutor": {
       "data": "2026-11-18",
       "notas": "Corrigido: título da obra dado na pergunta, sem o nome do autor; «turned red»; «color photography». Baum só na explicação, como no pt-PT. Título em inglês corrente (The Wonderful Wizard of Oz)."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "A atribuição à Biblioteca do Congresso e a cautela («terão sido»/«reportedly») coincidem. Opções equivalentes uma a uma. O título do livro é «O Feiticeiro de Oz» em pt e «The Wonderful Wizard of Oz» em en: é o título normal em cada língua, por isso não reprovei.",
+      "data": "2026-11-18",
+      "hash_texto": "a4cc6dd0acdb4b5fe519b881f9a517988c15bc41554431ec4cdd0386e63ed447"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-18",
@@ -142,9 +148,22 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Corrigido: título da obra dado na pergunta, sem o nome do autor; «turned red»; «color photography». Baum só na explicação, como no pt-PT. Título em inglês corrente (The Wonderful Wizard of Oz)."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": [
     "classico"
-  ]
+  ],
+  "options_lock": "fc9c7973ffa7c9665a18b10be152b6e5fc69bc440df99a4a684930749b91b86a"
 }

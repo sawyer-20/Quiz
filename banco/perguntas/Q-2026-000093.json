@@ -86,9 +86,15 @@
     "tradutor": {
       "data": "2026-11-18",
       "notas": "Corrigido: aspas retas duplas em vez de angulares. Atribuições a Treccani e ao repositório de Oxford mantidas."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "As atribuições (Treccani, repositório da Universidade de Oxford), a data de 1202, a variante «zephirum» e as quatro opções coincidem, na mesma ordem. Pontuação americana correta.",
+      "data": "2026-11-18",
+      "hash_texto": "596da91d524a522164a526c2b106a2c024038091380df1ef6621ed87dac7ac00"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-18",
@@ -152,7 +158,20 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Corrigido: aspas retas duplas em vez de angulares. Atribuições a Treccani e ao repositório de Oxford mantidas."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "2401e49977e3ef7b581d16e232081023e48623b9c79ea41b12e9ee82af36b034"
 }

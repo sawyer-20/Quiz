@@ -86,6 +86,11 @@
     "tradutor": {
       "data": "2026-11-18",
       "notas": "Corrigido: «scholars» (sábios), «how many are women?», «all men». A lista de 2026 mantém «women scientists», como o pt-PT («mulheres cientistas»)."
+    },
+    "conferente": {
+      "aprovado": false,
+      "notas": "O facto, os números (72), a atribuição ao CNRS e a cautela sobre a lista provisória coincidem nos dois idiomas. O único defeito é a concordância de género em pt-PT. Rejeito na dúvida.",
+      "data": "2026-11-18"
     }
   },
   "estado": "em_verificacao",
@@ -152,6 +157,12 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Corrigido: «scholars» (sábios), «how many are women?», «all men». A lista de 2026 mantém «women scientists», como o pt-PT («mulheres cientistas»)."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"pergunta\", \"idioma\": \"pt-PT\", \"detalhe\": \"«quantos são de mulheres?» pede o masculino (nomes), mas as opções 1 e 3 são «Uma» e «Nenhuma», no feminino. A concordância falha e as opções ficam incoerentes com o enunciado. O en-US não tem este problema, por isso o enunciado e as opções do pt-PT têm de ser acertados (por exemplo «Um» e «Nenhum») ou o enunciado reformulado. Qualquer mudança de opção obriga a repetir a verificação e o conferente.\"}]"
     }
   ],
   "etiquetas": []
