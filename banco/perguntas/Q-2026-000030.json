@@ -30,8 +30,8 @@
   "daily_eligible": true,
   "sources": [
     "https://periodicos.uff.br/cadernosdeletras/article/download/48994/29687",
-    "https://singapura.embaixadaportugal.mne.gov.pt/en/the-embassy/news/portugal-s-linguistic-legacy-in-southeast-asia,-by-jo%C3%A3o-oliveira-2",
-    "https://journal.uinjkt.ac.id/index.php/dialektika/article/download/31895/pdf"
+    "https://journal.uinjkt.ac.id/index.php/dialektika/article/download/31895/pdf",
+    "https://wold.clld.org/word/71261839880540842"
   ],
   "fontes": [
     {
@@ -207,6 +207,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte clld.org"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "`sources` sincronizado com `fontes` (fonte do verificador mudou na repetição com hash)"
     }
   ],
   "options_lock": "b414b3c71344b8e16d832e83796db66981b8f6f1951bd286c7bd0fae71ae23bd"

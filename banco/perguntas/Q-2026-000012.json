@@ -30,7 +30,7 @@
   "daily_eligible": true,
   "sources": [
     "https://nagasakidejima.jp/history/",
-    "https://www.mlit.go.jp/tagengo-db/common/001564006.pdf"
+    "https://www.japanistry.com/dejima/"
   ],
   "fontes": [
     {
@@ -212,6 +212,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte japanistry.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "`sources` sincronizado com `fontes` (fonte do verificador mudou na repetição com hash)"
     }
   ],
   "etiquetas": [

@@ -30,8 +30,8 @@
   "daily_eligible": true,
   "sources": [
     "https://arxiv.org/pdf/1202.2157",
-    "https://news.mit.edu/2021/boiling-droplets-oily-surface-0812",
-    "https://www.discovermagazine.com/what-makes-droplets-dance-around-a-hot-surface-and-then-fly-away-18503"
+    "https://www.discovermagazine.com/what-makes-droplets-dance-around-a-hot-surface-and-then-fly-away-18503",
+    "https://www.nature.com/articles/s41467-021-21981-z"
   ],
   "fontes": [
     {
@@ -192,6 +192,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte nature.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "`sources` sincronizado com `fontes` (fonte do verificador mudou na repetição com hash)"
     }
   ],
   "options_lock": "ed3ccbd9d1bfb953d8f6e598c9155e83f3f268c454edc21aaee00867fd4a0b58"

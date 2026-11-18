@@ -31,7 +31,7 @@
   "sources": [
     "https://exhibits.library.cornell.edu/chocolate-food-of-the-gods/feature/when-money-grew-on-trees",
     "https://news.asu.edu/content/asu-archaeologist-talks-aztec-currency-new-york-times",
-    "https://www.mexicolore.co.uk/maya/chocolate/beanz-meanz-money"
+    "https://pages.ucsd.edu/~dkjordan/cgi-bin/moreabout.pl?tyimuh=cacao"
   ],
   "fontes": [
     {
@@ -177,6 +177,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte ucsd.edu"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "`sources` sincronizado com `fontes` (fonte do verificador mudou na repetição com hash)"
     }
   ],
   "etiquetas": [

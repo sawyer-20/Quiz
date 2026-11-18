@@ -31,7 +31,7 @@
   "sources": [
     "https://cultura.marinha.pt/en/museumarinha_web/multimedia_web/Pages/efemeride-tratado-de-saragoca-22abr21.aspx",
     "https://press-files.anu.edu.au/downloads/press/p66561/html/ch04s04.html",
-    "https://eve.fcsh.unl.pt/en/politics/zaragoza-treaty"
+    "https://en.wikisource.org/wiki/European_Treaties_bearing_on_the_History_of_the_United_States_and_its_Dependencies_to_1648/Document_16"
   ],
   "fontes": [
     {
@@ -207,6 +207,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte wikisource.org"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "`sources` sincronizado com `fontes` (fonte do verificador mudou na repetição com hash)"
     }
   ],
   "options_lock": "87de65eca8ae5d01af8ba57f35a276cd97060c3539dd6eb25ed3897cc3bb2d66"

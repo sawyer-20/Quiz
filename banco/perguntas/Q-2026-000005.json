@@ -30,7 +30,7 @@
   "daily_eligible": true,
   "sources": [
     "https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/",
-    "https://marquandrarebooks.princeton.edu/2022/01/a-scrolling-facsimile-of-the-bayeux-tapestry-in-marquand/"
+    "https://www.nationalgeographic.com/history/article/bayeux-tapestry-meaning-interpretation"
   ],
   "fontes": [
     {
@@ -194,6 +194,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte nationalgeographic.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "`sources` sincronizado com `fontes` (fonte do verificador mudou na repetição com hash)"
     }
   ],
   "etiquetas": [
