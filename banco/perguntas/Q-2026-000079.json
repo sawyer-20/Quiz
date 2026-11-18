@@ -62,15 +62,6 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://www.discovermagazine.com/did-galileo-spot-neptune-two-centuries-before-its-discovery-38856",
-      "dominio": "discovermagazine.com",
-      "titulo": "Did Galileo Spot Neptune Two Centuries Before Its \"Discovery\"? (Discover Magazine)",
-      "nivel": 2,
-      "excerto": "Its widely accepted that in 1612 and again in 1613 Galileo must have observed Neptune, although at the time he thought it was a star, spotted during his observation of Jupiter's moons.",
-      "consultada_em": "2026-11-17",
-      "papel": "verificador"
-    },
-    {
       "url": "https://www.eurekalert.org/news-releases/776056",
       "dominio": "eurekalert.org",
       "titulo": "Galileo's notebooks may reveal secrets of new planet (comunicado da University of Melbourne, 9-Jul-2009, via EurekAlert)",
@@ -87,6 +78,15 @@
       "excerto": "Veiem que per situar Júpiter fa servir una estrella \"fixa\". [...] No queda cap dubte doncs de que Galileo va observar i dibuixar Neptú, però el va confondre amb una estrella fixa.",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2207.06097",
+      "dominio": "arxiv.org",
+      "titulo": "Systematic errors in Galileo's astronomical observations and alleged anomalies in the position of Neptune (Journal of Astronomical History and Heritage 25(2), 2022)",
+      "nivel": 2,
+      "excerto": "in December 1612 and January 1613, Galileo casually observed the planet Neptune— at that moment in close conjunction with Jupiter—which he marked as a fixed star, and he noted its motion 234 years before it was discovered.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
@@ -94,9 +94,10 @@
       "resposta_texto": "Uma estrela fixa",
       "concorda": true,
       "confianca": "media",
-      "dominio": "discovermagazine.com",
-      "data": "2026-11-17",
-      "notas": "Mantenho a análise anterior com as opções reordenadas. Li o Discover Magazine (nível 2): Galileu pensava que era uma estrela. A Wikipédia (nível 3) diz 'mistook Neptune for a fixed star', e resumos secundários dizem que o caderno usa o rótulo 'fixa'. Não abri fonte de nível 1 fora dos domínios proibidos que diga explicitamente 'fixa'. As opções nova explosiva, cometa e reflexo na lente não aparecem em nenhuma fonte. Confiança média por ser nível 2 com pequena inferência de 'star' para 'fixed star'. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Jamieson (Melbourne) sugere que Galileu pode ter suspeitado de um planeta (nota de 28 de janeiro de 1613 sobre o movimento da 'estrela' e ponto sem legenda em 6 de janeiro). É uma hipótese e Galileu nunca o afirmou. A resposta mais bem apoiada continua a ser 'estrela fixa'. A formulação 'Como o registou?' não muda o resultado."
+      "dominio": "arxiv.org",
+      "data": "2026-11-18",
+      "notas": "Li a página (via scripts/ler_url.py, porque o WebFetch deu ENOTFOUND para arxiv.org). É um artigo de revista revisto por pares, que cita Kowal e Drake (1980) mas não os republica, e que diz que Galileu marcou o objeto como estrela fixa. Os resultados de pesquisa (Wikipédia, Discover e outros) concordam, mas só os vi em resumo, sem abrir essas páginas. A fonte é secundária: não encontrei nem abri o próprio caderno de Galileu, por isso a etiqueta exata no manuscrito (por exemplo, em latim ou italiano) não ficou confirmada palavra a palavra. As outras três opções não aparecem em nenhuma fonte consultada. O enunciado diz que o ponto era 'junto a Júpiter' e que o caderno é de 1612-1613, o que bate certo com as fontes (28/12/1612 e 28/01/1613). Cuidado com a redação: o artigo diz que o objeto foi 'marcado' como estrela fixa, e a 'etiqueta' no caderno pode ser mais informal. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Há uma nuance de leitura. David Jamieson (Melbourne) defende que Galileu terá suspeitado de um planeta, mas a fonte do pesquisador indica que o registo explícito foi o de estrela fixa. Um artigo de síntese lido só nos resultados de pesquisa diz também que, a 28 de janeiro de 1613, Galileu anotou o objeto como estrela fixa. Nenhuma fonte encontrada apoia cometa, reflexo na lente ou nova.",
+      "hash_texto": "1f457bb94f03355e7fda35f35439a23412d41859345d8ca1098642d4d47d9945"
     },
     "advogado": {
       "aprovado": true,
@@ -121,7 +122,7 @@
       "hash_texto": "7aa8460c2d4caa44702efc9810eb4e57277472f8f61b314b8c798507ce137b94"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -287,7 +288,20 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte arxiv.org"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "de5cc0ea3345f9320d106b3b1e141e578f1075519d793f7c01ad4b2a46619597"
 }
