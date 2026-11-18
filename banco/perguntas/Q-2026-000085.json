@@ -4,7 +4,7 @@
   "subtopic": "Preservação de videojogos",
   "text": {
     "pt-PT": {
-      "question": "Em 2024, a Bibliotecária do Congresso dos EUA recusou alargar a isenção legal para bibliotecas fazerem o quê com videojogos indisponíveis?",
+      "question": "Em 2024, a Bibliotecária do Congresso dos EUA recusou alargar a isenção legal para bibliotecas fazerem o quê com videojogos que já não são comercializados?",
       "options": [
         "Jogá-los nas instalações da biblioteca",
         "Vender cópias digitais ao público",
@@ -92,7 +92,13 @@
       "notas": "Recomendação da Registadora (18/10/2024, dirigida a Carla Hayden) abre-se e confirma a rejeição do acesso remoto de software preservado; não localizei a passagem exata da classe dos videojogos na parte do PDF que o leitor devolve (140 mil caracteres). Mesmo assim: Federal Register (n1) diz que os proponentes não demonstraram que o acesso fora das instalações fosse provavelmente lícito e que a Bibliotecária aceita a recomendação para todas as classes; 37 CFR 201.40 (n1) confirma o limite às instalações; gamehistory.org (n1) e a pesquisa confirmam a recusa do acesso remoto. Distratores: jogar nas instalações e preservar já eram permitidos, vender cópias nunca foi pedido: nenhum é defensável. valid_until 2027-10-28 adequado ao ciclo trienal. Nota de sensibilidade menor: Hayden e Perlmutter deixaram os cargos em 2025 (litígio), mas a pergunta não toca nisso e usa só o ato de 2024. Aprovada, com a ressalva de a passagem da Recomendação não ter sido lida por nenhum dos agentes.",
       "data": "2026-11-17"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Aplicado o pedido do Andre: «indisponíveis» passou a «que já não são comercializados». Mantidos o que se pergunta, a resposta, as opções (texto e ordem), as datas e as atribuições. O enunciado tem cerca de 155 caracteres, abaixo do limite de 200 e acima do alvo de 120. Não cortei mais para não mexer em palavras fora do pedido. A explicação (cerca de 235 caracteres, 2 frases) não repete a palavra alterada e fica como estava. Dificuldade 4 e subtema confirmados. Como a mudança é só de redação e mantém o sentido, não envolve alteração factual. A referência a «outubro de 2024» já constava da explicação e não está nos excertos que recebi, por isso convém o conferente ou o verificador confirmá-la na fonte.",
+      "data": "2026-11-18"
+    }
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -278,6 +284,12 @@
       "evento": "reaberta (pedido do Andre, 18/11: «indisponíveis» perde precisão; usar «que já não são comercializados»)",
       "agente": "orquestrador",
       "nota": "só redação do enunciado; as fontes falam em jogos que já não estão disponíveis comercialmente; repete editor, verificador cego (regra 24), tradutor e conferente"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
     }
   ],
   "etiquetas": []
