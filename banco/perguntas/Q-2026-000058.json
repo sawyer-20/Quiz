@@ -30,16 +30,34 @@
       "excerto": "Bartolomeo Cristofori, a native of Padua, invented a new type of action using hammers that struck the strings (rather than plucking them, as the harpsichord did) and was capable of playing soft and loud (piano e forte).",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.lindahall.org/about/news/scientist-of-the-day/bartolomeo-cristofori/",
+      "dominio": "lindahall.org",
+      "titulo": "Bartolomeo Cristofori - Linda Hall Library, Scientist of the Day",
+      "nivel": 2,
+      "excerto": "In the harpsichord, the strings are plucked with a small quill; in Cristofori's pianoforte, the strings are struck with a small leather covered hammer.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Com martelos que as percutem",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "lindahall.org",
+      "data": "2026-11-18",
+      "notas": "Li a página com o leitor do motor. A página da Met (metmuseum.org) devolveu 429, por isso a única fonte aberta é a Linda Hall. Foles e arco não aparecem como mecanismo do piano, e o dedo a beliscar diretamente é o cravo (a pergunta já o diz no enunciado). Só abri uma fonte de nível 2, mas o facto é elementar.",
+      "hash_texto": "8dabc9c22b3e7b2bf243ba9342b0a319a3574693a06058b1f6659e37b2796eee"
+    },
     "advogado": null,
-    "editor": null
+    "editor": null,
+    "caminho_leve": true
   },
-  "estado": "rejeitada",
-  "motivo_rejeicao": "quota de clássicos do lote (regra 16: o lote já tem 4 clássicos; o limite do Andre é 4)",
-  "lote": "lote-2026-11-12-bilingue",
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-12",
   "historico": [
     {
@@ -65,7 +83,27 @@
       "evento": "originalidade reavaliada (definição de 17/11): original",
       "agente": "originalidade",
       "nota": "original (definição de 17/11): não há pergunta de quiz com este enunciado nem estas opções. Entra no lote 5 como retoma única (regra 15), sem repetir a pesquisa."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte lindahall.org"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reaberta como retoma única do lote 5 (originalidade reavaliada com a definição de 17/11)",
+      "agente": "orquestrador",
+      "nota": "sem repetir a pesquisa; segue para o verificador cego, advogado, editor, tradutor e conferente"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "caminho leve (sem advogado do diabo)",
+      "agente": "orquestrador",
+      "nota": "caminho leve: dificuldade 1, fonte de nível 1 do pesquisador (si.edu) e verificador cego de confiança alta; auditar depois por agente que não a produziu"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [
+    "caminho_leve"
+  ]
 }

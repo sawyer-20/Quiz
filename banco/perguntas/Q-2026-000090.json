@@ -40,10 +40,27 @@
       "excerto": "nearly 95 percent of the fish without the cocoons were attacked, compared with just 10 percent of those coated in mucus. At night, when cleaner fish sleep, mucus cocoons act like 'mosquito nets'",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.nationalgeographic.com/science/article/parrotfish-sleep-in-a-mosquito-net-made-of-mucus",
+      "dominio": "nationalgeographic.com",
+      "titulo": "Parrotfish sleep in a mosquito net made of mucus (National Geographic)",
+      "nivel": 2,
+      "excerto": "Grutter thinks that the mucus protects the sleeping fish, not from the big jaws of hungry eels, but from the little mouthparts of hungry parasites... tiny blood-sucking crustaceans called gnathiid isopods.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "De parasitas que lhe mordem, os isópodes gnatídeos",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "nationalgeographic.com",
+      "data": "2026-11-18",
+      "notas": "Li a página. Nas experiências, os gnatídeos atacaram só 10% dos peixes com casulo e quase todos os sem casulo. A fonte nomeia a investigadora como Alexandra Grutter, de nome próprio completo, e o enunciado diz Lexa. O enunciado diz que o peixe cria o casulo para dormir e a fonte confirma. Ondas e correntes, algas e bactérias não aparecem como função testada. A fonte diz também que o muco não exclui outras funções, mas a pergunta é sobre a hipótese de Grutter. Eu não confirmei a alcunha Lexa.",
+      "hash_texto": "cc711924bd82697766125264b9de8e20bd27d92fa9907bb8658f1001e00d99a5"
+    },
     "advogado": null,
     "editor": null
   },
@@ -63,6 +80,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "Não encontrei pergunta de quiz com este texto nem este conjunto de opções. O enunciado atribui o facto a uma investigadora concreta, o que lhe dá ângulo próprio. O facto circula em artigos e listas de curiosidades. Nota de facto para o pesquisador: nas fontes que li, a investigadora aparece como Alexandra Grutter (a UQ publica 'Dr Lexa Grutter'), e o estudo usou o peixe-papagaio Chlorurus sordidus. | provas: https://www.nbcnews.com/id/wbna40224827 (artigo de ciência, não é quiz: casulo protege de gnatiídeos); https://www.nationalgeographic.com/science/article/parrotfish-sleep-in-a-mosquito-net-made-of-mucus (idem)"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte nationalgeographic.com"
     }
   ],
   "etiquetas": []

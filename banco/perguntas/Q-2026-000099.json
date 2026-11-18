@@ -40,10 +40,27 @@
       "excerto": "1. Stanley Matthews ... Age: 41 Winning Year: 1956 ... won the inaugural Ballon d'Or in 1956. ... Messi ... Age: 36 Winning Year: 2023",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.thenationalnews.com/sport/football/2026/10/25/ballon-dor-2026-the-five-most-historic-winners-from-matthews-to-messi/",
+      "dominio": "thenationalnews.com",
+      "titulo": "Ballon d'Or 2026: The five most historic winners - from Matthews to Messi (The National)",
+      "nivel": 2,
+      "excerto": "Matthews was the inaugural winner of the award and, notably, was aged 41 at the time... At 41 years, 10 months and 17 days, he remains the oldest-ever winner.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "41 anos",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "thenationalnews.com",
+      "data": "2026-11-18",
+      "notas": "Li a página da The National e confirmei com a Vanguard (41 anos e 321 dias, prémio entregue a 18/12/1956; Matthews tem o recorde e ninguém o ultrapassou, Kane ganhou aos 33 em 2026). A Britannica e o museu nacional de futebol devolveram 403 e a UEFA deu timeout. 38, 36 e 34 anos ficam excluídos. 36 é a idade de Messi em 2023.",
+      "hash_texto": "7a10c8a5fbf1d826dcbd18b9f05cfe9be9de8e1e7d5645b3d65844c39479b9fc"
+    },
     "advogado": null,
     "editor": null
   },
@@ -63,6 +80,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "Só encontrei artigos e listas. Nenhum quiz com a idade do vencedor mais velho como pergunta de opção múltipla. A pergunta clássica seria 'quem é o vencedor mais velho'; a nossa pergunta pela idade (com 'até 2026') é um ângulo próprio. Nota para o orquestrador: a pergunta é sensível ao tempo (valid_until) e as opções 38 e 41 são próximas de factos reais (Messi 36 em 2023), o que é matéria do verificador, não da originalidade. | provas: https://www.guinnessworldrecords.com/world-records/788751-oldest-winner-of-footballs-soccers-ballon-dor-award (recorde, não pergunta de quiz); https://www.topendsports.com/sport/soccer/awards/ballondor-trivia.htm (curiosidades, sem este enunciado); https://www.90min.com/posts/oldest-ballon-dor-winners-of-all-time (lista, não quiz)"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte thenationalnews.com"
     }
   ],
   "etiquetas": []

@@ -40,10 +40,27 @@
       "excerto": "Haydn's witty 'Farewell' Symphony of November 1772, in which one by one the musicians left the stage, packing up their instruments and blowing out their candles, was designed as a heavy hint to the Prince",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://sheetmusicinternational.com/program-notes/haydn-franz-joseph-1732-1809-symphony-symphony-45-farewell-symphony-644",
+      "dominio": "sheetmusicinternational.com",
+      "titulo": "Haydn Symphony 45 Farewell, Sheet Music Program Notes and recordings (Sheet Music International)",
+      "nivel": 2,
+      "excerto": "during the concluding Adagio, one by one, the musicians finished their parts, snuffed out the candles on their music stands, and quietly walked off the stage.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Apaga a vela da sua estante",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "sheetmusicinternational.com",
+      "data": "2026-11-18",
+      "notas": "Li a página de notas de programa. O resultado de pesquisa da UC Davis, que diz o mesmo, devolveu 403 ao leitor. A fonte é de nível 2 (notas de programa), o que dá confiança média. Fechar a partitura, fazer vénia ao príncipe e desafinar o instrumento não aparecem na tradição. O músico apaga a vela, sai e deixa dois violinos (Haydn e Tomasini) no fim. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): A tradição é de relato posterior e provavelmente embelezada. Fontes diferem sobre quem sai primeiro (oboé I e trompa II), mas todas dão o mesmo gesto. Não tenho confirmação em fonte de nível 1.",
+      "hash_texto": "7cf8c0de67ecf17dfafe46c63c1b3745e0e346e70dd05213abf9ccda0aa915f3"
+    },
     "advogado": null,
     "editor": null
   },
@@ -63,6 +80,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "Os quizzes encontrados pedem a identificação da obra a partir do cognome ou do final. Não encontrei nenhum que pergunte o gesto de cada músico com estas opções (vela, desafinar, vénia, fechar a partitura). O facto circula em artigos e programas de concerto, mas o texto e as opções são nossos. Pesquisa em sites de quiz limitada ao que o motor de busca devolveu (não vi Sporcle nem Wayground em concreto); risco de classico baixo. | provas: https://www.funtrivia.com/trivia-quiz/Music/Symphonies-and-their-Nicknames-94430.html (só identifica a sinfonia pelo cognome; não pergunta o gesto do músico); https://quizbowlstats.com/buzzpoints/tournament/2023-pace-nsc/bonus/2/1 (bónus de quiz bowl sobre a Sinfonia Farewell; pergunta outra coisa, sem o nosso ângulo nem as nossas opções); https://www.thatquiz.org/tq/preview?c=cexxdi31 (pergunta qual a obra de Haydn com final de som a diluir-se, ou seja, "
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte sheetmusicinternational.com"
     }
   ],
   "etiquetas": []

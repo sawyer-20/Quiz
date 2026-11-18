@@ -40,10 +40,27 @@
       "excerto": "crossing waters so strangely calm that the ocean was named “Pacific,” from the Latin word pacificus, meaning “tranquil.”",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://oceanofisica.ulpgc.es/efemeride/magellan-enters-pacific",
+      "dominio": "ulpgc.es",
+      "titulo": "Magellan Enters the Pacific – A New Ocean Named for Its Calm (Oceanofísica, Universidad de Las Palmas de Gran Canaria)",
+      "nivel": 2,
+      "excerto": "Struck by the unexpected calmness of the sea after the treacherous storms of the Atlantic and the strait, Magellan named it the \"Mar Pacífico\" – the Peaceful Sea.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "A calma das águas",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "ulpgc.es",
+      "data": "2026-11-18",
+      "notas": "Páginas abertas e lidas: ULPGC (nível 2, página de divulgação universitária) e EBSCO Research Starters (Magellan, 2024), que cita: «May the ocean be always as calm and benevolent as it is today. In this hope, I name it the Mar Pacifico [peaceful sea].» Esta citação é atribuída a Magellan sem fonte primária visível, por isso o grau de confiança é média. Exclusão das outras opções: nenhuma fonte fala de paz com povos costeiros, nem de temperatura da água. A ausência de ilhas não é motivo do nome (a página ULPGC liga o nome à calma do mar, e a travessia afastou-os das ilhas, mas isso foi consequência, não razão). Não consegui abrir a Britannica (403). A fonte primária seria Pigafetta (trad. Stanley, 1874), que não abri. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): A formulação «A calma das águas» e a «temperatura amena» ou «ausência de ilhas» são distintas: só a calma vem apoiada nas fontes. A calma foi relativa à tempestade do estreito (impressão circunstancial, como diz a própria página).",
+      "hash_texto": "ebe791dac5129595688beb409769b60dd4713cbd53d4533d4e710b21cb343a03"
+    },
     "advogado": null,
     "editor": null
   },
@@ -63,6 +80,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "Nenhuma das 5 pesquisas (pt e en, incluindo termos de Sporcle, Kahoot, Quizlet e ProProfs) devolveu uma pergunta de quiz com este enunciado, a sua frase-chave ou o mesmo conjunto de opções. Só apareceram artigos de referência e páginas de história. O facto é muito conhecido e circula em artigos, mas o enunciado («Em 1520... Que característica do mar o levou a esse nome?») e as opções (ausência de ilhas, calma das águas, paz com os povos, temperatura amena) não se encontraram em nenhum quiz. Ressalva: o motor de pesquisa não indexa bem páginas de quiz, por isso a ausência de provas não é absoluta; se o Andre achar que «porque é que Magalhães lhe chamou Pacífico?» é a forma quase única de perguntar este facto, poderia passar a classico, mas não há prova de que apareça como pergunta de quiz. | provas: https://www.infopedia.pt/$oceano-pacifico (artigo de referência: o nome vem da placidez da"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte ulpgc.es"
     }
   ],
   "etiquetas": []

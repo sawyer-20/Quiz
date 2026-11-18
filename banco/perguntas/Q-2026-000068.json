@@ -40,16 +40,33 @@
       "excerto": "the acquisition of special 50mm f/0.7 Zeiss camera lenses ... to shoot in low and natural light. Only 10 lenses were made, and Kubrick purchased three",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://petapixel.com/2013/01/25/grandson-of-zeiss-lens-designer-was-left-a-holy-grail-of-zeiss-lenses/",
+      "dominio": "petapixel.com",
+      "titulo": "Grandson of Famed Zeiss Designer Owns 'Holy Grail' Collection of Glass (PetaPixel)",
+      "nivel": 2,
+      "excerto": "Dr. Glatzel also designed the famous Planar 50mm f/0.7 used by Stanley Kubrick to film the candlelight scene in Barry Lyndon. There are only 10 of those in existence.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Zeiss",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "petapixel.com",
+      "data": "2026-11-18",
+      "notas": "Substituí o blogue neiloseman.com. Li duas páginas da PetaPixel (imprensa especializada, nível 2, fora de zeiss.com e afi.com). A de 2013 diz que o Planar 50mm f/0.7 foi usado por Kubrick em «Barry Lyndon». A de 2015 (https://petapixel.com/2015/04/01/a-look-at-the-camera-lenses-used-by-stanley-kubrick-over-his-career/) diz: «Kubrick’s ultra rare Zeiss f/0.7 lens, which he used to film scenes by the dim light of candles». Nenhuma das duas menciona a NASA. A ligação à NASA aparece só em resultados de pesquisa e no blogue já lido (Carl Zeiss construiu 10 Planar 50mm f/0.7 para a NASA). Não consegui abrir o DPReview (403) nem o artigo do ASC (theasc.com, erro 520). O resumo de pesquisa do ASC refere lentes Zeiss de 50 mm e 36,5 mm f/0.7, mas não o li. Nikon, Leica e Panavision: nenhuma fonte lhes atribui estas lentes. A Mitchell BNC foi adaptada pela Cinema Products, mas a lente é Zeiss. A confiança fica média porque ambas as fontes são da mesma publicação, PetaPixel, e a ligação à NASA não está confirmada por fonte independente lida.",
+      "hash_texto": "a536d2d0b083727ed4813837022d2910b55f02c729d217f0c15d281223851af2"
+    },
     "advogado": null,
     "editor": null
   },
-  "estado": "rejeitada",
-  "motivo_rejeicao": "quota de clássicos do lote (regra 16): a pergunta ficou em espera sem chegar a ser verificada; o limite do Andre era 4 clássicos",
-  "lote": "lote-2026-11-12-bilingue",
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-12",
   "historico": [
     {
@@ -75,6 +92,18 @@
       "evento": "originalidade reavaliada (definição de 17/11): original",
       "agente": "originalidade",
       "nota": "original (definição de 17/11): só artigos sobre as lentes f/0.7, nenhuma pergunta de quiz. Entra no lote 5 como retoma única (regra 15), sem repetir a pesquisa."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reaberta como retoma única do lote 5 (originalidade reavaliada com a definição de 17/11)",
+      "agente": "orquestrador",
+      "nota": "sem repetir a pesquisa; segue para o verificador cego, advogado, editor, tradutor e conferente"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte petapixel.com"
     }
   ],
   "etiquetas": []
