@@ -12,6 +12,16 @@
         "Um pontapé de penalidade"
       ],
       "explanation": "O direito a um «try at goal», uma tentativa de pontapé à baliza: nas leis de 1845 pousar a bola não dava pontos, só os golos marcavam. O ensaio só passou a valer pontos mais tarde."
+    },
+    "en-US": {
+      "question": "Under the 1845 laws of Rugby School, what did a team earn for grounding the ball beyond the goal line?",
+      "options": [
+        "The right to attempt a kick at goal",
+        "Two points",
+        "One point",
+        "A penalty kick"
+      ],
+      "explanation": "The right to a \"try at goal,\" a chance to kick at the goal: under the 1845 laws, grounding the ball scored no points, and only goals counted. A try only came to be worth points later."
     }
   },
   "correct": 0,
@@ -91,9 +101,19 @@
       "alteracao_factual": false,
       "notas": "Explicação reposta na versão anterior (2 frases, dentro do limite); a minha versão tinha 3 frases. Sem mudanças ao texto. Dificuldade subida de 2 para 3: as opções com pontos são tentadoras e poucos conhecem as regras de 1845. Enunciado e opções intactos.",
       "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "Opção 0 igual ao en-US antigo, sem a data 1886. «Linha de ensaio» traduzida por «goal line», como no en-US antigo e nas leis de 1845 (a palavra «try» vem do nome «try at goal», mantido entre aspas na explicação). «Ensaio» -> «try». Aspas americanas (vírgula dentro das aspas). Sem factos novos. Explicação com 2 frases, abaixo de 300 caracteres."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Facto, datas (1845) e atribuição iguais nos dois idiomas. As quatro opções correspondem uma a uma e pela mesma ordem. Explicação com 2 frases nos dois idiomas. Sem pista gramatical ou lexical só num idioma (regra 28): «o que ganhava» e «what did a team earn» servem todas as opções. «Try at goal» só aparece na explicação.",
+      "data": "2026-11-18",
+      "hash_texto": "d04d47d4901c044e003be4c85d4c4aa6daef40bb7e7c9498fa1b44c3f4dd2e23"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -229,6 +249,25 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Opção 0 igual ao en-US antigo, sem a data 1886. «Linha de ensaio» traduzida por «goal line», como no en-US antigo e nas leis de 1845 (a palavra «try» vem do nome «try at goal», mantido entre aspas na explicação). «Ensaio» -> «try». Aspas americanas (vírgula dentro das aspas). Sem factos novos. Explicação com 2 frases, abaixo de 300 caracteres."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
-  ]
+  ],
+  "options_lock": "c22fd1a81d50244f1990a0fe922885af2791844618ac27d76568a91d2e35d882"
 }

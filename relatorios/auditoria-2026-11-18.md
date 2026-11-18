@@ -46,3 +46,14 @@ Sem triagem, mas com fonte de nível 1 **não aberta** pelo auditor (resposta co
 Pelo critério do revisor («mais de 3 factos errados → corrigir o circuito primeiro») **não há factos errados**; o circuito falha em documentar a fonte, não em acertar. Lote 6 aguarda ordem do Andre.
 
 TRAVÃO: ausente (0 erros em 59).
+
+## Tempos
+Registados em `auditoria-2026-11-18-tempos.csv` (31 invocações de reparação e auditoria). Não estão registados os blocos 1 a 4 do auditor (devolvidos antes de o registo ser iniciado); contam como lacuna, não como zero.
+
+## Estado após o fecho das lacunas (18/11)
+- Q12, Q19: cláusulas sem fonte retiradas (editor, tradutor, conferente com hash).
+- Q85: 2.ª frase mantida, atribuída à VGHF; reaprovada com verificador, advogado (regra 29), editor, tradutor e conferente.
+- Q38: data de 1886 retirada (só tinha uma fonte); fontes de nível 2 mantidas; independência entre Irish Times e rugbyfootballhistory.com não provada, só «até onde se verifica». Reaprovada.
+- Q22: a opção en-US «Azulejo (glazed tile)» era pista só num idioma (regra 28); corrigida e reaprovada.
+- Q88: **suspensa** (sem segunda fonte independente do festival).
+- Hashes: conferente com hash em todas as aprovadas; verificador com hash repetido em Q8, Q9, Q33, Q22, Q38, Q85 (as que mudaram enunciado ou opções depois do verificador). As restantes 28 anteriores à regra 24 ficam com aviso, mas o auditor cego desta auditoria viu o enunciado e as opções atuais das 59 e concordou com todas.

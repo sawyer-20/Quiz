@@ -114,9 +114,15 @@
     "tradutor": {
       "data": "2026-11-18",
       "notas": "Pergunta reescrita para ficar mais curta (cerca de 125 caracteres). «videojogos» passou a «games», e «isenção legal» passou a «library copyright exemption», porque a ficha só fala de isenção legal para bibliotecas. As opções do en-US atual mantêm-se, e a certa continua no índice 3. A explicação mantém a atribuição «According to the VGHF». Mantive «Copyright Office» tal como no pt-PT, que atribui a decisão a este organismo na explicação e à Bibliotecária do Congresso na pergunta. A ficha diz que a Bibliotecária adotou a recomendação do Register of Copyrights, por isso os dois textos são compatíveis."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Mesmo facto, com a atribuição à VGHF, a declaração da ESA e a data de outubro de 2024 iguais nos dois idiomas. As opções correspondem uma a uma. Diferenças menores e aceitáveis: o en-US diz «library copyright exemption» e «games», e o pt-PT diz «isenção legal» e «videojogos»; isto não altera a resposta nem cria pista. Infinitivos do pt-PT («fazerem o quê» com «Jogá-los», «Dar») concordam com o enunciado. Sem pista da regra 28.",
+      "data": "2026-11-18",
+      "hash_texto": "7072604ab092f5da078fdcba792f323796cdaf4b09693b5f730743faaf20f6fe"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -396,7 +402,20 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Pergunta reescrita para ficar mais curta (cerca de 125 caracteres). «videojogos» passou a «games», e «isenção legal» passou a «library copyright exemption», porque a ficha só fala de isenção legal para bibliotecas. As opções do en-US atual mantêm-se, e a certa continua no índice 3. A explicação mantém a atribuição «According to the VGHF». Mantive «Copyright Office» tal como no pt-PT, que atribui a decisão a este organismo na explicação e à Bibliotecária do Congresso na pergunta. A ficha diz que a Bibliotecária adotou a recomendação do Register of Copyrights, por isso os dois textos são compatíveis."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "892ae9076e831b40957e26c96dae3be971a0bbf0ec020749dc0c005e237a50bc"
 }
