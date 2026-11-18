@@ -113,6 +113,12 @@
     "tradutor": {
       "data": "2026-11-18",
       "notas": "Só a explicação mudou: acrescentada a glosa «(fixed)» a seguir à etiqueta original \"fixa\", que se mantém entre aspas por ser citação dos cadernos. Pergunta, opções e atribuições (NASA, Jamieson, Kowal e Drake) iguais. 2 frases, cerca de 276 caracteres (estimativa, não medida com limites.py)."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Os dois textos dizem o mesmo: cadernos de 1612-1613, ponto de luz junto a Júpiter identificado como Neptuno, registado como estrela fixa. As atribuições coincidem (NASA, David Jamieson, Kowal e Drake), tal como a cautela sobre a deteção do movimento e a frase final da NASA. A opção certa (índice 3) é «Uma estrela fixa» / «A fixed star». As outras três opções são equivalentes pela mesma ordem: nova estrela explosiva, cometa distante e reflexo na lente do telescópio. Nenhuma passa a ser defensável ao traduzir. A glosa «(fixed)» na explicação em en-US está de acordo com a nota do pedido e só aparece na explicação, por isso não dá pista no enunciado. Nenhum enunciado repete a palavra da opção certa. O pt-PT usa «Neptuno», «detetar» e «registou», sem brasileirismos, e o en-US é natural e em grafia americana. Limites cumpridos: a pergunta termina em «?», as opções têm menos de 60 caracteres e a explicação tem 2 frases e menos de 300 caracteres (estimado a olho). Pormenor menor: «chegou a detetar» (pt) e «did detect» (en) são equivalentes em força.",
+      "data": "2026-11-18",
+      "hash_texto": "7aa8460c2d4caa44702efc9810eb4e57277472f8f61b314b8c798507ce137b94"
     }
   },
   "estado": "em_verificacao",
@@ -275,6 +281,12 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Só a explicação mudou: acrescentada a glosa «(fixed)» a seguir à etiqueta original \"fixa\", que se mantém entre aspas por ser citação dos cadernos. Pergunta, opções e atribuições (NASA, Jamieson, Kowal e Drake) iguais. 2 frases, cerca de 276 caracteres (estimativa, não medida com limites.py)."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "etiquetas": []
