@@ -40,10 +40,27 @@
       "excerto": "1. Stanley Matthews ... Age: 41 Winning Year: 1956 ... won the inaugural Ballon d'Or in 1956. ... Messi ... Age: 36 Winning Year: 2023",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://ballondor.com/news/posts/who-is-the-oldest-ballon-dor-winner",
+      "dominio": "ballondor.com",
+      "titulo": "Who is the oldest Ballon d'Or winner? (Ballondor.com, site oficial)",
+      "nivel": 1,
+      "excerto": "The inaugural Ballon d'Or winner in 1956, Stanley Matthews is by far the oldest Ballon d'Or winner, men and women combined. The English forward was 41 years, 10 months and 17 days old when he received",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "41 anos",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "ballondor.com",
+      "data": "2026-11-18",
+      "notas": "Site oficial da Bola de Ouro (publicado a 12/07/2026, atualizado a 13/07/2026), lido na íntegra. Matthews tinha 41 anos, 10 meses e 17 dias; a mais próxima é Messi, com 36 anos em 2023. Excluídas: 36 anos (idade de Messi em 2023), 34 anos (Messi 2021, Benzema, Rapinoe) e 38 anos (sem correspondência na lista). A afirmação do enunciado ('o mais velho até 2026') confirma-se. Com 41 anos completos e 10 meses, a resposta '41 anos' é a única possível.",
+      "hash_texto": "a39dcbc042f59619098ae985f51eaae82ae891814011de387be20f7168593be1"
+    },
     "advogado": null,
     "editor": null
   },
@@ -75,6 +92,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (1.º ciclo): numeros: A explicação dá «41 anos e 321 dias», e os «321 dias» só aparecem na Guinness. A The National dá «41 anos, 10 meses e 17"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte ballondor.com"
     }
   ],
   "etiquetas": []

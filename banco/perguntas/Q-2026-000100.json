@@ -40,10 +40,27 @@
       "excerto": "We've forged our own path since 1889, when we began making hanafuda playing cards in Kyoto, Japan. ... 1889 Fusajiro Yamauchi began a small business manufacturing \"Hanafuda\" playing cards in Kyoto, Japan.",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://moneyweek.com/349214/23-september-1889-nintendo-starts-making-playing-cards",
+      "dominio": "moneyweek.com",
+      "titulo": "23 September 1889: Nintendo starts making playing cards (MoneyWeek)",
+      "nivel": 2,
+      "excerto": "an entrepreneur named Fusajiro Yamauchi set up a business in Kyoto in September 1889 making Hanafuda cards. ... Yamauchi called the company Nintendo Koppai.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Cartas de jogar japonesas (hanafuda)",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "moneyweek.com",
+      "data": "2026-11-18",
+      "notas": "MoneyWeek (página aberta e lida, nível 2) confirma Yamauchi, Quioto, setembro de 1889, cartas hanafuda. Não consegui abrir a Britannica (403), por isso só há uma fonte lida, de nível 2. Os resultados de pesquisa convergem (hanafuda, 23/09/1889, Shimogyo, Quioto), mas vêm de sites que não abri. Excluídas: leques de papel, brinquedos de madeira e bonecas de porcelana não aparecem em nenhuma fonte para 1889; os brinquedos só surgem depois de 1963, e as cartas de estilo ocidental, por volta de 1902. Nota: o enunciado diz 'cartas de jogar japonesas (hanafuda)', que é consistente com a fonte.",
+      "hash_texto": "00734219acb143f9414139d9ec479daf6b34c8e8365ac32de6171eebd50c4ba8"
+    },
     "advogado": null,
     "editor": null
   },
@@ -75,6 +92,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (1.º ciclo): numeros: A explicação diz que «em 1902 passou também a fazer as primeiras cartas de jogar ocidentais do Japão». Esta data só tem "
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte moneyweek.com"
     }
   ],
   "etiquetas": [

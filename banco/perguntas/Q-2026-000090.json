@@ -44,9 +44,9 @@
     {
       "url": "https://www.nationalgeographic.com/science/article/parrotfish-sleep-in-a-mosquito-net-made-of-mucus",
       "dominio": "nationalgeographic.com",
-      "titulo": "Parrotfish sleep in a mosquito net made of mucus (National Geographic)",
+      "titulo": "Parrotfish sleep in a mosquito net made of mucus (National Geographic, Ed Yong, 2010)",
       "nivel": 2,
-      "excerto": "Grutter thinks that the mucus protects the sleeping fish, not from the big jaws of hungry eels, but from the little mouthparts of hungry parasites... tiny blood-sucking crustaceans called gnathiid isopods.",
+      "excerto": "Grutter thinks that the mucus protects the sleeping fish... from the little mouthparts of hungry parasites. At night, reef fish are attacked by tiny blood-sucking crustaceans called gnathiid isopods.",
       "consultada_em": "2026-11-18",
       "papel": "verificador"
     }
@@ -55,11 +55,11 @@
     "verificador": {
       "resposta_texto": "De parasitas que lhe mordem, os isópodes gnatídeos",
       "concorda": true,
-      "confianca": "alta",
+      "confianca": "media",
       "dominio": "nationalgeographic.com",
       "data": "2026-11-18",
-      "notas": "Li a página. Nas experiências, os gnatídeos atacaram só 10% dos peixes com casulo e quase todos os sem casulo. A fonte nomeia a investigadora como Alexandra Grutter, de nome próprio completo, e o enunciado diz Lexa. O enunciado diz que o peixe cria o casulo para dormir e a fonte confirma. Ondas e correntes, algas e bactérias não aparecem como função testada. A fonte diz também que o muco não exclui outras funções, mas a pergunta é sobre a hipótese de Grutter. Eu não confirmei a alcunha Lexa.",
-      "hash_texto": "cc711924bd82697766125264b9de8e20bd27d92fa9907bb8658f1001e00d99a5"
+      "notas": "Lido via ler_url.py. A fonte diz que o muco protege de isópodes gnatídeos: atacaram só 10% dos peixes com casulo e quase todos os sem casulo. A opção de bactérias, ondas/correntes e algas não aparece. Confiança média porque só abri uma fonte de nível 2: o artigo original em Biology Letters (royalsocietypublishing.org) devolveu 403. A National Geographic refere «Alexandra Grutter», da Universidade de Queensland, e não «Lexa», que é o diminutivo. A National Geographic diz que a proteção é provavelmente uma barreira física e que a hipótese não exclui outras funções; mesmo assim, a pergunta («segundo a bióloga») fica coberta. A fonte é de 2010 e é independente dos títulos a evitar.",
+      "hash_texto": "0331e843c25f71f6f71ae5651efeffdadb5a1cdb553e2b8ce04f1edc5d6f132e"
     },
     "advogado": {
       "aprovado": true,
@@ -108,6 +108,12 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte nationalgeographic.com"
     }
   ],
   "etiquetas": []

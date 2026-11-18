@@ -50,10 +50,27 @@
       "excerto": "On 27th March, David Corbett and his dog Pickles were out for a stroll ... when Pickles started to sniff around a package ... secured with twine and covered in an old newspaper.",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.deseret.com/sports/2026/06/22/how-pickles-the-dog-saved-the-fifa-world-cup-60-years-ago/",
+      "dominio": "deseret.com",
+      "titulo": "How a dog saved the FIFA World Cup 60 years ago (Deseret News)",
+      "nivel": 2,
+      "excerto": "A week after its theft, a dog named Pickles found the trophy while heading out on a walk with his owner, David Corbett, in their Upper Norwood neighborhood. ... Pickles started sniffing a newspaper-wrapped package",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Um cão chamado Pickles, a passear com o dono",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "deseret.com",
+      "data": "2026-11-18",
+      "notas": "Confirmado pelo Deseret News (página aberta e lida): o troféu foi encontrado uma semana depois do roubo pelo cão Pickles, a passear com o dono, embrulhado em jornal. Os resultados de pesquisa (Yahoo, National Football Museum, Washington Post, Bloomberg) concordam, mas esses sites não os consegui abrir (403 ou timeout), por isso só há uma fonte lida, de nível 2, daí a confiança média. As outras opções (jornalista do Daily Mirror, agente da Scotland Yard, segurança da exposição) não aparecem em nenhuma fonte; a Scotland Yard só entrou na operação de resgate do resgate/resgate-ransom (o inspetor Len Buggy), não no achado. Pormenores divergentes entre fontes (sob um arbusto/sebe ou junto à roda de um carro) não afetam a resposta.",
+      "hash_texto": "45a6c8e755c17204c7c6185a11d4bdfee3508b8f66a0f146fabc64f3b1f50f37"
+    },
     "advogado": null,
     "editor": null
   },
@@ -85,6 +102,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (1.º ciclo): formulacao: A explicação diz «cão collie». Só a SI diz «mixed breed collie». A Sky History diz «black-and-white dog» e o Londonist «"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte deseret.com"
     }
   ],
   "etiquetas": [

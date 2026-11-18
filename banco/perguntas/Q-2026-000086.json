@@ -43,9 +43,9 @@
     {
       "url": "https://www.eastman.org/sites/default/files/technicolor/pdfs/ColorConsultants_ColorConsciousness.pdf",
       "dominio": "eastman.org",
-      "titulo": "Natalie M. Kalmus, Color Consciousness (reimpressão do JSMPE, 1935) - George Eastman Museum",
+      "titulo": "Natalie M. Kalmus, Color Consciousness (reimpressão, George Eastman Museum)",
       "nivel": 1,
-      "excerto": "We must constantly practice color restraint. In the early two-color pictures, producers sometimes thought ... they should flaunt vivid color continually ... This often led to unnatural and disastrous results",
+      "excerto": "We must constantly practice color restraint. In the early two-color pictures, producers sometimes thought that because a process could reproduce color, they should flaunt vivid color continually before the eyes of the audience.",
       "consultada_em": "2026-11-18",
       "papel": "verificador"
     }
@@ -57,8 +57,8 @@
       "confianca": "alta",
       "dominio": "eastman.org",
       "data": "2026-11-18",
-      "notas": "Li o texto do ensaio da própria Kalmus, reproduzido pelo museu. O princípio é a contenção («color restraint»). «Saturação máxima» é o contrário do que ela defende. «Uma só cor dominante» e «cor apenas em exteriores» não aparecem como princípios dela nos excertos que li. O ensaio é de 1935, o que é compatível com «depois dos maus resultados» do Technicolor de duas cores.",
-      "hash_texto": "94a27c4c1ec96393f0caec9c2891dc775527b611f863ea2ca8f623da83014256"
+      "notas": "Lido via ler_url.py. O texto original de Kalmus defende a contenção (restraint) e critica o abuso de cor vívida nos filmes a duas cores, que levou a resultados antinaturais e desastrosos. As outras opções (cor só em exteriores, saturação máxima, uma cor dominante) não aparecem e contradizem a defesa da contenção. O enunciado diz «maus resultados do Technicolor de duas cores»; o texto confirma isso de forma indireta («unnatural and disastrous results»).",
+      "hash_texto": "b6aaad5fac7d9a6aaa474a2a0951f1e454888786ffb43f03fe4f5bb554e2630e"
     },
     "advogado": {
       "aprovado": true,
@@ -107,6 +107,12 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte eastman.org"
     }
   ],
   "etiquetas": []
