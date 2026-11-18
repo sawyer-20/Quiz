@@ -40,10 +40,27 @@
       "excerto": "Ces savants, ayant vécu entre 1789 et 1889, font partie des 72 scientifiques dont les noms ont été gravés sur la tour Eiffel lors de sa construction. [...] Mais où sont les mathématiciennes [...] ?",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.cnrs.fr/en/update/women-scientists-be-showcased-eiffel-tower-soon",
+      "dominio": "cnrs.fr",
+      "titulo": "Women scientists to be showcased on the Eiffel Tower soon (CNRS)",
+      "nivel": 1,
+      "excerto": "The Eiffel Tower has the names of 72 French scientists who lived between 1789 and 1889 inscribed in gold letters on its first floor. These names were chosen by Gustave Eiffel himself... opposite the 72 male scientists' names",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Nenhuma",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "cnrs.fr",
+      "data": "2026-11-18",
+      "notas": "A CNRS descreve os 72 nomes de Eiffel como «72 male scientists' names» e diz que escondem o contributo das mulheres (efeito Matilda). Não consegui abrir toureiffel.paris (403). Uma, Três e Seis ficam excluídas porque a fonte diz que os 72 são todos homens. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): O projeto Hypatia propõe acrescentar 72 nomes de mulheres, mas a CNRS diz que a lista ainda não estava fechada em setembro de 2025. A pergunta refere-se aos 72 nomes escolhidos por Eiffel, e nesses nenhuma é mulher.",
+      "hash_texto": "45663cfec78d594bcfee062b20cc1b3798c346f912cc3f1a14603774f6e9da4f"
+    },
     "advogado": null,
     "editor": null
   },
@@ -63,6 +80,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "Não encontrei quiz com esta formulação. Os resultados são notícias sobre o projeto de acrescentar 72 nomes de mulheres cientistas (anunciado em janeiro de 2026, trabalho previsto para 2027). Risco factual, não de originalidade: o enunciado deve deixar claro que se refere aos nomes gravados por Eiffel em 1889, para não confundir com a inscrição futura. | provas: https://toureiffel.paris/en/news/130-years/whose-are-72-names-inscribed-eiffel-tower-and-why-are-they-there (os 72 nomes são todos de homens; sem quiz); https://en.wikipedia.org/wiki/List_of_the_72_names_on_the_Eiffel_Tower (lista; sem quiz)"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte cnrs.fr"
     }
   ],
   "etiquetas": []

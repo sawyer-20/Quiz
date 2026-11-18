@@ -39,10 +39,27 @@
       "excerto": "Dr. Bryan Kibble invented the watt balance in 1975... Since 2017, the watt balance is called Kibble balance to honor the inventor, who passed in 2016.",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.npl.co.uk/research/mass-mechanical-measurement/kibble-balance",
+      "dominio": "npl.co.uk",
+      "titulo": "Kibble balance - NPL (National Physical Laboratory)",
+      "nivel": 1,
+      "excerto": "The Kibble balance, formerly known as the watt balance but later renamed after Bryan Kibble who developed the apparatus at the National Physical Laboratory (NPL) in the 1970s",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Balança de watt",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "npl.co.uk",
+      "data": "2026-11-18",
+      "notas": "Li a página do NPL com o leitor do motor. A opção «Balança de watt» é o nome antigo. «De ampere» é outro aparelho histórico, mas não é o nome antigo da balança de Kibble. «De Planck» e «de joule» não aparecem como nomes antigos. Não abri uma segunda fonte, mas a do NPL é explícita.",
+      "hash_texto": "5319cb16aafacf2a02765a722fce0892becee274dc5fe8bd3b910e859638255c"
+    },
     "advogado": null,
     "editor": null
   },
@@ -62,6 +79,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "Não encontrei nenhum quiz, concurso ou app com esta pergunta nem com o mesmo conjunto de opções. O facto só aparece em artigos e na Wikipédia. Enunciado e opções originais. | provas: https://en.wikipedia.org/wiki/Kibble_balance (artigo, não quiz: antigo nome 'watt balance'); https://www.nist.gov/si-redefinition/kilogram/kilogram-kibble-balance (página institucional, não quiz)"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte npl.co.uk"
     }
   ],
   "etiquetas": []

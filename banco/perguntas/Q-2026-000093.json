@@ -40,10 +40,27 @@
       "excerto": "in Arabic the sign '0' is called zephyrum. This is the earliest occurrence of a Latin term for the symbol '0'. Clearly, zephyrum is not actually an Arabic word [...] phonological adaption [...] of the Arabic word ṣifr 'empty'.",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://mathshistory.st-andrews.ac.uk/Miller/mathword/z/",
+      "dominio": "st-andrews.ac.uk",
+      "titulo": "Earliest Known Uses of Some of the Words of Mathematics (Z) - MacTutor History of Mathematics",
+      "nivel": 2,
+      "excerto": "The Arabic word was taken into Latin as zephirum in the Liber Abaci (1202) of Leonardo of Pisa (1180-1250) (or Fibonacci). Referring to the symbol he wrote, \"...quod arabice zephirum appelatur.\"",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Zephyrum",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "st-andrews.ac.uk",
+      "data": "2026-11-18",
+      "notas": "Li a página com o leitor. A palavra latina medieval do Liber Abaci é zephirum (variante Zephyrum). As outras três opções estão excluídas, porque a fonte só dá zephirum. Só tenho uma fonte de nível 2. Sugestão editorial: a opção usa a grafia «Zephyrum» e não «Zephirum», o que pode merecer revisão. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): A grafia da fonte é «zephirum»; a opção «Zephyrum» é a variante ortográfica mais próxima e a única plausível. Orbiculum, Nihilum e Vacuum não são o termo de Fibonacci.",
+      "hash_texto": "4b91b2a4205f3243857b0feccc7065672958d24ce2cbd303d0113235e1f67b88"
+    },
     "advogado": null,
     "editor": null
   },
@@ -63,6 +80,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "Não encontrei quiz com a pergunta 'que palavra latina medieval deu zero' nem estas opções. As pesquisas devolvem só artigos e dicionários de etimologia. As fontes que li apontam 'zephirum' (ou 'zephyrum'), mas sem indicar a resposta certa ao orquestrador: o verificador cego decide. A procura em sites de quiz teve poucos resultados diretos (o motor não indexa bem Sporcle, JetPunk, Kahoot nem Quizlet), mas não apareceu nenhum sinal de cópia. | provas: https://nordan.mywikis.wiki/wiki/Zero (etimologia de 'zero' a partir do latim medieval zephirum; sem quiz); https://www.math.utah.edu/~beebe/software/java/fibonacci/liber-abaci.html (sobre o Liber Abaci; sem quiz)"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte st-andrews.ac.uk"
     }
   ],
   "etiquetas": []

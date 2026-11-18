@@ -40,10 +40,27 @@
       "excerto": "the oldest (25 million years) and deepest (1,700 m) lake in the world. It contains 20% of the world's total unfrozen freshwater reserve.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.feow.org/ecoregions/details/606",
+      "dominio": "feow.org",
+      "titulo": "Lake Baikal - Freshwater Ecoregions of the World (WWF/TNC)",
+      "nivel": 2,
+      "excerto": "Lake Baikal (Siberia) is the deepest (1632 m) and largest freshwater lake (volume 23,015 km3) on earth. It holds around 20% of the world's fresh surface water",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Lago Baikal",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "feow.org",
+      "data": "2026-11-18",
+      "notas": "Li a página com o leitor. O Baikal é o lago siberiano com cerca de 20% da água doce superficial. Vitória (África), Ladoga (Rússia europeia, perto de São Petersburgo) e Titicaca (Andes) não são da Sibéria nem têm esse volume. A fonte não confirma a comparação com os Grandes Lagos. Uma pesquisa indica que o Baikal tem mais água do que os cinco Grandes Lagos juntos, o que é compatível com «quase tanto», mas não abri uma fonte primária para essa parte. O enunciado diz «quase tanto» e as fontes que vi dizem «mais». Convém o editor verificar essa formulação.",
+      "hash_texto": "a4fd36283b74c8184d892c389d4c7d54f2266fd43fd2e9ace07ec5d4263866ce"
+    },
     "advogado": null,
     "editor": null
   },
@@ -75,6 +92,12 @@
       "evento": "originalidade reavaliada (definição de 17/11): original",
       "agente": "originalidade",
       "nota": "original (definição de 17/11); confiança moderada (o facto dos 20% é muito conhecido). Entra no lote 5 como retoma única (regra 15), sem repetir a pesquisa."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte feow.org"
     }
   ],
   "etiquetas": []

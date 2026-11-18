@@ -39,10 +39,27 @@
       "excerto": "In early Hollywood, if you wanted to use the Technicolor system, you needed to hire Natalie Kalmus too. The pioneering colour supervisor defined how films looked forever.",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.eastman.org/sites/default/files/technicolor/pdfs/ColorConsultants_ColorConsciousness.pdf",
+      "dominio": "eastman.org",
+      "titulo": "Natalie M. Kalmus, Color Consciousness (reimpressão do JSMPE, 1935) - George Eastman Museum",
+      "nivel": 1,
+      "excerto": "We must constantly practice color restraint. In the early two-color pictures, producers sometimes thought ... they should flaunt vivid color continually ... This often led to unnatural and disastrous results",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Contenção no uso da cor",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "eastman.org",
+      "data": "2026-11-18",
+      "notas": "Li o texto do ensaio da própria Kalmus, reproduzido pelo museu. O princípio é a contenção («color restraint»). «Saturação máxima» é o contrário do que ela defende. «Uma só cor dominante» e «cor apenas em exteriores» não aparecem como princípios dela nos excertos que li. O ensaio é de 1935, o que é compatível com «depois dos maus resultados» do Technicolor de duas cores.",
+      "hash_texto": "94a27c4c1ec96393f0caec9c2891dc775527b611f863ea2ca8f623da83014256"
+    },
     "advogado": null,
     "editor": null
   },
@@ -62,6 +79,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "Nenhum quiz com este ângulo (princípio defendido após os maus resultados do sistema de duas cores). Os quizzes encontrados só perguntam qual era o papel dela. Opções sem correspondência. | provas: https://www.wayground.com/admin/quiz/650c85a8f294d002c3eec588/technicolor-history (quiz Wayground sobre Technicolor: só pergunta o papel de Kalmus, sem o ângulo do princípio defendido depois do Technicolor de duas cores); https://en.wikipedia.org/wiki/Natalie_Kalmus (fonte enciclopédica, não quiz)"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte eastman.org"
     }
   ],
   "etiquetas": []
