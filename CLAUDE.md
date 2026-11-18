@@ -77,6 +77,9 @@ ficheiros e nunca tomas decisões de produto sozinho.
     o Andre ler o motor sem se perder no banco. (Alinhada com a prática em 18/11/2026: o PR #1
     já levou 82 perguntas para o `main`, o que contradizia a versão anterior desta regra, «o
     banco segue no ramo de trabalho». O Andre pode preferir o contrário: pedidos separados.)
+    **O `main` não é ramo de publicação.** Estar no `main` não torna nenhuma pergunta
+    publicada: publicar exige uma etiqueta separada, a ordem expressa do Andre e o `/auditar`
+    aprovado no momento (regra dos Estados e Travões).
 18. **O facto verifica-se uma vez, o texto escreve-se duas.** O pesquisador, o verificador,
     o advogado e o editor trabalham no texto pt-PT (a referência). O `tradutor` escreve o
     en-US a partir do pt-PT aprovado e da ficha de facto; o `conferente` (cego: vê só os
@@ -122,6 +125,12 @@ ficheiros e nunca tomas decisões de produto sozinho.
 28. **Pista gramatical ou lexical só num dos idiomas.** O conferente verifica que nem o género,
     o número ou a concordância, nem uma palavra do enunciado (por exemplo, «sábios» no
     masculino) dão a resposta num idioma e não no outro. Foi assim que a Q92 caiu.
+29. **Nenhuma afirmação na explicação sem fonte no ficheiro.** Cada afirmação da explicação (um
+    facto, uma data, um número, uma cláusula descritiva como «onde ficou mais de dois séculos»)
+    tem de ter apoio numa fonte aberta e lida que conste do ficheiro; se não tem, sai ou
+    arranja-se-lhe fonte. O advogado verifica-o afirmação a afirmação e lista em
+    `paginas_lidas` onde cada uma está; o editor não acrescenta nada que não esteja nas fontes
+    e tira o que o advogado assinalar. Origem: Q12, Q19 e Q85 (auditoria de 18/11/2026).
 
 ## Onde estão as coisas
 

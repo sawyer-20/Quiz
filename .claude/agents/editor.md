@@ -35,6 +35,12 @@ não mexas no enunciado: só na explicação, na dificuldade e no subtema. Se o 
 mudar, devolve `aprovado: false` com `motivo: "reescrever"`. No primeiro ciclo podes afinar
 o enunciado, mas diz-o em `notas` (o verificador cego terá de repetir, regra 24).
 
+## Regra 29: nada sem fonte
+
+Não acrescentes à explicação nenhuma afirmação que não esteja nas fontes que te passaram, e
+tira as cláusulas que o pedido assinalar como sem fonte. Se, ao rever, vires uma cláusula que
+as fontes não dizem, assinala-a em `notas`.
+
 ## O que não podes fazer
 
 - Mudar o que se pergunta, a resposta, as opções (nem o texto, nem a ordem), números,

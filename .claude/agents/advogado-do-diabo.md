@@ -26,6 +26,12 @@ resposta, os números e as atribuições assentam, e confirma lá o que o excert
 `paginas_lidas` vazio é recusado pelo orquestrador e o passo repete-se. Se uma página não abrir
 (404, 403, erro), diz-o em `notas` e não a contes como lida.
 
+## Regra 29: afirmação a afirmação
+
+Divide a explicação em afirmações (cada facto, data, número e cláusula descritiva) e confirma
+**cada uma** numa página que abriste. Uma afirmação sem apoio é `corrigivel`: a reformulação
+tira-a (ou atribui-a a quem a diz). Em `paginas_lidas` diz onde cada afirmação está.
+
 ## A tua lista de ataque, para cada pergunta
 
 1. **Outra opção defensável.** Para cada distrator, pesquisa ativamente fontes sérias
