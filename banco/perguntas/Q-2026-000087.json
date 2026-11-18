@@ -47,7 +47,15 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Ângulo: diferença livro/filme (clássico de curiosidades, logo etiqueta clássico provável; dificuldade 2 e não 1, porque muita gente não sabe que no livro eram de prata). A LoC usa «purportedly» para a razão da mudança: a explicação atribui à LoC e diz só que a cor foi mudada; o verificador deve confirmar o motivo ou o advogado pode pedir para o retirar. Smithsonian (americanhistory.si.edu) devolveu 403, por isso falta a segunda fonte de domínio diferente; o resultado de pesquisa indica que o Smithsonian também diz que eram prateados no livro. Nota: no enunciado, «sapatos» (PT-PT) em vez de «sapatilhas»; o título do livro em PT («O Feiticeiro de Oz») pode variar entre edições."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "Facto e forma de perguntar (cor original dos sapatos no livro, mudada para vermelho no filme) são habituais em quizzes. As páginas de quiz abertas não mostraram o conjunto exato de 4 opções (só os resultados de pesquisa), por isso não há prova de opções iguais. Ver conclusão a partir dos resultados de pesquisa, sem abrir as páginas do FunTrivia. Não usar em dificuldade 4 ou 5. | provas: https://funtrivia.com/trivia-quiz/ForChildren/The-Wonderful-Wizard-of-Oz-by-L-Frank-Baum-262966.html (quiz FunTrivia sobre o livro; segundo a pesquisa, inclui a cor original dos sapatos); https://funtrivia.com/trivia-quiz/Movies/Off-to-See-the-Wizard-13774.html (quiz sobre o filme com a mudança dos sapatos); https://www.triviaduel.com/wizard-of-oz-trivia (trivia sobre Oz)"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [
+    "classico"
+  ]
 }

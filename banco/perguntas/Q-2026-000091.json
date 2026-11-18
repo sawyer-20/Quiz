@@ -57,6 +57,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Ângulo novo: em vez de onde ficam os objetos pequenos, pergunta-se o que fizeram os machos após a inversão (resultado central do estudo), atribuído a Endler, Endler e Doerr, e «em três dias» vem do resumo da revista (JCU) e da National Geographic (duas fontes). Não afirma a posição dos objetos no enunciado; a explicação diz «a partir da entrada do corredor» (abstract: «increase in size with distance from the avenue entrance»). Facto não clássico. Dificuldade 3 em vez de 4: a resposta correta é a mais óbvia por narrativa, por isso usei distratores plausíveis; sugiro rever se o editor quiser 4. Artigo em PDF não aberto (restrito); usei o resumo do repositório da JCU. Nature 467:255 só dá pré-visualização."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Não há quiz com este ângulo (experiência de inversão do gradiente, com prazo de três dias). O facto só aparece em divulgação científica. Nota de facto: as fontes dizem que os machos repuseram o gradiente em três dias, o que sustenta a opção 'Restabeleceram o gradiente original'. | provas: https://www.nature.com/articles/467255a (notícia científica sobre o estudo; sem quiz); https://sciencedaily.com/releases/2010/09/100909122801.htm (comunicado; sem quiz)"
     }
   ],
   "etiquetas": []

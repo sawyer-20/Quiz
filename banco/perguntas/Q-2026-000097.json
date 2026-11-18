@@ -56,6 +56,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Ângulo: o nome original do aparelho, não a redefinição de 2019. Não clássico. As duas fontes são do mesmo domínio (nist.gov), logo contam como uma; o verificador cego deve achar fonte independente (ex. NPL, BIPM, Guardian). Divergência: a Wikipédia dá o renomeamento em junho de 2016, o artigo NIST/CR Physique diz «desde 2017»; por isso a pergunta e a explicação não dão data da mudança de nome. Distratores plausíveis, nenhum defensável (balança de ampere/joule não existem com este uso). Chemistry World devolveu 405 e Britannica 403."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Não encontrei nenhum quiz, concurso ou app com esta pergunta nem com o mesmo conjunto de opções. O facto só aparece em artigos e na Wikipédia. Enunciado e opções originais. | provas: https://en.wikipedia.org/wiki/Kibble_balance (artigo, não quiz: antigo nome 'watt balance'); https://www.nist.gov/si-redefinition/kilogram/kilogram-kibble-balance (página institucional, não quiz)"
     }
   ],
   "etiquetas": []

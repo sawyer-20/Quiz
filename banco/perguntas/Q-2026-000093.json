@@ -57,6 +57,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Angulo novo: a forma latina criada por Fibonacci (em vez do significado sânscrito 'vazio' da Q-2026-000076). Não clássico de quiz (o clássico é «zero vem do árabe sifr»). Atribuído ao vocabulário Treccani como pedido. Grafia: Treccani e Oxford escrevem «zephyrum»; outras fontes escrevem «zephirum» (variante do mesmo termo). Distratores escolhidos para não coincidirem com termos medievais reais para o zero (circulus, theca, figura nihili, cifra, de Sacrobosco/Villedieu), que seriam defensíveis. A explicação atribui a Treccani e Oxford e usa só 1202 (duas fontes de acordo). treccani.it já usado antes; o verificador deve usar outra fonte independente (a página MacTutor de St Andrews não contém 'zephirum', não serve). Fontes novas: ora.ox.ac.uk (lido com --procurar). Acho que a explicação tem 2 frases e menos de 300 caracteres."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Não encontrei quiz com a pergunta 'que palavra latina medieval deu zero' nem estas opções. As pesquisas devolvem só artigos e dicionários de etimologia. As fontes que li apontam 'zephirum' (ou 'zephyrum'), mas sem indicar a resposta certa ao orquestrador: o verificador cego decide. A procura em sites de quiz teve poucos resultados diretos (o motor não indexa bem Sporcle, JetPunk, Kahoot nem Quizlet), mas não apareceu nenhum sinal de cópia. | provas: https://nordan.mywikis.wiki/wiki/Zero (etimologia de 'zero' a partir do latim medieval zephirum; sem quiz); https://www.math.utah.edu/~beebe/software/java/fibonacci/liber-abaci.html (sobre o Liber Abaci; sem quiz)"
     }
   ],
   "etiquetas": []

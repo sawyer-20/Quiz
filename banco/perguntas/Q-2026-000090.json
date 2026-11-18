@@ -57,6 +57,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Ângulo: atribuído a Grutter, sem percentagens exatas («quase todos»), explicação com cerca de 215 caracteres e 2 frases. Evitei a moreia como distrator: o UQ diz que os manuais presumiam proteção contra predadores e a Live Science refere que os casulos protegem «um pouco» deles. Espécie do estudo: Chlorurus sordidus (Live Science); o enunciado diz só «peixe-papagaio». O mecanismo (barreira física, química ou ocultação de odor) está por esclarecer e não é afirmado. A explicação refere «poucos» com casulo (Live Science: 10%); o número só está numa fonte e por isso não entra. Não clássico (ângulo: o inimigo, não o casulo)."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Não encontrei pergunta de quiz com este texto nem este conjunto de opções. O enunciado atribui o facto a uma investigadora concreta, o que lhe dá ângulo próprio. O facto circula em artigos e listas de curiosidades. Nota de facto para o pesquisador: nas fontes que li, a investigadora aparece como Alexandra Grutter (a UQ publica 'Dr Lexa Grutter'), e o estudo usou o peixe-papagaio Chlorurus sordidus. | provas: https://www.nbcnews.com/id/wbna40224827 (artigo de ciência, não é quiz: casulo protege de gnatiídeos); https://www.nationalgeographic.com/science/article/parrotfish-sleep-in-a-mosquito-net-made-of-mucus (idem)"
     }
   ],
   "etiquetas": []

@@ -57,6 +57,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Angulo: contagem de mulheres entre os nomes escolhidos por Eiffel (nota do advogado cumprida: o enunciado diz «escolheu»), com o projeto de 72 nomes femininos só na explicação. Enunciado reformulado face ao da Q-2026-000063. Facto semi-clássico de curiosidade (aparece em listas de curiosidades), dificuldade 3 e não 4/5. O texto da Sorbonne é uma entrevista a Benjamin Rigaud (a ausência de mulheres é dita por ele; o resumo introdutório da universidade afirma «72 male scientists»). O paris.fr não diz expressamente «nenhuma mulher», mas pergunta onde estão as cientistas; o pariszigzag.fr (nível 2, não aberto como fonte principal) diz «aucune femme». A lista de 2026 ainda ia a validação das academias: a explicação diz só «Paris propôs». Sites toureiffel.paris devolvem 403 (SETE, fonte oficial), não lidos. Fontes já usadas antes (paris.fr, sorbonne-universite.fr): o verificador deve usar outra independente (p. ex. museu/universidade ou imprensa de referência), não a Toulouse/ACMI, que não consegui encontrar na pesquisa. Alvo de retoma: não pode voltar à lista."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Não encontrei quiz com esta formulação. Os resultados são notícias sobre o projeto de acrescentar 72 nomes de mulheres cientistas (anunciado em janeiro de 2026, trabalho previsto para 2027). Risco factual, não de originalidade: o enunciado deve deixar claro que se refere aos nomes gravados por Eiffel em 1889, para não confundir com a inscrição futura. | provas: https://toureiffel.paris/en/news/130-years/whose-are-72-names-inscribed-eiffel-tower-and-why-are-they-there (os 72 nomes são todos de homens; sem quiz); https://en.wikipedia.org/wiki/List_of_the_72_names_on_the_Eiffel_Tower (lista; sem quiz)"
     }
   ],
   "etiquetas": []
