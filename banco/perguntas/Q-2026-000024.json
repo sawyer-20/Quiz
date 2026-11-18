@@ -66,8 +66,8 @@
       "dominio": "smithsonianmag.com",
       "titulo": "How Scientists Discovered Helium, the First Alien Element, 150 Years Ago (Smithsonian Magazine)",
       "nivel": 2,
-      "excerto": "going all the way to Guntur, India, for the total solar eclipse of August 18, 1868. ... On the day of the eclipse, armed with his spectroscope, Janssen saw ... a bright yellow line whose wavelength didn't match with any known element.",
-      "consultada_em": "2026-11-11",
+      "excerto": "He also chased after eclipses [...] going all the way to Guntur, India, for the total solar eclipse of August 18, 1868. [...] Janssen saw [...] a bright yellow line whose wavelength didn't match with any known element.",
+      "consultada_em": "2026-11-18",
       "papel": "verificador"
     }
   ],
@@ -77,8 +77,9 @@
       "concorda": true,
       "confianca": "media",
       "dominio": "smithsonianmag.com",
-      "data": "2026-11-11",
-      "notas": "Uma só fonte lida (Smithsonian, n2). Guntur fica na Índia; Brasil, Austrália e Egito não aparecem. Sem fontes PT n1."
+      "data": "2026-11-18",
+      "notas": "Aberto e lido. Guntur (Índia), eclipse de 18/08/1868, linha amarela. Brasil, Egito e Austrália não aparecem em nenhuma fonte para este episódio. Só uma fonte lida (nível 2); os resultados da pesquisa (arXiv, etc.) coincidem mas não os abri.",
+      "hash_texto": "83a9ad4313b52d3e583daf9bdf2239840644bd453917765d3a89624f899f8fd1"
     },
     "advogado": {
       "aprovado": true,
@@ -191,6 +192,12 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte smithsonianmag.com"
     }
   ],
   "etiquetas": [
