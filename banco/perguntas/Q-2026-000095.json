@@ -12,6 +12,16 @@
         "Fecha a partitura e deixa-a na cadeira"
       ],
       "explanation": "Cada músico apaga a sua vela e sai, até restarem só dois violinos, no final da Sinfonia n.º 45 (1772). Segundo a anedota mais conhecida, era um recado ao príncipe Nikolaus Esterházy, porque os músicos tinham saudades de Eisenstadt."
+    },
+    "en-US": {
+      "question": "In Haydn's \"Farewell\" Symphony, what does each musician do, one by one, before leaving the stage at the end?",
+      "options": [
+        "Deliberately detunes their instrument",
+        "Snuffs out the candle on their stand",
+        "Bows to the prince",
+        "Closes their score and leaves it on the chair"
+      ],
+      "explanation": "Each musician snuffs out their candle and leaves, until only two violins remain, at the end of Symphony No. 45 (1772). According to the best-known anecdote, it was a hint to Prince Nikolaus Esterházy, because the musicians were homesick for Eisenstadt."
     }
   },
   "correct": 1,
@@ -82,6 +92,16 @@
       "alteracao_factual": false,
       "notas": "Segundo ciclo: enunciado e opções intactos. Explicação mantida (cerca de 230 caracteres, 2 frases, começa pela resposta, sem dúvida nem números novos). A anedota e Eisenstadt têm apoio no esterhazy.at (n1), segundo o pedido; os dois violinos e 1772 não os confirmei nos excertos, que não recebi, por isso o advogado deve garantir que constam das fontes. Dificuldade 3 mantida. Subtema afinado.",
       "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "Titulo: \"Farewell\" Symphony (nome corrente em ingles; o pt-PT diz «Sinfonia do Adeus»). Opcao 1: \"Snuffs out the candle on their stand\" (apagar = snuff out; mantem-se «stand» = estante). Atribuicao mantida: «Segundo a anedota mais conhecida» -> \"According to the best-known anecdote\"; \"hint\" traduz «recado». Pista lexical: \"candle\" aparece so na certa, tal como «vela» no pt-PT. Sem nomes ou numeros novos; \"Symphony No. 45\" e 1772 como no pt-PT."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Facto, números (Sinfonia n.º 45, 1772, dois violinos) e a cautela da anedota («segundo a anedota mais conhecida» e «according to the best-known anecdote») coincidem. As 4 opções são equivalentes uma a uma, pela mesma ordem. Regra 28: sem pista de género, número ou léxico num só idioma. «Recado» e «hint» são aproximados, mas aceitáveis. Limites cumpridos.",
+      "data": "2026-11-18",
+      "hash_texto": "73907685d7bb69b29800f579f8a8db80f7dd12ae4ba121aada82a47ab281ea6d"
     }
   },
   "estado": "em_verificacao",
@@ -207,6 +227,18 @@
       "data": "2026-11-18",
       "evento": "revista pelo editor",
       "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Titulo: \"Farewell\" Symphony (nome corrente em ingles; o pt-PT diz «Sinfonia do Adeus»). Opcao 1: \"Snuffs out the candle on their stand\" (apagar = snuff out; mantem-se «stand» = estante). Atribuicao mantida: «Segundo a anedota mais conhecida» -> \"According to the best-known anecdote\"; \"hint\" traduz «recado». Pista lexical: \"candle\" aparece so na certa, tal como «vela» no pt-PT. Sem nomes ou numeros novos; \"Symphony No. 45\" e 1772 como no pt-PT."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
       "nota": ""
     }
   ],

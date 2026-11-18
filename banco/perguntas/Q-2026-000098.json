@@ -105,9 +105,15 @@
     "tradutor": {
       "data": "2026-11-18",
       "notas": "Datas em formato americano (March 20, 1966). «a taça» passou a «the trophy» para repetir o termo da pergunta. «Um agente da Scotland Yard» = «A Scotland Yard officer». Daily Mirror e Scotland Yard mantidos na forma original. «cordel» = «string», como na ficha de facto (newspaper and string). Sem diferenças de facto face ao pt-PT."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Datas (20 e 27 de março de 1966), David Corbett, o embrulho de jornal atado com cordel e a taça coincidem nos dois idiomas. As opções são equivalentes uma a uma. Regra 28: sem pista de género ou número; «Um cão» concorda com «Quem» como as restantes opções. A opção certa é mais longa e detalhada que as outras, mas isto acontece igual nos dois idiomas e não é pista introduzida pela tradução. Limites cumpridos.",
+      "data": "2026-11-18",
+      "hash_texto": "acd64a0077f5892e125015749d5b82c7e805f98e60798daae55a5514710c614e"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-18",
@@ -225,9 +231,22 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Datas em formato americano (March 20, 1966). «a taça» passou a «the trophy» para repetir o termo da pergunta. «Um agente da Scotland Yard» = «A Scotland Yard officer». Daily Mirror e Scotland Yard mantidos na forma original. «cordel» = «string», como na ficha de facto (newspaper and string). Sem diferenças de facto face ao pt-PT."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": [
     "classico"
-  ]
+  ],
+  "options_lock": "a300fde08c10752404d3ada4d7db909d3d0e25257e9f2cc70c1a5de93dd4b816"
 }
