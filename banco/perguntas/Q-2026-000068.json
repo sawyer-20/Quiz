@@ -61,7 +61,11 @@
       "notas": "Substituí o blogue neiloseman.com. Li duas páginas da PetaPixel (imprensa especializada, nível 2, fora de zeiss.com e afi.com). A de 2013 diz que o Planar 50mm f/0.7 foi usado por Kubrick em «Barry Lyndon». A de 2015 (https://petapixel.com/2015/04/01/a-look-at-the-camera-lenses-used-by-stanley-kubrick-over-his-career/) diz: «Kubrick’s ultra rare Zeiss f/0.7 lens, which he used to film scenes by the dim light of candles». Nenhuma das duas menciona a NASA. A ligação à NASA aparece só em resultados de pesquisa e no blogue já lido (Carl Zeiss construiu 10 Planar 50mm f/0.7 para a NASA). Não consegui abrir o DPReview (403) nem o artigo do ASC (theasc.com, erro 520). O resumo de pesquisa do ASC refere lentes Zeiss de 50 mm e 36,5 mm f/0.7, mas não o li. Nikon, Leica e Panavision: nenhuma fonte lhes atribui estas lentes. A Mitchell BNC foi adaptada pela Cinema Products, mas a lente é Zeiss. A confiança fica média porque ambas as fontes são da mesma publicação, PetaPixel, e a ligação à NASA não está confirmada por fonte independente lida.",
       "hash_texto": "a536d2d0b083727ed4813837022d2910b55f02c729d217f0c15d281223851af2"
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "Zeiss (nível 1, fabricante): Planar 0.7/50 mm, só dez produzidas, «at the time the world's fastest lens», usada por Kubrick nas cenas à luz de velas de Barry Lyndon sem luz adicional. PetaPixel: Planar 50 mm f/0.7, só 10 existentes. Os dois estão de acordo no número dez. A Zeiss também diz que Harlan comprou uma lente e depois mais duas, ou seja, três para o projeto de Kubrick, o que sustenta «Kubrick comprou três». A AFI devolveu 403 e não a contei como lida; a afirmação das três lentes assenta na Zeiss, mais o excerto do pesquisador, que não pude confirmar. Fica uma nota menor: a compra foi feita por Jan Harlan, o produtor executivo, em nome de Kubrick, e a AFI atribui-a a Kubrick. Como a lente é de qualquer modo a de Kubrick e a explicação não depende desse pormenor, não bloqueia. Outras marcas: nenhuma fonte atribui estas lentes a Leica, Nikon ou Panavision. A adaptação da câmara (Mitchell BNC) foi feita por Ed Di Giulio, mas a lente é Zeiss, por isso a pergunta, que fala em «fabricou as lentes», não é ambígua. Não encontrei segunda resposta. | páginas lidas pelo advogado: https://www.zeiss.com/photonics-and-optics/en/home/content/newsroom/news-overview/2022/zeiss-planar-07-50.html, https://petapixel.com/2013/01/25/grandson-of-zeiss-lens-designer-was-left-a-holy-grail-of-zeiss-lenses/"
+    },
     "editor": null
   },
   "estado": "em_verificacao",
@@ -104,6 +108,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte petapixel.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []

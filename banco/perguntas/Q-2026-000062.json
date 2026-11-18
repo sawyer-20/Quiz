@@ -70,7 +70,11 @@
       "notas": "A ESA data o lançamento da Voyager 2 a 20/08/1977. A pesquisa (Britannica, que deu 403 no leitor) indica a Voyager 1 a 5/09/1977, por isso fica excluída. Mariner 10 e Pioneer 11 foram lançadas em 1973: dado de conhecimento geral, que não verifiquei nesta sessão, mas as duas não podem ser a de 1977 se a Voyager 2 for a de 20 de agosto de 1977 (e a pergunta admite uma só).",
       "hash_texto": "142cc8e6f0f275e6e5baa4b1150d7aa2f4a75efd7905c7b040f692ce4bc4995e"
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "Li as páginas e confirmei tudo. Voyager 2: 20 ago 1977, 14:29:44 UT (NASA e ESA, duas fontes independentes de nível 1). Voyager 1: 5 set 1977. Pioneer 11: 6 abr 1973 (NASA). Mariner 10: 3 nov 1973 (NASA). Os distratores são portanto falsos, com uma única resposta possível. A explicação também se sustenta: a NASA diz que a Voyager 1 foi lançada depois da 2 mas, por ter uma rota mais rápida, saiu antes da cintura de asteroides e ultrapassou a Voyager 2 a 15 dez 1977. As datas de sobrevoo da NASA confirmam que a Voyager 1 chegou primeiro a Júpiter (mar 1979 contra jul 1979) e a Saturno (nov 1980 contra ago 1981). Não encontrei segunda resposta, ambiguidade de definição nem problema de validade ou de sensibilidade. A reserva do verificador sobre Pioneer 11 e Mariner 10 está resolvida: li as páginas da NASA. | páginas lidas pelo advogado: https://science.nasa.gov/mission/voyager/voyager-2/, https://science.nasa.gov/mission/voyager/voyager-1/, https://science.nasa.gov/mission/pioneer-11/, https://science.nasa.gov/mission/mariner-10/, https://www.esa.int/Science_Exploration/Space_Science/20_August (redireciona para https://www.esa.int/articles/about-us/directorates/science/20-august)"
+    },
     "editor": null
   },
   "estado": "em_verificacao",
@@ -113,6 +117,12 @@
       "evento": "reaberta como retoma única do lote 5 (originalidade reavaliada com a definição de 17/11)",
       "agente": "orquestrador",
       "nota": "sem repetir a pesquisa; segue para o verificador cego, advogado, editor, tradutor e conferente"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []
