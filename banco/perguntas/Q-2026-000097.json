@@ -1,0 +1,62 @@
+{
+  "id": "Q-2026-000097",
+  "topic": "Science",
+  "subtopic": "Metrologia",
+  "text": {
+    "pt-PT": {
+      "question": "A balança de Kibble, usada para realizar o quilograma a partir da constante de Planck, tinha antes outro nome. Qual?",
+      "options": [
+        "Balança de watt",
+        "Balança de Planck",
+        "Balança de joule",
+        "Balança de ampere"
+      ],
+      "explanation": "Chamava-se balança de watt porque mede corrente e tensão na bobina, cujo produto se exprime em watts. Foi inventada por Bryan Kibble no NPL em 1975, e hoje tem o nome do inventor."
+    }
+  },
+  "correct": 0,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.nist.gov/si-redefinition/kilogram/kilogram-kibble-balance"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.nist.gov/si-redefinition/kilogram/kilogram-kibble-balance",
+      "dominio": "nist.gov",
+      "titulo": "Kilogram: The Kibble Balance — NIST",
+      "nivel": 1,
+      "excerto": "Named after its inventor, Bryan Kibble at the U.K.'s NPL, who conceptualized it in 1975... The instrument was originally called a \"watt\" balance because it makes measurements of both current and voltage in the coil",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.nist.gov/publications/kibble-balance-and-kilogram",
+      "dominio": "nist.gov",
+      "titulo": "The Kibble balance and the kilogram — Schlamminger e El Haddad, Comptes Rendus Physique (via NIST)",
+      "nivel": 1,
+      "excerto": "Dr. Bryan Kibble invented the watt balance in 1975... Since 2017, the watt balance is called Kibble balance to honor the inventor, who passed in 2016.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
+  "criada_em": "2026-11-18",
+  "historico": [
+    {
+      "data": "2026-11-18",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Ângulo: o nome original do aparelho, não a redefinição de 2019. Não clássico. As duas fontes são do mesmo domínio (nist.gov), logo contam como uma; o verificador cego deve achar fonte independente (ex. NPL, BIPM, Guardian). Divergência: a Wikipédia dá o renomeamento em junho de 2016, o artigo NIST/CR Physique diz «desde 2017»; por isso a pergunta e a explicação não dão data da mudança de nome. Distratores plausíveis, nenhum defensável (balança de ampere/joule não existem com este uso). Chemistry World devolveu 405 e Britannica 403."
+    }
+  ],
+  "etiquetas": []
+}

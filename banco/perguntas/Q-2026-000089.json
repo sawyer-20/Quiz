@@ -1,0 +1,63 @@
+{
+  "id": "Q-2026-000089",
+  "topic": "Nature & Animals",
+  "subtopic": "Genética do paladar",
+  "text": {
+    "pt-PT": {
+      "question": "No estudo de 2005 que explicou a indiferença do gato ao açúcar, em que outro animal testado o gene Tas1r2 estava inutilizado?",
+      "options": [
+        "Rato",
+        "Cão",
+        "Ser humano",
+        "Tigre"
+      ],
+      "explanation": "No estudo de 2005 (PLoS Genetics), o tigre e a chita mostraram a mesma deleção de 247 pares de bases no Tas1r2 do gato. O cão, o ser humano, o ratinho e o rato têm, segundo o estudo, sabor doce funcional."
+    }
+  },
+  "correct": 3,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0010003",
+    "https://www.eurekalert.org/news-releases/547458"
+  ],
+  "fontes": [
+    {
+      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0010003",
+      "dominio": "plos.org",
+      "titulo": "Pseudogenization of a Sweet-Receptor Gene Accounts for Cats' Indifference toward Sugar (PLOS Genetics, 2005)",
+      "nivel": 1,
+      "excerto": "We found that Tas1r2 in all six cats, the tiger, and the cheetah show the identical 247-bp deletion in exon 3. [...] compared with dog, human, mouse, and rat—all species that display a functional sweet-taste modality.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.eurekalert.org/news-releases/547458",
+      "dominio": "eurekalert.org",
+      "titulo": "Defective sweet taste receptor gene shapes cat cuisine (Monell Chemical Senses Center, 2005)",
+      "nivel": 2,
+      "excerto": "The Monell researchers also detected the same gene defect in tiger and cheetah, suggesting that it is common to species throughout the cat family.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
+  "criada_em": "2026-11-18",
+  "historico": [
+    {
+      "data": "2026-11-18",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Ângulo: pergunta atribuída ao estudo de 2005 (Li et al.), com distratores que o próprio estudo dá como tendo sabor doce funcional (cão, humano, rato); sem afirmar nada sobre outros animais. «Inutilizado» = pseudogene (deleção + codões de paragem). Reduz o risco do advogado: o cão só aparece no estudo como proteína «aparentemente normal» e comportamento de apreço pelos doces («even some other carnivores such as the dog»); a explicação atribui ao estudo. Quase clássico (gatos não saboreiam o doce) mas o ângulo tigre/estudo não é de quiz; tratar como não clássico. Opção «Rato» pode ser lida como rato ou ratinho: ambos testados no estudo. Chita e outros felinos não aparecem como opções."
+    }
+  ],
+  "etiquetas": []
+}

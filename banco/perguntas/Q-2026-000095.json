@@ -1,0 +1,63 @@
+{
+  "id": "Q-2026-000095",
+  "topic": "Music",
+  "subtopic": "Música clássica",
+  "text": {
+    "pt-PT": {
+      "question": "Na «Sinfonia do Adeus» de Haydn, que gesto faz cada músico antes de sair do palco, um a um, no final?",
+      "options": [
+        "Fecha a partitura e deixa-a na cadeira",
+        "Faz uma vénia ao príncipe",
+        "Desafina de propósito o seu instrumento",
+        "Apaga a vela da sua estante"
+      ],
+      "explanation": "Na Sinfonia n.º 45 (1772), os músicos apagavam a vela e saíam, até restarem só dois violinos. Era um recado a Nikolaus Esterházy: a temporada de verão tinha acabado e eles queriam voltar para casa."
+    }
+  },
+  "correct": 3,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.laphil.com/works/symphony-no-45-farewell",
+    "https://www.lso.co.uk/explore/what-you-should-know-about-joseph-haydn/"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.laphil.com/works/symphony-no-45-farewell",
+      "dominio": "laphil.com",
+      "titulo": "Symphony No. 45, \"Farewell\" — LA Phil",
+      "nivel": 2,
+      "excerto": "player after player finished his part, blew out his candle, and left, until only two violins (Haydn himself and Luigi Tomasini) remained, and they too followed their colleagues.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.lso.co.uk/explore/what-you-should-know-about-joseph-haydn/",
+      "dominio": "lso.co.uk",
+      "titulo": "What you should know about Joseph Haydn — London Symphony Orchestra",
+      "nivel": 2,
+      "excerto": "Haydn's witty 'Farewell' Symphony of November 1772, in which one by one the musicians left the stage, packing up their instruments and blowing out their candles, was designed as a heavy hint to the Prince",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
+  "criada_em": "2026-11-18",
+  "historico": [
+    {
+      "data": "2026-11-18",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Ângulo: o gesto (vela) e não o «quem/quando». Facto CLÁSSICO de quiz (a Sinfonia do Adeus é muito conhecida), por isso dificuldade 3 e etiqueta classico. Fontes são orquestras (nível 2; nenhuma de nível 1 aberta: Britannica, UC Davis e Berklee devolveram 403). Pormenor não usado por haver versões divergentes: o fim (dois violinos vs. maestro e um violinista, Kennedy Center); por isso a explicação segue o LA Phil e não fixa quem fica. A explicação diz «1772» (LSO: novembro de 1772; LA Phil: 1772). O verificador deve evitar laphil.com e lso.co.uk."
+    }
+  ],
+  "etiquetas": []
+}

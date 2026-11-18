@@ -1,0 +1,63 @@
+{
+  "id": "Q-2026-000090",
+  "topic": "Nature & Animals",
+  "subtopic": "Vida marinha",
+  "text": {
+    "pt-PT": {
+      "question": "Segundo a bióloga Lexa Grutter (Universidade de Queensland), o casulo de muco que o peixe-papagaio cria para dormir protege-o de quê?",
+      "options": [
+        "De algas que se fixam nas escamas",
+        "De bactérias presentes na água do recife",
+        "De ondas e correntes fortes durante a noite",
+        "De parasitas que lhe mordem, os isópodes gnatídeos"
+      ],
+      "explanation": "Na experiência de Grutter, divulgada em 2010, quase todos os peixes-papagaio sem casulo foram atacados por gnatídeos, contra poucos dos que o tinham. De noite, sem peixes-limpadores, o casulo funciona como rede mosquiteira."
+    }
+  },
+  "correct": 3,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://news.uq.edu.au/2010-11-16-fish-sleep-more-soundly-when-they-have-mosquito-net",
+    "https://www.livescience.com/8979-mucus-cocoons-protect-fish-parasites.html"
+  ],
+  "fontes": [
+    {
+      "url": "https://news.uq.edu.au/2010-11-16-fish-sleep-more-soundly-when-they-have-mosquito-net",
+      "dominio": "uq.edu.au",
+      "titulo": "Fish sleep more soundly when they have a mosquito net (The University of Queensland, 2010)",
+      "nivel": 1,
+      "excerto": "We exposed coral reef parrotfish with and without cocoons to ectoparasitic gnathiids overnight. Fish without mucous cocoons were attacked more by gnathiids, than the fish with cocoons.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.livescience.com/8979-mucus-cocoons-protect-fish-parasites.html",
+      "dominio": "livescience.com",
+      "titulo": "Mucus Cocoons Protect Fish from Parasites (Live Science, 2010)",
+      "nivel": 2,
+      "excerto": "nearly 95 percent of the fish without the cocoons were attacked, compared with just 10 percent of those coated in mucus. At night, when cleaner fish sleep, mucus cocoons act like 'mosquito nets'",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
+  "criada_em": "2026-11-18",
+  "historico": [
+    {
+      "data": "2026-11-18",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Ângulo: atribuído a Grutter, sem percentagens exatas («quase todos»), explicação com cerca de 215 caracteres e 2 frases. Evitei a moreia como distrator: o UQ diz que os manuais presumiam proteção contra predadores e a Live Science refere que os casulos protegem «um pouco» deles. Espécie do estudo: Chlorurus sordidus (Live Science); o enunciado diz só «peixe-papagaio». O mecanismo (barreira física, química ou ocultação de odor) está por esclarecer e não é afirmado. A explicação refere «poucos» com casulo (Live Science: 10%); o número só está numa fonte e por isso não entra. Não clássico (ângulo: o inimigo, não o casulo)."
+    }
+  ],
+  "etiquetas": []
+}

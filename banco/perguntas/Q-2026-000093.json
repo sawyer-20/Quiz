@@ -1,0 +1,63 @@
+{
+  "id": "Q-2026-000093",
+  "topic": "General Knowledge",
+  "subtopic": "etimologia",
+  "text": {
+    "pt-PT": {
+      "question": "No «Liber Abaci» (1202), Fibonacci adaptou o árabe «sifr» numa palavra latina medieval que deu «zero». Qual?",
+      "options": [
+        "Orbiculum",
+        "Vacuum",
+        "Nihilum",
+        "Zephyrum"
+      ],
+      "explanation": "Segundo o vocabulário Treccani, «zero» vem do latim medieval «zephyrum», adaptação que Fibonacci fez no Liber Abaci (1202) do árabe ṣifr. Um estudo da Universidade de Oxford regista aí o primeiro termo latino para o 0."
+    }
+  },
+  "correct": 3,
+  "difficulty": 4,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.treccani.it/vocabolario/zero/",
+    "https://ora.ox.ac.uk/objects/uuid:d73b5a83-4f01-4347-a257-e2fb8cbca12c/files/s6m311q832"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.treccani.it/vocabolario/zero/",
+      "dominio": "treccani.it",
+      "titulo": "Zero - Significato ed etimologia - Vocabolario Treccani",
+      "nivel": 1,
+      "excerto": "zero [dal lat. mediev. zèphyrum, adattam. (Leonardo Fibonacci nel Liber abbaci, 1202) dell'arabo ṣifr «nulla, zero», calco del sanscr. śūnyá «vuoto» e poi «zero»]",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://ora.ox.ac.uk/objects/uuid:d73b5a83-4f01-4347-a257-e2fb8cbca12c/files/s6m311q832",
+      "dominio": "ox.ac.uk",
+      "titulo": "Italian zero (Oxford University Research Archive)",
+      "nivel": 1,
+      "excerto": "in Arabic the sign '0' is called zephyrum. This is the earliest occurrence of a Latin term for the symbol '0'. Clearly, zephyrum is not actually an Arabic word [...] phonological adaption [...] of the Arabic word ṣifr 'empty'.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
+  "criada_em": "2026-11-18",
+  "historico": [
+    {
+      "data": "2026-11-18",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Angulo novo: a forma latina criada por Fibonacci (em vez do significado sânscrito 'vazio' da Q-2026-000076). Não clássico de quiz (o clássico é «zero vem do árabe sifr»). Atribuído ao vocabulário Treccani como pedido. Grafia: Treccani e Oxford escrevem «zephyrum»; outras fontes escrevem «zephirum» (variante do mesmo termo). Distratores escolhidos para não coincidirem com termos medievais reais para o zero (circulus, theca, figura nihili, cifra, de Sacrobosco/Villedieu), que seriam defensíveis. A explicação atribui a Treccani e Oxford e usa só 1202 (duas fontes de acordo). treccani.it já usado antes; o verificador deve usar outra fonte independente (a página MacTutor de St Andrews não contém 'zephirum', não serve). Fontes novas: ora.ox.ac.uk (lido com --procurar). Acho que a explicação tem 2 frases e menos de 300 caracteres."
+    }
+  ],
+  "etiquetas": []
+}

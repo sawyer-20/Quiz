@@ -1,0 +1,53 @@
+{
+  "id": "Q-2026-000087",
+  "topic": "Movies",
+  "subtopic": "Clássicos do cinema",
+  "text": {
+    "pt-PT": {
+      "question": "No livro original «O Feiticeiro de Oz», de que cor eram os sapatos mágicos de Dorothy, que no filme de 1939 passaram a vermelhos?",
+      "options": [
+        "Verde-esmeralda",
+        "Dourados",
+        "Prateados",
+        "Azul-safira"
+      ],
+      "explanation": "No romance de L. Frank Baum os sapatos eram de prata. A Biblioteca do Congresso refere que a cor foi mudada para rubi no filme da MGM de 1939 para aproveitar ao máximo a fotografia a cores."
+    }
+  },
+  "correct": 2,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.loc.gov/exhibits/oz/ozsect2.html"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.loc.gov/exhibits/oz/ozsect2.html",
+      "dominio": "loc.gov",
+      "titulo": "To See the Wizard - The Wizard of Oz: An American Fairy Tale (Library of Congress)",
+      "nivel": 1,
+      "excerto": "Originally silver in Baum's book, the slippers were purportedly changed to ruby to take full advantage of color photography. Each shoe is covered with red satin, to which 2,300 sequins are applied.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
+  "criada_em": "2026-11-18",
+  "historico": [
+    {
+      "data": "2026-11-18",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Ângulo: diferença livro/filme (clássico de curiosidades, logo etiqueta clássico provável; dificuldade 2 e não 1, porque muita gente não sabe que no livro eram de prata). A LoC usa «purportedly» para a razão da mudança: a explicação atribui à LoC e diz só que a cor foi mudada; o verificador deve confirmar o motivo ou o advogado pode pedir para o retirar. Smithsonian (americanhistory.si.edu) devolveu 403, por isso falta a segunda fonte de domínio diferente; o resultado de pesquisa indica que o Smithsonian também diz que eram prateados no livro. Nota: no enunciado, «sapatos» (PT-PT) em vez de «sapatilhas»; o título do livro em PT («O Feiticeiro de Oz») pode variar entre edições."
+    }
+  ],
+  "etiquetas": []
+}

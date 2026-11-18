@@ -1,0 +1,63 @@
+{
+  "id": "Q-2026-000091",
+  "topic": "Nature & Animals",
+  "subtopic": "Comportamento animal",
+  "text": {
+    "pt-PT": {
+      "question": "Em 2010, Endler, Endler e Doerr inverteram o tamanho dos objetos no pátio de cortejo de pássaros-jardineiros-grandes. O que fizeram os machos em três dias?",
+      "options": [
+        "Restabeleceram o gradiente original dos objetos",
+        "Trocaram todos os objetos por outros de cor diferente",
+        "Aceitaram a nova ordem e deixaram de a alterar",
+        "Abandonaram o pátio e construíram outro noutro local"
+      ],
+      "explanation": "Os machos dispõem os objetos do pátio com tamanho crescente a partir da entrada do corredor, o que cria perspetiva forçada para a fêmea. Após a inversão experimental (Current Biology, 2010), recuperaram o gradiente em três dias."
+    }
+  },
+  "correct": 0,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://researchonline.jcu.edu.au/16872/",
+    "https://www.nationalgeographic.com/science/article/male-bowerbirds-create-forced-perspective-illusions-that-only-females-see"
+  ],
+  "fontes": [
+    {
+      "url": "https://researchonline.jcu.edu.au/16872/",
+      "dominio": "jcu.edu.au",
+      "titulo": "Great bowerbirds create theaters with forced perspective when seen by their audience (Endler, Endler, Doerr; Current Biology 20, 2010; James Cook University)",
+      "nivel": 1,
+      "excerto": "Males make courts with gray and white objects that increase in size with distance from the avenue entrance. After experimental reversal of their size-distance gradient, males recovered their gradients within 3 days",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.nationalgeographic.com/science/article/male-bowerbirds-create-forced-perspective-illusions-that-only-females-see",
+      "dominio": "nationalgeographic.com",
+      "titulo": "Male bowerbirds create forced perspective illusions that only females see (National Geographic)",
+      "nivel": 2,
+      "excerto": "When he messed up the careful gradients by reversing the large and small trinkets, the males were quick to put things right. Within three days, the illusions had been restored.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
+  "criada_em": "2026-11-18",
+  "historico": [
+    {
+      "data": "2026-11-18",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Ângulo novo: em vez de onde ficam os objetos pequenos, pergunta-se o que fizeram os machos após a inversão (resultado central do estudo), atribuído a Endler, Endler e Doerr, e «em três dias» vem do resumo da revista (JCU) e da National Geographic (duas fontes). Não afirma a posição dos objetos no enunciado; a explicação diz «a partir da entrada do corredor» (abstract: «increase in size with distance from the avenue entrance»). Facto não clássico. Dificuldade 3 em vez de 4: a resposta correta é a mais óbvia por narrativa, por isso usei distratores plausíveis; sugiro rever se o editor quiser 4. Artigo em PDF não aberto (restrito); usei o resumo do repositório da JCU. Nature 467:255 só dá pré-visualização."
+    }
+  ],
+  "etiquetas": []
+}

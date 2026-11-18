@@ -1,0 +1,62 @@
+{
+  "id": "Q-2026-000086",
+  "topic": "Movies",
+  "subtopic": "Técnica / cor",
+  "text": {
+    "pt-PT": {
+      "question": "Depois dos maus resultados do Technicolor de duas cores, que princípio defendeu junto dos cineastas a supervisora de cor Natalie Kalmus?",
+      "options": [
+        "Saturação máxima em todas as cenas",
+        "Cor apenas em cenas de exterior",
+        "Uma só cor dominante em cada filme",
+        "Contenção no uso da cor"
+      ],
+      "explanation": "Segundo o ACMI, depois de ver o Technicolor de duas cores dar resultados «não naturais e desastrosos», Natalie Kalmus, supervisora de cor da Technicolor, pediu aos cineastas «contenção da cor» (colour restraint)."
+    }
+  },
+  "correct": 3,
+  "difficulty": 4,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.acmi.net.au/works/100238--graphic-natalie-kalmus-technicolor-pioneer/"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.acmi.net.au/works/100238--graphic-natalie-kalmus-technicolor-pioneer/",
+      "dominio": "acmi.net.au",
+      "titulo": "Natalie Kalmus | ACMI collection",
+      "nivel": 1,
+      "excerto": "After seeing filmmakers use the earlier two-strip Technicolor process to produce “unnatural and disastrous results”, she urged filmmakers to employ “colour restraint”.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.acmi.net.au/stories-and-ideas/natalie-kalmus-ringmaster-technicolor-rainbow/",
+      "dominio": "acmi.net.au",
+      "titulo": "Natalie Kalmus: ringmaster of the Technicolor rainbow | ACMI",
+      "nivel": 1,
+      "excerto": "In early Hollywood, if you wanted to use the Technicolor system, you needed to hire Natalie Kalmus too. The pioneering colour supervisor defined how films looked forever.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
+  "criada_em": "2026-11-18",
+  "historico": [
+    {
+      "data": "2026-11-18",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Ângulo escolhido: o princípio estético de Kalmus (não o facto de os estúdios a contratarem). Não clássico. Só há fonte ACMI (duas páginas do mesmo domínio, contam como uma); a segunda fonte independente fica para o verificador (encyclopedia.com não menciona «restraint»; Britannica e technicolor.com recusaram/404). A atribuição ao ACMI está no enunciado/explicação; a página de coleção ACMI usa «colour supervisor», a de stories usa «consultant»/«Technicolor director»: escolhi «supervisora de cor». Sem números nem «centenas de títulos». Opções em PT traduzem «colour restraint»; ligeiro risco de o verificador achar «contenção» o único termo plausível por ser o mais sóbrio."
+    }
+  ],
+  "etiquetas": []
+}

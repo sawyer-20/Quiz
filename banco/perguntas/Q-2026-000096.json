@@ -1,0 +1,63 @@
+{
+  "id": "Q-2026-000096",
+  "topic": "World History",
+  "subtopic": "Indonésia e vulcanismo",
+  "text": {
+    "pt-PT": {
+      "question": "Em 2004, cientistas acharam em Sumbawa uma aldeia sob cerca de 3 m de cinza de 1815, apelidada «Pompeia do Oriente». De que reino era?",
+      "options": [
+        "Reino de Mataram",
+        "Reino de Srivijaya",
+        "Reino de Majapahit",
+        "Reino de Tambora"
+      ],
+      "explanation": "Os cientistas encontraram uma aldeia e dois adultos soterrados em cerca de 3 m de cinza, restos do Reino de Tambora destruído pela erupção de 1815. A semelhança com o Vesúvio deu-lhe o nome de «Pompeia do Oriente»."
+    }
+  },
+  "correct": 3,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://science.nasa.gov/earth/earth-observatory/mount-tambora-volcano-sumbawa-island-indonesia-39412/",
+    "https://www.uri.edu/news/2006/02/uri-volcanologist-discovers-lost-kingdom-of-tambora/"
+  ],
+  "fontes": [
+    {
+      "url": "https://science.nasa.gov/earth/earth-observatory/mount-tambora-volcano-sumbawa-island-indonesia-39412/",
+      "dominio": "nasa.gov",
+      "titulo": "Mount Tambora Volcano, Sumbawa Island, Indonesia — NASA Science",
+      "nivel": 1,
+      "excerto": "In 2004, scientists discovered the remains of a village, and two adults buried under approximately 3 meters of ash in a gully on Tambora's flank—remnants of the former Kingdom of Tambora preserved by the 1815 eruption",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.uri.edu/news/2006/02/uri-volcanologist-discovers-lost-kingdom-of-tambora/",
+      "dominio": "uri.edu",
+      "titulo": "URI volcanologist discovers lost kingdom of Tambora — Rhody Today (University of Rhode Island)",
+      "nivel": 1,
+      "excerto": "There's potential that Tambora could be the Pompeii of the East, and it could be of great cultural interest, said Sigurdsson, who believes the village includes a large wooden palace",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
+  "criada_em": "2026-11-18",
+  "historico": [
+    {
+      "data": "2026-11-18",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Ângulo: o reino soterrado e a «Pompeia do Oriente», não a erupção nem o «ano sem verão». Facto pouco batido em quizzes (não clássico). Risco: a resposta contém «Tambora» e o enunciado não menciona o vulcão, mas quem conhecer a erupção pode deduzir; distratores são reinos indonésios históricos não ligados a Sumbawa. Alguns investigadores discutem se «reino» é o termo exato (a imprensa cunhou «reino perdido»), mas NASA afirma «Kingdom of Tambora»; o URI diz «could be the Pompeii of the East» (Sigurdsson), por isso a explicação fala só da semelhança com o Vesúvio, como a NASA. Datas/números (2004, ~3 m, 1815) coincidem em NASA e URI (URI usa ‘10 feet’/2004 em contexto; confirmar). Britannica devolveu 403."
+    }
+  ],
+  "etiquetas": []
+}

@@ -1,0 +1,63 @@
+{
+  "id": "Q-2026-000092",
+  "topic": "General Knowledge",
+  "subtopic": "arte e arquitetura",
+  "text": {
+    "pt-PT": {
+      "question": "Dos 72 nomes de sábios que Gustave Eiffel escolheu para a sua torre, quantos são de mulheres?",
+      "options": [
+        "Três",
+        "Uma",
+        "Nenhuma",
+        "Seis"
+      ],
+      "explanation": "Os 72 nomes escolhidos por Eiffel em 1889 são todos de homens. Em 2026, Paris propôs 72 nomes de mulheres cientistas, para igualar o número dos que já lá estão."
+    }
+  },
+  "correct": 2,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.sorbonne-universite.fr/en/news/hypatia-project-engraving-names-72-women-scientists-eiffel-tower",
+    "https://www.paris.fr/pages/bientot-des-noms-de-femmes-scientifiques-sur-la-tour-eiffel-30620"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.sorbonne-universite.fr/en/news/hypatia-project-engraving-names-72-women-scientists-eiffel-tower",
+      "dominio": "sorbonne-universite.fr",
+      "titulo": "The Hypatia project: engraving the names of 72 women scientists on the Eiffel Tower (Sorbonne Université)",
+      "nivel": 1,
+      "excerto": "inscribe the names of 72 French women scientists [...] to mirror the 72 male scientists engraved by Gustave Eiffel in 1889. [...] I discovered that there were no women listed on the tower at all.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.paris.fr/pages/bientot-des-noms-de-femmes-scientifiques-sur-la-tour-eiffel-30620",
+      "dominio": "paris.fr",
+      "titulo": "Bientôt 72 noms de femmes scientifiques sur la tour Eiffel (Ville de Paris)",
+      "nivel": 1,
+      "excerto": "Ces savants, ayant vécu entre 1789 et 1889, font partie des 72 scientifiques dont les noms ont été gravés sur la tour Eiffel lors de sa construction. [...] Mais où sont les mathématiciennes [...] ?",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
+  "criada_em": "2026-11-18",
+  "historico": [
+    {
+      "data": "2026-11-18",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Angulo: contagem de mulheres entre os nomes escolhidos por Eiffel (nota do advogado cumprida: o enunciado diz «escolheu»), com o projeto de 72 nomes femininos só na explicação. Enunciado reformulado face ao da Q-2026-000063. Facto semi-clássico de curiosidade (aparece em listas de curiosidades), dificuldade 3 e não 4/5. O texto da Sorbonne é uma entrevista a Benjamin Rigaud (a ausência de mulheres é dita por ele; o resumo introdutório da universidade afirma «72 male scientists»). O paris.fr não diz expressamente «nenhuma mulher», mas pergunta onde estão as cientistas; o pariszigzag.fr (nível 2, não aberto como fonte principal) diz «aucune femme». A lista de 2026 ainda ia a validação das academias: a explicação diz só «Paris propôs». Sites toureiffel.paris devolvem 403 (SETE, fonte oficial), não lidos. Fontes já usadas antes (paris.fr, sorbonne-universite.fr): o verificador deve usar outra independente (p. ex. museu/universidade ou imprensa de referência), não a Toulouse/ACMI, que não consegui encontrar na pesquisa. Alvo de retoma: não pode voltar à lista."
+    }
+  ],
+  "etiquetas": []
+}
