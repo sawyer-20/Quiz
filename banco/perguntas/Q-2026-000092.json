@@ -87,10 +87,14 @@
       "data": "2026-11-18",
       "notas": "Corrigido: «scholars» (sábios), «how many are women?», «all men». A lista de 2026 mantém «women scientists», como o pt-PT («mulheres cientistas»)."
     },
-    "conferente": null
+    "conferente": {
+      "aprovado": false,
+      "notas": "Facto, números, atribuição («segundo o CNRS» / «according to the CNRS»), data e cautela («provisória», «sujeita a parecer» / «provisional», «subject to review») coincidem. As opções correspondem uma a uma pela mesma ordem (Três/Three, Um/One, Seis/Six, Nenhum/None) e o índice certo 3 é igual nos dois. Não vi formas do português do Brasil nem calques no inglês. A grafia e a pontuação en-US estão corretas. As explicações têm 2 frases, abaixo de 300 caracteres. A pergunta termina em «?». A rejeição deve-se só à pista assimétrica de «sábios».",
+      "data": "2026-11-18"
+    }
   },
-  "estado": "em_verificacao",
-  "motivo_rejeicao": null,
+  "estado": "rejeitada",
+  "motivo_rejeicao": "ciclos esgotados: o conferente cego reprovou duas vezes (concordância de género, depois «sábios» no masculino como pista só em pt-PT); retoma única da Q63, não regressa à lista (regra 15)",
   "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-18",
   "historico": [
@@ -171,6 +175,18 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte aip.org"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"pergunta\", \"idioma\": \"pt-PT\", \"detalhe\": \"«sábios» é masculino e, no uso corrente, tende a ler-se como homens. Isto aponta para «nenhum» e não tem equivalente no en-US «scholars», que é neutro. A pista lexical existe só num dos idiomas. Na dúvida, rejeita. O ajuste (por exemplo, um termo neutro como «cientistas» ou «personalidades científicas») terá de vir do agente competente e, se mudar o texto, repete-se o conferente.\"}, {\"onde\": \"opção 3\", \"idioma\": \"pt-PT\", \"detalhe\": \"Observação"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "rejeitada",
+      "agente": "conferente",
+      "nota": "ciclos esgotados: o conferente cego reprovou duas vezes (concordância de género, depois «sábios» no masculino como pista só em pt-PT); retoma única da Q63, não regressa à lista (regra 15)"
     }
   ],
   "etiquetas": []
