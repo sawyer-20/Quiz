@@ -69,12 +69,12 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://www.11v11.com/matches/switzerland-v-austria-26-june-1954-226394/",
-      "dominio": "11v11.com",
-      "titulo": "Switzerland v Austria, 26 June 1954 - 11v11 match report",
+      "url": "https://www.rsssf.org/tableso/oostzwitres.html",
+      "dominio": "rsssf.org",
+      "titulo": "Das Alpenderby - Austria-Switzerland matches 1917-2024 (RSSSF)",
       "nivel": 2,
-      "excerto": "Switzerland: Ballaman 16, Hugi 17, Hugi 19, Ballaman 37, Hugi 60. Austria: Wagner 25, Korner 26, Wagner 28, Ocwirk 32, Korner 34, Wagner 53, Probst 77.",
-      "consultada_em": "2026-11-17",
+      "excerto": "Half-time came with the visitors leading 5-4, in spite of missing a penalty three minutes before the break, and they eventually emerged 7-5 winners in what is still the most prolific match ever played at a World Cup tournament.",
+      "consultada_em": "2026-11-18",
       "papel": "verificador"
     }
   ],
@@ -83,9 +83,10 @@
       "resposta_texto": "9",
       "concorda": true,
       "confianca": "alta",
-      "dominio": "11v11.com",
-      "data": "2026-11-17",
-      "notas": "Contei os minutos dos golos. Na 1.ª parte houve 4 golos suíços (16', 17', 19', 37') e 5 austríacos (25', 26', 28', 32', 34'), ou seja 9, com 5-4 ao intervalo. Os restantes 3 golos (Hugi 60', Wagner 53', Probst 77') foram na 2.ª parte. A pesquisa na Wikipédia também dá 5-4 ao intervalo, mas não a abri. As opções 10, 7 e 8 ficam excluídas. A fonte é nível 2 (base de dados de resultados), mas os minutos são explícitos e coerentes com o 7-5 final."
+      "dominio": "rsssf.org",
+      "data": "2026-11-18",
+      "notas": "Li a página da RSSSF e a página da Athlet.org (agência AMP). Ambas dão o intervalo em 5-4, ou seja 5+4 = 9 golos na 1.ª parte, num total de 12. A Athlet.org lista os golos: Ballaman 16', Wagner 25' e 27', Körner 26' e 34', Ocwirk 32', e na 2.ª parte Wagner 53' e Probst 76'. Pelos minutos indicados, só 8 golos têm minuto, e os restantes golos da 1.ª parte não vêm discriminados, mas o resultado ao intervalo (5:4) é explícito nas duas fontes. As opções 7, 8 e 10 ficam excluídas por 5+4=9. O enunciado diz bem 'quartos de final' e 7–5 para a Áustria. Uma fonte secundária (Grokipedia, que não usei) tem uma discrepância interna sobre 5-3, que parece erro.",
+      "hash_texto": "42bffde24113ef0e0e807674211351ab62bdbf2b5d5eee0e9a8c89434565551f"
     },
     "advogado": {
       "aprovado": true,
@@ -318,6 +319,12 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte rsssf.org"
     }
   ],
   "etiquetas": [],

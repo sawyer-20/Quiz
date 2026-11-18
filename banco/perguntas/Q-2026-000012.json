@@ -52,12 +52,12 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://www.mlit.go.jp/tagengo-db/common/001564006.pdf",
-      "titulo": "Dejima Dutch Trading Post (MLIT, Japão)",
-      "nivel": 1,
-      "excerto": "Dejima—an artificial island constructed between 1634 and 1636—was their solution. The Portuguese merchants would be concentrated in one place, isolated from the general population",
-      "dominio": "mlit.go.jp",
-      "consultada_em": "2026-11-05",
+      "url": "https://www.japanistry.com/dejima/",
+      "dominio": "japanistry.com",
+      "titulo": "Dejima Island | Japanistry",
+      "nivel": 2,
+      "excerto": "By 1634, the third shogun, Tokugawa Iemitsu, ordered the construction of Dejima to confine Portuguese traders ... In 1641, they [the Dutch] were ordered to move their factory from Hirado to ... Dejima.",
+      "consultada_em": "2026-11-18",
       "papel": "verificador"
     }
   ],
@@ -65,10 +65,11 @@
     "verificador": {
       "resposta_texto": "Portugueses",
       "concorda": true,
-      "confianca": "alta",
-      "dominio": "mlit.go.jp",
-      "data": "2026-11-05",
-      "notas": "Fonte oficial japonesa: construída 1634–1636 para os portugueses; neerlandeses só em 1641. Nota: a fama neerlandesa de Dejima é armadilha, não segunda resposta."
+      "confianca": "media",
+      "dominio": "japanistry.com",
+      "data": "2026-11-18",
+      "notas": "Só abri uma fonte, de nível 2 (um site de viagens que não é institucional). A pesquisa mostrou o mesmo noutras fontes, sem as abrir: construção a partir de 1634, portugueses expulsos em 1639, neerlandeses em 1641. Não consegui abrir uma fonte de nível 1 (o Britannica deu 403 e outros hosts não resolvem). Ingleses: sem relação com Dejima. Chineses: tiveram o seu bairro em Nagasaki, mas Dejima não foi construída para eles. Esta pergunta merece uma segunda fonte de nível 1 antes de aprovar. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Neerlandeses é a opção que muita gente defende, porque os neerlandeses foram quem ocupou Dejima durante mais de 200 anos (desde 1641). O enunciado, porém, pergunta para quem foi construída na década de 1630, e a fonte diz que foi para confinar os portugueses. Os neerlandeses só lá entraram em 1641, depois de os portugueses serem expulsos. Quem ler «mercadores confinados em Dejima» sem ter em conta a data pode escolher Neerlandeses. Aconselho o editor a manter «construída na década de 1630» e a olhar para o risco de leitura.",
+      "hash_texto": "3300242e7f525bc3601b266a00bc02d9c5b4a0419ca5f1192788f7808d14c52c"
     },
     "advogado": {
       "aprovado": true,
@@ -205,6 +206,12 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte japanistry.com"
     }
   ],
   "etiquetas": [

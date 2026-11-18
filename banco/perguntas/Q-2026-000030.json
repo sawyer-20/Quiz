@@ -62,15 +62,6 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://singapura.embaixadaportugal.mne.gov.pt/en/the-embassy/news/portugal-s-linguistic-legacy-in-southeast-asia,-by-jo%C3%A3o-oliveira-2",
-      "dominio": "mne.gov.pt",
-      "titulo": "Portugal's Linguistic Legacy in Southeast Asia, by João Oliveira (Embaixada de Portugal em Singapura)",
-      "nivel": 1,
-      "excerto": "On the weekend, that is, on sabtu (sábado; “Saturday”) and minggu (domingo; “Sunday”), he goes to a pesta (festa; “party”) with his friends.",
-      "consultada_em": "2026-11-11",
-      "papel": "verificador"
-    },
-    {
       "url": "https://journal.uinjkt.ac.id/index.php/dialektika/article/download/31895/pdf",
       "dominio": "uinjkt.ac.id",
       "titulo": "Dialektika (UIN Jakarta), tabela de empréstimos portugueses em indonésio",
@@ -78,16 +69,26 @@
       "excerto": "Tabela paralela de formas portuguesas e indonésias: «... Dança Domingo Dona Escola ...» alinhada com «... Dansa Minggu Nona Sekolah ...»",
       "consultada_em": "2026-11-11",
       "papel": "advogado"
+    },
+    {
+      "url": "https://wold.clld.org/word/71261839880540842",
+      "dominio": "clld.org",
+      "titulo": "WOLD (World Loanword Database): (hari) Minggu, Indonesian vocabulary (Tadmor)",
+      "nivel": 1,
+      "excerto": "Borrowed status: clearly borrowed. Source words: domingo 'Sunday' Portuguese. Meaning: Sunday. Contact situation: Portuguese influence.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
     "verificador": {
       "resposta_texto": "Domingo",
       "concorda": true,
-      "confianca": "media",
-      "dominio": "mne.gov.pt",
-      "data": "2026-11-11",
-      "notas": "Artigo de divulgação na página da Embaixada (mesmo texto do BiblioAsia/NLB do pesquisador?). Kamus Dewan (DBP) confirma os dois sentidos de minggu mas sem etimologia. Sem dicionário etimológico académico aberto fora do Wiktionary."
+      "confianca": "alta",
+      "dominio": "clld.org",
+      "data": "2026-11-18",
+      "notas": "Aberta e lida. WOLD é obra académica editada (Haspelmath & Tadmor) e confirma domingo como étimo do indonésio/malaio minggu. Segunda fonte lida, em nível 2/pistas: Wiktionary (en.wiktionary.org/wiki/minggu), com 'Malay minggu: Borrowed from Portuguese domingo (Sunday), from Latin dominicus'; regista minggu = 'week (period of seven days)'. O enunciado está correto: significa semana, mas vem de domingo. Semana é a distratora (é o significado, não a origem). Feira e Sábado não aparecem como étimo em nenhuma fonte.",
+      "hash_texto": "160437542547ccef64224367f8bcf21b62d8202855bbe7a3a2189ecba80ec237"
     },
     "advogado": {
       "aprovado": true,
@@ -200,6 +201,12 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte clld.org"
     }
   ],
   "options_lock": "b414b3c71344b8e16d832e83796db66981b8f6f1951bd286c7bd0fae71ae23bd"

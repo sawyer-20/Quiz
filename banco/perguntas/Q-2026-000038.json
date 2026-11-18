@@ -27,7 +27,7 @@
   "correct": 0,
   "difficulty": 3,
   "valid_until": null,
-  "daily_eligible": true,
+  "daily_eligible": false,
   "sources": [
     "https://www.irishtimes.com/sport/sports-jargon-try-1.697492",
     "https://www.rugbyworld.com/takingpart/rugby-basics/why-is-a-try-called-a-try-in-rugby-136012",
@@ -267,6 +267,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "daily_eligible retirado",
+      "agente": "orquestrador",
+      "nota": "decisão do revisor/Andre: só confirmação de nível 2 até haver fonte de nível 1; fora do Daily 10"
     }
   ],
   "options_lock": "c22fd1a81d50244f1990a0fe922885af2791844618ac27d76568a91d2e35d882"

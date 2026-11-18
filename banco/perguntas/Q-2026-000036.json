@@ -53,15 +53,6 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://news.mit.edu/2021/boiling-droplets-oily-surface-0812",
-      "dominio": "mit.edu",
-      "titulo": "Why boiling droplets can race across hot oily surfaces | MIT News",
-      "nivel": 1,
-      "excerto": "A droplet of boiling water on a hot surface will sometimes levitate on a thin vapor film, a well-studied phenomenon called the Leidenfrost effect. Because it is suspended on a cushion of vapor, the droplet can move across the surface with little friction.",
-      "consultada_em": "2026-11-11",
-      "papel": "verificador"
-    },
-    {
       "url": "https://arxiv.org/abs/1202.2157",
       "dominio": "arxiv.org",
       "titulo": "The Geometry of the Vapor Layer Under a Leidenfrost Drop",
@@ -69,6 +60,15 @@
       "excerto": "liquid drops deposited on a hot surface levitate on a thin vapor cushion fed by evaporation of the liquid.",
       "consultada_em": "2026-11-11",
       "papel": "advogado"
+    },
+    {
+      "url": "https://www.nature.com/articles/s41467-021-21981-z",
+      "dominio": "nature.com",
+      "titulo": "Leidenfrost droplet trampolining (Nature Communications, 2021)",
+      "nivel": 1,
+      "excerto": "…the droplet and the vapor co-exist in a quasi-static Leidenfrost equilibrium, which determines the droplet shape and the vapor cushion thickness… lifting force resulting from the draining vapor.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
@@ -76,9 +76,10 @@
       "resposta_texto": "Uma almofada de vapor formada pela própria gota",
       "concorda": true,
       "confianca": "alta",
-      "dominio": "mit.edu",
-      "data": "2026-11-11",
-      "notas": "MIT (universidade): gota levita sobre almofada de vapor. Britannica, APS, ScienceDirect 403."
+      "dominio": "nature.com",
+      "data": "2026-11-18",
+      "notas": "Aberta e lida (artigo científico revisto por pares). Descreve a gota de Leidenfrost a pairar sobre uma almofada de vapor que ela própria produz e que drena por baixo. A gota é mantida por sobrepressão do vapor, a ~251 °C no estudo. Excluídas: 'bolhas de ar presas' (o gás é vapor de água, não ar); 'tensão superficial que repele o calor' (a tensão superficial só entra no equilíbrio de forças da forma da gota, não repele calor); 'película de óxido' (nada no artigo, o efeito ocorre em silício e metais sem esse mecanismo). O artigo é de 2021, de domínio nature.com, mas o título é diferente do do pesquisador e o título e o domínio não estão na lista a evitar; nature.com só está proibido na Q-2026-000037, não nesta.",
+      "hash_texto": "33d40ddbf59f2df82324edb161a45a650e25a8eb3348dc6ea3d028999699a8a9"
     },
     "advogado": {
       "aprovado": true,
@@ -185,6 +186,12 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte nature.com"
     }
   ],
   "options_lock": "ed3ccbd9d1bfb953d8f6e598c9155e83f3f268c454edc21aaee00867fd4a0b58"

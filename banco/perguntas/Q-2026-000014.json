@@ -53,12 +53,12 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://www.mexicolore.co.uk/maya/chocolate/beanz-meanz-money",
-      "titulo": "Beanz meanz money! (Frances Berdan, Mexicolore)",
-      "nivel": 2,
-      "excerto": "most of us know that they used cacao (cocoa) beans as a simple rate of exchange... cocoa beans generally formed 'the every day small change'; one small rabbit = 30, one turkey egg = 3",
-      "dominio": "mexicolore.co.uk",
-      "consultada_em": "2026-11-10",
+      "url": "https://pages.ucsd.edu/~dkjordan/cgi-bin/moreabout.pl?tyimuh=cacao",
+      "dominio": "ucsd.edu",
+      "titulo": "Cacao, Cocoa, and Chocolate (UC San Diego)",
+      "nivel": 1,
+      "excerto": "Cacao beans were a luxury outside of the areas where they were grown, and they are reported to have served as a medium of exchange (\"money\") in the great Aztec market of Tlatelolco",
+      "consultada_em": "2026-11-18",
       "papel": "verificador"
     }
   ],
@@ -66,10 +66,11 @@
     "verificador": {
       "resposta_texto": "Sementes de cacau",
       "concorda": true,
-      "confianca": "alta",
-      "dominio": "mexicolore.co.uk",
-      "data": "2026-11-10",
-      "notas": "Mercado de Tlatelolco e preços em cacau (Frances Berdan, citando Bray e o Códice Florentino). 2.ª fonte lida: Lam Museum of Anthropology (Wake Forest University): 'People used cacao beans as money'. Feijões, milho e abóbora não aparecem como moeda."
+      "confianca": "media",
+      "dominio": "ucsd.edu",
+      "data": "2026-11-18",
+      "notas": "Li a página da UC San Diego, que é de uma universidade mas é uma página pessoal de um docente. Isso pesa na confiança. A fonte diz «are reported to have served», o que é uma atribuição prudente. Milho, feijão e abóbora não aparecem como moeda na fonte que li. Uma resposta pelo nome de «Sementes de cacau» é a que a fonte apoia. Não abri uma segunda fonte de domínio diferente (a pesquisa apontou outras, mas de divulgação). Por isso a confiança é média.",
+      "hash_texto": "413e80c7c530f1589028e6e88f5223883cfc4638320a6be49ceccfe4b095c4a4"
     },
     "advogado": {
       "aprovado": true,
@@ -170,6 +171,12 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte ucsd.edu"
     }
   ],
   "etiquetas": [

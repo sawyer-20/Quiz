@@ -27,7 +27,7 @@
   "correct": 0,
   "difficulty": 3,
   "valid_until": null,
-  "daily_eligible": true,
+  "daily_eligible": false,
   "sources": [
     "https://www.laphil.com/works/symphony-no-45-farewell",
     "https://www.lso.co.uk/explore/what-you-should-know-about-joseph-haydn/"
@@ -164,6 +164,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "daily_eligible retirado",
+      "agente": "orquestrador",
+      "nota": "decisão do revisor/Andre: só confirmação de nível 2 até haver fonte de nível 1; fora do Daily 10"
     }
   ],
   "etiquetas": [],

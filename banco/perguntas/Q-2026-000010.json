@@ -73,10 +73,10 @@
     {
       "url": "https://metrologie-francaise.lne.fr/en/metrology/history-units",
       "dominio": "lne.fr",
-      "titulo": "The historical evolution of units (LNE, Réseau National de la Métrologie Française)",
+      "titulo": "The historical evolution of units | Réseau National de la Métrologie Française (LNE)",
       "nivel": 1,
-      "excerto": "Introduced on 26 March 1791, the metre was defined as being equal to the ten millionth part of one quarter of the terrestrial meridian.",
-      "consultada_em": "2026-11-12",
+      "excerto": "the distance from the North pole to the equator, a quarter meridian ... Introduced on 26 March 1791, the metre was defined as being equal to the ten millionth part of one quarter of the terrestrial meridian",
+      "consultada_em": "2026-11-18",
       "papel": "verificador"
     }
   ],
@@ -86,8 +86,9 @@
       "concorda": true,
       "confianca": "alta",
       "dominio": "lne.fr",
-      "data": "2026-11-12",
-      "notas": "Excluídas as restantes; fonte lida. Ambiguidade assinalada pelo verificador e afastada pelo advogado do diabo (Paris–polo ≈ 4 900 km → 0,49 m ≠ 1 m)."
+      "data": "2026-11-18",
+      "notas": "Li a página do LNE, que é o organismo nacional francês de metrologia. O metro foi definido como um décimo de milionésimo do quarto de meridiano, do polo Norte ao equador, o que dá cerca de 10 000 km. As outras opções ficam excluídas. O perímetro do equador teria 40 000 km e foi uma alternativa rejeitada: a comissão considerou um quarto do equador e escolheu o quarto de meridiano. O diâmetro polo a polo não é referido. «De Paris ao polo Norte» é uma opção errada: o quarto de meridiano vai do polo ao equador (a medição de Delambre e Méchain foi de Dunquerque a Barcelona). Nota: o meridiano passa por Paris, mas o troço definido é polo-equador. Só li uma fonte de nível 1. A pesquisa mostrou outras fontes que dizem o mesmo, mas não as abri.",
+      "hash_texto": "234f02d2d89ccf9f7d2f4d15b00c87a05638663b81ca47771819d7fbadc8ad06"
     },
     "advogado": {
       "aprovado": true,
@@ -266,6 +267,12 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte lne.fr"
     }
   ],
   "options_lock": "a8e6cecbbbbc990a07c02ba5c92cdad6eb5f7546d82b904021d07f65a774de7d"

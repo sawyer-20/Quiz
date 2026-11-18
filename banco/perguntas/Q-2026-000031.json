@@ -74,12 +74,12 @@
       "papel": "advogado"
     },
     {
-      "url": "https://servicos-sraa.azores.gov.pt/grastore/crads/20170926/Proposta_classificacao_Monumento_Natural_Vulc%C3%A3o_Capelinhos.pdf",
-      "dominio": "azores.gov.pt",
-      "titulo": "Proposta de classificação do Vulcão dos Capelinhos como Monumento Natural (Governo dos Açores, SRAA)",
+      "url": "https://www.iugs.org/wp-content/uploads/2026/05/IUGS-FIRST-100-SITES-WEB-BOOK.pdf",
+      "dominio": "iugs.org",
+      "titulo": "IUGS 60th Anniversary: First 100 IUGS Geological Heritage Sites (web book), Site 007 Capelinhos Volcano",
       "nivel": 1,
-      "excerto": "tinham sido acrescentados à ilha do Faial cerca de 2.4 Km2 de área – as Terras Novas. [...] da paisagem inicial formada por este vulcão, restam apenas 0.5654Km2.",
-      "consultada_em": "2026-11-12",
+      "excerto": "…with only a fourth of this area remaining today due to sea erosion.",
+      "consultada_em": "2026-11-18",
       "papel": "verificador"
     }
   ],
@@ -87,10 +87,11 @@
     "verificador": {
       "resposta_texto": "Cerca de um quarto",
       "concorda": true,
-      "confianca": "alta",
-      "dominio": "azores.gov.pt",
-      "data": "2026-11-12",
-      "notas": "2,4 km² acrescentados e 0,5654 km² restantes (~23,6%); atribuição à IUGS confirmada no texto oficial da IUGS."
+      "confianca": "media",
+      "dominio": "iugs.org",
+      "data": "2026-11-18",
+      "notas": "Li o livro da IUGS (PDF) e o excerto sobre a área acrescentada ao Faial confirma 'a fourth'. O valor aproximado de 2,4 km² vem da pesquisa, não do excerto que li. A página tem a frase completa, e a opção certa corresponde-lhe. Excluídas: 'praticamente toda', 'três quartos' e 'metade' contradizem 'a fourth'. Uma segunda fonte independente (artigo português sobre os geossítios IUGS, ResearchGate) aparece nos resultados com 'cerca de um quarto', mas só vi o resumo da pesquisa e não a abri, por isso não a conto. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Domínio iugs.org é diferente de iugs-geoheritage.org (proibido), mas a entidade e o texto do sítio 007 são provavelmente os mesmos da fonte do pesquisador. Por isso só dei confiança média pela regra 20. A pergunta diz 'Segundo a IUGS', portanto a fonte relevante é esta. Outros estudos citados na pesquisa dão números diferentes: mais de dois terços da estrutura destruídos (ResearchGate, 'Capelinhos: the disappearing volcano') e 30% do cone de tufos (outra medida). Não os abri, mas não afetam a atribuição à IUGS.",
+      "hash_texto": "c7ac2341d5850f4d20935306d65f0c7003fa95e069fd9ddd9d241ff83baadafe"
     },
     "advogado": {
       "aprovado": true,
@@ -263,6 +264,12 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte iugs.org"
     }
   ],
   "options_lock": "cffff9be62fbb2618828da97e68621373e88246abd6fe570ec449e502101591a"

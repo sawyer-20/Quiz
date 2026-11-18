@@ -52,12 +52,12 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://marquandrarebooks.princeton.edu/2022/01/a-scrolling-facsimile-of-the-bayeux-tapestry-in-marquand/",
-      "titulo": "A Scrolling Facsimile of the Bayeux “Tapestry” in Marquand (Marquand Library, Princeton University)",
-      "nivel": 1,
-      "excerto": "Yet these images ... are embroidered rather than painted. In spite of its commonly used name, the Bayeux “Tapestry” is technically not a tapestry, since the imagery is not woven on a loom but embroidered in natural-dyed wool yarns onto a linen ground fabric.",
-      "dominio": "princeton.edu",
-      "consultada_em": "2026-11-05",
+      "url": "https://www.nationalgeographic.com/history/article/bayeux-tapestry-meaning-interpretation",
+      "dominio": "nationalgeographic.com",
+      "titulo": "Will the Bayeux Tapestry Finally Give Up Its Secrets? | National Geographic",
+      "nivel": 2,
+      "excerto": "The Bayeux Tapestry ... is not technically a tapestry at all but an embroidery: dyed wools stitched on bleached linen base cloth. Its embroidered scenes tell the story of the Norman Conquest of England, the 1066 invasion",
+      "consultada_em": "2026-11-18",
       "papel": "verificador"
     }
   ],
@@ -65,10 +65,11 @@
     "verificador": {
       "resposta_texto": "Bordado",
       "concorda": true,
-      "confianca": "alta",
-      "dominio": "princeton.edu",
-      "data": "2026-11-05",
-      "notas": "Princeton: bordado a lã sobre linho, não pintado nem tecido em tear; estampagem não referida."
+      "confianca": "media",
+      "dominio": "nationalgeographic.com",
+      "data": "2026-11-18",
+      "notas": "Li a National Geographic (nível 2). Os resultados de pesquisa do Britannica, do British Museum e de Oxford dizem o mesmo, mas deram 403 no leitor e só os vi no resumo da pesquisa, por isso não os conto como lidos. Não consegui abrir uma segunda fonte de nível 1, daí a confiança média. Tecelagem em tear fica excluída, porque a fonte diz que não é uma tapeçaria tecida. Pintura e carimbos não aparecem em nenhuma fonte; a obra é de lã tingida cosida sobre linho.",
+      "hash_texto": "eefc10a8ffb0d93e8af6705af36292458ecf453d2179f0d5fc00eb8ad266ebdb"
     },
     "advogado": {
       "aprovado": true,
@@ -187,6 +188,12 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte nationalgeographic.com"
     }
   ],
   "etiquetas": [

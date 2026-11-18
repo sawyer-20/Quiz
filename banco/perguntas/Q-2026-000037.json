@@ -62,15 +62,6 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://www.nationalgeographic.com/animals/article/swift-bird-10-month-migration",
-      "dominio": "nationalgeographic.com",
-      "titulo": "These Birds Fly Almost a Year Without Landing | National Geographic",
-      "nivel": 2,
-      "excerto": "This August, Niels Rattenborg of the Max Planck Institute for Ornithology in Germany proved that frigate birds ... do the same. He fitted brainwave sensors to 15 frigatebirds and showed that they sleep mid-flight",
-      "consultada_em": "2026-11-11",
-      "papel": "verificador"
-    },
-    {
       "url": "https://www.audubon.org/news/scientists-finally-have-evidence-frigatebirds-sleep-while-flying",
       "dominio": "audubon.org",
       "titulo": "Scientists Finally Have Evidence That Frigatebirds Sleep While Flying",
@@ -78,6 +69,15 @@
       "excerto": "All of the sleep recorded in the study occurred during the upwards-circling portion of the flight; the birds didn't sleep at all while gliding down.",
       "consultada_em": "2026-11-11",
       "papel": "advogado"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4976198/",
+      "dominio": "nih.gov",
+      "titulo": "Evidence that birds sleep in mid-flight (Rattenborg et al., 2016), cópia no PMC/NIH",
+      "nivel": 1,
+      "excerto": "…using electroencephalogram recordings of great frigatebirds (Fregata minor) flying over the ocean for up to 10 days, we show that they can sleep with either one hemisphere at a time or both hemispheres simultaneously.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
@@ -85,9 +85,10 @@
       "resposta_texto": "A fragata-grande",
       "concorda": true,
       "confianca": "alta",
-      "dominio": "nationalgeographic.com",
-      "data": "2026-11-11",
-      "notas": "NatGeo (out. 2016) e ScienceAlert noticiam o mesmo estudo (contam como uma fonte n2). A espécie «fragata-grande» aparece no ScienceAlert/pesquisa; NatGeo diz só 'frigate birds'. Albatroz só hipótese noutras fontes, sem EEG."
+      "dominio": "nih.gov",
+      "data": "2026-11-18",
+      "notas": "Aberta e lida. O artigo diz 'establishing that birds can sleep in flight' e 'Rattenborg and colleagues show for the first time that frigatebirds can sleep during flight'. A espécie é Fregata minor, a fragata-grande. As outras opções (albatroz-errante, andorinha-do-mar-ártica, pelicano-pardo) não aparecem como espécie estudada. O enunciado 'uma ave dorme em pleno voo, em 2016, EEG' confirma-se. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Atenção ao regra 20: este é o mesmo artigo (Nature Communications, 2016) que está nos títulos a evitar, republicado no PMC (domínio diferente). Não é uma fonte independente do pesquisador. Como alternativa independente, a pesquisa devolveu ScienceDaily (sciencedaily.com/releases/2016/08/160803111738.htm) e a Royal Society (rsfs, 'Sleeping on the wing'), que não abri. Devolvo confiança alta pela clareza da resposta, mas o orquestrador deve decidir se aceita a fonte.",
+      "hash_texto": "fb1baeb9adc98c0bd048f589e0212267f7648ae46465e58d51601b15a3b5b502"
     },
     "advogado": {
       "aprovado": true,
@@ -200,6 +201,12 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte nih.gov"
     }
   ],
   "options_lock": "5b660c4f0817baa077f05848f5612c0502a0c36485693db055b3bfc35ffbaa70"
