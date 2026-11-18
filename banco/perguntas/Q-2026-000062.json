@@ -12,6 +12,16 @@
         "Voyager 1"
       ],
       "explanation": "A Voyager 2, apesar do número, partiu primeiro, a 20 de agosto de 1977. A Voyager 1 foi lançada a 5 de setembro, mas seguiu uma trajetória mais rápida e chegou antes a Júpiter e a Saturno."
+    },
+    "en-US": {
+      "question": "Which of these NASA probes was launched on August 20, 1977?",
+      "options": [
+        "Pioneer 11",
+        "Voyager 2",
+        "Mariner 10",
+        "Voyager 1"
+      ],
+      "explanation": "Voyager 2, despite its number, launched first, on August 20, 1977. Voyager 1 was launched on September 5 but took a faster trajectory and reached Jupiter and Saturn first."
     }
   },
   "correct": 1,
@@ -81,6 +91,10 @@
       "alteracao_factual": false,
       "notas": "Enunciado inalterado. Explicação com ajuste mínimo («A Voyager 2»). Dificuldade subida de 2 para 3: a ordem de lançamento das duas Voyager engana muita gente e a Voyager 1 é uma opção. Subtema afinado de «missões» para «sondas espaciais».",
       "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "Datas no formato americano (August 20, 1977; September 5). 'chegou antes' traduzido como 'reached ... first'."
     }
   },
   "estado": "em_verificacao",
@@ -135,6 +149,12 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Datas no formato americano (August 20, 1977; September 5). 'chegou antes' traduzido como 'reached ... first'."
     }
   ],
   "etiquetas": []

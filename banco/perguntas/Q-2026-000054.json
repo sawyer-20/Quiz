@@ -12,6 +12,16 @@
         "Lago Vitória"
       ],
       "explanation": "O Baikal, com mais de 1600 m de profundidade, é o lago mais profundo e mais antigo do mundo. Guarda cerca de 20% da água doce superficial do planeta, volume comparável ao dos cinco Grandes Lagos norte-americanos."
+    },
+    "en-US": {
+      "question": "Which Siberian lake holds about 20% of the world's surface fresh water, nearly as much as the five Great Lakes combined?",
+      "options": [
+        "Lake Titicaca",
+        "Lake Ladoga",
+        "Lake Baikal",
+        "Lake Victoria"
+      ],
+      "explanation": "Lake Baikal, more than 1,600 m deep, is the deepest and oldest lake in the world. It holds about 20% of the planet's surface fresh water, a volume comparable to that of the five North American Great Lakes."
     }
   },
   "correct": 2,
@@ -72,6 +82,10 @@
       "alteracao_factual": false,
       "notas": "Sem alterações ao enunciado (118 caracteres). Explicação mantida: já começa pela resposta, tem menos de 300 caracteres e não há gralhas. Nota para o caso de o advogado ainda não o ter visto: o enunciado diz «quase tanto como» e a explicação diz «comparável», o que é coerente.",
       "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "1600 m mantido como '1,600 m' sem conversão. 'Baikal' passa a 'Lake Baikal' na explicação e nas opções (forma inglesa corrente). 'cerca de 20%' mantido como 'about 20%'."
     }
   },
   "estado": "em_verificacao",
@@ -126,6 +140,12 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "1600 m mantido como '1,600 m' sem conversão. 'Baikal' passa a 'Lake Baikal' na explicação e nas opções (forma inglesa corrente). 'cerca de 20%' mantido como 'about 20%'."
     }
   ],
   "etiquetas": []

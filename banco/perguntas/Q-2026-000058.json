@@ -12,6 +12,16 @@
         "Com martelos que as percutem"
       ],
       "explanation": "Com martelos que percutem as cordas. Bartolomeo Cristofori, de Pádua, criou em Florença, na corte dos Médicis, esta mecânica, que permitia tocar suave e forte, daí o nome «piano e forte»."
+    },
+    "en-US": {
+      "question": "The harpsichord plucks its strings. How does the piano, invented by Cristofori, sound its strings?",
+      "options": [
+        "With a bow that rubs them",
+        "With the finger, which plucks them directly",
+        "With bellows that make them vibrate",
+        "With hammers that strike them"
+      ],
+      "explanation": "With hammers that strike the strings. Bartolomeo Cristofori, from Padua, created this mechanism in Florence, at the Medici court; it allowed soft and loud playing, hence the name \"piano e forte.\""
     }
   },
   "correct": 3,
@@ -59,7 +69,11 @@
       "notas": "Enunciado inalterado. Gralha corrigida: «Ppádua» passou a «Pádua» (não consultei a fonte; a grafia é a do nome da cidade). Explicação reordenada para começar pela resposta, sem factos novos. Dificuldade e subtema mantidos.",
       "data": "2026-11-18"
     },
-    "caminho_leve": true
+    "caminho_leve": true,
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "Opção 1 (dedo) mantida como no pt-PT, que a repete em parte a pergunta (belisca); sem alterações. 'piano e forte' mantido em italiano, entre aspas, como no pt-PT. Padua e Florence na forma inglesa; Bartolomeo Cristofori com a forma original."
+    }
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -113,6 +127,12 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Opção 1 (dedo) mantida como no pt-PT, que a repete em parte a pergunta (belisca); sem alterações. 'piano e forte' mantido em italiano, entre aspas, como no pt-PT. Padua e Florence na forma inglesa; Bartolomeo Cristofori com a forma original."
     }
   ],
   "etiquetas": [

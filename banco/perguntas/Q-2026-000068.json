@@ -12,6 +12,16 @@
         "Panavision"
       ],
       "explanation": "A Zeiss: Kubrick usou lentes de 50 mm f/0.7, as mais luminosas do mundo na altura, para filmar interiores só com velas. Foram feitas apenas dez e Kubrick comprou três."
+    },
+    "en-US": {
+      "question": "Which company made the ultra-fast lenses Kubrick used to film candlelit scenes in \"Barry Lyndon\"?",
+      "options": [
+        "Leica",
+        "Nikon",
+        "Zeiss",
+        "Panavision"
+      ],
+      "explanation": "Zeiss: Kubrick used 50 mm f/0.7 lenses, the fastest in the world at the time, to film interiors lit only by candles. Only ten were made, and Kubrick bought three."
     }
   },
   "correct": 2,
@@ -72,6 +82,10 @@
       "alteracao_factual": false,
       "notas": "Enunciado inalterado (105 caracteres), por isso o verificador cego não precisa de repetir por causa do enunciado. Explicação reescrita em 2 frases (a resposta e os dois pontos fundem as duas primeiras), sem factos nem números novos; cerca de 170 caracteres. Dificuldade e subtema mantidos.",
       "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "'lentes ultraluminosas' -> 'ultra-fast lenses' (termo corrente em inglês para objetivas de grande abertura). 'marca' -> 'company'. Aspas «» passam a aspas inglesas. Unidade 50 mm mantida."
     }
   },
   "estado": "em_verificacao",
@@ -132,6 +146,12 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "'lentes ultraluminosas' -> 'ultra-fast lenses' (termo corrente em inglês para objetivas de grande abertura). 'marca' -> 'company'. Aspas «» passam a aspas inglesas. Unidade 50 mm mantida."
     }
   ],
   "etiquetas": []
