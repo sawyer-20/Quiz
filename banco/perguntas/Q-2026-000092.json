@@ -86,6 +86,11 @@
     "tradutor": {
       "data": "2026-11-18",
       "notas": "«sábios» traduzido por «scientists» (o pt-PT, na explicação, fala de «mulheres cientistas»); se o conferente preferir mais fiel, «savants» ou «scholars». «Cidade de Paris» = City of Paris. «parecer das Academias» = review by the Academies (as Academias não são especificadas no pt-PT)."
+    },
+    "conferente": {
+      "aprovado": false,
+      "notas": "As opções numéricas são equivalentes. Rejeitada pela divergência sábios/scientists e pela formulação en-US pouco natural.",
+      "data": "2026-11-18"
     }
   },
   "estado": "em_verificacao",
@@ -140,6 +145,12 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "«sábios» traduzido por «scientists» (o pt-PT, na explicação, fala de «mulheres cientistas»); se o conferente preferir mais fiel, «savants» ou «scholars». «Cidade de Paris» = City of Paris. «parecer das Academias» = review by the Academies (as Academias não são especificadas no pt-PT)."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"pergunta\", \"idioma\": \"en-US\", \"detalhe\": \"O pt-PT diz «sábios» e o en-US diz «scientists». Não são o mesmo termo. «Sábios» é mais amplo (eruditos, estudiosos), e «scientists» altera o âmbito do facto.\"}, {\"onde\": \"pergunta\", \"idioma\": \"en-US\", \"detalhe\": \"«how many are women's?» é pouco natural em inglês americano. Parece um calque do português.\"}, {\"onde\": \"explicação\", \"idioma\": \"en-US\", \"detalhe\": \"«all men's» na explicação tem o mesmo problema de naturalidade.\"}]"
     }
   ],
   "etiquetas": []

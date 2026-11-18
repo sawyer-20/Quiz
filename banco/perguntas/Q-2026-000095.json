@@ -21,7 +21,7 @@
         "Deliberately detunes their instrument",
         "Closes their score and leaves it on the chair"
       ],
-      "explanation": "Each musician blows out the candle on the stand and leaves. In Symphony No. 45 (1772), this repeats until only two violins remain; according to the LSO, it was a hint to Prince Nikolaus Esterházy that the summer season was over and it was time to return to Vienna."
+      "explanation": "Each musician blows out the candle on the stand and leaves. In Haydn's 45th Symphony (1772), this repeats until only two violins remain; according to the LSO, it was a hint to Prince Nikolaus Esterházy that the summer season was over and it was time to return to Vienna."
     }
   },
   "correct": 0,
@@ -85,7 +85,7 @@
     },
     "tradutor": {
       "data": "2026-11-18",
-      "notas": "Título «Sinfonia do Adeus» -> \"Farewell\" Symphony (nome corrente em inglês). «Apaga a vela» -> \"blows out\". Atribuição ao LSO mantida. Opção 0 usa \"their\" neutro."
+      "notas": "Explicação reescrita sem a abreviatura «No.» («Symphony No. 45» -> «Haydn's 45th Symphony»), para o validador contar 2 frases. Resto igual. Título «Sinfonia do Adeus» -> \"Farewell\" Symphony. Atribuição ao LSO mantida. Opção 0 usa \"their\" neutro."
     }
   },
   "estado": "em_verificacao",
@@ -140,6 +140,12 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Título «Sinfonia do Adeus» -> \"Farewell\" Symphony (nome corrente em inglês). «Apaga a vela» -> \"blows out\". Atribuição ao LSO mantida. Opção 0 usa \"their\" neutro."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Explicação reescrita sem a abreviatura «No.» («Symphony No. 45» -> «Haydn's 45th Symphony»), para o validador contar 2 frases. Resto igual. Título «Sinfonia do Adeus» -> \"Farewell\" Symphony. Atribuição ao LSO mantida. Opção 0 usa \"their\" neutro."
     }
   ],
   "etiquetas": []

@@ -86,6 +86,12 @@
     "tradutor": {
       "data": "2026-11-18",
       "notas": "«pátio» traduzido por «court» (termo corrente em inglês para o court de great bowerbird, Chlamydera nuchalis); «corredor» por «avenue» (termo técnico dos bowers). «pássaros-jardineiros-grandes» = great bowerbirds. Pergunta com 138 caracteres: acima do alvo de 120, dentro do máximo de 200."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Os dois textos dizem o mesmo e a atribuição (Endler, Endler e Doerr; Current Biology, 2010) é igual. As quatro opções correspondem uma a uma. A palavra «gradiente» aparece no enunciado e na opção certa nos dois idiomas, por isso não é uma pista nova da tradução.",
+      "data": "2026-11-18",
+      "hash_texto": "d97e756a1d280d49b7fead2b09c4a7a86a36ef42b806c198aac5fb14d0db5c68"
     }
   },
   "estado": "em_verificacao",
@@ -140,6 +146,12 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "«pátio» traduzido por «court» (termo corrente em inglês para o court de great bowerbird, Chlamydera nuchalis); «corredor» por «avenue» (termo técnico dos bowers). «pássaros-jardineiros-grandes» = great bowerbirds. Pergunta com 138 caracteres: acima do alvo de 120, dentro do máximo de 200."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "etiquetas": []

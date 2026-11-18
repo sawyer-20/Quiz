@@ -86,6 +86,11 @@
     "tradutor": {
       "data": "2026-11-18",
       "notas": "Liber Abaci mantido (nome de obra), aspas «» mantidas como no pt-PT. Atribuições a Treccani e ao repositório da Universidade de Oxford mantidas. «Zephyrum» e as outras opções são latim e ficam iguais."
+    },
+    "conferente": {
+      "aprovado": false,
+      "notas": "O facto, as atribuições (Treccani; repositório da Universidade de Oxford) e as opções coincidem. Só falha a grafia e pontuação en-US.",
+      "data": "2026-11-18"
     }
   },
   "estado": "em_verificacao",
@@ -140,6 +145,12 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Liber Abaci mantido (nome de obra), aspas «» mantidas como no pt-PT. Atribuições a Treccani e ao repositório da Universidade de Oxford mantidas. «Zephyrum» e as outras opções são latim e ficam iguais."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"pergunta\", \"idioma\": \"en-US\", \"detalhe\": \"O en-US usa aspas angulares («Liber Abaci», «sifr»). O inglês americano usa aspas retas duplas e, para um título, itálico ou aspas.\"}, {\"onde\": \"explicação\", \"idioma\": \"en-US\", \"detalhe\": \"«zephirum» e «zero» estão entre aspas angulares. Devia ser \\\"zephirum\\\" e \\\"zero\\\".\"}]"
     }
   ],
   "etiquetas": []
