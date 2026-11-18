@@ -12,6 +12,16 @@
         "Nenhuma"
       ],
       "explanation": "Nenhuma: os 72 nomes que Eiffel escolheu para a torre são todos de homens, segundo o CNRS. Em janeiro de 2026, a Cidade de Paris divulgou uma lista provisória de 72 mulheres cientistas, ainda sujeita a parecer das Academias."
+    },
+    "en-US": {
+      "question": "Of the 72 names of scientists that Gustave Eiffel chose for his tower, how many are women's?",
+      "options": [
+        "Three",
+        "One",
+        "Six",
+        "None"
+      ],
+      "explanation": "None: the 72 names Eiffel chose for the tower are all men's, according to the CNRS. In January 2026, the City of Paris released a provisional list of 72 women scientists, still subject to review by the Academies."
     }
   },
   "correct": 3,
@@ -72,6 +82,10 @@
       "alteracao_factual": false,
       "notas": "Enunciado e opções intactos. Explicação começa pela resposta; conteúdo igual. Subtema afinado de «arte e arquitetura» para «Torre Eiffel».",
       "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "«sábios» traduzido por «scientists» (o pt-PT, na explicação, fala de «mulheres cientistas»); se o conferente preferir mais fiel, «savants» ou «scholars». «Cidade de Paris» = City of Paris. «parecer das Academias» = review by the Academies (as Academias não são especificadas no pt-PT)."
     }
   },
   "estado": "em_verificacao",
@@ -120,6 +134,12 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "«sábios» traduzido por «scientists» (o pt-PT, na explicação, fala de «mulheres cientistas»); se o conferente preferir mais fiel, «savants» ou «scholars». «Cidade de Paris» = City of Paris. «parecer das Academias» = review by the Academies (as Academias não são especificadas no pt-PT)."
     }
   ],
   "etiquetas": []

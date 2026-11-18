@@ -12,6 +12,16 @@
         "Leques de papel"
       ],
       "explanation": "Fabricava hanafuda, as cartas de jogar tradicionais japonesas: a Nintendo nasceu assim em 1889, em Quioto, segundo a própria empresa. Ainda como Nintendo Koppai, a MoneyWeek descreve-a a fazer essas cartas."
+    },
+    "en-US": {
+      "question": "In 1889, in Kyoto, Fusajiro Yamauchi founded the company that would become Nintendo. What product did it make?",
+      "options": [
+        "Porcelain dolls",
+        "Wooden toys",
+        "Japanese playing cards (hanafuda)",
+        "Paper fans"
+      ],
+      "explanation": "It made hanafuda, traditional Japanese playing cards: according to the company itself, Nintendo began this way in Kyoto in 1889. MoneyWeek describes it, still as Nintendo Koppai, making those cards."
     }
   },
   "correct": 2,
@@ -72,6 +82,10 @@
       "alteracao_factual": false,
       "notas": "Enunciado e opções intactos. Explicação começa pela resposta, mantém as duas atribuições (própria empresa e MoneyWeek), em 2 frases (cerca de 205 caracteres). Dificuldade e subtema confirmados.",
       "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "Atribuições mantidas: «segundo a própria empresa» -> \"according to the company itself\"; MoneyWeek. Quioto -> Kyoto. «Nintendo Koppai» mantido como no pt-PT."
     }
   },
   "estado": "em_verificacao",
@@ -120,6 +134,12 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Atribuições mantidas: «segundo a própria empresa» -> \"according to the company itself\"; MoneyWeek. Quioto -> Kyoto. «Nintendo Koppai» mantido como no pt-PT."
     }
   ],
   "etiquetas": [

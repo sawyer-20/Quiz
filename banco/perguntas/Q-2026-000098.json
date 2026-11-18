@@ -12,6 +12,16 @@
         "Um agente da Scotland Yard"
       ],
       "explanation": "Foi um cão chamado Pickles, que farejou o embrulho em jornal atado com cordel a 27 de março de 1966, uma semana depois do roubo de 20 de março. O dono, David Corbett, avisou depois a polícia."
+    },
+    "en-US": {
+      "question": "In 1966, the World Cup trophy was stolen from an exhibition in London. Who found it, wrapped in newspaper, a week later?",
+      "options": [
+        "A security guard at the exhibition",
+        "A Daily Mirror journalist",
+        "A dog named Pickles, out walking with his owner",
+        "A Scotland Yard officer"
+      ],
+      "explanation": "It was a dog named Pickles, who sniffed out the package wrapped in newspaper and tied with string on March 27, 1966, a week after the March 20 theft. His owner, David Corbett, then alerted the police."
     }
   },
   "correct": 2,
@@ -82,6 +92,10 @@
       "alteracao_factual": false,
       "notas": "Enunciado e opções intactos. Explicação reorganizada para começar pela resposta, em 2 frases (cerca de 195 caracteres). Dificuldade subida de 2 para 3: o episódio é conhecido, mas o público geral não acerta de forma quase unânime. Subtema afinado de «Mundiais» para «Mundial de 1966».",
       "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "Datas em formato americano (March 27, March 20). «Agente da Scotland Yard» -> \"officer\"."
     }
   },
   "estado": "em_verificacao",
@@ -130,6 +144,12 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Datas em formato americano (March 27, March 20). «Agente da Scotland Yard» -> \"officer\"."
     }
   ],
   "etiquetas": [

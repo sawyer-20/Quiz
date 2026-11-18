@@ -12,6 +12,16 @@
         "Balança de ampere"
       ],
       "explanation": "Balança de watt: chamava-se assim porque mede corrente e tensão na bobina, cujo produto se exprime em watts. Foi concebida por Bryan Kibble no NPL (1975, segundo o NIST) e hoje tem o nome do inventor."
+    },
+    "en-US": {
+      "question": "The Kibble balance, used to realize the kilogram from the Planck constant, was formerly known by another name. What?",
+      "options": [
+        "Planck balance",
+        "Joule balance",
+        "Watt balance",
+        "Ampere balance"
+      ],
+      "explanation": "Watt balance: it was so named because it measures current and voltage in the coil, whose product is expressed in watts. Bryan Kibble designed it at the NPL (1975, according to NIST), and it now bears its inventor's name."
     }
   },
   "correct": 2,
@@ -71,6 +81,10 @@
       "alteracao_factual": false,
       "notas": "Enunciado e opções intactos. Explicação começa pela resposta; conteúdo igual. Dificuldade subida de 3 para 4: tema de nicho, e um público culto acertaria bem menos de metade. Subtema confirmado.",
       "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "«balança de joule/watt/ampere» com minúscula no pt-PT; em inglês usei maiúscula nas opções (Joule/Watt/Ampere balance) por consistência de lista. Atribuição ao NIST mantida (1975)."
     }
   },
   "estado": "em_verificacao",
@@ -119,6 +133,12 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "«balança de joule/watt/ampere» com minúscula no pt-PT; em inglês usei maiúscula nas opções (Joule/Watt/Ampere balance) por consistência de lista. Atribuição ao NIST mantida (1975)."
     }
   ],
   "etiquetas": []

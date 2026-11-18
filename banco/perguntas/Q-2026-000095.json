@@ -12,6 +12,16 @@
         "Fecha a partitura e deixa-a na cadeira"
       ],
       "explanation": "Apaga a vela da estante e sai. Na Sinfonia n.º 45 (1772), isto repete-se até restarem dois violinos; segundo o LSO, era um recado ao príncipe Nikolaus Esterházy: a temporada de verão tinha acabado e era hora de regressar a Viena."
+    },
+    "en-US": {
+      "question": "In Haydn's \"Farewell\" Symphony, what does each musician do, one by one, before leaving the stage at the end?",
+      "options": [
+        "Blows out the candle on their stand",
+        "Bows to the prince",
+        "Deliberately detunes their instrument",
+        "Closes their score and leaves it on the chair"
+      ],
+      "explanation": "Each musician blows out the candle on the stand and leaves. In Symphony No. 45 (1772), this repeats until only two violins remain; according to the LSO, it was a hint to Prince Nikolaus Esterházy that the summer season was over and it was time to return to Vienna."
     }
   },
   "correct": 0,
@@ -72,6 +82,10 @@
       "alteracao_factual": false,
       "notas": "Enunciado e opções intactos. Explicação começa pela resposta, em 2 frases; atribuição ao LSO mantida. Dificuldade e subtema confirmados.",
       "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "Título «Sinfonia do Adeus» -> \"Farewell\" Symphony (nome corrente em inglês). «Apaga a vela» -> \"blows out\". Atribuição ao LSO mantida. Opção 0 usa \"their\" neutro."
     }
   },
   "estado": "em_verificacao",
@@ -120,6 +134,12 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Título «Sinfonia do Adeus» -> \"Farewell\" Symphony (nome corrente em inglês). «Apaga a vela» -> \"blows out\". Atribuição ao LSO mantida. Opção 0 usa \"their\" neutro."
     }
   ],
   "etiquetas": []

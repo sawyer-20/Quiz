@@ -12,6 +12,16 @@
         "Aceitaram a nova ordem e deixaram de a alterar"
       ],
       "explanation": "Restabeleceram o gradiente original em três dias (Current Biology, 2010). Os machos dispõem os objetos do pátio com tamanho crescente a partir da entrada do corredor, o que cria perspetiva forçada para a fêmea."
+    },
+    "en-US": {
+      "question": "In a 2010 study, Endler, Endler and Doerr reversed the size gradient of objects in great bowerbird courts. What did the males do within three days?",
+      "options": [
+        "They restored the original gradient of the objects",
+        "They swapped all the objects for ones of a different color",
+        "They abandoned the court and built another elsewhere",
+        "They accepted the new order and stopped changing it"
+      ],
+      "explanation": "They restored the original gradient within three days (Current Biology, 2010). Males arrange the court's objects in increasing size starting from the avenue's entrance, which creates a forced perspective for the female."
     }
   },
   "correct": 0,
@@ -72,6 +82,10 @@
       "alteracao_factual": false,
       "notas": "Enunciado e opções intactos (o enunciado tem cerca de 170 caracteres, acima do alvo de 120, mas não o encurtei por já estar verificado). Explicação reordenada para começar pela resposta, com a atribuição mantida. Dificuldade e subtema mantidos.",
       "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "«pátio» traduzido por «court» (termo corrente em inglês para o court de great bowerbird, Chlamydera nuchalis); «corredor» por «avenue» (termo técnico dos bowers). «pássaros-jardineiros-grandes» = great bowerbirds. Pergunta com 138 caracteres: acima do alvo de 120, dentro do máximo de 200."
     }
   },
   "estado": "em_verificacao",
@@ -120,6 +134,12 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "«pátio» traduzido por «court» (termo corrente em inglês para o court de great bowerbird, Chlamydera nuchalis); «corredor» por «avenue» (termo técnico dos bowers). «pássaros-jardineiros-grandes» = great bowerbirds. Pergunta com 138 caracteres: acima do alvo de 120, dentro do máximo de 200."
     }
   ],
   "etiquetas": []

@@ -12,6 +12,16 @@
         "38 anos"
       ],
       "explanation": "Tinha 41 anos: Stanley Matthews, do Blackpool, venceu a primeira Bola de Ouro. Ainda jogou mais nove anos, até se retirar aos 50."
+    },
+    "en-US": {
+      "question": "As of 2026, the oldest Ballon d'Or winner received it in 1956. How old was he at the time?",
+      "options": [
+        "36 years old",
+        "41 years old",
+        "34 years old",
+        "38 years old"
+      ],
+      "explanation": "He was 41: Stanley Matthews of Blackpool won the first Ballon d'Or. He played on for nine more years, until retiring at 50."
     }
   },
   "correct": 1,
@@ -72,6 +82,10 @@
       "alteracao_factual": false,
       "notas": "Enunciado e opções intactos. Explicação começa pela resposta, mantém números e atribuições (cerca de 130 caracteres, 2 frases). Dificuldade subida de 3 para 4: poucos conhecem a idade de Matthews e as opções são muito próximas entre si.",
       "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "«Bola de Ouro» -> Ballon d'Or (nome corrente em inglês). «Blackpool» sem \"FC\" como no pt-PT."
     }
   },
   "estado": "em_verificacao",
@@ -120,6 +134,12 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "«Bola de Ouro» -> Ballon d'Or (nome corrente em inglês). «Blackpool» sem \"FC\" como no pt-PT."
     }
   ],
   "etiquetas": []

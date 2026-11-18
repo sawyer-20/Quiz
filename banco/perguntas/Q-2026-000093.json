@@ -12,6 +12,16 @@
         "Vacuum"
       ],
       "explanation": "Zephyrum (ou «zephirum»): Fibonacci adaptou-a do árabe ṣifr e, segundo a Treccani, é a origem de «zero». Um estudo no repositório da Universidade de Oxford regista-o como o primeiro termo latino para o 0."
+    },
+    "en-US": {
+      "question": "In the «Liber Abaci» (1202), what medieval Latin word, adapted from the Arabic «sifr», did Fibonacci use for the sign 0?",
+      "options": [
+        "Orbiculum",
+        "Zephyrum",
+        "Nihilum",
+        "Vacuum"
+      ],
+      "explanation": "Zephyrum (or «zephirum»): Fibonacci adapted it from the Arabic ṣifr and, according to Treccani, it is the origin of «zero». A study in the University of Oxford repository records it as the first Latin term for 0."
     }
   },
   "correct": 1,
@@ -72,6 +82,10 @@
       "alteracao_factual": false,
       "notas": "Enunciado e opções intactos. Explicação reordenada para começar pela resposta e encurtada; atribuições mantidas. Dificuldade e subtema confirmados.",
       "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "Liber Abaci mantido (nome de obra), aspas «» mantidas como no pt-PT. Atribuições a Treccani e ao repositório da Universidade de Oxford mantidas. «Zephyrum» e as outras opções são latim e ficam iguais."
     }
   },
   "estado": "em_verificacao",
@@ -120,6 +134,12 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Liber Abaci mantido (nome de obra), aspas «» mantidas como no pt-PT. Atribuições a Treccani e ao repositório da Universidade de Oxford mantidas. «Zephyrum» e as outras opções são latim e ficam iguais."
     }
   ],
   "etiquetas": []

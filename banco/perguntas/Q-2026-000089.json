@@ -12,6 +12,16 @@
         "Rato"
       ],
       "explanation": "O tigre: no estudo de 2005 (PLoS Genetics), tal como a chita, mostrou a mesma deleção de 247 pares de bases no Tas1r2 do gato. Segundo o estudo, o cão, o ser humano, o rato e a ratazana têm sabor doce funcional."
+    },
+    "en-US": {
+      "question": "In the 2005 study that explained why cats are indifferent to sugar, in which other tested animal was the Tas1r2 gene disabled?",
+      "options": [
+        "Human",
+        "Dog",
+        "Tiger",
+        "Mouse"
+      ],
+      "explanation": "The tiger: in the 2005 study (PLoS Genetics), it showed the same 247-base-pair deletion in Tas1r2 as the domestic cat, as did the cheetah. According to the study, dogs, humans, mice and rats have a functional sweet taste."
     }
   },
   "correct": 2,
@@ -72,6 +82,10 @@
       "alteracao_factual": false,
       "notas": "Enunciado e opções intactos. Explicação reescrita em 2 frases (cerca de 215 caracteres), a começar pela resposta, com 247 pares de bases, a atribuição ao estudo de 2005 (PLoS Genetics) e a lista das espécies com sabor doce funcional mantidas. Sem factos novos. Dificuldade e subtema mantidos.",
       "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "Opção certa no índice 2 (Tiger), ordem mantida. «Rato» = Mouse (opção 4); «ratazana» = rats (só na explicação). O pt-PT diz «do gato» e «tal como a chita»; usei «the domestic cat» para evitar ambiguidade com a pergunta, sem acrescentar facto novo (se o conferente preferir literal: «in the cat's Tas1r2»). Mantida a atribuição «According to the study». Explicação com cerca de 250 caracteres e 2 frases."
     }
   },
   "estado": "em_verificacao",
@@ -126,6 +140,12 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Opção certa no índice 2 (Tiger), ordem mantida. «Rato» = Mouse (opção 4); «ratazana» = rats (só na explicação). O pt-PT diz «do gato» e «tal como a chita»; usei «the domestic cat» para evitar ambiguidade com a pergunta, sem acrescentar facto novo (se o conferente preferir literal: «in the cat's Tas1r2»). Mantida a atribuição «According to the study». Explicação com cerca de 250 caracteres e 2 frases."
     }
   ],
   "etiquetas": []
