@@ -61,7 +61,11 @@
       "notas": "Li a página com o leitor do motor. A página da Met (metmuseum.org) devolveu 429, por isso a única fonte aberta é a Linda Hall. Foles e arco não aparecem como mecanismo do piano, e o dedo a beliscar diretamente é o cravo (a pergunta já o diz no enunciado). Só abri uma fonte de nível 2, mas o facto é elementar.",
       "hash_texto": "8dabc9c22b3e7b2bf243ba9342b0a319a3574693a06058b1f6659e37b2796eee"
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "Abri as duas fontes e confirmei os excertos. «De Pádua»: si.edu diz «a native of Padua» e a Linda Hall diz «originally from Padua». «Em Florença, na corte dos Médicis»: si.edu diz que a invenção foi documentada «in the court of the Medici family in Florence in the year 1700», e a Linda Hall que ele foi recrutado para Florença pelo príncipe Ferdinando de Médicis. Há duas fontes de acordo e a explicação não dá datas nem números. «Piano e forte» e «suave e forte»: as duas fontes dizem que o instrumento tocava piano e forte. A ligação «daí o nome» é uma inferência ligeira, mas a Linda Hall diz que o instrumento produzia «piano e forte» e que foi logo chamado pianoforte, pelo que a aceito. Distratores: nenhum tem apoio sério. O arco não se aplica ao piano, os foles são do órgão e o dedo direto é da harpa, não do piano nem do cravo. O cravo usa uma palheta (quill) e o piano usa martelos, como a Linda Hall confirma. Pistas: o enunciado contrasta o cravo que belisca com o piano, o que elimina de forma natural a opção do dedo que belisca. Para dificuldade 1 é aceitável e não cria uma segunda resposta. O facto é estável, sem prazo. Não há tema sensível. A explicação tem 2 frases e menos de 300 caracteres. Não consegui derrubar a pergunta. | páginas lidas pelo advogado: https://folklife-media.si.edu/docs/festival/program-book-articles/FESTBK2000_40.pdf, https://www.lindahall.org/about/news/scientist-of-the-day/bartolomeo-cristofori/"
+    },
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
@@ -151,6 +155,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": [
