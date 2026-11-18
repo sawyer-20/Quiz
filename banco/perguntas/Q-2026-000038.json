@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000038",
   "topic": "General Knowledge",
-  "subtopic": "modalidades fora do futebol",
+  "subtopic": "História das leis do râguebi",
   "text": {
     "pt-PT": {
       "question": "Segundo as leis de 1845 da Rugby School, o que ganhava uma equipa ao pousar a bola para lá da linha de ensaio?",
@@ -15,7 +15,7 @@
     }
   },
   "correct": 0,
-  "difficulty": 2,
+  "difficulty": 3,
   "valid_until": null,
   "daily_eligible": true,
   "sources": [
@@ -89,8 +89,8 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "estilo",
-      "data": "2026-11-11"
+      "notas": "Explicação reposta na versão anterior (2 frases, dentro do limite); a minha versão tinha 3 frases. Sem mudanças ao texto. Dificuldade subida de 2 para 3: as opções com pontos são tentadoras e poucos conhecem as regras de 1845. Enunciado e opções intactos.",
+      "data": "2026-11-18"
     }
   },
   "estado": "em_verificacao",
@@ -222,6 +222,12 @@
       "data": "2026-11-18",
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
       "nota": ""
     }
   ]

@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000085",
   "topic": "Video Games",
-  "subtopic": "Preservação de videojogos",
+  "subtopic": "Preservação de videojogos e direitos de autor",
   "text": {
     "pt-PT": {
       "question": "Em 2024, a Bibliotecária do Congresso dos EUA recusou alargar a isenção legal para bibliotecas fazerem o quê com videojogos que já não são comercializados?",
@@ -11,7 +11,17 @@
         "Guardar cópias de preservação",
         "Dar acesso remoto a investigadores"
       ],
-      "explanation": "Acesso remoto a investigadores. Segundo a VGHF, na audiência o ESA declarou que nunca apoiaria o acesso remoto para investigação; o Copyright Office não concedeu a nova isenção em outubro de 2024."
+      "explanation": "Acesso remoto a investigadores. Segundo a VGHF, na audiência a ESA (Entertainment Software Association) declarou que nunca apoiaria o acesso remoto para investigação; o Copyright Office não concedeu a nova isenção em outubro de 2024."
+    },
+    "en-US": {
+      "question": "In 2024, the Librarian of Congress declined to extend the library copyright exemption to doing what with games no longer sold?",
+      "options": [
+        "Play them on library premises",
+        "Sell digital copies to the public",
+        "Make preservation copies",
+        "Give researchers remote access"
+      ],
+      "explanation": "Remote access for researchers. According to the VGHF, at the hearing the ESA (Entertainment Software Association) said it would never support remote access for research; the Copyright Office did not grant the new exemption in October 2024."
     }
   },
   "correct": 3,
@@ -98,8 +108,12 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "Aplicado o pedido do Andre: «indisponíveis» passou a «que já não são comercializados». Mantidos o que se pergunta, a resposta, as opções (texto e ordem), as datas e as atribuições. O enunciado tem cerca de 155 caracteres, abaixo do limite de 200 e acima do alvo de 120. Não cortei mais para não mexer em palavras fora do pedido. A explicação (cerca de 235 caracteres, 2 frases) não repete a palavra alterada e fica como estava. Dificuldade 4 e subtema confirmados. Como a mudança é só de redação e mantém o sentido, não envolve alteração factual. A referência a «outubro de 2024» já constava da explicação e não está nos excertos que recebi, por isso convém o conferente ou o verificador confirmá-la na fonte.",
+      "notas": "Corrigido «o ESA» para «a ESA» e desdobrada a sigla (consta do pedido). Atribuição «Segundo a VGHF» mantida. Enunciado e opções intactos (regra 27). Aviso (regra 29): o enunciado fala da Bibliotecária do Congresso e a explicação do Copyright Office; não alterei, mas o orquestrador deve confirmar que as fontes ligam os dois. Tenho 244 caracteres, 1 frase longa com ponto e vírgula.",
       "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "Pergunta reescrita para ficar mais curta (cerca de 125 caracteres). «videojogos» passou a «games», e «isenção legal» passou a «library copyright exemption», porque a ficha só fala de isenção legal para bibliotecas. As opções do en-US atual mantêm-se, e a certa continua no índice 3. A explicação mantém a atribuição «According to the VGHF». Mantive «Copyright Office» tal como no pt-PT, que atribui a decisão a este organismo na explicação e à Bibliotecária do Congresso na pergunta. A ficha diz que a Bibliotecária adotou a recomendação do Register of Copyrights, por isso os dois textos são compatíveis."
     }
   },
   "estado": "em_verificacao",
@@ -370,6 +384,18 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Pergunta reescrita para ficar mais curta (cerca de 125 caracteres). «videojogos» passou a «games», e «isenção legal» passou a «library copyright exemption», porque a ficha só fala de isenção legal para bibliotecas. As opções do en-US atual mantêm-se, e a certa continua no índice 3. A explicação mantém a atribuição «According to the VGHF». Mantive «Copyright Office» tal como no pt-PT, que atribui a decisão a este organismo na explicação e à Bibliotecária do Congresso na pergunta. A ficha diz que a Bibliotecária adotou a recomendação do Register of Copyrights, por isso os dois textos são compatíveis."
     }
   ],
   "etiquetas": []
