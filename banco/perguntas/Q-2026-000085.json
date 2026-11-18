@@ -89,7 +89,11 @@
       "notas": "O NewsNet 1057 do Copyright Office (copyright.gov/newsnet/2024/1057.html) diz que o Librarian adotou a Recomendação da Registadora na íntegra. A Recomendação só aceitou o esclarecimento do limite de utilizador único para programas informáticos. O alargamento para videojogos não foi concedido. O pedido era retirar a condição de o jogo não estar disponível fora das instalações da biblioteca, ou seja, o acesso remoto de investigadores. A imprensa de apoio (GamesHub, TechSpot e outras, vistas só nos resultados da pesquisa) refere recusa por risco de uso recreativo e dano de mercado. Não consegui localizar no PDF a passagem exata sobre o acesso remoto: a pesquisa por 'recreational' e 'off-premises' não deu resultados e o excerto acima só mostra o que ficou excluído do alargamento. Outras opções: guardar cópias de preservação, e o jogo nas instalações, já são permitidos (a isenção de preservação foi renovada sem oposição). Vender cópias digitais ao público nunca foi pedido nem é abrangido. O enunciado fala em 'isenção legal para bibliotecas', o que é compatível. A fórmula 'Bibliotecária do Congresso' (Carla Hayden) não foi verificada por mim.",
       "hash_texto": "abbc5312bf25cff7369642ebb715fcbb3891e24a46af787dc3167244a008edce"
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "Regra 29, afirmação a afirmação. (1) Enunciado 'Em 2024': confirmado (outubro de 2024). (2) 'a Bibliotecária do Congresso': confirmado, a determinação final é da Librarian of Congress (Carla Hayden, mulher, assina) e adota a recomendação da Registadora. (3) 'recusou alargar a isenção': confirmado de forma indireta mas fiel. A Registadora concluiu que os proponentes não provaram que o acesso fora das instalações fosse não infrator, e a Bibliotecária aceitou a recomendação para todas as classes. A isenção existente continuou sem a alteração pedida (a VGHF diz 'would not grant a new exemption'). (4) 'videojogos que já não são comercializados': corresponde a 'no longer reasonably available in the commercial marketplace'. (5) Explicação: 'Segundo a VGHF, na audiência a ESA declarou que nunca apoiaria o acesso remoto para investigação' está na página da VGHF e vem atribuída. 'o Copyright Office não concedeu a nova isenção em outubro de 2024' está na VGHF (25/10/2024). Distratores: 'Jogá-los nas instalações' e 'Guardar cópias de preservação' já estão permitidos pela isenção existente (b)(19), por isso não eram 'alargamento'; 'Vender cópias digitais' nunca foi pedido nem pode caber numa isenção sem 'commercial advantage'. Nenhuma segunda resposta defensável. Ressalva de redação para o editor: 'o ESA' deve ser 'a ESA' (Entertainment Software Association). Sugestão opcional, sem mudar facto, para alinhar com o enunciado: trocar 'o Copyright Office não concedeu a nova isenção' por 'a Bibliotecária adotou a recomendação da Registadora, que não viu provado que o acesso fora das instalações respeitasse os direitos de autor'. Se se aplicar, convém correr limites.py (300 caracteres). Não há data nem número instável, e o facto é histórico (sem valid_until). Sensibilidade: sem problema (política de direitos de autor, não é partidária, não é retalho alimentar). Fonte secundária infodocket.com (n2) não foi aberta por mim e não é necessária: a VGHF (n1) e o Federal Register (n1) sustent"
+    },
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
@@ -360,6 +364,12 @@
       "evento": "devolvida a em_verificacao",
       "agente": "orquestrador",
       "nota": "lacuna da auditoria: explicação reformulada; a repetir advogado, editor, tradutor e conferente"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []
