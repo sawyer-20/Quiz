@@ -4,17 +4,17 @@
   "subtopic": "etimologia",
   "text": {
     "pt-PT": {
-      "question": "No «Liber Abaci» (1202), Fibonacci adaptou o árabe «sifr» numa palavra latina medieval que deu «zero». Qual?",
+      "question": "No «Liber Abaci» (1202), que palavra latina medieval, adaptada do árabe «sifr», usou Fibonacci para designar o sinal 0?",
       "options": [
         "Orbiculum",
-        "Vacuum",
+        "Zephyrum",
         "Nihilum",
-        "Zephyrum"
+        "Vacuum"
       ],
-      "explanation": "Segundo o vocabulário Treccani, «zero» vem do latim medieval «zephyrum», adaptação que Fibonacci fez no Liber Abaci (1202) do árabe ṣifr. Um estudo da Universidade de Oxford regista aí o primeiro termo latino para o 0."
+      "explanation": "Fibonacci escreveu que o sinal 0 se chamava «zephyrum» (ou «zephirum») em árabe, adaptando ṣifr; segundo a Treccani, é a origem de «zero». Um estudo no repositório da Universidade de Oxford regista-o como o primeiro termo latino para o 0."
     }
   },
-  "correct": 3,
+  "correct": 1,
   "difficulty": 4,
   "valid_until": null,
   "daily_eligible": true,
@@ -40,27 +40,10 @@
       "excerto": "in Arabic the sign '0' is called zephyrum. This is the earliest occurrence of a Latin term for the symbol '0'. Clearly, zephyrum is not actually an Arabic word [...] phonological adaption [...] of the Arabic word ṣifr 'empty'.",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://mathshistory.st-andrews.ac.uk/Miller/mathword/z/",
-      "dominio": "st-andrews.ac.uk",
-      "titulo": "Earliest Known Uses of Some of the Words of Mathematics (Z) - MacTutor History of Mathematics",
-      "nivel": 2,
-      "excerto": "The Arabic word was taken into Latin as zephirum in the Liber Abaci (1202) of Leonardo of Pisa (1180-1250) (or Fibonacci). Referring to the symbol he wrote, \"...quod arabice zephirum appelatur.\"",
-      "consultada_em": "2026-11-18",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Zephyrum",
-      "concorda": true,
-      "confianca": "alta",
-      "dominio": "st-andrews.ac.uk",
-      "data": "2026-11-18",
-      "notas": "Li a página com o leitor. A palavra latina medieval do Liber Abaci é zephirum (variante Zephyrum). As outras três opções estão excluídas, porque a fonte só dá zephirum. Só tenho uma fonte de nível 2. Sugestão editorial: a opção usa a grafia «Zephyrum» e não «Zephirum», o que pode merecer revisão. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): A grafia da fonte é «zephirum»; a opção «Zephyrum» é a variante ortográfica mais próxima e a única plausível. Orbiculum, Nihilum e Vacuum não são o termo de Fibonacci.",
-      "hash_texto": "4b91b2a4205f3243857b0feccc7065672958d24ce2cbd303d0113235e1f67b88"
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -86,6 +69,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte st-andrews.ac.uk"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo): formulacao: O enunciado diz «palavra latina medieval que deu «zero»», como facto. A Treccani dá a derivação como facto. O estudo de ; formulacao: Há variantes de grafia nas fontes. A MacTutor (que o verificador usou) escreve «zephirum», e o Oxford cita a mesma passa; fontes: «Um estudo da Universidade de Oxford» está um pouco vago. O documento está no repositório ORA da universidade, mas a pág"
     }
   ],
   "etiquetas": []

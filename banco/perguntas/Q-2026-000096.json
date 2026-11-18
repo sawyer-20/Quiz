@@ -61,7 +61,11 @@
       "notas": "A NPR (artigo de 2006) diz que o vulcanólogo Sigurdsson encontrou o «reino perdido» de Tambora e fala em «Eastern Pompeii». A ABC Science (https://www.abc.net.au/science/archive/articles/2006/03/01/1581088.htm) diz que a aldeia de Tambora foi enterrada sob 3 metros de detritos vulcânicos e que a escavação começou em 2004 («Pompeii of the East»). Srivijaya, Majapahit e Mataram não aparecem em nenhuma fonte ligada a esta descoberta; a NPR diz que a língua de Tambora não era malaia e se parecia com o khmer. Não consegui abrir newswise (403) nem phys.org (429). Os 3 m são «de detritos vulcânicos», não literalmente «de cinza», e o enunciado diz «Sumbawa» e «2004», o que bate com as fontes. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): A palavra «reino» vem do enquadramento jornalístico («lost kingdom»). A reportagem da ABC/Reuters fala em «aldeia de Tambora». O nome Tambora é consistente nas duas.",
       "hash_texto": "3e2d1569d00905beba5c61101be9a179d2358fd9fd6b9b87f7cc18268e111b89"
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "Tentei derrubá-la e não consegui. A NASA (n1) diz «In 2004, scientists discovered the remains of a village, and two adults buried under approximately 3 meters ... of ash ... remnants of the former Kingdom of Tambora» e que a semelhança com Pompeia levou à descrição «the Pompeii of the East». O URI (n1) dá 10 pés (cerca de 3 m), a escavação em 2004, os dois adultos e «extinguished the tiny kingdom of Tambora». O NPR repete «the kingdom, called Tambora». Os números (2004, ~3 m, dois adultos) estão em duas fontes concordantes. Distratores: Mataram, Srivijaya e Majapahit. Majapahit chegou a ter vassalos em Sumbawa, mas o seu apogeu foi séculos antes de 1815. Nenhuma fonte liga estes reinos à aldeia achada em 2004, e a pergunta é sobre o reino destruído em 1815, por isso não há segunda resposta. A dúvida do verificador (alguns investigadores contestam «reino») não aparece em nenhuma das páginas que li; as fontes de nível 1 chamam «Kingdom of Tambora» ao reino. Também não vi o texto da ABC que ele cita. A expressão «Pompeia do Oriente» o URI usa como hipótese («could be»), mas a NASA dá-a como descrição já em uso, e a explicação atribui-a à semelhança com o Vesúvio, que a NASA suporta. Datas de 1815 e 2004 sem tragédia recente (mais de 10 anos). Aprovada. | páginas lidas pelo advogado: https://science.nasa.gov/earth/earth-observatory/mount-tambora-volcano-sumbawa-island-indonesia-39412/, https://www.uri.edu/news/2006/02/uri-volcanologist-discovers-lost-kingdom-of-tambora/, https://www.npr.org/2006/02/28/5237808/culture-destroyed-by-1815-volcano-rediscovered"
+    },
     "editor": null
   },
   "estado": "em_verificacao",
@@ -86,6 +90,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte npr.org"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []

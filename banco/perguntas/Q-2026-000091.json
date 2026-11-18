@@ -4,14 +4,14 @@
   "subtopic": "Comportamento animal",
   "text": {
     "pt-PT": {
-      "question": "Em 2010, Endler, Endler e Doerr inverteram o tamanho dos objetos no pátio de cortejo de pássaros-jardineiros-grandes. O que fizeram os machos em três dias?",
+      "question": "Num estudo de 2010, Endler, Endler e Doerr inverteram o gradiente de tamanho dos objetos nos pátios de pássaros-jardineiros-grandes. O que fizeram os machos em três dias?",
       "options": [
         "Restabeleceram o gradiente original dos objetos",
         "Trocaram todos os objetos por outros de cor diferente",
-        "Aceitaram a nova ordem e deixaram de a alterar",
-        "Abandonaram o pátio e construíram outro noutro local"
+        "Abandonaram o pátio e construíram outro noutro local",
+        "Aceitaram a nova ordem e deixaram de a alterar"
       ],
-      "explanation": "Os machos dispõem os objetos do pátio com tamanho crescente a partir da entrada do corredor, o que cria perspetiva forçada para a fêmea. Após a inversão experimental (Current Biology, 2010), recuperaram o gradiente em três dias."
+      "explanation": "Os machos dispõem os objetos do pátio com tamanho crescente a partir da entrada do corredor, o que cria perspetiva forçada para a fêmea. Depois de os investigadores inverterem o gradiente (Current Biology, 2010), os machos recuperaram-no em três dias."
     }
   },
   "correct": 0,
@@ -40,27 +40,10 @@
       "excerto": "When he messed up the careful gradients by reversing the large and small trinkets, the males were quick to put things right. Within three days, the illusions had been restored.",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://www.sciencedaily.com/releases/2010/09/100909122801.htm",
-      "dominio": "sciencedaily.com",
-      "titulo": "In attracting mates, male bowerbirds appear to rely on special optical effect (ScienceDaily)",
-      "nivel": 2,
-      "excerto": "When we reversed the gradient -- putting smaller objects further away and larger objects closer to the avenue- the birds put the gradient back in three days.",
-      "consultada_em": "2026-11-18",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Restabeleceram o gradiente original dos objetos",
-      "concorda": true,
-      "confianca": "alta",
-      "dominio": "sciencedaily.com",
-      "data": "2026-11-18",
-      "notas": "Citação direta de Endler: em três dias os machos repuseram o gradiente. Isto exclui abandonar o pátio, mudar a cor dos objetos e aceitar a nova ordem. Fonte lida é um texto de divulgação (nível 2), distinto de jcu.edu.au e nationalgeographic.com. A pesquisa mostra também o resumo do artigo na Current Biology (paper a evitar), que refere recuperação aos 3 dias.",
-      "hash_texto": "e07dcd153f8d342ca7bcd6359fbbe06c598717359afeece37ce2aa13266aecd7"
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -86,6 +69,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte sciencedaily.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo): formulacao: O enunciado diz «Em 2010 ... inverteram». 2010 é o ano da publicação (Current Biology, 9 set. 2010). Nenhuma fonte lida "
     }
   ],
   "etiquetas": []

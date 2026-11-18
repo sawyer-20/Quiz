@@ -8,13 +8,13 @@
       "options": [
         "Três",
         "Uma",
-        "Nenhuma",
-        "Seis"
+        "Seis",
+        "Nenhuma"
       ],
-      "explanation": "Os 72 nomes escolhidos por Eiffel em 1889 são todos de homens. Em 2026, Paris propôs 72 nomes de mulheres cientistas, para igualar o número dos que já lá estão."
+      "explanation": "Os 72 nomes escolhidos por Eiffel para a torre são todos de homens, segundo o CNRS. Em janeiro de 2026, a Cidade de Paris divulgou uma lista provisória de 72 mulheres cientistas, ainda sujeita a parecer das Academias."
     }
   },
-  "correct": 2,
+  "correct": 3,
   "difficulty": 3,
   "valid_until": null,
   "daily_eligible": true,
@@ -40,27 +40,10 @@
       "excerto": "Ces savants, ayant vécu entre 1789 et 1889, font partie des 72 scientifiques dont les noms ont été gravés sur la tour Eiffel lors de sa construction. [...] Mais où sont les mathématiciennes [...] ?",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://www.cnrs.fr/en/update/women-scientists-be-showcased-eiffel-tower-soon",
-      "dominio": "cnrs.fr",
-      "titulo": "Women scientists to be showcased on the Eiffel Tower soon (CNRS)",
-      "nivel": 1,
-      "excerto": "The Eiffel Tower has the names of 72 French scientists who lived between 1789 and 1889 inscribed in gold letters on its first floor. These names were chosen by Gustave Eiffel himself... opposite the 72 male scientists' names",
-      "consultada_em": "2026-11-18",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Nenhuma",
-      "concorda": true,
-      "confianca": "alta",
-      "dominio": "cnrs.fr",
-      "data": "2026-11-18",
-      "notas": "A CNRS descreve os 72 nomes de Eiffel como «72 male scientists' names» e diz que escondem o contributo das mulheres (efeito Matilda). Não consegui abrir toureiffel.paris (403). Uma, Três e Seis ficam excluídas porque a fonte diz que os 72 são todos homens. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): O projeto Hypatia propõe acrescentar 72 nomes de mulheres, mas a CNRS diz que a lista ainda não estava fechada em setembro de 2025. A pergunta refere-se aos 72 nomes escolhidos por Eiffel, e nesses nenhuma é mulher.",
-      "hash_texto": "45663cfec78d594bcfee062b20cc1b3798c346f912cc3f1a14603774f6e9da4f"
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -86,6 +69,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte cnrs.fr"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo): validade: A explicação diz «Em 2026, Paris propôs 72 nomes de mulheres cientistas». O CNRS (set. 2025) diz que a lista ainda não e"
     }
   ],
   "etiquetas": []

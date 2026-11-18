@@ -6,15 +6,15 @@
     "pt-PT": {
       "question": "Na «Sinfonia do Adeus» de Haydn, que gesto faz cada músico antes de sair do palco, um a um, no final?",
       "options": [
-        "Fecha a partitura e deixa-a na cadeira",
+        "Apaga a vela da sua estante",
         "Faz uma vénia ao príncipe",
         "Desafina de propósito o seu instrumento",
-        "Apaga a vela da sua estante"
+        "Fecha a partitura e deixa-a na cadeira"
       ],
-      "explanation": "Na Sinfonia n.º 45 (1772), os músicos apagavam a vela e saíam, até restarem só dois violinos. Era um recado a Nikolaus Esterházy: a temporada de verão tinha acabado e eles queriam voltar para casa."
+      "explanation": "Na Sinfonia n.º 45 (1772), os músicos apagavam a vela e saíam, até restarem dois violinos. Segundo o LSO, era um recado ao príncipe Nikolaus Esterházy: a temporada de verão tinha acabado e era hora de regressar a Viena."
     }
   },
-  "correct": 3,
+  "correct": 0,
   "difficulty": 3,
   "valid_until": null,
   "daily_eligible": true,
@@ -40,27 +40,10 @@
       "excerto": "Haydn's witty 'Farewell' Symphony of November 1772, in which one by one the musicians left the stage, packing up their instruments and blowing out their candles, was designed as a heavy hint to the Prince",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://sheetmusicinternational.com/program-notes/haydn-franz-joseph-1732-1809-symphony-symphony-45-farewell-symphony-644",
-      "dominio": "sheetmusicinternational.com",
-      "titulo": "Haydn Symphony 45 Farewell, Sheet Music Program Notes and recordings (Sheet Music International)",
-      "nivel": 2,
-      "excerto": "during the concluding Adagio, one by one, the musicians finished their parts, snuffed out the candles on their music stands, and quietly walked off the stage.",
-      "consultada_em": "2026-11-18",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Apaga a vela da sua estante",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "sheetmusicinternational.com",
-      "data": "2026-11-18",
-      "notas": "Li a página de notas de programa. O resultado de pesquisa da UC Davis, que diz o mesmo, devolveu 403 ao leitor. A fonte é de nível 2 (notas de programa), o que dá confiança média. Fechar a partitura, fazer vénia ao príncipe e desafinar o instrumento não aparecem na tradição. O músico apaga a vela, sai e deixa dois violinos (Haydn e Tomasini) no fim. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): A tradição é de relato posterior e provavelmente embelezada. Fontes diferem sobre quem sai primeiro (oboé I e trompa II), mas todas dão o mesmo gesto. Não tenho confirmação em fonte de nível 1.",
-      "hash_texto": "7cf8c0de67ecf17dfafe46c63c1b3745e0e346e70dd05213abf9ccda0aa915f3"
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -86,6 +69,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte sheetmusicinternational.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo): interpretacao: A explicação diz «Era um recado a Nikolaus Esterházy ... eles queriam voltar para casa» como facto. A LA Phil apresenta ; duvida: As fontes divergem em pormenores, por exemplo quem sai primeiro e se ficam dois violinos ou Haydn e o concertino. A perg"
     }
   ],
   "etiquetas": []
