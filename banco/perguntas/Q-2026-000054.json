@@ -66,7 +66,13 @@
       "data": "2026-11-18",
       "notas": "Li a página do USGS (nível 1). Confirma: maior lago de água doce em volume, mais antigo e mais profundo, 1637 m no ponto mais fundo, cerca de 20% da água doce superficial da Terra, 'approximately equivalent to all five of the North American Great Lakes combined'. Isto sustenta o 'quase tanto' do enunciado, a 'comparação' da explicação e o 'mais de 1600 m' (1632 m no WWF/FEOW e 1637 m no USGS, ambos acima de 1600; a UNESCO dá 1700 m, que também é compatível). Nenhum distrator (Titicaca, Ladoga, Vitória) é defensável. Ladoga é o maior lago da Europa e Vitória o maior de África, e nenhum tem esse volume. A frase 'cerca de 20%' tem acordo entre USGS, UNESCO (que fala em água doce não congelada) e FEOW. A ressalva do verificador (a fonte dele não confirma a comparação) fica coberta pelo USGS, que o pesquisador já tinha. Não achei segunda resposta, nem problema de validade, de definição ou de sensibilidade. O facto é estável. | páginas lidas pelo advogado: https://www.usgs.gov/media/images/lake-baikal-space-largest-oldest-and-deepest-lake"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Sem alterações ao enunciado (118 caracteres). Explicação mantida: já começa pela resposta, tem menos de 300 caracteres e não há gralhas. Nota para o caso de o advogado ainda não o ter visto: o enunciado diz «quase tanto como» e a explicação diz «comparável», o que é coerente.",
+      "data": "2026-11-18"
+    }
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -113,6 +119,12 @@
       "data": "2026-11-18",
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
       "nota": ""
     }
   ],

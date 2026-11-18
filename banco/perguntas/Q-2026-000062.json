@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000062",
   "topic": "Space",
-  "subtopic": "missões",
+  "subtopic": "sondas espaciais",
   "text": {
     "pt-PT": {
       "question": "Qual destas sondas da NASA foi lançada a 20 de agosto de 1977?",
@@ -11,11 +11,11 @@
         "Mariner 10",
         "Voyager 1"
       ],
-      "explanation": "Apesar do número, a Voyager 2 partiu primeiro, a 20 de agosto de 1977. A Voyager 1 foi lançada a 5 de setembro, mas seguiu uma trajetória mais rápida e chegou antes a Júpiter e a Saturno."
+      "explanation": "A Voyager 2, apesar do número, partiu primeiro, a 20 de agosto de 1977. A Voyager 1 foi lançada a 5 de setembro, mas seguiu uma trajetória mais rápida e chegou antes a Júpiter e a Saturno."
     }
   },
   "correct": 1,
-  "difficulty": 2,
+  "difficulty": 3,
   "valid_until": null,
   "daily_eligible": true,
   "sources": [
@@ -75,7 +75,13 @@
       "data": "2026-11-18",
       "notas": "Li as páginas e confirmei tudo. Voyager 2: 20 ago 1977, 14:29:44 UT (NASA e ESA, duas fontes independentes de nível 1). Voyager 1: 5 set 1977. Pioneer 11: 6 abr 1973 (NASA). Mariner 10: 3 nov 1973 (NASA). Os distratores são portanto falsos, com uma única resposta possível. A explicação também se sustenta: a NASA diz que a Voyager 1 foi lançada depois da 2 mas, por ter uma rota mais rápida, saiu antes da cintura de asteroides e ultrapassou a Voyager 2 a 15 dez 1977. As datas de sobrevoo da NASA confirmam que a Voyager 1 chegou primeiro a Júpiter (mar 1979 contra jul 1979) e a Saturno (nov 1980 contra ago 1981). Não encontrei segunda resposta, ambiguidade de definição nem problema de validade ou de sensibilidade. A reserva do verificador sobre Pioneer 11 e Mariner 10 está resolvida: li as páginas da NASA. | páginas lidas pelo advogado: https://science.nasa.gov/mission/voyager/voyager-2/, https://science.nasa.gov/mission/voyager/voyager-1/, https://science.nasa.gov/mission/pioneer-11/, https://science.nasa.gov/mission/mariner-10/, https://www.esa.int/Science_Exploration/Space_Science/20_August (redireciona para https://www.esa.int/articles/about-us/directorates/science/20-august)"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado inalterado. Explicação com ajuste mínimo («A Voyager 2»). Dificuldade subida de 2 para 3: a ordem de lançamento das duas Voyager engana muita gente e a Voyager 1 é uma opção. Subtema afinado de «missões» para «sondas espaciais».",
+      "data": "2026-11-18"
+    }
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -122,6 +128,12 @@
       "data": "2026-11-18",
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
       "nota": ""
     }
   ],

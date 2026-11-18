@@ -11,7 +11,7 @@
         "Zeiss",
         "Panavision"
       ],
-      "explanation": "Kubrick usou lentes Zeiss de 50 mm f/0.7, as mais luminosas do mundo na altura, para filmar interiores só com velas. Foram feitas apenas dez e Kubrick comprou três."
+      "explanation": "A Zeiss. Kubrick usou lentes de 50 mm f/0.7, as mais luminosas do mundo na altura, para filmar interiores só com velas. Foram feitas apenas dez e Kubrick comprou três."
     }
   },
   "correct": 2,
@@ -66,7 +66,13 @@
       "data": "2026-11-18",
       "notas": "Zeiss (nível 1, fabricante): Planar 0.7/50 mm, só dez produzidas, «at the time the world's fastest lens», usada por Kubrick nas cenas à luz de velas de Barry Lyndon sem luz adicional. PetaPixel: Planar 50 mm f/0.7, só 10 existentes. Os dois estão de acordo no número dez. A Zeiss também diz que Harlan comprou uma lente e depois mais duas, ou seja, três para o projeto de Kubrick, o que sustenta «Kubrick comprou três». A AFI devolveu 403 e não a contei como lida; a afirmação das três lentes assenta na Zeiss, mais o excerto do pesquisador, que não pude confirmar. Fica uma nota menor: a compra foi feita por Jan Harlan, o produtor executivo, em nome de Kubrick, e a AFI atribui-a a Kubrick. Como a lente é de qualquer modo a de Kubrick e a explicação não depende desse pormenor, não bloqueia. Outras marcas: nenhuma fonte atribui estas lentes a Leica, Nikon ou Panavision. A adaptação da câmara (Mitchell BNC) foi feita por Ed Di Giulio, mas a lente é Zeiss, por isso a pergunta, que fala em «fabricou as lentes», não é ambígua. Não encontrei segunda resposta. | páginas lidas pelo advogado: https://www.zeiss.com/photonics-and-optics/en/home/content/newsroom/news-overview/2022/zeiss-planar-07-50.html, https://petapixel.com/2013/01/25/grandson-of-zeiss-lens-designer-was-left-a-holy-grail-of-zeiss-lenses/"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado inalterado (105 caracteres). Explicação reordenada para começar pela resposta («A Zeiss.») e encurtada sem tirar nem acrescentar factos. Dificuldade e subtema mantidos.",
+      "data": "2026-11-18"
+    }
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -113,6 +119,12 @@
       "data": "2026-11-18",
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
       "nota": ""
     }
   ],

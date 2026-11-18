@@ -11,7 +11,7 @@
         "Com foles que as fazem vibrar",
         "Com martelos que as percutem"
       ],
-      "explanation": "Bartolomeo Cristofori, de Ppádua, criou em Florença, na corte dos Médicis, uma mecânica de martelos que percutem as cordas em vez de as beliscarem. Isso permitia tocar suave e forte, daí o nome «piano e forte»."
+      "explanation": "Com martelos que percutem as cordas. Bartolomeo Cristofori, de Pádua, criou em Florença, na corte dos Médicis, esta mecânica, que permitia tocar suave e forte, daí o nome «piano e forte»."
     }
   },
   "correct": 3,
@@ -52,7 +52,13 @@
       "hash_texto": "8dabc9c22b3e7b2bf243ba9342b0a319a3574693a06058b1f6659e37b2796eee"
     },
     "advogado": null,
-    "editor": null,
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado inalterado. Gralha corrigida: «Ppádua» passou a «Pádua» (não consultei a fonte; a grafia é a do nome da cidade). Explicação reordenada para começar pela resposta, sem factos novos. Dificuldade e subtema mantidos.",
+      "data": "2026-11-18"
+    },
     "caminho_leve": true
   },
   "estado": "em_verificacao",
@@ -101,6 +107,12 @@
       "evento": "caminho leve (sem advogado do diabo)",
       "agente": "orquestrador",
       "nota": "caminho leve: dificuldade 1, fonte de nível 1 do pesquisador (si.edu) e verificador cego de confiança alta; auditar depois por agente que não a produziu"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
     }
   ],
   "etiquetas": [
