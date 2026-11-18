@@ -1479,6 +1479,35 @@
   }
  },
  {
+  "id": "Q-2026-000095",
+  "topic": "Music",
+  "difficulty": 3,
+  "daily": false,
+  "correct": 1,
+  "text": {
+   "pt-PT": {
+    "q": "Na «Sinfonia do Adeus» de Haydn, que gesto faz cada músico antes de sair do palco, um a um, no final?",
+    "o": [
+     "Desafina de propósito o seu instrumento",
+     "Apaga a vela da sua estante",
+     "Faz uma vénia ao príncipe",
+     "Fecha a partitura e deixa-a na cadeira"
+    ],
+    "e": "Cada músico apaga a sua vela e sai, até restarem só dois violinos, no final da Sinfonia n.º 45 (1772). Segundo a anedota mais conhecida, era um recado ao príncipe Nikolaus Esterházy, porque os músicos tinham saudades de Eisenstadt."
+   },
+   "en-US": {
+    "q": "In Haydn's \"Farewell\" Symphony, what does each musician do, one by one, before leaving the stage at the end?",
+    "o": [
+     "Deliberately detunes their instrument",
+     "Snuffs out the candle on their stand",
+     "Bows to the prince",
+     "Closes their score and leaves it on the chair"
+    ],
+    "e": "Each musician snuffs out their candle and leaves, until only two violins remain, at the end of Haydn's 45th Symphony (1772). According to the best-known anecdote, it was a hint to Prince Nikolaus Esterházy, because the musicians were homesick for Eisenstadt."
+   }
+  }
+ },
+ {
   "id": "Q-2026-000096",
   "topic": "World History",
   "difficulty": 3,
@@ -1533,6 +1562,35 @@
      "Ampere balance"
     ],
     "e": "Watt balance: it was so named because it measures current and voltage in the coil, whose product is expressed in watts. Bryan Kibble designed it at the NPL (1975, according to NIST), and it now bears its inventor's name."
+   }
+  }
+ },
+ {
+  "id": "Q-2026-000098",
+  "topic": "Football",
+  "difficulty": 3,
+  "daily": false,
+  "correct": 2,
+  "text": {
+   "pt-PT": {
+    "q": "Em 1966, o troféu do Mundial foi roubado numa exposição em Londres. Quem o encontrou, embrulhado em jornal, uma semana depois?",
+    "o": [
+     "Um agente da Scotland Yard",
+     "Um jornalista do Daily Mirror",
+     "Um cão chamado Pickles, a passear com o dono",
+     "Um segurança da exposição"
+    ],
+    "e": "Foi o cão Pickles. O troféu foi roubado a 20 de março de 1966 e, a 27, o cão encontrou um embrulho de jornal atado com cordel, que o dono, David Corbett, abriu: era a taça."
+   },
+   "en-US": {
+    "q": "In 1966, the World Cup trophy was stolen from an exhibition in London. Who found it, wrapped in newspaper, a week later?",
+    "o": [
+     "A Scotland Yard officer",
+     "A Daily Mirror journalist",
+     "A dog named Pickles, out walking with his owner",
+     "A security guard at the exhibition"
+    ],
+    "e": "It was Pickles the dog. The trophy was stolen on March 20, 1966, and on March 27 the dog found a package of newspaper tied with string, which his owner, David Corbett, opened: it was the trophy."
    }
   }
  },
