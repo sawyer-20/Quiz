@@ -14,14 +14,14 @@
       "explanation": "Prateados: no romance de L. Frank Baum os sapatos eram de prata. Segundo a Biblioteca do Congresso, terão sido mudados para rubi no filme da MGM de 1939 para tirar partido da fotografia a cores."
     },
     "en-US": {
-      "question": "In L. Frank Baum's original book, what color were Dorothy's magic shoes, which became ruby red in the 1939 film?",
+      "question": "In the original book, \"The Wonderful Wizard of Oz,\" what color were Dorothy's magic shoes, which turned red in the 1939 film?",
       "options": [
         "Silver",
         "Emerald green",
         "Gold",
         "Sapphire blue"
       ],
-      "explanation": "Silver: in Baum's novel the shoes were made of silver. According to the Library of Congress, they were reportedly changed to ruby in the 1939 MGM film to take advantage of Technicolor photography."
+      "explanation": "Silver: in L. Frank Baum's novel the shoes were silver. According to the Library of Congress, they were reportedly changed to ruby in the 1939 MGM film to take advantage of color photography."
     }
   },
   "correct": 0,
@@ -75,12 +75,7 @@
     },
     "tradutor": {
       "data": "2026-11-18",
-      "notas": "O pt-PT diz «O Feiticeiro de Oz»; usei o título corrente em inglês, The Wonderful Wizard of Oz, omitido na pergunta e substituído por «Baum's original book» (L. Frank Baum aparece na explicação pt-PT, não na pergunta; é o mesmo livro, mas o conferente deve ver). «terão sido mudados» (cautela atribuída à Biblioteca do Congresso) traduzido por «reportedly» com a atribuição «According to the Library of Congress». «fotografia a cores» traduzido por «Technicolor photography»: o pt-PT não diz Technicolor, por isso o conferente deve avaliar se é nome a mais; alternativa mais literal: «color photography»."
-    },
-    "conferente": {
-      "aprovado": false,
-      "notas": "As opções são equivalentes uma a uma e a resposta certa coincide. Rejeitada por diferenças de facto e de detalhe entre os dois textos. Na dúvida, rejeita-se.",
-      "data": "2026-11-18"
+      "notas": "Corrigido: título da obra dado na pergunta, sem o nome do autor; «turned red»; «color photography». Baum só na explicação, como no pt-PT. Título em inglês corrente (The Wonderful Wizard of Oz)."
     }
   },
   "estado": "em_verificacao",
@@ -141,6 +136,12 @@
       "evento": "conferência recusada",
       "agente": "conferente",
       "nota": "[{\"onde\": \"pergunta\", \"idioma\": \"en-US\", \"detalhe\": \"O en-US atribui o livro a «L. Frank Baum's», e o pt-PT diz só «No livro original «O Feiticeiro de Oz»». O en-US dá um nome que o pt-PT não dá na pergunta, e o pt-PT dá um título que o en-US não dá.\"}, {\"onde\": \"explicação\", \"idioma\": \"en-US\", \"detalhe\": \"O en-US diz «Technicolor photography», mais específico do que o pt-PT «fotografia a cores». Há informação a mais no en-US.\"}, {\"onde\": \"pergunta\", \"idioma\": \"pt-PT\", \"detalhe\": \"O pt-PT diz «v"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Corrigido: título da obra dado na pergunta, sem o nome do autor; «turned red»; «color photography». Baum só na explicação, como no pt-PT. Título em inglês corrente (The Wonderful Wizard of Oz)."
     }
   ],
   "etiquetas": [

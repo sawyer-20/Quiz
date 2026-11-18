@@ -14,14 +14,14 @@
       "explanation": "Nenhuma: os 72 nomes que Eiffel escolheu para a torre são todos de homens, segundo o CNRS. Em janeiro de 2026, a Cidade de Paris divulgou uma lista provisória de 72 mulheres cientistas, ainda sujeita a parecer das Academias."
     },
     "en-US": {
-      "question": "Of the 72 names of scientists that Gustave Eiffel chose for his tower, how many are women's?",
+      "question": "Of the 72 names of scholars that Gustave Eiffel chose for his tower, how many are women?",
       "options": [
         "Three",
         "One",
         "Six",
         "None"
       ],
-      "explanation": "None: the 72 names Eiffel chose for the tower are all men's, according to the CNRS. In January 2026, the City of Paris released a provisional list of 72 women scientists, still subject to review by the Academies."
+      "explanation": "None: the 72 names Eiffel chose for the tower are all men, according to the CNRS. In January 2026, the City of Paris released a provisional list of 72 women scientists, still subject to review by the Academies."
     }
   },
   "correct": 3,
@@ -85,12 +85,7 @@
     },
     "tradutor": {
       "data": "2026-11-18",
-      "notas": "«sábios» traduzido por «scientists» (o pt-PT, na explicação, fala de «mulheres cientistas»); se o conferente preferir mais fiel, «savants» ou «scholars». «Cidade de Paris» = City of Paris. «parecer das Academias» = review by the Academies (as Academias não são especificadas no pt-PT)."
-    },
-    "conferente": {
-      "aprovado": false,
-      "notas": "As opções numéricas são equivalentes. Rejeitada pela divergência sábios/scientists e pela formulação en-US pouco natural.",
-      "data": "2026-11-18"
+      "notas": "Corrigido: «scholars» (sábios), «how many are women?», «all men». A lista de 2026 mantém «women scientists», como o pt-PT («mulheres cientistas»)."
     }
   },
   "estado": "em_verificacao",
@@ -151,6 +146,12 @@
       "evento": "conferência recusada",
       "agente": "conferente",
       "nota": "[{\"onde\": \"pergunta\", \"idioma\": \"en-US\", \"detalhe\": \"O pt-PT diz «sábios» e o en-US diz «scientists». Não são o mesmo termo. «Sábios» é mais amplo (eruditos, estudiosos), e «scientists» altera o âmbito do facto.\"}, {\"onde\": \"pergunta\", \"idioma\": \"en-US\", \"detalhe\": \"«how many are women's?» é pouco natural em inglês americano. Parece um calque do português.\"}, {\"onde\": \"explicação\", \"idioma\": \"en-US\", \"detalhe\": \"«all men's» na explicação tem o mesmo problema de naturalidade.\"}]"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Corrigido: «scholars» (sábios), «how many are women?», «all men». A lista de 2026 mantém «women scientists», como o pt-PT («mulheres cientistas»)."
     }
   ],
   "etiquetas": []

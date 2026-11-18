@@ -21,7 +21,7 @@
         "The emblem of the Palais des Festivals",
         "The logo of the French Ministry of Culture"
       ],
-      "explanation": "The coat of arms of the city of Cannes. According to the Cannes Festival, the palm refers to the city's coat of arms and motto, «Praemium palma victori», and the Palme d'Or trophy grew out of that symbol."
+      "explanation": "The coat of arms of the city of Cannes. According to the Cannes Festival, the palm refers to the city's coat of arms and motto, \"Praemium palma victori,\" and the Palme d'Or trophy grew out of that symbol."
     }
   },
   "correct": 0,
@@ -84,12 +84,7 @@
     },
     "tradutor": {
       "data": "2026-11-18",
-      "notas": "«Palma de Ouro» mantido como Palme d'Or (nome corrente em inglês, nome da distinção). «Palácio dos Festivais» traduzido por Palais des Festivals (nome da instituição). O motto latino mantido entre aspas como no pt-PT. «Principado do Mónaco» = Principality of Monaco. Uso de «Cannes'» na pergunta (possessivo) para ficar natural."
-    },
-    "conferente": {
-      "aprovado": false,
-      "notas": "O facto e as quatro opções são equivalentes. Só falha a pontuação en-US.",
-      "data": "2026-11-18"
+      "notas": "Corrigido: aspas retas duplas no lema latino."
     }
   },
   "estado": "em_verificacao",
@@ -150,6 +145,12 @@
       "evento": "conferência recusada",
       "agente": "conferente",
       "nota": "[{\"onde\": \"explicação\", \"idioma\": \"en-US\", \"detalhe\": \"O en-US usa aspas angulares «Praemium palma victori». O inglês americano usa aspas retas duplas: \\\"Praemium palma victori\\\".\"}]"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Corrigido: aspas retas duplas no lema latino."
     }
   ],
   "etiquetas": []
