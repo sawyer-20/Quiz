@@ -61,7 +61,11 @@
       "notas": "Página lida (base de dados da Universidade de Sydney que resume o estudo de 2005). Confirma o tigre. Cão, rato e ser humano não constam como tendo o gene inutilizado: sabe-se que têm recetor doce funcional, mas não li uma fonte que liste explicitamente as espécies com gene intacto no estudo de 2005 (PMC do artigo devolveu reCAPTCHA). Confiança média por isso.",
       "hash_texto": "bdf0b93339940302c25091091c79f12067a6c6a85e398ce28062c2a83b2d77ae"
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "O estudo de 2005 (PLoS Genetics) mostra a mesma deleção de 247 pb no Tas1r2 do tigre e da chita, além do gato. Diz também que cão, ser humano, rato e ratazana têm sabor doce funcional, por isso os três distratores são claramente errados. A chita não aparece nas opções, logo não há segunda resposta. O OMIA confirma de forma independente. Não consegui derrubar a pergunta. | páginas lidas pelo advogado: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0010003, https://omia.org/OMIA001617/9685/"
+    },
     "editor": null
   },
   "estado": "em_verificacao",
@@ -98,6 +102,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte omia.org"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []

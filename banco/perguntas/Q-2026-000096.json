@@ -12,6 +12,16 @@
         "Reino de Tambora"
       ],
       "explanation": "Era do Reino de Tambora. Os cientistas encontraram uma aldeia e dois adultos soterrados em cerca de 3 m de cinza da erupção de 1815; a semelhança com o Vesúvio deu-lhe o nome de «Pompeia do Oriente»."
+    },
+    "en-US": {
+      "question": "In 2004, a village buried under about 3 m of 1815 ash was found on Sumbawa, the \"Pompeii of the East.\" Which kingdom was it?",
+      "options": [
+        "Kingdom of Mataram",
+        "Kingdom of Srivijaya",
+        "Kingdom of Majapahit",
+        "Kingdom of Tambora"
+      ],
+      "explanation": "It belonged to the Kingdom of Tambora. Scientists found a village and two adults buried in about 3 m of ash from the 1815 eruption; the resemblance to Vesuvius's burial of Pompeii gave it the nickname \"Pompeii of the East.\""
     }
   },
   "correct": 3,
@@ -72,6 +82,10 @@
       "alteracao_factual": false,
       "notas": "ENUNCIADO ALTERADO (o verificador cego tem de repetir): reformulado de ~135 para ~118 caracteres. Passou para a voz passiva e a expressão «apelidada» foi substituída por aposição. Mantive o ano, o local, «cerca de 3 m» e a pergunta. A explicação começa pela resposta. Dificuldade e subtema mantidos.",
       "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "Correta = índice 3. Unidade mantida em metros (3 m), sem conversão. O pt-PT diz «semelhança com o Vesúvio»; expliquei como Vesuvius's burial of Pompeii para ficar natural, sem acrescentar factos novos. Se o conferente achar excessivo, usar «the resemblance to Vesuvius»."
     }
   },
   "estado": "em_verificacao",
@@ -114,6 +128,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte csmonitor.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Correta = índice 3. Unidade mantida em metros (3 m), sem conversão. O pt-PT diz «semelhança com o Vesúvio»; expliquei como Vesuvius's burial of Pompeii para ficar natural, sem acrescentar factos novos. Se o conferente achar excessivo, usar «the resemblance to Vesuvius»."
     }
   ],
   "etiquetas": []

@@ -12,6 +12,16 @@
         "Contenção no uso da cor"
       ],
       "explanation": "Contenção no uso da cor. Segundo o ACMI, depois de o Technicolor de duas cores dar resultados «não naturais e desastrosos», Natalie Kalmus, supervisora de cor, pediu aos cineastas «contenção da cor» (colour restraint)."
+    },
+    "en-US": {
+      "question": "After two-color Technicolor's poor results, what principle did Natalie Kalmus urge on filmmakers?",
+      "options": [
+        "Maximum saturation in every scene",
+        "Color only in outdoor scenes",
+        "A single dominant color in each film",
+        "Restraint in the use of color"
+      ],
+      "explanation": "Restraint in the use of color. According to ACMI, after two-color Technicolor gave \"unnatural and disastrous\" results, color supervisor Natalie Kalmus urged filmmakers to practice \"color restraint.\""
     }
   },
   "correct": 3,
@@ -71,6 +81,10 @@
       "alteracao_factual": false,
       "notas": "ENUNCIADO ALTERADO (o verificador cego tem de repetir): encurtado de ~135 para ~112 caracteres. Mudei a ordem das palavras e tirei a aposição «a supervisora de cor», que passou para a explicação. A pergunta é a mesma. A explicação começa agora pela resposta. Subtema afinado. Dificuldade 4 mantida.",
       "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "Correta = índice 3. O ACMI escreve «colour restraint» (grafia britânica); no en-US usei «color restraint» dentro das aspas, como grafia americana do mesmo termo. Aspas de «não naturais e desastrosos» traduzidas como \"unnatural and disastrous\" (tradução do pt-PT, não citação literal confirmada)."
     }
   },
   "estado": "em_verificacao",
@@ -113,6 +127,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte eastman.org"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Correta = índice 3. O ACMI escreve «colour restraint» (grafia britânica); no en-US usei «color restraint» dentro das aspas, como grafia americana do mesmo termo. Aspas de «não naturais e desastrosos» traduzidas como \"unnatural and disastrous\" (tradução do pt-PT, não citação literal confirmada)."
     }
   ],
   "etiquetas": []

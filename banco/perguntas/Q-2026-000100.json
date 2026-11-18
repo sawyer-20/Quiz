@@ -61,7 +61,11 @@
       "notas": "MoneyWeek (página aberta e lida, nível 2) confirma Yamauchi, Quioto, setembro de 1889, cartas hanafuda. Não consegui abrir a Britannica (403), por isso só há uma fonte lida, de nível 2. Os resultados de pesquisa convergem (hanafuda, 23/09/1889, Shimogyo, Quioto), mas vêm de sites que não abri. Excluídas: leques de papel, brinquedos de madeira e bonecas de porcelana não aparecem em nenhuma fonte para 1889; os brinquedos só surgem depois de 1963, e as cartas de estilo ocidental, por volta de 1902. Nota: o enunciado diz 'cartas de jogar japonesas (hanafuda)', que é consistente com a fonte.",
       "hash_texto": "00734219acb143f9414139d9ec479daf6b34c8e8365ac32de6171eebd50c4ba8"
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "A página da Nintendo (nível 1) diz que em 1889 Fusajiro Yamauchi começou a fabricar e vender hanafuda em Shimogyo-ku, Quioto. A explicação atribui isso à empresa, o que é correto. O MoneyWeek (nível 2) diz que Yamauchi montou o negócio em Quioto em setembro de 1889 a fazer cartas hanafuda e lhe chamou Nintendo Koppai. Isso apoia a frase da explicação atribuída ao MoneyWeek. Os dois domínios são independentes e concordam. Os distratores (bonecas de porcelana, brinquedos de madeira, leques) não têm apoio nestas fontes. A explicação tem 2 frases e menos de 300 caracteres, sem linguagem de dúvida. Não consegui derrubar. | páginas lidas pelo advogado: https://www.nintendo.co.jp/corporate/en/history/index.html, https://moneyweek.com/349214/23-september-1889-nintendo-starts-making-playing-cards"
+    },
     "editor": null
   },
   "estado": "em_verificacao",
@@ -98,6 +102,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte moneyweek.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": [

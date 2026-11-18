@@ -71,7 +71,11 @@
       "notas": "Confirmado pelo Deseret News (página aberta e lida): o troféu foi encontrado uma semana depois do roubo pelo cão Pickles, a passear com o dono, embrulhado em jornal. Os resultados de pesquisa (Yahoo, National Football Museum, Washington Post, Bloomberg) concordam, mas esses sites não os consegui abrir (403 ou timeout), por isso só há uma fonte lida, de nível 2, daí a confiança média. As outras opções (jornalista do Daily Mirror, agente da Scotland Yard, segurança da exposição) não aparecem em nenhuma fonte; a Scotland Yard só entrou na operação de resgate do resgate/resgate-ransom (o inspetor Len Buggy), não no achado. Pormenores divergentes entre fontes (sob um arbusto/sebe ou junto à roda de um carro) não afetam a resposta.",
       "hash_texto": "45a6c8e755c17204c7c6185a11d4bdfee3508b8f66a0f146fabc64f3b1f50f37"
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "Abri as duas fontes. O history.co.uk diz que o troféu foi roubado a 20 de março de 1966 e encontrado a 27 de março, por Pickles, que farejava um embrulho em jornal atado com cordel (\"newspaper and tied with string\"). Diz também que Corbett levou o embrulho para casa e só depois contactou a polícia. O Deseret News diz que o roubo foi \"the next day\" depois de 19 de março, que o troféu foi encontrado \"a week after its theft\" e que Corbett o devolveu à polícia. As duas fontes concordam nas datas e no dono. O 'Scotland Yard' do distrator é falso: a própria fonte diz que a resolução não veio da polícia. Não há segunda resposta defensável. O troféu foi encontrado por Pickles, a passear com o dono, e não por segurança, jornalista ou polícia. O 'Daily Mirror' só aparece no Deseret como autor de uma notícia de 2018 sobre o ladrão, sem relação com o achado. A explicação tem 2 frases e menos de 300 caracteres, sem linguagem de dúvida. Não consegui derrubar. | páginas lidas pelo advogado: https://www.history.co.uk/articles/pickles-the-dog-world-cup, https://www.deseret.com/sports/2026/06/22/how-pickles-the-dog-saved-the-fifa-world-cup-60-years-ago/"
+    },
     "editor": null
   },
   "estado": "em_verificacao",
@@ -108,6 +112,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte deseret.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": [

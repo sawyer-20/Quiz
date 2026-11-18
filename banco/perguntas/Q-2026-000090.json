@@ -12,6 +12,16 @@
         "De parasitas que lhe mordem, os isópodes gnatídeos"
       ],
       "explanation": "De parasitas, os isópodes gnatídeos: na experiência de Grutter, divulgada em 2010, quase todos os peixes-papagaio sem casulo foram atacados, contra poucos dos que o tinham. De noite, sem peixes-limpadores, o casulo funciona como rede mosquiteira."
+    },
+    "en-US": {
+      "question": "According to biologist Lexa Grutter, what does the mucus cocoon a parrotfish sleeps in protect it from?",
+      "options": [
+        "Algae that attach to its scales",
+        "Bacteria in the reef water",
+        "Strong waves and currents at night",
+        "Biting parasites, the gnathiid isopods"
+      ],
+      "explanation": "Parasites, the gnathiid isopods: in Grutter's experiment, reported in 2010, almost all parrotfish without a cocoon were attacked, versus few of those that had one. At night, with no cleaner fish around, the cocoon works like a mosquito net."
     }
   },
   "correct": 3,
@@ -72,6 +82,10 @@
       "alteracao_factual": false,
       "notas": "ENUNCIADO ALTERADO (o verificador cego tem de repetir): encurtado de ~133 para ~95 caracteres. Tirei o inciso «(Universidade de Queensland)», mantive a atribuição a Lexa Grutter e a pergunta. A explicação começa pela resposta e continua com 2 frases, dentro dos 300 caracteres. Dificuldade e subtema mantidos.",
       "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "Correta = índice 3. «divulgada em 2010» traduzido por «reported in 2010». «peixes-limpadores» = cleaner fish."
     }
   },
   "estado": "em_verificacao",
@@ -114,6 +128,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte nationalgeographic.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Correta = índice 3. «divulgada em 2010» traduzido por «reported in 2010». «peixes-limpadores» = cleaner fish."
     }
   ],
   "etiquetas": []

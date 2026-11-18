@@ -51,7 +51,11 @@
       "notas": "Li a página (curador do Smithsonian, Lintelman). Confirma prateados no livro e a mudança para vermelhos por causa do Technicolor. Pesquisa no Project Gutenberg também aponta silver shoes no texto de Baum, mas as páginas deram 503/502 e não as consegui abrir. Azul-safira, dourados e verde-esmeralda não aparecem em nenhuma fonte como cor dos sapatos. Fonte distinta de loc.gov.",
       "hash_texto": "586e2a1617ea6cc76daa9c8e18decbc522229a905fe93ee2261cd79d7db49205"
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "A LOC diz «originally silver in Baum's book» e «purportedly changed to ruby». O Smithsonian confirma que no livro e no guião original os sapatos são de prata e que foram mudados antes das filmagens por causa do Technicolor. A dúvida («terão sido») está atribuída à Biblioteca do Congresso, o que a regra permite. Não encontrei fonte que apoie verde, dourado ou azul para o livro. Não consegui derrubar a pergunta. | páginas lidas pelo advogado: https://www.loc.gov/exhibits/oz/ozsect2.html, https://www.smithsonianmag.com/smithsonian-institution/without-camera-emerald-city-would-have-been-color-mud-180961463/"
+    },
     "editor": null
   },
   "estado": "em_verificacao",
@@ -88,6 +92,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte smithsonianmag.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": [

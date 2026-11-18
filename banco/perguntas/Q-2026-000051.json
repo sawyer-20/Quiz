@@ -12,6 +12,16 @@
         "Um rolo de filme"
       ],
       "explanation": "Um rolo de filme. Segundo a Academia, os cinco raios do rolo representam os cinco ramos originais da Academia: atores, realizadores, produtores, técnicos e argumentistas."
+    },
+    "en-US": {
+      "question": "The Oscar statuette shows a knight holding a sword, standing on what object?",
+      "options": [
+        "A theater mask",
+        "A globe",
+        "A laurel wreath",
+        "A reel of film"
+      ],
+      "explanation": "A reel of film. According to the Academy, the reel's five spokes represent the Academy's five original branches: actors, directors, producers, technicians, and writers."
     }
   },
   "correct": 3,
@@ -90,6 +100,10 @@
       "alteracao_factual": false,
       "notas": "Enunciado inalterado. A explicação começa agora pela resposta e foi encurtada sem acrescentar nada. Dificuldade subida de 1 para 2: muita gente conhece a estatueta, mas nem toda a gente sabe o que tem aos pés. Subtema afinado.",
       "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "Correta = índice 3. «raios do rolo» traduzido por «spokes». «Academia» = the Academy (of Motion Picture Arts and Sciences), sem expandir o nome. «theater» em grafia americana."
     }
   },
   "estado": "em_verificacao",
@@ -162,6 +176,12 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Correta = índice 3. «raios do rolo» traduzido por «spokes». «Academia» = the Academy (of Motion Picture Arts and Sciences), sem expandir o nome. «theater» em grafia americana."
     }
   ],
   "etiquetas": []

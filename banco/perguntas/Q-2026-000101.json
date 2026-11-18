@@ -12,6 +12,16 @@
         "A paz feita com os povos das costas vizinhas"
       ],
       "explanation": "A calma das águas. Magalhães entrou no oceano em novembro de 1520 e encontrou águas invulgarmente calmas; chamou-lhe «pacífico», que significa tranquilo, e o nome ficou para o maior oceano do planeta."
+    },
+    "en-US": {
+      "question": "In 1520, Ferdinand Magellan named the ocean he was crossing \"Pacific.\" What feature of the sea led him to that name?",
+      "options": [
+        "No islands or land in sight",
+        "The mild water temperature",
+        "The calmness of its waters",
+        "Peace made with the peoples of nearby coasts"
+      ],
+      "explanation": "The calmness of its waters. Magellan entered the ocean in November 1520 and found unusually calm waters; he called it \"pacific,\" meaning peaceful, and the name stuck for the planet's largest ocean."
     }
   },
   "correct": 2,
@@ -72,6 +82,10 @@
       "alteracao_factual": false,
       "notas": "Enunciado inalterado (já cabe nos 120 caracteres). Só a explicação foi reorganizada para começar pela resposta. Dificuldade e subtema mantidos.",
       "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "Correta = índice 2. Fernão de Magalhães -> Ferdinand Magellan (forma inglesa corrente)."
     }
   },
   "estado": "em_verificacao",
@@ -108,6 +122,12 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Correta = índice 2. Fernão de Magalhães -> Ferdinand Magellan (forma inglesa corrente)."
     }
   ],
   "etiquetas": []

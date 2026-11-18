@@ -61,7 +61,11 @@
       "notas": "Página lida. É um artigo posterior (Royal Society Open Science, 2017) que resume o resultado e cita o estudo de 2010 como [11]. A fonte primária (Current Biology, 2010) deu 403 em cell.com e sciencedirect.com; a pesquisa mostra o resumo do artigo com a mesma conclusão (gradiente invertido restaurado em cerca de três dias), mas não o li diretamente. As outras opções (trocar objetos por cor diferente, aceitar a nova ordem, abandonar o pátio) contradizem a restauração do gradiente. Nota: o 'gradiente invertido' do enunciado corresponde a 'made worse' na fonte lida.",
       "hash_texto": "9fc03d72758e0d29d2a6420b8de0e50bbd50464a33919a8c68514fb132c45c15"
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "A página da JCU confirma os autores (Endler, Endler e Doerr), a Current Biology, o ano de 2010 e o resumo. O resumo diz que os objetos aumentam de tamanho com a distância à entrada do corredor, que isso cria perspetiva forçada para a audiência e que, após a inversão experimental, os machos recuperaram o gradiente em 3 dias. O PMC confirma os 3 dias para gradientes piorados por reorganização dos objetos. A passagem do PMC sobre a substituição completa demorar mais de 3 dias é de outra experiência (limpeza total do pátio) e não contradiz a pergunta. Não consegui derrubar a pergunta. | páginas lidas pelo advogado: https://researchonline.jcu.edu.au/16872/, https://pmc.ncbi.nlm.nih.gov/articles/PMC5319334/"
+    },
     "editor": null
   },
   "estado": "em_verificacao",
@@ -98,6 +102,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte nih.gov"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []

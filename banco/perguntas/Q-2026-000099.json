@@ -61,7 +61,11 @@
       "notas": "Site oficial da Bola de Ouro (publicado a 12/07/2026, atualizado a 13/07/2026), lido na íntegra. Matthews tinha 41 anos, 10 meses e 17 dias; a mais próxima é Messi, com 36 anos em 2023. Excluídas: 36 anos (idade de Messi em 2023), 34 anos (Messi 2021, Benzema, Rapinoe) e 38 anos (sem correspondência na lista). A afirmação do enunciado ('o mais velho até 2026') confirma-se. Com 41 anos completos e 10 meses, a resposta '41 anos' é a única possível.",
       "hash_texto": "a39dcbc042f59619098ae985f51eaae82ae891814011de387be20f7168593be1"
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "O ballondor.com (nível 1, publicado em julho de 2026) diz que Matthews tinha 41 anos, 10 meses e 17 dias. Diz também que é o vencedor mais velho de sempre, contando homens e mulheres. O Guinness (nível 2) dá 41 anos e 321 dias a 18 de dezembro de 1956, e diz que ele jogou mais nove anos e se retirou aos 50. As duas fontes concordam. Os distratores são idades de Messi (36 e 34) e Benzema (34); nenhum é a idade de Matthews. O 38 não corresponde a nenhum vencedor. O 'Até 2026' no enunciado já fixa a validade, e nenhum vencedor de 2026 ultrapassaria 41 anos e 10 meses. A explicação tem 2 frases e menos de 300 caracteres, sem linguagem de dúvida. Não consegui derrubar. | páginas lidas pelo advogado: https://ballondor.com/news/posts/who-is-the-oldest-ballon-dor-winner, https://www.guinnessworldrecords.com/world-records/788751-oldest-winner-of-footballs-soccers-ballon-dor-award"
+    },
     "editor": null
   },
   "estado": "em_verificacao",
@@ -98,6 +102,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte ballondor.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []

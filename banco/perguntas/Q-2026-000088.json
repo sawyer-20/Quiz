@@ -60,7 +60,11 @@
       "notas": "Página lida. O Palais des Festivals é do organismo municipal/gestor do local, não é o domínio do festival nem republicação dos títulos a evitar. Excluídas: Mónaco, ministério da Cultura e emblema do Palácio dos Festivais (nenhuma fonte as liga à palma). | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Algumas fontes secundárias referem também as palmeiras da Croisette, mas a fonte lida diz que o desenho se inspira no brasão da cidade, que é a única opção compatível.",
       "hash_texto": "8a0840d5d6e968ea9a9b900c233a9818128a1b0f56aa513f090d2f87d972d3be"
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "O Festival de Cannes diz que a palma remete para o brasão e o lema da cidade, «Praemium palma victori». O Palais des Festivals diz que o troféu se inspira no brasão da cidade, o que apoia a segunda frase da explicação. Os distratores (Mónaco, Palácio dos Festivais, ministério) não têm apoio nas fontes. Não consegui derrubar a pergunta. | páginas lidas pelo advogado: https://www.festival-cannes.com/en/2025/a-palme-for-an-emblem/, https://en.palaisdesfestivals.com/palais-events/trade-shows-and-events/cannes-film-festival/"
+    },
     "editor": null
   },
   "estado": "em_verificacao",
@@ -97,6 +101,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte palaisdesfestivals.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
     }
   ],
   "etiquetas": []
