@@ -97,8 +97,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "Equivalente. Números, nomes, datas e etimologia coincidem. Pontuação americana correta (vírgula dentro das aspas).",
-      "data": "2026-11-13"
+      "notas": "Perrier e Segrè, 1937, o n.º 43 e a etimologia grega são iguais nos dois idiomas. As opções Astato/Astatine, Tecnécio/Technetium, Promécio/Promethium e Frâncio/Francium correspondem-se. A palavra «artificial» aparece só na explicação e a pergunta já usa «artificialmente» nos dois idiomas, por isso não há pista nova.",
+      "data": "2026-11-18",
+      "hash_texto": "3a6250080d64fdeb7f95723a3931c08d02a996535e48a250f505cb21e1c722f9"
     }
   },
   "estado": "aprovada",
@@ -165,6 +166,12 @@
       "evento": "verificação repetida (regra 23)",
       "agente": "verificador-cego",
       "nota": "repetição do verificador cego (relatório anterior malformado): respondeu Tecnécio, confiança alta; fonte EBSCO (n2)"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "etiquetas": [

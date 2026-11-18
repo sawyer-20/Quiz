@@ -88,8 +88,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "Equivalente. Duas/Two, Quatro/Four, Doze/Twelve, Uma/One, pela mesma ordem.",
-      "data": "2026-11-13"
+      "notas": "Duas/Two, Quatro/Four, Doze/Twelve e Uma/One correspondem-se pela mesma ordem. «Namibe» é aceitável em pt-PT para o deserto. A explicação tem 2 frases e diz o mesmo nos dois idiomas.",
+      "data": "2026-11-18",
+      "hash_texto": "434604bf06dbf4d412c6d2bb582cbba420e5f7ca2a07c04098d588d22a875e67"
     }
   },
   "estado": "aprovada",
@@ -156,6 +157,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "etiquetas": [],

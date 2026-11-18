@@ -105,8 +105,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "Números, resultado (7–5), parcial ao intervalo (5–4), 3–0 inicial e atribuição «segundo a FIFA»/«according to FIFA» coincidem. As opções numéricas são idênticas. A explicação tem 2 frases nos dois idiomas.",
-      "data": "2026-11-17"
+      "notas": "Resultado (7–5), intervalo (5–4), 3–0 e 12 golos coincidem, tal como a atribuição à FIFA. As opções numéricas são idênticas. A resposta certa, 9, é coerente com o intervalo de 5–4.",
+      "data": "2026-11-18",
+      "hash_texto": "ad563bc947f8861cfc3eceb3c8f0f79b0ff5e87ad59335f8ac796660dfc83e30"
     }
   },
   "estado": "aprovada",
@@ -311,6 +312,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "etiquetas": [],

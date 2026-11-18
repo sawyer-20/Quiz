@@ -88,8 +88,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "Textos equivalentes, opções alinhadas uma a uma, explicação com 2 frases, opções até 60 caracteres, sem brasileirismos.",
-      "data": "2026-11-13"
+      "notas": "Natalya Sats nos dois; descrições das opções equivalentes; sem pistas novas.",
+      "data": "2026-11-18",
+      "hash_texto": "b0e44a0187059f08b53cfc44a62bac097cb2482b542e3757b7c5068ebd9c5eda"
     }
   },
   "estado": "aprovada",
@@ -156,6 +157,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "etiquetas": [],

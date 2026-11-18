@@ -85,8 +85,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "Equivalente. Fémur/Femur, Úmero/Humerus, Tíbia/Tibia, Rádio/Radius correspondem uma a uma.",
-      "data": "2026-11-13"
+      "notas": "Fémur/Femur, Úmero/Humerus, Tíbia/Tibia e Rádio/Radius correspondem-se uma a uma. A explicação diz o mesmo nos dois idiomas, com 2 frases. Não há pistas novas.",
+      "data": "2026-11-18",
+      "hash_texto": "15d5e5e62aaffdd3363aff7804c91f6704dab31f7662e37bed2f027d7f469a1b"
     }
   },
   "estado": "aprovada",
@@ -147,6 +148,12 @@
       "evento": "originalidade (definição nova): classico",
       "agente": "originalidade",
       "nota": "mantém-se: facto e forma habituais em quizzes"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "etiquetas": [

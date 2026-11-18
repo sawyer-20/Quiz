@@ -98,8 +98,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "Atribuição «Segundo a RTÉ»/«According to RTÉ» mantida, nomes iguais, 2 frases nas duas explicações, opções equivalentes.",
-      "data": "2026-11-13"
+      "notas": "Atribuição «Segundo a RTÉ»/«According to RTÉ» mantida; mesmos nomes; explicação com 2 frases.",
+      "data": "2026-11-18",
+      "hash_texto": "4c9d78b2aa529c7079832a5c63a46881f5f44236adbd9fa6949600da35864e18"
     }
   },
   "estado": "aprovada",
@@ -184,6 +185,12 @@
       "evento": "ressalva registada (decisão do Andre, 18/11)",
       "agente": "orquestrador",
       "nota": "A fonte do IFAB (ata de 2015) é institucional e retrospetiva, de nível 1 institucional, não a ata contemporânea. As atas de 1890 e de 1891 estão pendentes para o /auditar."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "etiquetas": [],

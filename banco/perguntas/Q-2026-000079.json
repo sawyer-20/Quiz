@@ -21,7 +21,7 @@
         "A reflection in the telescope lens",
         "A fixed star"
       ],
-      "explanation": "A fixed star: according to NASA, that is how Galileo recorded it, and physicist David Jamieson notes the label \"fixa\" is in the notebooks, but Kowal and Drake argue he did detect its motion. NASA says it was the first planet located by mathematical prediction."
+      "explanation": "A fixed star: according to NASA, that is how Galileo recorded it, and physicist David Jamieson notes the label \"fixa\" (fixed) is in the notebooks, but Kowal and Drake argue he did detect its motion. NASA says it was the first planet located by mathematical prediction."
     }
   },
   "correct": 3,
@@ -111,16 +111,11 @@
       "data": "2026-11-17"
     },
     "tradutor": {
-      "data": "2026-11-17",
-      "notas": "Correct answer stays at index 3 (zero-based), the fourth option. Galileo's \"fixa\" label kept in quotes as in the source. \"Neptuno\" became \"Neptune\". \"Nova explosiva\" was rendered as \"A new exploding star\" (a nova/supernova-type event), which keeps the pt-PT sense. \"chegou a detetar\" became \"did detect\", following Kowal and Drake's wording (\"also detected the motion\"). Attributions to NASA, Jamieson, and Kowal and Drake are kept. The explanation is about 270 characters in 2 sentences."
-    },
-    "conferente": {
-      "aprovado": true,
-      "notas": "Atribuições (NASA, Jamieson, Kowal e Drake) e datas iguais nos dois idiomas. Opções equivalentes uma a uma. A palavra «fixa»/\"fixa\" é citação do caderno, por isso mantê-la no en-US é correto. Explicação com 2 frases e dentro dos limites.",
-      "data": "2026-11-17"
+      "data": "2026-11-18",
+      "notas": "Só a explicação mudou: acrescentada a glosa «(fixed)» a seguir à etiqueta original \"fixa\", que se mantém entre aspas por ser citação dos cadernos. Pergunta, opções e atribuições (NASA, Jamieson, Kowal e Drake) iguais. 2 frases, cerca de 276 caracteres (estimativa, não medida com limites.py)."
     }
   },
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -262,8 +257,25 @@
       "evento": "ressalva registada (decisão do Andre, 18/11)",
       "agente": "orquestrador",
       "nota": "A etiqueta «fixa» nos cadernos só está documentada no artigo de Jamieson (ph.unimelb.edu.au) e na imprensa; o comunicado da Universidade de Melbourne só confirma «estrela» e o movimento. Confiança da etiqueta: nível 2. Entra na lista de revisão do /auditar de nível 1, a seguir à Q43 e à Q1."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reaberta: conferência repetida (hash) reprovou o en-US da explicação («fixa» sem tradução)",
+      "agente": "orquestrador",
+      "nota": "só redação do en-US; volta ao tradutor e ao conferente"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"explicação\", \"idioma\": \"en-US\", \"detalhe\": \"O en-US deixa «fixa» por traduzir entre aspas (the label \\\"fixa\\\"). Um leitor americano não entende a palavra e a resposta («A fixed star») deixa de ter correspondência visível na explicação. Falta dizer se a etiqueta original está noutra língua ou se é a tradução inglesa «fixed». Como não vejo a fonte, não sei qual das duas é a leitura certa, e na dúvida rejeito. A tradução deve ser «fixed star» ou deixar claro que é a palavra original dos "
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Só a explicação mudou: acrescentada a glosa «(fixed)» a seguir à etiqueta original \"fixa\", que se mantém entre aspas por ser citação dos cadernos. Pergunta, opções e atribuições (NASA, Jamieson, Kowal e Drake) iguais. 2 frases, cerca de 276 caracteres (estimativa, não medida com limites.py)."
     }
   ],
-  "etiquetas": [],
-  "options_lock": "de5cc0ea3345f9320d106b3b1e141e578f1075519d793f7c01ad4b2a46619597"
+  "etiquetas": []
 }

@@ -78,8 +78,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "Equivalente nos dois idiomas. Opções alinhadas uma a uma.",
-      "data": "2026-11-13"
+      "notas": "A data (1799), as três escritas e a chave são as mesmas nos dois idiomas. As opções Fenício/Phoenician, Grego antigo/Ancient Greek, Hebraico/Hebrew e Latim/Latin correspondem-se. A explicação tem 2 frases. A pergunta tem duas frases e termina em «?», o que é aceitável.",
+      "data": "2026-11-18",
+      "hash_texto": "c0a42ccf7443606e74cddc00000ba9effc309b5d41c05e5f62f0248cc9f536b7"
     }
   },
   "estado": "aprovada",
@@ -152,6 +153,12 @@
       "evento": "originalidade (definição nova): original",
       "agente": "originalidade",
       "nota": "definição de 17/11/2026: ângulo próprio; o agente deixa margem ao Andre para uma leitura mais estrita"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "etiquetas": [],

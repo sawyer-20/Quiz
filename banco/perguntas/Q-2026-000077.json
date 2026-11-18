@@ -88,8 +88,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "Datas (1885, anos 1980) e opções equivalentes uma a uma. Sem pistas novas.",
-      "data": "2026-11-13"
+      "notas": "Facto, números (1885, anos 1980) e opções equivalentes uma a uma. O enunciado não diz «farol» nem «Finlândia», por isso não há pista nova. Explicação com 2 frases.",
+      "data": "2026-11-18",
+      "hash_texto": "50098712fe457a3a026acb98fec65da22fcfa27e61936eddf0cf65ee6e326afd"
     }
   },
   "estado": "aprovada",
@@ -156,6 +157,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "etiquetas": [],

@@ -88,8 +88,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "Atribuição à UNESCO, data de 1922 e opções equivalentes.",
-      "data": "2026-11-13"
+      "notas": "A atribuição à UNESCO, a data de 1922 e o Paquistão são iguais nos dois idiomas. As opções Babilónia/Babylon, Mohenjo-Daro, Cnossos/Knossos e Ur correspondem-se. Não há pistas novas.",
+      "data": "2026-11-18",
+      "hash_texto": "898f21648ab2e463c3719bfbfa00d21690666fb40e8364f8bf443aa3a542dc79"
     }
   },
   "estado": "aprovada",
@@ -168,6 +169,12 @@
       "evento": "verificação repetida (regra 23)",
       "agente": "verificador-cego",
       "nota": "repetição do verificador cego (relatório anterior malformado): respondeu Mohenjo-Daro, confiança média; fonte doam.gov.pk (n1) confirma ruas em ângulo reto e drenagem, mas não o ano de 1922 (1922 confirmado por UNESCO, Archaeology e Harappa.com noutras passagens)"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "etiquetas": [],

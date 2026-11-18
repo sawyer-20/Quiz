@@ -54,10 +54,10 @@
     {
       "url": "https://www.governmentattic.org/59docs/NASAhubbleOpSystFailureRpt1990.pdf",
       "dominio": "governmentattic.org",
-      "titulo": "The Hubble Space Telescope Optical Systems Failure Report (Allen Board, 1990), via GovernmentAttic",
+      "titulo": "The Hubble Space Telescope Optical Systems Failure Report (Allen Report, 1990)",
       "nivel": 1,
-      "excerto": "When the Board measured the RNC, the lens was incorrectly spaced from the mirrors. Calculations ... show that the measured amount, 1.3 mm, accounts in detail for the amount and character of the observed image blurring.",
-      "consultada_em": "2026-11-17",
+      "excerto": "the lens was incorrectly spaced from the mirrors... the measured amount, 1.3 mm, accounts in detail for the amount and character of the observed image blurring.",
+      "consultada_em": "2026-11-18",
       "papel": "verificador"
     }
   ],
@@ -67,8 +67,9 @@
       "concorda": true,
       "confianca": "alta",
       "dominio": "governmentattic.org",
-      "data": "2026-11-17",
-      "notas": "O relatório da comissão Allen diz que o erro de 1,3 mm esteve no espaçamento da lente no 'reflective null corrector' (RNC), o aparelho de teste usado para dar forma ao espelho, e que o espelho foi polido com a forma errada. Isto exclui as outras opções. O alinhamento após o lançamento não é o caso, porque o erro nasceu na fabricação. O espelho secundário não é mencionado como causa. A espessura do vidro também não. Uma fonte de nível 2 (UPI 1990, que não abri) refere arruelas de cerca de 1,3 mm no mesmo aparelho. O documento é uma cópia do relatório NASA alojada fora de nasa.gov. Não é o artigo 'Hubble's Mirror Flaw' nem o arXiv indicados."
+      "data": "2026-11-18",
+      "notas": "Relatório da comissão Allen (NASA, 1990), lido do PDF no governmentattic.org (documento diferente dos títulos a evitar). O erro de 1,3 mm esteve no espaçamento da lente de campo do reflective null corrector, o aparelho de teste usado para polir o espelho principal. O espelho foi polido com a forma errada porque o corretor estava mal montado. As outras opções ficam excluídas: o espelho secundário, o alinhamento após o lançamento e a espessura do vidro não são a causa segundo o relatório. O texto explica o erro como um erro de espaçamento no corretor, o que confirma a opção escolhida, e o enunciado diz que o erro do espelho foi de 1,3 mm, o que é uma ligeira imprecisão: o erro de 1,3 mm foi no aparelho e produziu a forma errada do espelho.",
+      "hash_texto": "d1f644997f470045b8162d9f79f5820e89cf01b0b9d6d4df85d96444981a5f92"
     },
     "advogado": {
       "aprovado": true,
@@ -88,8 +89,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "Pergunta e explicação dizem o mesmo nos dois idiomas: 1,3 mm / 1.3 mm, corretor nulo / null corrector, espelho demasiado plano longe do centro / too flat away from its center. As quatro opções correspondem uma a uma pela mesma ordem, e a certa (índice 3) é a mesma nos dois idiomas. O enunciado não repete a palavra da opção certa. Não vi formas do português do Brasil e a grafia en-US está correta. A pergunta termina em «?», as opções têm menos de 60 caracteres e a explicação cabe numa frase.",
-      "data": "2026-11-17"
+      "notas": "1,3 mm / 1.3 mm, corretor nulo / null corrector, mesma resposta; opções equivalentes uma a uma.",
+      "data": "2026-11-18",
+      "hash_texto": "a63d28613c97143deb0f5fec03fdf527b7e2cb2f9a528a4cc8f8153bb75b78ed"
     }
   },
   "estado": "aprovada",
@@ -240,6 +242,18 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte governmentattic.org"
     }
   ],
   "etiquetas": [],

@@ -115,8 +115,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "Atribuições (Universidade do Colorado, Guinness World Records), 1,2 milhões e 1958 coincidem. Opções equivalentes pela mesma ordem e todas com menos de 60 caracteres. A pergunta pt «como era» e a en «made of» têm um matiz ligeiramente diferente, mas as opções respondem a ambas da mesma forma. Sem pistas novas.",
-      "data": "2026-11-17"
+      "notas": "Atribuições (Universidade do Colorado, Guinness World Records), 1,2 milhões/1.2 million, 1942 e 1958 coincidem. As quatro opções (folha de ouro, tinta dourada, latão, ouro maciço) são equivalentes pela mesma ordem. Nota menor: o en-US diz «made of», o pt-PT diz «como era», e a resposta («sprayed with gold paint») continua a servir nos dois casos.",
+      "data": "2026-11-18",
+      "hash_texto": "f3009316187cf9e158f32742b11b85b1246e10c8f81108ab84ee83d6dfa4eb97"
     }
   },
   "estado": "aprovada",
@@ -291,6 +292,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "etiquetas": [],
