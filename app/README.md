@@ -1,17 +1,23 @@
-# quizlux
+# QUIZLUX: demonstração do modo solo (Flutter)
 
-A new Flutter project.
+Modo solo offline, pt-PT e en-US: escolher tópico (ou misto), até 10 perguntas com 4 opções,
+temporizador de 20 s, pontuação (100 por resposta certa + até 100 de bónus pela rapidez) e ecrã
+de resultado com revisão. Tudo em JSON local (`assets/perguntas.json`), sem backend.
 
-## Getting Started
+## Dados
+`python3 scripts/exportar_app.py` (na raiz do repositório) copia do banco só as perguntas
+`aprovada` ou `publicada`, nos dois idiomas. As suspensas, rejeitadas e em verificação ficam de fora.
+Não escreve texto factual: copia o que está no banco.
 
-This project is a starting point for a Flutter application.
+## Compilar
+```bash
+cd app
+flutter pub get
+flutter test
+flutter build web --release --no-web-resources-cdn   # web
+flutter build apk --release                          # Android (APK assinado com a chave de debug)
+```
+Testado com Flutter 3.50.0 e Android SDK 35.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Paleta
+Provisória, em `lib/tema.dart`. A paleta e as boards oficiais do design não estão no repositório.

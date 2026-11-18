@@ -21,7 +21,7 @@
         "Bows to the prince",
         "Closes their score and leaves it on the chair"
       ],
-      "explanation": "Each musician snuffs out their candle and leaves, until only two violins remain, at the end of Symphony No. 45 (1772). According to the best-known anecdote, it was a hint to Prince Nikolaus Esterházy, because the musicians were homesick for Eisenstadt."
+      "explanation": "Each musician snuffs out their candle and leaves, until only two violins remain, at the end of Haydn's 45th Symphony (1772). According to the best-known anecdote, it was a hint to Prince Nikolaus Esterházy, because the musicians were homesick for Eisenstadt."
     }
   },
   "correct": 1,
@@ -95,16 +95,16 @@
     },
     "tradutor": {
       "data": "2026-11-18",
-      "notas": "Titulo: \"Farewell\" Symphony (nome corrente em ingles; o pt-PT diz «Sinfonia do Adeus»). Opcao 1: \"Snuffs out the candle on their stand\" (apagar = snuff out; mantem-se «stand» = estante). Atribuicao mantida: «Segundo a anedota mais conhecida» -> \"According to the best-known anecdote\"; \"hint\" traduz «recado». Pista lexical: \"candle\" aparece so na certa, tal como «vela» no pt-PT. Sem nomes ou numeros novos; \"Symphony No. 45\" e 1772 como no pt-PT."
+      "notas": "Explicacao reescrita sem a abreviatura \"No.\": \"Symphony No. 45\" passou a \"Haydn's 45th Symphony\" (mesmo facto, 2 frases, abaixo de 300 caracteres). Pergunta e opcoes inalteradas. Titulo: \"Farewell\" Symphony (nome corrente em ingles; o pt-PT diz «Sinfonia do Adeus»). Opcao 1: \"Snuffs out the candle on their stand\" (apagar = snuff out; «stand» = estante). Atribuicao mantida: «Segundo a anedota mais conhecida» -> \"According to the best-known anecdote\"; \"hint\" traduz «recado». Pista lexical: \"candle\" aparece so na certa, tal como «vela» no pt-PT. Sem nomes ou numeros novos."
     },
     "conferente": {
       "aprovado": true,
-      "notas": "Facto, números (Sinfonia n.º 45, 1772, dois violinos) e a cautela da anedota («segundo a anedota mais conhecida» e «according to the best-known anecdote») coincidem. As 4 opções são equivalentes uma a uma, pela mesma ordem. Regra 28: sem pista de género, número ou léxico num só idioma. «Recado» e «hint» são aproximados, mas aceitáveis. Limites cumpridos.",
+      "notas": "Facto, números (Sinfonia n.º 45, 1772, dois violinos), atribuição («segundo a anedota mais conhecida» / «according to the best-known anecdote») e cautela são iguais nos dois idiomas. As quatro opções correspondem uma a uma pela mesma ordem, e a certa (índice 1, apagar a vela) é a mesma. Regra 28: não há concordância nem palavra do enunciado que aponte para uma opção só num idioma. Observação menor, sem reprovação: «gesto» no enunciado pt-PT contra «what does ... do» no en-US sugere ligeiramente que «Desafina» (opção 0) é menos plausível só em pt-PT. Isso elimina um distrator errado e não dá a resposta certa. Limites cumpridos: explicação com 2 frases, opções com menos de 60 caracteres, pergunta termina em «?». Sem brasileirismos em pt-PT e sem calques em en-US.",
       "data": "2026-11-18",
-      "hash_texto": "73907685d7bb69b29800f579f8a8db80f7dd12ae4ba121aada82a47ab281ea6d"
+      "hash_texto": "86ef186198e7e1064b69450e9dcfbb8bd898813150f0c203aff3eba8195db732"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-18",
@@ -240,7 +240,26 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Explicacao reescrita sem a abreviatura \"No.\": \"Symphony No. 45\" passou a \"Haydn's 45th Symphony\" (mesmo facto, 2 frases, abaixo de 300 caracteres). Pergunta e opcoes inalteradas. Titulo: \"Farewell\" Symphony (nome corrente em ingles; o pt-PT diz «Sinfonia do Adeus»). Opcao 1: \"Snuffs out the candle on their stand\" (apagar = snuff out; «stand» = estante). Atribuicao mantida: «Segundo a anedota mais conhecida» -> \"According to the best-known anecdote\"; \"hint\" traduz «recado». Pista lexical: \"candle\" aparece so na certa, tal como «vela» no pt-PT. Sem nomes ou numeros novos."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "8e1a5a6717b88f21578df06c2144afb561825733ef711c8390b436d3bf158654"
 }
