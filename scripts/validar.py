@@ -111,6 +111,20 @@ def opcoes_lock(p: dict) -> str:
     base = {i: t.get(i, {}).get("options") for i in IDIOMAS}
     return hashlib.sha256(json.dumps(base, ensure_ascii=False, sort_keys=True).encode("utf-8")).hexdigest()
 
+def impressao_cego(p: dict) -> str:
+    """Impressão digital do que o verificador cego vê: o enunciado pt-PT e o conjunto das opções
+    (a ordem das opções não conta: o verificador vê-as baralhadas de novo)."""
+    t = p.get("text", {}).get("pt-PT", {})
+    base = {"question": t.get("question"), "options": sorted(t.get("options") or []), "correct": p.get("correct")}
+    return hashlib.sha256(json.dumps(base, ensure_ascii=False, sort_keys=True).encode("utf-8")).hexdigest()
+
+
+def impressao_completa(p: dict) -> str:
+    """Impressão digital do que o conferente vê: os dois textos completos e o índice da certa."""
+    base = {"text": {i: p.get("text", {}).get(i) for i in IDIOMAS}, "correct": p.get("correct")}
+    return hashlib.sha256(json.dumps(base, ensure_ascii=False, sort_keys=True).encode("utf-8")).hexdigest()
+
+
 # Domínios proibidos como fonte (regras/fontes.md). Qualquer domínio com "quiz" ou
 # "trivia" no nome também é recusado.
 PROIBIDOS = {
@@ -421,6 +435,15 @@ def validar_pergunta(p: dict) -> tuple[list[str], list[str]]:
             erros.append("aprovada sem options_lock: só o scripts/aprovar.py grava as opções aprovadas")
         elif lock != opcoes_lock(p):
             erros.append("o texto das opções mudou depois da aprovação (options_lock não bate)")
+        # Impressão digital (regra 24): o texto final tem de ser o que o verificador e o conferente viram.
+        # Perguntas aprovadas antes desta regra não têm a impressão: só aviso.
+        ver = v.get("verificador") if isinstance(v.get("verificador"), dict) else {}
+        for nome, reg, calc in (("verificador", ver, impressao_cego), ("conferente", conf if isinstance(conf, dict) else {}, impressao_completa)):
+            h = reg.get("hash_texto")
+            if not h:
+                avisos.append(f"aprovada sem impressão digital do texto no {nome} (aprovada antes da regra 24)")
+            elif h != calc(p):
+                erros.append(f"o texto mudou depois do {nome}: a impressão digital do veredicto não bate com o texto atual (regra 24)")
     if estado == "rejeitada" and not (isinstance(p["motivo_rejeicao"], str) and p["motivo_rejeicao"].strip()):
         erros.append("pergunta rejeitada sem motivo_rejeicao")
     if estado == "suspensa" and not (isinstance(p["motivo_rejeicao"], str) and p["motivo_rejeicao"].strip()):

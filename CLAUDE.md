@@ -96,6 +96,20 @@ ficheiros e nunca tomas decisões de produto sozinho.
     reconstrói: pede ao agente que o devolva completo ou repete o passo. Nunca aprova uma
     pergunta que dependa de um relatório assim.
 
+24. **Impressão digital do texto.** Cada veredicto do verificador cego (enunciado pt-PT e
+    conjunto das opções) e do conferente (os dois textos completos e a certa) guarda o
+    `hash_texto` (SHA-256) do texto que o agente viu. O `aprovar.py` recusa aprovar se o hash
+    do texto final não coincidir com o do último veredicto de cada um; o `validar.py` recusa
+    uma aprovada cujo texto mudou depois deles. Se o editor ou qualquer outro passo muda o
+    enunciado ou as opções depois do verificador, o verificador repete; se muda qualquer
+    texto depois do conferente, o conferente repete. Perguntas aprovadas antes desta regra
+    não têm a impressão e dão só aviso.
+25. **O advogado abre ele próprio as páginas.** Os excertos orientam, não bastam: o relatório
+    do advogado lista em `paginas_lidas` as páginas que ele abriu e leu. O `aplicar_passo.py`
+    recusa um `aprovado: true` sem `paginas_lidas` e o passo repete-se.
+26. **Tempos.** `scripts/registar_tempo.py` corre para cada invocação de agente, sempre. O
+    `aprovar.py` recusa aprovar perguntas de um lote sem `relatorios/<lote>-tempos.csv`.
+
 ## Onde estão as coisas
 
 - `banco/perguntas/<id>.json` — uma pergunta por ficheiro, no formato (v2, bilingue) de
@@ -112,7 +126,9 @@ ficheiros e nunca tomas decisões de produto sozinho.
 - `relatorios/alvos-a-retomar.md` — alvos que voltam uma vez ao lote seguinte.
 - `scripts/validar.py` — validação automática.
   `python3 scripts/validar.py --dominio <url>` devolve o domínio a registar numa fonte.
-- `scripts/aprovar.py` — a única forma de aprovar (corre o `validar.py`; grava `options_lock`).
+- `scripts/aprovar.py` — a única forma de aprovar (corre o `validar.py`; confere as impressões digitais e os tempos; grava `options_lock`).
+- `scripts/limites.py` — limites de texto (enunciado, opções, explicação) a validar antes do advogado.
+- `scripts/montar_pergunta.py`, `scripts/aplicar_passo.py` — criam o ficheiro da pergunta e aplicam o resultado de cada agente (gravam as impressões digitais).
 - `scripts/migrar_v2.py` — migrou o banco do esquema v1.1 (só pt-PT) para o v2.
 - `scripts/ler_url.py` — leitor de páginas dos agentes (só http/https públicos; lê HTML,
   texto e PDF); `scripts/testar_ler_url.py` testa as recusas e as leituras.

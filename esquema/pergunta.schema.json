@@ -125,7 +125,8 @@
             "confianca": { "type": "string", "enum": ["alta", "media", "baixa"] },
             "dominio": { "type": "string" },
             "data": { "type": "string", "format": "date" },
-            "notas": { "type": "string" }
+            "notas": { "type": "string" },
+            "hash_texto": { "description": "Impressão digital (SHA-256) do enunciado pt-PT e do conjunto das opções que o verificador viu (regra 24).", "type": "string", "pattern": "^[0-9a-f]{64}$" }
           }
         },
         "advogado": {
@@ -168,7 +169,8 @@
           "properties": {
             "aprovado": { "type": "boolean" },
             "notas": { "type": "string" },
-            "data": { "type": "string", "format": "date" }
+            "data": { "type": "string", "format": "date" },
+            "hash_texto": { "description": "Impressão digital (SHA-256) dos dois textos completos e do índice da certa que o conferente viu (regra 24).", "type": "string", "pattern": "^[0-9a-f]{64}$" }
           }
         }
       }

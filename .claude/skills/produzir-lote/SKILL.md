@@ -134,7 +134,9 @@ relatório do advogado (ou de qualquer agente) cortado ou com JSON inválido **n
 reconstrói à mão** (regra 23): pede ao agente o JSON completo ou repete o passo.
 
 Invoca o agente `advogado-do-diabo` com blocos de até 5 rascunhos completos (incluindo a
-resposta e as fontes do pesquisador e do verificador).
+resposta e as fontes do pesquisador e do verificador). **Regra 25:** os excertos orientam, mas ele
+abre as páginas e lista-as em `paginas_lidas`; sem isso o `aplicar_passo.py adv` recusa a aprovação
+e o passo repete-se.
 
 - `aprovado: true`: preenche `verificacao.advogado` e segue.
 - Algum problema `bloqueia`: rejeita com o motivo. Se a pergunta não é clássica e esgotou
@@ -181,6 +183,12 @@ Invoca o agente `editor` com blocos de até 5 perguntas aprovadas pelo advogado.
    mais); o editor encurta-a no pt-PT antes de a traduzires.
 
 ## 6. Aprovação
+
+**Regra 24:** o `aprovar.py` compara as impressões digitais (`hash_texto`) do verificador e do
+conferente com o texto final. Se o enunciado ou as opções mudaram depois do verificador (por
+exemplo, o editor reescreveu o enunciado), repete o verificador cego antes de aprovar; se qualquer
+texto mudou depois do conferente, repete o conferente. **Regra 26:** regista cada invocação com
+`scripts/registar_tempo.py`; sem `relatorios/<lote>-tempos.csv` não há aprovação.
 
 Corre `python3 scripts/aprovar.py <id>` para cada pergunta que chegou aqui (com en-US e
 conferente aprovado). O script grava `options_lock`: depois disto o texto das opções é imutável. O script
