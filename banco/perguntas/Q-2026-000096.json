@@ -14,14 +14,14 @@
       "explanation": "Era do Reino de Tambora. Os cientistas encontraram uma aldeia e dois adultos soterrados em cerca de 3 m de cinza da erupção de 1815; a semelhança com o Vesúvio deu-lhe o nome de «Pompeia do Oriente»."
     },
     "en-US": {
-      "question": "In 2004, a village buried under about 3 m of 1815 ash was found on Sumbawa, the \"Pompeii of the East.\" Which kingdom was it?",
+      "question": "In 2004, a village buried under about 3 m of 1815 ash, dubbed the \"Pompeii of the East,\" was found on Sumbawa. Which kingdom was it from?",
       "options": [
         "Kingdom of Mataram",
         "Kingdom of Srivijaya",
         "Kingdom of Majapahit",
         "Kingdom of Tambora"
       ],
-      "explanation": "It belonged to the Kingdom of Tambora. Scientists found a village and two adults buried in about 3 m of ash from the 1815 eruption; the resemblance to Vesuvius's burial of Pompeii gave it the nickname \"Pompeii of the East.\""
+      "explanation": "It belonged to the Kingdom of Tambora. Scientists found a village and two adults buried in about 3 m of ash from the 1815 eruption; the resemblance to Vesuvius gave it the name \"Pompeii of the East.\""
     }
   },
   "correct": 3,
@@ -85,12 +85,7 @@
     },
     "tradutor": {
       "data": "2026-11-18",
-      "notas": "Correta = índice 3. Unidade mantida em metros (3 m), sem conversão. O pt-PT diz «semelhança com o Vesúvio»; expliquei como Vesuvius's burial of Pompeii para ficar natural, sem acrescentar factos novos. Se o conferente achar excessivo, usar «the resemblance to Vesuvius»."
-    },
-    "conferente": {
-      "aprovado": false,
-      "notas": "As opções são equivalentes e a certa é a mesma. Rejeitada por dúvida na atribuição da aposição na pergunta en-US. Precisa de nova tradução do enunciado, que depois tem de voltar ao conferente.",
-      "data": "2026-11-18"
+      "notas": "Correta = índice 3. Corrigido conforme o conferente: a alcunha «Pompeii of the East» liga-se agora claramente à aldeia («a village ... dubbed the ...»), e na explicação usei «the resemblance to Vesuvius», como no pt-PT. Unidade mantida em metros (3 m). Opções e ordem inalteradas."
     }
   },
   "estado": "em_verificacao",
@@ -145,6 +140,12 @@
       "evento": "conferência recusada",
       "agente": "conferente",
       "nota": "[{\"onde\": \"pergunta\", \"idioma\": \"en-US\", \"detalhe\": \"Em «was found on Sumbawa, the \\\"Pompeii of the East.\\\"» a aposição liga-se a Sumbawa e não à aldeia. No pt-PT, «a «Pompeia do Oriente»» liga-se à aldeia. O sentido muda e a pergunta fica ambígua em inglês.\"}, {\"onde\": \"explicação\", \"idioma\": \"en-US\", \"detalhe\": \"O en-US acrescenta «Vesuvius's burial of Pompeii», que o pt-PT não diz («a semelhança com o Vesúvio»). Há uma pequena diferença de conteúdo.\"}]"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Correta = índice 3. Corrigido conforme o conferente: a alcunha «Pompeii of the East» liga-se agora claramente à aldeia («a village ... dubbed the ...»), e na explicação usei «the resemblance to Vesuvius», como no pt-PT. Unidade mantida em metros (3 m). Opções e ordem inalteradas."
     }
   ],
   "etiquetas": []
