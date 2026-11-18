@@ -52,12 +52,12 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://www.guinnessworldrecords.com/world-records/67745-longest-bone",
-      "dominio": "guinnessworldrecords.com",
-      "titulo": "Longest bone | Guinness World Records",
+      "url": "https://www.healthline.com/health/femur",
+      "dominio": "healthline.com",
+      "titulo": "Femur Anatomy, Diagram & Definition (Healthline Body Maps, revisão médica)",
       "nivel": 2,
-      "excerto": "The thigh bone, or femur, is the longest. It constitutes 27.5% of a person's stature normally, and may be expected to be 50 cm (19.75 in) long in a man measuring 180 cm (5 ft 11 in) tall.",
-      "consultada_em": "2026-11-12",
+      "excerto": "It is both the longest and the strongest bone in the human body, extending from the hip to the knee.",
+      "consultada_em": "2026-11-18",
       "papel": "verificador"
     }
   ],
@@ -66,9 +66,10 @@
       "resposta_texto": "Fémur",
       "concorda": true,
       "confianca": "media",
-      "dominio": "guinnessworldrecords.com",
-      "data": "2026-11-12",
-      "notas": "Li a fonte, que é de nível 2, e só uma. Britannica devolveu 403. A fonte diz que o fémur é o osso mais longo, o que exclui tíbia, úmero e rádio. Facto anatómico estável."
+      "dominio": "healthline.com",
+      "data": "2026-11-18",
+      "notas": "Aberta e lida só uma fonte de nível 2 (Healthline). A Wikipédia (só pista) diz o mesmo. A Britannica devolveu 403. Tíbia, rádio e úmero são ossos mais curtos que o fémur: exclusão por inferência anatómica, sem excerto explícito. Falta uma fonte de nível 1 fora de nih.gov e clevelandclinic.org.",
+      "hash_texto": "e71e64191b28573ec026296e183071f6713636c2c1ca01702054518445c18936"
     },
     "advogado": {
       "aprovado": true,
@@ -169,6 +170,12 @@
       "evento": "etiqueta caminho_leve retirada (caminho leve abandonado)",
       "agente": "orquestrador",
       "nota": "advogado do diabo aprovou em 18/11; texto inalterado"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte healthline.com"
     }
   ],
   "etiquetas": [

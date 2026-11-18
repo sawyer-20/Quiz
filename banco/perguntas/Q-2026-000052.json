@@ -42,12 +42,12 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://www.nationalgeographic.com/history/article/how-the-rosetta-stone-unlocked-the-secrets-of-ancient-civilizations",
-      "dominio": "nationalgeographic.com",
-      "titulo": "How the Rosetta Stone unlocked the secrets of ancient civilizations | National Geographic",
-      "nivel": 2,
-      "excerto": "recorded on the stele in Ptolemaic hieroglyphics, Demotic Egyptian script, and ancient Greek script. [...] After translating the ancient Greek, he [Thomas Young] took extensive notes on the hieroglyphs",
-      "consultada_em": "2026-11-12",
+      "url": "https://www.lindahall.org/experience/digital-exhibitions/napoleon-and-the-scientific-expedition-to-egypt/15-the-rosetta-stone/",
+      "dominio": "lindahall.org",
+      "titulo": "15. The Rosetta Stone (Linda Hall Library)",
+      "nivel": 1,
+      "excerto": "Because the text of each of the Egyptian scripts is the same as the Greek text, which scholars were able to translate quickly after discovery of the monument, the Rosetta Stone became the key to deciphering the ancient Egyptian hieroglyphs.",
+      "consultada_em": "2026-11-18",
       "papel": "verificador"
     }
   ],
@@ -55,10 +55,11 @@
     "verificador": {
       "resposta_texto": "Grego antigo",
       "concorda": true,
-      "confianca": "media",
-      "dominio": "nationalgeographic.com",
-      "data": "2026-11-12",
-      "notas": "Li a fonte (nível 2, só uma). A pedra tem hieroglífico, demótico e grego antigo; o grego foi traduzido primeiro e serviu de ponto de partida. Hebraico, fenício e latim não constam dos três textos. Britannica e British Museum devolveram 403, por isso não houve segunda fonte. A pesquisa apresentou o British Museum a dizer o mesmo, mas não o abri."
+      "confianca": "alta",
+      "dominio": "lindahall.org",
+      "data": "2026-11-18",
+      "notas": "Confirmado também em Encyclopedia.com (Gale, nível 2): 'Since Greek was well understood, the stone provided a key to deciphering the others.' Encontrada em 1799. Hebraico, latim e fenício não constam da pedra, que tem hieróglifos, demótico e grego. O enunciado diz 'língua', e a pedra tem grego antigo (do período ptolemaico).",
+      "hash_texto": "751a134703cf1e9ea5c80070cbbb9e700c194f48a6bd37123d7c50976f443830"
     },
     "advogado": {
       "aprovado": true,
@@ -159,6 +160,12 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte lindahall.org"
     }
   ],
   "etiquetas": [],

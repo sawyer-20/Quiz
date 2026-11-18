@@ -52,12 +52,12 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://www.nature.com/articles/s41467-021-24528-4",
-      "dominio": "nature.com",
-      "titulo": "The Welwitschia genome reveals a unique biology underpinning extreme longevity in deserts (Nature Communications)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12665073/",
+      "dominio": "nih.gov",
+      "titulo": "The Module WmABF1-1-WmMYB111 Manipulates the Leaf Senescence of Welwitschia... (artigo científico, PMC)",
       "nivel": 1,
-      "excerto": "The species has a highly distinctive morphology, consisting of just two leaves that grow continuously throughout the plant's life.",
-      "consultada_em": "2026-11-12",
+      "excerto": "The species presents a highly distinctive appearance generating only two leaves throughout the plant's life which can continuously elongate for thousands of years.",
+      "consultada_em": "2026-11-18",
       "papel": "verificador"
     }
   ],
@@ -66,9 +66,10 @@
       "resposta_texto": "Duas",
       "concorda": true,
       "confianca": "alta",
-      "dominio": "nature.com",
-      "data": "2026-11-12",
-      "notas": "Artigo científico lido via ler_url.py. As folhas adultas rasgam-se e parecem muitas, mas são só duas. Kew não abriu (403). | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Raramente referem-se três folhas em exemplares excecionais (resultado de pesquisa), mas a fonte primária diz duas e o Afrikaans 'tweeblaarkanniedood' = 'duas folhas que não morrem'. Uma, Quatro e Doze ficam excluídas."
+      "dominio": "nih.gov",
+      "data": "2026-11-18",
+      "notas": "Artigo científico com revisão, aberto e lido. Diz também: 'only two leaves persisted aboveground throughout its entire life'. Uma pesquisa de apoio, com sítios populares, concorda. Doze, uma e quatro ficam excluídas. O nih.gov não estava na lista de domínios proibidos desta pergunta. 'Deserto do Namibe' (Namib, entre o sul de Angola e o norte da Namíbia) está de acordo com o artigo. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Parece que há muitas folhas porque as duas se rasgam e esfiapam, mas são duas.",
+      "hash_texto": "84ae0314ffe61ff7e24b3b9d80dcc174463ba8eca2dfc4bb027fef4375912b06"
     },
     "advogado": {
       "aprovado": true,
@@ -163,6 +164,12 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte nih.gov"
     }
   ],
   "etiquetas": [],
