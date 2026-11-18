@@ -347,6 +347,12 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "ressalva registada (decisão do Andre, 18/11)",
+      "agente": "orquestrador",
+      "nota": "Nenhum agente leu a passagem da Classe 6(b) da Recomendação da Registadora (PDF de cerca de 141 mil caracteres, cortado pelo leitor). Fica aprovada com a ressalva; um agente tem de a ler no /auditar."
     }
   ],
   "etiquetas": [],

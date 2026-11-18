@@ -256,6 +256,12 @@
       "evento": "fonte acrescentada pelo pesquisador (sem mudar o texto)",
       "agente": "pesquisador",
       "nota": "Página institucional (catalão), domínio diferente dos já usados: Galileo usou uma estrela «fixa» como referência junto a Júpiter nos desenhos de 27-dez-1612; era Neptuno, que confundiu com estrela fixa; a 27/28-jan-1613 anotou suspeita de movimento."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "ressalva registada (decisão do Andre, 18/11)",
+      "agente": "orquestrador",
+      "nota": "A etiqueta «fixa» nos cadernos só está documentada no artigo de Jamieson (ph.unimelb.edu.au) e na imprensa; o comunicado da Universidade de Melbourne só confirma «estrela» e o movimento. Confiança da etiqueta: nível 2. Entra na lista de revisão do /auditar de nível 1, a seguir à Q43 e à Q1."
     }
   ],
   "etiquetas": [],

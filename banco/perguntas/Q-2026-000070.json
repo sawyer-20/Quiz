@@ -178,6 +178,12 @@
       "evento": "fonte acrescentada pelo pesquisador (sem mudar o texto)",
       "agente": "pesquisador",
       "nota": "Ata oficial do próprio IFAB: McCrum, membro da Irish FA (IFA), propôs o penálti; a ideia foi submetida à reunião do IFAB de junho de 1890 e aprovada em 1891."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "ressalva registada (decisão do Andre, 18/11)",
+      "agente": "orquestrador",
+      "nota": "A fonte do IFAB (ata de 2015) é institucional e retrospetiva, de nível 1 institucional, não a ata contemporânea. As atas de 1890 e de 1891 estão pendentes para o /auditar."
     }
   ],
   "etiquetas": [],
