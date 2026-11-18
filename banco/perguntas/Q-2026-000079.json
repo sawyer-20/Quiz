@@ -30,7 +30,8 @@
   "daily_eligible": true,
   "sources": [
     "https://science.nasa.gov/neptune/neptune-facts/",
-    "https://www.nature.com/articles/287311a0"
+    "https://www.nature.com/articles/287311a0",
+    "https://www.ph.unimelb.edu.au/~dnj/AP-June-2009-Galileo-Neptune.pdf"
   ],
   "fontes": [
     {
@@ -68,6 +69,24 @@
       "excerto": "Its widely accepted that in 1612 and again in 1613 Galileo must have observed Neptune, although at the time he thought it was a star, spotted during his observation of Jupiter's moons.",
       "consultada_em": "2026-11-17",
       "papel": "verificador"
+    },
+    {
+      "url": "https://www.eurekalert.org/news-releases/776056",
+      "dominio": "eurekalert.org",
+      "titulo": "Galileo's notebooks may reveal secrets of new planet (comunicado da University of Melbourne, 9-Jul-2009, via EurekAlert)",
+      "nivel": 1,
+      "excerto": "Over several nights he also recorded the position of a nearby star which does not appear in any modern star catalogue. \"It has been known for several decades that this unknown star was actually the planet Neptune...\"",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://serviastro.ub.edu/serviparticules/sites/serviastro/files/2019-10/Article_Galileo.pdf",
+      "dominio": "ub.edu",
+      "titulo": "Galileo Galilei: 400 aniversari de les primeres observacions (Universitat de Barcelona, Servei d'Astronomia)",
+      "nivel": 1,
+      "excerto": "Veiem que per situar Júpiter fa servir una estrella \"fixa\". [...] No queda cap dubte doncs de que Galileo va observar i dibuixar Neptú, però el va confondre amb una estrella fixa.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
     }
   ],
   "verificacao": {
@@ -225,6 +244,18 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "fonte acrescentada pelo pesquisador (sem mudar o texto)",
+      "agente": "pesquisador",
+      "nota": "Comunicado da Universidade de Melbourne (Jamieson): Galileo registou nos cadernos uma «estrela» próxima, hoje identificada como Neptuno; NÃO contém a palavra «fixa/fixed»; confirma só o registo como estrela e o movimento em 28-jan-1613."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "fonte acrescentada pelo pesquisador (sem mudar o texto)",
+      "agente": "pesquisador",
+      "nota": "Página institucional (catalão), domínio diferente dos já usados: Galileo usou uma estrela «fixa» como referência junto a Júpiter nos desenhos de 27-dez-1612; era Neptuno, que confundiu com estrela fixa; a 27/28-jan-1613 anotou suspeita de movimento."
     }
   ],
   "etiquetas": [],

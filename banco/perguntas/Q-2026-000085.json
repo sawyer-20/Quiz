@@ -12,6 +12,16 @@
         "Dar acesso remoto a investigadores"
       ],
       "explanation": "Acesso remoto a investigadores. Por recomendação da Registadora dos Direitos de Autor, a Bibliotecária manteve em outubro de 2024 a regra que limita o acesso às instalações da biblioteca; não ficou demonstrado que fora delas fosse lícito."
+    },
+    "en-US": {
+      "question": "In 2024, the Librarian of Congress declined to expand the legal exemption letting libraries do what with video games no longer sold commercially?",
+      "options": [
+        "Play them on the library's premises",
+        "Sell digital copies to the public",
+        "Keep preservation copies",
+        "Give researchers remote access"
+      ],
+      "explanation": "Give researchers remote access. On the Register of Copyrights' recommendation, the Librarian kept the October 2024 rule limiting access to library premises; proponents did not show that off-premises access would be lawful."
     }
   },
   "correct": 3,
@@ -98,6 +108,10 @@
       "alteracao_factual": false,
       "notas": "Aplicado o pedido do Andre: «indisponíveis» passou a «que já não são comercializados». Mantidos o que se pergunta, a resposta, as opções (texto e ordem), as datas e as atribuições. O enunciado tem cerca de 155 caracteres, abaixo do limite de 200 e acima do alvo de 120. Não cortei mais para não mexer em palavras fora do pedido. A explicação (cerca de 235 caracteres, 2 frases) não repete a palavra alterada e fica como estava. Dificuldade 4 e subtema confirmados. Como a mudança é só de redação e mantém o sentido, não envolve alteração factual. A referência a «outubro de 2024» já constava da explicação e não está nos excertos que recebi, por isso convém o conferente ou o verificador confirmá-la na fonte.",
       "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "Resposta certa no índice 3. 'Registadora dos Direitos de Autor' = Register of Copyrights (cargo oficial); 'Bibliotecária do Congresso' = Librarian of Congress. A pergunta tem 138 caracteres (acima do alvo de 120, abaixo do máximo de 200). 'no longer sold commercially' traduz 'já não são comercializados' (a regra diz 'no longer reasonably available in the commercial marketplace'). Na explicação, 'would be lawful' traduz 'fosse lícito' (a fonte diz 'noninfringing'). Sem unidades nem aspas."
     }
   },
   "estado": "em_verificacao",
@@ -290,6 +304,12 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Resposta certa no índice 3. 'Registadora dos Direitos de Autor' = Register of Copyrights (cargo oficial); 'Bibliotecária do Congresso' = Librarian of Congress. A pergunta tem 138 caracteres (acima do alvo de 120, abaixo do máximo de 200). 'no longer sold commercially' traduz 'já não são comercializados' (a regra diz 'no longer reasonably available in the commercial marketplace'). Na explicação, 'would be lawful' traduz 'fosse lícito' (a fonte diz 'noninfringing'). Sem unidades nem aspas."
     }
   ],
   "etiquetas": []

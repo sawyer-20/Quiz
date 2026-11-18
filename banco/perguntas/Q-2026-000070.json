@@ -30,6 +30,7 @@
   "daily_eligible": true,
   "sources": [
     "https://www.irishfa.com/media/28857/history-of-the-ifa.pdf",
+    "https://downloads.theifab.com/downloads/annual-general-meeting-2015-minutes?l=en",
     "https://www.rte.ie/sport/world-cup-2022/2022/1117/1327533-irish-origins-of-world-cup-penalty-drama/"
   ],
   "fontes": [
@@ -59,6 +60,15 @@
       "excerto": "the invention of the penalty kick is credited to the goalkeeper and businessman William McCrum in 1890 in Milford, County Armagh, Northern Ireland. The Irish Football Association presented the idea to the International Football Association Board.",
       "consultada_em": "2026-11-13",
       "papel": "verificador"
+    },
+    {
+      "url": "https://downloads.theifab.com/downloads/annual-general-meeting-2015-minutes?l=en",
+      "dominio": "theifab.com",
+      "titulo": "The IFAB, Annual General Meeting 2015, Minutes (Belfast)",
+      "nivel": 1,
+      "excerto": "William McCrum, who as a member of the IFA, proposed the idea of the penalty kick to stop the prevalent practice at that time of defenders professionally fouling an attacking player to stop a goal. The idea was submitted to the June 1890 meeting of The IFAB and was approved in 1891.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
     }
   ],
   "verificacao": {
@@ -162,6 +172,12 @@
       "evento": "reposta a versão aprovada de 13/11 (decisão do Andre, 17/11)",
       "agente": "orquestrador",
       "nota": "o acrescento «hoje a federação da Irlanda do Norte» criou uma afirmação sem fonte independente; a ambiguidade com a FAI fica resolvida pelo «(Irish FA)» da opção. Sem alteração de texto; o veredicto do verificador a 13/11 (soccerhistory.co.uk) mantém-se. Falta acrescentar as atas do IFAB de 1891 como fonte do pesquisador."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "fonte acrescentada pelo pesquisador (sem mudar o texto)",
+      "agente": "pesquisador",
+      "nota": "Ata oficial do próprio IFAB: McCrum, membro da Irish FA (IFA), propôs o penálti; a ideia foi submetida à reunião do IFAB de junho de 1890 e aprovada em 1891."
     }
   ],
   "etiquetas": [],
