@@ -50,10 +50,27 @@
       "excerto": "Ces savants, ayant vécu entre 1789 et 1889, font partie des 72 scientifiques dont les noms ont été gravés sur la tour Eiffel lors de sa construction. [...] Mais où sont les mathématiciennes [...] ?",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://physicstoday.aip.org/news/eiffel-tower-to-gain-symmetry-with-addition-of-womens-names",
+      "dominio": "aip.org",
+      "titulo": "Eiffel Tower to gain symmetry with addition of women’s names - Physics Today (AIP)",
+      "nivel": 2,
+      "excerto": "Rigaud realized that there were no women represented among the inscribed names. [...] 72 women [...] will join an equal number of men’s names, which have been there since the tower was completed in 1889.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Nenhum",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "aip.org",
+      "data": "2026-11-18",
+      "notas": "Physics Today (nível 2) diz que nos nomes inscritos não havia nenhuma mulher e que os 72 nomes de mulheres são um acrescento posterior, anunciado em janeiro de 2026. Eiffel escolheu os 72 nomes de homens (a fonte diz que Eiffel quis um monumento à ciência francesa). Seis, Um e Três ficam excluídas, porque nenhuma fonte indica qualquer mulher entre os 72 originais. A confiança é média porque só consegui abrir uma fonte de nível 2. A página oficial da torre (toureiffel.paris, nível 1) devolveu 403 no leitor e ENOTFOUND no WebFetch, por isso li só o resumo da pesquisa, que diz que também não há nenhuma mulher entre os 72 nomes. A Wikipédia, que não usei como fonte, concorda. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Se 'a sua torre' incluir os nomes de mulheres que estão a ser acrescentados em 2026-27, haveria 72, mas estes não foram escolhidos por Eiffel e nenhuma das opções é 72. Por isso a leitura natural (os 72 nomes originais de Eiffel) dá 'Nenhum'.",
+      "hash_texto": "585823d8a20a4016f6c9378f9ae9698ece97f381327b750168424118a9eacbc6"
+    },
     "advogado": {
       "aprovado": true,
       "data": "2026-11-18",
@@ -148,6 +165,12 @@
       "evento": "concordância de género corrigida em pt-PT (conferente cego); verificador e conferente repetem",
       "agente": "pesquisador",
       "nota": "Enunciado inalterado (já concordava no masculino com «nomes» e «quantos»). Opções passam ao masculino: «Nenhuma» para «Nenhum» (a certa) e «Uma» para «Um». «Três» e «Seis» são invariáveis. Na explicação, só a primeira palavra mudou: «Nenhuma» para «Nenhum»."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte aip.org"
     }
   ],
   "etiquetas": []
