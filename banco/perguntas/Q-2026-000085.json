@@ -113,6 +113,11 @@
     "tradutor": {
       "data": "2026-11-18",
       "notas": "Resposta certa no índice 3. 'Registadora dos Direitos de Autor' = Register of Copyrights (cargo oficial); 'Bibliotecária do Congresso' = Librarian of Congress. A pergunta tem 138 caracteres (acima do alvo de 120, abaixo do máximo de 200). 'no longer sold commercially' traduz 'já não são comercializados' (a regra diz 'no longer reasonably available in the commercial marketplace'). Na explicação, 'would be lawful' traduz 'fosse lícito' (a fonte diz 'noninfringing'). Sem unidades nem aspas."
+    },
+    "conferente": {
+      "aprovado": false,
+      "notas": "A resposta certa (índice 3, acesso remoto a investigadores) e as três opções erradas têm o mesmo sentido, uma a uma e pela mesma ordem. Não encontrei pistas lexicais novas. O enunciado e a explicação respeitam os limites (2 frases, opções com menos de 60 caracteres, pergunta terminada em «?»). O pt-PT não tem brasileirismos e o en-US é natural, em grafia americana. Rejeito só pela diferença de atribuição na explicação. A correção é do tradutor: alinhar a explicação en-US com o pt-PT, por exemplo «it was not shown that off-premises access would be lawful», ou então pôr o sujeito nos dois idiomas, com a fonte a confirmar essa atribuição.",
+      "data": "2026-11-18"
     }
   },
   "estado": "em_verificacao",
@@ -317,6 +322,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte copyright.gov"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"explicação\", \"idioma\": \"en-US\", \"detalhe\": \"O en-US diz «proponents did not show that off-premises access would be lawful», o que atribui a falta de demonstração aos proponentes. O pt-PT diz «não ficou demonstrado que fora delas fosse lícito», sem sujeito. A atribuição e a cautela não são iguais: o en-US acrescenta um agente que o pt-PT não tem. Isto vai contra a regra de «mesmas atribuições, nada a mais». Há também uma diferença menor: o pt-PT diz «fora delas» (fora das instalações) "
     }
   ],
   "etiquetas": []
