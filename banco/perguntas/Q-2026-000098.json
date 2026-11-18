@@ -1,0 +1,73 @@
+{
+  "id": "Q-2026-000098",
+  "topic": "Football",
+  "subtopic": "Mundiais",
+  "text": {
+    "pt-PT": {
+      "question": "Em 1966, o troféu do Mundial foi roubado numa exposição em Londres. Quem o encontrou, embrulhado em jornal, uma semana depois?",
+      "options": [
+        "Um jornalista do Daily Mirror",
+        "Um segurança da exposição",
+        "Um cão chamado Pickles, a passear com o dono",
+        "Um agente da Scotland Yard"
+      ],
+      "explanation": "Pickles, um cão collie, farejou o embrulho em jornal atado com cordel a 27 de março de 1966, uma semana depois do roubo de 20 de março; o dono, David Corbett, levou-o à polícia."
+    }
+  },
+  "correct": 2,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.history.co.uk/articles/pickles-the-dog-world-cup",
+    "https://www.si.com/soccer/dog-saved-1966-world-cup-pickles-stolen-trophy",
+    "https://www.crimeandinvestigation.co.uk/articles/how-world-cup-trophy-was-stolen-and-recovered-1966"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.history.co.uk/articles/pickles-the-dog-world-cup",
+      "dominio": "history.co.uk",
+      "titulo": "Pickles the Dog: How an unlikely hero saved the World Cup (Sky HISTORY)",
+      "nivel": 2,
+      "excerto": "on 20th March 1966 ... the trophy vanished. The discovery happened on 27th March 1966, just a week after the theft. A man named David Corbett was walking his black-and-white dog, Pickles, in South London.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.si.com/soccer/dog-saved-1966-world-cup-pickles-stolen-trophy",
+      "dominio": "si.com",
+      "titulo": "The Dog Who Saved the 1966 World Cup: Pickles and the Stolen Trophy (Sports Illustrated)",
+      "nivel": 2,
+      "excerto": "On March 20, 1966 ... the World Cup trophy was stolen ... the fateful morning of March 27 ... Pickles started sniffing around an odd package ... wrapped in newspaper and bound with a string.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.crimeandinvestigation.co.uk/articles/how-world-cup-trophy-was-stolen-and-recovered-1966",
+      "dominio": "crimeandinvestigation.co.uk",
+      "titulo": "How the World Cup trophy was stolen (and recovered) in 1966 (Crime+Investigation UK)",
+      "nivel": 2,
+      "excerto": "On 27th March, David Corbett and his dog Pickles were out for a stroll ... when Pickles started to sniff around a package ... secured with twine and covered in an old newspaper.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
+  "criada_em": "2026-11-18",
+  "historico": [
+    {
+      "data": "2026-11-18",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Ângulo: o animal que resolveu o caso, em vez de quem/quando. É facto CLÁSSICO de quiz (etiqueta classico; dificuldade 2, nunca 4-5). Sem fonte de nível 1: fifa.com abre vazio no ler_url e o WebFetch não resolve o domínio; Britannica e National Football Museum devolvem 403; historyrevealed.com falha por certificado. Só fontes de nível 2 (domínios diferentes), por isso o verificador deve procurar nível 1. Pormenor do local exato (sebe vs. junto a um carro vizinho) varia entre fontes: o enunciado e a explicação não o fixam. Enunciado já diz 'jornal' e 'uma semana depois' (datas coincidem em 3 fontes). Distrator 'jornalista do Daily Mirror' é só plausível, não há fonte que o contradiga além de a fonte dar o cão. Nenhum facto mudou desde o primeiro envio."
+    }
+  ],
+  "etiquetas": []
+}

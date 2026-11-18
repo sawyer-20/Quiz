@@ -1,0 +1,63 @@
+{
+  "id": "Q-2026-000100",
+  "topic": "Video Games",
+  "subtopic": "História da Nintendo",
+  "text": {
+    "pt-PT": {
+      "question": "Em 1889, em Quioto, Fusajiro Yamauchi fundou a empresa que viria a ser a Nintendo. Que produto fabricava?",
+      "options": [
+        "Cartas de jogar japonesas (hanafuda)",
+        "Brinquedos de madeira",
+        "Bonecas de porcelana",
+        "Leques de papel"
+      ],
+      "explanation": "A Nintendo nasceu em 1889 como fabricante de cartas hanafuda, em Quioto. Em 1902 passou também a fazer as primeiras cartas de jogar ocidentais do Japão."
+    }
+  },
+  "correct": 0,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.nintendo.co.jp/corporate/en/history/index.html",
+    "https://www.nintendo.com/us/about/"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.nintendo.co.jp/corporate/en/history/index.html",
+      "dominio": "nintendo.co.jp",
+      "titulo": "Corporate Information: Company History (Nintendo Co., Ltd.)",
+      "nivel": 1,
+      "excerto": "1889 Fusajiro Yamauchi began manufacturing and selling Japanese playing cards, Hanafuda, in Shimogyo-ku, Kyoto, Japan. 1902 Started manufacturing and selling the first western playing cards in Japan.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.nintendo.com/us/about/",
+      "dominio": "nintendo.com",
+      "titulo": "About Nintendo: Creating smiles for generations (Nintendo of America)",
+      "nivel": 1,
+      "excerto": "We've forged our own path since 1889, when we began making hanafuda playing cards in Kyoto, Japan. ... 1889 Fusajiro Yamauchi began a small business manufacturing \"Hanafuda\" playing cards in Kyoto, Japan.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
+  "criada_em": "2026-11-18",
+  "historico": [
+    {
+      "data": "2026-11-18",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Ângulo: o produto original da empresa (não 'em que ano foi fundada'). É facto CLÁSSICO de quiz (etiqueta classico; dificuldade 2). Com A e C clássicos e B não clássico, o lote tem 2 em 3: ultrapassa o limite de 20%, a decidir pelo orquestrador (um dos dois pode ficar em espera). Fontes nível 1 do próprio fabricante (dois domínios, mesma entidade: o verificador deve procurar fonte independente, p.ex. Strong Museum of Play ou Britannica, esta devolve 403 ao ler_url). O ano 1889 vem das duas páginas oficiais; um artigo do TechRadar questiona o registo mais antigo (1895), por isso o enunciado diz 'fundou a empresa que viria a ser a Nintendo' e a explicação usa 'nasceu em 1889' como a Nintendo o declara. Nenhum facto mudou desde o primeiro envio."
+    }
+  ],
+  "etiquetas": []
+}

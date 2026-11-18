@@ -1,0 +1,63 @@
+{
+  "id": "Q-2026-000099",
+  "topic": "Football",
+  "subtopic": "Bola de Ouro",
+  "text": {
+    "pt-PT": {
+      "question": "Até 2026, o vencedor mais velho da Bola de Ouro recebeu-a em 1956. Que idade tinha nessa altura?",
+      "options": [
+        "41 anos",
+        "34 anos",
+        "36 anos",
+        "38 anos"
+      ],
+      "explanation": "Stanley Matthews, do Blackpool, venceu a primeira Bola de Ouro com 41 anos e 321 dias e ainda jogou mais nove anos, até se retirar aos 50. Messi, o mais velho depois dele, ganhou aos 36."
+    }
+  },
+  "correct": 0,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.guinnessworldrecords.com/world-records/788751-oldest-winner-of-footballs-soccers-ballon-dor-award",
+    "https://www.si.com/soccer/oldest-ballon-dor-winners-all-time"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.guinnessworldrecords.com/world-records/788751-oldest-winner-of-footballs-soccers-ballon-dor-award",
+      "dominio": "guinnessworldrecords.com",
+      "titulo": "Oldest winner of football's (soccer's) Ballon d'Or award (Guinness World Records)",
+      "nivel": 2,
+      "excerto": "The oldest winner ... is Stanley Matthews (UK b. 1 February 1915), who was aged 41 years 321 days when he received the award on 18 December 1956. ... He played for another nine years before retiring at the age of 50.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.si.com/soccer/oldest-ballon-dor-winners-all-time",
+      "dominio": "si.com",
+      "titulo": "The Oldest Ballon d'Or Winners of All Time (Sports Illustrated, 19/10/2026)",
+      "nivel": 2,
+      "excerto": "1. Stanley Matthews ... Age: 41 Winning Year: 1956 ... won the inaugural Ballon d'Or in 1956. ... Messi ... Age: 36 Winning Year: 2023",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
+  "criada_em": "2026-11-18",
+  "historico": [
+    {
+      "data": "2026-11-18",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Ângulo: a idade do vencedor e não o 'quem foi o primeiro vencedor' (esse sim é mais batido); o facto Matthews 41 anos aparece em listas de curiosidades, mas a pergunta pela idade é pouco habitual: classificar como original/semi-clássico, o verificador decide. Recorde mutável (enunciado leva 'Até 2026'; praticamente inalcançável, valid_until null mas daily_eligible a critério do Andre). Distrator 36 é a idade de Messi em 2023 (segundo mais velho, SI), por isso nenhum outro valor pode estar certo; confirmar que ninguém tem 38 ou 34 como recorde. Sem fonte de nível 1 (France Football/Ballon d'Or oficial não procurados com êxito); Guinness e SI são nível 2. Nota: um artigo da TNT Sports dá 41 anos e 104 dias (divergência de dias, não de anos); por isso a pergunta usa só os anos. Nenhum facto mudou desde o primeiro envio."
+    }
+  ],
+  "etiquetas": []
+}
