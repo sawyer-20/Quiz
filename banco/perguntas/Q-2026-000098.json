@@ -67,7 +67,15 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Ângulo: o animal que resolveu o caso, em vez de quem/quando. É facto CLÁSSICO de quiz (etiqueta classico; dificuldade 2, nunca 4-5). Sem fonte de nível 1: fifa.com abre vazio no ler_url e o WebFetch não resolve o domínio; Britannica e National Football Museum devolvem 403; historyrevealed.com falha por certificado. Só fontes de nível 2 (domínios diferentes), por isso o verificador deve procurar nível 1. Pormenor do local exato (sebe vs. junto a um carro vizinho) varia entre fontes: o enunciado e a explicação não o fixam. Enunciado já diz 'jornal' e 'uma semana depois' (datas coincidem em 3 fontes). Distrator 'jornalista do Daily Mirror' é só plausível, não há fonte que o contradiga além de a fonte dar o cão. Nenhum facto mudou desde o primeiro envio."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "O facto (Pickles) e a forma natural de o perguntar (quem/que cão encontrou o troféu roubado em 1966) são habituais em quizzes. Nao encontrei o mesmo enunciado nem o mesmo conjunto de opções, pelo que não é copiada. O pormenor do jornal e da exposição é nosso, mas a pergunta central é a clássica. Não deve ter dificuldade 4 ou 5. | provas: https://quizzclub.com/trivia/what-was-the-name-of-the-dog-that-found-the-stolen-football-world-cup-trophy-in-1966/answer/314673 (What was the name of the dog that found the stolen Football World Cup trophy in 1966? Sem as nossas opções); https://www.sporcle.com/games/treessimontrees/pickles/results (quiz Sporcle 'World Cup Trivia: Pickles The Dog'); https://www.funtrivia.com/askft/Question149357.html (pergunta sobre o cão que encontrou o troféu roubado)"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [
+    "classico"
+  ]
 }

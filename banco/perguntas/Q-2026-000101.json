@@ -1,0 +1,63 @@
+{
+  "id": "Q-2026-000101",
+  "topic": "General Knowledge",
+  "subtopic": "Geografia e exploração",
+  "text": {
+    "pt-PT": {
+      "question": "Em 1520, Fernão de Magalhães chamou «Pacífico» ao oceano que atravessava. Que característica do mar o levou a esse nome?",
+      "options": [
+        "A ausência de ilhas e de terra à vista",
+        "A temperatura amena da água",
+        "A calma das águas",
+        "A paz feita com os povos das costas vizinhas"
+      ],
+      "explanation": "Magalhães entrou no oceano em novembro de 1520 e encontrou águas invulgarmente calmas. Chamou-lhe «pacífico», que significa tranquilo, e o nome ficou para o maior oceano do planeta."
+    }
+  },
+  "correct": 2,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://oceanservice.noaa.gov/facts/pacific.html",
+    "https://www.history.com/this-day-in-history/november-28/magellan-reaches-the-pacific"
+  ],
+  "fontes": [
+    {
+      "url": "https://oceanservice.noaa.gov/facts/pacific.html",
+      "dominio": "noaa.gov",
+      "titulo": "How did the Pacific Ocean get its name? - NOAA National Ocean Service",
+      "nivel": 1,
+      "excerto": "Explorer Ferdinand Magellan named the Pacific Ocean in the 16th century. [...] He called this body of water pacific, due to the calmness of the water at the time ('pacific' means peaceful).",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.history.com/this-day-in-history/november-28/magellan-reaches-the-pacific",
+      "dominio": "history.com",
+      "titulo": "Ferdinand Magellan reaches the Pacific - HISTORY",
+      "nivel": 2,
+      "excerto": "crossing waters so strangely calm that the ocean was named “Pacific,” from the Latin word pacificus, meaning “tranquil.”",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "em_verificacao",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
+  "criada_em": "2026-11-18",
+  "historico": [
+    {
+      "data": "2026-11-18",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Ângulo: a origem do nome pela razão (calma), não pelo 'quem' ou 'qual o maior oceano'; facto pouco clássico em quiz como pergunta de causa, mas conhecido em manuais: tratar como não clássico, dificuldade 2. O nome «Pacífico» no enunciado dá pista parcial (pacífico = calmo); aceitável para nível 2. Distratores: 'amena temperatura' e 'ausência de ilhas' são claramente contrariados pelas fontes (a rota demorou 99 dias e passou por Guam e Cebu); 'paz com os povos' não consta em nenhuma. Britannica (hoje e kids) devolveu 403 e o LOC não abriu, por isso a segunda fonte é History.com (nível 2, imprensa/divulgação de qualidade); o verificador deve procurar uma fonte independente de nível 1 (Britannica, LOC, museu marítimo). NOAA diz que Magalhães nomeou o oceano; Balboa tinha-lhe chamado Mar del Sur antes, mas o nome 'Pacífico' é de Magalhães segundo a NOAA. Não há datas precisas além de 1520 (novembro 1520, concordante nas duas fontes). Tema global; fontes pt-PT não aplicáveis."
+    }
+  ],
+  "etiquetas": []
+}

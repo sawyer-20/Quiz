@@ -57,7 +57,15 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Ângulo: o produto original da empresa (não 'em que ano foi fundada'). É facto CLÁSSICO de quiz (etiqueta classico; dificuldade 2). Com A e C clássicos e B não clássico, o lote tem 2 em 3: ultrapassa o limite de 20%, a decidir pelo orquestrador (um dos dois pode ficar em espera). Fontes nível 1 do próprio fabricante (dois domínios, mesma entidade: o verificador deve procurar fonte independente, p.ex. Strong Museum of Play ou Britannica, esta devolve 403 ao ler_url). O ano 1889 vem das duas páginas oficiais; um artigo do TechRadar questiona o registo mais antigo (1895), por isso o enunciado diz 'fundou a empresa que viria a ser a Nintendo' e a explicação usa 'nasceu em 1889' como a Nintendo o declara. Nenhum facto mudou desde o primeiro envio."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "As pesquisas não devolveram páginas de quiz com este enunciado exato, mas 'o que fabricava a Nintendo originalmente' é uma das perguntas de trivia mais comuns que existem e a nossa formulação é a forma natural, quase única, de a fazer. As opções (bonecas, brinquedos, hanafuda, leques) são nossas. Não encontrei o mesmo conjunto de opções. Classificação por conhecimento do género de trivia mais do que por prova direta; se o orquestrador preferir ser estrito, o ângulo (data, local e fundador) é só contexto. Não deve ter dificuldade 4 ou 5. | provas: https://www.techradar.com/news/nintendo-before-the-nes-a-history-of-play (facto amplamente divulgado, artigo); https://factmyth.com/factoids/nintendo-started-as-a-playing-card-company/ (curiosidade 'Nintendo começou como empresa de cartas'); https://moneyweek.com/349214/23-september-1889-nintendo-starts-making-playing-cards"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [
+    "classico"
+  ]
 }

@@ -57,6 +57,12 @@
       "evento": "criada",
       "agente": "pesquisador",
       "nota": "Ângulo: a idade do vencedor e não o 'quem foi o primeiro vencedor' (esse sim é mais batido); o facto Matthews 41 anos aparece em listas de curiosidades, mas a pergunta pela idade é pouco habitual: classificar como original/semi-clássico, o verificador decide. Recorde mutável (enunciado leva 'Até 2026'; praticamente inalcançável, valid_until null mas daily_eligible a critério do Andre). Distrator 36 é a idade de Messi em 2023 (segundo mais velho, SI), por isso nenhum outro valor pode estar certo; confirmar que ninguém tem 38 ou 34 como recorde. Sem fonte de nível 1 (France Football/Ballon d'Or oficial não procurados com êxito); Guinness e SI são nível 2. Nota: um artigo da TNT Sports dá 41 anos e 104 dias (divergência de dias, não de anos); por isso a pergunta usa só os anos. Nenhum facto mudou desde o primeiro envio."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Só encontrei artigos e listas. Nenhum quiz com a idade do vencedor mais velho como pergunta de opção múltipla. A pergunta clássica seria 'quem é o vencedor mais velho'; a nossa pergunta pela idade (com 'até 2026') é um ângulo próprio. Nota para o orquestrador: a pergunta é sensível ao tempo (valid_until) e as opções 38 e 41 são próximas de factos reais (Messi 36 em 2023), o que é matéria do verificador, não da originalidade. | provas: https://www.guinnessworldrecords.com/world-records/788751-oldest-winner-of-footballs-soccers-ballon-dor-award (recorde, não pergunta de quiz); https://www.topendsports.com/sport/soccer/awards/ballondor-trivia.htm (curiosidades, sem este enunciado); https://www.90min.com/posts/oldest-ballon-dor-winners-of-all-time (lista, não quiz)"
     }
   ],
   "etiquetas": []
