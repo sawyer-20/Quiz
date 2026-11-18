@@ -6,12 +6,12 @@
     "pt-PT": {
       "question": "Em 1966, o troféu do Mundial foi roubado numa exposição em Londres. Quem o encontrou, embrulhado em jornal, uma semana depois?",
       "options": [
-        "Um jornalista do Daily Mirror",
         "Um segurança da exposição",
+        "Um jornalista do Daily Mirror",
         "Um cão chamado Pickles, a passear com o dono",
         "Um agente da Scotland Yard"
       ],
-      "explanation": "Pickles, um cão collie, farejou o embrulho em jornal atado com cordel a 27 de março de 1966, uma semana depois do roubo de 20 de março; o dono, David Corbett, levou-o à polícia."
+      "explanation": "Pickles farejou o embrulho em jornal atado com cordel a 27 de março de 1966, uma semana depois do roubo de 20 de março; o dono, David Corbett, avisou depois a polícia."
     }
   },
   "correct": 2,
@@ -50,27 +50,10 @@
       "excerto": "On 27th March, David Corbett and his dog Pickles were out for a stroll ... when Pickles started to sniff around a package ... secured with twine and covered in an old newspaper.",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://londonist.com/london/history/picklesworldcup",
-      "dominio": "londonist.com",
-      "titulo": "When The World Cup Was Stolen, Then Found By Pickles The Dog - Londonist",
-      "nivel": 2,
-      "excerto": "27 March: Dog finds World Cup ... David Corbett ... The pair hadn't left their own front yard when the mongrel began sniffing at a curious package under a laurel bush. \"I tore the paper off and saw a black base\"",
-      "consultada_em": "2026-11-18",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Um cão chamado Pickles, a passear com o dono",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "londonist.com",
-      "data": "2026-11-18",
-      "notas": "Li a página do Londonist. O roubo foi a 20 de março e o achado a 27 de março, ou seja, uma semana depois. Pickles encontrou um embrulho em papel, a passear com o dono, David Corbett. Os outros três candidatos (segurança, agente da Scotland Yard, jornalista) não são mencionados como descobridores; os seguranças falharam o roubo. A Wikipédia, que vi só nos resultados de pesquisa, diz «embrulhado em jornal». A página do Londonist diz só «paper». Os sites do National Football Museum e do Washington Post falharam (403 e timeout). A exposição era de selos no Methodist Central Hall, em Westminster.",
-      "hash_texto": "45a6c8e755c17204c7c6185a11d4bdfee3508b8f66a0f146fabc64f3b1f50f37"
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -96,6 +79,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte londonist.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo): formulacao: A explicação diz «cão collie». Só a SI diz «mixed breed collie». A Sky History diz «black-and-white dog» e o Londonist «"
     }
   ],
   "etiquetas": [

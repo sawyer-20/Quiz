@@ -6,15 +6,15 @@
     "pt-PT": {
       "question": "Em 1889, em Quioto, Fusajiro Yamauchi fundou a empresa que viria a ser a Nintendo. Que produto fabricava?",
       "options": [
-        "Cartas de jogar japonesas (hanafuda)",
-        "Brinquedos de madeira",
         "Bonecas de porcelana",
+        "Brinquedos de madeira",
+        "Cartas de jogar japonesas (hanafuda)",
         "Leques de papel"
       ],
-      "explanation": "A Nintendo nasceu em 1889 como fabricante de cartas hanafuda, em Quioto. Em 1902 passou também a fazer as primeiras cartas de jogar ocidentais do Japão."
+      "explanation": "A Nintendo nasceu em 1889, em Quioto, como fabricante de hanafuda, as cartas de jogar tradicionais japonesas, segundo a própria empresa. Quando ainda se chamava Nintendo Koppai, a MoneyWeek descreve-a a fazer essas cartas."
     }
   },
-  "correct": 0,
+  "correct": 2,
   "difficulty": 2,
   "valid_until": null,
   "daily_eligible": true,
@@ -40,27 +40,10 @@
       "excerto": "We've forged our own path since 1889, when we began making hanafuda playing cards in Kyoto, Japan. ... 1889 Fusajiro Yamauchi began a small business manufacturing \"Hanafuda\" playing cards in Kyoto, Japan.",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://moneyweek.com/349214/23-september-1889-nintendo-starts-making-playing-cards",
-      "dominio": "moneyweek.com",
-      "titulo": "23 September 1889: Nintendo starts making playing cards (MoneyWeek)",
-      "nivel": 2,
-      "excerto": "an entrepreneur named Fusajiro Yamauchi set up a business in Kyoto in September 1889 making Hanafuda cards... Yamauchi called the company Nintendo Koppai.",
-      "consultada_em": "2026-11-18",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Cartas de jogar japonesas (hanafuda)",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "moneyweek.com",
-      "data": "2026-11-18",
-      "notas": "Li a página da MoneyWeek e uma segunda (Silicon Canals, 11/09/2026) que confirma Kyoto, setembro de 1889 e hanafuda. A Britannica, que o resultado de pesquisa cita com o mesmo facto, devolveu 403 ao leitor, por isso só tenho uma fonte de nível 2 aberta. As outras opções (bonecas de porcelana, brinquedos de madeira, leques de papel) não aparecem em nenhuma fonte como produto original. A resposta é hanafuda, cartas de jogar japonesas.",
-      "hash_texto": "519ae32dfcff8a0637ed8272aab32b3e1da59020e2959ff8822893898d82a68f"
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -86,6 +69,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte moneyweek.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo): numeros: A explicação diz que «em 1902 passou também a fazer as primeiras cartas de jogar ocidentais do Japão». Esta data só tem "
     }
   ],
   "etiquetas": [

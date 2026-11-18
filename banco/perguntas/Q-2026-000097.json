@@ -6,15 +6,15 @@
     "pt-PT": {
       "question": "A balança de Kibble, usada para realizar o quilograma a partir da constante de Planck, tinha antes outro nome. Qual?",
       "options": [
-        "Balança de watt",
         "Balança de Planck",
         "Balança de joule",
+        "Balança de watt",
         "Balança de ampere"
       ],
-      "explanation": "Chamava-se balança de watt porque mede corrente e tensão na bobina, cujo produto se exprime em watts. Foi inventada por Bryan Kibble no NPL em 1975, e hoje tem o nome do inventor."
+      "explanation": "Chamava-se balança de watt porque mede corrente e tensão na bobina, cujo produto se exprime em watts. Foi concebida por Bryan Kibble no NPL (1975, segundo o NIST) e hoje tem o nome do inventor."
     }
   },
-  "correct": 0,
+  "correct": 2,
   "difficulty": 3,
   "valid_until": null,
   "daily_eligible": true,
@@ -39,27 +39,10 @@
       "excerto": "Dr. Bryan Kibble invented the watt balance in 1975... Since 2017, the watt balance is called Kibble balance to honor the inventor, who passed in 2016.",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://www.npl.co.uk/research/mass-mechanical-measurement/kibble-balance",
-      "dominio": "npl.co.uk",
-      "titulo": "Kibble balance - NPL (National Physical Laboratory)",
-      "nivel": 1,
-      "excerto": "The Kibble balance, formerly known as the watt balance but later renamed after Bryan Kibble who developed the apparatus at the National Physical Laboratory (NPL) in the 1970s",
-      "consultada_em": "2026-11-18",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Balança de watt",
-      "concorda": true,
-      "confianca": "alta",
-      "dominio": "npl.co.uk",
-      "data": "2026-11-18",
-      "notas": "Li a página do NPL com o leitor do motor. A opção «Balança de watt» é o nome antigo. «De ampere» é outro aparelho histórico, mas não é o nome antigo da balança de Kibble. «De Planck» e «de joule» não aparecem como nomes antigos. Não abri uma segunda fonte, mas a do NPL é explícita.",
-      "hash_texto": "5319cb16aafacf2a02765a722fce0892becee274dc5fe8bd3b910e859638255c"
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -85,6 +68,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte npl.co.uk"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo): numeros: A explicação diz «inventada ... em 1975». O NIST diz que Kibble a «conceptualized» em 1975. O NPL diz apenas «1970s» e q"
     }
   ],
   "etiquetas": []

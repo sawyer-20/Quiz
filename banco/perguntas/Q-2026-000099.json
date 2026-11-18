@@ -6,15 +6,15 @@
     "pt-PT": {
       "question": "Até 2026, o vencedor mais velho da Bola de Ouro recebeu-a em 1956. Que idade tinha nessa altura?",
       "options": [
+        "36 anos",
         "41 anos",
         "34 anos",
-        "36 anos",
         "38 anos"
       ],
-      "explanation": "Stanley Matthews, do Blackpool, venceu a primeira Bola de Ouro com 41 anos e 321 dias e ainda jogou mais nove anos, até se retirar aos 50. Messi, o mais velho depois dele, ganhou aos 36."
+      "explanation": "Stanley Matthews, do Blackpool, venceu a primeira Bola de Ouro com 41 anos e ainda jogou mais nove anos, até se retirar aos 50."
     }
   },
-  "correct": 0,
+  "correct": 1,
   "difficulty": 3,
   "valid_until": null,
   "daily_eligible": true,
@@ -40,27 +40,10 @@
       "excerto": "1. Stanley Matthews ... Age: 41 Winning Year: 1956 ... won the inaugural Ballon d'Or in 1956. ... Messi ... Age: 36 Winning Year: 2023",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
-    },
-    {
-      "url": "https://www.thenationalnews.com/sport/football/2026/10/25/ballon-dor-2026-the-five-most-historic-winners-from-matthews-to-messi/",
-      "dominio": "thenationalnews.com",
-      "titulo": "Ballon d'Or 2026: The five most historic winners - from Matthews to Messi (The National)",
-      "nivel": 2,
-      "excerto": "Matthews was the inaugural winner of the award and, notably, was aged 41 at the time... At 41 years, 10 months and 17 days, he remains the oldest-ever winner.",
-      "consultada_em": "2026-11-18",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "41 anos",
-      "concorda": true,
-      "confianca": "alta",
-      "dominio": "thenationalnews.com",
-      "data": "2026-11-18",
-      "notas": "Li a página da The National e confirmei com a Vanguard (41 anos e 321 dias, prémio entregue a 18/12/1956; Matthews tem o recorde e ninguém o ultrapassou, Kane ganhou aos 33 em 2026). A Britannica e o museu nacional de futebol devolveram 403 e a UEFA deu timeout. 38, 36 e 34 anos ficam excluídos. 36 é a idade de Messi em 2023.",
-      "hash_texto": "7a10c8a5fbf1d826dcbd18b9f05cfe9be9de8e1e7d5645b3d65844c39479b9fc"
-    },
+    "verificador": null,
     "advogado": null,
     "editor": null
   },
@@ -86,6 +69,12 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte thenationalnews.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo): numeros: A explicação dá «41 anos e 321 dias», e os «321 dias» só aparecem na Guinness. A The National dá «41 anos, 10 meses e 17"
     }
   ],
   "etiquetas": []
