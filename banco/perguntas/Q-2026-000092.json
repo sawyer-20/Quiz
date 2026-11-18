@@ -40,10 +40,27 @@
       "excerto": "Ces savants, ayant vécu entre 1789 et 1889, font partie des 72 scientifiques dont les noms ont été gravés sur la tour Eiffel lors de sa construction. [...] Mais où sont les mathématiciennes [...] ?",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://museum.toulouse-metropole.fr/72-femmes-de-sciences-pour-la-tour-eiffel/",
+      "dominio": "toulouse-metropole.fr",
+      "titulo": "72 femmes de sciences pour la tour Eiffel - Muséum de Toulouse",
+      "nivel": 2,
+      "excerto": "Eiffel avait voulu faire de ce monument un panthéon des sciences, faisant rayonner au premier étage, en lettres d'or, les noms de 72 scientifiques [...] Étrangement, aucune femme ne figure parmi eux",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Nenhuma",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "toulouse-metropole.fr",
+      "data": "2026-11-18",
+      "notas": "Confirmado por duas fontes abertas e lidas: Muséum de Toulouse (museu público) e IGBMC (instituto de investigação: 'the names of 72 French scholars, all men, engraved in gold letters around its first level'). Seis, Uma e Três ficam excluídas (zero mulheres). O site oficial toureiffel.paris, que a pesquisa resumiu como dizendo o mesmo, devolveu 403 ao leitor, por isso não o li. O projeto de 2026 para acrescentar 72 nomes de mulheres é posterior e não altera a lista original de Eiffel (as inscrições novas estão previstas para o início de 2027).",
+      "hash_texto": "855f0f2f6039de05304a37858e392b3d947d83e10cd7f29586e6cdf5a7efd823"
+    },
     "advogado": null,
     "editor": null
   },
@@ -75,6 +92,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (1.º ciclo): validade: A explicação diz «Em 2026, Paris propôs 72 nomes de mulheres cientistas». O CNRS (set. 2025) diz que a lista ainda não e"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte toulouse-metropole.fr"
     }
   ],
   "etiquetas": []

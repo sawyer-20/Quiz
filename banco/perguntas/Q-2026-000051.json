@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000051",
   "topic": "Movies",
-  "subtopic": "Óscares / cinema",
+  "subtopic": "Óscares: a estatueta",
   "text": {
     "pt-PT": {
       "question": "A estatueta dos Óscares mostra um cavaleiro com uma espada, em pé sobre que objeto?",
@@ -11,11 +11,11 @@
         "Uma coroa de louros",
         "Um rolo de filme"
       ],
-      "explanation": "O cavaleiro assenta sobre um rolo de filme. Segundo a Academia, os cinco raios do rolo representam os cinco ramos originais da Academia: atores, realizadores, produtores, técnicos e argumentistas."
+      "explanation": "Um rolo de filme. Segundo a Academia, os cinco raios do rolo representam os cinco ramos originais da Academia: atores, realizadores, produtores, técnicos e argumentistas."
     }
   },
   "correct": 3,
-  "difficulty": 1,
+  "difficulty": 2,
   "valid_until": null,
   "daily_eligible": true,
   "sources": [
@@ -84,7 +84,13 @@
       "data": "2026-11-18",
       "notas": "A página oscars.org/oscars/statuette deu 403 (não contada como lida). O problema da retoma (em pé sobre contra diante de) fica resolvido por uma fonte de nível 1 que o verificador não usou: o 88th Oscars Fact Sheet da Academia diz 'A stylized figure of a knight holding a crusader's sword standing on a reel of film with five spokes signifying the five original branches of the Academy (actors, directors, producers, technicians and writers)'. O PDF 90aa diz 'standing in front of a reel of film' no esboço e 'the film reel moved beneath its feet' na versão final. Os dois textos são compatíveis com a resposta. Os distratores (máscara, globo, coroa de louros) não têm apoio. Recomendo juntar o fact sheet 88aa (https://www.oscars.org/sites/oscars/files/88aa_fact_sheet.pdf, nível 1) às fontes da pergunta. Os cinco ramos estão em duas fontes de acordo (Academia e history.com/NBC). A explicação atribui à Academia e cabe nos limites. | páginas lidas pelo advogado: https://www.oscars.org/sites/oscars/files/90aa_oscar_history.pdf, https://www.oscars.org/sites/oscars/files/88aa_fact_sheet.pdf"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado inalterado. A explicação começa agora pela resposta e foi encurtada sem acrescentar nada. Dificuldade subida de 1 para 2: muita gente conhece a estatueta, mas nem toda a gente sabe o que tem aos pés. Subtema afinado.",
+      "data": "2026-11-18"
+    }
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -149,6 +155,12 @@
       "data": "2026-11-18",
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
       "nota": ""
     }
   ],

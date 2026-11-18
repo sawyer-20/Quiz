@@ -40,10 +40,27 @@
       "excerto": "Haydn's witty 'Farewell' Symphony of November 1772, in which one by one the musicians left the stage, packing up their instruments and blowing out their candles, was designed as a heavy hint to the Prince",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.classicfm.com/composers/haydn/pictures/haydn-facts-great-composer/haydn-farewell-symphony/",
+      "dominio": "classicfm.com",
+      "titulo": "Farewell Symphony statement - Haydn: 15 facts about the great composer - Classic FM",
+      "nivel": 2,
+      "excerto": "The final movement sees each musician stand up, extinguish the candle on their music stand and leave the room in turn until only a pair of violins remain.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Apaga a vela da sua estante",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "classicfm.com",
+      "data": "2026-11-18",
+      "notas": "Li a Classic FM (nível 2, revista/rádio especializada), que confirma que cada músico apaga a vela da sua estante e sai. A pesquisa mostrou o mesmo noutras páginas (orquestras, universidades), mas só abri esta. Não encontrei fonte de nível 1 aberta e lida, daí a confiança média. Desafinar, fechar a partitura e vénia não aparecem em nenhuma fonte como o gesto. Nota: a tradição também diz que os músicos levam a partitura ou o instrumento ao sair, mas o gesto distintivo antes de sair é apagar a vela. O episódio é uma tradição, não está documentado de forma contemporânea, segundo uma página da pesquisa.",
+      "hash_texto": "b7b957c98c8dac2ac0b021afba4cc945e875f15c040ba939f10927f378fe087a"
+    },
     "advogado": null,
     "editor": null
   },
@@ -75,6 +92,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (1.º ciclo): interpretacao: A explicação diz «Era um recado a Nikolaus Esterházy ... eles queriam voltar para casa» como facto. A LA Phil apresenta ; duvida: As fontes divergem em pormenores, por exemplo quem sai primeiro e se ficam dois violinos ou Haydn e o concertino. A perg"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte classicfm.com"
     }
   ],
   "etiquetas": []

@@ -4,14 +4,14 @@
   "subtopic": "Indonésia e vulcanismo",
   "text": {
     "pt-PT": {
-      "question": "Em 2004, cientistas acharam em Sumbawa uma aldeia sob cerca de 3 m de cinza de 1815, apelidada «Pompeia do Oriente». De que reino era?",
+      "question": "Em 2004, em Sumbawa, foi achada uma aldeia sob cerca de 3 m de cinza de 1815, a «Pompeia do Oriente». De que reino era?",
       "options": [
         "Reino de Mataram",
         "Reino de Srivijaya",
         "Reino de Majapahit",
         "Reino de Tambora"
       ],
-      "explanation": "Os cientistas encontraram uma aldeia e dois adultos soterrados em cerca de 3 m de cinza, restos do Reino de Tambora destruído pela erupção de 1815. A semelhança com o Vesúvio deu-lhe o nome de «Pompeia do Oriente»."
+      "explanation": "Era do Reino de Tambora. Os cientistas encontraram uma aldeia e dois adultos soterrados em cerca de 3 m de cinza da erupção de 1815; a semelhança com o Vesúvio deu-lhe o nome de «Pompeia do Oriente»."
     }
   },
   "correct": 3,
@@ -66,7 +66,13 @@
       "data": "2026-11-18",
       "notas": "Tentei derrubá-la e não consegui. A NASA (n1) diz «In 2004, scientists discovered the remains of a village, and two adults buried under approximately 3 meters ... of ash ... remnants of the former Kingdom of Tambora» e que a semelhança com Pompeia levou à descrição «the Pompeii of the East». O URI (n1) dá 10 pés (cerca de 3 m), a escavação em 2004, os dois adultos e «extinguished the tiny kingdom of Tambora». O NPR repete «the kingdom, called Tambora». Os números (2004, ~3 m, dois adultos) estão em duas fontes concordantes. Distratores: Mataram, Srivijaya e Majapahit. Majapahit chegou a ter vassalos em Sumbawa, mas o seu apogeu foi séculos antes de 1815. Nenhuma fonte liga estes reinos à aldeia achada em 2004, e a pergunta é sobre o reino destruído em 1815, por isso não há segunda resposta. A dúvida do verificador (alguns investigadores contestam «reino») não aparece em nenhuma das páginas que li; as fontes de nível 1 chamam «Kingdom of Tambora» ao reino. Também não vi o texto da ABC que ele cita. A expressão «Pompeia do Oriente» o URI usa como hipótese («could be»), mas a NASA dá-a como descrição já em uso, e a explicação atribui-a à semelhança com o Vesúvio, que a NASA suporta. Datas de 1815 e 2004 sem tragédia recente (mais de 10 anos). Aprovada. | páginas lidas pelo advogado: https://science.nasa.gov/earth/earth-observatory/mount-tambora-volcano-sumbawa-island-indonesia-39412/, https://www.uri.edu/news/2006/02/uri-volcanologist-discovers-lost-kingdom-of-tambora/, https://www.npr.org/2006/02/28/5237808/culture-destroyed-by-1815-volcano-rediscovered"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "ENUNCIADO ALTERADO (o verificador cego tem de repetir): reformulado de ~135 para ~118 caracteres. Passou para a voz passiva e a expressão «apelidada» foi substituída por aposição. Mantive o ano, o local, «cerca de 3 m» e a pergunta. A explicação começa pela resposta. Dificuldade e subtema mantidos.",
+      "data": "2026-11-18"
+    }
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -95,6 +101,12 @@
       "data": "2026-11-18",
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
       "nota": ""
     }
   ],

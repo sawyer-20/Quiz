@@ -11,7 +11,7 @@
         "A calma das águas",
         "A paz feita com os povos das costas vizinhas"
       ],
-      "explanation": "Magalhães entrou no oceano em novembro de 1520 e encontrou águas invulgarmente calmas. Chamou-lhe «pacífico», que significa tranquilo, e o nome ficou para o maior oceano do planeta."
+      "explanation": "A calma das águas. Magalhães entrou no oceano em novembro de 1520 e encontrou águas invulgarmente calmas; chamou-lhe «pacífico», que significa tranquilo, e o nome ficou para o maior oceano do planeta."
     }
   },
   "correct": 2,
@@ -66,7 +66,13 @@
       "data": "2026-11-18",
       "notas": "A NOAA (nível 1) diz que Magalhães lhe chamou «pacific» pela calma da água e que a frota entrou no oceano em novembro de 1520. A History.com diz «strangely calm» e «tranquil». A pesquisa encontrou ainda o Britannica (resumo) e o relato de Pigafetta, que fala em ausência de tempestade, em linha com a calma. Os distratores («ausência de ilhas», «temperatura», «paz com povos») não têm apoio. A explicação afirma o motivo como facto, o que é consistente nas fontes que abri. A página da ulpgc, do verificador, não a abri. A calma foi relativa e circunstancial, mas a NOAA diz «at the time», e a explicação diz «invulgarmente calmas», o que a History.com suporta. Não derrubei a pergunta. | páginas lidas pelo advogado: https://oceanservice.noaa.gov/facts/pacific.html, https://www.history.com/this-day-in-history/november-28/magellan-reaches-the-pacific"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado inalterado (já cabe nos 120 caracteres). Só a explicação foi reorganizada para começar pela resposta. Dificuldade e subtema mantidos.",
+      "data": "2026-11-18"
+    }
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -95,6 +101,12 @@
       "data": "2026-11-18",
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
       "nota": ""
     }
   ],

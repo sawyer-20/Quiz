@@ -11,7 +11,7 @@
         "Zeiss",
         "Panavision"
       ],
-      "explanation": "A Zeiss. Kubrick usou lentes de 50 mm f/0.7, as mais luminosas do mundo na altura, para filmar interiores só com velas. Foram feitas apenas dez e Kubrick comprou três."
+      "explanation": "A Zeiss: Kubrick usou lentes de 50 mm f/0.7, as mais luminosas do mundo na altura, para filmar interiores só com velas. Foram feitas apenas dez e Kubrick comprou três."
     }
   },
   "correct": 2,
@@ -70,7 +70,7 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "Enunciado inalterado (105 caracteres). Explicação reordenada para começar pela resposta («A Zeiss.») e encurtada sem tirar nem acrescentar factos. Dificuldade e subtema mantidos.",
+      "notas": "Enunciado inalterado (105 caracteres), por isso o verificador cego não precisa de repetir por causa do enunciado. Explicação reescrita em 2 frases (a resposta e os dois pontos fundem as duas primeiras), sem factos nem números novos; cerca de 170 caracteres. Dificuldade e subtema mantidos.",
       "data": "2026-11-18"
     }
   },
@@ -119,6 +119,12 @@
       "data": "2026-11-18",
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
       "nota": ""
     },
     {

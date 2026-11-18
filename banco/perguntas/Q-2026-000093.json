@@ -40,10 +40,27 @@
       "excerto": "in Arabic the sign '0' is called zephyrum. This is the earliest occurrence of a Latin term for the symbol '0'. Clearly, zephyrum is not actually an Arabic word [...] phonological adaption [...] of the Arabic word ṣifr 'empty'.",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://link.springer.com/chapter/10.1007/978-3-031-52692-3_5",
+      "dominio": "springer.com",
+      "titulo": "The Liber Abaci (Springer Nature Link)",
+      "nivel": 2,
+      "excerto": "the word zephirum is a Latinized expression for the Arabic word sifr. «Cum his itaque novem figuris, et cum hoc signo 0, quod arabice zephirum appellatur, scribitur quilibet numerus»",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Zephyrum",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "springer.com",
+      "data": "2026-11-18",
+      "notas": "A fonte lida cita a frase do Liber Abaci com «zephirum» e diz que é a primeira vez que a palavra aparece em latim. Confiança média porque a grafia da opção («Zephyrum») difere da citada («zephirum»), e porque a fonte é um capítulo de livro com a tradução, e não a edição crítica. As outras três opções foram excluídas por ausência: a fonte não lhes dá esse papel. Não usei Treccani nem Oxford. O enunciado diz «adaptada do árabe sifr», o que a fonte confirma. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): A palavra no original é grafada «zephirum» (também «zephyrum» em algumas edições). A opção «Zephyrum» é a única que corresponde ao termo de Fibonacci, só com variante ortográfica. Vacuum, Orbiculum e Nihilum não aparecem na fonte como termo usado por Fibonacci para o 0.",
+      "hash_texto": "cf6142ee9404df6bdd4e60eb28391d13a0105d9f3d21ac4586e3ef41f98d9eb4"
+    },
     "advogado": null,
     "editor": null
   },
@@ -75,6 +92,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (1.º ciclo): formulacao: O enunciado diz «palavra latina medieval que deu «zero»», como facto. A Treccani dá a derivação como facto. O estudo de ; formulacao: Há variantes de grafia nas fontes. A MacTutor (que o verificador usou) escreve «zephirum», e o Oxford cita a mesma passa; fontes: «Um estudo da Universidade de Oxford» está um pouco vago. O documento está no repositório ORA da universidade, mas a pág"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte springer.com"
     }
   ],
   "etiquetas": []

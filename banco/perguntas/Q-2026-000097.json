@@ -39,10 +39,27 @@
       "excerto": "Dr. Bryan Kibble invented the watt balance in 1975... Since 2017, the watt balance is called Kibble balance to honor the inventor, who passed in 2016.",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.bipm.org/en/mass-metrology/kibble-balance",
+      "dominio": "bipm.org",
+      "titulo": "Kibble balance - BIPM",
+      "nivel": 1,
+      "excerto": "The international metrology community renamed their moving-coil watt balances as Kibble balances in honour of the pioneering work in this field by Dr Bryan Kibble, who passed away in 2016.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Balança de watt",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "bipm.org",
+      "data": "2026-11-18",
+      "notas": "O BIPM (organismo intergovernamental, nível 1) diz que as «watt balances» passaram a chamar-se «Kibble balances» em homenagem a Bryan Kibble. Balança de Planck, de ampere e de joule não são o nome anterior segundo a fonte. A fonte BIPM não é a NIST nem a de Schlamminger e El Haddad. Não abri uma segunda fonte, mas a pesquisa também mostrou o NPL e a Wikipédia a dizer o mesmo.",
+      "hash_texto": "6885fc19173c2302ab9585a3b578c37af1a4760fcd12d35b2306c6816289bd18"
+    },
     "advogado": null,
     "editor": null
   },
@@ -74,6 +91,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (1.º ciclo): numeros: A explicação diz «inventada ... em 1975». O NIST diz que Kibble a «conceptualized» em 1975. O NPL diz apenas «1970s» e q"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte bipm.org"
     }
   ],
   "etiquetas": []

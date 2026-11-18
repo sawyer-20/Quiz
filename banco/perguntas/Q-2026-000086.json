@@ -1,17 +1,17 @@
 {
   "id": "Q-2026-000086",
   "topic": "Movies",
-  "subtopic": "Técnica / cor",
+  "subtopic": "Technicolor e cor no cinema",
   "text": {
     "pt-PT": {
-      "question": "Depois dos maus resultados do Technicolor de duas cores, que princípio defendeu junto dos cineastas a supervisora de cor Natalie Kalmus?",
+      "question": "Após os maus resultados do Technicolor de duas cores, que princípio defendeu Natalie Kalmus junto dos cineastas?",
       "options": [
         "Saturação máxima em todas as cenas",
         "Cor apenas em cenas de exterior",
         "Uma só cor dominante em cada filme",
         "Contenção no uso da cor"
       ],
-      "explanation": "Segundo o ACMI, depois de ver o Technicolor de duas cores dar resultados «não naturais e desastrosos», Natalie Kalmus, supervisora de cor da Technicolor, pediu aos cineastas «contenção da cor» (colour restraint)."
+      "explanation": "Contenção no uso da cor. Segundo o ACMI, depois de o Technicolor de duas cores dar resultados «não naturais e desastrosos», Natalie Kalmus, supervisora de cor, pediu aos cineastas «contenção da cor» (colour restraint)."
     }
   },
   "correct": 3,
@@ -65,7 +65,13 @@
       "data": "2026-11-18",
       "notas": "Confirmei no ACMI (\"unnatural and disastrous results\", \"colour restraint\") e no ensaio de Kalmus no Eastman (\"We must constantly practice color restraint\"). A explicação atribui ao ACMI e as citações coincidem. Nenhum distrator tem apoio nas fontes: «saturação máxima» é o oposto do que Kalmus critica. Sem datas nem números. | páginas lidas pelo advogado: https://www.acmi.net.au/works/100238--graphic-natalie-kalmus-technicolor-pioneer/, https://www.eastman.org/sites/default/files/technicolor/pdfs/ColorConsultants_ColorConsciousness.pdf"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "ENUNCIADO ALTERADO (o verificador cego tem de repetir): encurtado de ~135 para ~112 caracteres. Mudei a ordem das palavras e tirei a aposição «a supervisora de cor», que passou para a explicação. A pergunta é a mesma. A explicação começa agora pela resposta. Subtema afinado. Dificuldade 4 mantida.",
+      "data": "2026-11-18"
+    }
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -94,6 +100,12 @@
       "data": "2026-11-18",
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
       "nota": ""
     }
   ],

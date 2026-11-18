@@ -4,14 +4,14 @@
   "subtopic": "Vida marinha",
   "text": {
     "pt-PT": {
-      "question": "Segundo a bióloga Lexa Grutter (Universidade de Queensland), o casulo de muco que o peixe-papagaio cria para dormir protege-o de quê?",
+      "question": "Segundo a bióloga Lexa Grutter, de que protege o peixe-papagaio o casulo de muco em que dorme?",
       "options": [
         "De algas que se fixam nas escamas",
         "De bactérias presentes na água do recife",
         "De ondas e correntes fortes durante a noite",
         "De parasitas que lhe mordem, os isópodes gnatídeos"
       ],
-      "explanation": "Na experiência de Grutter, divulgada em 2010, quase todos os peixes-papagaio sem casulo foram atacados por gnatídeos, contra poucos dos que o tinham. De noite, sem peixes-limpadores, o casulo funciona como rede mosquiteira."
+      "explanation": "De parasitas, os isópodes gnatídeos: na experiência de Grutter, divulgada em 2010, quase todos os peixes-papagaio sem casulo foram atacados, contra poucos dos que o tinham. De noite, sem peixes-limpadores, o casulo funciona como rede mosquiteira."
     }
   },
   "correct": 3,
@@ -66,7 +66,13 @@
       "data": "2026-11-18",
       "notas": "A UQ confirma «Dr Alexandra (Lexa) Grutter», gnatídeos como parasitas e o ano de 2010 (notícia de 16/11/2010). O LiveScience dá cerca de 95% de ataques sem casulo contra 10% com casulo, o que sustenta «quase todos» e «poucos». A «rede mosquiteira» é imagem da própria Grutter, e a explicação não a apresenta como facto isolado. A UQ diz que os manuais presumiam proteção contra predadores como as moreias, mas essa hipótese não figura entre as opções. Algas, bactérias e correntes não têm apoio nas fontes. | páginas lidas pelo advogado: https://news.uq.edu.au/2010-11-16-fish-sleep-more-soundly-when-they-have-mosquito-net, https://www.livescience.com/8979-mucus-cocoons-protect-fish-parasites.html"
     },
-    "editor": null
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "ENUNCIADO ALTERADO (o verificador cego tem de repetir): encurtado de ~133 para ~95 caracteres. Tirei o inciso «(Universidade de Queensland)», mantive a atribuição a Lexa Grutter e a pergunta. A explicação começa pela resposta e continua com 2 frases, dentro dos 300 caracteres. Dificuldade e subtema mantidos.",
+      "data": "2026-11-18"
+    }
   },
   "estado": "em_verificacao",
   "motivo_rejeicao": null,
@@ -95,6 +101,12 @@
       "data": "2026-11-18",
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
       "nota": ""
     }
   ],
