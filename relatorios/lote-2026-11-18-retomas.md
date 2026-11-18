@@ -17,8 +17,8 @@ Os dois passaram pelo verificador cego misturados com as perguntas reais e **for
 1. **Caminho leve só em 1** (Q58): os alvos de dificuldade 1 pedidos (N1 e N7) saíram a 2 ou mais e a Q51 não tem fonte de nível 1 do pesquisador. A Q58 deve ser auditada por agente que não a produziu.
 2. **Q92 (retoma da Q63)**: o conferente reprovou primeiro a concordância de género («nenhuma»/«quantos») e, corrigida, a palavra «sábios» (masculino) como pista só em pt-PT. Rejeitada (ciclos esgotados); a Q63 já era retoma única e não regressa à lista.
 3. **Verificação frágil, aprovadas com confiança média**: Q89, Q90, Q93, Q95, Q96, Q98, Q100, Q101 (uma só fonte de nível 2 aberta pelo verificador). Q88 e Q92 usaram o Palais des Festivals / a imprensa porque as fontes do Festival e do museu eram as do pesquisador.
-4. **A regra 24 obrigou a repetir o verificador** 6 vezes (editor a mexer em enunciados): Q86, Q90, Q96 depois do editor; Q87, Q88, Q89, Q91, Q92, Q93, Q95, Q97, Q98, Q99, Q100 depois do advogado (reformuladas); e a Q85/Q79/Q73 no ciclo anterior. Do 2.º ciclo em diante instruí o editor a **não mexer em enunciados** (só explicação, dificuldade e subtema), o que evitou mais repetições. Número de repetições do lote 5: 3 por mudança do editor, 11 por reformulação do advogado.
-5. **O advogado declarou páginas lidas em todas as passagens** (regra 25), com uma exceção ao início do ciclo anterior (Q79/Q82) já registada.
+4. **Repetições do verificador cego: 14** neste lote (3 porque o editor mexeu em enunciados, Q86, Q90 e Q96; 11 porque o advogado reformulou o texto, Q87, Q88, Q89, Q91, Q92, Q93, Q95, Q97, Q98, Q99, Q100). A regra 24 não as causou sozinha, mas impede aprovar sem elas. Do 2.º ciclo em diante o editor ficou proibido de mexer em enunciados, o que evitou mais repetições.
+5. **O advogado listou as páginas que abriu em todas as passagens** (regra 25); o `aplicar_passo.py` recusaria a aprovação sem elas.
 6. **Fontes de nível 1 que não abriram** (403): Britannica, toureiffel.paris, o artigo original de Current Biology; ficam como pendentes para o `/auditar`.
 
 ## Decisões do Andre
