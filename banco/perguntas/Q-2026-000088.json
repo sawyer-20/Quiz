@@ -39,10 +39,27 @@
       "excerto": "Originally, the palme refers to the coat of arms and motto of the city of Cannes: “Praemium palma victori”, meaning “The palme is the prize of the winner”.",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://en.palaisdesfestivals.com/palais-events/trade-shows-and-events/cannes-film-festival/",
+      "dominio": "palaisdesfestivals.com",
+      "titulo": "Cannes welcomes the Festival de Cannes, the world's most famous film festival (Palais des Festivals)",
+      "nivel": 1,
+      "excerto": "The Palme, whose design is inspired by the coat of arms of the city of Cannes, weighs 118 grams and requires 40 hours of work by five artisans at the maison Chopard.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "O brasão da cidade de Cannes",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "palaisdesfestivals.com",
+      "data": "2026-11-18",
+      "notas": "Página lida. O Palais des Festivals é do organismo municipal/gestor do local, não é o domínio do festival nem republicação dos títulos a evitar. Excluídas: Mónaco, ministério da Cultura e emblema do Palácio dos Festivais (nenhuma fonte as liga à palma). | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Algumas fontes secundárias referem também as palmeiras da Croisette, mas a fonte lida diz que o desenho se inspira no brasão da cidade, que é a única opção compatível.",
+      "hash_texto": "8a0840d5d6e968ea9a9b900c233a9818128a1b0f56aa513f090d2f87d972d3be"
+    },
     "advogado": null,
     "editor": null
   },
@@ -74,6 +91,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (1.º ciclo): numeros: «Desde 1939» (no enunciado) e «1955» (na explicação) só têm a página do Festival de Cannes, que é o mesmo domínio nas du; formulacao: «Emblema da cidade» no enunciado dá a pista direta para a opção «brasão da cidade de Cannes»."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte palaisdesfestivals.com"
     }
   ],
   "etiquetas": []

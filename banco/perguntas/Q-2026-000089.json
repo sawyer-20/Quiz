@@ -40,10 +40,27 @@
       "excerto": "The Monell researchers also detected the same gene defect in tiger and cheetah, suggesting that it is common to species throughout the cat family.",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://omia.org/OMIA001617/9685/",
+      "dominio": "omia.org",
+      "titulo": "OMIA:001617-9685: Sweet taste, lack of in Felis catus (domestic cat) (Online Mendelian Inheritance in Animals)",
+      "nivel": 2,
+      "excerto": "Li et al. (2005) provided convincing evidence that ... TAS1R2, is a non-functional pseudogene in all cats, tigers and cheetahs: ... a 247-base pair microdeletion in exon 3 and stop codons in exons 4 and 6",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Tigre",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "omia.org",
+      "data": "2026-11-18",
+      "notas": "Página lida (base de dados da Universidade de Sydney que resume o estudo de 2005). Confirma o tigre. Cão, rato e ser humano não constam como tendo o gene inutilizado: sabe-se que têm recetor doce funcional, mas não li uma fonte que liste explicitamente as espécies com gene intacto no estudo de 2005 (PMC do artigo devolveu reCAPTCHA). Confiança média por isso.",
+      "hash_texto": "bdf0b93339940302c25091091c79f12067a6c6a85e398ce28062c2a83b2d77ae"
+    },
     "advogado": null,
     "editor": null
   },
@@ -75,6 +92,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (1.º ciclo): formulacao: Em pt-PT, «rato» é o mouse e «ratazana» é o rat. A explicação diz «ratinho e rato», o que traduz mal «mouse and rat» e c"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte omia.org"
     }
   ],
   "etiquetas": []

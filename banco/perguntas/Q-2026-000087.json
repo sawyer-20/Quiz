@@ -30,10 +30,27 @@
       "excerto": "Originally silver in Baum's book, the slippers were purportedly changed to ruby to take full advantage of color photography. Each shoe is covered with red satin, to which 2,300 sequins are applied.",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.smithsonianmag.com/smithsonian-institution/without-camera-emerald-city-would-have-been-color-mud-180961463/",
+      "dominio": "smithsonianmag.com",
+      "titulo": "Without This Camera, the Emerald City Would Have Been the Color of Mud (Smithsonian Magazine)",
+      "nivel": 2,
+      "excerto": "In the original book, and in the original script that we have, Dorothy's ruby slippers are described as silver. Before shooting, they were changed to take advantage of Technicolor.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Prateados",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "smithsonianmag.com",
+      "data": "2026-11-18",
+      "notas": "Li a página (curador do Smithsonian, Lintelman). Confirma prateados no livro e a mudança para vermelhos por causa do Technicolor. Pesquisa no Project Gutenberg também aponta silver shoes no texto de Baum, mas as páginas deram 503/502 e não as consegui abrir. Azul-safira, dourados e verde-esmeralda não aparecem em nenhuma fonte como cor dos sapatos. Fonte distinta de loc.gov.",
+      "hash_texto": "586e2a1617ea6cc76daa9c8e18decbc522229a905fe93ee2261cd79d7db49205"
+    },
     "advogado": null,
     "editor": null
   },
@@ -65,6 +82,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (1.º ciclo): duvida: A LoC diz que os sapatos foram \"purportedly changed\" (alegadamente mudados) para rubi, para aproveitar a cor. A explicaç"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte smithsonianmag.com"
     }
   ],
   "etiquetas": [
