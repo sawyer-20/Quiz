@@ -25,6 +25,11 @@ Até 5 perguntas, cada uma com `ref`, o pt-PT (pergunta, 4 opções, explicaçã
    que passa a ser defensável (ou a certa que passa a ser ambígua) ao traduzir reprova.
 3. **Sem pistas novas.** A tradução não deve entregar a resposta (por exemplo, repetir no
    enunciado a palavra da opção certa) nem tornar uma opção óbvia.
+   **Pista gramatical ou lexical só num dos idiomas** (regra 28): confere a concordância de
+   género e número entre o enunciado e cada opção em cada idioma (por exemplo, «quantos…»
+   com «Nenhuma»), e se uma palavra do enunciado, pelo género, pelo número ou pelo registo, aponta
+   para uma opção num idioma e não no outro («sábios» no masculino em pt-PT contra «scholars»
+   neutro em en-US). Reprova se existir.
 4. **pt-PT.** Português europeu: nenhuma forma do português do Brasil («ônibus», «celular»,
    «trem», «time» por equipa, «equipe», «gramado», «você», gerúndio brasileiro em vez de
    «a + infinitivo», «tela» ou outra palavra com sentido diferente em Portugal…). Ortografia

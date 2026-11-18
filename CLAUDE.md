@@ -110,6 +110,15 @@ ficheiros e nunca tomas decisões de produto sozinho.
 26. **Tempos.** `scripts/registar_tempo.py` corre para cada invocação de agente, sempre. O
     `aprovar.py` recusa aprovar perguntas de um lote sem `relatorios/<lote>-tempos.csv`.
 
+27. **O editor não mexe em enunciados depois do verificador, a partir do segundo ciclo.** Um
+    enunciado reescrito pelo editor depois da verificação cega obriga a repetir o verificador
+    (regra 24). Do segundo ciclo em diante o editor só toca na explicação, na dificuldade e
+    no subtema; se o enunciado tiver de mudar, devolve `reescrever` ou a pergunta volta ao
+    pesquisador. No primeiro ciclo, o editor pode afinar o enunciado, mas o verificador repete.
+28. **Pista gramatical ou lexical só num dos idiomas.** O conferente verifica que nem o género,
+    o número ou a concordância, nem uma palavra do enunciado (por exemplo, «sábios» no
+    masculino) dão a resposta num idioma e não no outro. Foi assim que a Q92 caiu.
+
 ## Onde estão as coisas
 
 - `banco/perguntas/<id>.json` — uma pergunta por ficheiro, no formato (v2, bilingue) de

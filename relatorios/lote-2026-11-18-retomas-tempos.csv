@@ -1,41 +1,49 @@
 agente,refs,duracao_ms
-pesquisador,P1-Q83+2novos,99817
-pesquisador,P2-Q66-Q75-Q80,96096
-pesquisador,P3-Football-VideoGames,284921
-pesquisador,P3-reenvio-json,120000
-pesquisador,P4-Q63-Q76-GK,129430
-pesquisador,P5-Music-History-Science,91275
-pesquisador,P6-extras-canarios,40208
-pesquisador,P7-substituto-GK,36841
-pesquisador,P7-novo-facto,89416
-originalidade,Q86-Q89,28907
-originalidade,Q90-Q93,28889
-originalidade,Q94-Q97,44190
-originalidade,Q98-Q100,32059
-originalidade,Q101,22712
-verificador-cego,bloco1,142780
-verificador-cego,bloco2,76585
-verificador-cego,bloco3,81909
-verificador-cego,bloco4,64865
-verificador-cego,bloco5-Q68-Q101,36591
-verificador-cego,Q88-repeticao,124519
-verificador-cego,Q68-repeticao,73877
-advogado-do-diabo,bloco1,66819
-advogado-do-diabo,bloco2,226394
-advogado-do-diabo,bloco3,94834
-advogado-do-diabo,bloco4,30639
-advogado-do-diabo,bloco5,28593
-editor,blocoA,30562
-editor,blocoB,13583
-editor,Q68-repeticao,23880
-verificador-cego,repeticao-Q86-Q90-Q96,35395
-verificador-cego,2a-ronda-A,82493
-verificador-cego,2a-ronda-B,54625
-verificador-cego,2a-ronda-C,86034
-advogado-do-diabo,2o-ciclo-3,38717
-advogado-do-diabo,2o-ciclo-4,45929
-advogado-do-diabo,2o-ciclo-4b,68244
-tradutor,blocoA,22021
-tradutor,blocoB,8458
-conferente,blocoA,19016
-conferente,blocoB,13208
+pesquisador,Pesquisador P1 Movies (Q83 + 2 novos),99800
+pesquisador,Pesquisador P2 Nature (Q66; Q75; Q80),96061
+pesquisador,Pesquisador P3 Football; Video Games,284918
+pesquisador,Pesquisador P4 (Q63; Q76; N7),129416
+pesquisador,Pesquisador P5 Music; History; Science,91255
+pesquisador,Pesquisador P6 extras de canário,40195
+originalidade,Originalidade L5 bloco 3 (4),44180
+originalidade,Originalidade L5 bloco 2 (4),28880
+originalidade,Originalidade L5 bloco 1 (4),28898
+originalidade,Originalidade L5 bloco 4 (3),32047
+pesquisador,Pesquisador: substituto N7 (GK fácil),89407
+verificador-cego,Verificador cego L5 bloco 1,142767
+verificador-cego,Verificador cego L5 bloco 2,124516
+verificador-cego,Verificador cego L5 bloco 3,81876
+verificador-cego,Verificador cego L5 bloco 4,64831
+originalidade,Originalidade Q101,22701
+verificador-cego,Verificador cego L5 bloco 5,73873
+advogado-do-diabo,Advogado L5 bloco 1,66802
+advogado-do-diabo,Advogado L5 bloco 2,226192
+advogado-do-diabo,Advogado L5 bloco 3,94804
+advogado-do-diabo,Advogado L5 bloco 4,30612
+advogado-do-diabo,Advogado L5 bloco 5 (Q62; Q68),28581
+verificador-cego,Verificador cego L5 2.ª ronda A,82478
+verificador-cego,Verificador cego L5 2.ª ronda B,54602
+verificador-cego,Verificador cego L5 2.ª ronda C,86007
+editor,Editor L5 bloco A (5),30552
+editor,Editor L5 bloco B (4),23875
+verificador-cego,Verificador cego L5 (Q86; Q90; Q96),35384
+advogado-do-diabo,Advogado 2.º ciclo L5 (4),45915
+advogado-do-diabo,Advogado 2.º ciclo L5 (4b),68217
+advogado-do-diabo,Advogado 2.º ciclo L5 (3),38692
+tradutor,Tradutor L5 bloco A (5),112058
+tradutor,Tradutor L5 bloco B (4),8439
+conferente,Conferente L5 bloco A (5),19001
+conferente,Conferente L5 bloco B (4),13189
+editor,Editor L5 2.ª ronda (4),43732
+editor,Editor L5 2.ª ronda (4b),15337
+editor,Editor L5 2.ª ronda (3),17039
+tradutor,Tradutor L5 2.ª ronda A (5),87568
+tradutor,Tradutor L5 2.ª ronda B (5),56893
+tradutor,Tradutor Q89,4067
+conferente,Conferente L5 2.ª ronda A (5),27941
+conferente,Conferente L5 2.ª ronda B (5),25625
+conferente,Conferente L5 2.ª ronda C (2),11293
+conferente,Conferente L5 2.ª repetição (4),21116
+pesquisador,Pesquisador: concordância Q92,5913
+verificador-cego,Verificador cego Q92 (concordância),25537
+conferente,Conferente Q92 (final),13942

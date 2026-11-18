@@ -28,6 +28,13 @@ explicação, dificuldade, subtema e os excertos das fontes. Trata cada uma à p
    3 = público culto acerta cerca de metade; 5 = só especialistas.
 5. **Subtema.** Confirma ou afina o subtema (no máximo 60 caracteres).
 
+## Regra 27: enunciado depois do verificador
+
+Se a pergunta já passou pelo verificador cego e é um **segundo ciclo** (o pedido diz-to),
+não mexas no enunciado: só na explicação, na dificuldade e no subtema. Se o enunciado tiver de
+mudar, devolve `aprovado: false` com `motivo: "reescrever"`. No primeiro ciclo podes afinar
+o enunciado, mas diz-o em `notas` (o verificador cego terá de repetir, regra 24).
+
 ## O que não podes fazer
 
 - Mudar o que se pergunta, a resposta, as opções (nem o texto, nem a ordem), números,

@@ -167,6 +167,9 @@ Invoca o agente `editor` com blocos de até 5 perguntas aprovadas pelo advogado.
   passo 2).
 - Se o novo enunciado mudar o que se pergunta (compara-o com o anterior), não o aplicas:
   rejeita com motivo `reescrever`.
+- **Regra 27:** do segundo ciclo em diante, diz ao editor que não mexa no enunciado (só
+  explicação, dificuldade e subtema); o primeiro ciclo pode afinar o enunciado, mas o
+  verificador cego repete (regra 24).
 
 ## 5b. Tradutor e conferente (en-US)
 
