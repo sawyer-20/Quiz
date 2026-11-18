@@ -49,10 +49,27 @@
       "excerto": "Launched in 1977 (September 5 for Voyager 1 (V1) and August 20 for Voyager 2 (V2), whose trajectory took it past Jupiter after Voyager 1)",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/20_August",
+      "dominio": "esa.int",
+      "titulo": "20 August (ESA)",
+      "nivel": 1,
+      "excerto": "On 20 August 1977, NASA's Voyager 2 spacecraft was launched from Cape Canaveral aboard a Titan-Centaur rocket.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Voyager 2",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "esa.int",
+      "data": "2026-11-18",
+      "notas": "A ESA data o lançamento da Voyager 2 a 20/08/1977. A pesquisa (Britannica, que deu 403 no leitor) indica a Voyager 1 a 5/09/1977, por isso fica excluída. Mariner 10 e Pioneer 11 foram lançadas em 1973: dado de conhecimento geral, que não verifiquei nesta sessão, mas as duas não podem ser a de 1977 se a Voyager 2 for a de 20 de agosto de 1977 (e a pergunta admite uma só).",
+      "hash_texto": "142cc8e6f0f275e6e5baa4b1150d7aa2f4a75efd7905c7b040f692ce4bc4995e"
+    },
     "advogado": null,
     "editor": null
   },
@@ -84,6 +101,12 @@
       "evento": "originalidade reavaliada (definição de 17/11): original",
       "agente": "originalidade",
       "nota": "original (definição de 17/11), com a ressalva de que a forma pode existir fora do alcance da pesquisa. Entra no lote 5 como retoma única (regra 15), sem repetir a pesquisa."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte esa.int"
     }
   ],
   "etiquetas": []

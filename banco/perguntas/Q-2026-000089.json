@@ -40,10 +40,27 @@
       "excerto": "The Monell researchers also detected the same gene defect in tiger and cheetah, suggesting that it is common to species throughout the cat family.",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.scientificamerican.com/article/why-cats-taste-no-sweets/",
+      "dominio": "scientificamerican.com",
+      "titulo": "Why Cats Taste No Sweets (Scientific American)",
+      "nivel": 2,
+      "excerto": "All cats, however—including lions, tigers and British longhairs, oh my!—lack a chunk of DNA that occurs in the Tas1r2 gene of other mammals ... (the depleted feline gene) is a pseudogene.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Tigre",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "scientificamerican.com",
+      "data": "2026-11-18",
+      "notas": "Lido também o ScienceDaily de 2005 (comunicado do Monell, que é republicação, por isso não o uso como fonte principal): «The Monell researchers also detected the same gene defect in tiger and cheetah». A pesquisa ao artigo PMC1183522 diz o mesmo (tigre e chita, microdeleção de 247 pb no exão 3). Esse artigo não foi aberto por mim e é o próprio estudo, que consta da lista a evitar. Ser humano, rato e cão: o Tas1r2 é funcional (a pesquisa ao estudo PNAS 2012 refere o cão com gene intacto; o PNAS deu 403). Confiança média porque a fonte nível 2 não nomeia o tigre como espécie testada em 2005 nem exclui diretamente as outras opções.",
+      "hash_texto": "02b2c1ba554f84083342666a7c06b53ec16832ec79b947bb760baa04fb916c14"
+    },
     "advogado": null,
     "editor": null
   },
@@ -63,6 +80,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "Nenhum quiz com este enunciado. O facto geral (gatos não sentem o doce) é conhecido, mas a pergunta sobre o outro animal testado no estudo de 2005 é um ângulo próprio. Sem quizzes com as mesmas opções. Nota factual para o verificador: estudos posteriores (2012) mostram também outros animais com o gene inutilizado (leões-marinhos, golfinhos), por isso confirmar que a pergunta se limita ao estudo de 2005. | provas: https://www.nature.com/news/2005/050718/full/news050718-16.html (notícia Nature 2005, não quiz); https://www.scientificamerican.com/article/strange-but-true-cats-cannot-taste-sweets/ (artigo)"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte scientificamerican.com"
     }
   ],
   "etiquetas": []

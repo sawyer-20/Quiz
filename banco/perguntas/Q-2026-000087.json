@@ -30,10 +30,27 @@
       "excerto": "Originally silver in Baum's book, the slippers were purportedly changed to ruby to take full advantage of color photography. Each shoe is covered with red satin, to which 2,300 sequins are applied.",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://archive.org/stream/wonderfulwizardo00baumiala/wonderfulwizardo00baumiala_djvu.txt",
+      "dominio": "archive.org",
+      "titulo": "The Wonderful Wizard of Oz (L. Frank Baum, 1900, texto integral, Internet Archive)",
+      "nivel": 1,
+      "excerto": "nothing was left but the silver shoes. ... \"But the silver shoes are yours, and you shall have them to wear.\"",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Prateados",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "archive.org",
+      "data": "2026-11-18",
+      "notas": "Fonte primária: o próprio livro de Baum, onde os sapatos são sempre «silver». Verde-esmeralda, azul-safira e dourados não aparecem. Que o filme de 1939 os tornou vermelhos (rubi) vem só de resultados de pesquisa secundários (Smithsonian, etc.), que não abri. Não afeta a resposta, que é sobre o livro. Fonte não é da Library of Congress.",
+      "hash_texto": "f2c81af4ca407bff0c7d5eb6708701fc09f1fe6c723e3d170f074a61f6958e14"
+    },
     "advogado": null,
     "editor": null
   },
@@ -53,6 +70,12 @@
       "evento": "originalidade: classico",
       "agente": "originalidade",
       "nota": "Facto e forma de perguntar (cor original dos sapatos no livro, mudada para vermelho no filme) são habituais em quizzes. As páginas de quiz abertas não mostraram o conjunto exato de 4 opções (só os resultados de pesquisa), por isso não há prova de opções iguais. Ver conclusão a partir dos resultados de pesquisa, sem abrir as páginas do FunTrivia. Não usar em dificuldade 4 ou 5. | provas: https://funtrivia.com/trivia-quiz/ForChildren/The-Wonderful-Wizard-of-Oz-by-L-Frank-Baum-262966.html (quiz FunTrivia sobre o livro; segundo a pesquisa, inclui a cor original dos sapatos); https://funtrivia.com/trivia-quiz/Movies/Off-to-See-the-Wizard-13774.html (quiz sobre o filme com a mudança dos sapatos); https://www.triviaduel.com/wizard-of-oz-trivia (trivia sobre Oz)"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte archive.org"
     }
   ],
   "etiquetas": [

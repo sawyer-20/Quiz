@@ -51,12 +51,12 @@
       "papel": "advogado"
     },
     {
-      "url": "https://press-files.oscars.org/sites/default/files/2026-01/A%20BRIEF%20HISTORY%20OF%20THE%20OSCAR.pdf",
+      "url": "https://www.oscars.org/sites/oscars/files/90aa_oscar_history.pdf",
       "dominio": "oscars.org",
-      "titulo": "A Brief History of the Oscar (Academy of Motion Picture Arts and Sciences, 2026)",
+      "titulo": "A Brief History of the Oscar (Academy of Motion Picture Arts and Sciences)",
       "nivel": 1,
-      "excerto": "In the finished design, the figure of the knight was streamlined, and the film reel was moved beneath its feet. The now iconic statuette was born.",
-      "consultada_em": "2026-11-12",
+      "excerto": "Cedric Gibbons sketched the figure of a knight gripping a sword, standing in front of a reel of film. The five spokes of the reel stood for the original five branches of the Academy",
+      "consultada_em": "2026-11-18",
       "papel": "verificador"
     }
   ],
@@ -66,8 +66,9 @@
       "concorda": true,
       "confianca": "alta",
       "dominio": "oscars.org",
-      "data": "2026-11-12",
-      "notas": "Fonte oficial da Academia, lida. O cavaleiro segura uma espada e está sobre um rolo de filme (cinco raios = cinco ramos originais). Globo, máscara de teatro e coroa de louros não aparecem como base da estatueta."
+      "data": "2026-11-18",
+      "notas": "Li o PDF oficial da Academia (a página oscars.org/oscars/statuette devolveu 403 no leitor, mas a pesquisa mostra-a a dizer o mesmo: cavaleiro sobre um rolo de filme). Na versão final «the film reel moved beneath its feet». Coroa de louros, máscara de teatro e globo não aparecem no desenho. Fonte distinta das proibidas (history.com, nbcwashington.com).",
+      "hash_texto": "cf94e2fd54f563face64b82db0f1ed9c54fb6d8631d3f24bd1239b742c69456e"
     },
     "advogado": null,
     "editor": null
@@ -118,6 +119,12 @@
       "evento": "originalidade reavaliada (definição de 17/11): original",
       "agente": "originalidade",
       "nota": "original (definição de 17/11): o enunciado 'em pé sobre que objeto' não aparece em quizzes; os quizzes encontrados perguntam o que a estatueta segura ou representa. Entra no lote 5 como retoma única (regra 15), sem repetir a pesquisa."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte oscars.org"
     }
   ],
   "etiquetas": []

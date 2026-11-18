@@ -40,10 +40,27 @@
       "excerto": "When he messed up the careful gradients by reversing the large and small trinkets, the males were quick to put things right. Within three days, the illusions had been restored.",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2010/09/100909122801.htm",
+      "dominio": "sciencedaily.com",
+      "titulo": "In attracting mates, male bowerbirds appear to rely on special optical effect (ScienceDaily)",
+      "nivel": 2,
+      "excerto": "When we reversed the gradient -- putting smaller objects further away and larger objects closer to the avenue- the birds put the gradient back in three days.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Restabeleceram o gradiente original dos objetos",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "sciencedaily.com",
+      "data": "2026-11-18",
+      "notas": "Citação direta de Endler: em três dias os machos repuseram o gradiente. Isto exclui abandonar o pátio, mudar a cor dos objetos e aceitar a nova ordem. Fonte lida é um texto de divulgação (nível 2), distinto de jcu.edu.au e nationalgeographic.com. A pesquisa mostra também o resumo do artigo na Current Biology (paper a evitar), que refere recuperação aos 3 dias.",
+      "hash_texto": "e07dcd153f8d342ca7bcd6359fbbe06c598717359afeece37ce2aa13266aecd7"
+    },
     "advogado": null,
     "editor": null
   },
@@ -63,6 +80,12 @@
       "evento": "originalidade: original",
       "agente": "originalidade",
       "nota": "Não há quiz com este ângulo (experiência de inversão do gradiente, com prazo de três dias). O facto só aparece em divulgação científica. Nota de facto: as fontes dizem que os machos repuseram o gradiente em três dias, o que sustenta a opção 'Restabeleceram o gradiente original'. | provas: https://www.nature.com/articles/467255a (notícia científica sobre o estudo; sem quiz); https://sciencedaily.com/releases/2010/09/100909122801.htm (comunicado; sem quiz)"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte sciencedaily.com"
     }
   ],
   "etiquetas": []
