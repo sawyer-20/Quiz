@@ -53,15 +53,6 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://www.soccerhistory.co.uk/penalty-kick",
-      "dominio": "soccerhistory.co.uk",
-      "titulo": "The Penalty Kick - British football history, soccer history",
-      "nivel": 2,
-      "excerto": "the invention of the penalty kick is credited to the goalkeeper and businessman William McCrum in 1890 in Milford, County Armagh, Northern Ireland. The Irish Football Association presented the idea to the International Football Association Board.",
-      "consultada_em": "2026-11-13",
-      "papel": "verificador"
-    },
-    {
       "url": "https://downloads.theifab.com/downloads/annual-general-meeting-2015-minutes?l=en",
       "dominio": "theifab.com",
       "titulo": "The IFAB, Annual General Meeting 2015, Minutes (Belfast)",
@@ -69,6 +60,15 @@
       "excerto": "William McCrum, who as a member of the IFA, proposed the idea of the penalty kick to stop the prevalent practice at that time of defenders professionally fouling an attacking player to stop a goal. The idea was submitted to the June 1890 meeting of The IFAB and was approved in 1891.",
       "consultada_em": "2026-11-18",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.irishexaminer.com/lifestyle/arid-20272283.html",
+      "dominio": "irishexaminer.com",
+      "titulo": "Irishman put football on spot with penalties (Irish Examiner)",
+      "nivel": 2,
+      "excerto": "McCrum ... managed to persuade the Irish Football Association to implement it. But when he submitted the idea to a meeting of the International Football Board it got a frosty reception.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
@@ -76,9 +76,10 @@
       "resposta_texto": "A Associação de Futebol da Irlanda (Irish FA)",
       "concorda": true,
       "confianca": "media",
-      "dominio": "soccerhistory.co.uk",
-      "data": "2026-11-13",
-      "notas": "Li a página com ler_url.py. A fonte é um site de história do futebol (nível 2, não é institucional). Nenhum IFAB, FIFA ou Britannica abriu: Britannica deu 403. Outras páginas devolvidas pela pesquisa dizem o mesmo (o secretário-geral da Irish FA, Jack Reid, levou a proposta), mas não as li. A FA inglesa, a escocesa e a galesa aparecem só como quem reagiu ou votou, não como proponentes. A proposta foi apresentada em 1890 e adotada a 2 de junho de 1891."
+      "dominio": "irishexaminer.com",
+      "data": "2026-11-18",
+      "notas": "Li o Irish Examiner (nível 2) e soccerhistory.co.uk. Não consegui abrir Britannica (rede) nem outra fonte de nível 1. Os resultados de pesquisa mencionam sempre uma proposta irlandesa, apreciada pelo IFAB em 1890 e aprovada em 1891, e criticada como «Irishman's motion» pela FA inglesa. Excluí Escócia, País de Gales e Inglaterra: nenhuma fonte as aponta como proponentes. A FA inglesa até se opôs. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): A autoria da proposta é de William McCrum, mas ele levou-a ao IFAB através da Irish FA (Jack Reid, segundo resultados de pesquisa que não abri). O enunciado pede a associação, por isso a opção Irish FA é a certa. A atribuição direta («The Irish Football Association presented the idea to the IFAB») está em soccerhistory.co.uk, que li mas é um site pouco editorial.",
+      "hash_texto": "cd785b8529c5d48a264e4c9c1101c22cbebd633875122b0604f45b7327d1f512"
     },
     "advogado": {
       "aprovado": true,
@@ -191,6 +192,12 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte irishexaminer.com"
     }
   ],
   "etiquetas": [],

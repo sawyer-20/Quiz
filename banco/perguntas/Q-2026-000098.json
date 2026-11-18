@@ -11,17 +11,7 @@
         "Um cão chamado Pickles, a passear com o dono",
         "Um agente da Scotland Yard"
       ],
-      "explanation": "Foi um cão chamado Pickles, que farejou o embrulho em jornal atado com cordel a 27 de março de 1966, uma semana depois do roubo de 20 de março. O dono, David Corbett, avisou depois a polícia."
-    },
-    "en-US": {
-      "question": "In 1966, the World Cup trophy was stolen from an exhibition in London. Who found it, wrapped in newspaper, a week later?",
-      "options": [
-        "A security guard at the exhibition",
-        "A Daily Mirror journalist",
-        "A dog named Pickles, out walking with his owner",
-        "A Scotland Yard officer"
-      ],
-      "explanation": "It was a dog named Pickles, who sniffed out the package wrapped in newspaper and tied with string on March 27, 1966, a week after the March 20 theft. His owner, David Corbett, then alerted the police."
+      "explanation": "Foi um cão chamado Pickles. Uma semana depois do roubo, a 20 de março de 1966, farejou um embrulho de jornal atado com cordel, e o dono, David Corbett, levou-o à esquadra de polícia, onde ficou entre os suspeitos."
     }
   },
   "correct": 2,
@@ -62,49 +52,27 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://www.deseret.com/sports/2026/06/22/how-pickles-the-dog-saved-the-fifa-world-cup-60-years-ago/",
-      "dominio": "deseret.com",
-      "titulo": "How a dog saved the FIFA World Cup 60 years ago (Deseret News)",
-      "nivel": 2,
-      "excerto": "A week after its theft, a dog named Pickles found the trophy while heading out on a walk with his owner, David Corbett, in their Upper Norwood neighborhood. ... Pickles started sniffing a newspaper-wrapped package",
+      "url": "https://inside.fifa.com/en/news/pickles-and-the-stolen-world-cup-2771152",
+      "dominio": "fifa.com",
+      "titulo": "Pickles and the stolen World Cup (FIFA)",
+      "nivel": 1,
+      "excerto": "On Sunday 20 March 1966, the FIFA World Cup Trophy was stolen. ... Now a week since the robbery... the black and white dog started sniffing around at an unusual package. \"It was wrapped in tightly-bound newspaper and string...\"",
       "consultada_em": "2026-11-18",
-      "papel": "verificador"
+      "papel": "pesquisador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Um cão chamado Pickles, a passear com o dono",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "deseret.com",
-      "data": "2026-11-18",
-      "notas": "Confirmado pelo Deseret News (página aberta e lida): o troféu foi encontrado uma semana depois do roubo pelo cão Pickles, a passear com o dono, embrulhado em jornal. Os resultados de pesquisa (Yahoo, National Football Museum, Washington Post, Bloomberg) concordam, mas esses sites não os consegui abrir (403 ou timeout), por isso só há uma fonte lida, de nível 2, daí a confiança média. As outras opções (jornalista do Daily Mirror, agente da Scotland Yard, segurança da exposição) não aparecem em nenhuma fonte; a Scotland Yard só entrou na operação de resgate do resgate/resgate-ransom (o inspetor Len Buggy), não no achado. Pormenores divergentes entre fontes (sob um arbusto/sebe ou junto à roda de um carro) não afetam a resposta.",
-      "hash_texto": "45a6c8e755c17204c7c6185a11d4bdfee3508b8f66a0f146fabc64f3b1f50f37"
-    },
-    "advogado": {
-      "aprovado": true,
-      "data": "2026-11-18",
-      "notas": "Abri as duas fontes. O history.co.uk diz que o troféu foi roubado a 20 de março de 1966 e encontrado a 27 de março, por Pickles, que farejava um embrulho em jornal atado com cordel (\"newspaper and tied with string\"). Diz também que Corbett levou o embrulho para casa e só depois contactou a polícia. O Deseret News diz que o roubo foi \"the next day\" depois de 19 de março, que o troféu foi encontrado \"a week after its theft\" e que Corbett o devolveu à polícia. As duas fontes concordam nas datas e no dono. O 'Scotland Yard' do distrator é falso: a própria fonte diz que a resolução não veio da polícia. Não há segunda resposta defensável. O troféu foi encontrado por Pickles, a passear com o dono, e não por segurança, jornalista ou polícia. O 'Daily Mirror' só aparece no Deseret como autor de uma notícia de 2018 sobre o ladrão, sem relação com o achado. A explicação tem 2 frases e menos de 300 caracteres, sem linguagem de dúvida. Não consegui derrubar. | páginas lidas pelo advogado: https://www.history.co.uk/articles/pickles-the-dog-world-cup, https://www.deseret.com/sports/2026/06/22/how-pickles-the-dog-saved-the-fifa-world-cup-60-years-ago/"
-    },
+    "verificador": null,
+    "advogado": null,
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
       "notas": "Enunciado e opções intactos. Explicação reorganizada para começar pela resposta, em 2 frases (cerca de 195 caracteres). Dificuldade subida de 2 para 3: o episódio é conhecido, mas o público geral não acerta de forma quase unânime. Subtema afinado de «Mundiais» para «Mundial de 1966».",
       "data": "2026-11-18"
-    },
-    "tradutor": {
-      "data": "2026-11-18",
-      "notas": "Datas em formato americano (March 27, March 20). «Agente da Scotland Yard» -> \"officer\"."
-    },
-    "conferente": {
-      "aprovado": true,
-      "notas": "Datas (20 e 27 de março de 1966), nomes e a resposta certa coincidem. A opção certa é mais longa e mais específica que as outras, nos dois idiomas por igual. Não vem da tradução, mas fica como observação para o editor.",
-      "data": "2026-11-18",
-      "hash_texto": "992d44e0d75ae3e78a6699742cc824205d04b49fd581ea0ebb596ebc30fef6c8"
     }
   },
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-18",
@@ -174,10 +142,21 @@
       "evento": "daily_eligible retirado",
       "agente": "orquestrador",
       "nota": "decisão do revisor/Andre: só confirmação de nível 2 até haver fonte de nível 1; fora do Daily 10"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reformulada",
+      "agente": "pesquisador",
+      "nota": "auditoria 18/11 (triagem): explicação com afirmação sem fonte/errada; reescrita"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "devolvida a em_verificacao",
+      "agente": "orquestrador",
+      "nota": "triagem da auditoria: explicação reescrita; a repetir verificador, advogado, editor, tradutor e conferente"
     }
   ],
   "etiquetas": [
     "classico"
-  ],
-  "options_lock": "2f64dd9926fcd982798235d0b0a09ec6f5585c72f8e68e2f956f897cbf59f696"
+  ]
 }

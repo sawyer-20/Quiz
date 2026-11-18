@@ -52,12 +52,12 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://www.wisemusicclassical.com/work/31743/Peter-and-the-Wolf-for-narrator-and-orchestra--Sergei-Prokofiev/",
-      "dominio": "wisemusicclassical.com",
-      "titulo": "Peter and the Wolf (for narrator and orchestra) | Sergei Prokofiev - Wise Music Classical",
-      "nivel": 2,
-      "excerto": "Commissioned in 1936 by Natalya Sats for the Central Children's Theatre in Moscow, Peter and the Wolf, Op. 67, is a \"symphonic tale for children\" designed to introduce young audiences to the instruments of the orchestra.",
-      "consultada_em": "2026-11-13",
+      "url": "https://mtosmt.org/issues/mto.18.24.2/mto.18.24.2.rifkin.html",
+      "dominio": "mtosmt.org",
+      "titulo": "MTO 24.2: Rifkin, Visualizing Peter (Music Theory Online)",
+      "nivel": 1,
+      "excerto": "The work was commissioned by Natalya Sats, the well-connected director of the Central Children's Theater in Moscow.",
+      "consultada_em": "2026-11-18",
       "papel": "verificador"
     }
   ],
@@ -65,10 +65,11 @@
     "verificador": {
       "resposta_texto": "Natalya Sats, diretora de um teatro infantil",
       "concorda": true,
-      "confianca": "media",
-      "dominio": "wisemusicclassical.com",
-      "data": "2026-11-13",
-      "notas": "Li a página com ler_url.py. É a ficha de uma editora (nível 2, é obra de consulta de uma editora e não é a Boosey). Só abri uma fonte de nível 1 ou 2; a pesquisa mostrou outras páginas que dizem o mesmo (programas de concerto), mas não as li, por serem de qualidade incerta. As outras opções (Ulanova, Krupskaya, Akhmatova) não aparecem como encomendantes em nenhuma fonte que vi. O enunciado confirma-se: 1936, ensinar às crianças os instrumentos da orquestra. A fonte diz 'encomendada por Sats', não 'pediu', e isso é equivalente."
+      "confianca": "alta",
+      "dominio": "mtosmt.org",
+      "data": "2026-11-18",
+      "notas": "Li o artigo da revista académica MTO (lido com ler_url.py). Confirma a encomenda por Sats, diretora do Teatro Central das Crianças. A parte «para ensinar os instrumentos da orquestra» não a vi explícita neste artigo, mas vi-a em resultados de pesquisa (Classic FM, Wise Music, que não abri). Excluí as outras três: Ulanova, Akhmatova e Krupskaya não aparecem em nenhuma fonte como encomendantes. Nota: a Sats escreveu um cenário em verso que Prokofiev rejeitou; isso não muda a resposta.",
+      "hash_texto": "52890b1e91851795b9a7d229ea4d626c65c0a42e98be45aeb1220145877d1250"
     },
     "advogado": {
       "aprovado": true,
@@ -163,6 +164,12 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte mtosmt.org"
     }
   ],
   "etiquetas": [],
