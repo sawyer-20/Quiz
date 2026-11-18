@@ -21,7 +21,7 @@
         "Keep preservation copies",
         "Give researchers remote access"
       ],
-      "explanation": "Give researchers remote access. On the Register of Copyrights' recommendation, the Librarian kept the October 2024 rule limiting access to library premises; proponents did not show that off-premises access would be lawful."
+      "explanation": "Give researchers remote access. On the Register of Copyrights' recommendation, the Librarian kept the October 2024 rule limiting access to library premises; it was not shown that off-premises access would be lawful."
     }
   },
   "correct": 3,
@@ -112,15 +112,16 @@
     },
     "tradutor": {
       "data": "2026-11-18",
-      "notas": "Resposta certa no índice 3. 'Registadora dos Direitos de Autor' = Register of Copyrights (cargo oficial); 'Bibliotecária do Congresso' = Librarian of Congress. A pergunta tem 138 caracteres (acima do alvo de 120, abaixo do máximo de 200). 'no longer sold commercially' traduz 'já não são comercializados' (a regra diz 'no longer reasonably available in the commercial marketplace'). Na explicação, 'would be lawful' traduz 'fosse lícito' (a fonte diz 'noninfringing'). Sem unidades nem aspas."
+      "notas": "Resposta certa no índice 3. Explicação alinhada com o pt-PT: removido o sujeito 'proponents' e usada a forma impessoal 'it was not shown', como no original. 'Registadora dos Direitos de Autor' = Register of Copyrights; 'Bibliotecária do Congresso' = Librarian of Congress. A pergunta tem 138 caracteres (acima do alvo de 120, abaixo do máximo de 200). 'no longer sold commercially' traduz 'já não são comercializados' (a regra diz 'no longer reasonably available in the commercial marketplace'). 'would be lawful' traduz 'fosse lícito' (a fonte diz 'noninfringing'). Sem unidades nem aspas."
     },
     "conferente": {
-      "aprovado": false,
-      "notas": "A resposta certa (índice 3, acesso remoto a investigadores) e as três opções erradas têm o mesmo sentido, uma a uma e pela mesma ordem. Não encontrei pistas lexicais novas. O enunciado e a explicação respeitam os limites (2 frases, opções com menos de 60 caracteres, pergunta terminada em «?»). O pt-PT não tem brasileirismos e o en-US é natural, em grafia americana. Rejeito só pela diferença de atribuição na explicação. A correção é do tradutor: alinhar a explicação en-US com o pt-PT, por exemplo «it was not shown that off-premises access would be lawful», ou então pôr o sujeito nos dois idiomas, com a fonte a confirmar essa atribuição.",
-      "data": "2026-11-18"
+      "aprovado": true,
+      "notas": "Os dois textos afirmam o mesmo: em 2024, a Bibliotecária do Congresso recusou alargar a isenção ao acesso remoto de investigadores e manteve a regra de outubro de 2024 que limita o acesso às instalações da biblioteca, por recomendação da Registadora dos Direitos de Autor. A atribuição (Registadora/Register), a data e a cautela («não ficou demonstrado»/«was not shown») coincidem. A opção certa (índice 3) é equivalente nos dois idiomas. As opções 0, 1 e 2 também são equivalentes uma a uma, pela mesma ordem, e continuam erradas nos dois idiomas. O enunciado não repete a palavra da resposta («remoto»/«remote») em nenhum dos idiomas. A explicação tem 2 frases nos dois idiomas, as opções têm menos de 60 caracteres e a pergunta termina em «?». O pt-PT está em português europeu: videojogos, Bibliotecária, Registadora, «Jogá-los», outubro em minúscula. O en-US é natural, com «premises», «off-premises» e «lawful».",
+      "data": "2026-11-18",
+      "hash_texto": "3da97c071e77ad5977e81a1c7eb4856a73ed7ca1f92465a0ce686ae44ec2a3ca"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -328,7 +329,26 @@
       "evento": "conferência recusada",
       "agente": "conferente",
       "nota": "[{\"onde\": \"explicação\", \"idioma\": \"en-US\", \"detalhe\": \"O en-US diz «proponents did not show that off-premises access would be lawful», o que atribui a falta de demonstração aos proponentes. O pt-PT diz «não ficou demonstrado que fora delas fosse lícito», sem sujeito. A atribuição e a cautela não são iguais: o en-US acrescenta um agente que o pt-PT não tem. Isto vai contra a regra de «mesmas atribuições, nada a mais». Há também uma diferença menor: o pt-PT diz «fora delas» (fora das instalações) "
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Resposta certa no índice 3. Explicação alinhada com o pt-PT: removido o sujeito 'proponents' e usada a forma impessoal 'it was not shown', como no original. 'Registadora dos Direitos de Autor' = Register of Copyrights; 'Bibliotecária do Congresso' = Librarian of Congress. A pergunta tem 138 caracteres (acima do alvo de 120, abaixo do máximo de 200). 'no longer sold commercially' traduz 'já não são comercializados' (a regra diz 'no longer reasonably available in the commercial marketplace'). 'would be lawful' traduz 'fosse lícito' (a fonte diz 'noninfringing'). Sem unidades nem aspas."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "673e54f6e5d892186d1cb78f10f71d0393ed674fd23abd2ca1e9dff56eda7798"
 }
