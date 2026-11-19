@@ -52,12 +52,12 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://www.guinnessworldrecords.com/world-records/67745-longest-bone",
-      "dominio": "guinnessworldrecords.com",
-      "titulo": "Longest bone | Guinness World Records",
+      "url": "https://www.healthline.com/health/femur",
+      "dominio": "healthline.com",
+      "titulo": "Femur Anatomy, Diagram & Definition (Healthline Body Maps, revisão médica)",
       "nivel": 2,
-      "excerto": "The thigh bone, or femur, is the longest. It constitutes 27.5% of a person's stature normally, and may be expected to be 50 cm (19.75 in) long in a man measuring 180 cm (5 ft 11 in) tall.",
-      "consultada_em": "2026-11-12",
+      "excerto": "It is both the longest and the strongest bone in the human body, extending from the hip to the knee.",
+      "consultada_em": "2026-11-18",
       "papel": "verificador"
     }
   ],
@@ -66,11 +66,16 @@
       "resposta_texto": "Fémur",
       "concorda": true,
       "confianca": "media",
-      "dominio": "guinnessworldrecords.com",
-      "data": "2026-11-12",
-      "notas": "Li a fonte, que é de nível 2, e só uma. Britannica devolveu 403. A fonte diz que o fémur é o osso mais longo, o que exclui tíbia, úmero e rádio. Facto anatómico estável."
+      "dominio": "healthline.com",
+      "data": "2026-11-18",
+      "notas": "Aberta e lida só uma fonte de nível 2 (Healthline). A Wikipédia (só pista) diz o mesmo. A Britannica devolveu 403. Tíbia, rádio e úmero são ossos mais curtos que o fémur: exclusão por inferência anatómica, sem excerto explícito. Falta uma fonte de nível 1 fora de nih.gov e clevelandclinic.org.",
+      "hash_texto": "e71e64191b28573ec026296e183071f6713636c2c1ca01702054518445c18936"
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "Abri as duas fontes e li-as. O NCBI/StatPearls diz «The femur is the longest, heaviest, and strongest human bone». O Cleveland Clinic diz «the longest, strongest bone in your body». Os distratores (úmero, tíbia, rádio) são todos mais curtos, por isso não há segunda resposta defensável e não há ambiguidade de definição. O facto é estável. Cada afirmação da explicação tem suporte no StatPearls. «Mais pesado» e «mais forte» estão na frase inicial. «Liga a bacia ao joelho» e «articula com a tíbia» vêm de 'The medial and lateral condyles join the femur to the tibia, forming the knee joint' e da articulação da cabeça do fémur com o acetábulo da pelve. A rótula vem do 'patellofemoral joint'. O peso do tronco vem de 'The weight of the upper body rests on the two femoral heads'. Não há linguagem de dúvida nem interpretação apresentada como facto. A explicação não precisa de reformulação. Só «ao andar» é uma ligeira paráfrase de 'weight bearing and gait stability', e é aceitável. Nível 1 presente (NCBI). Sem Wikipédia. Tema neutro. | páginas lidas pelo advogado: https://www.ncbi.nlm.nih.gov/sites/books/NBK532982/, https://my.clevelandclinic.org/health/body/22503-femur"
+    },
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
@@ -78,15 +83,15 @@
       "notas": "Sem alterações; já estava curto, em pt-PT e com 2 frases.",
       "data": "2026-11-13"
     },
-    "caminho_leve": true,
     "tradutor": {
       "data": "2026-11-13",
       "notas": "Termos anatómicos ingleses correntes (femur, humerus, tibia, radius). 'rótula' = kneecap."
     },
     "conferente": {
       "aprovado": true,
-      "notas": "Equivalente. Fémur/Femur, Úmero/Humerus, Tíbia/Tibia, Rádio/Radius correspondem uma a uma.",
-      "data": "2026-11-13"
+      "notas": "Fémur/Femur, Úmero/Humerus, Tíbia/Tibia e Rádio/Radius correspondem-se uma a uma. A explicação diz o mesmo nos dois idiomas, com 2 frases. Não há pistas novas.",
+      "data": "2026-11-18",
+      "hash_texto": "15d5e5e62aaffdd3363aff7804c91f6704dab31f7662e37bed2f027d7f469a1b"
     }
   },
   "estado": "aprovada",
@@ -147,10 +152,33 @@
       "evento": "originalidade (definição nova): classico",
       "agente": "originalidade",
       "nota": "mantém-se: facto e forma habituais em quizzes"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "etiqueta caminho_leve retirada (caminho leve abandonado)",
+      "agente": "orquestrador",
+      "nota": "advogado do diabo aprovou em 18/11; texto inalterado"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte healthline.com"
     }
   ],
   "etiquetas": [
-    "caminho_leve",
     "classico"
   ],
   "options_lock": "818377c0165a7d7847b18dd188eb5d7d72c31fbb51d7ce4eaead3137d85021e6"

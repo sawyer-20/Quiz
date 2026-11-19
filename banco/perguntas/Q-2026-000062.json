@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000062",
   "topic": "Space",
-  "subtopic": "missões",
+  "subtopic": "Programa Voyager",
   "text": {
     "pt-PT": {
       "question": "Qual destas sondas da NASA foi lançada a 20 de agosto de 1977?",
@@ -11,11 +11,21 @@
         "Mariner 10",
         "Voyager 1"
       ],
-      "explanation": "Apesar do número, a Voyager 2 partiu primeiro, a 20 de agosto de 1977. A Voyager 1 foi lançada a 5 de setembro, mas seguiu uma trajetória mais rápida e chegou antes a Júpiter e a Saturno."
+      "explanation": "A Voyager 2, apesar do número, partiu primeiro, a 20 de agosto de 1977. A Voyager 1 foi lançada a 5 de setembro, mas chegou antes a Júpiter e a Saturno."
+    },
+    "en-US": {
+      "question": "Which of these NASA probes was launched on August 20, 1977?",
+      "options": [
+        "Pioneer 11",
+        "Voyager 2",
+        "Mariner 10",
+        "Voyager 1"
+      ],
+      "explanation": "Voyager 2, despite its number, launched first, on August 20, 1977. Voyager 1 was launched on September 5 but reached Jupiter and Saturn first."
     }
   },
   "correct": 1,
-  "difficulty": 2,
+  "difficulty": 3,
   "valid_until": null,
   "daily_eligible": true,
   "sources": [
@@ -49,16 +59,53 @@
       "excerto": "Launched in 1977 (September 5 for Voyager 1 (V1) and August 20 for Voyager 2 (V2), whose trajectory took it past Jupiter after Voyager 1)",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/20_August",
+      "dominio": "esa.int",
+      "titulo": "20 August (ESA)",
+      "nivel": 1,
+      "excerto": "On 20 August 1977, NASA's Voyager 2 spacecraft was launched from Cape Canaveral aboard a Titan-Centaur rocket.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
-    "advogado": null,
-    "editor": null
+    "verificador": {
+      "resposta_texto": "Voyager 2",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "esa.int",
+      "data": "2026-11-18",
+      "notas": "A ESA data o lançamento da Voyager 2 a 20/08/1977. A pesquisa (Britannica, que deu 403 no leitor) indica a Voyager 1 a 5/09/1977, por isso fica excluída. Mariner 10 e Pioneer 11 foram lançadas em 1973: dado de conhecimento geral, que não verifiquei nesta sessão, mas as duas não podem ser a de 1977 se a Voyager 2 for a de 20 de agosto de 1977 (e a pergunta admite uma só).",
+      "hash_texto": "142cc8e6f0f275e6e5baa4b1150d7aa2f4a75efd7905c7b040f692ce4bc4995e"
+    },
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-19",
+      "notas": "Todas as afirmações da explicação têm apoio: Voyager 2 partiu primeiro a 20/8/1977, Voyager 1 a 5/9, e a Voyager 1 chegou antes a Júpiter e a Saturno (Smithsonian NASM). «Apesar do número» é a leitura natural do facto (V1 lançada depois, segundo o JPL). Outras opções (Pioneer 11, Mariner 10) são de outras datas; sem segunda resposta defensável. | páginas lidas pelo advogado: https://airandspace.si.edu/stories/editorial/where-are-voyagers-now (apoia: Voyager 1 a 5 de setembro e Voyager 2 a 20 de agosto de 1977; Júpiter março de 1979 (V1) e julho de 1979 (V2); Saturno novembro de 1980 (V1) e agosto de 1981 (V2)), https://www.jpl.nasa.gov/missions/voyager-1/ (apoia: lançamento da Voyager 1 a 5 de setembro de 1977 e «lançada pouco depois da gémea Voyager 2»), https://www.esa.int/Science_Exploration/Space_Science/20_August (abre em esa.int/articles/about-us/directorates/science/20-august; apoia: Voyager 2 lançada a 20 de agosto de 1977 em Cabo Canaveral), https://science.nasa.gov/mission/voyager/voyager-2/ (abriu, mas a pesquisa por «August 20» e «launched» não encontrou a data; não a conto como apoio de nenhuma afirmação)"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Só a explicação: retirei «seguiu uma trajetória mais rápida» (nenhuma fonte o diz). Enunciado e opções intactos. Cerca de 155 caracteres.",
+      "data": "2026-11-19"
+    },
+    "tradutor": {
+      "data": "2026-11-19",
+      "notas": "Pergunta e opções mantidas tal como estavam. Datas em formato americano (August 20, September 5), sem ano na segunda, como no pt-PT. Cerca de 143 caracteres, 2 frases."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "As datas (20 de agosto e 5 de setembro de 1977) e a ordem de chegada a Júpiter e a Saturno coincidem. As opções são idênticas e estão pela mesma ordem. «Qual» é neutro, por isso não há pista gramatical. A explicação tem 2 frases em cada idioma.",
+      "data": "2026-11-19",
+      "hash_texto": "d4a29f012aab409f765bb94f29793e114764261104419c76b7217b5cb389125e"
+    }
   },
-  "estado": "rejeitada",
-  "motivo_rejeicao": "quota de clássicos do lote (regra 16): a pergunta ficou em espera sem chegar a ser verificada; o limite do Andre era 4 clássicos",
-  "lote": "lote-2026-11-12-bilingue",
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-12",
   "historico": [
     {
@@ -78,9 +125,92 @@
       "evento": "rejeitada",
       "agente": "orquestrador",
       "nota": "quota de clássicos do lote (regra 16): a pergunta ficou em espera sem chegar a ser verificada; o limite do Andre era 4 clássicos"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "originalidade reavaliada (definição de 17/11): original",
+      "agente": "originalidade",
+      "nota": "original (definição de 17/11), com a ressalva de que a forma pode existir fora do alcance da pesquisa. Entra no lote 5 como retoma única (regra 15), sem repetir a pesquisa."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte esa.int"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reaberta como retoma única do lote 5 (originalidade reavaliada com a definição de 17/11)",
+      "agente": "orquestrador",
+      "nota": "sem repetir a pesquisa; segue para o verificador cego, advogado, editor, tradutor e conferente"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Datas no formato americano (August 20, 1977; September 5). 'chegou antes' traduzido como 'reached ... first'."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "devolvida a em_verificacao",
+      "agente": "orquestrador",
+      "nota": "auditoria de afirmações (regra 29): afirmação sem fonte ou só em Wikipédia; explicação corrigida pelo editor; a repetir advogado, tradutor e conferente"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Pergunta e opções mantidas tal como estavam. Datas em formato americano (August 20, September 5), sem ano na segunda, como no pt-PT. Cerca de 143 caracteres, 2 frases."
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": [
-    "classico"
-  ]
+  "etiquetas": [],
+  "options_lock": "e2ef3224f81beeb7b8f189083f92735402a09f49ffb0928b65c752346de9d4df"
 }

@@ -1,27 +1,27 @@
 {
   "id": "Q-2026-000036",
   "topic": "Science",
-  "subtopic": "física do quotidiano",
+  "subtopic": "Física térmica: efeito Leidenfrost",
   "text": {
     "pt-PT": {
       "question": "Numa chapa muito acima dos 100 °C, uma gota de água desliza sem tocar no metal. O que a mantém afastada?",
       "options": [
-        "Bolhas de ar que ficam presas na base da gota",
+        "A tensão superficial, que repele o calor do metal",
         "Uma película de óxido que se forma na superfície do metal",
         "Uma almofada de vapor formada pela própria gota",
-        "A tensão superficial, que repele o calor do metal"
+        "Bolhas de ar que ficam presas na base da gota"
       ],
-      "explanation": "Uma almofada de vapor formada pela própria gota: é o efeito Leidenfrost. A base da gota evapora e o vapor forma uma película fina e isoladora, sobre a qual a gota levita e perde calor devagar."
+      "explanation": "Uma almofada de vapor formada pela própria gota: é o efeito Leidenfrost. A gota evapora e o vapor forma uma película fina e isoladora, sobre a qual a gota levita e evapora devagar."
     },
     "en-US": {
-      "question": "On a metal plate far above 100 °C, a water droplet glides without touching the metal. What keeps it apart?",
+      "question": "On a hot plate far above 100 °C, a water droplet glides without touching the metal. What keeps it apart?",
       "options": [
-        "Air bubbles trapped under the droplet",
-        "An oxide film forming on the metal surface",
+        "Surface tension, which repels heat from the metal",
+        "An oxide film that forms on the metal's surface",
         "A cushion of vapor formed by the droplet itself",
-        "Surface tension, which repels heat from the metal"
+        "Air bubbles trapped under the droplet"
       ],
-      "explanation": "A cushion of vapor formed by the droplet itself: this is the Leidenfrost effect. The underside of the droplet evaporates, and the vapor forms a thin insulating layer on which the droplet levitates and loses heat slowly."
+      "explanation": "A cushion of vapor formed by the droplet itself: this is the Leidenfrost effect. The droplet evaporates and the vapor forms a thin, insulating layer on which the droplet levitates and slowly evaporates."
     }
   },
   "correct": 2,
@@ -30,8 +30,8 @@
   "daily_eligible": true,
   "sources": [
     "https://arxiv.org/pdf/1202.2157",
-    "https://news.mit.edu/2021/boiling-droplets-oily-surface-0812",
-    "https://www.discovermagazine.com/what-makes-droplets-dance-around-a-hot-surface-and-then-fly-away-18503"
+    "https://www.discovermagazine.com/what-makes-droplets-dance-around-a-hot-surface-and-then-fly-away-18503",
+    "https://www.nature.com/articles/s41467-021-21981-z"
   ],
   "fontes": [
     {
@@ -53,15 +53,6 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://news.mit.edu/2021/boiling-droplets-oily-surface-0812",
-      "dominio": "mit.edu",
-      "titulo": "Why boiling droplets can race across hot oily surfaces | MIT News",
-      "nivel": 1,
-      "excerto": "A droplet of boiling water on a hot surface will sometimes levitate on a thin vapor film, a well-studied phenomenon called the Leidenfrost effect. Because it is suspended on a cushion of vapor, the droplet can move across the surface with little friction.",
-      "consultada_em": "2026-11-11",
-      "papel": "verificador"
-    },
-    {
       "url": "https://arxiv.org/abs/1202.2157",
       "dominio": "arxiv.org",
       "titulo": "The Geometry of the Vapor Layer Under a Leidenfrost Drop",
@@ -69,6 +60,15 @@
       "excerto": "liquid drops deposited on a hot surface levitate on a thin vapor cushion fed by evaporation of the liquid.",
       "consultada_em": "2026-11-11",
       "papel": "advogado"
+    },
+    {
+      "url": "https://www.nature.com/articles/s41467-021-21981-z",
+      "dominio": "nature.com",
+      "titulo": "Leidenfrost droplet trampolining (Nature Communications, 2021)",
+      "nivel": 1,
+      "excerto": "A liquid droplet dispensed over a sufficiently hot surface does not make contact but instead hovers on a cushion of its own self-generated vapor.",
+      "consultada_em": "2026-11-19",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
@@ -76,30 +76,32 @@
       "resposta_texto": "Uma almofada de vapor formada pela própria gota",
       "concorda": true,
       "confianca": "alta",
-      "dominio": "mit.edu",
-      "data": "2026-11-11",
-      "notas": "MIT (universidade): gota levita sobre almofada de vapor. Britannica, APS, ScienceDirect 403."
+      "dominio": "nature.com",
+      "data": "2026-11-19",
+      "notas": "Li o artigo. Diz que a gota paira sobre uma almofada do seu próprio vapor e que o equilíbrio se dá entre a gravidade, a tensão superficial e a força de elevação do vapor que escoa. A tensão superficial não «repele o calor» e só intervém no equilíbrio da forma da gota. Uma película de óxido e bolhas de ar presas não são o mecanismo descrito em nenhum ponto. Nota: o enunciado diz «muito acima dos 100 °C»; o efeito só ocorre acima da temperatura de Leidenfrost, que não verifiquei no artigo e não afeta a escolha.",
+      "hash_texto": "33d40ddbf59f2df82324edb161a45a650e25a8eb3348dc6ea3d028999699a8a9"
     },
     "advogado": {
       "aprovado": true,
-      "notas": "Advogado: Leidenfrost consensual; distratores sem apoio.",
-      "data": "2026-11-11"
+      "data": "2026-11-19",
+      "notas": "A página da Nature (s41467-021-21981-z) devolveu 429, por isso não a conto como lida. As duas fontes abertas bastam para todas as afirmações. As opções erradas (tensão superficial, óxido, bolhas de ar) não têm apoio nas fontes. | páginas lidas pelo advogado: https://arxiv.org/pdf/1202.2157 (Burton et al., Univ. Chicago: \"Leidenfrost drops levitate on a thin, insulating cushion of evaporated vapor\", 'fed by evaporation of the liquid', 'sudden increase in the drop lifetime': apoia almofada de vapor, película isoladora, levitação e evaporação lenta), https://www.discovermagazine.com/what-makes-droplets-dance-around-a-hot-surface-and-then-fly-away-18503 (\"the released vapor forms an insulating layer around the still-liquid droplet... slows the boiling\"; efeito Leidenfrost; superfície mais quente que o ponto de ebulição)"
     },
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "explicação reordenada (editor tinha posto um ponto final numa opção; mantido o texto original das opções)",
-      "data": "2026-11-11"
+      "notas": "Texto igual: 2 frases, cerca de 190 caracteres. Opções na nova ordem pedida (certa: índice 2). Dificuldade mantida.",
+      "data": "2026-11-19"
     },
     "tradutor": {
-      "data": "2026-11-11",
-      "notas": "°C kept; American spelling."
+      "data": "2026-11-19",
+      "notas": "Certa = índice 2. Unidade '100 °C' mantida (sem conversão). 'Chapa' -> 'hot plate' (o pt-PT diz só 'chapa', mas o contexto é de superfície quente). Grafia americana 'vapor'. 'Película' traduzida por 'film' na opção 1 e 'layer' na explicação, como no pt-PT ('película')."
     },
     "conferente": {
       "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
+      "notas": "Equivalentes nas duas línguas. A palavra «gota/droplet» repete-se na opção certa e na opção 3 nos dois idiomas, por isso o eco é simétrico e não cria pista num só idioma. O verbo singular («mantém»/«keeps») contra a opção 3 no plural também existe nas duas línguas. «Chapa» e «hot plate» são equivalentes. Limites cumpridos.",
+      "data": "2026-11-19",
+      "hash_texto": "f14f747b88962558bb33e84f47d5f9f42c58f7e150d9a7b5a1f2bdc9332275cc"
     }
   },
   "estado": "aprovada",
@@ -178,7 +180,97 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte nature.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "`sources` sincronizado com `fontes` (fonte do verificador mudou na repetição com hash)"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "devolvida a em_verificacao",
+      "agente": "orquestrador",
+      "nota": "auditoria de afirmações (regra 29): afirmação sem fonte ou só em Wikipédia; explicação corrigida pelo editor; a repetir advogado, tradutor e conferente"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Pergunta e opções inalteradas. «Efeito Leidenfrost» mantido como «Leidenfrost effect»."
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (2.º ciclo, auditoria de afirmações): interpretacao: «a gota ... perde calor devagar» não está nas fontes e inverte o sentido: a gota recebe calor da chapa e o filme isola-a"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Certa = índice 2. Unidade '100 °C' mantida (sem conversão). 'Chapa' -> 'hot plate' (o pt-PT diz só 'chapa', mas o contexto é de superfície quente). Grafia americana 'vapor'. 'Película' traduzida por 'film' na opção 1 e 'layer' na explicação, como no pt-PT ('película')."
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte nature.com"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "`sources` sincronizado com `fontes`"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "options_lock": "ed3ccbd9d1bfb953d8f6e598c9155e83f3f268c454edc21aaee00867fd4a0b58"
+  "options_lock": "5f7e5503aef207e5a27db47b896d5ed69a53784e5c732340b64cffa35cf13a47"
 }

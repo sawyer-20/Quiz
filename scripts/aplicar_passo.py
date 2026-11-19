@@ -5,7 +5,6 @@ Nunca escreve texto factual: copia o que o agente devolveu. Uso:
 
   aplicar_passo.py verif        <id> <json>   verificador às cegas (uma pergunta do seu JSON)
   aplicar_passo.py adv          <id> <json>   advogado do diabo (só regista se aprovado)
-  aplicar_passo.py leve         <id>          caminho leve (dif. 1, sem advogado; teste do lote 4)
   aplicar_passo.py reformular   <id> <json>   aplica a reformulação sugerida (volta ao verificador)
   aplicar_passo.py editor       <id> <json>   editor (só estilo: opções e ordem não mudam)
   aplicar_passo.py traducao     <id> <json>   tradutor (escreve o en-US)
@@ -26,7 +25,7 @@ from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(RAIZ / "scripts"))
-from validar import dominio_registavel, normalizar  # noqa: E402
+from validar import dominio_registavel, normalizar, impressao_cego, impressao_completa  # noqa: E402
 
 HOJE = date.today().isoformat()
 
@@ -72,15 +71,6 @@ def main():
         print(f"{pid}: originalidade {veredicto}")
         return 0
 
-    if cmd == "leve":
-        if q.get("difficulty") != 1 or q.get("estado") != "em_verificacao" or not q["verificacao"].get("verificador"):
-            print("RECUSADO: o caminho leve exige dificuldade 1, em_verificacao e verificador às cegas já registado"); return 3
-        q["verificacao"]["caminho_leve"] = True
-        q["etiquetas"] = sorted(set(q.get("etiquetas", [])) | {"caminho_leve"})
-        ev(q, "caminho leve (sem advogado do diabo)", "orquestrador", sys.argv[3])
-        gravar(f, q); print("CAMINHO LEVE", pid)
-        return 0
-
     if cmd in ("rejeitar", "suspender"):
         agente, motivo = sys.argv[3], sys.argv[4]
         if cmd == "rejeitar":
@@ -113,13 +103,17 @@ def main():
             q["fontes"].append({"url": fonte["url"], "dominio": dom, "titulo": fonte["titulo"], "nivel": fonte["nivel"],
                                 "excerto": fonte["excerto"][:300], "consultada_em": HOJE, "papel": "verificador"})
             q["verificacao"]["verificador"] = {"resposta_texto": certa, "concorda": True, "confianca": r["confianca"],
-                                               "dominio": dom, "data": HOJE, "notas": r.get("notas", "")}
+                                               "dominio": dom, "data": HOJE, "notas": r.get("notas", ""),
+                                               "hash_texto": impressao_cego(q)}
             ev(q, "verificada às cegas", "verificador-cego", f"confiança {r['confianca']}; fonte {dom}")
             res = f"PASSA (confiança {r['confianca']}, {dom}, nível {fonte['nivel']})"
         gravar(f, q); print(res)
         return 0
 
     if cmd == "adv":
+        if r.get("aprovado") and not [u for u in (r.get("paginas_lidas") or []) if isinstance(u, str) and u.startswith("http")]:
+            print("RECUSADO (regra 25): o advogado aprovou sem listar em `paginas_lidas` as páginas que ele próprio abriu; repete o passo")
+            return 3
         if not r.get("aprovado"):
             print("NÃO APROVADO — decidir à parte (reformulação, ou rejeitar se já houve um ciclo)")
             return 3
@@ -129,7 +123,8 @@ def main():
                 q["fontes"].append({"url": fo["url"], "dominio": dominio_registavel(fo["url"]), "titulo": fo["titulo"],
                                     "nivel": fo["nivel"], "excerto": fo["excerto"][:300], "consultada_em": HOJE,
                                     "papel": "advogado"})
-        q["verificacao"]["advogado"] = {"aprovado": True, "notas": r.get("notas", ""), "data": HOJE}
+        q["verificacao"]["advogado"] = {"aprovado": True, "data": HOJE,
+                                        "notas": (r.get("notas", "") + " | páginas lidas pelo advogado: " + ", ".join(r["paginas_lidas"]))[:2000]}
         ev(q, "aprovada pelo advogado do diabo", "advogado-do-diabo")
         gravar(f, q); print("ADVOGADO APROVA")
         return 0
@@ -200,7 +195,8 @@ def main():
             ev(q, "conferência recusada", "conferente", json.dumps(r.get("problemas", []), ensure_ascii=False)[:500])
             q["verificacao"]["conferente"] = {"aprovado": False, "notas": r.get("notas", ""), "data": HOJE}
             gravar(f, q); print("CONFERENTE NÃO APROVA — decidir:", r.get("problemas")); return 3
-        q["verificacao"]["conferente"] = {"aprovado": True, "notas": r.get("notas", ""), "data": HOJE}
+        q["verificacao"]["conferente"] = {"aprovado": True, "notas": r.get("notas", ""), "data": HOJE,
+                                          "hash_texto": impressao_completa(q)}
         ev(q, "conferida (pt-PT = en-US)", "conferente")
         gravar(f, q); print("CONFERENTE APROVA")
         return 0

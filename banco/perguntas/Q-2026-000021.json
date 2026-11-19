@@ -33,8 +33,8 @@
   "daily_eligible": true,
   "sources": [
     "https://ciencia.ucp.pt/ws/files/94941997/94898216.pdf",
-    "https://repositorio-aberto.up.pt/bitstream/10216/139181/2/525421.pdf",
-    "https://www.portugal.gov.pt/pt/gc23/comunicacao/noticia?i=maos-que-falam-hoje-e-dia-nacional-da-lingua-gestual-portuguesa"
+    "https://www.portugal.gov.pt/pt/gc23/comunicacao/noticia?i=maos-que-falam-hoje-e-dia-nacional-da-lingua-gestual-portuguesa",
+    "https://mediacoes.ese.ips.pt/index.php/mediacoesonline/article/download/297/pdf/1829"
   ],
   "fontes": [
     {
@@ -56,15 +56,6 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://repositorio-aberto.up.pt/bitstream/10216/139181/2/525421.pdf",
-      "dominio": "up.pt",
-      "titulo": "A educação de surdos no Brasil no século XIX e o legado de países europeus (Educação em Questão, 2021) - Repositório Aberto da Universidade do Porto",
-      "nivel": 1,
-      "excerto": "Em 1823, ocorreu uma mudança no cenário lusitano por conta de um convite feito por D. João VI ao professor sueco Pedro Aron Borg. [...] Pedro Aron Borg fundou em 1823 o Real Instituto de Surdos-Mudos e Cegos, em Lisboa",
-      "consultada_em": "2026-11-10",
-      "papel": "verificador"
-    },
-    {
       "url": "https://www.portugal.gov.pt/pt/gc23/comunicacao/noticia?i=maos-que-falam-hoje-e-dia-nacional-da-lingua-gestual-portuguesa",
       "dominio": "portugal.gov.pt",
       "titulo": "Mãos que falam: hoje é Dia Nacional da Língua Gestual Portuguesa (XXIII Governo)",
@@ -72,16 +63,26 @@
       "excerto": "embora o vocabulário da língua gestual portuguesa e da sueca sejam diferentes, o alfabeto das duas línguas revela a sua origem comum",
       "consultada_em": "2026-11-11",
       "papel": "advogado"
+    },
+    {
+      "url": "https://mediacoes.ese.ips.pt/index.php/mediacoesonline/article/download/297/pdf/1829",
+      "dominio": "ips.pt",
+      "titulo": "Mediações – Revista Online da ESE do Instituto Politécnico de Setúbal, vol. 9, n.º 1 (2021)",
+      "nivel": 1,
+      "excerto": "educação de surdos em Portugal começou formalmente em 1823 com a fundação do Real Instituto de Surdos-Mudos e Cegos pelo professor sueco Per Aron Borg a pedido do Rei D. João VI e da sua filha a Princesa Isabel Maria.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
     "verificador": {
       "resposta_texto": "Suécia",
       "concorda": true,
-      "confianca": "alta",
-      "dominio": "up.pt",
-      "data": "2026-11-10",
-      "notas": "Artigo académico em repositório universitário (n1); mediacoes.ese.ips.pt também. Recusadas: sigarra.up.pt 403, repositorio.ipcb.pt 403."
+      "confianca": "media",
+      "dominio": "ips.pt",
+      "data": "2026-11-18",
+      "notas": "Artigo académico aberto e lido. Confirma Borg sueco e fundação em 1823. Diz também que Borg já tinha fundado o instituto de Estocolmo (o texto escreve «1909», erro evidente por 1809). Duas leituras possíveis de «contratado por D. João VI»: o artigo diz «a pedido do Rei D. João VI e da sua filha». Uma única fonte aberta por mim (a pesquisa mostrou várias outras a concordar, sem as ler); sem fonte contrária para Espanha, França ou Inglaterra.",
+      "hash_texto": "cfdeefd945c840c58a5a9473c74e359e57016a00479c77d6c8324aaceff0aef5"
     },
     "advogado": {
       "aprovado": true,
@@ -101,8 +102,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
+      "notas": "A atribuição «Segundo o Governo português» e «According to the Portuguese government» coincidem. Opções equivalentes, sem pista de género ou número.",
+      "data": "2026-11-18",
+      "hash_texto": "96b559f79fe3677890c5c1110600151e40aa638da671bf27e694ab6644a73b55"
     }
   },
   "estado": "aprovada",
@@ -181,6 +183,24 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte ips.pt"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "`sources` sincronizado com `fontes` (fonte do verificador mudou na repetição com hash)"
     }
   ],
   "options_lock": "b599a691e8aa0302c0f03ebf61f8d8c5bd0a1aa7c0e35451fa34b27a7aa91225"

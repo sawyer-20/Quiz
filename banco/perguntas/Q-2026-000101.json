@@ -1,0 +1,153 @@
+{
+  "id": "Q-2026-000101",
+  "topic": "General Knowledge",
+  "subtopic": "Geografia e exploração",
+  "text": {
+    "pt-PT": {
+      "question": "Em 1520, Fernão de Magalhães chamou «Pacífico» ao oceano que atravessava. Que característica do mar o levou a esse nome?",
+      "options": [
+        "A ausência de ilhas e de terra à vista",
+        "A temperatura amena da água",
+        "A calma das águas",
+        "A paz feita com os povos das costas vizinhas"
+      ],
+      "explanation": "A calma das águas. Magalhães entrou no oceano em novembro de 1520 e encontrou águas invulgarmente calmas; chamou-lhe «pacífico», que significa tranquilo, e o nome ficou para o maior oceano do planeta."
+    },
+    "en-US": {
+      "question": "In 1520, Ferdinand Magellan named the ocean he was crossing \"Pacific.\" What feature of the sea led him to that name?",
+      "options": [
+        "No islands or land in sight",
+        "The mild water temperature",
+        "The calmness of its waters",
+        "Peace made with the peoples of nearby coasts"
+      ],
+      "explanation": "The calmness of its waters. Magellan entered the ocean in November 1520 and found unusually calm waters; he called it \"pacific,\" meaning peaceful, and the name stuck for the planet's largest ocean."
+    }
+  },
+  "correct": 2,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://oceanservice.noaa.gov/facts/pacific.html",
+    "https://www.history.com/this-day-in-history/november-28/magellan-reaches-the-pacific"
+  ],
+  "fontes": [
+    {
+      "url": "https://oceanservice.noaa.gov/facts/pacific.html",
+      "dominio": "noaa.gov",
+      "titulo": "How did the Pacific Ocean get its name? - NOAA National Ocean Service",
+      "nivel": 1,
+      "excerto": "Explorer Ferdinand Magellan named the Pacific Ocean in the 16th century. [...] He called this body of water pacific, due to the calmness of the water at the time ('pacific' means peaceful).",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.history.com/this-day-in-history/november-28/magellan-reaches-the-pacific",
+      "dominio": "history.com",
+      "titulo": "Ferdinand Magellan reaches the Pacific - HISTORY",
+      "nivel": 2,
+      "excerto": "crossing waters so strangely calm that the ocean was named “Pacific,” from the Latin word pacificus, meaning “tranquil.”",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://oceanofisica.ulpgc.es/efemeride/magellan-enters-pacific",
+      "dominio": "ulpgc.es",
+      "titulo": "Magellan Enters the Pacific – A New Ocean Named for Its Calm (Oceanofísica, Universidad de Las Palmas de Gran Canaria)",
+      "nivel": 2,
+      "excerto": "Struck by the unexpected calmness of the sea after the treacherous storms of the Atlantic and the strait, Magellan named it the \"Mar Pacífico\" – the Peaceful Sea.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "A calma das águas",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "ulpgc.es",
+      "data": "2026-11-18",
+      "notas": "Páginas abertas e lidas: ULPGC (nível 2, página de divulgação universitária) e EBSCO Research Starters (Magellan, 2024), que cita: «May the ocean be always as calm and benevolent as it is today. In this hope, I name it the Mar Pacifico [peaceful sea].» Esta citação é atribuída a Magellan sem fonte primária visível, por isso o grau de confiança é média. Exclusão das outras opções: nenhuma fonte fala de paz com povos costeiros, nem de temperatura da água. A ausência de ilhas não é motivo do nome (a página ULPGC liga o nome à calma do mar, e a travessia afastou-os das ilhas, mas isso foi consequência, não razão). Não consegui abrir a Britannica (403). A fonte primária seria Pigafetta (trad. Stanley, 1874), que não abri. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): A formulação «A calma das águas» e a «temperatura amena» ou «ausência de ilhas» são distintas: só a calma vem apoiada nas fontes. A calma foi relativa à tempestade do estreito (impressão circunstancial, como diz a própria página).",
+      "hash_texto": "ebe791dac5129595688beb409769b60dd4713cbd53d4533d4e710b21cb343a03"
+    },
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "A NOAA (nível 1) diz que Magalhães lhe chamou «pacific» pela calma da água e que a frota entrou no oceano em novembro de 1520. A History.com diz «strangely calm» e «tranquil». A pesquisa encontrou ainda o Britannica (resumo) e o relato de Pigafetta, que fala em ausência de tempestade, em linha com a calma. Os distratores («ausência de ilhas», «temperatura», «paz com povos») não têm apoio. A explicação afirma o motivo como facto, o que é consistente nas fontes que abri. A página da ulpgc, do verificador, não a abri. A calma foi relativa e circunstancial, mas a NOAA diz «at the time», e a explicação diz «invulgarmente calmas», o que a History.com suporta. Não derrubei a pergunta. | páginas lidas pelo advogado: https://oceanservice.noaa.gov/facts/pacific.html, https://www.history.com/this-day-in-history/november-28/magellan-reaches-the-pacific"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado inalterado (já cabe nos 120 caracteres). Só a explicação foi reorganizada para começar pela resposta. Dificuldade e subtema mantidos.",
+      "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "Correta = índice 2. Fernão de Magalhães -> Ferdinand Magellan (forma inglesa corrente)."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Facto, datas e opções equivalentes. Os distratores mantêm o mesmo grau de plausibilidade nos dois idiomas.",
+      "data": "2026-11-18",
+      "hash_texto": "a5f98cb415c2e0ba3e929e4b1159647086da5ba975849b24d672033ebca34817"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
+  "criada_em": "2026-11-18",
+  "historico": [
+    {
+      "data": "2026-11-18",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Ângulo: a origem do nome pela razão (calma), não pelo 'quem' ou 'qual o maior oceano'; facto pouco clássico em quiz como pergunta de causa, mas conhecido em manuais: tratar como não clássico, dificuldade 2. O nome «Pacífico» no enunciado dá pista parcial (pacífico = calmo); aceitável para nível 2. Distratores: 'amena temperatura' e 'ausência de ilhas' são claramente contrariados pelas fontes (a rota demorou 99 dias e passou por Guam e Cebu); 'paz com os povos' não consta em nenhuma. Britannica (hoje e kids) devolveu 403 e o LOC não abriu, por isso a segunda fonte é History.com (nível 2, imprensa/divulgação de qualidade); o verificador deve procurar uma fonte independente de nível 1 (Britannica, LOC, museu marítimo). NOAA diz que Magalhães nomeou o oceano; Balboa tinha-lhe chamado Mar del Sur antes, mas o nome 'Pacífico' é de Magalhães segundo a NOAA. Não há datas precisas além de 1520 (novembro 1520, concordante nas duas fontes). Tema global; fontes pt-PT não aplicáveis."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Nenhuma das 5 pesquisas (pt e en, incluindo termos de Sporcle, Kahoot, Quizlet e ProProfs) devolveu uma pergunta de quiz com este enunciado, a sua frase-chave ou o mesmo conjunto de opções. Só apareceram artigos de referência e páginas de história. O facto é muito conhecido e circula em artigos, mas o enunciado («Em 1520... Que característica do mar o levou a esse nome?») e as opções (ausência de ilhas, calma das águas, paz com os povos, temperatura amena) não se encontraram em nenhum quiz. Ressalva: o motor de pesquisa não indexa bem páginas de quiz, por isso a ausência de provas não é absoluta; se o Andre achar que «porque é que Magalhães lhe chamou Pacífico?» é a forma quase única de perguntar este facto, poderia passar a classico, mas não há prova de que apareça como pergunta de quiz. | provas: https://www.infopedia.pt/$oceano-pacifico (artigo de referência: o nome vem da placidez da"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte ulpgc.es"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Correta = índice 2. Fernão de Magalhães -> Ferdinand Magellan (forma inglesa corrente)."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "etiquetas": [],
+  "options_lock": "baa9421199667c0dd801d7757371f3ab801068842b0e2591e0ace54945809f5b"
+}

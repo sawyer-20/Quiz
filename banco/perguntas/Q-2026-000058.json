@@ -11,7 +11,17 @@
         "Com foles que as fazem vibrar",
         "Com martelos que as percutem"
       ],
-      "explanation": "Bartolomeo Cristofori, de Ppádua, criou em Florença, na corte dos Médicis, uma mecânica de martelos que percutem as cordas em vez de as beliscarem. Isso permitia tocar suave e forte, daí o nome «piano e forte»."
+      "explanation": "Com martelos que percutem as cordas. Bartolomeo Cristofori, de Pádua, criou em Florença, na corte dos Médicis, esta mecânica, que permitia tocar suave e forte, daí o nome «piano e forte»."
+    },
+    "en-US": {
+      "question": "The harpsichord plucks its strings. How does the piano, invented by Cristofori, sound its strings?",
+      "options": [
+        "With a bow that rubs them",
+        "With the finger, which plucks them directly",
+        "With bellows that make them vibrate",
+        "With hammers that strike them"
+      ],
+      "explanation": "With hammers that strike the strings. Bartolomeo Cristofori, from Padua, created this mechanism in Florence, at the Medici court; it allowed soft and loud playing, hence the name \"piano e forte.\""
     }
   },
   "correct": 3,
@@ -30,16 +40,53 @@
       "excerto": "Bartolomeo Cristofori, a native of Padua, invented a new type of action using hammers that struck the strings (rather than plucking them, as the harpsichord did) and was capable of playing soft and loud (piano e forte).",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.lindahall.org/about/news/scientist-of-the-day/bartolomeo-cristofori/",
+      "dominio": "lindahall.org",
+      "titulo": "Bartolomeo Cristofori - Linda Hall Library, Scientist of the Day",
+      "nivel": 2,
+      "excerto": "In the harpsichord, the strings are plucked with a small quill; in Cristofori's pianoforte, the strings are struck with a small leather covered hammer.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
-    "advogado": null,
-    "editor": null
+    "verificador": {
+      "resposta_texto": "Com martelos que as percutem",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "lindahall.org",
+      "data": "2026-11-18",
+      "notas": "Li a página com o leitor do motor. A página da Met (metmuseum.org) devolveu 429, por isso a única fonte aberta é a Linda Hall. Foles e arco não aparecem como mecanismo do piano, e o dedo a beliscar diretamente é o cravo (a pergunta já o diz no enunciado). Só abri uma fonte de nível 2, mas o facto é elementar.",
+      "hash_texto": "8dabc9c22b3e7b2bf243ba9342b0a319a3574693a06058b1f6659e37b2796eee"
+    },
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "Abri as duas fontes e confirmei os excertos. «De Pádua»: si.edu diz «a native of Padua» e a Linda Hall diz «originally from Padua». «Em Florença, na corte dos Médicis»: si.edu diz que a invenção foi documentada «in the court of the Medici family in Florence in the year 1700», e a Linda Hall que ele foi recrutado para Florença pelo príncipe Ferdinando de Médicis. Há duas fontes de acordo e a explicação não dá datas nem números. «Piano e forte» e «suave e forte»: as duas fontes dizem que o instrumento tocava piano e forte. A ligação «daí o nome» é uma inferência ligeira, mas a Linda Hall diz que o instrumento produzia «piano e forte» e que foi logo chamado pianoforte, pelo que a aceito. Distratores: nenhum tem apoio sério. O arco não se aplica ao piano, os foles são do órgão e o dedo direto é da harpa, não do piano nem do cravo. O cravo usa uma palheta (quill) e o piano usa martelos, como a Linda Hall confirma. Pistas: o enunciado contrasta o cravo que belisca com o piano, o que elimina de forma natural a opção do dedo que belisca. Para dificuldade 1 é aceitável e não cria uma segunda resposta. O facto é estável, sem prazo. Não há tema sensível. A explicação tem 2 frases e menos de 300 caracteres. Não consegui derrubar a pergunta. | páginas lidas pelo advogado: https://folklife-media.si.edu/docs/festival/program-book-articles/FESTBK2000_40.pdf, https://www.lindahall.org/about/news/scientist-of-the-day/bartolomeo-cristofori/"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado inalterado. Gralha corrigida: «Ppádua» passou a «Pádua» (não consultei a fonte; a grafia é a do nome da cidade). Explicação reordenada para começar pela resposta, sem factos novos. Dificuldade e subtema mantidos.",
+      "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "Opção 1 (dedo) mantida como no pt-PT, que a repete em parte a pergunta (belisca); sem alterações. 'piano e forte' mantido em italiano, entre aspas, como no pt-PT. Padua e Florence na forma inglesa; Bartolomeo Cristofori com a forma original."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Opções equivalentes uma a uma: fricciona/rubs, belisca/plucks, foles/bellows, martelos/hammers. A pista do enunciado (o cravo belisca) existe nos dois idiomas e descarta a opção 1 da mesma forma. Explicação com 2 frases, com «piano e forte» nos dois.",
+      "data": "2026-11-18",
+      "hash_texto": "59a465043820e28db02e4665173bc4fc1bcff6c79866809e84f6e93875c44df2"
+    }
   },
-  "estado": "rejeitada",
-  "motivo_rejeicao": "quota de clássicos do lote (regra 16: o lote já tem 4 clássicos; o limite do Andre é 4)",
-  "lote": "lote-2026-11-12-bilingue",
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-12",
   "historico": [
     {
@@ -59,9 +106,68 @@
       "evento": "rejeitada",
       "agente": "orquestrador",
       "nota": "quota de clássicos do lote (regra 16: o lote já tem 4 clássicos; o limite do Andre é 4)"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "originalidade reavaliada (definição de 17/11): original",
+      "agente": "originalidade",
+      "nota": "original (definição de 17/11): não há pergunta de quiz com este enunciado nem estas opções. Entra no lote 5 como retoma única (regra 15), sem repetir a pesquisa."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte lindahall.org"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reaberta como retoma única do lote 5 (originalidade reavaliada com a definição de 17/11)",
+      "agente": "orquestrador",
+      "nota": "sem repetir a pesquisa; segue para o verificador cego, advogado, editor, tradutor e conferente"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "caminho leve (sem advogado do diabo)",
+      "agente": "orquestrador",
+      "nota": "caminho leve: dificuldade 1, fonte de nível 1 do pesquisador (si.edu) e verificador cego de confiança alta; auditar depois por agente que não a produziu"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Opção 1 (dedo) mantida como no pt-PT, que a repete em parte a pergunta (belisca); sem alterações. 'piano e forte' mantido em italiano, entre aspas, como no pt-PT. Padua e Florence na forma inglesa; Bartolomeo Cristofori com a forma original."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "etiqueta caminho_leve retirada (caminho leve abandonado)",
+      "agente": "orquestrador",
+      "nota": "advogado do diabo já tinha aprovado; sem mudança de texto"
     }
   ],
-  "etiquetas": [
-    "classico"
-  ]
+  "etiquetas": [],
+  "options_lock": "18d5233e30f072c50691276c1a17fc381c2bef3ad6eeb98d45b01973d264ed94"
 }

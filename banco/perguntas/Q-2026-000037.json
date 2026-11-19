@@ -27,7 +27,7 @@
   "correct": 0,
   "difficulty": 3,
   "valid_until": null,
-  "daily_eligible": true,
+  "daily_eligible": false,
   "sources": [
     "https://www.nature.com/articles/ncomms12468",
     "https://www.mpg.de/10783234/frigatebirds-sleep-midflight",
@@ -62,15 +62,6 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://www.nationalgeographic.com/animals/article/swift-bird-10-month-migration",
-      "dominio": "nationalgeographic.com",
-      "titulo": "These Birds Fly Almost a Year Without Landing | National Geographic",
-      "nivel": 2,
-      "excerto": "This August, Niels Rattenborg of the Max Planck Institute for Ornithology in Germany proved that frigate birds ... do the same. He fitted brainwave sensors to 15 frigatebirds and showed that they sleep mid-flight",
-      "consultada_em": "2026-11-11",
-      "papel": "verificador"
-    },
-    {
       "url": "https://www.audubon.org/news/scientists-finally-have-evidence-frigatebirds-sleep-while-flying",
       "dominio": "audubon.org",
       "titulo": "Scientists Finally Have Evidence That Frigatebirds Sleep While Flying",
@@ -78,16 +69,26 @@
       "excerto": "All of the sleep recorded in the study occurred during the upwards-circling portion of the flight; the birds didn't sleep at all while gliding down.",
       "consultada_em": "2026-11-11",
       "papel": "advogado"
+    },
+    {
+      "url": "https://www.audubon.org/news/scientists-finally-have-evidence-frigatebirds-sleep-while-flying",
+      "dominio": "audubon.org",
+      "titulo": "Scientists Finally Have Evidence That Frigatebirds Sleep While Flying (Audubon)",
+      "nivel": 2,
+      "excerto": "Rattenborg and his team found it relatively easy to capture 15 of the birds to implant electroencephalographs (EEGs) into their skulls... the researchers found that while frigatebirds do sleep while flying, they sleep very little",
+      "consultada_em": "2026-11-19",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
     "verificador": {
       "resposta_texto": "A fragata-grande",
       "concorda": true,
-      "confianca": "alta",
-      "dominio": "nationalgeographic.com",
-      "data": "2026-11-11",
-      "notas": "NatGeo (out. 2016) e ScienceAlert noticiam o mesmo estudo (contam como uma fonte n2). A espécie «fragata-grande» aparece no ScienceAlert/pesquisa; NatGeo diz só 'frigate birds'. Albatroz só hipótese noutras fontes, sem EEG."
+      "confianca": "media",
+      "dominio": "audubon.org",
+      "data": "2026-11-19",
+      "notas": "Li a Audubon, imprensa de referência de nível 2 e de outra origem. Confirma o estudo de Rattenborg et al. com EEG implantado em fragatas-grandes nas Galápagos, com sono em voo. Só tenho esta fonte de nível 2. A Royal Society deu 403. O artigo da Galapagos Conservation Trust descreve o mesmo estudo, mas é um site de conservação e não o usei como fonte principal. As outras opções não aparecem nesta fonte. Não as testei com pesquisa própria e não encontrei nenhuma afirmação de EEG em voo para o albatroz-errante, a andorinha-do-mar-ártica ou o pelicano-pardo. O texto do enunciado «pela primeira vez» corresponde ao título da Audubon («Finally Have Evidence»). A Audubon diz que a ave dorme muito pouco em voo, cerca de 45 min por dia, o que não contradiz o enunciado.",
+      "hash_texto": "fb1baeb9adc98c0bd048f589e0212267f7648ae46465e58d51601b15a3b5b502"
     },
     "advogado": {
       "aprovado": true,
@@ -107,8 +108,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
+      "notas": "Mesmo facto, mesmas atribuições («os autores sugerem»/«the authors suggest») e mesmas aves pela mesma ordem. «A planar» é pt-PT correto. Regra 28: sem pista.",
+      "data": "2026-11-18",
+      "hash_texto": "d7aa7c38311af4d777ae8acf4fb7338e2c2807894497f059be58bebe5448bf18"
     }
   },
   "estado": "aprovada",
@@ -193,7 +195,32 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte nih.gov"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "confirmacao_pendente",
+      "agente": "orquestrador",
+      "nota": "decisão do Andre: aceite sem confirmação independente de nível 1; confirmacao_pendente true e daily_eligible false; não entra em versão pública; o teste fechado pode usá-la"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte audubon.org"
     }
   ],
-  "options_lock": "5b660c4f0817baa077f05848f5612c0502a0c36485693db055b3bfc35ffbaa70"
+  "options_lock": "5b660c4f0817baa077f05848f5612c0502a0c36485693db055b3bfc35ffbaa70",
+  "confirmacao_pendente": true
 }

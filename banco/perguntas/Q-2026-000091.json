@@ -1,0 +1,165 @@
+{
+  "id": "Q-2026-000091",
+  "topic": "Nature & Animals",
+  "subtopic": "Comportamento animal",
+  "text": {
+    "pt-PT": {
+      "question": "Num estudo de 2010, Endler, Endler e Doerr inverteram o gradiente de tamanho dos objetos nos pátios de pássaros-jardineiros-grandes. O que fizeram os machos em três dias?",
+      "options": [
+        "Restabeleceram o gradiente original dos objetos",
+        "Trocaram todos os objetos por outros de cor diferente",
+        "Abandonaram o pátio e construíram outro noutro local",
+        "Aceitaram a nova ordem e deixaram de a alterar"
+      ],
+      "explanation": "Restabeleceram o gradiente original em três dias (Current Biology, 2010). Os machos dispõem os objetos do pátio com tamanho crescente a partir da entrada do corredor, o que cria perspetiva forçada para a fêmea."
+    },
+    "en-US": {
+      "question": "In a 2010 study, Endler, Endler and Doerr reversed the size gradient of objects in great bowerbird courts. What did the males do within three days?",
+      "options": [
+        "They restored the original gradient of the objects",
+        "They swapped all the objects for ones of a different color",
+        "They abandoned the court and built another elsewhere",
+        "They accepted the new order and stopped changing it"
+      ],
+      "explanation": "They restored the original gradient within three days (Current Biology, 2010). Males arrange the court's objects in increasing size starting from the avenue's entrance, which creates a forced perspective for the female."
+    }
+  },
+  "correct": 0,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://researchonline.jcu.edu.au/16872/",
+    "https://www.nationalgeographic.com/science/article/male-bowerbirds-create-forced-perspective-illusions-that-only-females-see"
+  ],
+  "fontes": [
+    {
+      "url": "https://researchonline.jcu.edu.au/16872/",
+      "dominio": "jcu.edu.au",
+      "titulo": "Great bowerbirds create theaters with forced perspective when seen by their audience (Endler, Endler, Doerr; Current Biology 20, 2010; James Cook University)",
+      "nivel": 1,
+      "excerto": "Males make courts with gray and white objects that increase in size with distance from the avenue entrance. After experimental reversal of their size-distance gradient, males recovered their gradients within 3 days",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.nationalgeographic.com/science/article/male-bowerbirds-create-forced-perspective-illusions-that-only-females-see",
+      "dominio": "nationalgeographic.com",
+      "titulo": "Male bowerbirds create forced perspective illusions that only females see (National Geographic)",
+      "nivel": 2,
+      "excerto": "When he messed up the careful gradients by reversing the large and small trinkets, the males were quick to put things right. Within three days, the illusions had been restored.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5319334/",
+      "dominio": "nih.gov",
+      "titulo": "How do great bowerbirds construct perspective illusions? (Royal Society Open Science)",
+      "nivel": 2,
+      "excerto": "when gradients were improved or made worse by rearranging objects within courts, birds restored their original gradients within 3 days [11,12]",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Restabeleceram o gradiente original dos objetos",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "nih.gov",
+      "data": "2026-11-18",
+      "notas": "Página lida. É um artigo posterior (Royal Society Open Science, 2017) que resume o resultado e cita o estudo de 2010 como [11]. A fonte primária (Current Biology, 2010) deu 403 em cell.com e sciencedirect.com; a pesquisa mostra o resumo do artigo com a mesma conclusão (gradiente invertido restaurado em cerca de três dias), mas não o li diretamente. As outras opções (trocar objetos por cor diferente, aceitar a nova ordem, abandonar o pátio) contradizem a restauração do gradiente. Nota: o 'gradiente invertido' do enunciado corresponde a 'made worse' na fonte lida.",
+      "hash_texto": "9fc03d72758e0d29d2a6420b8de0e50bbd50464a33919a8c68514fb132c45c15"
+    },
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "A página da JCU confirma os autores (Endler, Endler e Doerr), a Current Biology, o ano de 2010 e o resumo. O resumo diz que os objetos aumentam de tamanho com a distância à entrada do corredor, que isso cria perspetiva forçada para a audiência e que, após a inversão experimental, os machos recuperaram o gradiente em 3 dias. O PMC confirma os 3 dias para gradientes piorados por reorganização dos objetos. A passagem do PMC sobre a substituição completa demorar mais de 3 dias é de outra experiência (limpeza total do pátio) e não contradiz a pergunta. Não consegui derrubar a pergunta. | páginas lidas pelo advogado: https://researchonline.jcu.edu.au/16872/, https://pmc.ncbi.nlm.nih.gov/articles/PMC5319334/"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado e opções intactos (o enunciado tem cerca de 170 caracteres, acima do alvo de 120, mas não o encurtei por já estar verificado). Explicação reordenada para começar pela resposta, com a atribuição mantida. Dificuldade e subtema mantidos.",
+      "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "«pátio» traduzido por «court» (termo corrente em inglês para o court de great bowerbird, Chlamydera nuchalis); «corredor» por «avenue» (termo técnico dos bowers). «pássaros-jardineiros-grandes» = great bowerbirds. Pergunta com 138 caracteres: acima do alvo de 120, dentro do máximo de 200."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Os dois textos dizem o mesmo e a atribuição (Endler, Endler e Doerr; Current Biology, 2010) é igual. As quatro opções correspondem uma a uma. A palavra «gradiente» aparece no enunciado e na opção certa nos dois idiomas, por isso não é uma pista nova da tradução.",
+      "data": "2026-11-18",
+      "hash_texto": "d97e756a1d280d49b7fead2b09c4a7a86a36ef42b806c198aac5fb14d0db5c68"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
+  "criada_em": "2026-11-18",
+  "historico": [
+    {
+      "data": "2026-11-18",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Ângulo novo: em vez de onde ficam os objetos pequenos, pergunta-se o que fizeram os machos após a inversão (resultado central do estudo), atribuído a Endler, Endler e Doerr, e «em três dias» vem do resumo da revista (JCU) e da National Geographic (duas fontes). Não afirma a posição dos objetos no enunciado; a explicação diz «a partir da entrada do corredor» (abstract: «increase in size with distance from the avenue entrance»). Facto não clássico. Dificuldade 3 em vez de 4: a resposta correta é a mais óbvia por narrativa, por isso usei distratores plausíveis; sugiro rever se o editor quiser 4. Artigo em PDF não aberto (restrito); usei o resumo do repositório da JCU. Nature 467:255 só dá pré-visualização."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Não há quiz com este ângulo (experiência de inversão do gradiente, com prazo de três dias). O facto só aparece em divulgação científica. Nota de facto: as fontes dizem que os machos repuseram o gradiente em três dias, o que sustenta a opção 'Restabeleceram o gradiente original'. | provas: https://www.nature.com/articles/467255a (notícia científica sobre o estudo; sem quiz); https://sciencedaily.com/releases/2010/09/100909122801.htm (comunicado; sem quiz)"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte sciencedaily.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo): formulacao: O enunciado diz «Em 2010 ... inverteram». 2010 é o ano da publicação (Current Biology, 9 set. 2010). Nenhuma fonte lida "
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte nih.gov"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "«pátio» traduzido por «court» (termo corrente em inglês para o court de great bowerbird, Chlamydera nuchalis); «corredor» por «avenue» (termo técnico dos bowers). «pássaros-jardineiros-grandes» = great bowerbirds. Pergunta com 138 caracteres: acima do alvo de 120, dentro do máximo de 200."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "etiquetas": [],
+  "options_lock": "cba8659dad764077d606a83de6466680c45e9372567b56dc72a0d26f5be1ff6a"
+}

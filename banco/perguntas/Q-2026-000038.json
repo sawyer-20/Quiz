@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000038",
   "topic": "General Knowledge",
-  "subtopic": "modalidades fora do futebol",
+  "subtopic": "História das leis do râguebi",
   "text": {
     "pt-PT": {
       "question": "Segundo as leis de 1845 da Rugby School, o que ganhava uma equipa ao pousar a bola para lá da linha de ensaio?",
@@ -11,7 +11,7 @@
         "Um ponto",
         "Um pontapé de penalidade"
       ],
-      "explanation": "O direito a um «try at goal», uma tentativa de pontapé à baliza: nas leis de 1845 pousar a bola não dava pontos, só os golos marcavam. O ensaio só passou a valer pontos mais tarde, a partir de 1886."
+      "explanation": "O direito a um «try at goal», uma tentativa de pontapé à baliza: nas leis de 1845 pousar a bola não dava pontos, só os golos marcavam. O ensaio só passou a valer pontos mais tarde."
     },
     "en-US": {
       "question": "Under the 1845 laws of Rugby School, what did a team earn for grounding the ball beyond the goal line?",
@@ -21,17 +21,17 @@
         "One point",
         "A penalty kick"
       ],
-      "explanation": "The right to a \"try at goal,\" a kick at the goal: under the 1845 laws, grounding the ball scored no points, and only goals counted. A try only became worth points later, starting in 1886."
+      "explanation": "The right to a \"try at goal,\" a chance to kick at the goal: under the 1845 laws, grounding the ball scored no points, and only goals counted. A try only came to be worth points later."
     }
   },
   "correct": 0,
-  "difficulty": 2,
+  "difficulty": 3,
   "valid_until": null,
-  "daily_eligible": true,
+  "daily_eligible": false,
   "sources": [
     "https://www.irishtimes.com/sport/sports-jargon-try-1.697492",
     "https://www.rugbyworld.com/takingpart/rugby-basics/why-is-a-try-called-a-try-in-rugby-136012",
-    "https://rugby365.com/laws-referees/news/scoring-down-the-years/"
+    "https://en.wikisource.org/wiki/Laws_of_Football_as_played_at_Rugby_School_(1845)"
   ],
   "fontes": [
     {
@@ -53,15 +53,6 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://rugby365.com/laws-referees/news/scoring-down-the-years/",
-      "dominio": "rugby365.com",
-      "titulo": "Scoring down the years (Paul Dobson, Rugby365)",
-      "nivel": 2,
-      "excerto": "In the beginning there were no points in the game as played at Rugby School. The goal counted. Grounding the ball over the opponents' line gave you the opportunity to attempt (try) to improve (convert) the effort into a goal. The try did not count.",
-      "consultada_em": "2026-11-11",
-      "papel": "verificador"
-    },
-    {
       "url": "https://rugbyfootballhistory.com/scoring.htm",
       "dominio": "rugbyfootballhistory.com",
       "titulo": "Rugby Football History - scoring",
@@ -69,6 +60,24 @@
       "excerto": "In early rugby as played at rugby school, the only scores came from goals and there was no points value associated with scoring. The 1845 rules stated that ... a \"TRY at goal\" had to be earned by touching the ball down ... 1886 (accepted): ... a try one point.",
       "consultada_em": "2026-11-11",
       "papel": "advogado"
+    },
+    {
+      "url": "https://www.worldrugby.org/halloffame/inductees/704759",
+      "dominio": "worldrugby.org",
+      "titulo": "World Rugby Hall of Fame: William Webb Ellis",
+      "nivel": 1,
+      "excerto": "The first written 'football rules' were composed by three of its pupils in 1845 and printed in a small, pocket-sized book. This is where many of the words and phrases associated with the game, such as 'try', came to light.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://en.wikisource.org/wiki/Laws_of_Football_as_played_at_Rugby_School_(1845)",
+      "dominio": "wikisource.org",
+      "titulo": "Laws of Football as played at Rugby School (1845) - Wikisource",
+      "nivel": 2,
+      "excerto": "v. Try at goal. A ball touched between the goal-posts may be brought up to either of them, but not between. ... the ball must be place-kicked and not dropped ... and it must go over the bar and between the posts",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
@@ -76,30 +85,32 @@
       "resposta_texto": "O direito a tentar um pontapé à baliza",
       "concorda": true,
       "confianca": "media",
-      "dominio": "rugby365.com",
-      "data": "2026-11-11",
-      "notas": "Rugby365 (n2). Texto das leis de 1845 (reprodução em PDF alojada em api.club.ffr.fr): regra v «Try at goal»; não diz explicitamente que o toque não valia pontos — a inferência vem do Rugby365. 1 ponto e 2 pontos surgem depois (1886, 1889). Sem nível 1; bathrugbyheritage 403."
+      "dominio": "wikisource.org",
+      "data": "2026-11-18",
+      "notas": "Pelo texto de 1845 não há pontuação para o ensaio. A recompensa de pousar a bola é a 'try at goal', um pontapé de colocação que só conta golo se passar entre os postes. As opções 'Um ponto' e 'Dois pontos' ficam excluídas porque o texto não prevê pontos por touch-down (os resumos dizem que só o golo contava). 'Um pontapé de penalidade' fica excluída porque não existe essa figura na regra. Falta uma segunda fonte de nível 1 ou 2 aberta, o que justifica 'media'. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): A transcrição das leis de 1845 só mostra a regra 'Try at goal'. Não diz em termos explícitos que tocar a bola dava só esse direito. Essa parte vem de resumos históricos que vi nos resultados da pesquisa (Bath Rugby Heritage, que devolveu 403 e não abri, e outros). O ponto fraco é a inferência, e a única fonte aberta é uma transcrição na Wikisource, que classifiquei como nível 2.",
+      "hash_texto": "54b9b8c020b2bd1769dfa982618cf524552352c907e05f77f140394829e7a824"
     },
     "advogado": {
       "aprovado": true,
-      "notas": "Advogado (2.ª passagem): rugbyfootballhistory.com e Rugby World concordam em 1886; sem contradição.",
-      "data": "2026-11-11"
+      "data": "2026-11-18",
+      "notas": "Regra 29, afirmação a afirmação. (1) 'Leis de 1845 da Rugby School': Wikisource (texto de 1845). (2) 'o direito a tentar um pontapé à baliza' ('try at goal', place-kick): regra v do texto de 1845 e Irish Times. (3) 'nas leis de 1845 pousar a bola não dava pontos, só os golos marcavam': Irish Times ('tries were worth nothing'; 'kicking goals ... was the sole way of scoring points'), rugbyfootballhistory ('the only scores came from goals') e regra xx de 1845, em que o desempate depende de 'goal'. (4) 'O ensaio só passou a valer pontos mais tarde': Irish Times (1886 valeu um ponto). Formulação vaga ('mais tarde') evita data. Sobre a independência das duas fontes n2: Irish Times (coluna jornalística de 2009) e rugbyfootballhistory.com (site de história independente) têm autores, redações e domínios diferentes, e nenhuma cita a outra nas páginas que li; o Irish Times não cita fonte. Não consegui provar que um não se baseou no outro, mas são independentes até onde se verifica. A isto junta-se o texto primário de 1845 (Wikisource, transcrição do documento original, que cita Macrory/Curry): não há nele valor em pontos e o resultado depende de 'goal'. Aprovo com estas duas fontes n2 e recomendo juntar o Wikisource como terceira fonte, com a nota 'transcrição das leis de 1845, regras v e xx', sem a usar como única. Não encontrei fonte de nível 1 legível: worldrugbymuseum.com (points-scoring-through-the-ages) devolveu 403, por isso NÃO a conto como lida; o World Rugby Hall of Fame só dá a origem do termo 'try'. Distratores: 'Um ponto' e 'Dois pontos' só surgem em leis posteriores (1886 e 1891); uma página de apostas que dá um ponto ao golo é fonte proibida e não fala do ensaio; 'pontapé de penalidade' não existia (Barrington: 'no penalty goal'). Sem segunda resposta. Cuidado de redação (não é problema): rugbyfootballhistory diz que o 'try at goal' exigia tocar a bola 'entre os postes', mas o texto de 1845 diz que a bola tocada entre os postes pode ser levada até um deles, por "
     },
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "estilo",
-      "data": "2026-11-11"
+      "notas": "Explicação reposta na versão anterior (2 frases, dentro do limite); a minha versão tinha 3 frases. Sem mudanças ao texto. Dificuldade subida de 2 para 3: as opções com pontos são tentadoras e poucos conhecem as regras de 1845. Enunciado e opções intactos.",
+      "data": "2026-11-18"
     },
     "tradutor": {
-      "data": "2026-11-11",
-      "notas": "linha de ensaio -> goal line; ensaio = try; «try at goal» kept from the original."
+      "data": "2026-11-18",
+      "notas": "Opção 0 igual ao en-US antigo, sem a data 1886. «Linha de ensaio» traduzida por «goal line», como no en-US antigo e nas leis de 1845 (a palavra «try» vem do nome «try at goal», mantido entre aspas na explicação). «Ensaio» -> «try». Aspas americanas (vírgula dentro das aspas). Sem factos novos. Explicação com 2 frases, abaixo de 300 caracteres."
     },
     "conferente": {
       "aprovado": true,
-      "notas": "2.ª passagem após correção de formato",
-      "data": "2026-11-11"
+      "notas": "Facto, datas (1845) e atribuição iguais nos dois idiomas. As quatro opções correspondem uma a uma e pela mesma ordem. Explicação com 2 frases nos dois idiomas. Sem pista gramatical ou lexical só num idioma (regra 28): «o que ganhava» e «what did a team earn» servem todas as opções. «Try at goal» só aparece na explicação.",
+      "data": "2026-11-18",
+      "hash_texto": "d04d47d4901c044e003be4c85d4c4aa6daef40bb7e7c9498fa1b44c3f4dd2e23"
     }
   },
   "estado": "aprovada",
@@ -196,6 +207,72 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reformulada",
+      "agente": "pesquisador",
+      "nota": "auditoria 18/11: lacuna de fonte na explicação; Li rugbyfootballhistory.com/scoring.htm (base especializada, nível 2). Confirma que em 1845 só os golos pontuavam e que o «try at goal» dava o direito ao pontapé. Diz também que antes de 1886 cada clu"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "fonte acrescentada pelo pesquisador (sem mudar o texto)",
+      "agente": "pesquisador",
+      "nota": "auditoria 18/11"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte wikisource.org"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "`sources` sincronizado com `fontes`"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "devolvida a em_verificacao",
+      "agente": "orquestrador",
+      "nota": "lacuna da auditoria: explicação reformulada; a repetir advogado, editor, tradutor e conferente"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Opção 0 igual ao en-US antigo, sem a data 1886. «Linha de ensaio» traduzida por «goal line», como no en-US antigo e nas leis de 1845 (a palavra «try» vem do nome «try at goal», mantido entre aspas na explicação). «Ensaio» -> «try». Aspas americanas (vírgula dentro das aspas). Sem factos novos. Explicação com 2 frases, abaixo de 300 caracteres."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "daily_eligible retirado",
+      "agente": "orquestrador",
+      "nota": "decisão do revisor/Andre: só confirmação de nível 2 até haver fonte de nível 1; fora do Daily 10"
     }
   ],
   "options_lock": "c22fd1a81d50244f1990a0fe922885af2791844618ac27d76568a91d2e35d882"

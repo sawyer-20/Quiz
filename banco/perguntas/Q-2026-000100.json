@@ -1,0 +1,167 @@
+{
+  "id": "Q-2026-000100",
+  "topic": "Video Games",
+  "subtopic": "História da Nintendo",
+  "text": {
+    "pt-PT": {
+      "question": "Em 1889, em Quioto, Fusajiro Yamauchi fundou a empresa que viria a ser a Nintendo. Que produto fabricava?",
+      "options": [
+        "Bonecas de porcelana",
+        "Brinquedos de madeira",
+        "Cartas de jogar japonesas (hanafuda)",
+        "Leques de papel"
+      ],
+      "explanation": "Fabricava hanafuda, as cartas de jogar tradicionais japonesas: a Nintendo nasceu assim em 1889, em Quioto, segundo a própria empresa. Ainda como Nintendo Koppai, a MoneyWeek descreve-a a fazer essas cartas."
+    },
+    "en-US": {
+      "question": "In 1889, in Kyoto, Fusajiro Yamauchi founded the company that would become Nintendo. What product did it make?",
+      "options": [
+        "Porcelain dolls",
+        "Wooden toys",
+        "Japanese playing cards (hanafuda)",
+        "Paper fans"
+      ],
+      "explanation": "It made hanafuda, traditional Japanese playing cards: according to the company itself, Nintendo began this way in Kyoto in 1889. MoneyWeek describes it, still as Nintendo Koppai, making those cards."
+    }
+  },
+  "correct": 2,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.nintendo.co.jp/corporate/en/history/index.html",
+    "https://www.nintendo.com/us/about/"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.nintendo.co.jp/corporate/en/history/index.html",
+      "dominio": "nintendo.co.jp",
+      "titulo": "Corporate Information: Company History (Nintendo Co., Ltd.)",
+      "nivel": 1,
+      "excerto": "1889 Fusajiro Yamauchi began manufacturing and selling Japanese playing cards, Hanafuda, in Shimogyo-ku, Kyoto, Japan. 1902 Started manufacturing and selling the first western playing cards in Japan.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.nintendo.com/us/about/",
+      "dominio": "nintendo.com",
+      "titulo": "About Nintendo: Creating smiles for generations (Nintendo of America)",
+      "nivel": 1,
+      "excerto": "We've forged our own path since 1889, when we began making hanafuda playing cards in Kyoto, Japan. ... 1889 Fusajiro Yamauchi began a small business manufacturing \"Hanafuda\" playing cards in Kyoto, Japan.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://moneyweek.com/349214/23-september-1889-nintendo-starts-making-playing-cards",
+      "dominio": "moneyweek.com",
+      "titulo": "23 September 1889: Nintendo starts making playing cards (MoneyWeek)",
+      "nivel": 2,
+      "excerto": "an entrepreneur named Fusajiro Yamauchi set up a business in Kyoto in September 1889 making Hanafuda cards. ... Yamauchi called the company Nintendo Koppai.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Cartas de jogar japonesas (hanafuda)",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "moneyweek.com",
+      "data": "2026-11-18",
+      "notas": "MoneyWeek (página aberta e lida, nível 2) confirma Yamauchi, Quioto, setembro de 1889, cartas hanafuda. Não consegui abrir a Britannica (403), por isso só há uma fonte lida, de nível 2. Os resultados de pesquisa convergem (hanafuda, 23/09/1889, Shimogyo, Quioto), mas vêm de sites que não abri. Excluídas: leques de papel, brinquedos de madeira e bonecas de porcelana não aparecem em nenhuma fonte para 1889; os brinquedos só surgem depois de 1963, e as cartas de estilo ocidental, por volta de 1902. Nota: o enunciado diz 'cartas de jogar japonesas (hanafuda)', que é consistente com a fonte.",
+      "hash_texto": "00734219acb143f9414139d9ec479daf6b34c8e8365ac32de6171eebd50c4ba8"
+    },
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "A página da Nintendo (nível 1) diz que em 1889 Fusajiro Yamauchi começou a fabricar e vender hanafuda em Shimogyo-ku, Quioto. A explicação atribui isso à empresa, o que é correto. O MoneyWeek (nível 2) diz que Yamauchi montou o negócio em Quioto em setembro de 1889 a fazer cartas hanafuda e lhe chamou Nintendo Koppai. Isso apoia a frase da explicação atribuída ao MoneyWeek. Os dois domínios são independentes e concordam. Os distratores (bonecas de porcelana, brinquedos de madeira, leques) não têm apoio nestas fontes. A explicação tem 2 frases e menos de 300 caracteres, sem linguagem de dúvida. Não consegui derrubar. | páginas lidas pelo advogado: https://www.nintendo.co.jp/corporate/en/history/index.html, https://moneyweek.com/349214/23-september-1889-nintendo-starts-making-playing-cards"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado e opções intactos. Explicação começa pela resposta, mantém as duas atribuições (própria empresa e MoneyWeek), em 2 frases (cerca de 205 caracteres). Dificuldade e subtema confirmados.",
+      "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "Atribuições mantidas: «segundo a própria empresa» -> \"according to the company itself\"; MoneyWeek. Quioto -> Kyoto. «Nintendo Koppai» mantido como no pt-PT."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Mesmo facto: 1889, Quioto, Fusajiro Yamauchi, hanafuda. As atribuições («segundo a própria empresa» e a MoneyWeek, que descreve a Nintendo Koppai) coincidem nos dois idiomas. Opções equivalentes pela mesma ordem. A opção certa traz o termo «hanafuda» entre parênteses nos dois idiomas, o que a torna um pouco mais específica, mas isto não é uma pista nova da tradução. pt-PT correto («a fazer» em vez de gerúndio). en-US natural. Limites respeitados.",
+      "data": "2026-11-18",
+      "hash_texto": "4025e6cbdd0cb62f42b02980e660d8b94752af2f62e3f4c5e53fa89b096d2cc9"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
+  "criada_em": "2026-11-18",
+  "historico": [
+    {
+      "data": "2026-11-18",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Ângulo: o produto original da empresa (não 'em que ano foi fundada'). É facto CLÁSSICO de quiz (etiqueta classico; dificuldade 2). Com A e C clássicos e B não clássico, o lote tem 2 em 3: ultrapassa o limite de 20%, a decidir pelo orquestrador (um dos dois pode ficar em espera). Fontes nível 1 do próprio fabricante (dois domínios, mesma entidade: o verificador deve procurar fonte independente, p.ex. Strong Museum of Play ou Britannica, esta devolve 403 ao ler_url). O ano 1889 vem das duas páginas oficiais; um artigo do TechRadar questiona o registo mais antigo (1895), por isso o enunciado diz 'fundou a empresa que viria a ser a Nintendo' e a explicação usa 'nasceu em 1889' como a Nintendo o declara. Nenhum facto mudou desde o primeiro envio."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "As pesquisas não devolveram páginas de quiz com este enunciado exato, mas 'o que fabricava a Nintendo originalmente' é uma das perguntas de trivia mais comuns que existem e a nossa formulação é a forma natural, quase única, de a fazer. As opções (bonecas, brinquedos, hanafuda, leques) são nossas. Não encontrei o mesmo conjunto de opções. Classificação por conhecimento do género de trivia mais do que por prova direta; se o orquestrador preferir ser estrito, o ângulo (data, local e fundador) é só contexto. Não deve ter dificuldade 4 ou 5. | provas: https://www.techradar.com/news/nintendo-before-the-nes-a-history-of-play (facto amplamente divulgado, artigo); https://factmyth.com/factoids/nintendo-started-as-a-playing-card-company/ (curiosidade 'Nintendo começou como empresa de cartas'); https://moneyweek.com/349214/23-september-1889-nintendo-starts-making-playing-cards"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte moneyweek.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo): numeros: A explicação diz que «em 1902 passou também a fazer as primeiras cartas de jogar ocidentais do Japão». Esta data só tem "
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte moneyweek.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Atribuições mantidas: «segundo a própria empresa» -> \"according to the company itself\"; MoneyWeek. Quioto -> Kyoto. «Nintendo Koppai» mantido como no pt-PT."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "etiquetas": [
+    "classico"
+  ],
+  "options_lock": "4ec7a366652a03282d871897ab60520e332f0830de82a6240553ba5099962d92"
+}

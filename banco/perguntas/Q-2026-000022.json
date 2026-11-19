@@ -22,7 +22,7 @@
         "Copper engraving",
         "Tapestry",
         "Oil on canvas",
-        "Azulejo (glazed tile)"
+        "Azulejo"
       ],
       "explanation": "Azulejo: a painted blue-on-white tile panel attributed to Gabriel del Barco and kept at the National Tile Museum. It shows Lisbon before 1755, with the Belém Tower and the Jerónimos Monastery among its buildings."
     }
@@ -34,7 +34,7 @@
   "sources": [
     "https://www.museusemonumentos.pt/pt/museus-e-monumentos/museu-nacional-do-azulejo",
     "https://artsandculture.google.com/asset/grande-panorama-de-lisboa-paço-da-ribeira/zAEzUKmNN9GdGg",
-    "https://institutodehistoriadaarte.com/lancamento-lisboa-em-azulejo-antes-do-terramoto-de-1755/"
+    "https://maislisboa.fcsh.unl.pt/era-lisboa-do-terramoto-1755-ha-um-painel-azulejos-lhe-revela-quase-tudo/"
   ],
   "fontes": [
     {
@@ -56,12 +56,12 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://institutodehistoriadaarte.com/lancamento-lisboa-em-azulejo-antes-do-terramoto-de-1755/",
-      "dominio": "institutodehistoriadaarte.com",
-      "titulo": "Lançamento do Website 'Lisboa em Azulejo antes do Terramoto de 1755' - Instituto de História da Arte (NOVA FCSH)",
+      "url": "https://maislisboa.fcsh.unl.pt/era-lisboa-do-terramoto-1755-ha-um-painel-azulejos-lhe-revela-quase-tudo/",
+      "dominio": "unl.pt",
+      "titulo": "Como era Lisboa antes do Terramoto de 1755? Há um painel de azulejos que lhe revela (quase) tudo - FCSH+Lisboa",
       "nivel": 1,
-      "excerto": "O 'Grande panorama de Lisboa', à guarda do Museu Nacional do Azulejo (MNAz, nº inv. 1) e de autoria do pintor Gabriel del Barco, é um extraordinário painel azulejar com cerca de vinte e dois metros de extensão",
-      "consultada_em": "2026-11-10",
+      "excerto": "identificação iconográfica de quase 150 edifícios e equipamentos presentes no “Grande Panorama de Lisboa”, executado em finais do século XVII. São várias as histórias reveladas por este painel de azulejos, com 23 metros de comprimento",
+      "consultada_em": "2026-11-18",
       "papel": "verificador"
     }
   ],
@@ -70,9 +70,10 @@
       "resposta_texto": "Azulejo",
       "concorda": true,
       "confianca": "alta",
-      "dominio": "institutodehistoriadaarte.com",
-      "data": "2026-11-10",
-      "notas": "Fonte universitária n1 (IHA, NOVA FCSH). Tapeçaria, óleo e gravura excluídos."
+      "dominio": "unl.pt",
+      "data": "2026-11-18",
+      "notas": "Li a página da NOVA FCSH (universidade, nível 1), que não consta dos domínios nem dos títulos a evitar. Confirma que o Grande Panorama é um painel de azulejos com 23 m, patente no Museu Nacional do Azulejo, e que mostra a Lisboa anterior a 1755. A pesquisa mostrou o ponto de vista do Tejo noutras fontes, mas essa parte não a li numa página aberta. O enunciado diz que o painel mostra a cidade vista do Tejo e isso não ficou confirmado na página que li. Óleo sobre tela, gravura em cobre e tapeçaria ficam excluídas porque o painel é de azulejo. Só tenho uma fonte independente aberta (nível 1). A pergunta não depende de datas nem de números. Se o motor exigir duas fontes, a segunda é a do pesquisador.",
+      "hash_texto": "aaa656bbb0b4147799908ab3f19daf444b7e488b6e0b780a54c4c4ad12a46547"
     },
     "advogado": {
       "aprovado": true,
@@ -87,13 +88,14 @@
       "data": "2026-11-11"
     },
     "tradutor": {
-      "data": "2026-11-11",
-      "notas": "Tejo -> Tagus; Museu Nacional do Azulejo -> National Tile Museum; azulejo kept with a gloss in the option."
+      "data": "2026-11-18",
+      "notas": "Opção certa agora sem glosa («Azulejo»), igual ao pt-PT e em forma às outras três. A explicação mantém «tile panel», que esclarece o termo. Resto do texto inalterado. Pergunta com 125 caracteres (acima do alvo de 120, abaixo do máximo de 200)."
     },
     "conferente": {
       "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
+      "notas": "Mesmo facto nos dois idiomas, com a mesma atribuição (Gabriel del Barco), o mesmo museu e os mesmos monumentos. Opções equivalentes uma a uma e pela mesma ordem; a certa é a 3 (Azulejo). Regra 28: não há pistas gramaticais nem lexicais, porque o enunciado não contém a palavra «azulejo» nem «tile» e as opções são todas substantivos sem concordância com o enunciado. Limites cumpridos: explicação com 2 frases, opções curtas, pergunta termina em «?». «Óleo sobre tela» é normal em pt-PT. «National Tile Museum» é a tradução corrente de «Museu Nacional do Azulejo».",
+      "data": "2026-11-18",
+      "hash_texto": "2b9d3e21e8785d8bbe6e6ea52bddc7ea9247b41661ee463bfde804f0d5090014"
     }
   },
   "estado": "aprovada",
@@ -172,7 +174,49 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"opção 3\", \"idioma\": \"en-US\", \"detalhe\": \"A opção certa tem a glosa «Azulejo (glazed tile)», que as outras três não têm e que o pt-PT também não tem («Azulejo»). Destaca a opção certa só em en-US, o que é uma pista nova (regra 3 e regra 28). As opções deixam de ser equivalentes em forma. Uma opção não pode ter glosa a menos que as outras também tenham.\"}]"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "devolvida a em_verificacao",
+      "agente": "orquestrador",
+      "nota": "conferente (auditoria) recusou a opção certa en-US «Azulejo (glazed tile)» (glosa só na certa); a opção volta ao tradutor"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Opção certa agora sem glosa («Azulejo»), igual ao pt-PT e em forma às outras três. A explicação mantém «tile panel», que esclarece o termo. Resto do texto inalterado. Pergunta com 125 caracteres (acima do alvo de 120, abaixo do máximo de 200)."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte unl.pt"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "`sources` sincronizado com `fontes` (a fonte do verificador mudou na repetição com hash)"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "options_lock": "8938b800128ffbc5d8f04893c1ad12724664ed2e96532172b27851dadeb54a8d"
+  "options_lock": "4be6758d5bbe7daefbaffba2ce38eb09f58225f79a93979561a90e2d8abd4185"
 }

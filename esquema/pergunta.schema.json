@@ -42,6 +42,10 @@
       "description": "true só para factos estáveis (sem valid_until).",
       "type": "boolean"
     },
+    "confirmacao_pendente": {
+      "description": "true: o facto foi aceite sem confirmação independente de nível 1 (decisão do Andre). Nunca entra numa versão pública (nem publicada nem exportação pública); o teste fechado pode usá-la. Implica daily_eligible false.",
+      "type": "boolean"
+    },
     "valid_until": {
       "description": "Data até à qual o facto vale; null = estável. O /manutencao revê os caducados.",
       "type": ["string", "null"], "format": "date"
@@ -72,7 +76,7 @@
     "etiquetas": {
       "description": "Opcional. 'classico': facto muito conhecido com enunciado próprio; nunca em dificuldade 4 ou 5; no máximo 20% das perguntas aprovadas e publicadas do banco, aplicado a partir de 100 (validar.py).",
       "type": "array", "uniqueItems": true,
-      "items": { "type": "string", "enum": ["classico", "caminho_leve"] }
+      "items": { "type": "string", "enum": ["classico"] }
     }
   },
   "$defs": {
@@ -111,10 +115,6 @@
       "additionalProperties": false,
       "required": ["verificador", "advogado", "editor"],
       "properties": {
-        "caminho_leve": {
-          "description": "Teste do lote 4: factos de dificuldade 1 sem advogado do diabo (uma fonte oficial de nível 1 + verificador cego). Auditados depois por um agente que não os produziu.",
-          "type": "boolean"
-        },
         "verificador": {
           "type": ["object", "null"],
           "additionalProperties": false,
@@ -125,7 +125,8 @@
             "confianca": { "type": "string", "enum": ["alta", "media", "baixa"] },
             "dominio": { "type": "string" },
             "data": { "type": "string", "format": "date" },
-            "notas": { "type": "string" }
+            "notas": { "type": "string" },
+            "hash_texto": { "description": "Impressão digital (SHA-256) do enunciado pt-PT e do conjunto das opções que o verificador viu (regra 24).", "type": "string", "pattern": "^[0-9a-f]{64}$" }
           }
         },
         "advogado": {
@@ -168,7 +169,8 @@
           "properties": {
             "aprovado": { "type": "boolean" },
             "notas": { "type": "string" },
-            "data": { "type": "string", "format": "date" }
+            "data": { "type": "string", "format": "date" },
+            "hash_texto": { "description": "Impressão digital (SHA-256) dos dois textos completos e do índice da certa que o conferente viu (regra 24).", "type": "string", "pattern": "^[0-9a-f]{64}$" }
           }
         }
       }

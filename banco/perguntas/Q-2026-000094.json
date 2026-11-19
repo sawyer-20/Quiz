@@ -1,0 +1,75 @@
+{
+  "id": "Q-2026-000094",
+  "topic": "General Knowledge",
+  "subtopic": "astronomia",
+  "text": {
+    "pt-PT": {
+      "question": "Qual é o planeta com a superfície mais quente do Sistema Solar?",
+      "options": [
+        "Mercúrio",
+        "Júpiter",
+        "Marte",
+        "Vénus"
+      ],
+      "explanation": "É Vénus: a atmosfera densa retém o calor num efeito de estufa descontrolado, com temperaturas à superfície que derretem chumbo. Fica mais quente do que Mercúrio, que está mais perto do Sol."
+    }
+  },
+  "correct": 3,
+  "difficulty": 1,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://science.nasa.gov/venus/venus-facts/",
+    "https://www.esa.int/articles/about-us/directorates/science/how-venus-and-mars-can-teach-us-about-earth"
+  ],
+  "fontes": [
+    {
+      "url": "https://science.nasa.gov/venus/venus-facts/",
+      "dominio": "nasa.gov",
+      "titulo": "Venus: Facts (NASA Science)",
+      "nivel": 1,
+      "excerto": "Its thick atmosphere traps heat in a runaway greenhouse effect, making it the hottest planet in our solar system with surface temperatures hot enough to melt lead — about 872 degrees Fahrenheit (467 Celsius).",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.esa.int/articles/about-us/directorates/science/how-venus-and-mars-can-teach-us-about-earth",
+      "dominio": "esa.int",
+      "titulo": "How Venus and Mars can teach us about Earth (ESA)",
+      "nivel": 1,
+      "excerto": "Thanks to its dense atmosphere, it is even hotter than planet Mercury, which orbits closer to the Sun.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    }
+  ],
+  "verificacao": {
+    "verificador": null,
+    "advogado": null,
+    "editor": null
+  },
+  "estado": "rejeitada",
+  "motivo_rejeicao": "copiada: Pela regra, o mesmo conjunto de 4 opções (Mercúrio, Vénus, Marte, Júpiter, por qualquer ordem) conta como copiada. O enunciado é também a forma óbvia e muito comum de perguntar o facto. Sugestão: se a pergunta se mantiver, mudar o ângulo (ex.: a causa, ou a temperatura à superfície) e as opções, e voltar a passar pela originalidade. | provas: https://globalquiz.org/en/question/what-is-the-hottest-planet-in-the-solar-system (lido com ler_url.py: «What is the hottest planet in the Solar System?» com as opções Mercury, Venus, Mars, Jupiter: o mesmo conjunto das nossas 4 opções); https://quizzclub.com/trivia/what-is-the-hottest-planet-in-the-solar-system048a52999ef744d9a3119077350f9853/answer/126350 (mesma pergunta, só apareceu nos resultados; não li as opções); https://www.jetpunk.com/user-quizzes/1443727/planets-true-or-false-2 (versão verdadeiro/falso do mesmo facto)",
+  "lote": "lote-2026-11-18-retomas",
+  "criada_em": "2026-11-18",
+  "historico": [
+    {
+      "data": "2026-11-18",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Angulo: facto contraintuitivo (o mais quente não é o mais próximo do Sol), sem números para evitar divergência (NASA 467 °C, ESA 470 °C). É clássico de quiz: etiqueta classico, dificuldade 1 (permitido). Enunciado fala de «superfície» para evitar ambiguidade com atmosfera. Facto estável; sem valid_until. Fontes: NASA e ESA lidas com scripts/ler_url.py; Britannica devolveu 403."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "originalidade: copiada",
+      "agente": "originalidade",
+      "nota": "Pela regra, o mesmo conjunto de 4 opções (Mercúrio, Vénus, Marte, Júpiter, por qualquer ordem) conta como copiada. O enunciado é também a forma óbvia e muito comum de perguntar o facto. Sugestão: se a pergunta se mantiver, mudar o ângulo (ex.: a causa, ou a temperatura à superfície) e as opções, e voltar a passar pela originalidade. | provas: https://globalquiz.org/en/question/what-is-the-hottest-planet-in-the-solar-system (lido com ler_url.py: «What is the hottest planet in the Solar System?» com as opções Mercury, Venus, Mars, Jupiter: o mesmo conjunto das nossas 4 opções); https://quizzclub.com/trivia/what-is-the-hottest-planet-in-the-solar-system048a52999ef744d9a3119077350f9853/answer/126350 (mesma pergunta, só apareceu nos resultados; não li as opções); https://www.jetpunk.com/user-quizzes/1443727/planets-true-or-false-2 (versão verdadeiro/falso do mesmo facto)"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "rejeitada",
+      "agente": "originalidade",
+      "nota": "copiada: Pela regra, o mesmo conjunto de 4 opções (Mercúrio, Vénus, Marte, Júpiter, por qualquer ordem) conta como copiada. O enunciado é também a forma óbvia e muito comum de perguntar o facto. Sugestão: se a pergunta se mantiver, mudar o ângulo (ex.: a causa, ou a temperatura à superfície) e as opções, e voltar a passar pela originalidade. | provas: https://globalquiz.org/en/question/what-is-the-hottest-planet-in-the-solar-system (lido com ler_url.py: «What is the hottest planet in the Solar System?» com as opções Mercury, Venus, Mars, Jupiter: o mesmo conjunto das nossas 4 opções); https://quizzclub.com/trivia/what-is-the-hottest-planet-in-the-solar-system048a52999ef744d9a3119077350f9853/answer/126350 (mesma pergunta, só apareceu nos resultados; não li as opções); https://www.jetpunk.com/user-quizzes/1443727/planets-true-or-false-2 (versão verdadeiro/falso do mesmo facto)"
+    }
+  ],
+  "etiquetas": []
+}

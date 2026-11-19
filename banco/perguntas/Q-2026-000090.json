@@ -1,0 +1,159 @@
+{
+  "id": "Q-2026-000090",
+  "topic": "Nature & Animals",
+  "subtopic": "Vida marinha",
+  "text": {
+    "pt-PT": {
+      "question": "Segundo a bióloga Lexa Grutter, de que protege o peixe-papagaio o casulo de muco em que dorme?",
+      "options": [
+        "De algas que se fixam nas escamas",
+        "De bactérias presentes na água do recife",
+        "De ondas e correntes fortes durante a noite",
+        "De parasitas que lhe mordem, os isópodes gnatídeos"
+      ],
+      "explanation": "De parasitas, os isópodes gnatídeos: na experiência de Grutter, divulgada em 2010, quase todos os peixes-papagaio sem casulo foram atacados, contra poucos dos que o tinham. De noite, sem peixes-limpadores, o casulo funciona como rede mosquiteira."
+    },
+    "en-US": {
+      "question": "According to biologist Lexa Grutter, what does the mucus cocoon a parrotfish sleeps in protect it from?",
+      "options": [
+        "Algae that attach to its scales",
+        "Bacteria in the reef water",
+        "Strong waves and currents at night",
+        "Biting parasites, the gnathiid isopods"
+      ],
+      "explanation": "Parasites, the gnathiid isopods: in Grutter's experiment, reported in 2010, almost all parrotfish without a cocoon were attacked, versus few of those that had one. At night, with no cleaner fish around, the cocoon works like a mosquito net."
+    }
+  },
+  "correct": 3,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://news.uq.edu.au/2010-11-16-fish-sleep-more-soundly-when-they-have-mosquito-net",
+    "https://www.livescience.com/8979-mucus-cocoons-protect-fish-parasites.html"
+  ],
+  "fontes": [
+    {
+      "url": "https://news.uq.edu.au/2010-11-16-fish-sleep-more-soundly-when-they-have-mosquito-net",
+      "dominio": "uq.edu.au",
+      "titulo": "Fish sleep more soundly when they have a mosquito net (The University of Queensland, 2010)",
+      "nivel": 1,
+      "excerto": "We exposed coral reef parrotfish with and without cocoons to ectoparasitic gnathiids overnight. Fish without mucous cocoons were attacked more by gnathiids, than the fish with cocoons.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.livescience.com/8979-mucus-cocoons-protect-fish-parasites.html",
+      "dominio": "livescience.com",
+      "titulo": "Mucus Cocoons Protect Fish from Parasites (Live Science, 2010)",
+      "nivel": 2,
+      "excerto": "nearly 95 percent of the fish without the cocoons were attacked, compared with just 10 percent of those coated in mucus. At night, when cleaner fish sleep, mucus cocoons act like 'mosquito nets'",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.nationalgeographic.com/science/article/parrotfish-sleep-in-a-mosquito-net-made-of-mucus",
+      "dominio": "nationalgeographic.com",
+      "titulo": "Parrotfish sleep in a mosquito net made of mucus (National Geographic, Ed Yong, 2010)",
+      "nivel": 2,
+      "excerto": "Grutter thinks that the mucus protects the sleeping fish... from the little mouthparts of hungry parasites. At night, reef fish are attacked by tiny blood-sucking crustaceans called gnathiid isopods.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "De parasitas que lhe mordem, os isópodes gnatídeos",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "nationalgeographic.com",
+      "data": "2026-11-18",
+      "notas": "Lido via ler_url.py. A fonte diz que o muco protege de isópodes gnatídeos: atacaram só 10% dos peixes com casulo e quase todos os sem casulo. A opção de bactérias, ondas/correntes e algas não aparece. Confiança média porque só abri uma fonte de nível 2: o artigo original em Biology Letters (royalsocietypublishing.org) devolveu 403. A National Geographic refere «Alexandra Grutter», da Universidade de Queensland, e não «Lexa», que é o diminutivo. A National Geographic diz que a proteção é provavelmente uma barreira física e que a hipótese não exclui outras funções; mesmo assim, a pergunta («segundo a bióloga») fica coberta. A fonte é de 2010 e é independente dos títulos a evitar.",
+      "hash_texto": "0331e843c25f71f6f71ae5651efeffdadb5a1cdb553e2b8ce04f1edc5d6f132e"
+    },
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "A UQ confirma «Dr Alexandra (Lexa) Grutter», gnatídeos como parasitas e o ano de 2010 (notícia de 16/11/2010). O LiveScience dá cerca de 95% de ataques sem casulo contra 10% com casulo, o que sustenta «quase todos» e «poucos». A «rede mosquiteira» é imagem da própria Grutter, e a explicação não a apresenta como facto isolado. A UQ diz que os manuais presumiam proteção contra predadores como as moreias, mas essa hipótese não figura entre as opções. Algas, bactérias e correntes não têm apoio nas fontes. | páginas lidas pelo advogado: https://news.uq.edu.au/2010-11-16-fish-sleep-more-soundly-when-they-have-mosquito-net, https://www.livescience.com/8979-mucus-cocoons-protect-fish-parasites.html"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "ENUNCIADO ALTERADO (o verificador cego tem de repetir): encurtado de ~133 para ~95 caracteres. Tirei o inciso «(Universidade de Queensland)», mantive a atribuição a Lexa Grutter e a pergunta. A explicação começa pela resposta e continua com 2 frases, dentro dos 300 caracteres. Dificuldade e subtema mantidos.",
+      "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "Correta = índice 3. «divulgada em 2010» traduzido por «reported in 2010». «peixes-limpadores» = cleaner fish."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Atribuição a Grutter, ano 2010 e opções equivalentes. A opção certa é a mais longa e específica nos dois idiomas, por isso não é uma pista só de um idioma.",
+      "data": "2026-11-18",
+      "hash_texto": "7a6b9014455741a44a9c654ca03d6391ad5903f1ee8d82752f130c300af9cea9"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
+  "criada_em": "2026-11-18",
+  "historico": [
+    {
+      "data": "2026-11-18",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Ângulo: atribuído a Grutter, sem percentagens exatas («quase todos»), explicação com cerca de 215 caracteres e 2 frases. Evitei a moreia como distrator: o UQ diz que os manuais presumiam proteção contra predadores e a Live Science refere que os casulos protegem «um pouco» deles. Espécie do estudo: Chlorurus sordidus (Live Science); o enunciado diz só «peixe-papagaio». O mecanismo (barreira física, química ou ocultação de odor) está por esclarecer e não é afirmado. A explicação refere «poucos» com casulo (Live Science: 10%); o número só está numa fonte e por isso não entra. Não clássico (ângulo: o inimigo, não o casulo)."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Não encontrei pergunta de quiz com este texto nem este conjunto de opções. O enunciado atribui o facto a uma investigadora concreta, o que lhe dá ângulo próprio. O facto circula em artigos e listas de curiosidades. Nota de facto para o pesquisador: nas fontes que li, a investigadora aparece como Alexandra Grutter (a UQ publica 'Dr Lexa Grutter'), e o estudo usou o peixe-papagaio Chlorurus sordidus. | provas: https://www.nbcnews.com/id/wbna40224827 (artigo de ciência, não é quiz: casulo protege de gnatiídeos); https://www.nationalgeographic.com/science/article/parrotfish-sleep-in-a-mosquito-net-made-of-mucus (idem)"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte nationalgeographic.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte nationalgeographic.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Correta = índice 3. «divulgada em 2010» traduzido por «reported in 2010». «peixes-limpadores» = cleaner fish."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "etiquetas": [],
+  "options_lock": "cc8edaa8335f1af7fa3fffeee95fca27e1bdbc9cf292688e981d068e9a90ca89"
+}

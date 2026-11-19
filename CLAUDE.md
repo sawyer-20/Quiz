@@ -71,8 +71,15 @@ ficheiros e nunca tomas decisões de produto sozinho.
     acréscimo de um clássico novo ultrapassaria esse limite no fim do lote, o clássico fica
     em espera (`em_verificacao`, nota no histórico) e só avança se sobrar vaga; no fim do
     lote, os que ficarem em espera são rejeitados com motivo `quota de clássicos do lote`.
-17. **Mudanças ao motor entram por pedido de merge para o `main`** (regras, agentes,
-    skills, scripts). O banco e os relatórios de lote seguem no ramo de trabalho.
+17. **Tudo entra no `main` por pedido de merge, e o merge é sempre do Andre.** O trabalho
+    faz-se no ramo de trabalho. O motor (regras, agentes, skills, scripts) e o banco/relatórios
+    vão no mesmo pedido, que descreve em secções separadas o que é motor e o que é banco, para
+    o Andre ler o motor sem se perder no banco. (Alinhada com a prática em 18/11/2026: o PR #1
+    já levou 82 perguntas para o `main`, o que contradizia a versão anterior desta regra, «o
+    banco segue no ramo de trabalho». O Andre pode preferir o contrário: pedidos separados.)
+    **O `main` não é ramo de publicação.** Estar no `main` não torna nenhuma pergunta
+    publicada: publicar exige uma etiqueta separada, a ordem expressa do Andre e o `/auditar`
+    aprovado no momento (regra dos Estados e Travões).
 18. **O facto verifica-se uma vez, o texto escreve-se duas.** O pesquisador, o verificador,
     o advogado e o editor trabalham no texto pt-PT (a referência). O `tradutor` escreve o
     en-US a partir do pt-PT aprovado e da ficha de facto; o `conferente` (cego: vê só os
@@ -96,6 +103,35 @@ ficheiros e nunca tomas decisões de produto sozinho.
     reconstrói: pede ao agente que o devolva completo ou repete o passo. Nunca aprova uma
     pergunta que dependa de um relatório assim.
 
+24. **Impressão digital do texto.** Cada veredicto do verificador cego (enunciado pt-PT e
+    conjunto das opções) e do conferente (os dois textos completos e a certa) guarda o
+    `hash_texto` (SHA-256) do texto que o agente viu. O `aprovar.py` recusa aprovar se o hash
+    do texto final não coincidir com o do último veredicto de cada um; o `validar.py` recusa
+    uma aprovada cujo texto mudou depois deles. Se o editor ou qualquer outro passo muda o
+    enunciado ou as opções depois do verificador, o verificador repete; se muda qualquer
+    texto depois do conferente, o conferente repete. Perguntas aprovadas antes desta regra
+    não têm a impressão e dão só aviso.
+25. **O advogado abre ele próprio as páginas.** Os excertos orientam, não bastam: o relatório
+    do advogado lista em `paginas_lidas` as páginas que ele abriu e leu. O `aplicar_passo.py`
+    recusa um `aprovado: true` sem `paginas_lidas` e o passo repete-se.
+26. **Tempos.** `scripts/registar_tempo.py` corre para cada invocação de agente, sempre. O
+    `aprovar.py` recusa aprovar perguntas de um lote sem `relatorios/<lote>-tempos.csv`.
+
+27. **O editor não mexe em enunciados depois do verificador, a partir do segundo ciclo.** Um
+    enunciado reescrito pelo editor depois da verificação cega obriga a repetir o verificador
+    (regra 24). Do segundo ciclo em diante o editor só toca na explicação, na dificuldade e
+    no subtema; se o enunciado tiver de mudar, devolve `reescrever` ou a pergunta volta ao
+    pesquisador. No primeiro ciclo, o editor pode afinar o enunciado, mas o verificador repete.
+28. **Pista gramatical ou lexical só num dos idiomas.** O conferente verifica que nem o género,
+    o número ou a concordância, nem uma palavra do enunciado (por exemplo, «sábios» no
+    masculino) dão a resposta num idioma e não no outro. Foi assim que a Q92 caiu.
+29. **Nenhuma afirmação na explicação sem fonte no ficheiro.** Cada afirmação da explicação (um
+    facto, uma data, um número, uma cláusula descritiva como «onde ficou mais de dois séculos»)
+    tem de ter apoio numa fonte aberta e lida que conste do ficheiro; se não tem, sai ou
+    arranja-se-lhe fonte. O advogado verifica-o afirmação a afirmação e lista em
+    `paginas_lidas` onde cada uma está; o editor não acrescenta nada que não esteja nas fontes
+    e tira o que o advogado assinalar. Origem: Q12, Q19 e Q85 (auditoria de 18/11/2026).
+
 ## Onde estão as coisas
 
 - `banco/perguntas/<id>.json` — uma pergunta por ficheiro, no formato (v2, bilingue) de
@@ -112,7 +148,9 @@ ficheiros e nunca tomas decisões de produto sozinho.
 - `relatorios/alvos-a-retomar.md` — alvos que voltam uma vez ao lote seguinte.
 - `scripts/validar.py` — validação automática.
   `python3 scripts/validar.py --dominio <url>` devolve o domínio a registar numa fonte.
-- `scripts/aprovar.py` — a única forma de aprovar (corre o `validar.py`; grava `options_lock`).
+- `scripts/aprovar.py` — a única forma de aprovar (corre o `validar.py`; confere as impressões digitais e os tempos; grava `options_lock`).
+- `scripts/limites.py` — limites de texto (enunciado, opções, explicação) a validar antes do advogado.
+- `scripts/montar_pergunta.py`, `scripts/aplicar_passo.py` — criam o ficheiro da pergunta e aplicam o resultado de cada agente (gravam as impressões digitais).
 - `scripts/migrar_v2.py` — migrou o banco do esquema v1.1 (só pt-PT) para o v2.
 - `scripts/ler_url.py` — leitor de páginas dos agentes (só http/https públicos; lê HTML,
   texto e PDF); `scripts/testar_ler_url.py` testa as recusas e as leituras.

@@ -27,7 +27,7 @@
   "correct": 0,
   "difficulty": 3,
   "valid_until": null,
-  "daily_eligible": true,
+  "daily_eligible": false,
   "sources": [
     "https://ler.letras.up.pt/uploads/ficheiros/14139.pdf",
     "https://purl.pt/13858/1/geneses/1/3-texto-base-mensagem.html",
@@ -98,8 +98,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "conferente: mesmo facto, mesma resposta, opções equivalentes",
-      "data": "2026-11-12"
+      "notas": "A citação de Pessoa está traduzida com fidelidade. Pátria/Fatherland, Atlântida/Atlantis e Lusitânia/Lusitania são equivalentes. Regra 28: sem pista num só idioma.",
+      "data": "2026-11-18",
+      "hash_texto": "74a2d1894f3ba3e92e9f8d6b7797c77ba96a57d99a3a814c622fbedf8fe3f5f2"
     }
   },
   "estado": "aprovada",
@@ -232,10 +233,23 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "confirmacao_pendente",
+      "agente": "orquestrador",
+      "nota": "decisão do Andre: aceite sem confirmação independente de nível 1; confirmacao_pendente true e daily_eligible false; não entra em versão pública; o teste fechado pode usá-la"
     }
   ],
   "markets": [
     "pt"
   ],
-  "options_lock": "0e327c71c17dca247b362a9afc579f0e9b7b32d669bdcf0f389714aeb0e3a099"
+  "options_lock": "0e327c71c17dca247b362a9afc579f0e9b7b32d669bdcf0f389714aeb0e3a099",
+  "confirmacao_pendente": true
 }

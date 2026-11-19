@@ -79,6 +79,12 @@
       "evento": "rejeitada",
       "agente": "orquestrador",
       "nota": "quota de clássicos do lote (regra 16): a pergunta ficou em espera sem chegar a ser verificada; o limite do Andre era 4 clássicos"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "originalidade reavaliada (definição de 17/11): classico",
+      "agente": "originalidade",
+      "nota": "mantém-se clássico: quase tradução de uma pergunta do RemNote (opções 3 em 4 iguais)"
     }
   ],
   "etiquetas": [

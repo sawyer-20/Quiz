@@ -1,36 +1,37 @@
 {
   "id": "Q-2026-000005",
   "topic": "World History",
-  "subtopic": "Conquista normanda de Inglaterra (século XI)",
+  "subtopic": "Conquista normanda e Tapeçaria de Bayeux",
   "text": {
     "pt-PT": {
       "question": "Que técnica deu forma às cenas da Tapeçaria de Bayeux, que narra a conquista normanda de 1066?",
       "options": [
+        "Estampagem com carimbos de madeira",
         "Pintura sobre linho",
         "Bordado",
-        "Tecelagem em tear",
-        "Estampagem com carimbos de madeira"
+        "Tecelagem em tear"
       ],
-      "explanation": "Bordado. Apesar do nome, não é uma tapeçaria, em que o desenho se tece no próprio pano: as cenas foram bordadas com fio de lã sobre um fundo de linho com cerca de 70 metros, feito de nove painéis cosidos entre si."
+      "explanation": "Bordado. Apesar do nome, tecnicamente não é uma tapeçaria, que se tece num tear: as cenas foram bordadas com lã tingida sobre um pano de linho."
     },
     "en-US": {
-      "question": "Which technique was used to create the scenes of the Bayeux Tapestry, which tells the story of the 1066 Norman conquest?",
+      "question": "Which technique created the scenes of the Bayeux Tapestry, which tells the story of the 1066 Norman conquest?",
       "options": [
+        "Printing with wooden stamps",
         "Painting on linen",
         "Embroidery",
-        "Loom weaving",
-        "Stamping with wooden blocks"
+        "Weaving on a loom"
       ],
-      "explanation": "Embroidery. Despite the name, it is not a true tapestry, where the design is woven into the cloth: the scenes were embroidered in wool yarn on a linen ground about 70 meters long, made of nine panels sewn together."
+      "explanation": "Embroidery. Despite its name, it is technically not a tapestry, which is woven on a loom: the scenes were embroidered with dyed wool on a linen cloth."
     }
   },
-  "correct": 1,
+  "correct": 2,
   "difficulty": 3,
   "valid_until": null,
   "daily_eligible": true,
   "sources": [
     "https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/",
-    "https://marquandrarebooks.princeton.edu/2022/01/a-scrolling-facsimile-of-the-bayeux-tapestry-in-marquand/"
+    "https://www.vam.ac.uk/articles/what-is-tapestry",
+    "https://media.unesco.org/sites/default/files/webform/mow001/nomination-form-bayeux-tapestry_en_0.pdf"
   ],
   "fontes": [
     {
@@ -52,12 +53,21 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://marquandrarebooks.princeton.edu/2022/01/a-scrolling-facsimile-of-the-bayeux-tapestry-in-marquand/",
-      "titulo": "A Scrolling Facsimile of the Bayeux “Tapestry” in Marquand (Marquand Library, Princeton University)",
+      "url": "https://www.vam.ac.uk/articles/what-is-tapestry",
+      "dominio": "vam.ac.uk",
+      "titulo": "What is tapestry? (V&A)",
       "nivel": 1,
-      "excerto": "Yet these images ... are embroidered rather than painted. In spite of its commonly used name, the Bayeux “Tapestry” is technically not a tapestry, since the imagery is not woven on a loom but embroidered in natural-dyed wool yarns onto a linen ground fabric.",
-      "dominio": "princeton.edu",
-      "consultada_em": "2026-11-05",
+      "excerto": "A tapestry is created by weaving coloured weft threads through plain warp threads... Tapestries are woven on a loom.",
+      "consultada_em": "2026-11-19",
+      "papel": "advogado"
+    },
+    {
+      "url": "https://media.unesco.org/sites/default/files/webform/mow001/nomination-form-bayeux-tapestry_en_0.pdf",
+      "dominio": "unesco.org",
+      "titulo": "Memory of the World Register: Bayeux Tapestry N° 2006-44 (UNESCO, formulário de candidatura)",
+      "nivel": 1,
+      "excerto": "The Bayeux Tapestry is actually an embroidery. ... The embroidery was fashioned by needle on a thin, fairly even linen cloth. ... stem stitch for the outlines and couching stitch for filling in most of the figures.",
+      "consultada_em": "2026-11-19",
       "papel": "verificador"
     }
   ],
@@ -66,30 +76,32 @@
       "resposta_texto": "Bordado",
       "concorda": true,
       "confianca": "alta",
-      "dominio": "princeton.edu",
-      "data": "2026-11-05",
-      "notas": "Princeton: bordado a lã sobre linho, não pintado nem tecido em tear; estampagem não referida."
+      "dominio": "unesco.org",
+      "data": "2026-11-19",
+      "notas": "Li o PDF da UNESCO, que diz que a Tapeçaria é na verdade um bordado, feito à agulha com lã sobre linho, em ponto de haste e ponto de recobrir. Tecelagem em tear fica excluída porque não é uma tapeçaria tecida. Pintura sobre linho e estampagem com carimbos não aparecem em nenhuma fonte. A Britannica e o British Museum devolveram 403 e não os abri; só vi o que a pesquisa web resumiu deles, o que concorda.",
+      "hash_texto": "3e1d7193d32e4567ca63a28df556a229882526194a2c04bd6be16623e679fd2d"
     },
     "advogado": {
       "aprovado": true,
-      "notas": "Nenhuma fonte descreve pintura, tear ou estampagem. Wikipédia: 9 painéis de linho cosidos, bordado a lã (crewel), 68,38 m; museu: 70 m — coincidem. Só a Wikipédia suporta os nove painéis.",
-      "data": "2026-11-04"
+      "data": "2026-11-19",
+      "notas": "Todas as afirmações têm apoio. A página do V&A não menciona Bayeux, mas só é usada para a definição de tapeçaria. Sem segunda resposta defensável entre as opções. | páginas lidas pelo advogado: https://www.nationalgeographic.com/history/article/bayeux-tapestry-meaning-interpretation (\"not technically a tapestry at all but an embroidery: dyed wools stitched on bleached linen base cloth\": apoia 'tecnicamente não é uma tapeçaria', 'bordadas', 'lã tingida', 'linho'), https://www.vam.ac.uk/articles/what-is-tapestry (\"Tapestries are woven on a loom\": apoia 'tapeçaria tece-se num tear'), https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/ (\"conquest of England... told in a 70 meters long embroidery\": confirma bordado e a conquista de 1066)"
     },
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "Formulação 'é tecnicamente que tipo de obra' é comum em quizzes (Quizzclub, FunTrivia, guias de estudo); reescrita para 'que técnica deu forma às cenas'. Opções em substantivos paralelos, mesma ordem e sentido. Sem quiz em português igual.",
-      "data": "2026-11-04"
+      "notas": "Texto igual: 2 frases, cerca de 145 caracteres. Opções na nova ordem pedida (certa: índice 2). Não acrescentei nem alarguei nada. Dificuldade mantida.",
+      "data": "2026-11-19"
     },
     "tradutor": {
-      "data": "2026-11-11",
-      "notas": "Spelling 'meters' (US). 'Tapeçaria' kept as 'Tapestry' (standard English title)."
+      "data": "2026-11-19",
+      "notas": "Certa = índice 2 (Embroidery). 'Estampagem com carimbos de madeira' -> 'Printing with wooden stamps'. Opção 3 'Weaving on a loom' mantém o contraste com 'tapestry' da explicação. 'Conquista normanda' -> 'Norman conquest'."
     },
     "conferente": {
       "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
+      "notas": "Pergunta, opções e explicação equivalentes nas duas línguas. Sem pista gramatical ou lexical só num idioma. Limites cumpridos.",
+      "data": "2026-11-19",
+      "hash_texto": "6d05df5f940fbf4463e19afa569728fccc9ffd23145a6a304081d5a34eeb0124"
     }
   },
   "estado": "aprovada",
@@ -180,10 +192,100 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte nationalgeographic.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "`sources` sincronizado com `fontes` (fonte do verificador mudou na repetição com hash)"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "devolvida a em_verificacao",
+      "agente": "orquestrador",
+      "nota": "auditoria de afirmações (regra 29): afirmação sem fonte ou só em Wikipédia; explicação corrigida pelo editor; a repetir advogado, tradutor e conferente"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Pergunta e opções inalteradas. «não é uma tapeçaria» traduzido por «not a true tapestry» para soar natural em inglês."
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (2.º ciclo, auditoria de afirmações): fontes: A cláusula «em que o desenho se tece no próprio pano» (definição de tapeçaria) só tem apoio na Wikipédia, que não conta "
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Certa = índice 2 (Embroidery). 'Estampagem com carimbos de madeira' -> 'Printing with wooden stamps'. Opção 3 'Weaving on a loom' mantém o contraste com 'tapestry' da explicação. 'Conquista normanda' -> 'Norman conquest'."
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte unesco.org"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "`sources` sincronizado com `fontes`"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": [
     "classico"
   ],
-  "options_lock": "146b8df22af5109bb799b4652ffe50e457e6a0ee0a5d0ba9f51c61811deaeae8"
+  "options_lock": "b360dfaa259aa4852589985561534a1b9ffa7bd5a72a4ad09311a11c22228895"
 }

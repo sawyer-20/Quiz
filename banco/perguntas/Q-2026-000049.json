@@ -103,6 +103,12 @@
       "evento": "rejeitada",
       "agente": "advogado-do-diabo",
       "nota": "esgotou o ciclo de correção: 2.ª passagem do advogado ainda reprovou (datas 1879-83 vs 1879-80 sem acordo entre fontes; nitratos só numa fonte)"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "originalidade reavaliada (definição de 17/11): classico",
+      "agente": "originalidade",
+      "nota": "mantém-se clássico (facto e forma habituais; aparece em quizzes de geografia)"
     }
   ],
   "etiquetas": [

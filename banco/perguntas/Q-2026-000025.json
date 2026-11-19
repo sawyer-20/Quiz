@@ -65,12 +65,12 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://www.e-cultura.pt/artigo/20022",
-      "dominio": "e-cultura.pt",
-      "titulo": "Requiem Op. 23, À memória de Camões (e-cultura)",
+      "url": "https://www.enciclopediacamoes.pt/2017/07/requiem-memoria-de-luis-de-camoes-por.html",
+      "dominio": "enciclopediacamoes.pt",
+      "titulo": "Enciclopédia Camões: Requiem à memória de Luís de Camões por João Domingos Bomtempo",
       "nivel": 2,
-      "excerto": "aproveitando o renascimento camoneano iniciado com a edição monumental d'Os Lusíadas promovida pelo Morgado de Mateus (Paris, Firmin Didot, 1817)",
-      "consultada_em": "2026-11-11",
+      "excerto": "o Requiem Op.23 (À memória de Camões) [...] tinha originado a publicação em França da famosa edição de Os Lusíadas (Paris: Officina Typographica Firmin Didot, 1817) pelo Morgado de Mateus",
+      "consultada_em": "2026-11-18",
       "papel": "verificador"
     }
   ],
@@ -79,9 +79,10 @@
       "resposta_texto": "Morgado de Mateus",
       "concorda": true,
       "confianca": "media",
-      "dominio": "e-cultura.pt",
-      "data": "2026-11-11",
-      "notas": "NÃO confirmou a atribuição «Segundo Beatriz Peralta García» (não encontrou texto dela; rpm-ns.pt não a refere). O facto (edição promovida pelo Morgado de Mateus, diplomata) está confirmado por e-cultura. Pombal morreu em 1782. Fontes PT n1: nenhuma aberta; luisdecamoes.pt erro SSL."
+      "dominio": "enciclopediacamoes.pt",
+      "data": "2026-11-18",
+      "notas": "Aberto e lido. A fonte liga o Requiem à edição parisiense de 1817 de Os Lusíadas promovida pelo Morgado de Mateus. A atribuição «Segundo Beatriz Peralta García» não foi confirmada por mim (o artigo dela está nos domínios a evitar); só confirmei o facto, não que ela o diga. Os resultados da pesquisa (Diário de Coimbra, BNP purl.pt/43384) vão no mesmo sentido, mas não os abri. Palmela, Pombal e Silvestre Pinheiro Ferreira não aparecem associados a essa edição. Nota: a edição de 1817 é de D. José Maria de Sousa (Morgado de Mateus); a de 1819 é a «nova edição correcta».",
+      "hash_texto": "0978e1831ead323c5ed2d97fb1784a25efe251d61815c45b3fc98d2c6a452a80"
     },
     "advogado": {
       "aprovado": true,
@@ -101,8 +102,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
+      "notas": "A atribuição a Beatriz Peralta García, o op. 23 e a tonalidade são iguais nos dois idiomas. As quatro opções coincidem uma a uma. Não há pista gramatical.",
+      "data": "2026-11-18",
+      "hash_texto": "f97287d83083feaccf389c7f1dfaf7ec1f41cf173e19f480ff7a89edf1a43bff"
     }
   },
   "estado": "aprovada",
@@ -175,6 +177,18 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte enciclopediacamoes.pt"
     }
   ],
   "options_lock": "f4a8a2375b13e910a0518e895fd9cb54a0510dae8ccc13e7e2ca6b5e22a9dfa1"

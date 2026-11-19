@@ -1,0 +1,171 @@
+{
+  "id": "Q-2026-000089",
+  "topic": "Nature & Animals",
+  "subtopic": "Genética do paladar",
+  "text": {
+    "pt-PT": {
+      "question": "No estudo de 2005 que explicou a indiferença do gato ao açúcar, em que outro animal testado o gene Tas1r2 estava inutilizado?",
+      "options": [
+        "Ser humano",
+        "Cão",
+        "Tigre",
+        "Rato"
+      ],
+      "explanation": "O tigre: no estudo de 2005 (PLoS Genetics), tal como a chita, mostrou a mesma deleção de 247 pares de bases no Tas1r2 do gato. Segundo o estudo, o cão, o ser humano, o rato e a ratazana têm sabor doce funcional."
+    },
+    "en-US": {
+      "question": "In the 2005 study that explained why cats are indifferent to sugar, in which other tested animal was the Tas1r2 gene disabled?",
+      "options": [
+        "Human",
+        "Dog",
+        "Tiger",
+        "Mouse"
+      ],
+      "explanation": "The tiger: in the 2005 study (PLoS Genetics), it showed the same 247-base-pair deletion in Tas1r2 as the domestic cat, as did the cheetah. According to the study, dogs, humans, mice and rats have a functional sweet taste."
+    }
+  },
+  "correct": 2,
+  "difficulty": 2,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0010003",
+    "https://www.eurekalert.org/news-releases/547458"
+  ],
+  "fontes": [
+    {
+      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0010003",
+      "dominio": "plos.org",
+      "titulo": "Pseudogenization of a Sweet-Receptor Gene Accounts for Cats' Indifference toward Sugar (PLOS Genetics, 2005)",
+      "nivel": 1,
+      "excerto": "We found that Tas1r2 in all six cats, the tiger, and the cheetah show the identical 247-bp deletion in exon 3. [...] compared with dog, human, mouse, and rat—all species that display a functional sweet-taste modality.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.eurekalert.org/news-releases/547458",
+      "dominio": "eurekalert.org",
+      "titulo": "Defective sweet taste receptor gene shapes cat cuisine (Monell Chemical Senses Center, 2005)",
+      "nivel": 2,
+      "excerto": "The Monell researchers also detected the same gene defect in tiger and cheetah, suggesting that it is common to species throughout the cat family.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://omia.org/OMIA001617/9685/",
+      "dominio": "omia.org",
+      "titulo": "OMIA:001617-9685: Sweet taste, lack of in Felis catus (domestic cat) (Online Mendelian Inheritance in Animals)",
+      "nivel": 2,
+      "excerto": "Li et al. (2005) provided convincing evidence that ... TAS1R2, is a non-functional pseudogene in all cats, tigers and cheetahs: ... a 247-base pair microdeletion in exon 3 and stop codons in exons 4 and 6",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Tigre",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "omia.org",
+      "data": "2026-11-18",
+      "notas": "Página lida (base de dados da Universidade de Sydney que resume o estudo de 2005). Confirma o tigre. Cão, rato e ser humano não constam como tendo o gene inutilizado: sabe-se que têm recetor doce funcional, mas não li uma fonte que liste explicitamente as espécies com gene intacto no estudo de 2005 (PMC do artigo devolveu reCAPTCHA). Confiança média por isso.",
+      "hash_texto": "bdf0b93339940302c25091091c79f12067a6c6a85e398ce28062c2a83b2d77ae"
+    },
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "O estudo de 2005 (PLoS Genetics) mostra a mesma deleção de 247 pb no Tas1r2 do tigre e da chita, além do gato. Diz também que cão, ser humano, rato e ratazana têm sabor doce funcional, por isso os três distratores são claramente errados. A chita não aparece nas opções, logo não há segunda resposta. O OMIA confirma de forma independente. Não consegui derrubar a pergunta. | páginas lidas pelo advogado: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0010003, https://omia.org/OMIA001617/9685/"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado e opções intactos. Explicação reescrita em 2 frases (cerca de 215 caracteres), a começar pela resposta, com 247 pares de bases, a atribuição ao estudo de 2005 (PLoS Genetics) e a lista das espécies com sabor doce funcional mantidas. Sem factos novos. Dificuldade e subtema mantidos.",
+      "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "Opção certa no índice 2 (Tiger), ordem mantida. «Rato» = Mouse (opção 4); «ratazana» = rats (só na explicação). O pt-PT diz «do gato» e «tal como a chita»; usei «the domestic cat» para evitar ambiguidade com a pergunta, sem acrescentar facto novo (se o conferente preferir literal: «in the cat's Tas1r2»). Mantida a atribuição «According to the study». Explicação com cerca de 250 caracteres e 2 frases."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Resposta certa (índice 2, tigre/Tiger) igual nos dois idiomas. As outras opções correspondem uma a uma: ser humano/Human, cão/Dog, rato/Mouse. Atribuição «Segundo o estudo»/«According to the study» mantida. Pormenor menor: o en-US diz «domestic cat» onde o pt-PT diz só «gato». Não muda o facto nem a resposta.",
+      "data": "2026-11-18",
+      "hash_texto": "d43369244e24c39322ba5dd81d7ba93d2dbdf117160da0b613a094b8e7eaeaea"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
+  "criada_em": "2026-11-18",
+  "historico": [
+    {
+      "data": "2026-11-18",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Ângulo: pergunta atribuída ao estudo de 2005 (Li et al.), com distratores que o próprio estudo dá como tendo sabor doce funcional (cão, humano, rato); sem afirmar nada sobre outros animais. «Inutilizado» = pseudogene (deleção + codões de paragem). Reduz o risco do advogado: o cão só aparece no estudo como proteína «aparentemente normal» e comportamento de apreço pelos doces («even some other carnivores such as the dog»); a explicação atribui ao estudo. Quase clássico (gatos não saboreiam o doce) mas o ângulo tigre/estudo não é de quiz; tratar como não clássico. Opção «Rato» pode ser lida como rato ou ratinho: ambos testados no estudo. Chita e outros felinos não aparecem como opções."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Nenhum quiz com este enunciado. O facto geral (gatos não sentem o doce) é conhecido, mas a pergunta sobre o outro animal testado no estudo de 2005 é um ângulo próprio. Sem quizzes com as mesmas opções. Nota factual para o verificador: estudos posteriores (2012) mostram também outros animais com o gene inutilizado (leões-marinhos, golfinhos), por isso confirmar que a pergunta se limita ao estudo de 2005. | provas: https://www.nature.com/news/2005/050718/full/news050718-16.html (notícia Nature 2005, não quiz); https://www.scientificamerican.com/article/strange-but-true-cats-cannot-taste-sweets/ (artigo)"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte scientificamerican.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo): formulacao: Em pt-PT, «rato» é o mouse e «ratazana» é o rat. A explicação diz «ratinho e rato», o que traduz mal «mouse and rat» e c"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte omia.org"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Opção certa no índice 2 (Tiger), ordem mantida. «Rato» = Mouse (opção 4); «ratazana» = rats (só na explicação). O pt-PT diz «do gato» e «tal como a chita»; usei «the domestic cat» para evitar ambiguidade com a pergunta, sem acrescentar facto novo (se o conferente preferir literal: «in the cat's Tas1r2»). Mantida a atribuição «According to the study». Explicação com cerca de 250 caracteres e 2 frases."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "etiquetas": [],
+  "options_lock": "68c7d21b4357a7627f2f932b422ad9a291fa9389e7f9431dcd9f3cb27f3cd0ec"
+}

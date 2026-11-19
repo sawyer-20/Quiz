@@ -1,0 +1,182 @@
+{
+  "id": "Q-2026-000088",
+  "topic": "Movies",
+  "subtopic": "Cannes e a Palma de Ouro",
+  "text": {
+    "pt-PT": {
+      "question": "A palma da Palma de Ouro de Cannes remete para que emblema?",
+      "options": [
+        "O brasão da cidade de Cannes",
+        "O brasão do Principado do Mónaco",
+        "O emblema do Palácio dos Festivais",
+        "O logótipo do ministério francês da Cultura"
+      ],
+      "explanation": "O brasão da cidade de Cannes. Segundo o Festival de Cannes, a palma remete para o brasão e o lema da cidade, «Praemium palma victori», e o troféu da Palma de Ouro nasceu desse símbolo."
+    },
+    "en-US": {
+      "question": "What emblem does the palm in Cannes' Palme d'Or refer to?",
+      "options": [
+        "The coat of arms of the city of Cannes",
+        "The coat of arms of the Principality of Monaco",
+        "The emblem of the Palais des Festivals",
+        "The logo of the French Ministry of Culture"
+      ],
+      "explanation": "The coat of arms of the city of Cannes. According to the Cannes Festival, the palm refers to the city's coat of arms and motto, \"Praemium palma victori,\" and the Palme d'Or trophy grew out of that symbol."
+    }
+  },
+  "correct": 0,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.festival-cannes.com/en/the-festival/the-palme-d-or/"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.festival-cannes.com/en/the-festival/the-palme-d-or/",
+      "dominio": "festival-cannes.com",
+      "titulo": "The Palme d'or - Festival de Cannes",
+      "nivel": 1,
+      "excerto": "the Festival's Board of Directors invited several jewellers to submit designs for a Palme, a tribute to the coat of arms of the City of Cannes. The original design ... was that of ... Lucienne Lazon.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.festival-cannes.com/en/2025/a-palme-for-an-emblem/",
+      "dominio": "festival-cannes.com",
+      "titulo": "A Palme for an emblem - Festival de Cannes",
+      "nivel": 1,
+      "excerto": "Originally, the palme refers to the coat of arms and motto of the city of Cannes: “Praemium palma victori”, meaning “The palme is the prize of the winner”.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://en.palaisdesfestivals.com/palais-events/trade-shows-and-events/cannes-film-festival/",
+      "dominio": "palaisdesfestivals.com",
+      "titulo": "Cannes welcomes the Festival de Cannes, the world's most famous film festival (Palais des Festivals)",
+      "nivel": 1,
+      "excerto": "The Palme, whose design is inspired by the coat of arms of the city of Cannes, weighs 118 grams and requires 40 hours of work by five artisans at the maison Chopard.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "O brasão da cidade de Cannes",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "palaisdesfestivals.com",
+      "data": "2026-11-18",
+      "notas": "Página lida. O Palais des Festivals é do organismo municipal/gestor do local, não é o domínio do festival nem republicação dos títulos a evitar. Excluídas: Mónaco, ministério da Cultura e emblema do Palácio dos Festivais (nenhuma fonte as liga à palma). | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Algumas fontes secundárias referem também as palmeiras da Croisette, mas a fonte lida diz que o desenho se inspira no brasão da cidade, que é a única opção compatível.",
+      "hash_texto": "8a0840d5d6e968ea9a9b900c233a9818128a1b0f56aa513f090d2f87d972d3be"
+    },
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "O Festival de Cannes diz que a palma remete para o brasão e o lema da cidade, «Praemium palma victori». O Palais des Festivals diz que o troféu se inspira no brasão da cidade, o que apoia a segunda frase da explicação. Os distratores (Mónaco, Palácio dos Festivais, ministério) não têm apoio nas fontes. Não consegui derrubar a pergunta. | páginas lidas pelo advogado: https://www.festival-cannes.com/en/2025/a-palme-for-an-emblem/, https://en.palaisdesfestivals.com/palais-events/trade-shows-and-events/cannes-film-festival/"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado e opções intactos. Explicação começa agora pela resposta e mantém a atribuição ao Festival de Cannes. Subtema afinado de «Festivais» para algo mais específico. Dificuldade mantida.",
+      "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "Corrigido: aspas retas duplas no lema latino."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "A atribuição ao Festival de Cannes, o lema latino e as quatro opções coincidem. Há uma pista lexical (Cannes aparece na pergunta e na opção certa), mas existe nos dois idiomas e não é nova. Pontuação americana correta.",
+      "data": "2026-11-18",
+      "hash_texto": "151091e8aab78c148f2291de7ee03a0f06861dc3727d06f2f843d3b90a164c0a"
+    }
+  },
+  "estado": "suspensa",
+  "motivo_rejeicao": "decisão do Andre (18/11): sem segunda fonte independente do festival que ligue a Palma de Ouro ao brasão; suspensa, não rejeitada",
+  "lote": "lote-2026-11-18-retomas",
+  "criada_em": "2026-11-18",
+  "historico": [
+    {
+      "data": "2026-11-18",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Ângulo: origem simbólica da palma (não o clássico «quem ganhou»). Não clássico. As duas fontes são do mesmo domínio (festival-cannes.com): falta fonte independente, a procurar pelo verificador (Wikipédia só como pista). A página «Palme d'or» tem incoerências internas (18 vs 24 quilates; Grand Prix 1964-74 vs Palma reintroduzida em 1975), por isso a pergunta evita quilates e datas além de 1939/1955; datas 1939 e 1955 vêm da página «A Palme for an emblem» e a de 1955 também da outra. Dúvida: a explicação diz «em 1955 passou a troféu, com desenho de Lazon»; a primeira página diz que o desenho foi escolhido em 1954 e o primeiro troféu data de 1955: coerente. Se o advogado achar a data 1939 pouco sustentada por duas fontes independentes, retirá-la do enunciado."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "O facto circula em artigos e na página do Festival, mas não encontrei nenhuma pergunta de quiz com este ângulo (emblema da cidade, documentos de 1939). Opções sem correspondência. | provas: https://www.festival-cannes.com/en/2025/a-palme-for-an-emblem/ (página do Festival com o facto, não quiz); https://www.wikiwand.com/en/articles/Palme_d'Or (enciclopédia)"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte palaisdesfestivals.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo): numeros: «Desde 1939» (no enunciado) e «1955» (na explicação) só têm a página do Festival de Cannes, que é o mesmo domínio nas du; formulacao: «Emblema da cidade» no enunciado dá a pista direta para a opção «brasão da cidade de Cannes»."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte palaisdesfestivals.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "«Palma de Ouro» mantido como Palme d'Or (nome corrente em inglês, nome da distinção). «Palácio dos Festivais» traduzido por Palais des Festivals (nome da instituição). O motto latino mantido entre aspas como no pt-PT. «Principado do Mónaco» = Principality of Monaco. Uso de «Cannes'» na pergunta (possessivo) para ficar natural."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"explicação\", \"idioma\": \"en-US\", \"detalhe\": \"O en-US usa aspas angulares «Praemium palma victori». O inglês americano usa aspas retas duplas: \\\"Praemium palma victori\\\".\"}]"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Corrigido: aspas retas duplas no lema latino."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "suspensa",
+      "agente": "orquestrador",
+      "nota": "decisão do Andre (18/11): sem segunda fonte independente do festival que ligue a Palma de Ouro ao brasão; suspensa, não rejeitada"
+    }
+  ],
+  "etiquetas": [],
+  "options_lock": "a44f3e96d6aaa62476c65c3891a23cf3a8ee5dcf596f73ba78de82793db49dbc"
+}

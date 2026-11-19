@@ -1,0 +1,165 @@
+{
+  "id": "Q-2026-000099",
+  "topic": "Football",
+  "subtopic": "Bola de Ouro",
+  "text": {
+    "pt-PT": {
+      "question": "Até 2026, o vencedor mais velho da Bola de Ouro recebeu-a em 1956. Que idade tinha nessa altura?",
+      "options": [
+        "36 anos",
+        "41 anos",
+        "34 anos",
+        "38 anos"
+      ],
+      "explanation": "Tinha 41 anos: Stanley Matthews, do Blackpool, venceu a primeira Bola de Ouro. Ainda jogou mais nove anos, até se retirar aos 50."
+    },
+    "en-US": {
+      "question": "As of 2026, the oldest Ballon d'Or winner received it in 1956. How old was he at the time?",
+      "options": [
+        "36 years old",
+        "41 years old",
+        "34 years old",
+        "38 years old"
+      ],
+      "explanation": "He was 41: Stanley Matthews of Blackpool won the first Ballon d'Or. He played on for nine more years, until retiring at 50."
+    }
+  },
+  "correct": 1,
+  "difficulty": 4,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.guinnessworldrecords.com/world-records/788751-oldest-winner-of-footballs-soccers-ballon-dor-award",
+    "https://www.si.com/soccer/oldest-ballon-dor-winners-all-time"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.guinnessworldrecords.com/world-records/788751-oldest-winner-of-footballs-soccers-ballon-dor-award",
+      "dominio": "guinnessworldrecords.com",
+      "titulo": "Oldest winner of football's (soccer's) Ballon d'Or award (Guinness World Records)",
+      "nivel": 2,
+      "excerto": "The oldest winner ... is Stanley Matthews (UK b. 1 February 1915), who was aged 41 years 321 days when he received the award on 18 December 1956. ... He played for another nine years before retiring at the age of 50.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.si.com/soccer/oldest-ballon-dor-winners-all-time",
+      "dominio": "si.com",
+      "titulo": "The Oldest Ballon d'Or Winners of All Time (Sports Illustrated, 19/10/2026)",
+      "nivel": 2,
+      "excerto": "1. Stanley Matthews ... Age: 41 Winning Year: 1956 ... won the inaugural Ballon d'Or in 1956. ... Messi ... Age: 36 Winning Year: 2023",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://ballondor.com/news/posts/who-is-the-oldest-ballon-dor-winner",
+      "dominio": "ballondor.com",
+      "titulo": "Who is the oldest Ballon d'Or winner? (Ballondor.com, site oficial)",
+      "nivel": 1,
+      "excerto": "The inaugural Ballon d'Or winner in 1956, Stanley Matthews is by far the oldest Ballon d'Or winner, men and women combined. The English forward was 41 years, 10 months and 17 days old when he received",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "41 anos",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "ballondor.com",
+      "data": "2026-11-18",
+      "notas": "Site oficial da Bola de Ouro (publicado a 12/07/2026, atualizado a 13/07/2026), lido na íntegra. Matthews tinha 41 anos, 10 meses e 17 dias; a mais próxima é Messi, com 36 anos em 2023. Excluídas: 36 anos (idade de Messi em 2023), 34 anos (Messi 2021, Benzema, Rapinoe) e 38 anos (sem correspondência na lista). A afirmação do enunciado ('o mais velho até 2026') confirma-se. Com 41 anos completos e 10 meses, a resposta '41 anos' é a única possível.",
+      "hash_texto": "a39dcbc042f59619098ae985f51eaae82ae891814011de387be20f7168593be1"
+    },
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "O ballondor.com (nível 1, publicado em julho de 2026) diz que Matthews tinha 41 anos, 10 meses e 17 dias. Diz também que é o vencedor mais velho de sempre, contando homens e mulheres. O Guinness (nível 2) dá 41 anos e 321 dias a 18 de dezembro de 1956, e diz que ele jogou mais nove anos e se retirou aos 50. As duas fontes concordam. Os distratores são idades de Messi (36 e 34) e Benzema (34); nenhum é a idade de Matthews. O 38 não corresponde a nenhum vencedor. O 'Até 2026' no enunciado já fixa a validade, e nenhum vencedor de 2026 ultrapassaria 41 anos e 10 meses. A explicação tem 2 frases e menos de 300 caracteres, sem linguagem de dúvida. Não consegui derrubar. | páginas lidas pelo advogado: https://ballondor.com/news/posts/who-is-the-oldest-ballon-dor-winner, https://www.guinnessworldrecords.com/world-records/788751-oldest-winner-of-footballs-soccers-ballon-dor-award"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado e opções intactos. Explicação começa pela resposta, mantém números e atribuições (cerca de 130 caracteres, 2 frases). Dificuldade subida de 3 para 4: poucos conhecem a idade de Matthews e as opções são muito próximas entre si.",
+      "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "«Bola de Ouro» -> Ballon d'Or (nome corrente em inglês). «Blackpool» sem \"FC\" como no pt-PT."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Resposta certa: 41 anos nos dois idiomas. «Até 2026»/«As of 2026» e os números (nove anos, 50) coincidem. As opções correspondem pela mesma ordem.",
+      "data": "2026-11-18",
+      "hash_texto": "0b29e822598d4cc8d076948a33b6537e138478ae84cd8ca8412c4dead8be5223"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
+  "criada_em": "2026-11-18",
+  "historico": [
+    {
+      "data": "2026-11-18",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Ângulo: a idade do vencedor e não o 'quem foi o primeiro vencedor' (esse sim é mais batido); o facto Matthews 41 anos aparece em listas de curiosidades, mas a pergunta pela idade é pouco habitual: classificar como original/semi-clássico, o verificador decide. Recorde mutável (enunciado leva 'Até 2026'; praticamente inalcançável, valid_until null mas daily_eligible a critério do Andre). Distrator 36 é a idade de Messi em 2023 (segundo mais velho, SI), por isso nenhum outro valor pode estar certo; confirmar que ninguém tem 38 ou 34 como recorde. Sem fonte de nível 1 (France Football/Ballon d'Or oficial não procurados com êxito); Guinness e SI são nível 2. Nota: um artigo da TNT Sports dá 41 anos e 104 dias (divergência de dias, não de anos); por isso a pergunta usa só os anos. Nenhum facto mudou desde o primeiro envio."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Só encontrei artigos e listas. Nenhum quiz com a idade do vencedor mais velho como pergunta de opção múltipla. A pergunta clássica seria 'quem é o vencedor mais velho'; a nossa pergunta pela idade (com 'até 2026') é um ângulo próprio. Nota para o orquestrador: a pergunta é sensível ao tempo (valid_until) e as opções 38 e 41 são próximas de factos reais (Messi 36 em 2023), o que é matéria do verificador, não da originalidade. | provas: https://www.guinnessworldrecords.com/world-records/788751-oldest-winner-of-footballs-soccers-ballon-dor-award (recorde, não pergunta de quiz); https://www.topendsports.com/sport/soccer/awards/ballondor-trivia.htm (curiosidades, sem este enunciado); https://www.90min.com/posts/oldest-ballon-dor-winners-of-all-time (lista, não quiz)"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte thenationalnews.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo): numeros: A explicação dá «41 anos e 321 dias», e os «321 dias» só aparecem na Guinness. A The National dá «41 anos, 10 meses e 17"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte ballondor.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "«Bola de Ouro» -> Ballon d'Or (nome corrente em inglês). «Blackpool» sem \"FC\" como no pt-PT."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "etiquetas": [],
+  "options_lock": "714512021e151d54190e6fd5f49e692b83a109b1794d5eed2f09670302292046"
+}

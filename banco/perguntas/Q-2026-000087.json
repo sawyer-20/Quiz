@@ -1,0 +1,169 @@
+{
+  "id": "Q-2026-000087",
+  "topic": "Movies",
+  "subtopic": "Clássicos do cinema",
+  "text": {
+    "pt-PT": {
+      "question": "No livro original «O Feiticeiro de Oz», de que cor eram os sapatos mágicos de Dorothy, que no filme de 1939 passaram a vermelhos?",
+      "options": [
+        "Prateados",
+        "Verde-esmeralda",
+        "Dourados",
+        "Azul-safira"
+      ],
+      "explanation": "Prateados: no romance de L. Frank Baum os sapatos eram de prata. Segundo a Biblioteca do Congresso, terão sido mudados para rubi no filme da MGM de 1939 para tirar partido da fotografia a cores."
+    },
+    "en-US": {
+      "question": "In the original book, \"The Wonderful Wizard of Oz,\" what color were Dorothy's magic shoes, which turned red in the 1939 film?",
+      "options": [
+        "Silver",
+        "Emerald green",
+        "Gold",
+        "Sapphire blue"
+      ],
+      "explanation": "Silver: in L. Frank Baum's novel the shoes were silver. According to the Library of Congress, they were reportedly changed to ruby in the 1939 MGM film to take advantage of color photography."
+    }
+  },
+  "correct": 0,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.loc.gov/exhibits/oz/ozsect2.html"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.loc.gov/exhibits/oz/ozsect2.html",
+      "dominio": "loc.gov",
+      "titulo": "To See the Wizard - The Wizard of Oz: An American Fairy Tale (Library of Congress)",
+      "nivel": 1,
+      "excerto": "Originally silver in Baum's book, the slippers were purportedly changed to ruby to take full advantage of color photography. Each shoe is covered with red satin, to which 2,300 sequins are applied.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.smithsonianmag.com/smithsonian-institution/without-camera-emerald-city-would-have-been-color-mud-180961463/",
+      "dominio": "smithsonianmag.com",
+      "titulo": "Without This Camera, the Emerald City Would Have Been the Color of Mud (Smithsonian Magazine)",
+      "nivel": 2,
+      "excerto": "In the original book, and in the original script that we have, Dorothy's ruby slippers are described as silver. Before shooting, they were changed to take advantage of Technicolor.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Prateados",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "smithsonianmag.com",
+      "data": "2026-11-18",
+      "notas": "Li a página (curador do Smithsonian, Lintelman). Confirma prateados no livro e a mudança para vermelhos por causa do Technicolor. Pesquisa no Project Gutenberg também aponta silver shoes no texto de Baum, mas as páginas deram 503/502 e não as consegui abrir. Azul-safira, dourados e verde-esmeralda não aparecem em nenhuma fonte como cor dos sapatos. Fonte distinta de loc.gov.",
+      "hash_texto": "586e2a1617ea6cc76daa9c8e18decbc522229a905fe93ee2261cd79d7db49205"
+    },
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "A LOC diz «originally silver in Baum's book» e «purportedly changed to ruby». O Smithsonian confirma que no livro e no guião original os sapatos são de prata e que foram mudados antes das filmagens por causa do Technicolor. A dúvida («terão sido») está atribuída à Biblioteca do Congresso, o que a regra permite. Não encontrei fonte que apoie verde, dourado ou azul para o livro. Não consegui derrubar a pergunta. | páginas lidas pelo advogado: https://www.loc.gov/exhibits/oz/ozsect2.html, https://www.smithsonianmag.com/smithsonian-institution/without-camera-emerald-city-would-have-been-color-mud-180961463/"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado e opções intactos. Explicação passa a começar pela resposta; mantive a atribuição à Biblioteca do Congresso e o «terão sido» da fonte. Dificuldade subida de 2 para 3: o filme é conhecido, mas a cor original do livro não é do domínio geral.",
+      "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "Corrigido: título da obra dado na pergunta, sem o nome do autor; «turned red»; «color photography». Baum só na explicação, como no pt-PT. Título em inglês corrente (The Wonderful Wizard of Oz)."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "A atribuição à Biblioteca do Congresso e a cautela («terão sido»/«reportedly») coincidem. Opções equivalentes uma a uma. O título do livro é «O Feiticeiro de Oz» em pt e «The Wonderful Wizard of Oz» em en: é o título normal em cada língua, por isso não reprovei.",
+      "data": "2026-11-18",
+      "hash_texto": "a4cc6dd0acdb4b5fe519b881f9a517988c15bc41554431ec4cdd0386e63ed447"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
+  "criada_em": "2026-11-18",
+  "historico": [
+    {
+      "data": "2026-11-18",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Ângulo: diferença livro/filme (clássico de curiosidades, logo etiqueta clássico provável; dificuldade 2 e não 1, porque muita gente não sabe que no livro eram de prata). A LoC usa «purportedly» para a razão da mudança: a explicação atribui à LoC e diz só que a cor foi mudada; o verificador deve confirmar o motivo ou o advogado pode pedir para o retirar. Smithsonian (americanhistory.si.edu) devolveu 403, por isso falta a segunda fonte de domínio diferente; o resultado de pesquisa indica que o Smithsonian também diz que eram prateados no livro. Nota: no enunciado, «sapatos» (PT-PT) em vez de «sapatilhas»; o título do livro em PT («O Feiticeiro de Oz») pode variar entre edições."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "originalidade: classico",
+      "agente": "originalidade",
+      "nota": "Facto e forma de perguntar (cor original dos sapatos no livro, mudada para vermelho no filme) são habituais em quizzes. As páginas de quiz abertas não mostraram o conjunto exato de 4 opções (só os resultados de pesquisa), por isso não há prova de opções iguais. Ver conclusão a partir dos resultados de pesquisa, sem abrir as páginas do FunTrivia. Não usar em dificuldade 4 ou 5. | provas: https://funtrivia.com/trivia-quiz/ForChildren/The-Wonderful-Wizard-of-Oz-by-L-Frank-Baum-262966.html (quiz FunTrivia sobre o livro; segundo a pesquisa, inclui a cor original dos sapatos); https://funtrivia.com/trivia-quiz/Movies/Off-to-See-the-Wizard-13774.html (quiz sobre o filme com a mudança dos sapatos); https://www.triviaduel.com/wizard-of-oz-trivia (trivia sobre Oz)"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte archive.org"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo): duvida: A LoC diz que os sapatos foram \"purportedly changed\" (alegadamente mudados) para rubi, para aproveitar a cor. A explicaç"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte smithsonianmag.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "O pt-PT diz «O Feiticeiro de Oz»; usei o título corrente em inglês, The Wonderful Wizard of Oz, omitido na pergunta e substituído por «Baum's original book» (L. Frank Baum aparece na explicação pt-PT, não na pergunta; é o mesmo livro, mas o conferente deve ver). «terão sido mudados» (cautela atribuída à Biblioteca do Congresso) traduzido por «reportedly» com a atribuição «According to the Library of Congress». «fotografia a cores» traduzido por «Technicolor photography»: o pt-PT não diz Technicolor, por isso o conferente deve avaliar se é nome a mais; alternativa mais literal: «color photography»."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"pergunta\", \"idioma\": \"en-US\", \"detalhe\": \"O en-US atribui o livro a «L. Frank Baum's», e o pt-PT diz só «No livro original «O Feiticeiro de Oz»». O en-US dá um nome que o pt-PT não dá na pergunta, e o pt-PT dá um título que o en-US não dá.\"}, {\"onde\": \"explicação\", \"idioma\": \"en-US\", \"detalhe\": \"O en-US diz «Technicolor photography», mais específico do que o pt-PT «fotografia a cores». Há informação a mais no en-US.\"}, {\"onde\": \"pergunta\", \"idioma\": \"pt-PT\", \"detalhe\": \"O pt-PT diz «v"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Corrigido: título da obra dado na pergunta, sem o nome do autor; «turned red»; «color photography». Baum só na explicação, como no pt-PT. Título em inglês corrente (The Wonderful Wizard of Oz)."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "etiquetas": [
+    "classico"
+  ],
+  "options_lock": "fc9c7973ffa7c9665a18b10be152b6e5fc69bc440df99a4a684930749b91b86a"
+}
