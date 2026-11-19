@@ -32,6 +32,7 @@ def main():
             "daily": bool(q.get("daily_eligible")),
             "pendente": bool(q.get("confirmacao_pendente")),
             "correct": q["correct"],
+            "sources": q.get("sources", []),
             "text": {l: {"q": t[l]["question"], "o": t[l]["options"], "e": t[l]["explanation"]} for l in ("pt-PT", "en-US")},
         })
     destino = RAIZ / "app" / "assets" / "perguntas.json"

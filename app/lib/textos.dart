@@ -20,6 +20,15 @@ class T {
   String get jogarOutra => pt ? 'Jogar outra vez' : 'Play again';
   String get inicio => pt ? 'Início' : 'Home';
   String get revisao => pt ? 'Revisão' : 'Review';
+  String get tuaResposta => pt ? 'A tua resposta' : 'Your answer';
+  String get tempoMedio => pt ? 'Tempo médio' : 'Avg. time';
+  String get melhorSerie => pt ? 'Melhor série' : 'Best streak';
+  String get certasRotulo => pt ? 'Certas' : 'Correct';
+  String get fontes => pt ? 'Fontes' : 'Sources';
+  String get voltarInicio => pt ? 'Voltar ao início' : 'Back to home';
+  String get proximaPergunta => pt ? 'Seguinte' : 'Next';
+  String get tagline => 'THE GAME OF KNOWLEDGE';
+  String perguntaDe(int i, int n) => pt ? 'PERGUNTA $i DE $n' : 'QUESTION $i OF $n';
   String get idioma => pt ? 'Idioma' : 'Language';
   String get avisoBanco => pt
       ? 'Perguntas verificadas pelo motor de factos QUIZLUX (versão de demonstração).'

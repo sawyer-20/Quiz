@@ -1,7 +1,9 @@
 # Design QUIZLUX
 
-As boards (`quizlux-design.zip`) **não chegaram à sessão**: a pasta de anexos estava vazia e não há
-nenhum ficheiro com esse nome no ambiente. Quando chegarem, entram aqui.
+As boards chegaram a 19/11/2026: `quizlux-design.zip` (original) e `boards/` (os ecrãs em HTML:
+Brand, Splash, Home, Topics, Duels, Question, States, Result, Profile, CreateChallenge, mais `canvas.json`
+e `gen.py`, o gerador). O modo solo implementa Splash, Topics (lista), Gameplay, Answer states e Result.
+Ficam por fazer: Home com XP e níveis, Duels, Profile e Create a challenge (precisam de backend).
 
 ## Tokens aplicados (indicados pelo Andre em 19/11/2026)
 

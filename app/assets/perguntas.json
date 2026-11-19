@@ -6,6 +6,11 @@
   "daily": true,
   "pendente": false,
   "correct": 2,
+  "sources": [
+   "https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/",
+   "https://www.vam.ac.uk/articles/what-is-tapestry",
+   "https://media.unesco.org/sites/default/files/webform/mow001/nomination-form-bayeux-tapestry_en_0.pdf"
+  ],
   "text": {
    "pt-PT": {
     "q": "Que técnica deu forma às cenas da Tapeçaria de Bayeux, que narra a conquista normanda de 1066?",
@@ -36,6 +41,11 @@
   "daily": true,
   "pendente": false,
   "correct": 2,
+  "sources": [
+   "https://www.cambridge.org/core/journals/greece-and-rome/article/abs/latest-work-on-the-export-of-baetican-olive-oil-to-rome-and-the-army/07D28E24DEC41641E1383BAC0CFF12D6",
+   "https://turismoroma.it/it/luoghi/monte-dei-cocci",
+   "https://www.oliveoiltimes.com/world/monte-testaccio-remnants-ancient-trade/46185"
+  ],
   "text": {
    "pt-PT": {
     "q": "O Monte Testaccio, em Roma, é uma colina artificial. De que é feita quase por inteiro?",
@@ -66,6 +76,10 @@
   "daily": true,
   "pendente": false,
   "correct": 2,
+  "sources": [
+   "https://www.rmg.co.uk/stories/time/which-years-are-leap-years-can-you-have-leap-seconds",
+   "https://libguides.ctstatelibrary.org/hg/colonialresearch/calendar"
+  ],
   "text": {
    "pt-PT": {
     "q": "Na passagem ao calendário gregoriano, em 1752, que dia se seguiu a 2 de setembro na Grã-Bretanha?",
@@ -96,6 +110,11 @@
   "daily": true,
   "pendente": false,
   "correct": 1,
+  "sources": [
+   "https://www.nist.gov/si-redefinition/meter",
+   "https://metrologie-francaise.lne.fr/en/metrology/history-units",
+   "https://link.springer.com/article/10.1007/s00190-019-01257-7"
+  ],
   "text": {
    "pt-PT": {
     "q": "Quando criou o metro, a França revolucionária definiu-o como a décima milionésima parte de que distância?",
@@ -126,6 +145,10 @@
   "daily": true,
   "pendente": false,
   "correct": 1,
+  "sources": [
+   "https://nagasakidejima.jp/history/",
+   "https://www.japanistry.com/dejima/"
+  ],
   "text": {
    "pt-PT": {
     "q": "A ilha artificial de Dejima, em Nagasaki, foi construída na década de 1630 para confinar mercadores de que nacionalidade?",
@@ -156,6 +179,11 @@
   "daily": true,
   "pendente": false,
   "correct": 3,
+  "sources": [
+   "https://exhibits.library.cornell.edu/chocolate-food-of-the-gods/feature/when-money-grew-on-trees",
+   "https://news.asu.edu/content/asu-archaeologist-talks-aztec-currency-new-york-times",
+   "https://pages.ucsd.edu/~dkjordan/cgi-bin/moreabout.pl?tyimuh=cacao"
+  ],
   "text": {
    "pt-PT": {
     "q": "Nos mercados astecas, que sementes eram usadas como moeda?",
@@ -186,6 +214,11 @@
   "daily": true,
   "pendente": false,
   "correct": 0,
+  "sources": [
+   "https://roteirodasminas.dgeg.gov.pt/en/lista-de-pontos/torre-plateau-geosite-en-1/",
+   "https://geoparkestrela2.primelayer.pt/storage/conteudos/doc/doc_subconteudo_67f7f23212c559.44749431.pdf",
+   "https://acores.rtp.pt/local/instalado-novo-marco-geodesico-no-ponto-mais-alto-de-portugal/"
+  ],
   "text": {
    "pt-PT": {
     "q": "Em que serra fica o ponto mais alto de Portugal continental?",
@@ -216,6 +249,11 @@
   "daily": false,
   "pendente": true,
   "correct": 3,
+  "sources": [
+   "https://www.cinemateca.pt/Cinemateca/Historia.aspx",
+   "https://arquivos.rtp.pt/conteudos/incendio-na-cinemateca/",
+   "https://filmspot.pt/artigo/cinemateca-portuguesa-celebra-a-arte-da-projecao-analogica-em-janeiro-14951/"
+  ],
   "text": {
    "pt-PT": {
     "q": "Qual foi a origem do incêndio que, em 1981, destruiu a sala de cinema da Cinemateca Portuguesa, em Lisboa?",
@@ -246,6 +284,11 @@
   "daily": true,
   "pendente": false,
   "correct": 3,
+  "sources": [
+   "https://www.nobelprize.org/prizes/literature/1902/summary/",
+   "https://uzh.ch/en/researchinnovation/excellence/nobelprize/mommsen.html",
+   "https://www.nobelprize.org/prizes/literature/1902/mommsen/facts/"
+  ],
   "text": {
    "pt-PT": {
     "q": "O Nobel da Literatura de 1902 foi para o historiador Theodor Mommsen. Que obra a Academia Sueca destacou?",
@@ -276,6 +319,11 @@
   "daily": true,
   "pendente": false,
   "correct": 1,
+  "sources": [
+   "https://ciencia.ucp.pt/ws/files/94941997/94898216.pdf",
+   "https://www.portugal.gov.pt/pt/gc23/comunicacao/noticia?i=maos-que-falam-hoje-e-dia-nacional-da-lingua-gestual-portuguesa",
+   "https://mediacoes.ese.ips.pt/index.php/mediacoesonline/article/download/297/pdf/1829"
+  ],
   "text": {
    "pt-PT": {
     "q": "De que país veio o professor contratado por D. João VI para fundar em Lisboa o Real Instituto de Surdos-Mudos e Cegos?",
@@ -306,6 +354,11 @@
   "daily": true,
   "pendente": false,
   "correct": 3,
+  "sources": [
+   "https://www.museusemonumentos.pt/pt/museus-e-monumentos/museu-nacional-do-azulejo",
+   "https://artsandculture.google.com/asset/grande-panorama-de-lisboa-paço-da-ribeira/zAEzUKmNN9GdGg",
+   "https://maislisboa.fcsh.unl.pt/era-lisboa-do-terramoto-1755-ha-um-painel-azulejos-lhe-revela-quase-tudo/"
+  ],
   "text": {
    "pt-PT": {
     "q": "O Grande Panorama de Lisboa mostra a cidade vista do Tejo antes do terramoto de 1755. Em que suporte foi feito?",
@@ -336,6 +389,11 @@
   "daily": true,
   "pendente": false,
   "correct": 1,
+  "sources": [
+   "https://periodic-table.rsc.org/element/2/helium",
+   "https://www.lanl.gov/science-engineering/periodic-table/element/helium",
+   "https://winter.group.shef.ac.uk/webelements/helium/history.html"
+  ],
   "text": {
    "pt-PT": {
     "q": "Em 1868, onde estava o astrónomo francês Pierre Janssen quando registou a linha amarela que levaria ao hélio?",
@@ -366,6 +424,11 @@
   "daily": true,
   "pendente": false,
   "correct": 3,
+  "sources": [
+   "https://livros.fcsh.unl.pt/cham/catalog/download/172/712/2021?inline=1",
+   "https://www.metropolitana.pt/en/musicalia/the-lusitanian-requiem/",
+   "https://imslp.org/wiki/Messe_de_Requiem,_Op.23_(Bomtempo,_Jo%C3%A3o_Domingos)"
+  ],
   "text": {
    "pt-PT": {
     "q": "Segundo Beatriz Peralta García, o Requiem de Bomtempo surgiu após a edição parisiense de Os Lusíadas, promovida por que diplomata?",
@@ -396,6 +459,11 @@
   "daily": false,
   "pendente": false,
   "correct": 0,
+  "sources": [
+   "https://www.azoresgeopark.com/media/docs/totens_faial.pdf",
+   "https://iugs-geoheritage.org/geoheritage_sites/capelinhos-volcano/",
+   "https://pnap.dgterritorio.gov.pt/sites/default/files/Vulcao_Capelinhos.pdf"
+  ],
   "text": {
    "pt-PT": {
     "q": "Segundo a IUGS, que fração da área acrescentada ao Faial pelos Capelinhos (1957-58) resta hoje após a erosão marinha?",
@@ -426,6 +494,11 @@
   "daily": true,
   "pendente": false,
   "correct": 2,
+  "sources": [
+   "https://cultura.marinha.pt/en/museumarinha_web/multimedia_web/Pages/efemeride-tratado-de-saragoca-22abr21.aspx",
+   "https://press-files.anu.edu.au/downloads/press/p66561/html/ch04s04.html",
+   "https://en.wikisource.org/wiki/European_Treaties_bearing_on_the_History_of_the_United_States_and_its_Dependencies_to_1648/Document_16"
+  ],
   "text": {
    "pt-PT": {
     "q": "Que obra nova o Tratado de Saragoça (1529) proibiu a Portugal nas Molucas e num raio de 20 léguas à volta?",
@@ -456,6 +529,11 @@
   "daily": true,
   "pendente": false,
   "correct": 1,
+  "sources": [
+   "https://www.nationalarchives.gov.uk/help/e179/glossary.htm",
+   "https://historyofparliament.com/2025/10/16/the-westminster-fire-of-1834/",
+   "https://www.londonmuseum.org.uk/collections/v/object-484467/dreadful-fire-and-total-destruction-of-both-houses-of-parliament-1834/"
+  ],
   "text": {
    "pt-PT": {
     "q": "Que objeto serviu de recibo fiscal no Tesouro inglês medieval e, queimado em 1834, incendiou o Parlamento de Westminster?",
@@ -486,6 +564,11 @@
   "daily": true,
   "pendente": false,
   "correct": 2,
+  "sources": [
+   "https://arxiv.org/pdf/1202.2157",
+   "https://www.discovermagazine.com/what-makes-droplets-dance-around-a-hot-surface-and-then-fly-away-18503",
+   "https://www.nature.com/articles/s41467-021-21981-z"
+  ],
   "text": {
    "pt-PT": {
     "q": "Numa chapa muito acima dos 100 °C, uma gota de água desliza sem tocar no metal. O que a mantém afastada?",
@@ -516,6 +599,11 @@
   "daily": false,
   "pendente": true,
   "correct": 0,
+  "sources": [
+   "https://www.nature.com/articles/ncomms12468",
+   "https://www.mpg.de/10783234/frigatebirds-sleep-midflight",
+   "https://www.discovermagazine.com/birds-sleep-during-flights-too-17906"
+  ],
   "text": {
    "pt-PT": {
     "q": "Em 2016, registos de EEG mostraram pela primeira vez que uma ave dorme em pleno voo. Qual foi?",
@@ -546,6 +634,11 @@
   "daily": false,
   "pendente": false,
   "correct": 0,
+  "sources": [
+   "https://www.irishtimes.com/sport/sports-jargon-try-1.697492",
+   "https://www.rugbyworld.com/takingpart/rugby-basics/why-is-a-try-called-a-try-in-rugby-136012",
+   "https://en.wikisource.org/wiki/Laws_of_Football_as_played_at_Rugby_School_(1845)"
+  ],
   "text": {
    "pt-PT": {
     "q": "Segundo as leis de 1845 da Rugby School, o que ganhava uma equipa ao pousar a bola para lá da linha de ensaio?",
@@ -576,6 +669,11 @@
   "daily": false,
   "pendente": false,
   "correct": 1,
+  "sources": [
+   "https://worldathletics.org/news/news/30-years-on-jarmila-kratochvilovas-800m-wor",
+   "https://www.guinnessworldrecords.com/world-records/fastest-run-800-metres-female",
+   "https://athleticsweekly.com/news/opinion/the-world-800m-record-that-has-stood-the-test-of-time-1039969804/"
+  ],
   "text": {
    "pt-PT": {
     "q": "Até ao fim de 2025, qual destas provas femininas de pista ao ar livre tinha o recorde mundial mais antigo em vigor?",
@@ -606,6 +704,11 @@
   "daily": false,
   "pendente": true,
   "correct": 0,
+  "sources": [
+   "https://ler.letras.up.pt/uploads/ficheiros/14139.pdf",
+   "https://purl.pt/13858/1/geneses/1/3-texto-base-mensagem.html",
+   "https://observador.pt/especiais/dos-envelopes-esquecidos-a-mensagem-como-se-construiu-a-nova-edicao-critica-do-mais-famoso-livro-de-fernando-pessoa/"
+  ],
   "text": {
    "pt-PT": {
     "q": "Que título tinha primitivamente a «Mensagem», de Fernando Pessoa, antes de um amigo o levar a mudá-lo?",
@@ -636,6 +739,11 @@
   "daily": true,
   "pendente": false,
   "correct": 2,
+  "sources": [
+   "https://visit.uc.pt/pt/space-list/joanina",
+   "https://www.dn.pt/arquivo/diario-de-noticias/biblioteca-joanina-gasta-fortuna-para-nao-deixar-os-livros-morrer.html",
+   "https://www.portugal.com/location/biblioteca-joanina-the-oldest-library-in-portugal/"
+  ],
   "text": {
    "pt-PT": {
     "q": "Na Biblioteca Joanina, em Coimbra, as mesas são cobertas com couro no fim de cada dia. Para as proteger de quê?",
@@ -666,6 +774,11 @@
   "daily": false,
   "pendente": true,
   "correct": 1,
+  "sources": [
+   "https://projetos.dhlab.fcsh.unl.pt/files/original/8cce7364fca20287203002044c21a53a52377364.pdf",
+   "https://projetos.dhlab.fcsh.unl.pt/files/original/41fd9f1c979604bd5ef7bf9299a4f78fe48868cf.pdf",
+   "https://educalingo.com/pt/dic-pt/hurdicio"
+  ],
   "text": {
    "pt-PT": {
     "q": "Nos castelos medievais portugueses, para que servia o hurdício, galeria de madeira no topo das torres?",
@@ -696,6 +809,11 @@
   "daily": true,
   "pendente": false,
   "correct": 1,
+  "sources": [
+   "https://artsandculture.google.com/asset/piano-boisselot-et-fils/2gGb1dtttEyckg",
+   "https://proa.ua.pt/index.php/comunicarte/article/download/31762/21754",
+   "https://www.portugalresident.com/lisztomania-liszt-in-lisbon/"
+  ],
   "text": {
    "pt-PT": {
     "q": "O piano que Liszt levou para Lisboa em 1845 foi dado pela rainha D. Maria II a quem?",
@@ -726,6 +844,10 @@
   "daily": true,
   "pendente": false,
   "correct": 0,
+  "sources": [
+   "https://www.ncbi.nlm.nih.gov/sites/books/NBK532982/",
+   "https://my.clevelandclinic.org/health/body/22503-femur"
+  ],
   "text": {
    "pt-PT": {
     "q": "Qual destes ossos é o mais longo do corpo humano?",
@@ -756,6 +878,10 @@
   "daily": true,
   "pendente": false,
   "correct": 3,
+  "sources": [
+   "https://www.history.com/articles/academy-awards-called-oscars-nickname-origin",
+   "https://www.nbcwashington.com/entertainment/entertainment-news/oscar-statue-history-size-records-academy-awards/4075987/"
+  ],
   "text": {
    "pt-PT": {
     "q": "A estatueta dos Óscares mostra um cavaleiro com uma espada, em pé sobre que objeto?",
@@ -786,6 +912,9 @@
   "daily": true,
   "pendente": false,
   "correct": 1,
+  "sources": [
+   "https://www.smithsonianmag.com/history/rosetta-stone-hieroglyphs-champollion-decipherment-egypt-180980834/"
+  ],
   "text": {
    "pt-PT": {
     "q": "Em 1799 ninguém lia os hieróglifos. Que língua da Pedra de Roseta os estudiosos já sabiam ler e serviu de chave?",
@@ -816,6 +945,10 @@
   "daily": true,
   "pendente": false,
   "correct": 2,
+  "sources": [
+   "https://www.usgs.gov/media/images/lake-baikal-space-largest-oldest-and-deepest-lake",
+   "https://whc.unesco.org/en/list/754"
+  ],
   "text": {
    "pt-PT": {
     "q": "Que lago da Sibéria contém cerca de 20% da água doce superficial da Terra, quase tanto como os cinco Grandes Lagos juntos?",
@@ -846,6 +979,10 @@
   "daily": true,
   "pendente": false,
   "correct": 0,
+  "sources": [
+   "https://conservatory.cals.cornell.edu/plants/welwitschia-mirabilis",
+   "https://www.guinnessworldrecords.com/world-records/84107-longest-leaf-lifespan"
+  ],
   "text": {
    "pt-PT": {
     "q": "Quantas folhas permanentes tem, durante toda a vida, a Welwitschia mirabilis, planta do deserto do Namibe?",
@@ -876,6 +1013,9 @@
   "daily": true,
   "pendente": false,
   "correct": 3,
+  "sources": [
+   "https://folklife-media.si.edu/docs/festival/program-book-articles/FESTBK2000_40.pdf"
+  ],
   "text": {
    "pt-PT": {
     "q": "O cravo belisca as cordas. Como o piano, inventado por Cristofori, faz soar as suas?",
@@ -906,6 +1046,10 @@
   "daily": true,
   "pendente": false,
   "correct": 1,
+  "sources": [
+   "https://whc.unesco.org/en/list/138",
+   "https://archaeology.org/news/2022/09/08/220909-mohenjo-daro-rain/"
+  ],
   "text": {
    "pt-PT": {
     "q": "Que cidade da civilização do Indo, descoberta em 1922, tinha ruas em ângulo reto e um sistema de esgotos?",
@@ -936,6 +1080,10 @@
   "daily": true,
   "pendente": false,
   "correct": 1,
+  "sources": [
+   "https://www.lanl.gov/science-engineering/periodic-table/element/technetium",
+   "https://periodic-table.rsc.org/element/43/technetium"
+  ],
   "text": {
    "pt-PT": {
     "q": "Qual foi o primeiro elemento químico produzido artificialmente, identificado em 1937 por Perrier e Segrè?",
@@ -966,6 +1114,10 @@
   "daily": true,
   "pendente": false,
   "correct": 1,
+  "sources": [
+   "https://science.nasa.gov/mission/voyager/voyager-2/",
+   "https://airandspace.si.edu/stories/editorial/where-are-voyagers-now"
+  ],
   "text": {
    "pt-PT": {
     "q": "Qual destas sondas da NASA foi lançada a 20 de agosto de 1977?",
@@ -996,6 +1148,9 @@
   "daily": true,
   "pendente": false,
   "correct": 1,
+  "sources": [
+   "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20170101/en/pdf-a/fedlex-data-admin-ch-eli-cc-2015-613-20170101-en-pdf-a.pdf"
+  ],
   "text": {
    "pt-PT": {
     "q": "Segundo a lei suíça, os braços da cruz da bandeira são mais compridos do que largos em que fração?",
@@ -1026,6 +1181,10 @@
   "daily": true,
   "pendente": false,
   "correct": 2,
+  "sources": [
+   "https://www.zeiss.com/photonics-and-optics/en/home/content/newsroom/news-overview/2022/zeiss-planar-07-50.html",
+   "https://www.afi.com/news/barry-lyndon-1975-afi-catalog-spotlight/"
+  ],
   "text": {
    "pt-PT": {
     "q": "Que marca fabricou as lentes ultraluminosas com que Kubrick filmou à luz de velas cenas de «Barry Lyndon»?",
@@ -1056,6 +1215,10 @@
   "daily": true,
   "pendente": false,
   "correct": 3,
+  "sources": [
+   "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/PeterAndTheWolf.pdf",
+   "https://www.boosey.com/downloads/prokofjew_werkverzeichnis.pdf"
+  ],
   "text": {
    "pt-PT": {
     "q": "Quem pediu a Prokofiev, em 1936, «Pedro e o Lobo» para ensinar às crianças os instrumentos da orquestra?",
@@ -1086,6 +1249,11 @@
   "daily": true,
   "pendente": false,
   "correct": 1,
+  "sources": [
+   "https://www.irishfa.com/media/28857/history-of-the-ifa.pdf",
+   "https://downloads.theifab.com/downloads/annual-general-meeting-2015-minutes?l=en",
+   "https://www.rte.ie/sport/world-cup-2022/2022/1117/1327533-irish-origins-of-world-cup-penalty-drama/"
+  ],
   "text": {
    "pt-PT": {
     "q": "Que associação nacional levou ao IFAB a proposta de criar o pontapé de penálti?",
@@ -1116,6 +1284,10 @@
   "daily": true,
   "pendente": false,
   "correct": 0,
+  "sources": [
+   "https://www.energy.gov/ne/articles/cherenkov-radiation-explained",
+   "https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/cherenkov.html"
+  ],
   "text": {
    "pt-PT": {
     "q": "Na água de um reator nuclear, o brilho azul é causado por que partículas?",
@@ -1146,6 +1318,10 @@
   "daily": true,
   "pendente": false,
   "correct": 3,
+  "sources": [
+   "https://science.nasa.gov/mission/hubble/observatory/design/optics/hubbles-mirror-flaw/",
+   "https://arxiv.org/pdf/1203.0002"
+  ],
   "text": {
    "pt-PT": {
     "q": "O espelho principal do Hubble saiu com a forma errada por um erro de 1,3 mm. Onde esteve o erro?",
@@ -1176,6 +1352,10 @@
   "daily": true,
   "pendente": false,
   "correct": 2,
+  "sources": [
+   "https://data.riksdagen.se/dokument/G801LU16.html",
+   "https://www.atlasobscura.com/places/market-lighthouse"
+  ],
   "text": {
    "pt-PT": {
     "q": "A fronteira que atravessa o ilhéu báltico de Märket foi redesenhada nos anos 1980. Com que objetivo?",
@@ -1206,6 +1386,11 @@
   "daily": true,
   "pendente": false,
   "correct": 3,
+  "sources": [
+   "https://science.nasa.gov/neptune/neptune-facts/",
+   "https://www.nature.com/articles/287311a0",
+   "https://www.ph.unimelb.edu.au/~dnj/AP-June-2009-Galileo-Neptune.pdf"
+  ],
   "text": {
    "pt-PT": {
     "q": "Nos cadernos de Galileu de 1612-1613, um ponto de luz junto a Júpiter é hoje identificado como Neptuno. Como o registou?",
@@ -1236,6 +1421,10 @@
   "daily": false,
   "pendente": true,
   "correct": 1,
+  "sources": [
+   "https://www.colorado.edu/coloradan/2017/12/01/origins-gold-record",
+   "https://www.guinnessworldrecords.com/world-records/first-gold-disc-music-award"
+  ],
   "text": {
    "pt-PT": {
     "q": "Segundo a Universidade do Colorado, como era o primeiro «disco de ouro», entregue a Glenn Miller em 1942?",
@@ -1266,6 +1455,9 @@
   "daily": true,
   "pendente": false,
   "correct": 2,
+  "sources": [
+   "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/12-days-to-go-goals-galore-switzerland-1954-2952383"
+  ],
   "text": {
    "pt-PT": {
     "q": "No jogo Áustria 7–5 Suíça, dos quartos de final do Mundial de 1954, quantos golos foram marcados só na 1.ª parte?",
@@ -1296,6 +1488,11 @@
   "daily": false,
   "pendente": false,
   "correct": 3,
+  "sources": [
+   "https://gamehistory.org/dmca-2024-statement/",
+   "https://www.infodocket.com/2024/10/25/u-s-copyright-office-rejects-dmca-exemption-to-support-game-preservation/",
+   "https://www.copyright.gov/1201/2024/2024_Section_1201_Registers_Recommendation.pdf"
+  ],
   "text": {
    "pt-PT": {
     "q": "Em 2024, a Bibliotecária do Congresso dos EUA recusou alargar a isenção legal para bibliotecas fazerem o quê com videojogos que já não são comercializados?",
@@ -1326,6 +1523,9 @@
   "daily": true,
   "pendente": false,
   "correct": 3,
+  "sources": [
+   "https://www.acmi.net.au/works/100238--graphic-natalie-kalmus-technicolor-pioneer/"
+  ],
   "text": {
    "pt-PT": {
     "q": "Após os maus resultados do Technicolor de duas cores, que princípio defendeu Natalie Kalmus junto dos cineastas?",
@@ -1356,6 +1556,9 @@
   "daily": true,
   "pendente": false,
   "correct": 0,
+  "sources": [
+   "https://www.loc.gov/exhibits/oz/ozsect2.html"
+  ],
   "text": {
    "pt-PT": {
     "q": "No livro original «O Feiticeiro de Oz», de que cor eram os sapatos mágicos de Dorothy, que no filme de 1939 passaram a vermelhos?",
@@ -1386,6 +1589,10 @@
   "daily": true,
   "pendente": false,
   "correct": 2,
+  "sources": [
+   "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0010003",
+   "https://www.eurekalert.org/news-releases/547458"
+  ],
   "text": {
    "pt-PT": {
     "q": "No estudo de 2005 que explicou a indiferença do gato ao açúcar, em que outro animal testado o gene Tas1r2 estava inutilizado?",
@@ -1416,6 +1623,10 @@
   "daily": true,
   "pendente": false,
   "correct": 3,
+  "sources": [
+   "https://news.uq.edu.au/2010-11-16-fish-sleep-more-soundly-when-they-have-mosquito-net",
+   "https://www.livescience.com/8979-mucus-cocoons-protect-fish-parasites.html"
+  ],
   "text": {
    "pt-PT": {
     "q": "Segundo a bióloga Lexa Grutter, de que protege o peixe-papagaio o casulo de muco em que dorme?",
@@ -1446,6 +1657,10 @@
   "daily": true,
   "pendente": false,
   "correct": 0,
+  "sources": [
+   "https://researchonline.jcu.edu.au/16872/",
+   "https://www.nationalgeographic.com/science/article/male-bowerbirds-create-forced-perspective-illusions-that-only-females-see"
+  ],
   "text": {
    "pt-PT": {
     "q": "Num estudo de 2010, Endler, Endler e Doerr inverteram o gradiente de tamanho dos objetos nos pátios de pássaros-jardineiros-grandes. O que fizeram os machos em três dias?",
@@ -1476,6 +1691,10 @@
   "daily": true,
   "pendente": false,
   "correct": 1,
+  "sources": [
+   "https://www.treccani.it/vocabolario/zero/",
+   "https://ora.ox.ac.uk/objects/uuid:d73b5a83-4f01-4347-a257-e2fb8cbca12c/files/s6m311q832"
+  ],
   "text": {
    "pt-PT": {
     "q": "No «Liber Abaci» (1202), que palavra latina medieval, adaptada do árabe «sifr», usou Fibonacci para designar o sinal 0?",
@@ -1506,6 +1725,11 @@
   "daily": false,
   "pendente": false,
   "correct": 1,
+  "sources": [
+   "https://www.laphil.com/works/symphony-no-45-farewell",
+   "https://www.lso.co.uk/explore/what-you-should-know-about-joseph-haydn/",
+   "https://esterhazy.at/joseph-haydn/joseph-haydns-werdegang/haydns-abschiedssinfonie"
+  ],
   "text": {
    "pt-PT": {
     "q": "Na «Sinfonia do Adeus» de Haydn, que gesto faz cada músico antes de sair do palco, um a um, no final?",
@@ -1536,6 +1760,10 @@
   "daily": true,
   "pendente": false,
   "correct": 3,
+  "sources": [
+   "https://science.nasa.gov/earth/earth-observatory/mount-tambora-volcano-sumbawa-island-indonesia-39412/",
+   "https://www.uri.edu/news/2006/02/uri-volcanologist-discovers-lost-kingdom-of-tambora/"
+  ],
   "text": {
    "pt-PT": {
     "q": "Em 2004, em Sumbawa, foi achada uma aldeia sob cerca de 3 m de cinza de 1815, a «Pompeia do Oriente». De que reino era?",
@@ -1566,6 +1794,9 @@
   "daily": true,
   "pendente": false,
   "correct": 2,
+  "sources": [
+   "https://www.nist.gov/si-redefinition/kilogram/kilogram-kibble-balance"
+  ],
   "text": {
    "pt-PT": {
     "q": "A balança de Kibble, usada para realizar o quilograma a partir da constante de Planck, tinha antes outro nome. Qual?",
@@ -1596,6 +1827,11 @@
   "daily": false,
   "pendente": false,
   "correct": 2,
+  "sources": [
+   "https://www.history.co.uk/articles/pickles-the-dog-world-cup",
+   "https://www.si.com/soccer/dog-saved-1966-world-cup-pickles-stolen-trophy",
+   "https://www.crimeandinvestigation.co.uk/articles/how-world-cup-trophy-was-stolen-and-recovered-1966"
+  ],
   "text": {
    "pt-PT": {
     "q": "Em 1966, o troféu do Mundial foi roubado numa exposição em Londres. Quem o encontrou, embrulhado em jornal, uma semana depois?",
@@ -1626,6 +1862,10 @@
   "daily": true,
   "pendente": false,
   "correct": 1,
+  "sources": [
+   "https://www.guinnessworldrecords.com/world-records/788751-oldest-winner-of-footballs-soccers-ballon-dor-award",
+   "https://www.si.com/soccer/oldest-ballon-dor-winners-all-time"
+  ],
   "text": {
    "pt-PT": {
     "q": "Até 2026, o vencedor mais velho da Bola de Ouro recebeu-a em 1956. Que idade tinha nessa altura?",
@@ -1656,6 +1896,10 @@
   "daily": true,
   "pendente": false,
   "correct": 2,
+  "sources": [
+   "https://www.nintendo.co.jp/corporate/en/history/index.html",
+   "https://www.nintendo.com/us/about/"
+  ],
   "text": {
    "pt-PT": {
     "q": "Em 1889, em Quioto, Fusajiro Yamauchi fundou a empresa que viria a ser a Nintendo. Que produto fabricava?",
@@ -1686,6 +1930,10 @@
   "daily": true,
   "pendente": false,
   "correct": 2,
+  "sources": [
+   "https://oceanservice.noaa.gov/facts/pacific.html",
+   "https://www.history.com/this-day-in-history/november-28/magellan-reaches-the-pacific"
+  ],
   "text": {
    "pt-PT": {
     "q": "Em 1520, Fernão de Magalhães chamou «Pacífico» ao oceano que atravessava. Que característica do mar o levou a esse nome?",

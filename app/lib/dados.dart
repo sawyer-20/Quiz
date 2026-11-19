@@ -3,7 +3,8 @@ import 'dart:math';
 import 'package:flutter/services.dart' show rootBundle;
 
 class Pergunta {
-  Pergunta(this.id, this.topico, this.dificuldade, this.certa, this._texto);
+  Pergunta(this.id, this.topico, this.dificuldade, this.certa, this._texto, [this.fontes = const []]);
+  final List<String> fontes;
   final String id;
   final String topico;
   final int dificuldade;
@@ -13,6 +14,17 @@ class Pergunta {
   String enunciado(String l) => _texto[l]['q'] as String;
   List<String> opcoes(String l) => List<String>.from(_texto[l]['o'] as List);
   String explicacao(String l) => _texto[l]['e'] as String;
+
+  /// Nomes curtos das fontes (domínio sem «www.»), para mostrar como na board «Sources: NASA · ESO».
+  List<String> nomesFontes() {
+    final r = <String>[];
+    for (final u in fontes) {
+      final h = Uri.tryParse(u)?.host ?? '';
+      final d = h.startsWith('www.') ? h.substring(4) : h;
+      if (d.isNotEmpty && !r.contains(d)) r.add(d);
+    }
+    return r;
+  }
 }
 
 class Banco {
@@ -24,7 +36,7 @@ class Banco {
     final lista = (jsonDecode(bruto) as List).map((e) {
       final m = e as Map<String, dynamic>;
       return Pergunta(m['id'] as String, m['topic'] as String, m['difficulty'] as int, m['correct'] as int,
-          Map<String, dynamic>.from(m['text'] as Map));
+          Map<String, dynamic>.from(m['text'] as Map), List<String>.from((m['sources'] ?? const []) as List));
     }).toList();
     return Banco(lista);
   }
