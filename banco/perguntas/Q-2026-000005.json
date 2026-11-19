@@ -12,6 +12,16 @@
         "Tecelagem em tear"
       ],
       "explanation": "Bordado. Apesar do nome, tecnicamente não é uma tapeçaria, que se tece num tear: as cenas foram bordadas com lã tingida sobre um pano de linho."
+    },
+    "en-US": {
+      "question": "Which technique created the scenes of the Bayeux Tapestry, which tells the story of the 1066 Norman conquest?",
+      "options": [
+        "Printing with wooden stamps",
+        "Painting on linen",
+        "Embroidery",
+        "Weaving on a loom"
+      ],
+      "explanation": "Embroidery. Despite its name, it is technically not a tapestry, which is woven on a loom: the scenes were embroidered with dyed wool on a linen cloth."
     }
   },
   "correct": 2,
@@ -20,7 +30,8 @@
   "daily_eligible": true,
   "sources": [
     "https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/",
-    "https://www.vam.ac.uk/articles/what-is-tapestry"
+    "https://www.vam.ac.uk/articles/what-is-tapestry",
+    "https://media.unesco.org/sites/default/files/webform/mow001/nomination-form-bayeux-tapestry_en_0.pdf"
   ],
   "fontes": [
     {
@@ -49,10 +60,27 @@
       "excerto": "A tapestry is created by weaving coloured weft threads through plain warp threads... Tapestries are woven on a loom.",
       "consultada_em": "2026-11-19",
       "papel": "advogado"
+    },
+    {
+      "url": "https://media.unesco.org/sites/default/files/webform/mow001/nomination-form-bayeux-tapestry_en_0.pdf",
+      "dominio": "unesco.org",
+      "titulo": "Memory of the World Register: Bayeux Tapestry N° 2006-44 (UNESCO, formulário de candidatura)",
+      "nivel": 1,
+      "excerto": "The Bayeux Tapestry is actually an embroidery. ... The embroidery was fashioned by needle on a thin, fairly even linen cloth. ... stem stitch for the outlines and couching stitch for filling in most of the figures.",
+      "consultada_em": "2026-11-19",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
+    "verificador": {
+      "resposta_texto": "Bordado",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "unesco.org",
+      "data": "2026-11-19",
+      "notas": "Li o PDF da UNESCO, que diz que a Tapeçaria é na verdade um bordado, feito à agulha com lã sobre linho, em ponto de haste e ponto de recobrir. Tecelagem em tear fica excluída porque não é uma tapeçaria tecida. Pintura sobre linho e estampagem com carimbos não aparecem em nenhuma fonte. A Britannica e o British Museum devolveram 403 e não os abri; só vi o que a pesquisa web resumiu deles, o que concorda.",
+      "hash_texto": "3e1d7193d32e4567ca63a28df556a229882526194a2c04bd6be16623e679fd2d"
+    },
     "advogado": null,
     "editor": {
       "aprovado": true,
@@ -60,6 +88,10 @@
       "alteracao_factual": false,
       "notas": "Texto igual: 2 frases, cerca de 145 caracteres. Opções na nova ordem pedida (certa: índice 2). Não acrescentei nem alarguei nada. Dificuldade mantida.",
       "data": "2026-11-19"
+    },
+    "tradutor": {
+      "data": "2026-11-19",
+      "notas": "Certa = índice 2 (Embroidery). 'Estampagem com carimbos de madeira' -> 'Printing with wooden stamps'. Opção 3 'Weaving on a loom' mantém o contraste com 'tapestry' da explicação. 'Conquista normanda' -> 'Norman conquest'."
     }
   },
   "estado": "em_verificacao",
@@ -204,6 +236,24 @@
       "evento": "revista pelo editor",
       "agente": "editor",
       "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Certa = índice 2 (Embroidery). 'Estampagem com carimbos de madeira' -> 'Printing with wooden stamps'. Opção 3 'Weaving on a loom' mantém o contraste com 'tapestry' da explicação. 'Conquista normanda' -> 'Norman conquest'."
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte unesco.org"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "`sources` sincronizado com `fontes`"
     }
   ],
   "etiquetas": [
