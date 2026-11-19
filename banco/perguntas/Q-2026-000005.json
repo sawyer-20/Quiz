@@ -58,7 +58,7 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "Tirei «com cerca de 70 metros, feito de nove painéis cosidos entre si» (sem apoio fora da Wikipédia). Ficam só bordado, não ser tapeçaria, fio de lã e fundo de linho (National Geographic). Enunciado e opções intactos.",
+      "notas": "Texto igual: 2 frases, cerca de 145 caracteres. Opções na nova ordem pedida (certa: índice 2). Não acrescentei nem alarguei nada. Dificuldade mantida.",
       "data": "2026-11-19"
     }
   },
@@ -198,6 +198,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (2.º ciclo, auditoria de afirmações): fontes: A cláusula «em que o desenho se tece no próprio pano» (definição de tapeçaria) só tem apoio na Wikipédia, que não conta "
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
     }
   ],
   "etiquetas": [

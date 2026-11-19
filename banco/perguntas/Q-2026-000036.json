@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000036",
   "topic": "Science",
-  "subtopic": "Efeito Leidenfrost",
+  "subtopic": "Física térmica: efeito Leidenfrost",
   "text": {
     "pt-PT": {
       "question": "Numa chapa muito acima dos 100 °C, uma gota de água desliza sem tocar no metal. O que a mantém afastada?",
@@ -59,7 +59,7 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "«A base da gota evapora» passou a «A gota evapora», que é o que as fontes dizem. Resto igual. Enunciado e opções intactos.",
+      "notas": "Texto igual: 2 frases, cerca de 190 caracteres. Opções na nova ordem pedida (certa: índice 2). Dificuldade mantida.",
       "data": "2026-11-19"
     }
   },
@@ -187,6 +187,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (2.º ciclo, auditoria de afirmações): interpretacao: «a gota ... perde calor devagar» não está nas fontes e inverte o sentido: a gota recebe calor da chapa e o filme isola-a"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
     }
   ]
 }

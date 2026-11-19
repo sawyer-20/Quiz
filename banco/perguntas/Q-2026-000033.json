@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000033",
   "topic": "World History",
-  "subtopic": "Incêndio do Parlamento de 1834 e as tallies",
+  "subtopic": "Tesouro inglês medieval e incêndio de Westminster",
   "text": {
     "pt-PT": {
       "question": "Que objeto serviu de recibo fiscal no Tesouro inglês medieval e, queimado em 1834, incendiou o Parlamento de Westminster?",
@@ -59,7 +59,7 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "Substituí «uma metade ficava com o Tesouro, a outra com quem pagava» por «cada parte da transação guardava uma metade», como diz o London Museum. O resto mantém-se. Enunciado e opções intactos.",
+      "notas": "Texto igual: 2 frases, cerca de 245 caracteres. Opções na nova ordem pedida (certa: índice 1). Não acrescentei nem alarguei nada. Dificuldade mantida.",
       "data": "2026-11-19"
     }
   },
@@ -175,6 +175,12 @@
       "evento": "reformulada",
       "agente": "advogado-do-diabo",
       "nota": "reformulação do advogado (2.º ciclo, auditoria de afirmações): formulacao: «o fogo destruiu o Parlamento» diz mais do que a fonte. A History of Parliament diz que o fogo ficou incontrolável na ma"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
     }
   ]
 }
