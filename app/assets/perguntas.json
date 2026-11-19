@@ -4,6 +4,7 @@
   "topic": "World History",
   "difficulty": 3,
   "daily": true,
+  "pendente": false,
   "correct": 1,
   "text": {
    "pt-PT": {
@@ -33,6 +34,7 @@
   "topic": "World History",
   "difficulty": 4,
   "daily": true,
+  "pendente": false,
   "correct": 2,
   "text": {
    "pt-PT": {
@@ -62,6 +64,7 @@
   "topic": "World History",
   "difficulty": 3,
   "daily": true,
+  "pendente": false,
   "correct": 2,
   "text": {
    "pt-PT": {
@@ -91,6 +94,7 @@
   "topic": "World History",
   "difficulty": 3,
   "daily": true,
+  "pendente": false,
   "correct": 1,
   "text": {
    "pt-PT": {
@@ -120,6 +124,7 @@
   "topic": "World History",
   "difficulty": 3,
   "daily": true,
+  "pendente": false,
   "correct": 1,
   "text": {
    "pt-PT": {
@@ -149,6 +154,7 @@
   "topic": "World History",
   "difficulty": 2,
   "daily": true,
+  "pendente": false,
   "correct": 3,
   "text": {
    "pt-PT": {
@@ -178,6 +184,7 @@
   "topic": "Geography",
   "difficulty": 1,
   "daily": true,
+  "pendente": false,
   "correct": 0,
   "text": {
    "pt-PT": {
@@ -206,7 +213,8 @@
   "id": "Q-2026-000019",
   "topic": "Movies",
   "difficulty": 4,
-  "daily": true,
+  "daily": false,
+  "pendente": true,
   "correct": 3,
   "text": {
    "pt-PT": {
@@ -236,6 +244,7 @@
   "topic": "General Knowledge",
   "difficulty": 3,
   "daily": true,
+  "pendente": false,
   "correct": 3,
   "text": {
    "pt-PT": {
@@ -265,6 +274,7 @@
   "topic": "General Knowledge",
   "difficulty": 3,
   "daily": true,
+  "pendente": false,
   "correct": 1,
   "text": {
    "pt-PT": {
@@ -294,6 +304,7 @@
   "topic": "General Knowledge",
   "difficulty": 2,
   "daily": true,
+  "pendente": false,
   "correct": 3,
   "text": {
    "pt-PT": {
@@ -323,6 +334,7 @@
   "topic": "Science",
   "difficulty": 3,
   "daily": true,
+  "pendente": false,
   "correct": 1,
   "text": {
    "pt-PT": {
@@ -352,6 +364,7 @@
   "topic": "Music",
   "difficulty": 4,
   "daily": true,
+  "pendente": false,
   "correct": 3,
   "text": {
    "pt-PT": {
@@ -381,6 +394,7 @@
   "topic": "General Knowledge",
   "difficulty": 3,
   "daily": true,
+  "pendente": false,
   "correct": 1,
   "text": {
    "pt-PT": {
@@ -410,6 +424,7 @@
   "topic": "Geography",
   "difficulty": 4,
   "daily": false,
+  "pendente": false,
   "correct": 0,
   "text": {
    "pt-PT": {
@@ -439,6 +454,7 @@
   "topic": "World History",
   "difficulty": 4,
   "daily": true,
+  "pendente": false,
   "correct": 2,
   "text": {
    "pt-PT": {
@@ -468,6 +484,7 @@
   "topic": "World History",
   "difficulty": 3,
   "daily": true,
+  "pendente": false,
   "correct": 1,
   "text": {
    "pt-PT": {
@@ -497,6 +514,7 @@
   "topic": "Science",
   "difficulty": 2,
   "daily": true,
+  "pendente": false,
   "correct": 2,
   "text": {
    "pt-PT": {
@@ -525,7 +543,8 @@
   "id": "Q-2026-000037",
   "topic": "Nature & Animals",
   "difficulty": 3,
-  "daily": true,
+  "daily": false,
+  "pendente": true,
   "correct": 0,
   "text": {
    "pt-PT": {
@@ -555,6 +574,7 @@
   "topic": "General Knowledge",
   "difficulty": 3,
   "daily": false,
+  "pendente": false,
   "correct": 0,
   "text": {
    "pt-PT": {
@@ -584,6 +604,7 @@
   "topic": "General Knowledge",
   "difficulty": 3,
   "daily": false,
+  "pendente": false,
   "correct": 1,
   "text": {
    "pt-PT": {
@@ -612,7 +633,8 @@
   "id": "Q-2026-000043",
   "topic": "General Knowledge",
   "difficulty": 3,
-  "daily": true,
+  "daily": false,
+  "pendente": true,
   "correct": 0,
   "text": {
    "pt-PT": {
@@ -642,6 +664,7 @@
   "topic": "General Knowledge",
   "difficulty": 3,
   "daily": true,
+  "pendente": false,
   "correct": 2,
   "text": {
    "pt-PT": {
@@ -670,7 +693,8 @@
   "id": "Q-2026-000047",
   "topic": "World History",
   "difficulty": 3,
-  "daily": true,
+  "daily": false,
+  "pendente": true,
   "correct": 1,
   "text": {
    "pt-PT": {
@@ -700,6 +724,7 @@
   "topic": "Music",
   "difficulty": 4,
   "daily": true,
+  "pendente": false,
   "correct": 1,
   "text": {
    "pt-PT": {
@@ -729,6 +754,7 @@
   "topic": "Science",
   "difficulty": 1,
   "daily": true,
+  "pendente": false,
   "correct": 0,
   "text": {
    "pt-PT": {
@@ -758,6 +784,7 @@
   "topic": "Movies",
   "difficulty": 2,
   "daily": true,
+  "pendente": false,
   "correct": 3,
   "text": {
    "pt-PT": {
@@ -787,6 +814,7 @@
   "topic": "World History",
   "difficulty": 2,
   "daily": true,
+  "pendente": false,
   "correct": 1,
   "text": {
    "pt-PT": {
@@ -816,6 +844,7 @@
   "topic": "Geography",
   "difficulty": 2,
   "daily": true,
+  "pendente": false,
   "correct": 2,
   "text": {
    "pt-PT": {
@@ -845,6 +874,7 @@
   "topic": "Nature & Animals",
   "difficulty": 3,
   "daily": true,
+  "pendente": false,
   "correct": 0,
   "text": {
    "pt-PT": {
@@ -874,6 +904,7 @@
   "topic": "Music",
   "difficulty": 1,
   "daily": true,
+  "pendente": false,
   "correct": 3,
   "text": {
    "pt-PT": {
@@ -903,6 +934,7 @@
   "topic": "World History",
   "difficulty": 2,
   "daily": true,
+  "pendente": false,
   "correct": 1,
   "text": {
    "pt-PT": {
@@ -932,6 +964,7 @@
   "topic": "Science",
   "difficulty": 3,
   "daily": true,
+  "pendente": false,
   "correct": 1,
   "text": {
    "pt-PT": {
@@ -961,6 +994,7 @@
   "topic": "Space",
   "difficulty": 3,
   "daily": true,
+  "pendente": false,
   "correct": 1,
   "text": {
    "pt-PT": {
@@ -990,6 +1024,7 @@
   "topic": "General Knowledge",
   "difficulty": 3,
   "daily": true,
+  "pendente": false,
   "correct": 1,
   "text": {
    "pt-PT": {
@@ -1019,6 +1054,7 @@
   "topic": "Movies",
   "difficulty": 3,
   "daily": true,
+  "pendente": false,
   "correct": 2,
   "text": {
    "pt-PT": {
@@ -1048,6 +1084,7 @@
   "topic": "Music",
   "difficulty": 4,
   "daily": true,
+  "pendente": false,
   "correct": 3,
   "text": {
    "pt-PT": {
@@ -1077,6 +1114,7 @@
   "topic": "Football",
   "difficulty": 3,
   "daily": true,
+  "pendente": false,
   "correct": 1,
   "text": {
    "pt-PT": {
@@ -1106,6 +1144,7 @@
   "topic": "Science",
   "difficulty": 3,
   "daily": true,
+  "pendente": false,
   "correct": 0,
   "text": {
    "pt-PT": {
@@ -1135,6 +1174,7 @@
   "topic": "Space",
   "difficulty": 3,
   "daily": true,
+  "pendente": false,
   "correct": 3,
   "text": {
    "pt-PT": {
@@ -1164,6 +1204,7 @@
   "topic": "Geography",
   "difficulty": 4,
   "daily": true,
+  "pendente": false,
   "correct": 2,
   "text": {
    "pt-PT": {
@@ -1193,6 +1234,7 @@
   "topic": "Space",
   "difficulty": 3,
   "daily": true,
+  "pendente": false,
   "correct": 3,
   "text": {
    "pt-PT": {
@@ -1221,7 +1263,8 @@
   "id": "Q-2026-000082",
   "topic": "Music",
   "difficulty": 4,
-  "daily": true,
+  "daily": false,
+  "pendente": true,
   "correct": 1,
   "text": {
    "pt-PT": {
@@ -1251,6 +1294,7 @@
   "topic": "Football",
   "difficulty": 4,
   "daily": true,
+  "pendente": false,
   "correct": 2,
   "text": {
    "pt-PT": {
@@ -1280,6 +1324,7 @@
   "topic": "Video Games",
   "difficulty": 4,
   "daily": false,
+  "pendente": false,
   "correct": 3,
   "text": {
    "pt-PT": {
@@ -1309,6 +1354,7 @@
   "topic": "Movies",
   "difficulty": 4,
   "daily": true,
+  "pendente": false,
   "correct": 3,
   "text": {
    "pt-PT": {
@@ -1338,6 +1384,7 @@
   "topic": "Movies",
   "difficulty": 3,
   "daily": true,
+  "pendente": false,
   "correct": 0,
   "text": {
    "pt-PT": {
@@ -1367,6 +1414,7 @@
   "topic": "Nature & Animals",
   "difficulty": 2,
   "daily": true,
+  "pendente": false,
   "correct": 2,
   "text": {
    "pt-PT": {
@@ -1396,6 +1444,7 @@
   "topic": "Nature & Animals",
   "difficulty": 3,
   "daily": true,
+  "pendente": false,
   "correct": 3,
   "text": {
    "pt-PT": {
@@ -1425,6 +1474,7 @@
   "topic": "Nature & Animals",
   "difficulty": 3,
   "daily": true,
+  "pendente": false,
   "correct": 0,
   "text": {
    "pt-PT": {
@@ -1454,6 +1504,7 @@
   "topic": "General Knowledge",
   "difficulty": 4,
   "daily": true,
+  "pendente": false,
   "correct": 1,
   "text": {
    "pt-PT": {
@@ -1483,6 +1534,7 @@
   "topic": "Music",
   "difficulty": 3,
   "daily": false,
+  "pendente": false,
   "correct": 1,
   "text": {
    "pt-PT": {
@@ -1512,6 +1564,7 @@
   "topic": "World History",
   "difficulty": 3,
   "daily": true,
+  "pendente": false,
   "correct": 3,
   "text": {
    "pt-PT": {
@@ -1541,6 +1594,7 @@
   "topic": "Science",
   "difficulty": 4,
   "daily": true,
+  "pendente": false,
   "correct": 2,
   "text": {
    "pt-PT": {
@@ -1570,6 +1624,7 @@
   "topic": "Football",
   "difficulty": 3,
   "daily": false,
+  "pendente": false,
   "correct": 2,
   "text": {
    "pt-PT": {
@@ -1599,6 +1654,7 @@
   "topic": "Football",
   "difficulty": 4,
   "daily": true,
+  "pendente": false,
   "correct": 1,
   "text": {
    "pt-PT": {
@@ -1628,6 +1684,7 @@
   "topic": "Video Games",
   "difficulty": 2,
   "daily": true,
+  "pendente": false,
   "correct": 2,
   "text": {
    "pt-PT": {
@@ -1657,6 +1714,7 @@
   "topic": "General Knowledge",
   "difficulty": 2,
   "daily": true,
+  "pendente": false,
   "correct": 2,
   "text": {
    "pt-PT": {

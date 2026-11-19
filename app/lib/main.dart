@@ -46,7 +46,7 @@ class EcraInicio extends StatelessWidget {
     final nomes = topicos.keys.toList()..sort((a, b) => t.topico(a).compareTo(t.topico(b)));
     return Scaffold(
       appBar: AppBar(
-        title: Text(t.titulo, style: const TextStyle(letterSpacing: 4, fontWeight: FontWeight.w800, color: Cores.destaque)),
+        title: Text(t.titulo, style: estiloMarca(tamanho: 30, cor: Cores.douradoClaro, peso: FontWeight.w700, espaco: 4)),
         actions: [
           SegmentedButton<String>(
             showSelectedIcon: false,
@@ -210,7 +210,7 @@ class _EcraJogoState extends State<EcraJogo> {
             LinearProgressIndicator(
               value: _restante / segundosPorPergunta,
               color: _restante <= 5 ? Cores.errado : Cores.destaque,
-              backgroundColor: Cores.superficie,
+              backgroundColor: Cores.superficie2,
               minHeight: 8,
             ),
             const SizedBox(height: 20),
@@ -238,7 +238,7 @@ class _EcraJogoState extends State<EcraJogo> {
   }
 
   Widget _botaoOpcao(int k, String texto) {
-    Color cor = Cores.superficie;
+    Color cor = Cores.superficie2;
     if (_respondida) {
       if (k == _p.certa) {
         cor = Cores.certo.withValues(alpha: 0.35);
@@ -280,7 +280,7 @@ class EcraResultado extends StatelessWidget {
       body: ListView(
         padding: const EdgeInsets.all(16),
         children: [
-          Center(child: Text('$pontos', style: const TextStyle(fontSize: 64, fontWeight: FontWeight.w900, color: Cores.destaque))),
+          Center(child: Text('$pontos', style: estiloMarca(tamanho: 80, cor: Cores.douradoClaro, peso: FontWeight.w700))),
           Center(child: Text(t.pontos, style: const TextStyle(color: Cores.textoSuave))),
           const SizedBox(height: 8),
           Center(child: Text(t.acertos(acertos, perguntas.length), style: const TextStyle(fontSize: 20, fontWeight: FontWeight.w700))),

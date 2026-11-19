@@ -54,6 +54,27 @@ dev_dependencies:
 flutter:
   assets:
     - assets/perguntas.json
+  fonts:
+    - family: Manrope
+      fonts:
+        - asset: assets/fonts/Manrope_400Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Manrope_500Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Manrope_600SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Manrope_700Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Manrope_800ExtraBold.ttf
+          weight: 800
+    - family: CormorantGaramond
+      fonts:
+        - asset: assets/fonts/CormorantGaramond_500Medium.ttf
+          weight: 500
+        - asset: assets/fonts/CormorantGaramond_600SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/CormorantGaramond_700Bold.ttf
+          weight: 700
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in

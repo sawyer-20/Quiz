@@ -30,7 +30,7 @@
   "correct": 1,
   "difficulty": 3,
   "valid_until": null,
-  "daily_eligible": true,
+  "daily_eligible": false,
   "sources": [
     "https://projetos.dhlab.fcsh.unl.pt/files/original/8cce7364fca20287203002044c21a53a52377364.pdf",
     "https://imovel.patrimoniocultural.gov.pt/detalhes.php?code=71169"
@@ -178,7 +178,14 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "confirmacao_pendente",
+      "agente": "orquestrador",
+      "nota": "decisão do Andre: aceite sem confirmação independente de nível 1; confirmacao_pendente true e daily_eligible false; não entra em versão pública; o teste fechado pode usá-la"
     }
   ],
-  "options_lock": "b31e9dfc58b01cfcfdafdcf51469b92bcd2b0e9bf9f291b1afff7f6d0de50382"
+  "options_lock": "b31e9dfc58b01cfcfdafdcf51469b92bcd2b0e9bf9f291b1afff7f6d0de50382",
+  "confirmacao_pendente": true
 }

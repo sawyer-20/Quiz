@@ -27,7 +27,7 @@
   "correct": 1,
   "difficulty": 4,
   "valid_until": null,
-  "daily_eligible": true,
+  "daily_eligible": false,
   "sources": [
     "https://www.colorado.edu/coloradan/2017/12/01/origins-gold-record",
     "https://www.guinnessworldrecords.com/world-records/first-gold-disc-music-award"
@@ -298,8 +298,15 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "confirmacao_pendente",
+      "agente": "orquestrador",
+      "nota": "decisão do Andre: aceite sem confirmação independente de nível 1; confirmacao_pendente true e daily_eligible false; não entra em versão pública; o teste fechado pode usá-la"
     }
   ],
   "etiquetas": [],
-  "options_lock": "edcd8a9988623df46a08b72c5f00db798f63b0c3af5dad81bf5ea374a2a124d9"
+  "options_lock": "edcd8a9988623df46a08b72c5f00db798f63b0c3af5dad81bf5ea374a2a124d9",
+  "confirmacao_pendente": true
 }

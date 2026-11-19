@@ -27,7 +27,7 @@
   "correct": 0,
   "difficulty": 3,
   "valid_until": null,
-  "daily_eligible": true,
+  "daily_eligible": false,
   "sources": [
     "https://www.nature.com/articles/ncomms12468",
     "https://www.mpg.de/10783234/frigatebirds-sleep-midflight",
@@ -71,12 +71,12 @@
       "papel": "advogado"
     },
     {
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4976198/",
-      "dominio": "nih.gov",
-      "titulo": "Evidence that birds sleep in mid-flight (Rattenborg et al., 2016), cópia no PMC/NIH",
-      "nivel": 1,
-      "excerto": "…using electroencephalogram recordings of great frigatebirds (Fregata minor) flying over the ocean for up to 10 days, we show that they can sleep with either one hemisphere at a time or both hemispheres simultaneously.",
-      "consultada_em": "2026-11-18",
+      "url": "https://www.audubon.org/news/scientists-finally-have-evidence-frigatebirds-sleep-while-flying",
+      "dominio": "audubon.org",
+      "titulo": "Scientists Finally Have Evidence That Frigatebirds Sleep While Flying (Audubon)",
+      "nivel": 2,
+      "excerto": "Rattenborg and his team found it relatively easy to capture 15 of the birds to implant electroencephalographs (EEGs) into their skulls... the researchers found that while frigatebirds do sleep while flying, they sleep very little",
+      "consultada_em": "2026-11-19",
       "papel": "verificador"
     }
   ],
@@ -84,10 +84,10 @@
     "verificador": {
       "resposta_texto": "A fragata-grande",
       "concorda": true,
-      "confianca": "alta",
-      "dominio": "nih.gov",
-      "data": "2026-11-18",
-      "notas": "Aberta e lida. O artigo diz 'establishing that birds can sleep in flight' e 'Rattenborg and colleagues show for the first time that frigatebirds can sleep during flight'. A espécie é Fregata minor, a fragata-grande. As outras opções (albatroz-errante, andorinha-do-mar-ártica, pelicano-pardo) não aparecem como espécie estudada. O enunciado 'uma ave dorme em pleno voo, em 2016, EEG' confirma-se. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Atenção ao regra 20: este é o mesmo artigo (Nature Communications, 2016) que está nos títulos a evitar, republicado no PMC (domínio diferente). Não é uma fonte independente do pesquisador. Como alternativa independente, a pesquisa devolveu ScienceDaily (sciencedaily.com/releases/2016/08/160803111738.htm) e a Royal Society (rsfs, 'Sleeping on the wing'), que não abri. Devolvo confiança alta pela clareza da resposta, mas o orquestrador deve decidir se aceita a fonte.",
+      "confianca": "media",
+      "dominio": "audubon.org",
+      "data": "2026-11-19",
+      "notas": "Li a Audubon, imprensa de referência de nível 2 e de outra origem. Confirma o estudo de Rattenborg et al. com EEG implantado em fragatas-grandes nas Galápagos, com sono em voo. Só tenho esta fonte de nível 2. A Royal Society deu 403. O artigo da Galapagos Conservation Trust descreve o mesmo estudo, mas é um site de conservação e não o usei como fonte principal. As outras opções não aparecem nesta fonte. Não as testei com pesquisa própria e não encontrei nenhuma afirmação de EEG em voo para o albatroz-errante, a andorinha-do-mar-ártica ou o pelicano-pardo. O texto do enunciado «pela primeira vez» corresponde ao título da Audubon («Finally Have Evidence»). A Audubon diz que a ave dorme muito pouco em voo, cerca de 45 min por dia, o que não contradiz o enunciado.",
       "hash_texto": "fb1baeb9adc98c0bd048f589e0212267f7648ae46465e58d51601b15a3b5b502"
     },
     "advogado": {
@@ -207,7 +207,20 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte nih.gov"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "confirmacao_pendente",
+      "agente": "orquestrador",
+      "nota": "decisão do Andre: aceite sem confirmação independente de nível 1; confirmacao_pendente true e daily_eligible false; não entra em versão pública; o teste fechado pode usá-la"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte audubon.org"
     }
   ],
-  "options_lock": "5b660c4f0817baa077f05848f5612c0502a0c36485693db055b3bfc35ffbaa70"
+  "options_lock": "5b660c4f0817baa077f05848f5612c0502a0c36485693db055b3bfc35ffbaa70",
+  "confirmacao_pendente": true
 }

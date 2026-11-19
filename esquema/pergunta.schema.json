@@ -42,6 +42,10 @@
       "description": "true só para factos estáveis (sem valid_until).",
       "type": "boolean"
     },
+    "confirmacao_pendente": {
+      "description": "true: o facto foi aceite sem confirmação independente de nível 1 (decisão do Andre). Nunca entra numa versão pública (nem publicada nem exportação pública); o teste fechado pode usá-la. Implica daily_eligible false.",
+      "type": "boolean"
+    },
     "valid_until": {
       "description": "Data até à qual o facto vale; null = estável. O /manutencao revê os caducados.",
       "type": ["string", "null"], "format": "date"

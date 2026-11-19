@@ -29,7 +29,7 @@ PAPEIS = {"pesquisador", "verificador", "advogado", "auditor", "sentinela", "tri
 OBRIGATORIOS = ["id", "topic", "text", "correct", "difficulty", "daily_eligible", "valid_until",
                 "sources", "fontes", "verificacao", "estado", "motivo_rejeicao", "lote",
                 "criada_em", "historico"]
-OPCIONAIS = ["etiquetas", "subtopic", "markets", "options_lock"]
+OPCIONAIS = ["etiquetas", "subtopic", "markets", "options_lock", "confirmacao_pendente"]
 CAMPOS_FONTE = ["url", "dominio", "titulo", "nivel", "excerto", "consultada_em", "papel"]
 
 # Etiquetas permitidas. "classico": facto muito conhecido (já usado noutros quizzes),
@@ -304,6 +304,16 @@ def validar_pergunta(p: dict) -> tuple[list[str], list[str]]:
         erros.append("pergunta 'classico' com dificuldade 4 ou 5: não é permitido")
     if not isinstance(p["difficulty"], int) or isinstance(p["difficulty"], bool) or not 1 <= p["difficulty"] <= 5:
         erros.append("difficulty tem de ser um inteiro de 1 a 5")
+
+    # Confirmação pendente: não entra em versão pública nem no Daily 10
+    if "confirmacao_pendente" in p:
+        if not isinstance(p["confirmacao_pendente"], bool):
+            erros.append("confirmacao_pendente tem de ser true ou false")
+        elif p["confirmacao_pendente"] is True:
+            if estado == "publicada":
+                erros.append("pergunta com confirmacao_pendente não pode estar publicada")
+            if p.get("daily_eligible") is True:
+                erros.append("pergunta com confirmacao_pendente não pode ser do Daily 10")
 
     # Tempo
     if not isinstance(p["daily_eligible"], bool):
