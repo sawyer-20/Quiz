@@ -16,10 +16,10 @@
     "en-US": {
       "question": "Which Portuguese word does the Malay \"minggu,\" meaning \"week,\" come from?",
       "options": [
-        "Feira (market day)",
-        "Domingo (Sunday)",
-        "Semana (week)",
-        "Sábado (Saturday)"
+        "Feira",
+        "Domingo",
+        "Semana",
+        "Sábado"
       ],
       "explanation": "Domingo. The Malay \"minggu,\" meaning \"week\" in Malay and Indonesian, comes from the Portuguese \"domingo\": it is one of the Portuguese loanwords in Malay."
     }
@@ -104,7 +104,7 @@
     },
     "tradutor": {
       "data": "2026-11-19",
-      "notas": "Pergunta e opções inalteradas. «empréstimos do português ao malaio» traduzido por «Portuguese loanwords in Malay»."
+      "notas": "Glosas retiradas das opções, que ficam iguais às pt-PT, na mesma ordem (certa = índice 1). A pergunta e a explicação não têm glosas das opções; mantive-as como estavam. «week» na pergunta e na explicação traduz o «semana» do pt-PT (significado da palavra malaia), não é glosa de opção. As outras 4 perguntas do envio anterior não mudam."
     }
   },
   "estado": "em_verificacao",
@@ -225,6 +225,18 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Pergunta e opções inalteradas. «empréstimos do português ao malaio» traduzido por «Portuguese loanwords in Malay»."
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"opção 0\", \"idioma\": \"en-US\", \"detalhe\": \"«Feira (market day)» acrescenta uma glosa que o pt-PT não tem. Em pt-PT «feira» também é o sufixo dos dias da semana, por isso a opção não é igual nos dois idiomas: a glosa fixa um sentido que o pt-PT deixa aberto.\"}, {\"onde\": \"opção 1\", \"idioma\": \"en-US\", \"detalhe\": \"«Domingo (Sunday)» traz uma glosa que o pt-PT não tem. As quatro opções en-US têm glosas e as pt-PT não têm nenhuma, o que é informação a mais.\"}, {\"onde\": \"opção 2\", \"idioma\": \"e"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Glosas retiradas das opções, que ficam iguais às pt-PT, na mesma ordem (certa = índice 1). A pergunta e a explicação não têm glosas das opções; mantive-as como estavam. «week» na pergunta e na explicação traduz o «semana» do pt-PT (significado da palavra malaia), não é glosa de opção. As outras 4 perguntas do envio anterior não mudam."
     }
   ]
 }

@@ -96,6 +96,12 @@
     "tradutor": {
       "data": "2026-11-19",
       "notas": "Pergunta e opções inalteradas. «Efeito Leidenfrost» mantido como «Leidenfrost effect»."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Equivalente em tudo. A concordância «a mantém afastada» refere-se a «gota» e não dá pista. Sem pistas só num idioma.",
+      "data": "2026-11-19",
+      "hash_texto": "3b67307ae74debd48639c6e91a4c98339d379cb08208e97dc96ccdda2fad3692"
     }
   },
   "estado": "em_verificacao",
@@ -210,6 +216,12 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Pergunta e opções inalteradas. «Efeito Leidenfrost» mantido como «Leidenfrost effect»."
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ]
 }

@@ -86,6 +86,12 @@
     "tradutor": {
       "data": "2026-11-19",
       "notas": "Pergunta e opções inalteradas. «não é uma tapeçaria» traduzido por «not a true tapestry» para soar natural em inglês."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Opções equivalentes uma a uma. Sem pista gramatical ou lexical só num idioma. Explicação com 2 frases.",
+      "data": "2026-11-19",
+      "hash_texto": "90c0ed50b83725f25998f9a39b46c66658d9248bc40e813388f29e03f396bf93"
     }
   },
   "estado": "em_verificacao",
@@ -212,6 +218,12 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Pergunta e opções inalteradas. «não é uma tapeçaria» traduzido por «not a true tapestry» para soar natural em inglês."
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "etiquetas": [

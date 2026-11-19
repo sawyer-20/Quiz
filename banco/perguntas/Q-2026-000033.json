@@ -96,6 +96,12 @@
     "tradutor": {
       "data": "2026-11-19",
       "notas": "Pergunta e opções inalteradas. «Parlamento» traduzido por «Houses of Parliament», como na pergunta. «cada parte da transação» lido como cada parte envolvida («each party to the transaction»). «House of Lords» é a forma inglesa corrente de «Câmara dos Lordes»."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "«Tesouro» para «Exchequer» é aceitável. Opções equivalentes uma a uma. Sem pistas novas.",
+      "data": "2026-11-19",
+      "hash_texto": "9a2211a0408030386d4688c5347f800c1d76bf754ef9794aee76c16ef5d0679e"
     }
   },
   "estado": "em_verificacao",
@@ -198,6 +204,12 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Pergunta e opções inalteradas. «Parlamento» traduzido por «Houses of Parliament», como na pergunta. «cada parte da transação» lido como cada parte envolvida («each party to the transaction»). «House of Lords» é a forma inglesa corrente de «Câmara dos Lordes»."
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ]
 }
