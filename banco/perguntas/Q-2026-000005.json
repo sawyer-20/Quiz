@@ -81,7 +81,11 @@
       "notas": "Li o PDF da UNESCO, que diz que a Tapeçaria é na verdade um bordado, feito à agulha com lã sobre linho, em ponto de haste e ponto de recobrir. Tecelagem em tear fica excluída porque não é uma tapeçaria tecida. Pintura sobre linho e estampagem com carimbos não aparecem em nenhuma fonte. A Britannica e o British Museum devolveram 403 e não os abri; só vi o que a pesquisa web resumiu deles, o que concorda.",
       "hash_texto": "3e1d7193d32e4567ca63a28df556a229882526194a2c04bd6be16623e679fd2d"
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-19",
+      "notas": "Todas as afirmações têm apoio. A página do V&A não menciona Bayeux, mas só é usada para a definição de tapeçaria. Sem segunda resposta defensável entre as opções. | páginas lidas pelo advogado: https://www.nationalgeographic.com/history/article/bayeux-tapestry-meaning-interpretation (\"not technically a tapestry at all but an embroidery: dyed wools stitched on bleached linen base cloth\": apoia 'tecnicamente não é uma tapeçaria', 'bordadas', 'lã tingida', 'linho'), https://www.vam.ac.uk/articles/what-is-tapestry (\"Tapestries are woven on a loom\": apoia 'tapeçaria tece-se num tear'), https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/ (\"conquest of England... told in a 70 meters long embroidery\": confirma bordado e a conquista de 1066)"
+    },
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
@@ -100,7 +104,7 @@
       "hash_texto": "6d05df5f940fbf4463e19afa569728fccc9ffd23145a6a304081d5a34eeb0124"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-04-historia",
   "criada_em": "2026-11-04",
@@ -266,9 +270,22 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": [
     "classico"
-  ]
+  ],
+  "options_lock": "b360dfaa259aa4852589985561534a1b9ffa7bd5a72a4ad09311a11c22228895"
 }

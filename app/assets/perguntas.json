@@ -5,27 +5,27 @@
   "difficulty": 3,
   "daily": true,
   "pendente": false,
-  "correct": 1,
+  "correct": 2,
   "text": {
    "pt-PT": {
     "q": "Que técnica deu forma às cenas da Tapeçaria de Bayeux, que narra a conquista normanda de 1066?",
     "o": [
+     "Estampagem com carimbos de madeira",
      "Pintura sobre linho",
      "Bordado",
-     "Tecelagem em tear",
-     "Estampagem com carimbos de madeira"
+     "Tecelagem em tear"
     ],
-    "e": "Bordado. Apesar do nome, não é uma tapeçaria, em que o desenho se tece no próprio pano: as cenas foram bordadas com fio de lã sobre um fundo de linho com cerca de 70 metros, feito de nove painéis cosidos entre si."
+    "e": "Bordado. Apesar do nome, tecnicamente não é uma tapeçaria, que se tece num tear: as cenas foram bordadas com lã tingida sobre um pano de linho."
    },
    "en-US": {
-    "q": "Which technique was used to create the scenes of the Bayeux Tapestry, which tells the story of the 1066 Norman conquest?",
+    "q": "Which technique created the scenes of the Bayeux Tapestry, which tells the story of the 1066 Norman conquest?",
     "o": [
+     "Printing with wooden stamps",
      "Painting on linen",
      "Embroidery",
-     "Loom weaving",
-     "Stamping with wooden blocks"
+     "Weaving on a loom"
     ],
-    "e": "Embroidery. Despite the name, it is not a true tapestry, where the design is woven into the cloth: the scenes were embroidered in wool yarn on a linen ground about 70 meters long, made of nine panels sewn together."
+    "e": "Embroidery. Despite its name, it is technically not a tapestry, which is woven on a loom: the scenes were embroidered with dyed wool on a linen cloth."
    }
   }
  },
@@ -390,36 +390,6 @@
   }
  },
  {
-  "id": "Q-2026-000030",
-  "topic": "General Knowledge",
-  "difficulty": 3,
-  "daily": true,
-  "pendente": false,
-  "correct": 1,
-  "text": {
-   "pt-PT": {
-    "q": "De que palavra portuguesa vem o malaio «minggu», que significa «semana»?",
-    "o": [
-     "Feira",
-     "Domingo",
-     "Semana",
-     "Sábado"
-    ],
-    "e": "Domingo. Em malaio e em indonésio, «minggu» passou a designar o período de sete dias, a semana; é um dos empréstimos do português ao malaio."
-   },
-   "en-US": {
-    "q": "Which Portuguese word does the Malay \"minggu,\" meaning \"week,\" come from?",
-    "o": [
-     "Feira (market day)",
-     "Domingo (Sunday)",
-     "Semana (week)",
-     "Sábado (Saturday)"
-    ],
-    "e": "Domingo. In Malay and Indonesian, \"minggu\" came to mean the seven-day period, the week; it is one of the Portuguese loanwords in Malay."
-   }
-  }
- },
- {
   "id": "Q-2026-000031",
   "topic": "Geography",
   "difficulty": 4,
@@ -490,22 +460,22 @@
    "pt-PT": {
     "q": "Que objeto serviu de recibo fiscal no Tesouro inglês medieval e, queimado em 1834, incendiou o Parlamento de Westminster?",
     "o": [
-     "Rolos de pergaminho selados com cera",
-     "Varas de madeira entalhadas e partidas ao meio",
      "Fichas de chumbo cunhadas com o brasão real",
+     "Varas de madeira entalhadas e partidas ao meio",
+     "Rolos de pergaminho selados com cera",
      "Tábuas de cera gravadas com estilete"
     ],
-    "e": "Varas de madeira entalhadas e partidas ao meio: uma metade ficava com o Tesouro, a outra com quem pagava. Em 1834 duas carroças dessas «tallies» foram queimadas nas fornalhas sob a Câmara dos Lordes e o fogo destruiu o Parlamento."
+    "e": "Varas de madeira entalhadas e partidas ao meio: cada parte da transação guardava uma metade. Em 1834 duas carroças dessas «tallies» foram queimadas nas fornalhas sob a Câmara dos Lordes e o fogo destruiu grande parte do Palácio de Westminster."
    },
    "en-US": {
-    "q": "What object served as a tax receipt in the medieval English Exchequer and, when burned in 1834, set the Houses of Parliament on fire?",
+    "q": "Which object served as a tax receipt in the medieval English Exchequer and, when burned in 1834, set fire to the Houses of Parliament?",
     "o": [
-     "Wax-sealed parchment rolls",
+     "Lead tokens stamped with the royal coat of arms",
      "Notched wooden sticks split in half",
-     "Lead tokens stamped with the royal arms",
-     "Wax tablets engraved with a stylus"
+     "Parchment rolls sealed with wax",
+     "Wax tablets inscribed with a stylus"
     ],
-    "e": "Notched wooden sticks split in half: one half stayed with the Exchequer, the other with the payer. In 1834 two cartloads of these tallies were burned in the furnaces under the House of Lords, and the fire destroyed Parliament."
+    "e": "Notched wooden sticks split in half: each party to the transaction kept one half. In 1834, two cartloads of these \"tallies\" were burned in the furnaces under the House of Lords, and the fire destroyed much of the Palace of Westminster."
    }
   }
  },
@@ -520,22 +490,22 @@
    "pt-PT": {
     "q": "Numa chapa muito acima dos 100 °C, uma gota de água desliza sem tocar no metal. O que a mantém afastada?",
     "o": [
-     "Bolhas de ar que ficam presas na base da gota",
+     "A tensão superficial, que repele o calor do metal",
      "Uma película de óxido que se forma na superfície do metal",
      "Uma almofada de vapor formada pela própria gota",
-     "A tensão superficial, que repele o calor do metal"
+     "Bolhas de ar que ficam presas na base da gota"
     ],
-    "e": "Uma almofada de vapor formada pela própria gota: é o efeito Leidenfrost. A base da gota evapora e o vapor forma uma película fina e isoladora, sobre a qual a gota levita e perde calor devagar."
+    "e": "Uma almofada de vapor formada pela própria gota: é o efeito Leidenfrost. A gota evapora e o vapor forma uma película fina e isoladora, sobre a qual a gota levita e evapora devagar."
    },
    "en-US": {
-    "q": "On a metal plate far above 100 °C, a water droplet glides without touching the metal. What keeps it apart?",
+    "q": "On a hot plate far above 100 °C, a water droplet glides without touching the metal. What keeps it apart?",
     "o": [
-     "Air bubbles trapped under the droplet",
-     "An oxide film forming on the metal surface",
+     "Surface tension, which repels heat from the metal",
+     "An oxide film that forms on the metal's surface",
      "A cushion of vapor formed by the droplet itself",
-     "Surface tension, which repels heat from the metal"
+     "Air bubbles trapped under the droplet"
     ],
-    "e": "A cushion of vapor formed by the droplet itself: this is the Leidenfrost effect. The underside of the droplet evaporates, and the vapor forms a thin insulating layer on which the droplet levitates and loses heat slowly."
+    "e": "A cushion of vapor formed by the droplet itself: this is the Leidenfrost effect. The droplet evaporates and the vapor forms a thin, insulating layer on which the droplet levitates and slowly evaporates."
    }
   }
  },
@@ -705,7 +675,7 @@
      "Guardar armas e mantimentos durante um cerco",
      "Abrigar as sentinelas da chuva e do frio"
     ],
-    "e": "Servia para disparar na vertical sobre a base dos muros: o hurdício era uma galeria de madeira saliente no topo das muralhas e das torres. Segundo o historiador Mário Barroca, foram os Templários que o introduziram em Portugal."
+    "e": "Servia para disparar na vertical sobre a base dos muros: o hurdício era uma galeria de madeira que coroava as torres. Segundo o Guia de Inventário do IHRU, foram os Templários que o introduziram em Portugal."
    },
    "en-US": {
     "q": "What was the hurdício (hoarding), a wooden gallery atop the towers of medieval Portuguese castles, used for?",
@@ -715,7 +685,7 @@
      "Storing weapons and supplies during a siege",
      "Sheltering sentries from rain and cold"
     ],
-    "e": "Firing straight down at the base of the walls: the hurdício (hoarding) was a wooden gallery projecting from the top of walls and towers. According to historian Mário Barroca, the Templars introduced it to Portugal."
+    "e": "Firing straight down at the base of the walls: the hoarding was a wooden gallery crowning the towers. According to the IHRU's Inventory Guide, the Templars introduced it in Portugal."
    }
   }
  },
@@ -825,7 +795,7 @@
      "Hebraico",
      "Latim"
     ],
-    "e": "A Pedra de Roseta traz o mesmo decreto em hieróglifos, demótico e grego antigo. Como os estudiosos já liam grego, o texto grego serviu de ponto de partida para decifrar as duas escritas egípcias."
+    "e": "A Pedra de Roseta traz o mesmo decreto em hieróglifos, demótico e grego antigo. Como os estudiosos já liam grego, o texto grego serviu de ponto de partida para decifrar os hieróglifos."
    },
    "en-US": {
     "q": "In 1799, no one could read hieroglyphs. Which language on the Rosetta Stone could scholars already read, giving them the key?",
@@ -835,7 +805,7 @@
      "Hebrew",
      "Latin"
     ],
-    "e": "The Rosetta Stone carries the same decree in hieroglyphs, Demotic, and ancient Greek. Because scholars already read Greek, the Greek text served as the starting point for deciphering the two Egyptian scripts."
+    "e": "The Rosetta Stone carries the same decree in hieroglyphs, Demotic, and Ancient Greek. Because scholars already read Greek, the Greek text served as the starting point for deciphering the hieroglyphs."
    }
   }
  },
@@ -1005,7 +975,7 @@
      "Mariner 10",
      "Voyager 1"
     ],
-    "e": "A Voyager 2, apesar do número, partiu primeiro, a 20 de agosto de 1977. A Voyager 1 foi lançada a 5 de setembro, mas seguiu uma trajetória mais rápida e chegou antes a Júpiter e a Saturno."
+    "e": "A Voyager 2, apesar do número, partiu primeiro, a 20 de agosto de 1977. A Voyager 1 foi lançada a 5 de setembro, mas chegou antes a Júpiter e a Saturno."
    },
    "en-US": {
     "q": "Which of these NASA probes was launched on August 20, 1977?",
@@ -1015,7 +985,7 @@
      "Mariner 10",
      "Voyager 1"
     ],
-    "e": "Voyager 2, despite its number, launched first, on August 20, 1977. Voyager 1 was launched on September 5 but took a faster trajectory and reached Jupiter and Saturn first."
+    "e": "Voyager 2, despite its number, launched first, on August 20, 1977. Voyager 1 was launched on September 5 but reached Jupiter and Saturn first."
    }
   }
  },
@@ -1065,7 +1035,7 @@
      "Zeiss",
      "Panavision"
     ],
-    "e": "A Zeiss: Kubrick usou lentes de 50 mm f/0.7, as mais luminosas do mundo na altura, para filmar interiores só com velas. Foram feitas apenas dez e Kubrick comprou três."
+    "e": "A Zeiss: Kubrick usou lentes de 50 mm f/0.7, as mais luminosas do mundo na altura, para filmar cenas à luz de velas sem luz adicional. Foram feitas apenas dez e o produtor executivo Jan Harlan comprou três."
    },
    "en-US": {
     "q": "Which company made the ultra-fast lenses Kubrick used to film candlelit scenes in \"Barry Lyndon\"?",
@@ -1075,7 +1045,7 @@
      "Zeiss",
      "Panavision"
     ],
-    "e": "Zeiss: Kubrick used 50 mm f/0.7 lenses, the fastest in the world at the time, to film interiors lit only by candles. Only ten were made, and Kubrick bought three."
+    "e": "Zeiss: Kubrick used 50 mm f/0.7 lenses, the fastest in the world at the time, to shoot candlelit scenes without added light. Only ten were made, and executive producer Jan Harlan bought three."
    }
   }
  },

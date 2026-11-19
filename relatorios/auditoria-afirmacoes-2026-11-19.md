@@ -57,3 +57,9 @@ Quase todas as falhas vêm do mesmo sítio: o pesquisador ou o editor acrescenta
 verosímil que a fonte não diz («saliente», «a base da gota», «trajetória mais rápida»). A regra 29 já
 obriga o advogado a conferir afirmação a afirmação; esta auditoria mostra que o controlo tem de
 estar no advogado e não só no pesquisador.
+
+## Resultado da correção (fecho, 19/11)
+- **Reaprovadas:** Q5, Q33, Q36, Q47, Q52, Q62, Q68 (editor, tradutor, advogado, conferente, verificador cego com hash e `aprovar.py`). No 2.º ciclo o advogado ainda apanhou mais três cláusulas que o editor tinha deixado passar: Q5 (a definição de tapeçaria só estava na Wikipédia: juntou-se uma fonte do V&A), Q33 («destruiu o Parlamento» passou a «grande parte do Palácio de Westminster») e Q36 («perde calor devagar» não estava nas fontes: passou a «evapora devagar»).
+- **Q30 fora (em verificação):** o conferente reprovou-a por um eco lexical só em pt-PT: o enunciado diz «semana» e uma das opções é «Semana». Vem do desenho original da pergunta. Corrigir exige mudar o enunciado e repetir o circuito (primeiro o verificador cego). Recomendo tirar «que significa «semana»» do enunciado; fica por ordem do Andre.
+- **Q91:** continua por decidir (ver acima).
+- Estado do banco: 57 aprovadas, 1 em verificação (Q30), 3 suspensas, 37 rejeitadas.

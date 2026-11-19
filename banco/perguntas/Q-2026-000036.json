@@ -81,7 +81,11 @@
       "notas": "Li o artigo. Diz que a gota paira sobre uma almofada do seu próprio vapor e que o equilíbrio se dá entre a gravidade, a tensão superficial e a força de elevação do vapor que escoa. A tensão superficial não «repele o calor» e só intervém no equilíbrio da forma da gota. Uma película de óxido e bolhas de ar presas não são o mecanismo descrito em nenhum ponto. Nota: o enunciado diz «muito acima dos 100 °C»; o efeito só ocorre acima da temperatura de Leidenfrost, que não verifiquei no artigo e não afeta a escolha.",
       "hash_texto": "33d40ddbf59f2df82324edb161a45a650e25a8eb3348dc6ea3d028999699a8a9"
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-19",
+      "notas": "A página da Nature (s41467-021-21981-z) devolveu 429, por isso não a conto como lida. As duas fontes abertas bastam para todas as afirmações. As opções erradas (tensão superficial, óxido, bolhas de ar) não têm apoio nas fontes. | páginas lidas pelo advogado: https://arxiv.org/pdf/1202.2157 (Burton et al., Univ. Chicago: \"Leidenfrost drops levitate on a thin, insulating cushion of evaporated vapor\", 'fed by evaporation of the liquid', 'sudden increase in the drop lifetime': apoia almofada de vapor, película isoladora, levitação e evaporação lenta), https://www.discovermagazine.com/what-makes-droplets-dance-around-a-hot-surface-and-then-fly-away-18503 (\"the released vapor forms an insulating layer around the still-liquid droplet... slows the boiling\"; efeito Leidenfrost; superfície mais quente que o ponto de ebulição)"
+    },
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
@@ -100,7 +104,7 @@
       "hash_texto": "f14f747b88962558bb33e84f47d5f9f42c58f7e150d9a7b5a1f2bdc9332275cc"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -254,6 +258,19 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
-  ]
+  ],
+  "options_lock": "5f7e5503aef207e5a27db47b896d5ed69a53784e5c732340b64cffa35cf13a47"
 }

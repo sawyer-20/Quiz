@@ -81,7 +81,11 @@
       "notas": "Li duas páginas do London Museum. A primeira confirma que as tallies eram paus de madeira entalhados, usados como recibos pelo Exchequer, e que a queima em 1834 causou o incêndio de Westminster. A segunda (https://www.londonmuseum.org.uk/collections/v/object-372215/tallystick/) diz que os paus tinham entalhes com o valor e eram partidos ao comprido, ficando cada parte com uma metade. A página do Bank of England (https://www.bankofengland.co.uk/museum/whats-on/2019/325-years-exhibition/payments-through-time), também lida, confirma isso com um pau de aveleira partido ao comprido. As tábuas de cera, os rolos selados e as fichas de chumbo não aparecem como o objeto queimado em nenhuma fonte. As páginas do Parlamento do Reino Unido devolveram 403 e não as abri. O enunciado diz «no Tesouro inglês medieval», mas as fontes dizem que o Exchequer usou as tallies até ao século XIX; isto não afeta a resposta.",
       "hash_texto": "ab269f8e051e39ebfd234affb7f9e29e59f8f6e9c4f6f3d2fc68895796c0ce47"
     },
-    "advogado": null,
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-19",
+      "notas": "Todas as afirmações têm apoio. A ressalva é que 'carroças' e 'fornalhas sob a Câmara dos Lordes' vêm da página da History of Parliament (artigo da Dr Caroline Shenton), o que chega. | páginas lidas pelo advogado: https://historyofparliament.com/2025/10/16/the-westminster-fire-of-1834/ (16/10/1834; 'two large cartloads of wooden tally sticks' queimadas 'in the heating furnaces below' a câmara dos Lordes; 'a form of medieval tax receipt created by the Exchequer'; fogo 'uncontrollable in most of the Palace', 'a shattered and smoking collection of buildings': apoia 'destruiu grande parte do Palácio'), https://www.nationalarchives.gov.uk/help/e179/glossary.htm (\"Tally: A wooden stick, split in two and notched. Half would be given to collectors in receipt of payment at the Exchequer, while the other half would be retained. Many of these were destroyed by a fire in 1834\": apoia 'partidas ao meio' e 'cada parte guardava uma metade'), https://www.londonmuseum.org.uk/collections/v/object-372215/tallystick/ (aberta; não usada como base de nenhuma afirmação específica)"
+    },
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
@@ -100,7 +104,7 @@
       "hash_texto": "e3d880823e9ccca888bd0b6fb4abbb246c0b7dc1c950cc72227ed96e027a888a"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -254,6 +258,19 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
-  ]
+  ],
+  "options_lock": "e1e82d03874fc0bd269ea8d002e5273fab9f0fd24bac1735eb67ec6923f7f19b"
 }

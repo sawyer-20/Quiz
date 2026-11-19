@@ -48,7 +48,11 @@ Pelo critério do revisor («mais de 3 factos errados → corrigir o circuito pr
 TRAVÃO: ausente (0 erros em 59).
 
 ## Tempos
-Registados em `auditoria-2026-11-18-tempos.csv` (31 invocações de reparação e auditoria). Não estão registados os blocos 1 a 4 do auditor (devolvidos antes de o registo ser iniciado); contam como lacuna, não como zero.
+Registados em `auditoria-2026-11-18-tempos.csv`. **Correção (19/11):** o primeiro registo falhou em
+silêncio para todas as invocações com mais de uma pergunta (o `registar_tempo.py` rejeita vírgulas em
+`refs` e eu escondi a saída); só ficaram as de uma pergunta. Refiz o registo a 19/11, com `;`, para as
+invocações de reparação, verificador, triagem e auditoria de afirmações. Os blocos 1 a 4 do auditor
+(devolvidos antes de o registo existir) continuam sem tempo: lacuna, não zero.
 
 ## Estado após o fecho das lacunas (18/11)
 - Q12, Q19: cláusulas sem fonte retiradas (editor, tradutor, conferente com hash).
