@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000033",
   "topic": "World History",
-  "subtopic": "vida quotidiana",
+  "subtopic": "Incêndio do Parlamento de 1834 e as tallies",
   "text": {
     "pt-PT": {
       "question": "Que objeto serviu de recibo fiscal no Tesouro inglês medieval e, queimado em 1834, incendiou o Parlamento de Westminster?",
@@ -11,7 +11,7 @@
         "Fichas de chumbo cunhadas com o brasão real",
         "Tábuas de cera gravadas com estilete"
       ],
-      "explanation": "Varas de madeira entalhadas e partidas ao meio: uma metade ficava com o Tesouro, a outra com quem pagava. Em 1834 duas carroças dessas «tallies» foram queimadas nas fornalhas sob a Câmara dos Lordes e o fogo destruiu o Parlamento."
+      "explanation": "Varas de madeira entalhadas e partidas ao meio: cada parte da transação guardava uma metade. Em 1834 duas carroças dessas «tallies» foram queimadas nas fornalhas sob a Câmara dos Lordes e o fogo destruiu o Parlamento."
     },
     "en-US": {
       "question": "What object served as a tax receipt in the medieval English Exchequer and, when burned in 1834, set the Houses of Parliament on fire?",
@@ -21,7 +21,7 @@
         "Lead tokens stamped with the royal arms",
         "Wax tablets engraved with a stylus"
       ],
-      "explanation": "Notched wooden sticks split in half: one half stayed with the Exchequer, the other with the payer. In 1834 two cartloads of these tallies were burned in the furnaces under the House of Lords, and the fire destroyed Parliament."
+      "explanation": "Notched wooden sticks split in half: each party to the transaction kept one half. In 1834, two cartloads of these tallies were burned in the furnaces under the House of Lords, and the fire destroyed the Houses of Parliament."
     }
   },
   "correct": 1,
@@ -90,21 +90,15 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "enunciado encurtado; explicação começa pela resposta",
-      "data": "2026-11-11"
+      "notas": "Substituí «uma metade ficava com o Tesouro, a outra com quem pagava» por «cada parte da transação guardava uma metade», como diz o London Museum. O resto mantém-se. Enunciado e opções intactos.",
+      "data": "2026-11-19"
     },
     "tradutor": {
-      "data": "2026-11-11",
-      "notas": "Tesouro inglês -> Exchequer; Parlamento de Westminster -> Houses of Parliament."
-    },
-    "conferente": {
-      "aprovado": true,
-      "notas": "O facto (tallies, 1834, fornalhas sob a Câmara dos Lordes) é o mesmo nos dois textos. As quatro opções coincidem pela mesma ordem. As opções cabem em 60 caracteres e a explicação tem 2 frases. Não há pista gramatical nem lexical.",
-      "data": "2026-11-18",
-      "hash_texto": "522f6a05c8f241e27b6ae72995bd9f14b119fa0872afa276821939121cb2ce06"
+      "data": "2026-11-19",
+      "notas": "Pergunta e opções inalteradas. «Parlamento» traduzido por «Houses of Parliament», como na pergunta. «cada parte da transação» lido como cada parte envolvida («each party to the transaction»). «House of Lords» é a forma inglesa corrente de «Câmara dos Lordes»."
     }
   },
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -186,7 +180,24 @@
       "evento": "correção de formato",
       "agente": "orquestrador",
       "nota": "`sources` sincronizado com `fontes`"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "devolvida a em_verificacao",
+      "agente": "orquestrador",
+      "nota": "auditoria de afirmações (regra 29): afirmação sem fonte ou só em Wikipédia; explicação corrigida pelo editor; a repetir advogado, tradutor e conferente"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Pergunta e opções inalteradas. «Parlamento» traduzido por «Houses of Parliament», como na pergunta. «cada parte da transação» lido como cada parte envolvida («each party to the transaction»). «House of Lords» é a forma inglesa corrente de «Câmara dos Lordes»."
     }
-  ],
-  "options_lock": "9c531e5095ba7acd9ef59b227432dd802c4480a4916fad47759ee9b402ad6c98"
+  ]
 }

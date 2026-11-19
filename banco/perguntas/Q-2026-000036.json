@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000036",
   "topic": "Science",
-  "subtopic": "física do quotidiano",
+  "subtopic": "Efeito Leidenfrost",
   "text": {
     "pt-PT": {
       "question": "Numa chapa muito acima dos 100 °C, uma gota de água desliza sem tocar no metal. O que a mantém afastada?",
@@ -11,7 +11,7 @@
         "Uma almofada de vapor formada pela própria gota",
         "A tensão superficial, que repele o calor do metal"
       ],
-      "explanation": "Uma almofada de vapor formada pela própria gota: é o efeito Leidenfrost. A base da gota evapora e o vapor forma uma película fina e isoladora, sobre a qual a gota levita e perde calor devagar."
+      "explanation": "Uma almofada de vapor formada pela própria gota: é o efeito Leidenfrost. A gota evapora e o vapor forma uma película fina e isoladora, sobre a qual a gota levita e perde calor devagar."
     },
     "en-US": {
       "question": "On a metal plate far above 100 °C, a water droplet glides without touching the metal. What keeps it apart?",
@@ -21,7 +21,7 @@
         "A cushion of vapor formed by the droplet itself",
         "Surface tension, which repels heat from the metal"
       ],
-      "explanation": "A cushion of vapor formed by the droplet itself: this is the Leidenfrost effect. The underside of the droplet evaporates, and the vapor forms a thin insulating layer on which the droplet levitates and loses heat slowly."
+      "explanation": "A cushion of vapor formed by the droplet itself: this is the Leidenfrost effect. The droplet evaporates, and the vapor forms a thin, insulating film on which the droplet levitates and loses heat slowly."
     }
   },
   "correct": 2,
@@ -90,21 +90,15 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "explicação reordenada (editor tinha posto um ponto final numa opção; mantido o texto original das opções)",
-      "data": "2026-11-11"
+      "notas": "«A base da gota evapora» passou a «A gota evapora», que é o que as fontes dizem. Resto igual. Enunciado e opções intactos.",
+      "data": "2026-11-19"
     },
     "tradutor": {
-      "data": "2026-11-11",
-      "notas": "°C kept; American spelling."
-    },
-    "conferente": {
-      "aprovado": true,
-      "notas": "Efeito Leidenfrost: facto, explicação (2 frases) e opções equivalentes uma a uma. Regra 28: sem pista de género ou número num só idioma.",
-      "data": "2026-11-18",
-      "hash_texto": "471067b7deea3b07b5bbec219dec74a5fee1424532ab46043d2018596e6485b3"
+      "data": "2026-11-19",
+      "notas": "Pergunta e opções inalteradas. «Efeito Leidenfrost» mantido como «Leidenfrost effect»."
     }
   },
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -198,7 +192,24 @@
       "evento": "correção de formato",
       "agente": "orquestrador",
       "nota": "`sources` sincronizado com `fontes` (fonte do verificador mudou na repetição com hash)"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "devolvida a em_verificacao",
+      "agente": "orquestrador",
+      "nota": "auditoria de afirmações (regra 29): afirmação sem fonte ou só em Wikipédia; explicação corrigida pelo editor; a repetir advogado, tradutor e conferente"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Pergunta e opções inalteradas. «Efeito Leidenfrost» mantido como «Leidenfrost effect»."
     }
-  ],
-  "options_lock": "ed3ccbd9d1bfb953d8f6e598c9155e83f3f268c454edc21aaee00867fd4a0b58"
+  ]
 }

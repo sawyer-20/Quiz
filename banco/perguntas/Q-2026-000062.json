@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000062",
   "topic": "Space",
-  "subtopic": "sondas espaciais",
+  "subtopic": "Programa Voyager",
   "text": {
     "pt-PT": {
       "question": "Qual destas sondas da NASA foi lançada a 20 de agosto de 1977?",
@@ -11,7 +11,7 @@
         "Mariner 10",
         "Voyager 1"
       ],
-      "explanation": "A Voyager 2, apesar do número, partiu primeiro, a 20 de agosto de 1977. A Voyager 1 foi lançada a 5 de setembro, mas seguiu uma trajetória mais rápida e chegou antes a Júpiter e a Saturno."
+      "explanation": "A Voyager 2, apesar do número, partiu primeiro, a 20 de agosto de 1977. A Voyager 1 foi lançada a 5 de setembro, mas chegou antes a Júpiter e a Saturno."
     },
     "en-US": {
       "question": "Which of these NASA probes was launched on August 20, 1977?",
@@ -21,7 +21,7 @@
         "Mariner 10",
         "Voyager 1"
       ],
-      "explanation": "Voyager 2, despite its number, launched first, on August 20, 1977. Voyager 1 was launched on September 5 but took a faster trajectory and reached Jupiter and Saturn first."
+      "explanation": "Voyager 2, despite its number, launched first, on August 20, 1977. Voyager 1 was launched on September 5 but reached Jupiter and Saturn first."
     }
   },
   "correct": 1,
@@ -89,21 +89,15 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "Enunciado inalterado. Explicação com ajuste mínimo («A Voyager 2»). Dificuldade subida de 2 para 3: a ordem de lançamento das duas Voyager engana muita gente e a Voyager 1 é uma opção. Subtema afinado de «missões» para «sondas espaciais».",
-      "data": "2026-11-18"
+      "notas": "Só a explicação: retirei «seguiu uma trajetória mais rápida» (nenhuma fonte o diz). Enunciado e opções intactos. Cerca de 155 caracteres.",
+      "data": "2026-11-19"
     },
     "tradutor": {
-      "data": "2026-11-18",
-      "notas": "Datas no formato americano (August 20, 1977; September 5). 'chegou antes' traduzido como 'reached ... first'."
-    },
-    "conferente": {
-      "aprovado": true,
-      "notas": "Datas (20 de agosto e 5 de setembro de 1977) e ordem de chegada iguais nos dois idiomas. Opções idênticas, mesma ordem. Explicação com 2 frases.",
-      "data": "2026-11-18",
-      "hash_texto": "cf5314ac52e91d03df8a865237d30e03519d5788f46a54c6d6313d387a0a08ed"
+      "data": "2026-11-19",
+      "notas": "Pergunta e opções mantidas tal como estavam. Datas em formato americano (August 20, September 5), sem ano na segunda, como no pt-PT. Cerca de 143 caracteres, 2 frases."
     }
   },
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-12",
@@ -173,8 +167,25 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "devolvida a em_verificacao",
+      "agente": "orquestrador",
+      "nota": "auditoria de afirmações (regra 29): afirmação sem fonte ou só em Wikipédia; explicação corrigida pelo editor; a repetir advogado, tradutor e conferente"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Pergunta e opções mantidas tal como estavam. Datas em formato americano (August 20, September 5), sem ano na segunda, como no pt-PT. Cerca de 143 caracteres, 2 frases."
     }
   ],
-  "etiquetas": [],
-  "options_lock": "e2ef3224f81beeb7b8f189083f92735402a09f49ffb0928b65c752346de9d4df"
+  "etiquetas": []
 }

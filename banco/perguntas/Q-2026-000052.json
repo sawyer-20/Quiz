@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000052",
   "topic": "World History",
-  "subtopic": "Egiptologia e a Pedra de Roseta",
+  "subtopic": "Decifração dos hieróglifos",
   "text": {
     "pt-PT": {
       "question": "Em 1799 ninguém lia os hieróglifos. Que língua da Pedra de Roseta os estudiosos já sabiam ler e serviu de chave?",
@@ -11,7 +11,7 @@
         "Hebraico",
         "Latim"
       ],
-      "explanation": "A Pedra de Roseta traz o mesmo decreto em hieróglifos, demótico e grego antigo. Como os estudiosos já liam grego, o texto grego serviu de ponto de partida para decifrar as duas escritas egípcias."
+      "explanation": "A Pedra de Roseta traz o mesmo decreto em hieróglifos, demótico e grego antigo. Como os estudiosos já liam grego, o texto grego serviu de ponto de partida para decifrar os hieróglifos."
     },
     "en-US": {
       "question": "In 1799, no one could read hieroglyphs. Which language on the Rosetta Stone could scholars already read, giving them the key?",
@@ -21,7 +21,7 @@
         "Hebrew",
         "Latin"
       ],
-      "explanation": "The Rosetta Stone carries the same decree in hieroglyphs, Demotic, and ancient Greek. Because scholars already read Greek, the Greek text served as the starting point for deciphering the two Egyptian scripts."
+      "explanation": "The Rosetta Stone carries the same decree in hieroglyphs, Demotic, and Ancient Greek. Because scholars already read Greek, the Greek text served as the starting point for deciphering the hieroglyphs."
     }
   },
   "correct": 1,
@@ -70,21 +70,15 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "Sem alterações; enunciado com cerca de 112 caracteres, dentro do alvo.",
-      "data": "2026-11-13"
+      "notas": "Só a explicação: tirei a referência ao demótico como escrita decifrada com o grego (sem fonte), conforme a auditoria. Enunciado e opções intactos. Cerca de 190 caracteres.",
+      "data": "2026-11-19"
     },
     "tradutor": {
-      "data": "2026-11-13",
-      "notas": "Corrigido: removido o prefixo 'Ancient Greek.'; explicação segue o pt-PT. Pergunta e opções iguais à versão anterior."
-    },
-    "conferente": {
-      "aprovado": true,
-      "notas": "A data (1799), as três escritas e a chave são as mesmas nos dois idiomas. As opções Fenício/Phoenician, Grego antigo/Ancient Greek, Hebraico/Hebrew e Latim/Latin correspondem-se. A explicação tem 2 frases. A pergunta tem duas frases e termina em «?», o que é aceitável.",
-      "data": "2026-11-18",
-      "hash_texto": "c0a42ccf7443606e74cddc00000ba9effc309b5d41c05e5f62f0248cc9f536b7"
+      "data": "2026-11-19",
+      "notas": "Pergunta e opções mantidas tal como estavam. Explicação nova traduzida de perto (cerca de 205 caracteres, 2 frases). «demótico» passa a «Demotic» (forma inglesa corrente). Como o pt-PT, a explicação abre com a Pedra de Roseta e não com a resposta isolada; o grego aparece logo na primeira frase."
     }
   },
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -166,8 +160,25 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança alta; fonte lindahall.org"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "devolvida a em_verificacao",
+      "agente": "orquestrador",
+      "nota": "auditoria de afirmações (regra 29): afirmação sem fonte ou só em Wikipédia; explicação corrigida pelo editor; a repetir advogado, tradutor e conferente"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Pergunta e opções mantidas tal como estavam. Explicação nova traduzida de perto (cerca de 205 caracteres, 2 frases). «demótico» passa a «Demotic» (forma inglesa corrente). Como o pt-PT, a explicação abre com a Pedra de Roseta e não com a resposta isolada; o grego aparece logo na primeira frase."
     }
   ],
-  "etiquetas": [],
-  "options_lock": "03000e8ba73cbffb4e483ab1edc807ba6d68b3cfcf62c3ac6040e8e083e1affc"
+  "etiquetas": []
 }

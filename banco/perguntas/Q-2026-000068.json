@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000068",
   "topic": "Movies",
-  "subtopic": "realizadores",
+  "subtopic": "Cinematografia de Kubrick",
   "text": {
     "pt-PT": {
       "question": "Que marca fabricou as lentes ultraluminosas com que Kubrick filmou à luz de velas cenas de «Barry Lyndon»?",
@@ -11,7 +11,7 @@
         "Zeiss",
         "Panavision"
       ],
-      "explanation": "A Zeiss: Kubrick usou lentes de 50 mm f/0.7, as mais luminosas do mundo na altura, para filmar interiores só com velas. Foram feitas apenas dez e Kubrick comprou três."
+      "explanation": "A Zeiss: Kubrick usou lentes de 50 mm f/0.7, as mais luminosas do mundo na altura, para filmar cenas à luz de velas sem luz adicional. Foram feitas apenas dez e o produtor executivo Jan Harlan comprou três."
     },
     "en-US": {
       "question": "Which company made the ultra-fast lenses Kubrick used to film candlelit scenes in \"Barry Lyndon\"?",
@@ -21,7 +21,7 @@
         "Zeiss",
         "Panavision"
       ],
-      "explanation": "Zeiss: Kubrick used 50 mm f/0.7 lenses, the fastest in the world at the time, to film interiors lit only by candles. Only ten were made, and Kubrick bought three."
+      "explanation": "Zeiss: Kubrick used 50 mm f/0.7 lenses, the fastest in the world at the time, to shoot candlelit scenes without added light. Only ten were made, and executive producer Jan Harlan bought three."
     }
   },
   "correct": 2,
@@ -80,21 +80,15 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "Enunciado inalterado (105 caracteres), por isso o verificador cego não precisa de repetir por causa do enunciado. Explicação reescrita em 2 frases (a resposta e os dois pontos fundem as duas primeiras), sem factos nem números novos; cerca de 170 caracteres. Dificuldade e subtema mantidos.",
-      "data": "2026-11-18"
+      "notas": "Só a explicação: (a) «só com velas» passou a «sem luz adicional», como diz a Zeiss; (b) as três lentes foram compradas por Jan Harlan, não por Kubrick. Cerca de 205 caracteres. Assinalo que «as mais luminosas do mundo na altura» e «apenas dez» já constavam e não os revi contra a fonte; o advogado deve confirmá-los na página da Zeiss. Enunciado e opções intactos.",
+      "data": "2026-11-19"
     },
     "tradutor": {
-      "data": "2026-11-18",
-      "notas": "'lentes ultraluminosas' -> 'ultra-fast lenses' (termo corrente em inglês para objetivas de grande abertura). 'marca' -> 'company'. Aspas «» passam a aspas inglesas. Unidade 50 mm mantida."
-    },
-    "conferente": {
-      "aprovado": true,
-      "notas": "Mesmos números (50 mm f/0.7, dez feitas, três compradas). «Marca» e «company» são equivalentes para estas quatro opções. Opções idênticas, mesma ordem. Explicação com 2 frases.",
-      "data": "2026-11-18",
-      "hash_texto": "1154766ac60f0f382b0ea802cd37ed565ea930a54631e20843828cdb07247594"
+      "data": "2026-11-19",
+      "notas": "Pergunta e opções mantidas tal como estavam. Mantidos «50 mm» e «f/0.7» sem conversão. Os pontos em «f/0.7» são decimais e não fim de frase; a explicação tem 2 frases e cerca de 190 caracteres. «produtor executivo» traduzido como «executive producer»."
     }
   },
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-12",
@@ -170,8 +164,25 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "devolvida a em_verificacao",
+      "agente": "orquestrador",
+      "nota": "auditoria de afirmações (regra 29): afirmação sem fonte ou só em Wikipédia; explicação corrigida pelo editor; a repetir advogado, tradutor e conferente"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Pergunta e opções mantidas tal como estavam. Mantidos «50 mm» e «f/0.7» sem conversão. Os pontos em «f/0.7» são decimais e não fim de frase; a explicação tem 2 frases e cerca de 190 caracteres. «produtor executivo» traduzido como «executive producer»."
     }
   ],
-  "etiquetas": [],
-  "options_lock": "68d9184febf5424f4394fb2e2117603436d9c3af1e0bfd5592b2b8b32ebeefc6"
+  "etiquetas": []
 }

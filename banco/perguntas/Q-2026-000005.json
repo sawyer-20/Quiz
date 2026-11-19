@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000005",
   "topic": "World History",
-  "subtopic": "Conquista normanda de Inglaterra (século XI)",
+  "subtopic": "Conquista normanda e Tapeçaria de Bayeux",
   "text": {
     "pt-PT": {
       "question": "Que técnica deu forma às cenas da Tapeçaria de Bayeux, que narra a conquista normanda de 1066?",
@@ -11,7 +11,7 @@
         "Tecelagem em tear",
         "Estampagem com carimbos de madeira"
       ],
-      "explanation": "Bordado. Apesar do nome, não é uma tapeçaria, em que o desenho se tece no próprio pano: as cenas foram bordadas com fio de lã sobre um fundo de linho com cerca de 70 metros, feito de nove painéis cosidos entre si."
+      "explanation": "Bordado. Apesar do nome, não é uma tapeçaria, em que o desenho se tece no próprio pano: as cenas foram bordadas com fio de lã sobre um fundo de linho."
     },
     "en-US": {
       "question": "Which technique was used to create the scenes of the Bayeux Tapestry, which tells the story of the 1066 Norman conquest?",
@@ -21,7 +21,7 @@
         "Loom weaving",
         "Stamping with wooden blocks"
       ],
-      "explanation": "Embroidery. Despite the name, it is not a true tapestry, where the design is woven into the cloth: the scenes were embroidered in wool yarn on a linen ground about 70 meters long, made of nine panels sewn together."
+      "explanation": "Embroidery. Despite the name, it is not a true tapestry, in which the design is woven into the cloth itself: the scenes were embroidered with wool thread on a linen ground."
     }
   },
   "correct": 1,
@@ -80,21 +80,15 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "Formulação 'é tecnicamente que tipo de obra' é comum em quizzes (Quizzclub, FunTrivia, guias de estudo); reescrita para 'que técnica deu forma às cenas'. Opções em substantivos paralelos, mesma ordem e sentido. Sem quiz em português igual.",
-      "data": "2026-11-04"
+      "notas": "Tirei «com cerca de 70 metros, feito de nove painéis cosidos entre si» (sem apoio fora da Wikipédia). Ficam só bordado, não ser tapeçaria, fio de lã e fundo de linho (National Geographic). Enunciado e opções intactos.",
+      "data": "2026-11-19"
     },
     "tradutor": {
-      "data": "2026-11-11",
-      "notas": "Spelling 'meters' (US). 'Tapeçaria' kept as 'Tapestry' (standard English title)."
-    },
-    "conferente": {
-      "aprovado": true,
-      "notas": "Equivalentes em tudo (70 m, nove painéis, linho, lã). Sem pista gramatical ou lexical só num idioma. Explicação com 2 frases.",
-      "data": "2026-11-18",
-      "hash_texto": "00b6a9a14a860feddd5034a5b36d9dd84e011bb2ce5580b0dafef40ab93257b5"
+      "data": "2026-11-19",
+      "notas": "Pergunta e opções inalteradas. «não é uma tapeçaria» traduzido por «not a true tapestry» para soar natural em inglês."
     }
   },
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-04-historia",
   "criada_em": "2026-11-04",
@@ -200,10 +194,27 @@
       "evento": "correção de formato",
       "agente": "orquestrador",
       "nota": "`sources` sincronizado com `fontes` (fonte do verificador mudou na repetição com hash)"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "devolvida a em_verificacao",
+      "agente": "orquestrador",
+      "nota": "auditoria de afirmações (regra 29): afirmação sem fonte ou só em Wikipédia; explicação corrigida pelo editor; a repetir advogado, tradutor e conferente"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Pergunta e opções inalteradas. «não é uma tapeçaria» traduzido por «not a true tapestry» para soar natural em inglês."
     }
   ],
   "etiquetas": [
     "classico"
-  ],
-  "options_lock": "146b8df22af5109bb799b4652ffe50e457e6a0ee0a5d0ba9f51c61811deaeae8"
+  ]
 }

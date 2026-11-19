@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000047",
   "topic": "World History",
-  "subtopic": "arquitetura e artes aplicadas",
+  "subtopic": "Arquitetura militar medieval portuguesa",
   "markets": [
     "pt"
   ],
@@ -14,7 +14,7 @@
         "Guardar armas e mantimentos durante um cerco",
         "Abrigar as sentinelas da chuva e do frio"
       ],
-      "explanation": "Servia para disparar na vertical sobre a base dos muros: o hurdício era uma galeria de madeira saliente no topo das muralhas e das torres. Segundo o historiador Mário Barroca, foram os Templários que o introduziram em Portugal."
+      "explanation": "Servia para disparar na vertical sobre a base dos muros: o hurdício era uma galeria de madeira que coroava as torres. Segundo o Guia de Inventário do IHRU, foram os Templários que o introduziram em Portugal."
     },
     "en-US": {
       "question": "What was the hurdício (hoarding), a wooden gallery atop the towers of medieval Portuguese castles, used for?",
@@ -24,7 +24,7 @@
         "Storing weapons and supplies during a siege",
         "Sheltering sentries from rain and cold"
       ],
-      "explanation": "Firing straight down at the base of the walls: the hurdício (hoarding) was a wooden gallery projecting from the top of walls and towers. According to historian Mário Barroca, the Templars introduced it to Portugal."
+      "explanation": "Firing straight down at the base of the walls: the hoarding was a wooden gallery crowning the towers. According to the IHRU's Inventory Guide, the Templars introduced it in Portugal."
     }
   },
   "correct": 1,
@@ -82,21 +82,15 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "estilo",
-      "data": "2026-11-11"
+      "notas": "Tirei «saliente» e «no topo das muralhas» (sem apoio) e usei «coroava as torres». Atribuí a introdução pelos Templários ao Guia de Inventário do IHRU/SIPA, não a Mário Barroca. Se o campo sources ainda citar Barroca para esta cláusula, deve ser trocado pelo IHRU. Mantive «em Portugal» da versão anterior: convém o advogado confirmar que o Guia o diz no contexto português. Enunciado e opções intactos.",
+      "data": "2026-11-19"
     },
     "tradutor": {
-      "data": "2026-11-11",
-      "notas": "hurdício = hoarding, explained in the question and explanation."
-    },
-    "conferente": {
-      "aprovado": true,
-      "notas": "A glosa «(hoarding)» no enunciado en-US é só um esclarecimento do termo e não indica a opção certa. A atribuição a Mário Barroca é igual nos dois idiomas. Regra 28 sem problemas.",
-      "data": "2026-11-18",
-      "hash_texto": "75477165ac4e99942fe6ecfe655f7c2fa303b65bc6d186d695db60c422369f7e"
+      "data": "2026-11-19",
+      "notas": "Pergunta e opções inalteradas. Atribuição «Segundo o Guia de Inventário do IHRU» mantida («According to the IHRU's Inventory Guide»); IHRU mantido como sigla da instituição portuguesa (Instituto da Habitação e da Reabilitação Urbana). Na explicação uso «hoarding» (termo inglês corrente), já presente na pergunta."
     }
   },
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -184,8 +178,25 @@
       "evento": "confirmacao_pendente",
       "agente": "orquestrador",
       "nota": "decisão do Andre: aceite sem confirmação independente de nível 1; confirmacao_pendente true e daily_eligible false; não entra em versão pública; o teste fechado pode usá-la"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "devolvida a em_verificacao",
+      "agente": "orquestrador",
+      "nota": "auditoria de afirmações (regra 29): afirmação sem fonte ou só em Wikipédia; explicação corrigida pelo editor; a repetir advogado, tradutor e conferente"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Pergunta e opções inalteradas. Atribuição «Segundo o Guia de Inventário do IHRU» mantida («According to the IHRU's Inventory Guide»); IHRU mantido como sigla da instituição portuguesa (Instituto da Habitação e da Reabilitação Urbana). Na explicação uso «hoarding» (termo inglês corrente), já presente na pergunta."
     }
   ],
-  "options_lock": "b31e9dfc58b01cfcfdafdcf51469b92bcd2b0e9bf9f291b1afff7f6d0de50382",
   "confirmacao_pendente": true
 }

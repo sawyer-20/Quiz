@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000030",
   "topic": "General Knowledge",
-  "subtopic": "língua portuguesa",
+  "subtopic": "Empréstimos do português ao malaio",
   "text": {
     "pt-PT": {
       "question": "De que palavra portuguesa vem o malaio «minggu», que significa «semana»?",
@@ -11,7 +11,7 @@
         "Semana",
         "Sábado"
       ],
-      "explanation": "Domingo. Em malaio e em indonésio, «minggu» passou a designar o período de sete dias, a semana; é um dos empréstimos do português ao malaio."
+      "explanation": "Domingo. O malaio «minggu», que significa «semana» em malaio e indonésio, vem do português «domingo»: é um dos empréstimos do português ao malaio."
     },
     "en-US": {
       "question": "Which Portuguese word does the Malay \"minggu,\" meaning \"week,\" come from?",
@@ -21,7 +21,7 @@
         "Semana (week)",
         "Sábado (Saturday)"
       ],
-      "explanation": "Domingo. In Malay and Indonesian, \"minggu\" came to mean the seven-day period, the week; it is one of the Portuguese loanwords in Malay."
+      "explanation": "Domingo. The Malay \"minggu,\" meaning \"week\" in Malay and Indonesian, comes from the Portuguese \"domingo\": it is one of the Portuguese loanwords in Malay."
     }
   },
   "correct": 1,
@@ -99,21 +99,15 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "explicação encurtada para 1–2 frases (migração v2); sem factos novos",
-      "data": "2026-11-11"
+      "notas": "Tirei a ideia de que o sentido «passou» de domingo a semana, que nenhuma fonte diz. Ficam só a origem (UFF, WOLD), o significado (Cambridge) e o empréstimo. Enunciado e opções intactos.",
+      "data": "2026-11-19"
     },
     "tradutor": {
-      "data": "2026-11-11",
-      "notas": "Portuguese words kept in the options with a short gloss; 'Feira' glossed as 'market day'."
-    },
-    "conferente": {
-      "aprovado": true,
-      "notas": "As glosas entre parênteses no en-US servem só para identificar as palavras portuguesas e não alteram o sentido das opções. Nenhuma opção errada fica defensável. Não há pista gramatical.",
-      "data": "2026-11-18",
-      "hash_texto": "77793fc8fc8bc5a85118c859b4a26bbc811a9b45710ecf9b4812d17c11b9d4a6"
+      "data": "2026-11-19",
+      "notas": "Pergunta e opções inalteradas. «empréstimos do português ao malaio» traduzido por «Portuguese loanwords in Malay»."
     }
   },
-  "estado": "aprovada",
+  "estado": "em_verificacao",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -213,7 +207,24 @@
       "evento": "correção de formato",
       "agente": "orquestrador",
       "nota": "`sources` sincronizado com `fontes` (fonte do verificador mudou na repetição com hash)"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "devolvida a em_verificacao",
+      "agente": "orquestrador",
+      "nota": "auditoria de afirmações (regra 29): afirmação sem fonte ou só em Wikipédia; explicação corrigida pelo editor; a repetir advogado, tradutor e conferente"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Pergunta e opções inalteradas. «empréstimos do português ao malaio» traduzido por «Portuguese loanwords in Malay»."
     }
-  ],
-  "options_lock": "b414b3c71344b8e16d832e83796db66981b8f6f1951bd286c7bd0fae71ae23bd"
+  ]
 }
