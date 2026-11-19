@@ -33,7 +33,8 @@
   "daily_eligible": false,
   "sources": [
     "https://projetos.dhlab.fcsh.unl.pt/files/original/8cce7364fca20287203002044c21a53a52377364.pdf",
-    "https://imovel.patrimoniocultural.gov.pt/detalhes.php?code=71169"
+    "https://projetos.dhlab.fcsh.unl.pt/files/original/41fd9f1c979604bd5ef7bf9299a4f78fe48868cf.pdf",
+    "https://educalingo.com/pt/dic-pt/hurdicio"
   ],
   "fontes": [
     {
@@ -55,12 +56,12 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://imovel.patrimoniocultural.gov.pt/detalhes.php?code=71169",
-      "dominio": "patrimoniocultural.gov.pt",
-      "titulo": "Castelo de Langóbria - PESQUISA GERAL - Património Cultural (DGPC)",
-      "nivel": 1,
-      "excerto": "originalmente, foi rodeada por um hurdício, uma galeria de madeira (de que ainda restam os apoios a toda a roda da torre) que protegia superiormente a estrutura e permitia o ataque vertical sobre os inimigos",
-      "consultada_em": "2026-11-11",
+      "url": "https://educalingo.com/pt/dic-pt/hurdicio",
+      "dominio": "educalingo.com",
+      "titulo": "HURDÍCIO - Definição (educalingo; cita Correia, Castelos em Portugal, 2010)",
+      "nivel": 2,
+      "excerto": "O hurdício é uma galeria em madeira que coroava torres e panos de muralha, permitindo o tiro vertical sobre as bases dos muros. Surge pela primeira vez no nosso território na torre de menagem do castelo de Longroiva (1174)",
+      "consultada_em": "2026-11-19",
       "papel": "verificador"
     }
   ],
@@ -68,10 +69,11 @@
     "verificador": {
       "resposta_texto": "Disparar na vertical sobre a base dos muros",
       "concorda": true,
-      "confianca": "alta",
-      "dominio": "patrimoniocultural.gov.pt",
-      "data": "2026-11-11",
-      "notas": "Apoio: estudo da U. do Porto (ler.letras.up.pt/uploads/ficheiros/8396.pdf, n1) descreve o hurdício de Longroiva como galeria de madeira, sem dizer expressamente 'tiro vertical'. A fonte diz 'ataque vertical sobre os inimigos' e não 'base dos muros' (inferência pequena; outras opções sem apoio). monumentos.gov.pt DNS/reset; baes.uc.pt 502; pt.wikipedia 404."
+      "confianca": "media",
+      "dominio": "educalingo.com",
+      "data": "2026-11-19",
+      "notas": "Abertas e lidas: (1) educalingo, nível 2, que reproduz excertos de livros e do dicionário de Figueiredo; (2) artigo da Universidade do Porto (ler.letras.up.pt/uploads/ficheiros/8396.pdf, nível 1), que confirma a galeria de madeira no topo da torre de Longroiva (1174): \"orifícios quadrangulares... que denunciam a presença, outrora, de uma galeria de madeira\". Esse artigo não diz a função, que vem do excerto de Correia (2010) citado no educalingo; daí a confiança média. Não abri o Infopédia (403 e ENOTFOUND), o Turismo Militar nem o cm-tomar (reset de ligação, repetido uma vez) nem o monumentos.gov.pt (nome não resolvido). A pesquisa mostrou-me resumos do Infopédia e do Turismo Militar que concordam, mas não os li. Opções excluídas: guardar armas e mantimentos, sinais com fogueiras e abrigar sentinelas não aparecem em nenhuma definição lida. O enunciado diz \"torres\" e as fontes dizem \"torres e panos de muralha\", o que não é contradição. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Fontes antigas dão outros sentidos: Figueiredo (1937) define-o como grade de madeira que resguardava muralhas contra aríetes, e Duarte de Almeida (2007) como anteparo em forma de balcão de madeira. Nenhum deles aponta para armazenar, sinalizar ou abrigar sentinelas. Para a galeria no topo das torres, a função é o tiro vertical.",
+      "hash_texto": "7d190c8b40d0bb8f4da1ceede5c4d38fba83d3c3672cf5de1267b98214d8e1df"
     },
     "advogado": {
       "aprovado": true,
@@ -96,7 +98,7 @@
       "hash_texto": "79a077be97622123a5a7b7c40369a63f022a59d23e4c5df17f0e381439c81d36"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-11-misto",
   "criada_em": "2026-11-11",
@@ -214,7 +216,26 @@
       "evento": "aprovada pelo advogado do diabo",
       "agente": "advogado-do-diabo",
       "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte educalingo.com"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "`sources` sincronizado com `fontes`"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "confirmacao_pendente": true
+  "confirmacao_pendente": true,
+  "options_lock": "b31e9dfc58b01cfcfdafdcf51469b92bcd2b0e9bf9f291b1afff7f6d0de50382"
 }

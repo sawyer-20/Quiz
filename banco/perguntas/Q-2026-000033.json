@@ -14,7 +14,7 @@
       "explanation": "Varas de madeira entalhadas e partidas ao meio: cada parte da transação guardava uma metade. Em 1834 duas carroças dessas «tallies» foram queimadas nas fornalhas sob a Câmara dos Lordes e o fogo destruiu grande parte do Palácio de Westminster."
     },
     "en-US": {
-      "question": "Which object served as a receipt in the medieval English Exchequer and, when burned in 1834, set fire to the Houses of Parliament?",
+      "question": "Which object served as a tax receipt in the medieval English Exchequer and, when burned in 1834, set fire to the Houses of Parliament?",
       "options": [
         "Lead tokens stamped with the royal coat of arms",
         "Notched wooden sticks split in half",
@@ -91,7 +91,7 @@
     },
     "tradutor": {
       "data": "2026-11-19",
-      "notas": "Certa = índice 1. O pt-PT diz 'recibo fiscal' no enunciado; usei 'receipt' (sem 'fiscal', que soaria estranho em inglês); conferente deve ver. 'Parlamento de Westminster' -> 'Houses of Parliament' (forma corrente em inglês); a explicação mantém 'Palace of Westminster' como no pt-PT. 'Tesouro' -> 'Exchequer' (nome da instituição). 'tallies' entre aspas como no original. 'Duas carroças' -> 'two cartloads' (equivalente natural). Opção 1: 'entalhadas' -> 'notched'."
+      "notas": "Corrigido: a pergunta passa a dizer 'tax receipt' (recupera 'fiscal'). Opções, ordem (certa = índice 1) e explicação inalteradas. Pergunta com 133 caracteres. 'Parlamento de Westminster' -> 'Houses of Parliament' no enunciado; a explicação mantém 'Palace of Westminster'."
     }
   },
   "estado": "em_verificacao",
@@ -230,6 +230,18 @@
       "evento": "correção de formato",
       "agente": "orquestrador",
       "nota": "`sources` sincronizado com `fontes`"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"pergunta\", \"idioma\": \"pt-PT\", \"detalhe\": \"«recibo fiscal» acrescenta o sentido de documento fiscal (tax receipt). O en-US diz só «a receipt». Não é exatamente a mesma afirmação, e o pt-PT pode ser lido como um recibo no sentido moderno de comprovativo fiscal. Na dúvida, rejeita-se. Corrigir para «recibo» no pt-PT, ou pôr «tax receipt» no en-US, mas só se a ficha de facto o permitir, e o pt-PT alterado volta ao verificador.\"}]"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Corrigido: a pergunta passa a dizer 'tax receipt' (recupera 'fiscal'). Opções, ordem (certa = índice 1) e explicação inalteradas. Pergunta com 133 caracteres. 'Parlamento de Westminster' -> 'Houses of Parliament' no enunciado; a explicação mantém 'Palace of Westminster'."
     }
   ]
 }

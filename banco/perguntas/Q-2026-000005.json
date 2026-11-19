@@ -92,6 +92,12 @@
     "tradutor": {
       "data": "2026-11-19",
       "notas": "Certa = índice 2 (Embroidery). 'Estampagem com carimbos de madeira' -> 'Printing with wooden stamps'. Opção 3 'Weaving on a loom' mantém o contraste com 'tapestry' da explicação. 'Conquista normanda' -> 'Norman conquest'."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Pergunta, opções e explicação equivalentes nas duas línguas. Sem pista gramatical ou lexical só num idioma. Limites cumpridos.",
+      "data": "2026-11-19",
+      "hash_texto": "6d05df5f940fbf4463e19afa569728fccc9ffd23145a6a304081d5a34eeb0124"
     }
   },
   "estado": "em_verificacao",
@@ -254,6 +260,12 @@
       "evento": "correção de formato",
       "agente": "orquestrador",
       "nota": "`sources` sincronizado com `fontes`"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ],
   "etiquetas": [

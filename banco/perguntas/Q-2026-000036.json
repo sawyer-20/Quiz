@@ -92,6 +92,12 @@
     "tradutor": {
       "data": "2026-11-19",
       "notas": "Certa = índice 2. Unidade '100 °C' mantida (sem conversão). 'Chapa' -> 'hot plate' (o pt-PT diz só 'chapa', mas o contexto é de superfície quente). Grafia americana 'vapor'. 'Película' traduzida por 'film' na opção 1 e 'layer' na explicação, como no pt-PT ('película')."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Equivalentes nas duas línguas. A palavra «gota/droplet» repete-se na opção certa e na opção 3 nos dois idiomas, por isso o eco é simétrico e não cria pista num só idioma. O verbo singular («mantém»/«keeps») contra a opção 3 no plural também existe nas duas línguas. «Chapa» e «hot plate» são equivalentes. Limites cumpridos.",
+      "data": "2026-11-19",
+      "hash_texto": "f14f747b88962558bb33e84f47d5f9f42c58f7e150d9a7b5a1f2bdc9332275cc"
     }
   },
   "estado": "em_verificacao",
@@ -242,6 +248,12 @@
       "evento": "correção de formato",
       "agente": "orquestrador",
       "nota": "`sources` sincronizado com `fontes`"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ]
 }
