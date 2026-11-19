@@ -73,8 +73,8 @@
     },
     "advogado": {
       "aprovado": true,
-      "data": "2026-11-18",
-      "notas": "Zeiss (nível 1, fabricante): Planar 0.7/50 mm, só dez produzidas, «at the time the world's fastest lens», usada por Kubrick nas cenas à luz de velas de Barry Lyndon sem luz adicional. PetaPixel: Planar 50 mm f/0.7, só 10 existentes. Os dois estão de acordo no número dez. A Zeiss também diz que Harlan comprou uma lente e depois mais duas, ou seja, três para o projeto de Kubrick, o que sustenta «Kubrick comprou três». A AFI devolveu 403 e não a contei como lida; a afirmação das três lentes assenta na Zeiss, mais o excerto do pesquisador, que não pude confirmar. Fica uma nota menor: a compra foi feita por Jan Harlan, o produtor executivo, em nome de Kubrick, e a AFI atribui-a a Kubrick. Como a lente é de qualquer modo a de Kubrick e a explicação não depende desse pormenor, não bloqueia. Outras marcas: nenhuma fonte atribui estas lentes a Leica, Nikon ou Panavision. A adaptação da câmara (Mitchell BNC) foi feita por Ed Di Giulio, mas a lente é Zeiss, por isso a pergunta, que fala em «fabricou as lentes», não é ambígua. Não encontrei segunda resposta. | páginas lidas pelo advogado: https://www.zeiss.com/photonics-and-optics/en/home/content/newsroom/news-overview/2022/zeiss-planar-07-50.html, https://petapixel.com/2013/01/25/grandson-of-zeiss-lens-designer-was-left-a-holy-grail-of-zeiss-lenses/"
+      "data": "2026-11-19",
+      "notas": "Todas as afirmações da explicação têm apoio na página da Zeiss (nível 1): f/0.7 de 50 mm, as mais luminosas na altura, sem luz adicional, apenas dez, Harlan comprou três (uma e depois mais duas). Zeiss é a marca certa; Leica, Nikon e Panavision não têm apoio. Explicação com 2 frases. A página da AFI devolveu 403, por isso não a usei; nenhuma afirmação depende dela. | páginas lidas pelo advogado: https://www.zeiss.com/photonics-and-optics/en/home/content/newsroom/news-overview/2022/zeiss-planar-07-50.html (apoia: Planar 0.7/50 mm; «at the time it was the world's fastest lens»; Kubrick trabalhou sem luz adicional nas cenas de velas de Barry Lyndon; «only ten of these were produced»; Jan Harlan é o produtor executivo de Kubrick; Harlan: «I bought one lens... I bought two further lenses», ou seja, três), https://petapixel.com/2013/01/25/grandson-of-zeiss-lens-designer-was-left-a-holy-grail-of-zeiss-lenses/ (apoia: Planar 50mm f/0.7 usada por Kubrick nas cenas à luz de velas de Barry Lyndon; «only 10 of those in existence»; não menciona Harlan), https://www.afi.com/news/barry-lyndon-1975-afi-catalog-spotlight/ (403, recusada pelo site; não conta como lida)"
     },
     "editor": {
       "aprovado": true,
@@ -86,9 +86,15 @@
     "tradutor": {
       "data": "2026-11-19",
       "notas": "Pergunta e opções mantidas tal como estavam. Mantidos «50 mm» e «f/0.7» sem conversão. Os pontos em «f/0.7» são decimais e não fim de frase; a explicação tem 2 frases e cerca de 190 caracteres. «produtor executivo» traduzido como «executive producer»."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Os números coincidem nos dois idiomas: 50 mm f/0.7, dez lentes feitas e três compradas por Jan Harlan. As opções são as mesmas e estão pela mesma ordem. «Marca» e «company» são equivalentes aqui, porque todas as opções são fabricantes. «Lentes» é aceitável em pt-PT. Sem pista gramatical ou lexical. Todas as opções têm menos de 60 caracteres e a explicação tem 2 frases.",
+      "data": "2026-11-19",
+      "hash_texto": "0a3dd3ef3190cb71ab1325ddb6795958399282a9fecd35a4d59fd2cbb269bd18"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-12",
@@ -182,7 +188,26 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Pergunta e opções mantidas tal como estavam. Mantidos «50 mm» e «f/0.7» sem conversão. Os pontos em «f/0.7» são decimais e não fim de frase; a explicação tem 2 frases e cerca de 190 caracteres. «produtor executivo» traduzido como «executive producer»."
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "68d9184febf5424f4394fb2e2117603436d9c3af1e0bfd5592b2b8b32ebeefc6"
 }

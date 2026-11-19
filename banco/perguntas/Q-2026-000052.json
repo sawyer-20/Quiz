@@ -63,8 +63,8 @@
     },
     "advogado": {
       "aprovado": true,
-      "notas": "Smithsonian Magazine aberta e lida: «scholars at the time knew ancient Greek and could therefore piece together the hieroglyphic translation based on the Greek message»; a pedra tem o mesmo decreto em hieróglifos, demótico e grego antigo; encontrada em julho de 1799. Fenício, hebraico e latim não aparecem na pedra, logo não há segunda resposta defensável (a pergunta pede uma língua DA Pedra de Ros",
-      "data": "2026-11-12"
+      "data": "2026-11-19",
+      "notas": "Cada afirmação da explicação (mesmo decreto nas três escrituras; estudiosos já liam grego; o texto grego serviu de ponto de partida) tem apoio nas duas páginas lidas. Tentei encontrar outra língua defensável (fenício, hebraico, latim): nenhuma fonte o apoia. O enunciado «em 1799 ninguém lia os hieróglifos» é coerente com a Smithsonian (desenterrada em julho de 1799, enigma por resolver). Nada a corrigir. | páginas lidas pelo advogado: https://www.smithsonianmag.com/history/rosetta-stone-hieroglyphs-champollion-decipherment-egypt-180980834/ (apoia: o mesmo decreto em três escrituras, hieróglifos, demótico e grego antigo; os estudiosos da época sabiam grego antigo e podiam apoiar-se na mensagem grega; pedra desenterrada em julho de 1799), https://www.lindahall.org/experience/digital-exhibitions/napoleon-and-the-scientific-expedition-to-egypt/15-the-rosetta-stone/ (apoia: texto grego traduzido pelos estudiosos logo após a descoberta; a Pedra tornou-se a chave para decifrar os hieróglifos)"
     },
     "editor": {
       "aprovado": true,
@@ -76,9 +76,15 @@
     "tradutor": {
       "data": "2026-11-19",
       "notas": "Pergunta e opções mantidas tal como estavam. Explicação nova traduzida de perto (cerca de 205 caracteres, 2 frases). «demótico» passa a «Demotic» (forma inglesa corrente). Como o pt-PT, a explicação abre com a Pedra de Roseta e não com a resposta isolada; o grego aparece logo na primeira frase."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Enunciado, opções e explicação dizem o mesmo nos dois idiomas. O 1799 e o decreto em três escritas coincidem. As opções correspondem uma a uma pela mesma ordem. Sem pista de género ou número: «língua» não aponta para nenhuma opção, e o enunciado não repete «grego».",
+      "data": "2026-11-19",
+      "hash_texto": "c162655f3c43be7cd417e94af0a01e5b7b31ecbde3389b21f96c19148dfc4a1f"
     }
   },
-  "estado": "em_verificacao",
+  "estado": "aprovada",
   "motivo_rejeicao": null,
   "lote": "lote-2026-11-12-bilingue",
   "criada_em": "2026-11-12",
@@ -178,7 +184,26 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Pergunta e opções mantidas tal como estavam. Explicação nova traduzida de perto (cerca de 205 caracteres, 2 frases). «demótico» passa a «Demotic» (forma inglesa corrente). Como o pt-PT, a explicação abre com a Pedra de Roseta e não com a resposta isolada; o grego aparece logo na primeira frase."
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": []
+  "etiquetas": [],
+  "options_lock": "03000e8ba73cbffb4e483ab1edc807ba6d68b3cfcf62c3ac6040e8e083e1affc"
 }
