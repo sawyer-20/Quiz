@@ -75,8 +75,8 @@
     },
     "advogado": {
       "aprovado": true,
-      "notas": "Advogado (2.ª passagem): atribuição a Barroca confirmada no artigo de 1998; tiro vertical sobre a base dos muros apoiado em dois guias de inventário e na ficha DGPC; distratores sem apoio.",
-      "data": "2026-11-11"
+      "data": "2026-11-19",
+      "notas": "Confirmado o ponto da atenção: o Guia atribui aos Templários a introdução do húrdício nas fortificações românicas, no contexto português (castelo de Longroiva, primeiro exemplo; depois Guimarães e Outeiro). A formulação «Segundo o Guia... introduziram-no em Portugal» está atribuída e é fiel ao contexto, embora o guia não escreva literalmente «em Portugal» nessa frase. Não abri as outras duas fontes (o PDF 41fd… e o SIPA 71169), porque nenhuma afirmação da explicação depende delas. | páginas lidas pelo advogado: https://projetos.dhlab.fcsh.unl.pt/files/original/8cce7364fca20287203002044c21a53a52377364.pdf (Guia de Inventário IHRU/SIPA, págs. 10-11: «A Ordem do Templo foi também responsável pela introdução de três aspetos inovadores nas fortificações românicas: a torre de menagem, os paramentos com talude ou ressalto e o cadafalso ou húrdício»; «galeria de madeira que coroava as estruturas torreadas, na face externa dos muros, permitindo tiro vertical sobre a base dos muros»; primeira vez no castelo de Longroiva. O guia trata das fortificações em Portugal e situa a Ordem do Templo em Portugal desde 1128)"
     },
     "editor": {
       "aprovado": true,
@@ -207,6 +207,12 @@
       "data": "2026-11-19",
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
       "nota": ""
     }
   ],

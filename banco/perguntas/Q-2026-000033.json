@@ -6,22 +6,12 @@
     "pt-PT": {
       "question": "Que objeto serviu de recibo fiscal no Tesouro inglês medieval e, queimado em 1834, incendiou o Parlamento de Westminster?",
       "options": [
-        "Rolos de pergaminho selados com cera",
-        "Varas de madeira entalhadas e partidas ao meio",
         "Fichas de chumbo cunhadas com o brasão real",
+        "Varas de madeira entalhadas e partidas ao meio",
+        "Rolos de pergaminho selados com cera",
         "Tábuas de cera gravadas com estilete"
       ],
-      "explanation": "Varas de madeira entalhadas e partidas ao meio: cada parte da transação guardava uma metade. Em 1834 duas carroças dessas «tallies» foram queimadas nas fornalhas sob a Câmara dos Lordes e o fogo destruiu o Parlamento."
-    },
-    "en-US": {
-      "question": "What object served as a tax receipt in the medieval English Exchequer and, when burned in 1834, set the Houses of Parliament on fire?",
-      "options": [
-        "Wax-sealed parchment rolls",
-        "Notched wooden sticks split in half",
-        "Lead tokens stamped with the royal arms",
-        "Wax tablets engraved with a stylus"
-      ],
-      "explanation": "Notched wooden sticks split in half: each party to the transaction kept one half. In 1834, two cartloads of these tallies were burned in the furnaces under the House of Lords, and the fire destroyed the Houses of Parliament."
+      "explanation": "Varas de madeira entalhadas e partidas ao meio: cada parte da transação guardava uma metade. Em 1834 duas carroças dessas «tallies» foram queimadas nas fornalhas sob a Câmara dos Lordes e o fogo destruiu grande parte do Palácio de Westminster."
     }
   },
   "correct": 1,
@@ -60,48 +50,17 @@
       "excerto": "unsupervised and ill-advised burning of two large cartloads of wooden tally sticks (a form of medieval tax receipt created by the Exchequer ...) in the heating furnaces below [the House of Lords chamber]",
       "consultada_em": "2026-11-11",
       "papel": "advogado"
-    },
-    {
-      "url": "https://www.londonmuseum.org.uk/collections/v/object-372215/tallystick/",
-      "dominio": "londonmuseum.org.uk",
-      "titulo": "Tallystick | London Museum",
-      "nivel": 1,
-      "excerto": "Tally sticks were used as receipts for loans or other payments. Notches were cut into them recording the amount of money involved, and then the stick was split lengthways.",
-      "consultada_em": "2026-11-18",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Varas de madeira entalhadas e partidas ao meio",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "londonmuseum.org.uk",
-      "data": "2026-11-18",
-      "notas": "Li o museu (nível 1) sobre o uso como recibo e a divisão ao meio. Li também chr.org.uk (nível 2/3, não primária), que descreve o salgueiro dividido em foil e stock e a ligação ao Tesouro (Exchequer), e a página de Fordham, que diz que em 1834 queimaram as tally sticks e o fogo destruiu o Palácio de Westminster (só via a pesquisa; a ligação caiu). A ligação direta ao incêndio de 1834 num nível 1 aberto: a página do parlamento.uk deu 403 e só a li no resultado de pesquisa; a de Fordham (universidade, nível 1) leu-se numa passagem inicial. Os rolos de pergaminho, as tábuas de cera e as fichas de chumbo não são o objeto do incêndio em nenhuma fonte. Atenção: o enunciado diz 'queimado em 1834' no singular; as fontes falam de duas carroças de varas.",
-      "hash_texto": "ab269f8e051e39ebfd234affb7f9e29e59f8f6e9c4f6f3d2fc68895796c0ce47"
-    },
-    "advogado": {
-      "aprovado": true,
-      "notas": "Advogado: «recibo fiscal», «duas carroças» e «fornalhas sob a Câmara dos Lordes» confirmados na History of Parliament; sem segunda resposta; sem sensibilidade (mais de 10 anos).",
-      "data": "2026-11-11"
-    },
+    "verificador": null,
+    "advogado": null,
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
       "notas": "Substituí «uma metade ficava com o Tesouro, a outra com quem pagava» por «cada parte da transação guardava uma metade», como diz o London Museum. O resto mantém-se. Enunciado e opções intactos.",
       "data": "2026-11-19"
-    },
-    "tradutor": {
-      "data": "2026-11-19",
-      "notas": "Pergunta e opções inalteradas. «Parlamento» traduzido por «Houses of Parliament», como na pergunta. «cada parte da transação» lido como cada parte envolvida («each party to the transaction»). «House of Lords» é a forma inglesa corrente de «Câmara dos Lordes»."
-    },
-    "conferente": {
-      "aprovado": true,
-      "notas": "«Tesouro» para «Exchequer» é aceitável. Opções equivalentes uma a uma. Sem pistas novas.",
-      "data": "2026-11-19",
-      "hash_texto": "9a2211a0408030386d4688c5347f800c1d76bf754ef9794aee76c16ef5d0679e"
     }
   },
   "estado": "em_verificacao",
@@ -210,6 +169,12 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (2.º ciclo, auditoria de afirmações): formulacao: «o fogo destruiu o Parlamento» diz mais do que a fonte. A History of Parliament diz que o fogo ficou incontrolável na ma"
     }
   ]
 }

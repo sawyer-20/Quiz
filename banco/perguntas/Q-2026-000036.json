@@ -6,22 +6,12 @@
     "pt-PT": {
       "question": "Numa chapa muito acima dos 100 °C, uma gota de água desliza sem tocar no metal. O que a mantém afastada?",
       "options": [
-        "Bolhas de ar que ficam presas na base da gota",
+        "A tensão superficial, que repele o calor do metal",
         "Uma película de óxido que se forma na superfície do metal",
         "Uma almofada de vapor formada pela própria gota",
-        "A tensão superficial, que repele o calor do metal"
+        "Bolhas de ar que ficam presas na base da gota"
       ],
-      "explanation": "Uma almofada de vapor formada pela própria gota: é o efeito Leidenfrost. A gota evapora e o vapor forma uma película fina e isoladora, sobre a qual a gota levita e perde calor devagar."
-    },
-    "en-US": {
-      "question": "On a metal plate far above 100 °C, a water droplet glides without touching the metal. What keeps it apart?",
-      "options": [
-        "Air bubbles trapped under the droplet",
-        "An oxide film forming on the metal surface",
-        "A cushion of vapor formed by the droplet itself",
-        "Surface tension, which repels heat from the metal"
-      ],
-      "explanation": "A cushion of vapor formed by the droplet itself: this is the Leidenfrost effect. The droplet evaporates, and the vapor forms a thin, insulating film on which the droplet levitates and loses heat slowly."
+      "explanation": "Uma almofada de vapor formada pela própria gota: é o efeito Leidenfrost. A gota evapora e o vapor forma uma película fina e isoladora, sobre a qual a gota levita e evapora devagar."
     }
   },
   "correct": 2,
@@ -60,48 +50,17 @@
       "excerto": "liquid drops deposited on a hot surface levitate on a thin vapor cushion fed by evaporation of the liquid.",
       "consultada_em": "2026-11-11",
       "papel": "advogado"
-    },
-    {
-      "url": "https://www.nature.com/articles/s41467-021-21981-z",
-      "dominio": "nature.com",
-      "titulo": "Leidenfrost droplet trampolining (Nature Communications, 2021)",
-      "nivel": 1,
-      "excerto": "…the droplet and the vapor co-exist in a quasi-static Leidenfrost equilibrium, which determines the droplet shape and the vapor cushion thickness… lifting force resulting from the draining vapor.",
-      "consultada_em": "2026-11-18",
-      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Uma almofada de vapor formada pela própria gota",
-      "concorda": true,
-      "confianca": "alta",
-      "dominio": "nature.com",
-      "data": "2026-11-18",
-      "notas": "Aberta e lida (artigo científico revisto por pares). Descreve a gota de Leidenfrost a pairar sobre uma almofada de vapor que ela própria produz e que drena por baixo. A gota é mantida por sobrepressão do vapor, a ~251 °C no estudo. Excluídas: 'bolhas de ar presas' (o gás é vapor de água, não ar); 'tensão superficial que repele o calor' (a tensão superficial só entra no equilíbrio de forças da forma da gota, não repele calor); 'película de óxido' (nada no artigo, o efeito ocorre em silício e metais sem esse mecanismo). O artigo é de 2021, de domínio nature.com, mas o título é diferente do do pesquisador e o título e o domínio não estão na lista a evitar; nature.com só está proibido na Q-2026-000037, não nesta.",
-      "hash_texto": "33d40ddbf59f2df82324edb161a45a650e25a8eb3348dc6ea3d028999699a8a9"
-    },
-    "advogado": {
-      "aprovado": true,
-      "notas": "Advogado: Leidenfrost consensual; distratores sem apoio.",
-      "data": "2026-11-11"
-    },
+    "verificador": null,
+    "advogado": null,
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
       "notas": "«A base da gota evapora» passou a «A gota evapora», que é o que as fontes dizem. Resto igual. Enunciado e opções intactos.",
       "data": "2026-11-19"
-    },
-    "tradutor": {
-      "data": "2026-11-19",
-      "notas": "Pergunta e opções inalteradas. «Efeito Leidenfrost» mantido como «Leidenfrost effect»."
-    },
-    "conferente": {
-      "aprovado": true,
-      "notas": "Equivalente em tudo. A concordância «a mantém afastada» refere-se a «gota» e não dá pista. Sem pistas só num idioma.",
-      "data": "2026-11-19",
-      "hash_texto": "3b67307ae74debd48639c6e91a4c98339d379cb08208e97dc96ccdda2fad3692"
     }
   },
   "estado": "em_verificacao",
@@ -222,6 +181,12 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (2.º ciclo, auditoria de afirmações): interpretacao: «a gota ... perde calor devagar» não está nas fontes e inverte o sentido: a gota recebe calor da chapa e o filme isola-a"
     }
   ]
 }

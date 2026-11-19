@@ -6,31 +6,21 @@
     "pt-PT": {
       "question": "Que técnica deu forma às cenas da Tapeçaria de Bayeux, que narra a conquista normanda de 1066?",
       "options": [
+        "Estampagem com carimbos de madeira",
         "Pintura sobre linho",
         "Bordado",
-        "Tecelagem em tear",
-        "Estampagem com carimbos de madeira"
+        "Tecelagem em tear"
       ],
-      "explanation": "Bordado. Apesar do nome, não é uma tapeçaria, em que o desenho se tece no próprio pano: as cenas foram bordadas com fio de lã sobre um fundo de linho."
-    },
-    "en-US": {
-      "question": "Which technique was used to create the scenes of the Bayeux Tapestry, which tells the story of the 1066 Norman conquest?",
-      "options": [
-        "Painting on linen",
-        "Embroidery",
-        "Loom weaving",
-        "Stamping with wooden blocks"
-      ],
-      "explanation": "Embroidery. Despite the name, it is not a true tapestry, in which the design is woven into the cloth itself: the scenes were embroidered with wool thread on a linen ground."
+      "explanation": "Bordado. Apesar do nome, tecnicamente não é uma tapeçaria, que se tece num tear: as cenas foram bordadas com lã tingida sobre um pano de linho."
     }
   },
-  "correct": 1,
+  "correct": 2,
   "difficulty": 3,
   "valid_until": null,
   "daily_eligible": true,
   "sources": [
     "https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/",
-    "https://www.nationalgeographic.com/history/article/bayeux-tapestry-meaning-interpretation"
+    "https://www.vam.ac.uk/articles/what-is-tapestry"
   ],
   "fontes": [
     {
@@ -52,46 +42,24 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://www.nationalgeographic.com/history/article/bayeux-tapestry-meaning-interpretation",
-      "dominio": "nationalgeographic.com",
-      "titulo": "Will the Bayeux Tapestry Finally Give Up Its Secrets? | National Geographic",
-      "nivel": 2,
-      "excerto": "The Bayeux Tapestry ... is not technically a tapestry at all but an embroidery: dyed wools stitched on bleached linen base cloth. Its embroidered scenes tell the story of the Norman Conquest of England, the 1066 invasion",
-      "consultada_em": "2026-11-18",
-      "papel": "verificador"
+      "url": "https://www.vam.ac.uk/articles/what-is-tapestry",
+      "dominio": "vam.ac.uk",
+      "titulo": "What is tapestry? (V&A)",
+      "nivel": 1,
+      "excerto": "A tapestry is created by weaving coloured weft threads through plain warp threads... Tapestries are woven on a loom.",
+      "consultada_em": "2026-11-19",
+      "papel": "advogado"
     }
   ],
   "verificacao": {
-    "verificador": {
-      "resposta_texto": "Bordado",
-      "concorda": true,
-      "confianca": "media",
-      "dominio": "nationalgeographic.com",
-      "data": "2026-11-18",
-      "notas": "Li a National Geographic (nível 2). Os resultados de pesquisa do Britannica, do British Museum e de Oxford dizem o mesmo, mas deram 403 no leitor e só os vi no resumo da pesquisa, por isso não os conto como lidos. Não consegui abrir uma segunda fonte de nível 1, daí a confiança média. Tecelagem em tear fica excluída, porque a fonte diz que não é uma tapeçaria tecida. Pintura e carimbos não aparecem em nenhuma fonte; a obra é de lã tingida cosida sobre linho.",
-      "hash_texto": "eefc10a8ffb0d93e8af6705af36292458ecf453d2179f0d5fc00eb8ad266ebdb"
-    },
-    "advogado": {
-      "aprovado": true,
-      "notas": "Nenhuma fonte descreve pintura, tear ou estampagem. Wikipédia: 9 painéis de linho cosidos, bordado a lã (crewel), 68,38 m; museu: 70 m — coincidem. Só a Wikipédia suporta os nove painéis.",
-      "data": "2026-11-04"
-    },
+    "verificador": null,
+    "advogado": null,
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
       "notas": "Tirei «com cerca de 70 metros, feito de nove painéis cosidos entre si» (sem apoio fora da Wikipédia). Ficam só bordado, não ser tapeçaria, fio de lã e fundo de linho (National Geographic). Enunciado e opções intactos.",
       "data": "2026-11-19"
-    },
-    "tradutor": {
-      "data": "2026-11-19",
-      "notas": "Pergunta e opções inalteradas. «não é uma tapeçaria» traduzido por «not a true tapestry» para soar natural em inglês."
-    },
-    "conferente": {
-      "aprovado": true,
-      "notas": "Opções equivalentes uma a uma. Sem pista gramatical ou lexical só num idioma. Explicação com 2 frases.",
-      "data": "2026-11-19",
-      "hash_texto": "90c0ed50b83725f25998f9a39b46c66658d9248bc40e813388f29e03f396bf93"
     }
   },
   "estado": "em_verificacao",
@@ -224,6 +192,12 @@
       "evento": "conferida (pt-PT = en-US)",
       "agente": "conferente",
       "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (2.º ciclo, auditoria de afirmações): fontes: A cláusula «em que o desenho se tece no próprio pano» (definição de tapeçaria) só tem apoio na Wikipédia, que não conta "
     }
   ],
   "etiquetas": [
