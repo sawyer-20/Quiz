@@ -92,6 +92,12 @@
     "tradutor": {
       "data": "2026-11-19",
       "notas": "Corrigido: a pergunta passa a dizer 'tax receipt' (recupera 'fiscal'). Opções, ordem (certa = índice 1) e explicação inalteradas. Pergunta com 133 caracteres. 'Parlamento de Westminster' -> 'Houses of Parliament' no enunciado; a explicação mantém 'Palace of Westminster'."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Facto, números (1834, duas carroças/two cartloads) e atribuições equivalentes nos dois idiomas. A opção certa (índice 1) diz o mesmo: varas de madeira entalhadas e partidas ao meio / notched wooden sticks split in half. As outras três correspondem uma a uma: fichas de chumbo, rolos de pergaminho, tábuas de cera. Regra 28: o enunciado tem «objeto» e «object» no singular e as quatro opções estão no plural em ambos os idiomas, por isso nenhuma concordância aponta para uma opção. Não há palavra do enunciado que repita a resposta. pt-PT sem brasileirismos e com grafia do AO90. en-US natural. Explicação com 2 frases nos dois idiomas, opções com menos de 60 caracteres, pergunta terminada em «?».",
+      "data": "2026-11-19",
+      "hash_texto": "e3d880823e9ccca888bd0b6fb4abbb246c0b7dc1c950cc72227ed96e027a888a"
     }
   },
   "estado": "em_verificacao",
@@ -242,6 +248,12 @@
       "evento": "traduzida (en-US)",
       "agente": "tradutor",
       "nota": "Corrigido: a pergunta passa a dizer 'tax receipt' (recupera 'fiscal'). Opções, ordem (certa = índice 1) e explicação inalteradas. Pergunta com 133 caracteres. 'Parlamento de Westminster' -> 'Houses of Parliament' no enunciado; a explicação mantém 'Palace of Westminster'."
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
     }
   ]
 }
