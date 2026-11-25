@@ -27,7 +27,7 @@
   "correct": 1,
   "difficulty": 4,
   "valid_until": null,
-  "daily_eligible": false,
+  "daily_eligible": true,
   "sources": [
     "https://www.colorado.edu/coloradan/2017/12/01/origins-gold-record",
     "https://www.guinnessworldrecords.com/world-records/first-gold-disc-music-award"
@@ -304,9 +304,14 @@
       "evento": "confirmacao_pendente",
       "agente": "orquestrador",
       "nota": "decisão do Andre: aceite sem confirmação independente de nível 1; confirmacao_pendente true e daily_eligible false; não entra em versão pública; o teste fechado pode usá-la"
+    },
+    {
+      "data": "2026-11-25",
+      "evento": "confirmacao_pendente retirada",
+      "agente": "orquestrador",
+      "nota": "decisão do Andre (25/11): revisão das pendentes confirmou a resposta atribuída na Universidade do Colorado (nível 1) e o resto em Guinness, NPR e Mixdown; daily_eligible volta a true (facto estável, sem valid_until)"
     }
   ],
   "etiquetas": [],
-  "options_lock": "edcd8a9988623df46a08b72c5f00db798f63b0c3af5dad81bf5ea374a2a124d9",
-  "confirmacao_pendente": true
+  "options_lock": "edcd8a9988623df46a08b72c5f00db798f63b0c3af5dad81bf5ea374a2a124d9"
 }

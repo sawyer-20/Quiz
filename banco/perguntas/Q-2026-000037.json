@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000037",
   "topic": "Nature & Animals",
-  "subtopic": "biologia – comportamento e adaptação animal",
+  "subtopic": "comportamento animal – sono das aves em voo",
   "text": {
     "pt-PT": {
       "question": "Em 2016, registos de EEG mostraram pela primeira vez que uma ave dorme em pleno voo. Qual foi?",
@@ -11,7 +11,7 @@
         "A andorinha-do-mar-ártica",
         "O albatroz-errante"
       ],
-      "explanation": "A fragata-grande: os registos de EEG mostraram que dorme em voo, com um hemisfério cerebral de cada vez ou com os dois. Dorme sobretudo a planar em círculos; os autores sugerem que o hemisfério acordado serve para ver para onde vai."
+      "explanation": "A fragata-grande: o EEG mostrou que dorme em voo, com um hemisfério cerebral de cada vez ou com os dois. Dormiu sobretudo enquanto voava em círculos em correntes ascendentes; segundo a Sociedade Max Planck, o hemisfério acordado sugere que via para onde ia."
     },
     "en-US": {
       "question": "In 2016, EEG recordings first showed that a bird sleeps while flying. Which bird was it?",
@@ -21,7 +21,7 @@
         "The Arctic tern",
         "The wandering albatross"
       ],
-      "explanation": "The great frigatebird: EEG recordings showed it sleeps in flight, with one brain hemisphere at a time or with both. It sleeps mostly while soaring in circles; the authors suggest the awake hemisphere helps it see where it is going."
+      "explanation": "The great frigatebird: EEG showed it sleeps in flight, with one brain hemisphere at a time or with both. It slept mostly while circling in rising air currents; according to the Max Planck Society, the awake hemisphere suggests it was watching where it was going."
     }
   },
   "correct": 0,
@@ -29,9 +29,9 @@
   "valid_until": null,
   "daily_eligible": false,
   "sources": [
-    "https://www.nature.com/articles/ncomms12468",
-    "https://www.mpg.de/10783234/frigatebirds-sleep-midflight",
-    "https://www.discovermagazine.com/birds-sleep-during-flights-too-17906"
+    "https://link.springer.com/10.1038/ncomms12468",
+    "https://www.mpg.de/10673637/frigatebirds-sleep",
+    "https://www.audubon.org/news/scientists-finally-have-evidence-frigatebirds-sleep-while-flying"
   ],
   "fontes": [
     {
@@ -78,6 +78,24 @@
       "excerto": "Rattenborg and his team found it relatively easy to capture 15 of the birds to implant electroencephalographs (EEGs) into their skulls... the researchers found that while frigatebirds do sleep while flying, they sleep very little",
       "consultada_em": "2026-11-19",
       "papel": "verificador"
+    },
+    {
+      "url": "https://www.mpg.de/10673637/frigatebirds-sleep",
+      "titulo": "Frigatebirds sleep in flight (Max-Planck-Gesellschaft)",
+      "nivel": 1,
+      "excerto": "When the birds circled on rising air currents, the hemisphere connected to the eye facing the direction of the turn was typically awake [...] suggesting that the birds were watching where they were going.",
+      "dominio": "mpg.de",
+      "consultada_em": "2026-11-25",
+      "papel": "advogado"
+    },
+    {
+      "url": "https://link.springer.com/10.1038/ncomms12468",
+      "dominio": "springer.com",
+      "titulo": "Rattenborg et al. (2016), Evidence that birds sleep in mid-flight, Nature Communications 7 (DOI 10.1038/ncomms12468, pelo resolvedor da Springer)",
+      "nivel": 1,
+      "excerto": "Frigatebirds sleep mostly while circling in rising air currents ... SWS, in most cases (70.57%), occurred with circling flight to the left and right",
+      "consultada_em": "2026-11-25",
+      "papel": "advogado"
     }
   ],
   "verificacao": {
@@ -92,25 +110,25 @@
     },
     "advogado": {
       "aprovado": true,
-      "notas": "Advogado: leu o artigo original; confirma «primeira vez», sono com um hemisfério ou os dois, sobretudo em correntes ascendentes; a função de ver para onde vão é sugestão dos autores, atribuída na explicação. Nenhuma outra ave com EEG em voo.",
-      "data": "2026-11-11"
+      "data": "2026-11-25",
+      "notas": "Explicação final confirmada afirmação a afirmação: EEG e espécie (MPG 10673637, Europe PMC, Audubon); um hemisfério ou os dois (MPG, Discover, Europe PMC); «sobretudo» em círculos em correntes ascendentes (Audubon, MPG 10783234); sugestão atribuída à Sociedade Max Planck (MPG 10673637). 2016 e «pela primeira vez» com duas fontes. Não abriram: link.springer.com (403), nature.com, PMC (reCAPTCHA). | páginas lidas pelo advogado: https://www.mpg.de/10673637/frigatebirds-sleep, https://www.mpg.de/10783234/frigatebirds-sleep-midflight, https://www.audubon.org/news/scientists-finally-have-evidence-frigatebirds-sleep-while-flying, https://www.discovermagazine.com/birds-sleep-during-flights-too-17906, https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1038/ncomms12468&resultType=core&format=json"
     },
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "explicação encurtada para 1–2 frases (migração v2); sem factos novos",
-      "data": "2026-11-11"
+      "notas": "2.º ciclo: enunciado e opções intactos. «a subir em círculos» passa a «enquanto voava em círculos» (a fonte diz circling in rising air currents). Mantidos «sobretudo» e «sugere».",
+      "data": "2026-11-25"
     },
     "tradutor": {
-      "data": "2026-11-11",
-      "notas": "fragata-grande = great frigatebird (Fregata minor); pelicano-pardo = brown pelican; andorinha-do-mar-ártica = Arctic tern; albatroz-errante = wandering albatross."
+      "data": "2026-11-25",
+      "notas": "Pergunta e opções copiadas (regra 19). Só a explicação traduzida; «Sociedade Max Planck» = «Max Planck Society»; tempo verbal e singular como no pt-PT."
     },
     "conferente": {
       "aprovado": true,
-      "notas": "Mesmo facto, mesmas atribuições («os autores sugerem»/«the authors suggest») e mesmas aves pela mesma ordem. «A planar» é pt-PT correto. Regra 28: sem pista.",
-      "data": "2026-11-18",
-      "hash_texto": "d7aa7c38311af4d777ae8acf4fb7338e2c2807894497f059be58bebe5448bf18"
+      "notas": "mesmo facto, mesma resposta, opções equivalentes; sem pistas; pt-PT e en-US corretos",
+      "data": "2026-11-25",
+      "hash_texto": "488d159fb2ccebce1dd81d1600d271ff769f7cd535e192a1f0b515045eabb223"
     }
   },
   "estado": "aprovada",
@@ -219,6 +237,78 @@
       "evento": "verificada às cegas",
       "agente": "verificador-cego",
       "nota": "confiança media; fonte audubon.org"
+    },
+    {
+      "data": "2026-11-25",
+      "evento": "devolvida a em_verificacao",
+      "agente": "orquestrador",
+      "nota": "revisão das 5 pendentes (decisão do Andre, 25/11): confirmar afirmações da explicação (regra 29); a repetir advogado, editor, tradutor, conferente"
+    },
+    {
+      "data": "2026-11-25",
+      "evento": "advogado do diabo: corrigível (regra 29)",
+      "agente": "advogado-do-diabo",
+      "nota": "«sobretudo a planar em círculos» sem apoio (todo o sono registado foi a subir em círculos); «ver para onde vai» atribuído ao Max Planck"
+    },
+    {
+      "data": "2026-11-25",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-25",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Pergunta e opções copiadas sem alterações (bloqueadas). «Sociedade Max Planck» = «Max Planck Society». «Via para onde ia» = «was watching where it was going», como no excerto; atribuição mantida."
+    },
+    {
+      "data": "2026-11-25",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-25",
+      "evento": "advogado do diabo: corrigível (2.º ciclo, só redação)",
+      "agente": "advogado-do-diabo",
+      "nota": "«Todo o sono registado» (Audubon) contraria o artigo original: 70,57% do sono foi em voo circular («mostly»); volta a «sobretudo»"
+    },
+    {
+      "data": "2026-11-25",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-25",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Pergunta e opções copiadas (regra 19). Só a explicação traduzida; «Sociedade Max Planck» = «Max Planck Society»; tempo verbal e singular como no pt-PT."
+    },
+    {
+      "data": "2026-11-25",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-25",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "`sources` reduzido a 3 URLs de `fontes` que apoiam a resposta e a explicação"
+    },
+    {
+      "data": "2026-11-25",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-25",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "options_lock": "5b660c4f0817baa077f05848f5612c0502a0c36485693db055b3bfc35ffbaa70",

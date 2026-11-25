@@ -64,3 +64,13 @@ verificador-cego,Q47-reformulada,113153
 editor,Q48,9585
 advogado-do-diabo,2a-passagem/Q47,82508
 editor,Q47,8602
+advogado-do-diabo,Q37;Q43,112156
+editor,Q37;Q43,37881
+tradutor,Q37;Q43,21029
+conferente,Q37;Q43,43193
+advogado-do-diabo,Q37;Q43,147722
+editor,Q37,17739
+tradutor,Q37,16692
+verificador-cego,Q43,53271
+conferente,Q37,29683
+advogado-do-diabo,Q37,90744

@@ -600,9 +600,9 @@
   "pendente": true,
   "correct": 0,
   "sources": [
-   "https://www.nature.com/articles/ncomms12468",
-   "https://www.mpg.de/10783234/frigatebirds-sleep-midflight",
-   "https://www.discovermagazine.com/birds-sleep-during-flights-too-17906"
+   "https://link.springer.com/10.1038/ncomms12468",
+   "https://www.mpg.de/10673637/frigatebirds-sleep",
+   "https://www.audubon.org/news/scientists-finally-have-evidence-frigatebirds-sleep-while-flying"
   ],
   "text": {
    "pt-PT": {
@@ -613,7 +613,7 @@
      "A andorinha-do-mar-ártica",
      "O albatroz-errante"
     ],
-    "e": "A fragata-grande: os registos de EEG mostraram que dorme em voo, com um hemisfério cerebral de cada vez ou com os dois. Dorme sobretudo a planar em círculos; os autores sugerem que o hemisfério acordado serve para ver para onde vai."
+    "e": "A fragata-grande: o EEG mostrou que dorme em voo, com um hemisfério cerebral de cada vez ou com os dois. Dormiu sobretudo enquanto voava em círculos em correntes ascendentes; segundo a Sociedade Max Planck, o hemisfério acordado sugere que via para onde ia."
    },
    "en-US": {
     "q": "In 2016, EEG recordings first showed that a bird sleeps while flying. Which bird was it?",
@@ -623,7 +623,7 @@
      "The Arctic tern",
      "The wandering albatross"
     ],
-    "e": "The great frigatebird: EEG recordings showed it sleeps in flight, with one brain hemisphere at a time or with both. It sleeps mostly while soaring in circles; the authors suggest the awake hemisphere helps it see where it is going."
+    "e": "The great frigatebird: EEG showed it sleeps in flight, with one brain hemisphere at a time or with both. It slept mostly while circling in rising air currents; according to the Max Planck Society, the awake hemisphere suggests it was watching where it was going."
    }
   }
  },
@@ -706,7 +706,7 @@
   "correct": 0,
   "sources": [
    "https://ler.letras.up.pt/uploads/ficheiros/14139.pdf",
-   "https://purl.pt/13858/1/geneses/1/3-texto-base-mensagem.html",
+   "https://www.brown.edu/Departments/Portuguese_Brazilian_Studies/ejph/pessoaplural/Issue1/PDF/I1A02.pdf",
    "https://observador.pt/especiais/dos-envelopes-esquecidos-a-mensagem-como-se-construiu-a-nova-edicao-critica-do-mais-famoso-livro-de-fernando-pessoa/"
   ],
   "text": {
@@ -718,7 +718,7 @@
      "Lusitânia",
      "Pátria"
     ],
-    "e": "Portugal. Pessoa escreveu que o livro «chamava-se primitivamente» assim e que mudou o título porque Da Cunha Dias lhe fez notar que o nome da Pátria «estava hoje prostituído a sapatos, como a hotéis a sua maior Dinastia»."
+    "e": "Portugal. Pessoa escreveu que o livro «chamava-se primitivamente» assim e que mudou o título porque o velho amigo Da Cunha Dias lhe fez notar que o nome da Pátria «estava hoje prostituído a sapatos»."
    },
    "en-US": {
     "q": "What was the original title of Fernando Pessoa's \"Mensagem\" before a friend led him to change it?",
@@ -728,7 +728,7 @@
      "Lusitania",
      "Fatherland"
     ],
-    "e": "Portugal. Pessoa wrote that the book \"was originally called\" that, and that he changed the title because Da Cunha Dias pointed out that the name of the Fatherland \"was now prostituted to shoes, as its greatest Dynasty was to hotels.\""
+    "e": "Portugal. Pessoa wrote that the book \"was originally called\" that and that he changed the title because his old friend Da Cunha Dias pointed out to him that the name of the Fatherland \"was now prostituted to shoes.\""
    }
   }
  },
@@ -771,8 +771,8 @@
   "id": "Q-2026-000047",
   "topic": "World History",
   "difficulty": 3,
-  "daily": false,
-  "pendente": true,
+  "daily": true,
+  "pendente": false,
   "correct": 1,
   "sources": [
    "https://projetos.dhlab.fcsh.unl.pt/files/original/8cce7364fca20287203002044c21a53a52377364.pdf",
@@ -1418,8 +1418,8 @@
   "id": "Q-2026-000082",
   "topic": "Music",
   "difficulty": 4,
-  "daily": false,
-  "pendente": true,
+  "daily": true,
+  "pendente": false,
   "correct": 1,
   "sources": [
    "https://www.colorado.edu/coloradan/2017/12/01/origins-gold-record",

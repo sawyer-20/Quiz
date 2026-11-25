@@ -30,7 +30,7 @@
   "correct": 1,
   "difficulty": 3,
   "valid_until": null,
-  "daily_eligible": false,
+  "daily_eligible": true,
   "sources": [
     "https://projetos.dhlab.fcsh.unl.pt/files/original/8cce7364fca20287203002044c21a53a52377364.pdf",
     "https://projetos.dhlab.fcsh.unl.pt/files/original/41fd9f1c979604bd5ef7bf9299a4f78fe48868cf.pdf",
@@ -234,8 +234,13 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-25",
+      "evento": "confirmacao_pendente retirada",
+      "agente": "orquestrador",
+      "nota": "decisão do Andre (25/11): revisão das pendentes confirmou a função (tiro vertical sobre a base dos muros) no Guia de Inventário IHRU/SIPA, nível 1, e a introdução pelos Templários em Barroca (FLUP, 1998), nível 1 independente; daily_eligible volta a true (facto estável, sem valid_until)"
     }
   ],
-  "confirmacao_pendente": true,
   "options_lock": "b31e9dfc58b01cfcfdafdcf51469b92bcd2b0e9bf9f291b1afff7f6d0de50382"
 }

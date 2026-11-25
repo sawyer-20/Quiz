@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000043",
   "topic": "General Knowledge",
-  "subtopic": "autores e obras",
+  "subtopic": "literatura portuguesa – Fernando Pessoa",
   "text": {
     "pt-PT": {
       "question": "Que título tinha primitivamente a «Mensagem», de Fernando Pessoa, antes de um amigo o levar a mudá-lo?",
@@ -11,7 +11,7 @@
         "Lusitânia",
         "Pátria"
       ],
-      "explanation": "Portugal. Pessoa escreveu que o livro «chamava-se primitivamente» assim e que mudou o título porque Da Cunha Dias lhe fez notar que o nome da Pátria «estava hoje prostituído a sapatos, como a hotéis a sua maior Dinastia»."
+      "explanation": "Portugal. Pessoa escreveu que o livro «chamava-se primitivamente» assim e que mudou o título porque o velho amigo Da Cunha Dias lhe fez notar que o nome da Pátria «estava hoje prostituído a sapatos»."
     },
     "en-US": {
       "question": "What was the original title of Fernando Pessoa's \"Mensagem\" before a friend led him to change it?",
@@ -21,7 +21,7 @@
         "Lusitania",
         "Fatherland"
       ],
-      "explanation": "Portugal. Pessoa wrote that the book \"was originally called\" that, and that he changed the title because Da Cunha Dias pointed out that the name of the Fatherland \"was now prostituted to shoes, as its greatest Dynasty was to hotels.\""
+      "explanation": "Portugal. Pessoa wrote that the book \"was originally called\" that and that he changed the title because his old friend Da Cunha Dias pointed out to him that the name of the Fatherland \"was now prostituted to shoes.\""
     }
   },
   "correct": 0,
@@ -30,7 +30,7 @@
   "daily_eligible": false,
   "sources": [
     "https://ler.letras.up.pt/uploads/ficheiros/14139.pdf",
-    "https://purl.pt/13858/1/geneses/1/3-texto-base-mensagem.html",
+    "https://www.brown.edu/Departments/Portuguese_Brazilian_Studies/ejph/pessoaplural/Issue1/PDF/I1A02.pdf",
     "https://observador.pt/especiais/dos-envelopes-esquecidos-a-mensagem-como-se-construiu-a-nova-edicao-critica-do-mais-famoso-livro-de-fernando-pessoa/"
   ],
   "fontes": [
@@ -62,12 +62,21 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://purl.pt/13858/1/geneses/1/3-texto-base-mensagem.html",
-      "dominio": "purl.pt",
-      "titulo": "As Mãos da Escrita | O texto-base de Mensagem (BNP)",
+      "url": "https://www.brown.edu/Departments/Portuguese_Brazilian_Studies/ejph/pessoaplural/Issue1/PDF/I1A02.pdf",
+      "titulo": "José Barreto, «O mago e o louco», Pessoa Plural 1 (2012)",
       "nivel": 1,
-      "excerto": "no dactiloscrito entregue por Fernando Pessoa na tipografia [...] figurava ainda o título anteriormente previsto, Portugal, depois emendado a lápis para Mensagem",
-      "consultada_em": "2026-11-12",
+      "excerto": "Da Cunha Dias me fez notar que o nome da nossa Pátria estava hoje prostituído a sapatos, como a hotéis a sua melhor Dinastia",
+      "dominio": "brown.edu",
+      "consultada_em": "2026-11-25",
+      "papel": "advogado"
+    },
+    {
+      "url": "https://www.brown.edu/Departments/Portuguese_Brazilian_Studies/ejph/pessoaplural/Issue1/PDF/I1A02.pdf",
+      "dominio": "brown.edu",
+      "titulo": "José Barreto, «O mago e o louco: Fernando Pessoa e Alberto da Cunha Dias», Pessoa Plural 1 (2012), Brown University",
+      "nivel": 1,
+      "excerto": "foi Cunha Dias quem convenceu Pessoa a mudar o título do seu livro de poemas Portugal",
+      "consultada_em": "2026-11-25",
       "papel": "verificador"
     }
   ],
@@ -76,31 +85,32 @@
       "resposta_texto": "Portugal",
       "concorda": true,
       "confianca": "alta",
-      "dominio": "purl.pt",
-      "data": "2026-11-12",
-      "notas": "O detalhe do amigo (Da Cunha Dias) não está na página da BNP; a BN indica 'Legendas' como título ainda mais antigo."
+      "dominio": "brown.edu",
+      "data": "2026-11-25",
+      "notas": "Três fontes independentes da do pesquisador: Barreto, Pessoa Plural 1 (2012, nível 1); Barbosa, Pizarro, Pittella e Sousa, Pessoa Plural 17 (2020, repositorio.ulisboa.pt, nível 1): «chamava-se inicialmente Portugal»; introdução da edição Penguin Livros (nível 2) com a frase de Pessoa. Nenhuma refere Atlântida, Pátria ou Lusitânia.",
+      "hash_texto": "bec985304aca534ca9e5fb96f84a8debff3871d37ecade5ad43eff713ea72128"
     },
     "advogado": {
       "aprovado": true,
-      "notas": "Palavras entre «» literais no artigo de Annabela Rita (nível 2) e atribuição a Da Cunha Dias confirmada de forma independente pelo Observador; dúvida atribuída a Pessoa.",
-      "data": "2026-11-12"
+      "data": "2026-11-25",
+      "notas": "Todas as afirmações têm apoio em três fontes de nível 1; «Legendas» (título anterior a «Portugal», segundo Seabra) não está nas opções e o enunciado liga o título à mudança sugerida pelo amigo. | páginas lidas pelo advogado: https://ler.letras.up.pt/uploads/ficheiros/14139.pdf (chamava-se primitivamente Portugal; prostituído a sapatos), https://www.brown.edu/Departments/Portuguese_Brazilian_Studies/ejph/pessoaplural/Issue1/PDF/I1A02.pdf (velho amigo Da Cunha Dias; prostituído a sapatos; BNP/E3 125A-25), https://purl.pt/13858/1/geneses/1/3-texto-base-mensagem.html (título primitivo Portugal)"
     },
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "sem alterações de texto",
-      "data": "2026-11-12"
+      "notas": "Enunciado e opções intactos (regra 27). Acrescentado «velho» (excerto da Ler). Palavra antes de «Dinastia» não reintroduzida. Sem alterações factuais.",
+      "data": "2026-11-25"
     },
     "tradutor": {
-      "data": "2026-11-12",
-      "notas": "tradutor"
+      "data": "2026-11-25",
+      "notas": "Pergunta e opções copiadas sem alterações (bloqueadas). Citações como nas versões anteriores, aspas americanas. «Pátria» = «the Fatherland», igual à opção 4."
     },
     "conferente": {
       "aprovado": true,
-      "notas": "A citação de Pessoa está traduzida com fidelidade. Pátria/Fatherland, Atlântida/Atlantis e Lusitânia/Lusitania são equivalentes. Regra 28: sem pista num só idioma.",
-      "data": "2026-11-18",
-      "hash_texto": "74a2d1894f3ba3e92e9f8d6b7797c77ba96a57d99a3a814c622fbedf8fe3f5f2"
+      "notas": "mesmo facto, mesma resposta, opções equivalentes; pt-PT e en-US sem problemas",
+      "data": "2026-11-25",
+      "hash_texto": "4cdbdae71ac437d004dc40b0d6bc5e3918dfde53221ac17373d4d55814008480"
     }
   },
   "estado": "aprovada",
@@ -245,6 +255,60 @@
       "evento": "confirmacao_pendente",
       "agente": "orquestrador",
       "nota": "decisão do Andre: aceite sem confirmação independente de nível 1; confirmacao_pendente true e daily_eligible false; não entra em versão pública; o teste fechado pode usá-la"
+    },
+    {
+      "data": "2026-11-25",
+      "evento": "devolvida a em_verificacao",
+      "agente": "orquestrador",
+      "nota": "revisão das 5 pendentes (decisão do Andre, 25/11): confirmar afirmações da explicação (regra 29); a repetir advogado, editor, tradutor, conferente"
+    },
+    {
+      "data": "2026-11-25",
+      "evento": "advogado do diabo: corrigível (regra 29)",
+      "agente": "advogado-do-diabo",
+      "nota": "«maior»/«melhor Dinastia» divergem entre fontes (Rita: maior; Barreto, dactiloscrito BNP: melhor); citação em disputa sai"
+    },
+    {
+      "data": "2026-11-25",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-25",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Pergunta e opções copiadas sem alterações (bloqueadas). Citações como nas versões anteriores, aspas americanas. «Pátria» = «the Fatherland», igual à opção 4."
+    },
+    {
+      "data": "2026-11-25",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-25",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-25",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte brown.edu"
+    },
+    {
+      "data": "2026-11-25",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "`sources` reduzido a 3 URLs de `fontes` que apoiam a resposta e a explicação"
+    },
+    {
+      "data": "2026-11-25",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "markets": [
