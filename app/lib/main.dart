@@ -364,17 +364,21 @@ class _EcraJogoState extends State<EcraJogo> {
     );
   }
 
-  /// Cinco estados da board: por escolher, certa (verde + palavra), tua errada (vermelho + palavra),
-  /// as restantes esbatidas depois da revelação. O estado nunca depende só da cor.
+  /// Estados de cada opção. Antes da revelação: superfície. Depois: certa a verde com «Certo»,
+  /// a tua errada a vermelho com «A tua resposta» (e a certa assinalada ao mesmo tempo), as restantes
+  /// a azul neutro. O estado nunca depende só da cor. Transição curta, sem animações exageradas.
+  static const duracaoEstado = Duration(milliseconds: 200);
+
   Widget _botaoOpcao(int k, String texto) {
     final letra = String.fromCharCode(65 + k);
     final certa = _respondida && k == _p.certa;
     final errada = _respondida && k == _escolhida && k != _p.certa;
-    final esbatida = _respondida && !certa && !errada;
+    final neutra = _respondida && !certa && !errada;
     Color fundo = Cores.superficie;
     Color borda = Colors.transparent;
     Color emblemaFundo = Cores.superficie2;
     Color emblemaTexto = Cores.textoSuave;
+    Color corTexto = Cores.texto;
     String? palavra;
     Color? corPalavra;
     if (certa) {
@@ -391,38 +395,51 @@ class _EcraJogoState extends State<EcraJogo> {
       emblemaTexto = Cores.fundo;
       palavra = t.tuaResposta;
       corPalavra = Cores.errado;
+    } else if (neutra) {
+      fundo = Cores.azul.withValues(alpha: 0.08);
+      borda = Cores.azul.withValues(alpha: 0.30);
+      emblemaFundo = Cores.azul.withValues(alpha: 0.22);
+      emblemaTexto = Cores.textoSuave;
+      corTexto = Cores.textoSuave;
     }
-    return Opacity(
-      opacity: esbatida ? 0.6 : 1,
-      child: Padding(
-        padding: const EdgeInsets.only(bottom: 10),
-        child: Material(
-          color: fundo,
+    return Padding(
+      padding: const EdgeInsets.only(bottom: 10),
+      child: Material(
+        type: MaterialType.transparency,
+        child: InkWell(
+          key: Key('opcao_$k'),
           borderRadius: BorderRadius.circular(14),
-          child: InkWell(
-            key: Key('opcao_$k'),
-            borderRadius: BorderRadius.circular(14),
-            onTap: _respondida ? null : () => _responder(k),
-            child: Container(
-              constraints: const BoxConstraints(minHeight: 56),
-              padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
-              decoration: BoxDecoration(borderRadius: BorderRadius.circular(14), border: Border.all(color: borda, width: 1.5)),
-              child: Row(children: [
-                Container(
-                  width: 30,
-                  height: 30,
-                  alignment: Alignment.center,
-                  decoration: BoxDecoration(shape: BoxShape.circle, color: emblemaFundo),
-                  child: Text(letra, style: TextStyle(fontWeight: FontWeight.w800, fontSize: 13, color: emblemaTexto)),
+          onTap: _respondida ? null : () => _responder(k),
+          child: AnimatedContainer(
+            key: Key('estado_$k'),
+            duration: duracaoEstado,
+            curve: Curves.easeOut,
+            constraints: const BoxConstraints(minHeight: 56),
+            padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
+            decoration: BoxDecoration(color: fundo, borderRadius: BorderRadius.circular(14), border: Border.all(color: borda, width: 1.5)),
+            child: Row(children: [
+              AnimatedContainer(
+                duration: duracaoEstado,
+                curve: Curves.easeOut,
+                width: 30,
+                height: 30,
+                alignment: Alignment.center,
+                decoration: BoxDecoration(shape: BoxShape.circle, color: emblemaFundo),
+                child: Text(letra, style: TextStyle(fontWeight: FontWeight.w800, fontSize: 13, color: emblemaTexto)),
+              ),
+              const SizedBox(width: 12),
+              Expanded(
+                child: AnimatedDefaultTextStyle(
+                  duration: duracaoEstado,
+                  style: TextStyle(fontFamily: fonteInterface, fontSize: 16, fontWeight: FontWeight.w700, color: corTexto),
+                  child: Text(texto),
                 ),
-                const SizedBox(width: 12),
-                Expanded(child: Text(texto, style: const TextStyle(fontSize: 16, fontWeight: FontWeight.w700))),
-                if (palavra != null) ...[
-                  const SizedBox(width: 8),
-                  Text(palavra, style: TextStyle(fontSize: 12, fontWeight: FontWeight.w800, color: corPalavra)),
-                ],
-              ]),
-            ),
+              ),
+              if (palavra != null) ...[
+                const SizedBox(width: 8),
+                Text(palavra, style: TextStyle(fontSize: 12, fontWeight: FontWeight.w800, color: corPalavra)),
+              ],
+            ]),
           ),
         ),
       ),
