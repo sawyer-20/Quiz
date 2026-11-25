@@ -8,6 +8,20 @@ class T {
   String get escolhaTopico => pt ? 'Escolhe um tópico' : 'Pick a topic';
   String get misto => pt ? 'Misto (todos os tópicos)' : 'Mixed (all topics)';
   String perguntas(int n) => pt ? '$n perguntas' : '$n questions';
+
+  /// Subtítulo de um tópico: total disponível e tamanho da ronda (ex.: «308 perguntas · rondas de 10»).
+  String disponiveis(int total, int ronda) =>
+      pt ? '${milhares(total, '.')} perguntas · rondas de $ronda' : '${milhares(total, ',')} questions · rounds of $ronda';
+
+  static String milhares(int n, String sep) {
+    final s = n.toString();
+    final b = StringBuffer();
+    for (var i = 0; i < s.length; i++) {
+      if (i > 0 && (s.length - i) % 3 == 0) b.write(sep);
+      b.write(s[i]);
+    }
+    return b.toString();
+  }
   String progresso(int i, int n) => pt ? 'Pergunta $i de $n' : 'Question $i of $n';
   String get pontos => pt ? 'pontos' : 'points';
   String get tempoEsgotado => pt ? 'Tempo esgotado' : "Time's up";

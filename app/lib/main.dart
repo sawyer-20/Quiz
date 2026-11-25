@@ -116,14 +116,14 @@ class EcraInicio extends StatelessWidget {
             const SizedBox(height: 14),
             _CartaoTopico(
               titulo: t.misto,
-              subtitulo: t.perguntas(banco.perguntas.length < 10 ? banco.perguntas.length : 10),
+              subtitulo: t.disponiveis(banco.perguntas.length, banco.perguntas.length < 10 ? banco.perguntas.length : 10),
               destaque: true,
               aoToque: () => _jogar(context, null),
             ),
             for (final n in nomes)
               _CartaoTopico(
                 titulo: t.topico(n),
-                subtitulo: t.perguntas(topicos[n]! < 10 ? topicos[n]! : 10),
+                subtitulo: t.disponiveis(topicos[n]!, topicos[n]! < 10 ? topicos[n]! : 10),
                 aoToque: () => _jogar(context, n),
               ),
             const SizedBox(height: 14),
