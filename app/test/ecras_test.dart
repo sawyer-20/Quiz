@@ -1,6 +1,7 @@
 import 'dart:convert';
 import 'dart:io';
 
+import 'package:flutter/rendering.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:material_ui/material_ui.dart';
@@ -35,6 +36,7 @@ Future<void> carregarFontes() async {
 
 void main() {
   setUpAll(carregarFontes);
+  testesEstados();
 
   testWidgets('o botão PT/EN muda o idioma do ecrã inicial', (t) async {
     await t.pumpWidget(const QuizluxApp());
@@ -88,4 +90,73 @@ void main() {
       expect(falhas, isEmpty);
     });
   }
+}
+
+/// Cor de fundo e da borda do cartão da opção k.
+(Color?, Color?) coresDaOpcao(WidgetTester t, int k) {
+  final c = t.widget<AnimatedContainer>(find.byKey(Key('estado_$k')));
+  final d = c.decoration! as BoxDecoration;
+  return (d.color, (d.border! as Border).top.color);
+}
+
+/// Pergunta sintética: a certa é a C (índice 2).
+Pergunta perguntaDeTeste() => Pergunta('Q-teste', 'Science', 1, 2, {
+      'pt-PT': {'q': 'Pergunta?', 'o': ['Um', 'Dois', 'Três', 'Quatro'], 'e': 'Explicação.'},
+      'en-US': {'q': 'Question?', 'o': ['One', 'Two', 'Three', 'Four'], 'e': 'Explanation.'},
+    });
+
+void testesEstados() {
+  Future<void> abrir(WidgetTester t) async {
+    final p = perguntaDeTeste();
+    await t.pumpWidget(MaterialApp(theme: temaQuizlux(), home: EcraJogo(perguntas: [p], lingua: 'pt-PT', banco: Banco([p]), topico: null)));
+  }
+
+  testWidgets('resposta errada: a tua a vermelho, a certa a verde, as restantes a azul neutro', (t) async {
+    await abrir(t);
+    await t.tap(find.byKey(const Key('opcao_0')));
+    await t.pumpAndSettle();
+    expect(coresDaOpcao(t, 0).$2, Cores.errado);
+    expect(coresDaOpcao(t, 2).$2, Cores.certo);
+    for (final k in [1, 3]) {
+      expect(coresDaOpcao(t, k).$1, Cores.azul.withValues(alpha: 0.08));
+    }
+    expect(find.text('A tua resposta'), findsOneWidget);
+    expect(find.text('Certo'), findsOneWidget);
+  });
+
+  testWidgets('resposta certa: verde e as restantes a azul neutro', (t) async {
+    await abrir(t);
+    await t.tap(find.byKey(const Key('opcao_2')));
+    await t.pumpAndSettle();
+    expect(coresDaOpcao(t, 2).$2, Cores.certo);
+    for (final k in [0, 1, 3]) {
+      expect(coresDaOpcao(t, k).$1, Cores.azul.withValues(alpha: 0.08));
+    }
+    expect(find.text('A tua resposta'), findsNothing);
+  });
+
+  testWidgets('tempo esgotado: a certa a verde e as restantes a azul neutro', (t) async {
+    await abrir(t);
+    await t.pump(const Duration(seconds: 11));
+    await t.pumpAndSettle();
+    expect(find.text('Tempo esgotado'), findsOneWidget);
+    expect(coresDaOpcao(t, 2).$2, Cores.certo);
+    for (final k in [0, 1, 3]) {
+      expect(coresDaOpcao(t, k).$1, Cores.azul.withValues(alpha: 0.08));
+    }
+  });
+
+  testWidgets('a mudança de estado dura 200 ms', (t) async {
+    await abrir(t);
+    await t.tap(find.byKey(const Key('opcao_0')));
+    await t.pump();
+    expect(t.widget<AnimatedContainer>(find.byKey(const Key('estado_0'))).duration, const Duration(milliseconds: 200));
+    // A meio da transição, a borda da tua resposta ainda não chegou ao vermelho.
+    await t.pump(const Duration(milliseconds: 100));
+    final meio = t.renderObject<RenderDecoratedBox>(
+        find.descendant(of: find.byKey(const Key('estado_0')), matching: find.byType(DecoratedBox)).first);
+    expect(((meio.decoration as BoxDecoration).border! as Border).top.color, isNot(Cores.errado));
+    await t.pumpAndSettle();
+    await t.pumpWidget(const SizedBox());
+  });
 }
