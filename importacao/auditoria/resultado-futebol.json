@@ -1,0 +1,425 @@
+[
+ {
+  "id": "wd-euro-vencedor-Q373501",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": "Nota menor: o nome oficial é Euro 2020 (disputado em 2021); resposta inequívoca (Itália)."
+ },
+ {
+  "id": "wd-boladeouro-1959",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-euro-vencedor-Q182770",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-mundial-vencedor-Q46938",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-mundial-vencedor-Q37285",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-ligacampeoes-Q392526",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "texto"
+  ],
+  "nota": "Falta a preposição «de» antes da época («Taça dos Campeões Europeus de AAAA-AA»)."
+ },
+ {
+  "id": "wd-boladeouro-2003",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-ligacampeoes-Q309318",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "texto"
+  ],
+  "nota": "Falta a preposição «de» antes da época («Taça dos Campeões Europeus de AAAA-AA»)."
+ },
+ {
+  "id": "wd-boladeouro-1996",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-ligacampeoes-Q330674",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/FCSB",
+  "problemas": [
+   "texto",
+   "ambigua"
+  ],
+  "nota": "Falta a preposição «de» antes da época («Taça dos Campeões Europeus de AAAA-AA»). Além disso, a atribuição do título de 1986 ao FCSB é contestada: os tribunais romenos deram o palmarés do Steaua ao CSA Steaua, embora a UEFA o atribua ao FCSB (https://en.wikipedia.org/wiki/FCSB)."
+ },
+ {
+  "id": "wd-boladeouro-1994",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-boladeouro-2024",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/2024_Ballon_d%27Or",
+  "problemas": [
+   "ambigua"
+  ],
+  "nota": "A Bola de Ouro masculina de 2024 foi para Rodri; Aitana Bonmatí ganhou a feminina. O enunciado tem de dizer «feminina» (https://en.wikipedia.org/wiki/2024_Ballon_d%27Or)."
+ },
+ {
+  "id": "wd-ligacampeoes-Q455978",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-ligacampeoes-Q192736",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-b28165c2e8",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-5c79db584b",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-mundial-anfitriao-Q101730",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-boladeouro-1993",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-boladeouro-1974",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-ligacampeoes-Q642728",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "texto"
+  ],
+  "nota": "Falta a preposição «de» antes da época («Taça dos Campeões Europeus de AAAA-AA»)."
+ },
+ {
+  "id": "wd-boladeouro-1999",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-euro-vencedor-Q182201",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-euro-anfitriao-Q161810",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-mundial-vencedor-Q1477177",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-euro-vencedor-Q180563",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-mundial-anfitriao-Q176883",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-ligacampeoes-Q642743",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "texto"
+  ],
+  "nota": "Falta a preposição «de» antes da época («Taça dos Campeões Europeus de AAAA-AA»)."
+ },
+ {
+  "id": "wd-ligacampeoes-Q596726",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "texto"
+  ],
+  "nota": "Falta a preposição «de» antes da época («Taça dos Campeões Europeus de AAAA-AA»)."
+ },
+ {
+  "id": "wd-euro-anfitriao-Q182770",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-boladeouro-2000",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-euro-vencedor-Q22669",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-boladeouro-1997",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-boladeouro-1957",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-ligacampeoes-Q118823",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-88cc5debcc",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "traducao"
+  ],
+  "nota": "O en-US tem erros nas opções («Sunderland FC» em vez de Sunderland AFC, «Barcelona FC», «Paris Saints-Germain»); o pt-PT corrigiu-os, pelo que os textos não coincidem. Nota: em inglês, «Stadium of Light» também designa o Estádio da Luz (Benfica), que não está nas opções."
+ },
+ {
+  "id": "wd-boladeouro-2004",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-ligacampeoes-Q594303",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "texto"
+  ],
+  "nota": "Falta a preposição «de» antes da época («Taça dos Campeões Europeus de AAAA-AA»)."
+ },
+ {
+  "id": "otdb-e4fa2ab13d",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-euro-anfitriao-Q182205",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-ligacampeoes-Q426678",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "texto"
+  ],
+  "nota": "Falta a preposição «de» antes da época («Taça dos Campeões Europeus de AAAA-AA»)."
+ },
+ {
+  "id": "wd-ligacampeoes-Q455985",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-euro-vencedor-Q131239",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-euro-anfitriao-Q189571",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-ligacampeoes-Q63088790",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-ligacampeoes-Q485956",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-5f4af63a81",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-ligacampeoes-Q371848",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "texto"
+  ],
+  "nota": "Falta a preposição «de» antes da época («Taça dos Campeões Europeus de AAAA-AA»)."
+ },
+ {
+  "id": "wd-boladeouro-2007",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-ligacampeoes-Q30608",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-boladeouro-1992",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ }
+]

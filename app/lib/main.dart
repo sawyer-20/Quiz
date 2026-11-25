@@ -344,7 +344,7 @@ class _EcraJogoState extends State<EcraJogo> {
                             padding: const EdgeInsets.only(bottom: 6),
                             child: Text(t.tempoEsgotado, style: const TextStyle(color: Cores.errado, fontWeight: FontWeight.w800, fontSize: 13)),
                           ),
-                        Text(_p.explicacao(l), style: const TextStyle(fontSize: 13, height: 1.4)),
+                        if (_p.explicacao(l).isNotEmpty) Text(_p.explicacao(l), style: const TextStyle(fontSize: 13, height: 1.4)),
                         if (fontes.isNotEmpty) ...[
                           const SizedBox(height: 8),
                           Text('${t.fontes}: ${fontes.take(3).join(' · ')}', style: const TextStyle(fontSize: 12, color: Cores.textoSuave, height: 1.4)),

@@ -1,0 +1,200 @@
+{"id": "otdb-7a54b6ba58", "acao": "manter"}
+{"id": "otdb-7a84117dca", "acao": "manter"}
+{"id": "otdb-7d0ed1e26a", "acao": "corrigir", "pt": {"q": "Na série de videojogos Kingdom Hearts, o protagonista principal carrega uma arma com que forma?", "o": ["Espada", "Caneta", "Telemóvel", "Chave"]}, "en": {"q": "In the video-game franchise Kingdom Hearts, the main protagonist carries a weapon with what shape?", "o": ["Sword", "Pen", "Cellphone", "Key"]}, "nota": "en: vírgula a mais"}
+{"id": "otdb-7e063e3244", "acao": "manter"}
+{"id": "otdb-7e741cc0d6", "acao": "manter"}
+{"id": "otdb-7ec9a15207", "acao": "corrigir", "pt": {"q": "No universo de Diablo, este Mal Menor nasceu de uma das sete cabeças de Tathamet e ficou conhecido como a Donzela da Angústia. Qual é o seu nome?", "o": ["Kashya", "Andariel", "Valla", "Malthael"]}, "en": {"q": "In Diablo lore, this Lesser Evil spawned from one of the seven heads of Tathamet and was known as the Maiden of Anguish. What is its name?", "o": ["Kashya", "Andariel", "Valla", "Malthael"]}, "nota": "pt: «lore» -> «universo»; en: enunciado passa a pergunta"}
+{"id": "otdb-80e3326cb2", "acao": "manter"}
+{"id": "otdb-81ade6a348", "acao": "manter"}
+{"id": "otdb-81fbbd40ae", "acao": "corrigir", "pt": {"q": "Qual é a nacionalidade de D.Va, de Overwatch?", "o": ["Coreana", "Chinesa", "Vietnamita", "Japonesa"]}, "en": {"q": "What nationality is D.Va from Overwatch?", "o": ["Korean", "Chinese", "Vietnamese", "Japanese"]}, "nota": "en: maiúscula e espaço a mais"}
+{"id": "otdb-82229fb85a", "acao": "corrigir", "pt": {"q": "O «64» na consola Nintendo 64 refere-se a quê?", "o": ["A capacidade dos cartuchos de ROM em megabytes", "A frequência de relógio do CPU em hertz", "O número de megabytes de RAM", "Os bits da arquitetura do CPU"]}, "en": {"q": "The '64' in the Nintendo 64 console refers to what?", "o": ["Capacity of the ROM Cartridges in megabytes", "Clock speed of the CPU in Hertz", "The number of megabytes of RAM", "The bits in the CPU architecture"]}, "nota": "en: «Nintendo-64» -> «Nintendo 64»"}
+{"id": "otdb-82b1bb3c25", "acao": "manter"}
+{"id": "otdb-846f8073e7", "acao": "manter"}
+{"id": "otdb-86b1aad3ed", "acao": "corrigir", "pt": {"q": "Quem dá a voz em inglês a Sora na série «Kingdom Hearts»?", "o": ["Jesse McCartney", "Kōki Uchiyama", "Haley Joel Osment", "Miyu Irino"]}, "en": {"q": "Who is the English voice actor for Sora from the Kingdom Hearts series?", "o": ["Jesse McCartney", "Kōki Uchiyama", "Haley Joel Osment", "Miyu Irino"]}, "nota": "pt: «voz inglesa» -> «voz em inglês»"}
+{"id": "otdb-86fa69dad8", "acao": "manter"}
+{"id": "otdb-882e734c79", "acao": "manter"}
+{"id": "otdb-88797068ea", "acao": "manter"}
+{"id": "otdb-89a5813cf4", "acao": "manter"}
+{"id": "otdb-8a6c75899e", "acao": "corrigir", "pt": {"q": "Sean Bean dá voz à personagem Martin Septim em que jogo da série The Elder Scrolls?", "o": ["The Elder Scrolls IV: Oblivion", "The Elder Scrolls V: Skyrim", "The Elder Scrolls Online", "The Elder Scrolls III: Morrowind"]}, "en": {"q": "Sean Bean voices the character of \"Martin Septim\" in which Elder Scrolls game?", "o": ["The Elder Scrolls IV: Oblivion", "The Elder Scrolls V: Skyrim", "The Elder Scrolls Online", "The Elder Scrolls III: Morrowind"]}, "nota": "en: espaço a mais"}
+{"id": "otdb-8d0fb7b6c6", "acao": "manter"}
+{"id": "otdb-8e6a0a0c14", "acao": "manter"}
+{"id": "otdb-8f55f79dd8", "acao": "manter"}
+{"id": "otdb-9133b9d3af", "acao": "manter"}
+{"id": "otdb-93392c691e", "acao": "manter"}
+{"id": "otdb-93bae3c601", "acao": "manter"}
+{"id": "otdb-9920550538", "acao": "manter"}
+{"id": "otdb-996efb2d68", "acao": "manter"}
+{"id": "otdb-9f7116cb68", "acao": "manter"}
+{"id": "otdb-a02fa6595f", "acao": "manter"}
+{"id": "otdb-a58846cfb4", "acao": "corrigir", "pt": {"q": "«Exile» e «Revelation» foram o terceiro e o quarto jogos de que série de jogos para PC?", "o": ["Myst", "Doom", "Shivers", "Tropico"]}, "en": {"q": "\"Exile\" and \"Revelation\" were the third and fourth installments of which PC game series?", "o": ["Myst", "Doom", "Shivers", "Tropico"]}, "nota": "título certo é «Revelation» (Myst IV: Revelation)"}
+{"id": "otdb-aabbcaef18", "acao": "manter"}
+{"id": "otdb-ac8ec63509", "acao": "corrigir", "pt": {"q": "Na série Kingdom Hearts, quem dá a voz em inglês ao Mestre Eraqus?", "o": ["Jason Dohring", "Jesse McCartney", "Haley Joel Osment", "Mark Hamill"]}, "en": {"q": "In the Kingdom Hearts series, who provides the English voice for Master Eraqus?", "o": ["Jason Dohring", "Jesse McCartney", "Haley Joel Osment", "Mark Hamill"]}, "nota": "en: «Kingdom Heart» e «english»"}
+{"id": "otdb-ace190d7b7", "acao": "corrigir", "pt": {"q": "Em PLAYERUNKNOWN'S BATTLEGROUNDS, que tipo de munição usa a M24?", "o": ["7,62 mm", ".300 Magnum", "5,56 mm", "9 mm"]}, "en": {"q": "In PLAYERUNKNOWN'S BATTLEGROUNDS, which ammo type does the M24 use?", "o": ["7.62mm", ".300 Magnum", "5.56mm", "9mm"]}, "nota": "en: nome do jogo deturpado"}
+{"id": "otdb-acf48f21e4", "acao": "manter"}
+{"id": "otdb-ad00f7493e", "acao": "manter"}
+{"id": "otdb-ad30521461", "acao": "manter"}
+{"id": "otdb-af5aa7a2fa", "acao": "manter"}
+{"id": "otdb-b15f4d06a6", "acao": "manter"}
+{"id": "otdb-b2ab8c85ae", "acao": "manter"}
+{"id": "otdb-b3739cc49c", "acao": "manter"}
+{"id": "otdb-b3e6f1732f", "acao": "manter"}
+{"id": "otdb-b5262f8175", "acao": "manter"}
+{"id": "otdb-b83ebe4f5b", "acao": "corrigir", "pt": {"q": "Que grande acontecimento deu origem aos eventos de Half-Life 1?", "o": ["The Narbacular Drop", "The Seven Hour War", "The Resonance Cascade", "The Blue Shift"]}, "en": {"q": "What major event caused the events of Half-Life 1?", "o": ["The Narbacular Drop", "The Seven Hour War", "The Resonance Cascade", "The Blue Shift"]}, "nota": "en: espaço a mais"}
+{"id": "otdb-b8870a41f6", "acao": "manter"}
+{"id": "otdb-bb656ae44f", "acao": "manter"}
+{"id": "otdb-bbf102529b", "acao": "manter"}
+{"id": "otdb-bc755214a9", "acao": "manter"}
+{"id": "otdb-bd004e3b6c", "acao": "manter"}
+{"id": "otdb-bdc5935347", "acao": "corrigir", "pt": {"q": "No jogo Overwatch, qual destes quatro heróis é do Brasil?", "o": ["Symmetra", "Sombra", "Lúcio", "Cassidy"]}, "en": {"q": "In the game Overwatch, which hero out of the following 4 is from Brazil?", "o": ["Symmetra", "Sombra", "Lúcio", "Cassidy"]}, "nota": "McCree passou a chamar-se Cassidy (2021)"}
+{"id": "otdb-bde48fc765", "acao": "manter"}
+{"id": "otdb-bef18a1771", "acao": "manter"}
+{"id": "otdb-bf486951e1", "acao": "manter"}
+{"id": "otdb-bffdc2e3a1", "acao": "corrigir", "pt": {"q": "Quem lidera a Equipa Instinct em «Pokémon Go»?", "o": ["Spark", "Blanche", "Candela", "Willow"]}, "en": {"q": "Who is the leader of Team Instinct in Pokémon Go?", "o": ["Spark", "Blanche", "Candela", "Willow"]}, "nota": "pt: «o líder» dava pista de género; reformulado"}
+{"id": "otdb-c04de7e6ac", "acao": "manter"}
+{"id": "otdb-c21d42b6da", "acao": "manter"}
+{"id": "otdb-c2ffe53b6e", "acao": "corrigir", "pt": {"q": "Nos jogos Pokémon da segunda geração, com que Pokémon podes começar?", "o": ["Treecko, Torchic e Mudkip", "Bulbasaur, Charmander e Squirtle", "Grassy, Firey e Watery", "Chikorita, Cyndaquil e Totodile"]}, "en": {"q": "In the second-generation Pokémon games, which Pokémon can you start with?", "o": ["Treecko, Torchic, and Mudkip", "Bulbasaur, Charmander, and Squirtle", "Grassy, Firey, and Watery", "Chikorita, Cyndaquil, and Totodile"]}, "nota": "en: espaço em falta"}
+{"id": "otdb-c47e740c91", "acao": "manter"}
+{"id": "otdb-c5ee8bdbd9", "acao": "manter"}
+{"id": "otdb-c6b42d8604", "acao": "manter"}
+{"id": "otdb-c7372e95b5", "acao": "manter"}
+{"id": "otdb-c86566aa12", "acao": "manter"}
+{"id": "otdb-c8a8ad7587", "acao": "manter"}
+{"id": "otdb-cd10544a94", "acao": "manter"}
+{"id": "otdb-cdf26e88a6", "acao": "manter"}
+{"id": "otdb-cdf835f905", "acao": "manter"}
+{"id": "otdb-d3d5d6651c", "acao": "manter"}
+{"id": "otdb-daab868625", "acao": "manter"}
+{"id": "otdb-db621e6569", "acao": "manter"}
+{"id": "otdb-dceb940cb5", "acao": "manter"}
+{"id": "otdb-de6ed58523", "acao": "manter"}
+{"id": "otdb-df23c9a326", "acao": "corrigir", "pt": {"q": "Qual é o nome do estúdio que criou «Call of Duty: Zombies»?", "o": ["Treyarch", "Sledgehammer Games", "Infinity Ward", "Naughty Dog"]}, "en": {"q": "What is the name of the game developer who created \"Call of Duty: Zombies\"?", "o": ["Treyarch", "Sledgehammer Games", "Infinity Ward", "Naughty Dog"]}, "nota": "en: «Call Of Duty» -> «Call of Duty»"}
+{"id": "otdb-df3602114a", "acao": "manter"}
+{"id": "otdb-e00cd152e9", "acao": "manter"}
+{"id": "otdb-e04f093dd4", "acao": "manter"}
+{"id": "otdb-e19b45dc37", "acao": "manter"}
+{"id": "otdb-e1cf0f2937", "acao": "corrigir", "pt": {"q": "Que dois jogos da Valve se passam no mesmo universo?", "o": ["Half-Life e Counter-Strike", "Half-Life e Left 4 Dead", "Half-Life e Portal", "Portal e Left 4 Dead"]}, "en": {"q": "Which two Valve games are set in the same universe?", "o": ["Half-Life and Counter-Strike", "Half-Life and Left 4 Dead", "Half-Life and Portal", "Portal and Left 4 Dead"]}, "nota": "pt: calque «Quais dos dois»; en: gralhas de nomes"}
+{"id": "otdb-e42a20e63d", "acao": "manter"}
+{"id": "otdb-e4c17e316e", "acao": "manter"}
+{"id": "otdb-e5fa7e7c81", "acao": "corrigir", "pt": {"q": "Em «The Elder Scrolls V: Skyrim», quem é o bobo da corte da Dark Brotherhood?", "o": ["Lucien Lachance", "Cicero", "Archimedes", "Astrid"]}, "en": {"q": "In The Elder Scrolls V: Skyrim, who is the jester in the Dark Brotherhood?", "o": ["Lucien Lachance", "Cicero", "Archimedes", "Astrid"]}, "nota": "en: maiúsculas em Dark Brotherhood"}
+{"id": "otdb-e8c172a1a6", "acao": "tirar", "motivo": "ambigua", "nota": "O BMW M3 GTR é o carro do prólogo; no início da carreira propriamente dita o jogador escolhe outro carro"}
+{"id": "otdb-eb69331a67", "acao": "manter"}
+{"id": "otdb-ee5c8a67a7", "acao": "corrigir", "pt": {"q": "Qual é o processador principal da Sega Mega Drive / Sega Genesis?", "o": ["Yamaha YM2612", "Intel 8088", "Motorola 68000", "Zilog Z80"]}, "en": {"q": "What is the main CPU of the Sega Mega Drive / Sega Genesis?", "o": ["Yamaha YM2612", "Intel 8088", "Motorola 68000", "Zilog Z80"]}, "nota": "en: «is» -> «of»"}
+{"id": "otdb-ee6d552bca", "acao": "manter"}
+{"id": "otdb-eff96301f2", "acao": "manter"}
+{"id": "otdb-f1ea22166b", "acao": "corrigir", "pt": {"q": "Quem é o protagonista de «BioShock Infinite»?", "o": ["Herbie Hancock", "Arthas Menethil", "Booker DeWitt", "Zachary Comstock"]}, "en": {"q": "Who is the protagonist of BioShock Infinite?", "o": ["Herbie Hancock", "Arthas Menethil", "Booker DeWitt", "Zachary Comstock"]}, "nota": "en: «Which» -> «Who», «BioShock»"}
+{"id": "otdb-f77dc4db48", "acao": "manter"}
+{"id": "otdb-f96d4a1880", "acao": "corrigir", "pt": {"q": "Qual é o nome da cidade em «Saints Row: The Third»?", "o": ["Carcer", "Liberty", "Steelport", "Stilwater"]}, "en": {"q": "What is the name of the city in Saints Row: The Third?", "o": ["Carcer", "Liberty", "Steelport", "Stilwater"]}, "nota": "en: maiúscula a mais"}
+{"id": "otdb-f9b816637f", "acao": "manter"}
+{"id": "otdb-fcf422d1bc", "acao": "manter"}
+{"id": "otdb-fd0f8a0e49", "acao": "manter"}
+{"id": "otdb-fe4cf52147", "acao": "manter"}
+{"id": "otdb-ff98c0b1aa", "acao": "manter"}
+{"id": "otdb-00d1922896", "acao": "manter"}
+{"id": "otdb-037368be2f", "acao": "manter"}
+{"id": "otdb-04971e3c33", "acao": "corrigir", "pt": {"q": "Qual destes físicos ajudou a Alemanha nazi na produção de uma arma nuclear?", "o": ["John von Neumann", "Albert Einstein", "Max Planck", "Werner Heisenberg"]}, "en": {"q": "Which of the following physicists aided Nazi Germany in their production of a nuclear weapon?", "o": ["John von Neumann", "Albert Einstein", "Max Planck", "Werner Heisenberg"]}, "nota": "en: maiúscula a mais"}
+{"id": "otdb-0905672289", "acao": "manter"}
+{"id": "otdb-09f6bb9b58", "acao": "manter"}
+{"id": "otdb-0a202d74e3", "acao": "corrigir", "pt": {"q": "Que figura histórica é famosa pela frase «Que comam brioches», embora se diga que provavelmente nunca a pronunciou?", "o": ["Maria Antonieta", "Henrique VIII", "Isabel I", "O czar Nicolau II"]}, "en": {"q": "Which famous world leader is famed for the saying \"Let them eat cake\", yet is rumored never to have said it at all?", "o": ["Marie Antoinette", "Henry VIII", "Elizabeth I", "Czar Nicholas II"]}, "nota": "pt: forma corrente em Portugal «que comam brioches»; en: «he/she»"}
+{"id": "otdb-0b8e777747", "acao": "manter"}
+{"id": "otdb-0c11025102", "acao": "manter"}
+{"id": "otdb-0cb22294eb", "acao": "corrigir", "pt": {"q": "Que companhia aérea era proprietária do avião que se despenhou ao largo da Nova Escócia, em 1998?", "o": ["Swissair", "Air France", "TWA", "British Airways"]}, "en": {"q": "What airline was the owner of the plane that crashed off the coast of Nova Scotia in 1998?", "o": ["Swissair", "Air France", "TWA", "British Airways"]}, "nota": "en: «Swiss Air» -> «Swissair»"}
+{"id": "otdb-0cbcbb1154", "acao": "manter"}
+{"id": "otdb-0f5989403e", "acao": "manter"}
+{"id": "otdb-11f4b505b9", "acao": "manter"}
+{"id": "otdb-124c94fe49", "acao": "corrigir", "pt": {"q": "Quem liderou a Revolução Comunista da Rússia?", "o": ["José Estaline", "Vladimir Lenine", "Vladimir Putin", "Mikhail Gorbatchov"]}, "en": {"q": "Who led the Communist Revolution of Russia?", "o": ["Joseph Stalin", "Vladimir Lenin", "Vladimir Putin", "Mikhail Gorbachev"]}, "nota": "pt: formas pt-PT Estaline, Lenine, Gorbatchov"}
+{"id": "otdb-12612d928f", "acao": "manter"}
+{"id": "otdb-1431e40301", "acao": "manter"}
+{"id": "otdb-15d680944a", "acao": "manter"}
+{"id": "otdb-1630b6594e", "acao": "manter"}
+{"id": "otdb-18da1f01ec", "acao": "manter"}
+{"id": "otdb-197654ca44", "acao": "corrigir", "pt": {"q": "Das Sete Maravilhas do Mundo, qual é a única que sobreviveu até aos nossos dias?", "o": ["Colosso de Rodes", "Grande Pirâmide de Gizé", "Estátua de Zeus em Olímpia", "Farol de Alexandria"]}, "en": {"q": "Of the Seven Wonders of the World, which is the only one that has survived to this day?", "o": ["Colossus of Rhodes", "Great Pyramid of Giza", "Statue of Zeus at Olympia", "Lighthouse of Alexandria"]}, "nota": "en: «the only» -> «the only one»"}
+{"id": "otdb-1981f3137f", "acao": "manter"}
+{"id": "otdb-198f19b909", "acao": "manter"}
+{"id": "otdb-1a0f1db2e5", "acao": "corrigir", "pt": {"q": "De 1940 a 1942, qual foi a capital no exílio da França Livre?", "o": ["Brazzaville", "Argel", "Túnis", "Paris"]}, "en": {"q": "From 1940 to 1942, what was the capital-in-exile of Free France?", "o": ["Brazzaville", "Algiers", "Tunis", "Paris"]}, "nota": "en: espaço antes do ponto de interrogação"}
+{"id": "otdb-1b7e841657", "acao": "manter"}
+{"id": "otdb-2071665351", "acao": "corrigir", "pt": {"q": "Qual era o objetivo da «Revolução dos Guarda-Chuvas», em Hong Kong, em 2014?", "o": ["Baixar os impostos", "Voltar ao domínio britânico", "Alcançar a independência", "Obter um sufrágio universal genuíno"]}, "en": {"q": "What was the aim of the \"Umbrella Revolution\" in Hong Kong in 2014?", "o": ["Lower taxes", "Return to British rule", "Gain independence", "Gain genuine universal suffrage"]}, "nota": "opções paralelas (a certa era a única sem verbo)"}
+{"id": "otdb-21dd0d632f", "acao": "corrigir", "pt": {"q": "Onde foi morto, em 1521, o explorador português Fernão de Magalhães?", "o": ["Na Argentina", "Nas Filipinas", "Em Guam", "Nas Ilhas Canárias"]}, "en": {"q": "Where was Portuguese explorer Ferdinand Magellan killed in 1521?", "o": ["Argentina", "The Philippines", "Guam", "Canary Islands"]}, "nota": "en: «Phillipines»"}
+{"id": "otdb-228fff88f0", "acao": "manter"}
+{"id": "otdb-2372d770f3", "acao": "manter"}
+{"id": "otdb-2574d9b0b9", "acao": "manter"}
+{"id": "otdb-25eb283370", "acao": "manter"}
+{"id": "otdb-262fd5e848", "acao": "manter"}
+{"id": "otdb-27286702eb", "acao": "corrigir", "pt": {"q": "Quando destruiu o Vesúvio a cidade de Pompeia?", "o": ["54 a.C.", "31 a.C.", "62 d.C.", "79 d.C."]}, "en": {"q": "When did Vesuvius destroy the city of Pompeii?", "o": ["54 BC", "31 BC", "62 AD", "79 AD"]}, "nota": "en: espaço a mais"}
+{"id": "otdb-273e64b27f", "acao": "manter"}
+{"id": "otdb-27e7cc4eda", "acao": "manter"}
+{"id": "otdb-27e828a317", "acao": "manter"}
+{"id": "otdb-27fa371826", "acao": "manter"}
+{"id": "otdb-281cd76183", "acao": "tirar", "motivo": "facto", "nota": "Rommel nunca foi membro do partido nazi («general nazi» discutível); repete o facto de otdb-40b3e9b4b2"}
+{"id": "otdb-281edb7be4", "acao": "manter"}
+{"id": "otdb-287f05e796", "acao": "manter"}
+{"id": "otdb-2909dc9618", "acao": "corrigir", "pt": {"q": "Quem foi o primeiro chanceler de uma Alemanha unificada, em 1871?", "o": ["Otto von Bismarck", "Robert Koch", "Frederico II", "Kaiser Guilherme"]}, "en": {"q": "Who was the first Chancellor of a united Germany in 1871?", "o": ["Otto von Bismarck", "Robert Koch", "Frederick II", "Kaiser Wilhelm"]}, "nota": "en: gralhas (Bismarck, Frederick II) e espaços"}
+{"id": "otdb-294dd85c95", "acao": "corrigir", "pt": {"q": "Qual é o nome histórico do Sri Lanka?", "o": ["Myanmar", "Badulla", "Ceilão", "Colombo"]}, "en": {"q": "What is the historical name of Sri Lanka?", "o": ["Myanmar", "Badulla", "Ceylon", "Colombo"]}, "nota": "pt: «Mianmar» -> «Myanmar» (forma usada em Portugal)"}
+{"id": "otdb-294fd7ca19", "acao": "manter"}
+{"id": "otdb-2c2d8e120b", "acao": "manter"}
+{"id": "otdb-2d52f85e96", "acao": "manter"}
+{"id": "otdb-2ef2ec0a7d", "acao": "manter"}
+{"id": "otdb-3052aa60ca", "acao": "manter"}
+{"id": "otdb-32c9176671", "acao": "corrigir", "pt": {"q": "Qual destes físicos NÃO trabalhou no Projeto Manhattan?", "o": ["John von Neumann", "Murray Gell-Mann", "J. Robert Oppenheimer", "Richard Feynman"]}, "en": {"q": "Which of the following physicists did NOT work on the Manhattan Project?", "o": ["John von Neumann", "Murray Gell-Mann", "J. Robert Oppenheimer", "Richard Feynman"]}, "nota": "en: «Von-Neumann», «project»"}
+{"id": "otdb-341000dd7a", "acao": "manter"}
+{"id": "otdb-3472de3135", "acao": "manter"}
+{"id": "otdb-3a518b3e01", "acao": "manter"}
+{"id": "otdb-3bca3c58b3", "acao": "manter"}
+{"id": "otdb-3db2415095", "acao": "manter"}
+{"id": "otdb-40b3444f60", "acao": "manter"}
+{"id": "otdb-40b3e9b4b2", "acao": "corrigir", "pt": {"q": "Que marechal de campo alemão ficou conhecido como a «Raposa do Deserto»?", "o": ["Ernst Busch", "Erwin Rommel", "Wolfram von Richthofen", "Wilhelm List"]}, "en": {"q": "Which German field marshal was known as the \"Desert Fox\"?", "o": ["Ernst Busch", "Erwin Rommel", "Wolfram Freiherr von Richthofen", "Wilhelm List"]}, "nota": "pt: «marechal de campo» (AO90); en: aspas"}
+{"id": "otdb-41bb2c2d0a", "acao": "manter"}
+{"id": "otdb-42c15ce8ea", "acao": "manter"}
+{"id": "otdb-49030a4920", "acao": "manter"}
+{"id": "otdb-49309804a6", "acao": "manter"}
+{"id": "otdb-4a0e6c5eaf", "acao": "corrigir", "pt": {"q": "Onde estava Abraham Lincoln quando foi assassinado por John Wilkes Booth, em 1865?", "o": ["A cavalo", "No teatro", "Num barco", "Na cama"]}, "en": {"q": "Where was Abraham Lincoln when he was assassinated by John Wilkes Booth in 1865?", "o": ["On his horse", "At the theater", "On a boat", "In bed"]}, "nota": "en-US: «theatre» -> «theater»"}
+{"id": "otdb-4be460d849", "acao": "manter"}
+{"id": "otdb-4d198279e9", "acao": "manter"}
+{"id": "otdb-4e9ccb4a79", "acao": "manter"}
+{"id": "otdb-4fd1f35c94", "acao": "manter"}
+{"id": "otdb-510492b1b5", "acao": "manter"}
+{"id": "otdb-512db85e1d", "acao": "manter"}
+{"id": "otdb-51566cfaf8", "acao": "manter"}
+{"id": "otdb-51630ca7ac", "acao": "manter"}
+{"id": "otdb-51e64e7579", "acao": "corrigir", "pt": {"q": "Qual dos seguintes revolucionários soviéticos foi exilado da URSS e mais tarde assassinado, em 1940, por criticar o estalinismo?", "o": ["Mikhail Kalinin", "Vladimir Lenine", "Leon Trotsky", "Lev Kamenev"]}, "en": {"q": "Which of the following Soviet revolutionaries was exiled from the USSR and later assassinated in 1940 for criticizing Stalinism?", "o": ["Mikhail Kalinin", "Vladimir Lenin", "Leon Trotsky", "Lev Kamenev"]}, "nota": "pt: «Lenin» -> «Lenine»"}
+{"id": "otdb-5366091fc5", "acao": "corrigir", "pt": {"q": "Que batalha foi a mais longa da Primeira Guerra Mundial, tendo durado cerca de 303 dias?", "o": ["Batalha de Estalinegrado", "Batalha de Amiens", "Batalha de Passchendaele", "Batalha de Verdun"]}, "en": {"q": "What battle was the longest in World War I, lasting approximately 303 days?", "o": ["Battle of Stalingrad", "Battle of Amiens", "Battle of Passchendaele", "Battle of Verdun"]}, "nota": "en: espaço a mais"}
+{"id": "otdb-542fa9b52c", "acao": "manter"}
+{"id": "otdb-5762826391", "acao": "manter"}
+{"id": "otdb-58adad0166", "acao": "manter"}
+{"id": "otdb-5984b2a508", "acao": "manter"}
+{"id": "otdb-5ca1c0740f", "acao": "manter"}
+{"id": "otdb-5e7163fbe5", "acao": "manter"}
+{"id": "otdb-6185e066a7", "acao": "manter"}
+{"id": "otdb-61f061235a", "acao": "manter"}
+{"id": "otdb-632d7ca6d7", "acao": "corrigir", "pt": {"q": "Quem foi o primeiro Presidente do México?", "o": ["Vicente Guerrero", "Miguel Hidalgo y Costilla", "Benito Juárez", "Guadalupe Victoria"]}, "en": {"q": "Who was the 1st President of Mexico?", "o": ["Vicente Guerrero", "Miguel Hidalgo y Costilla", "Benito Juárez", "Guadalupe Victoria"]}, "nota": "en: «Y» -> «y»"}
+{"id": "otdb-64ef173e8b", "acao": "corrigir", "pt": {"q": "Qual destes países não fez parte das potências do Eixo na Segunda Guerra Mundial?", "o": ["Japão", "Alemanha", "União Soviética", "Itália"]}, "en": {"q": "Which of the following countries was not an Axis power during World War II?", "o": ["Japan", "Germany", "Soviet Union", "Italy"]}, "nota": "en: espaço a mais, «Axis»"}
+{"id": "otdb-6648429653", "acao": "manter"}
+{"id": "otdb-69d3df4643", "acao": "corrigir", "pt": {"q": "Que nome se dava aos ditadores militares japoneses que governaram o país entre o século XII e o século XIX?", "o": ["Ninja", "Shinobi", "Samurai", "Xogum"]}, "en": {"q": "What was the name given to Japanese military dictators who ruled the country between the 12th and 19th centuries?", "o": ["Ninja", "Shinobi", "Samurai", "Shogun"]}, "nota": "en: «through the ... and» -> «between the ... and»"}
+{"id": "otdb-6e77c50bc6", "acao": "corrigir", "pt": {"q": "A semeadora mecânica foi inventada por que inventor britânico?", "o": ["Isaac Newton", "Charles Babbage", "Jethro Tull", "J.J. Thomson"]}, "en": {"q": "The seed drill was invented by which British inventor?", "o": ["Isaac Newton", "Charles Babbage", "Jethro Tull", "J.J. Thomson"]}, "nota": "en: «J.J Thomson»"}
+{"id": "otdb-6ff2c565ab", "acao": "manter"}
+{"id": "otdb-7341ddcf42", "acao": "manter"}
+{"id": "otdb-73fe11cd16", "acao": "manter"}
+{"id": "otdb-74872c8bca", "acao": "manter"}
+{"id": "otdb-74adedebd1", "acao": "manter"}
+{"id": "otdb-769edbeaaa", "acao": "corrigir", "pt": {"q": "Quem foi o primeiro governante do Haiti depois de o país conquistar a independência?", "o": ["Alexandre Pétion", "Jean-Jacques Dessalines", "Toussaint Louverture", "Henri Christophe"]}, "en": {"q": "Who was the first ruler of Haiti after the country had gained its independence?", "o": ["Alexandre Pétion", "Jean-Jacques Dessalines", "Toussaint Louverture", "Henri Christophe"]}, "nota": "en: acento em Pétion"}
+{"id": "otdb-7adf6fab20", "acao": "manter"}
+{"id": "otdb-7b3cf5ec60", "acao": "manter"}
+{"id": "otdb-7d0a2ccd6e", "acao": "manter"}
+{"id": "otdb-7e2b698ac9", "acao": "corrigir", "pt": {"q": "Que famoso comandante militar atravessou os Alpes com um exército que incluía elefantes de guerra durante a Segunda Guerra Púnica?", "o": ["Germânico", "Alexandre, o Grande", "Tibério", "Aníbal"]}, "en": {"q": "Which famous military commander marched an army, which included war elephants, over the Alps during the Second Punic War?", "o": ["Germanicus", "Alexander the Great", "Tiberius", "Hannibal"]}, "nota": "gralha «Garmanicus» -> Germânico / Germanicus"}
+{"id": "otdb-7f607fcfe4", "acao": "corrigir", "pt": {"q": "Qual era o nome não oficial da Alemanha entre 1919 e 1933?", "o": ["República Democrática Alemã", "Oesterreich", "República de Weimar", "República Federal da Alemanha"]}, "en": {"q": "What was the unofficial name for Germany between 1919 and 1933?", "o": ["German Democratic Republic", "Oesterreich", "Weimar Republic", "Federal Republic of Germany"]}, "nota": "en: espaço a mais"}
+{"id": "otdb-81529035f9", "acao": "manter"}
+{"id": "otdb-821fccbf26", "acao": "manter"}
+{"id": "otdb-8306b3a3c5", "acao": "manter"}
+{"id": "otdb-830bd94b76", "acao": "corrigir", "pt": {"q": "Em que dia começou a tentativa de golpe de Estado de 1991 na União Soviética?", "o": ["21 de agosto", "24 de dezembro", "19 de agosto", "26 de dezembro"]}, "en": {"q": "On which day did the attempted coup d'état of 1991 in the Soviet Union begin?", "o": ["August 21", "December 24", "August 19", "December 26"]}, "nota": "en: «d'etat» -> «d'état»"}
+{"id": "otdb-831ed95b32", "acao": "manter"}
+{"id": "otdb-83860482de", "acao": "manter"}
+{"id": "otdb-83b69f3e88", "acao": "manter"}
+{"id": "otdb-84f8c495f2", "acao": "manter"}
+{"id": "otdb-87597dfabc", "acao": "manter"}
+{"id": "otdb-87b5d9ac7a", "acao": "manter"}
+{"id": "otdb-8a882aa42e", "acao": "manter"}
+{"id": "otdb-8b3fb49dd5", "acao": "corrigir", "pt": {"q": "Quando foi Napoleão Bonaparte coroado imperador dos Franceses?", "o": ["3 de julho de 1802", "8 de março de 1803", "2 de dezembro de 1804", "15 de outubro de 1804"]}, "en": {"q": "When was Napoleon Bonaparte crowned emperor of the French?", "o": ["July 3rd, 1802", "March 8th, 1803", "December 2nd, 1804", "October 15th, 1804"]}, "nota": "en: espaços a mais"}
+{"id": "otdb-8b4525f65a", "acao": "corrigir", "pt": {"q": "Depois da Batalha de Marj Dabiq, em 1516, o Império Otomano tomou Jerusalém a que sultanato?", "o": ["Mameluco", "Aiúbida", "Omíada", "Seljúcida"]}, "en": {"q": "After the 1516 Battle of Marj Dabiq, the Ottoman Empire took control of Jerusalem from which sultanate?", "o": ["Mamluk", "Ayyubid", "Umayyad", "Seljuq"]}, "nota": "en: «Ummayyad» -> «Umayyad»"}
+{"id": "otdb-8ea1e3dac1", "acao": "manter"}
+{"id": "otdb-900c392404", "acao": "manter"}
+{"id": "otdb-90c727e0b2", "acao": "manter"}
+{"id": "otdb-91c05a3290", "acao": "manter"}

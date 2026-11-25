@@ -54,6 +54,7 @@ dev_dependencies:
 flutter:
   assets:
     - assets/perguntas.json
+    - assets/importadas.json
   fonts:
     - family: Manrope
       fonts:

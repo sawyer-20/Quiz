@@ -1,0 +1,526 @@
+{
+ "lotes": {
+  "ciencia": {
+   "n": 50,
+   "erros": 2,
+   "taxa": 4.0,
+   "decisao": "aceite",
+   "tipos": {
+    "pista": 1,
+    "traducao": 1
+   }
+  },
+  "cinema": {
+   "n": 50,
+   "erros": 2,
+   "taxa": 4.0,
+   "decisao": "aceite",
+   "tipos": {
+    "ambigua": 2
+   }
+  },
+  "cultura-geral": {
+   "n": 50,
+   "erros": 5,
+   "taxa": 10.0,
+   "decisao": "devolvido",
+   "tipos": {
+    "ambigua": 1,
+    "eua": 1,
+    "texto": 3
+   }
+  },
+  "espaco": {
+   "n": 50,
+   "erros": 8,
+   "taxa": 16.0,
+   "decisao": "devolvido",
+   "tipos": {
+    "traducao": 2,
+    "pista": 2,
+    "nenhuma_certa": 4,
+    "texto": 5,
+    "brasil": 1
+   }
+  },
+  "futebol": {
+   "n": 50,
+   "erros": 11,
+   "taxa": 22.0,
+   "decisao": "devolvido",
+   "tipos": {
+    "texto": 9,
+    "ambigua": 2,
+    "traducao": 1
+   }
+  },
+  "geografia": {
+   "n": 50,
+   "erros": 3,
+   "taxa": 6.0,
+   "decisao": "devolvido",
+   "tipos": {
+    "texto": 3
+   }
+  },
+  "historia": {
+   "n": 50,
+   "erros": 6,
+   "taxa": 12.0,
+   "decisao": "devolvido",
+   "tipos": {
+    "traducao": 1,
+    "eua": 1,
+    "ambigua": 3,
+    "texto": 1
+   }
+  },
+  "musica": {
+   "n": 50,
+   "erros": 1,
+   "taxa": 2.0,
+   "decisao": "aceite",
+   "tipos": {
+    "ambigua": 1
+   }
+  },
+  "natureza": {
+   "n": 50,
+   "erros": 10,
+   "taxa": 20.0,
+   "decisao": "devolvido",
+   "tipos": {
+    "ambigua": 2,
+    "traducao": 4,
+    "pista": 4
+   }
+  },
+  "videojogos": {
+   "n": 50,
+   "erros": 3,
+   "taxa": 6.0,
+   "decisao": "devolvido",
+   "tipos": {
+    "ambigua": 2,
+    "datada": 1
+   }
+  }
+ },
+ "assinaladas": [
+  {
+   "lote": "ciencia",
+   "id": "otdb-7cee3cf5d3",
+   "problemas": [
+    "pista"
+   ],
+   "nota": "Em en-US todas as opções começam por «Rh»; em pt-PT só «Macacos Rhesus» contém «Rh», o que denuncia a resposta."
+  },
+  {
+   "lote": "ciencia",
+   "id": "otdb-ca5ceed69b",
+   "problemas": [
+    "traducao"
+   ],
+   "nota": "A opção certa em en-US está escrita «H20» (com zero), que é outra fórmula; em pt-PT está «H2O». Corrigir o en-US para «H2O»."
+  },
+  {
+   "lote": "cinema",
+   "id": "otdb-0778d2ca1f",
+   "problemas": [
+    "ambigua"
+   ],
+   "nota": "Estreou nos EUA em 19/12/1997, mas em Portugal só a 16/01/1998; para um jogador português «estreou nos cinemas» admite 1998. Melhor: «Em que ano foi lançado...» ou «estreou nos EUA»."
+  },
+  {
+   "lote": "cinema",
+   "id": "otdb-23c72e5bb8",
+   "problemas": [
+    "ambigua"
+   ],
+   "nota": "No filme de 1984 o modelo é «Cyberdyne Systems Model 101»; a designação T-800 só surge a partir de Terminator 2 (1991). T-800 é a única opção defensável, mas o enunciado é impreciso."
+  },
+  {
+   "lote": "cultura-geral",
+   "id": "otdb-f9b17f9672",
+   "problemas": [
+    "ambigua"
+   ],
+   "nota": "O arco-íris é um espetro contínuo; as 7 cores são uma convenção (Newton), não um facto físico."
+  },
+  {
+   "lote": "cultura-geral",
+   "id": "otdb-17d80d4af0",
+   "problemas": [
+    "eua"
+   ],
+   "nota": "Pormenor de um monumento dos EUA (orientação da estátua), conhecimento específico dos EUA."
+  },
+  {
+   "lote": "cultura-geral",
+   "id": "otdb-827857d5a3",
+   "problemas": [
+    "texto"
+   ],
+   "nota": "Título do fresco italiano deixado em inglês no pt-PT; devia ser «A Criação de Adão»."
+  },
+  {
+   "lote": "cultura-geral",
+   "id": "otdb-17e30bdfcf",
+   "problemas": [
+    "texto"
+   ],
+   "nota": "«Que posição joga» é calco do inglês; em pt-PT: «Em que posição joga Harry Potter no Quidditch?»."
+  },
+  {
+   "lote": "cultura-geral",
+   "id": "otdb-ed625d4765",
+   "problemas": [
+    "texto"
+   ],
+   "nota": "«fabricante» é masculino em pt-PT: «Qual destes fabricantes de automóveis superdesportivos é sueco?»."
+  },
+  {
+   "lote": "espaco",
+   "id": "wd-lua-Q190536",
+   "problemas": [
+    "traducao",
+    "pista"
+   ],
+   "nota": "O pt usa a designação provisória «S/2000 J 11» e o en o nome oficial «Dia» (atribuído em 2015); o «J» da designação dá Júpiter só em pt. Fonte: https://en.wikipedia.org/wiki/Dia_(moon)"
+  },
+  {
+   "lote": "espaco",
+   "id": "wd-lua-Q171473",
+   "problemas": [
+    "nenhuma_certa",
+    "texto"
+   ],
+   "nota": "Os anéis de Urano não são uma lua: premissa falsa gerada pelo Wikidata; pt «Anéis de Urano é» falha a concordância."
+  },
+  {
+   "lote": "espaco",
+   "id": "wd-lua-Q214002",
+   "problemas": [
+    "traducao",
+    "pista"
+   ],
+   "nota": "O pt usa a designação provisória «S/2003 J 5» e o en o nome oficial «Eirene» (2019); o «J» dá Júpiter só em pt. Fonte: https://en.wikipedia.org/wiki/Eirene_(moon)"
+  },
+  {
+   "lote": "espaco",
+   "id": "wd-lua-Q327075",
+   "problemas": [
+    "nenhuma_certa"
+   ],
+   "nota": "MAVEN é uma sonda da NASA em órbita de Marte, não uma lua: premissa falsa gerada pelo Wikidata."
+  },
+  {
+   "lote": "espaco",
+   "id": "otdb-25ba6b8693",
+   "problemas": [
+    "texto"
+   ],
+   "nota": "«Nenhuns dos anteriores» é incorreto; seria «Nenhum dos anteriores» ou «Nenhuma das anteriores»."
+  },
+  {
+   "lote": "espaco",
+   "id": "wd-lua-Q48400",
+   "problemas": [
+    "nenhuma_certa",
+    "brasil",
+    "texto"
+   ],
+   "nota": "Os anéis de Neptuno não são uma lua (premissa falsa); o pt usa «Netuno» (forma brasileira, pt-PT: Neptuno), começa com minúscula e falha a concordância («anéis ... é»)."
+  },
+  {
+   "lote": "espaco",
+   "id": "wd-lua-Q3060",
+   "problemas": [
+    "nenhuma_certa",
+    "texto"
+   ],
+   "nota": "Os anéis de Júpiter não são uma lua (premissa falsa); pt começa com minúscula e falha a concordância («anéis ... é»)."
+  },
+  {
+   "lote": "espaco",
+   "id": "wd-lua-Q18497",
+   "problemas": [
+    "texto"
+   ],
+   "nota": "Em pt o nome grafa-se «Próspero» (com acento)."
+  },
+  {
+   "lote": "futebol",
+   "id": "wd-ligacampeoes-Q392526",
+   "problemas": [
+    "texto"
+   ],
+   "nota": "Falta a preposição «de» antes da época («Taça dos Campeões Europeus de AAAA-AA»)."
+  },
+  {
+   "lote": "futebol",
+   "id": "wd-ligacampeoes-Q309318",
+   "problemas": [
+    "texto"
+   ],
+   "nota": "Falta a preposição «de» antes da época («Taça dos Campeões Europeus de AAAA-AA»)."
+  },
+  {
+   "lote": "futebol",
+   "id": "wd-ligacampeoes-Q330674",
+   "problemas": [
+    "texto",
+    "ambigua"
+   ],
+   "nota": "Falta a preposição «de» antes da época («Taça dos Campeões Europeus de AAAA-AA»). Além disso, a atribuição do título de 1986 ao FCSB é contestada: os tribunais romenos deram o palmarés do Steaua ao CSA Steaua, embora a UEFA o atribua ao FCSB (https://en.wikipedia.org/wiki/FCSB)."
+  },
+  {
+   "lote": "futebol",
+   "id": "wd-boladeouro-2024",
+   "problemas": [
+    "ambigua"
+   ],
+   "nota": "A Bola de Ouro masculina de 2024 foi para Rodri; Aitana Bonmatí ganhou a feminina. O enunciado tem de dizer «feminina» (https://en.wikipedia.org/wiki/2024_Ballon_d%27Or)."
+  },
+  {
+   "lote": "futebol",
+   "id": "wd-ligacampeoes-Q642728",
+   "problemas": [
+    "texto"
+   ],
+   "nota": "Falta a preposição «de» antes da época («Taça dos Campeões Europeus de AAAA-AA»)."
+  },
+  {
+   "lote": "futebol",
+   "id": "wd-ligacampeoes-Q642743",
+   "problemas": [
+    "texto"
+   ],
+   "nota": "Falta a preposição «de» antes da época («Taça dos Campeões Europeus de AAAA-AA»)."
+  },
+  {
+   "lote": "futebol",
+   "id": "wd-ligacampeoes-Q596726",
+   "problemas": [
+    "texto"
+   ],
+   "nota": "Falta a preposição «de» antes da época («Taça dos Campeões Europeus de AAAA-AA»)."
+  },
+  {
+   "lote": "futebol",
+   "id": "otdb-88cc5debcc",
+   "problemas": [
+    "traducao"
+   ],
+   "nota": "O en-US tem erros nas opções («Sunderland FC» em vez de Sunderland AFC, «Barcelona FC», «Paris Saints-Germain»); o pt-PT corrigiu-os, pelo que os textos não coincidem. Nota: em inglês, «Stadium of Light» também designa o Estádio da Luz (Benfica), que não está nas opções."
+  },
+  {
+   "lote": "futebol",
+   "id": "wd-ligacampeoes-Q594303",
+   "problemas": [
+    "texto"
+   ],
+   "nota": "Falta a preposição «de» antes da época («Taça dos Campeões Europeus de AAAA-AA»)."
+  },
+  {
+   "lote": "futebol",
+   "id": "wd-ligacampeoes-Q426678",
+   "problemas": [
+    "texto"
+   ],
+   "nota": "Falta a preposição «de» antes da época («Taça dos Campeões Europeus de AAAA-AA»)."
+  },
+  {
+   "lote": "futebol",
+   "id": "wd-ligacampeoes-Q371848",
+   "problemas": [
+    "texto"
+   ],
+   "nota": "Falta a preposição «de» antes da época («Taça dos Campeões Europeus de AAAA-AA»)."
+  },
+  {
+   "lote": "geografia",
+   "id": "wd-capital-Q811",
+   "problemas": [
+    "texto"
+   ],
+   "nota": "Em pt-PT a grafia é «Manágua», não «Managua» (forma espanhola)."
+  },
+  {
+   "lote": "geografia",
+   "id": "otdb-237572d8ca",
+   "problemas": [
+    "texto"
+   ],
+   "nota": "Opção «Jabraltar» é um erro de grafia (em ambos os idiomas); «Macedónia» não é uma cidade."
+  },
+  {
+   "lote": "geografia",
+   "id": "wd-capital-Q781",
+   "problemas": [
+    "texto"
+   ],
+   "nota": "«São João» não é a forma usada em pt-PT para St. John's; deve ficar «Saint John's»."
+  },
+  {
+   "lote": "historia",
+   "id": "otdb-8fafda3736",
+   "problemas": [
+    "traducao"
+   ],
+   "nota": "«formaram uma comunidade» não traduz bem «commonwealth» (em pt-PT: República das Duas Nações / Comunidade Polaco-Lituana, 1569-1795); en também chama «countries» a «Hutu»."
+  },
+  {
+   "lote": "historia",
+   "id": "otdb-12df710028",
+   "problemas": [
+    "eua"
+   ],
+   "nota": "Episódio sobretudo conhecido nos EUA; en tem gralha «Doolitte»."
+  },
+  {
+   "lote": "historia",
+   "id": "otdb-9b77488314",
+   "problemas": [
+    "ambigua"
+   ],
+   "nota": "«Fundado» é vago: 1867 é a Confederação, não a fundação; melhor perguntar pela Confederação."
+  },
+  {
+   "lote": "historia",
+   "id": "otdb-01c09adbbd",
+   "problemas": [
+    "texto"
+   ],
+   "nota": "Em pt-PT «Batalha do Bulge» é decalque; o nome corrente é Batalha das Ardenas (algumas fontes dão 28 de janeiro como fim)."
+  },
+  {
+   "lote": "historia",
+   "id": "otdb-e201806361",
+   "problemas": [
+    "ambigua"
+   ],
+   "nota": "Idade estimada: fontes dão 18 ou 19 (Wikipedia: cerca de 18); o enunciado apresenta-a como exata."
+  },
+  {
+   "lote": "historia",
+   "id": "otdb-45bfc6f3b0",
+   "problemas": [
+    "ambigua"
+   ],
+   "nota": "Rizal inspirou mas não liderou a Revolução Filipina (liderada por Bonifacio e Aguinaldo); o enunciado é factualmente enganador."
+  },
+  {
+   "lote": "musica",
+   "id": "otdb-ad7821fa48",
+   "problemas": [
+    "ambigua"
+   ],
+   "nota": "Quatro álbuns de estúdio (Homework, Discovery, Human After All, Random Access Memories); a banda sonora de «Tron: Legacy» é por vezes contada, o que torna o «5» defensável."
+  },
+  {
+   "lote": "natureza",
+   "id": "otdb-aecb763f66",
+   "problemas": [
+    "ambigua"
+   ],
+   "nota": "«Mais rápido» sem qualificação: o falcão-peregrino é o mais rápido em voo picado, mas a chita é o animal terrestre mais rápido; especificar «em picado» ou «de todos, incluindo aves em voo picado»."
+  },
+  {
+   "lote": "natureza",
+   "id": "wd-grupo-Q25384",
+   "problemas": [
+    "traducao"
+   ],
+   "nota": "Asio otus (long-eared owl) chama-se em Portugal bufo-pequeno; «coruja-pequena» (rótulo do Wikidata) não é o nome usado em pt-PT e pode confundir-se com o mocho-galego."
+  },
+  {
+   "lote": "natureza",
+   "id": "wd-nomecientifico-Q81091",
+   "problemas": [
+    "pista"
+   ],
+   "nota": "Em en-US a opção certa repete o nome científico do enunciado (ou é a única com nome comum entre nomes científicos), o que dá a resposta só em inglês."
+  },
+  {
+   "lote": "natureza",
+   "id": "wd-nomecientifico-Q25450",
+   "problemas": [
+    "traducao"
+   ],
+   "nota": "O nome português de Anas acuta é arrábio; «marreca-arrebio» não é usado em Portugal (parece forma brasileira)."
+  },
+  {
+   "lote": "natureza",
+   "id": "wd-nomecientifico-Q131709",
+   "problemas": [
+    "traducao"
+   ],
+   "nota": "O nome oficial em Portugal de Egretta garzetta é garça-branca-pequena, não «garcinha-branca»."
+  },
+  {
+   "lote": "natureza",
+   "id": "otdb-bf742dc8d7",
+   "problemas": [
+    "ambigua"
+   ],
+   "nota": "100 é impossível (pares sempre ímpares), mas 50 patas (25 pares) também não existe: Scolopendromorpha têm 21 ou 23 pares e Geophilomorpha 27 a 191; as ordens anamórficas param nos 15 pares."
+  },
+  {
+   "lote": "natureza",
+   "id": "wd-nomecientifico-Q4388",
+   "problemas": [
+    "pista"
+   ],
+   "nota": "Em en-US a opção certa repete o nome científico do enunciado (ou é a única com nome comum entre nomes científicos), o que dá a resposta só em inglês."
+  },
+  {
+   "lote": "natureza",
+   "id": "otdb-6b2c8239cb",
+   "problemas": [
+    "traducao"
+   ],
+   "nota": "«Ape» é grande símio (hominídeo); «símio» em pt-PT abrange também os macacos. Sugestão: «Grande símio»."
+  },
+  {
+   "lote": "natureza",
+   "id": "wd-nomecientifico-Q26838",
+   "problemas": [
+    "pista"
+   ],
+   "nota": "Em en-US a opção certa repete o nome científico do enunciado (ou é a única com nome comum entre nomes científicos), o que dá a resposta só em inglês."
+  },
+  {
+   "lote": "natureza",
+   "id": "wd-nomecientifico-Q178821",
+   "problemas": [
+    "pista"
+   ],
+   "nota": "Em en-US a opção certa repete o nome científico do enunciado (ou é a única com nome comum entre nomes científicos), o que dá a resposta só em inglês."
+  },
+  {
+   "lote": "videojogos",
+   "id": "otdb-0564e8a849",
+   "problemas": [
+    "ambigua"
+   ],
+   "nota": "«Primeiro por ordem cronológica» lê-se em pt-PT como ordem de lançamento (seria Devil May Cry, opção 0); a resposta pretendida é a cronologia da história (DMC3, prequela). Convém dizer «na cronologia da história»."
+  },
+  {
+   "lote": "videojogos",
+   "id": "otdb-886e687a6d",
+   "problemas": [
+    "ambigua"
+   ],
+   "nota": "Premissa enganadora: MEKA (Mobile Exo-Force of the Korean Army) é a unidade militar criada pelo governo sul-coreano, não uma empresa; nenhuma fonte fiável nomeia uma empresa fabricante."
+  },
+  {
+   "lote": "videojogos",
+   "id": "otdb-15e3c8a588",
+   "problemas": [
+    "datada"
+   ],
+   "nota": "A série Pro Evolution Soccer passou a chamar-se eFootball em 2021 (continua da Konami); o presente «é desenvolvida» está datado."
+  }
+ ]
+}

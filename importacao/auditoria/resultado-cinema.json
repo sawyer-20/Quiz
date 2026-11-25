@@ -1,0 +1,406 @@
+[
+ {
+  "id": "otdb-2cbf86fbf1",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-bf4ebd25c8",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-2ee4e666a1",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-bf860e07d8",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-b13d0984b7",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-0778d2ca1f",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": "https://themoviedb.org/movie/597-titanic/releases",
+  "problemas": [
+   "ambigua"
+  ],
+  "nota": "Estreou nos EUA em 19/12/1997, mas em Portugal só a 16/01/1998; para um jogador português «estreou nos cinemas» admite 1998. Melhor: «Em que ano foi lançado...» ou «estreou nos EUA»."
+ },
+ {
+  "id": "otdb-8dbebb3c83",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-9cdc3903a8",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-5f9d8e017c",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-59d1067e64",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-4f9e68b027",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-da910a5b30",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-ce5a38c08c",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-0ccb8048eb",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-dc93e4249c",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-67b230bf21",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-e1b6cfb4f1",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-c7f54159a5",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-b58ce7b4d2",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-796a2e1076",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": "https://www.Wikipedia.com/wiki/Zulu_(1964_film)",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-170ec4df82",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-af34a7c426",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-0c37c8f457",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-ddb797f6fe",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-6590436a26",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-a29fd7a44d",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-d215ab2c7b",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-76152fe162",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-6575249172",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-21d7f04e42",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-152965adab",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-e84c720f20",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-23c72e5bb8",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Terminator_(character)",
+  "problemas": [
+   "ambigua"
+  ],
+  "nota": "No filme de 1984 o modelo é «Cyberdyne Systems Model 101»; a designação T-800 só surge a partir de Terminator 2 (1991). T-800 é a única opção defensável, mas o enunciado é impreciso."
+ },
+ {
+  "id": "otdb-74bd12fd7c",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-e1fcd457b3",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-24aa46e6de",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-70d41876eb",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-2dcfe73d5f",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-8e68af14b2",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-219aed25bc",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-87d395e727",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-3e5de17158",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-b82ddad0c8",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-388bc681e0",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-1b0e88dc7e",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-7b8f83dcf8",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-915e20ff68",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-df789333c5",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-cf055b8548",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-4ced643ebc",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ }
+]

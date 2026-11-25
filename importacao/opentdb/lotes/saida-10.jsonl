@@ -1,0 +1,200 @@
+{"id": "otdb-f878a261c3", "keep": true, "topic": "Science", "pt": {"q": "Quantos lobos tem o pulmão direito humano?", "o": ["3", "4", "2", "1"]}}
+{"id": "otdb-7f9c2e11a4", "keep": true, "topic": "Science", "pt": {"q": "Qual destas coisas foi criada por Linus Torvalds?", "o": ["Linux", "Microsoft Windows", "Python", "Wikipédia"]}}
+{"id": "otdb-c70bf9a4b6", "keep": true, "topic": "Science", "pt": {"q": "O Tempo Unix define-se como o número de segundos decorridos desde que momento?", "o": ["Meia-noite de 1 de janeiro de 1970", "Meia-noite de 4 de julho de 1976", "Meia-noite do dia de anos do criador do Unix", "Meia-noite de 4 de julho de 1980"]}}
+{"id": "otdb-8baa76fb29", "keep": false, "motivo": "trivial_obscura"}
+{"id": "otdb-056999391d", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-8cc9384973", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-5ba06cb8de", "keep": true, "topic": "Science", "pt": {"q": "Qual é o comprimento de um endereço IPv6?", "o": ["128 bits", "32 bits", "64 bits", "128 bytes"]}}
+{"id": "otdb-8ad4cf226e", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-494ea2258e", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-718d5d56f2", "keep": true, "topic": "Science", "pt": {"q": "Aproximadamente quantos computadores pessoais Apple I foram construídos?", "o": ["200", "100", "500", "1000"]}}
+{"id": "otdb-a108bc0326", "keep": true, "topic": "Science", "pt": {"q": "O que significa a sigla JVM, no mundo do software?", "o": ["Java Virtual Machine", "Java Vendor Machine", "Java Visual Machine", "Just Virtual Machine"]}}
+{"id": "otdb-a14b3fe085", "keep": true, "topic": "Science", "pt": {"q": "Qual das seguintes linguagens é usada como linguagem de script no motor de jogos Unity 3D?", "o": ["C#", "Java", "C++", "Objective-C"]}}
+{"id": "otdb-6cdd19b119", "keep": true, "topic": "Science", "pt": {"q": "Em hexadecimal, que cor corresponde ao código de cor «#00FF00»?", "o": ["Verde", "Vermelho", "Azul", "Amarelo"]}}
+{"id": "otdb-b257e179b0", "keep": true, "topic": "Science", "pt": {"q": "Qual foi a primeira versão do Android otimizada especificamente para tablets?", "o": ["Honeycomb", "Eclair", "Froyo", "Marshmallow"]}}
+{"id": "otdb-8d62adaa7c", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-cd50869c7e", "keep": true, "topic": "Science", "pt": {"q": "As impressoras laser e as de jato de tinta são ambas exemplos de que tipo de impressora?", "o": ["Impressora sem impacto", "Impressora de impacto", "Impressora de margarida", "Impressora matricial"]}}
+{"id": "otdb-c6e72f202b", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-4001ce96b7", "keep": true, "topic": "Science", "pt": {"q": "Whistler foi o nome de código de qual destes sistemas operativos da Microsoft?", "o": ["Windows XP", "Windows 2000", "Windows 7", "Windows 95"]}}
+{"id": "otdb-d52c96005c", "keep": true, "topic": "Science", "pt": {"q": "Em informática, o que significa MIDI?", "o": ["Musical Instrument Digital Interface", "Musical Interface of Digital Instruments", "Modular Interface of Digital Instruments", "Musical Instrument Data Interface"]}}
+{"id": "otdb-c2f5dee068", "keep": true, "topic": "Science", "pt": {"q": "Como se chama o bule frequentemente visto em muitas aplicações de modelação 3D?", "o": ["Bule de Utah", "Bule da Pixar", "Bule 3D", "Bule do Tennessee"]}}
+{"id": "otdb-8ad23702b4", "keep": true, "topic": "Science", "pt": {"q": "Como designa o Sistema Internacional de Grandezas 1024 bytes?", "o": ["Kibibyte", "Kylobyte", "Kilobyte", "Kelobyte"]}}
+{"id": "otdb-e499f6e360", "keep": true, "topic": "Science", "pt": {"q": "Lançada em 2001, a primeira edição do Mac OS X da Apple (versão 10.0) recebeu que nome de código de animal?", "o": ["Cheetah", "Puma", "Tiger", "Leopard"]}}
+{"id": "otdb-9205712cf8", "keep": true, "topic": "Science", "pt": {"q": "Em que linguagem de programação foi escrito o GitHub?", "o": ["Ruby", "JavaScript", "Python", "Lua"]}}
+{"id": "otdb-4983313f88", "keep": true, "topic": "Science", "pt": {"q": "Na linguagem de programação Python, qual destas instruções mostraria corretamente a cadeia «Hello World»?", "o": ["print(\"Hello World\")", "console.log(\"Hello World\")", "echo \"Hello World\"", "printf(\"Hello World\")"]}}
+{"id": "otdb-16a94911cf", "keep": true, "topic": "Science", "pt": {"q": "Quantos bits tem normalmente um byte?", "o": ["Oito bits", "Seis bits", "Doze bits", "Quinze bits"]}}
+{"id": "otdb-554c02e7ba", "keep": true, "topic": "Science", "pt": {"q": "Qual destas linguagens de programação é de baixo nível?", "o": ["Assembly", "Python", "C#", "Pascal"]}}
+{"id": "otdb-b48d117367", "keep": false, "motivo": "lingua"}
+{"id": "otdb-699efe7b68", "keep": true, "topic": "Science", "pt": {"q": "Quando foi lançado, quanto armazenamento de email oferecia o Gmail?", "o": ["1 GB", "512 MB", "5 GB", "Ilimitado"]}}
+{"id": "otdb-9200d67c14", "keep": true, "topic": "Science", "pt": {"q": "O que significa «LCD»?", "o": ["Liquid Crystal Display", "Language Control Design", "Last Common Difference", "Long Continuous Design"]}}
+{"id": "otdb-419423cac2", "keep": true, "topic": "Science", "pt": {"q": "Todos os seguintes programas são editores de gráficos raster, EXCETO:", "o": ["Inkscape", "Paint.NET", "GIMP", "Adobe Photoshop"]}}
+{"id": "otdb-77758b03da", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-31b3f623ae", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-f74adfedb8", "keep": true, "topic": "Science", "pt": {"q": "Em informática, o que significa normalmente CLI?", "o": ["Command Line Interface", "Common Language Input", "Control Line Interface", "Common Language Interface"]}}
+{"id": "otdb-e14bf91ff6", "keep": true, "topic": "Science", "pt": {"q": "O que significa a sigla USB?", "o": ["Universal Serial Bus", "Universal Simtex Blot", "Unified Signal Bus", "Unityped Semtex Backer"]}}
+{"id": "otdb-be1405cb2d", "keep": false, "motivo": "datada"}
+{"id": "otdb-0855f46bf6", "keep": true, "topic": "Science", "pt": {"q": "Em que porta funciona o HTTP?", "o": ["80", "53", "443", "23"]}}
+{"id": "otdb-cef470f2f4", "keep": true, "topic": "Science", "pt": {"q": "Qual é o nome do tema predefinido instalado com o Windows XP?", "o": ["Luna", "Neptune", "Whistler", "Bliss"]}}
+{"id": "otdb-54d7e21ded", "keep": false, "motivo": "trivial_obscura"}
+{"id": "otdb-7762a57706", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-8dd94267bd", "keep": true, "topic": "Science", "pt": {"q": "Que dispositivo de hardware fornece a interface para que todos os outros dispositivos ligados comuniquem entre si?", "o": ["Placa-mãe", "Unidade Central de Processamento", "Disco rígido", "Memória de acesso aleatório"]}}
+{"id": "otdb-77363daa32", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-26ee6dceb9", "keep": false, "motivo": "eua"}
+{"id": "otdb-d98c21f4e1", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-1916fdbf95", "keep": false, "motivo": "trivial_obscura"}
+{"id": "otdb-abcec412d4", "keep": true, "topic": "Science", "pt": {"q": "Em informática, quantos bits tem um nibble?", "o": ["4", "16", "32", "2"]}}
+{"id": "otdb-ff4cd2c545", "keep": true, "topic": "Science", "pt": {"q": "Em HTML, que etiqueta não padrão servia para fazer elementos deslizarem pelo ecrã?", "o": ["<marquee></marquee>", "<scroll></scroll>", "<move></move>", "<slide></slide>"]}}
+{"id": "otdb-0206cd2822", "keep": true, "topic": "Science", "pt": {"q": "Qual é o domínio de topo de Tuvalu?", "o": [".tv", ".tu", ".tt", ".tl"]}}
+{"id": "otdb-f63ae28e18", "keep": true, "topic": "Science", "pt": {"q": "Segundo o Teorema de De Morgan, a expressão booleana (AB)' é equivalente a:", "o": ["A' + B'", "A'B + B'A", "A'B'", "AB' + AB"]}}
+{"id": "otdb-ba1bcb6f15", "keep": true, "topic": "Science", "pt": {"q": "Qual é, em teoria, a velocidade do USB 3.1 Gen 2?", "o": ["10 Gb/s", "5 Gb/s", "8 Gb/s", "1 Gb/s"]}}
+{"id": "otdb-1e2e5e7b65", "keep": true, "topic": "Science", "pt": {"q": "No setor do alojamento de servidores, o que significa IaaS?", "o": ["Infraestrutura como Serviço", "Internet como Serviço", "Internet e um Servidor", "Infraestrutura como Servidor"]}}
+{"id": "otdb-ad7a630a4f", "keep": true, "topic": "Science", "pt": {"q": "Que linguagem de programação foi desenvolvida pela Sun Microsystems em 1995?", "o": ["Java", "Python", "Solaris OS", "C++"]}}
+{"id": "otdb-9bbe8aae7c", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-51c582b03c", "keep": true, "topic": "Science", "pt": {"q": "Quantos bits equivalem normalmente a um byte?", "o": ["8", "1", "2", "64"]}}
+{"id": "otdb-62968e7e74", "keep": false, "motivo": "trivial_obscura"}
+{"id": "otdb-b3e4d46c66", "keep": true, "topic": "Science", "pt": {"q": "Como se chamava a imagem que servia de fundo de ambiente de trabalho predefinido no Windows XP?", "o": ["Bliss", "Azul", "Red moon desert", "Tulips"]}}
+{"id": "otdb-7a1d2c432f", "keep": false, "motivo": "lingua"}
+{"id": "otdb-b3d34909c7", "keep": true, "topic": "Science", "pt": {"q": "Que nome foi dado ao Android 4.3?", "o": ["Jelly Bean", "Lollipop", "Nutella", "Froyo"]}}
+{"id": "otdb-90e26992da", "keep": true, "topic": "Science", "pt": {"q": "O que significa o nome da empresa de tecnologia HP?", "o": ["Hewlett-Packard", "Howard Packmann", "Husker-Pollosk", "Hellman-Pohl"]}}
+{"id": "otdb-fa1d019e90", "keep": true, "topic": "Science", "pt": {"q": "Que tipo de linguagem é o HTML?", "o": ["Linguagem de marcação", "Linguagem de macros", "Linguagem de programação", "Linguagem de scripting"]}}
+{"id": "otdb-e59f97b89e", "keep": true, "topic": "Science", "pt": {"q": "Que linguagem usa o Node.js?", "o": ["JavaScript", "Java", "Java Source", "Joomla Source Code"]}}
+{"id": "otdb-3bb7c326ab", "keep": true, "topic": "Science", "pt": {"q": "O que significa o termo GPU?", "o": ["Unidade de Processamento Gráfico", "Unidade de Processador de Jogos", "Unidade Produtora de Grafite", "Unidade Gráfica Proprietária"]}}
+{"id": "otdb-6300715372", "keep": true, "topic": "Science", "pt": {"q": "A linguagem de programação «Swift» foi criada para substituir que outra linguagem de programação?", "o": ["Objective-C", "C#", "Ruby", "C++"]}}
+{"id": "otdb-fa9e6ea4de", "keep": true, "topic": "Science", "pt": {"q": "Quantos valores diferentes pode representar um único byte?", "o": ["256", "8", "1", "1024"]}}
+{"id": "otdb-97fd33ec2c", "keep": true, "topic": "Science", "pt": {"q": "Qual destes não é um valor fundamental do desenvolvimento ágil de software?", "o": ["Documentação exaustiva", "Indivíduos e interações", "Colaboração com o cliente", "Resposta à mudança"]}}
+{"id": "otdb-e706c8c4f3", "keep": false, "motivo": "lingua"}
+{"id": "otdb-9d27c9bf2a", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-f20dfaf45c", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-144fd67533", "keep": true, "topic": "Science", "pt": {"q": "Em relação aos sistemas operativos Windows, o que significa AD?", "o": ["Active Directory", "Alternative Drive", "Automated Database", "Active Department"]}}
+{"id": "otdb-807200c14a", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-d9b1e0ab49", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-dfb7e504ac", "keep": true, "topic": "Science", "pt": {"q": "Quantos quilobytes há num gigabyte (em decimal)?", "o": ["1 000 000", "1024", "1000", "1 048 576"]}}
+{"id": "otdb-941ce2af19", "keep": true, "topic": "Science", "pt": {"q": "Quantos bytes há num único kibibyte?", "o": ["1024", "2400", "1000", "1240"]}}
+{"id": "otdb-39abdde5cf", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-fe4a50c8bd", "keep": true, "topic": "Science", "pt": {"q": "Que linguagem de programação partilha o nome com uma ilha da Indonésia?", "o": ["Java", "Python", "C", "Jacarta"]}}
+{"id": "otdb-4d9b18d16f", "keep": false, "motivo": "trivial_obscura"}
+{"id": "otdb-0209dbc220", "keep": false, "motivo": "trivial_obscura"}
+{"id": "otdb-1f76acf8c9", "keep": true, "topic": "Science", "pt": {"q": "Qual era o nome da vulnerabilidade de segurança descoberta no Bash em 2014?", "o": ["Shellshock", "Heartbleed", "Bashbug", "Stagefright"]}}
+{"id": "otdb-fc401f3974", "keep": true, "topic": "Science", "pt": {"q": "Qual é o nome de código do sistema operativo móvel Android 7.0?", "o": ["Nougat", "Ice Cream Sandwich", "Jelly Bean", "Marshmallow"]}}
+{"id": "otdb-06a2a85548", "keep": true, "topic": "Science", "pt": {"q": "Qual é o termo correto para o objeto metálico colocado entre o processador e a ventoinha do processador num computador?", "o": ["Dissipador de calor", "Ventilação do CPU", "Decifrador de temperatura", "Ventilação de calor"]}}
+{"id": "otdb-d2fad07a3b", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-b22c6747b3", "keep": true, "topic": "Science", "pt": {"q": "O domínio de internet .fm é o domínio de topo de que país insular do oceano Pacífico?", "o": ["Micronésia", "Fiji", "Tuvalu", "Ilhas Marshall"]}}
+{"id": "otdb-b688a1f7c3", "keep": true, "topic": "Science", "pt": {"q": "O sistema operativo Windows foi desenvolvido por que empresa?", "o": ["Microsoft", "Apple", "Nokia", "IBM"]}}
+{"id": "otdb-b484ae4034", "keep": true, "topic": "Science", "pt": {"q": "Em informática, o que significa LAN?", "o": ["Local Area Network", "Long Antenna Node", "Light Access Node", "Land Address Navigation"]}}
+{"id": "otdb-b381da8fc9", "keep": true, "topic": "Science", "pt": {"q": "Qual é o valor máximo de um inteiro binário de 32 bits com sinal?", "o": ["2 147 483 647", "255", "2048", "9 223 372 036 854 775 807"]}}
+{"id": "otdb-8197d6ee0a", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-dee872dc3a", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-2acd9dec82", "keep": true, "topic": "Science", "pt": {"q": "No Twitter, qual era o limite original de carateres de um tweet?", "o": ["140", "120", "160", "100"]}}
+{"id": "otdb-ee5c8a67a7", "keep": true, "topic": "Video Games", "pt": {"q": "Qual é o processador principal da Sega Mega Drive / Sega Genesis?", "o": ["Motorola 68000", "Zilog Z80", "Yamaha YM2612", "Intel 8088"]}}
+{"id": "otdb-537ff1d957", "keep": false, "motivo": "trivial_obscura"}
+{"id": "otdb-0f52947458", "keep": true, "topic": "Science", "pt": {"q": "Que palavra-chave SQL se usa para obter dados de uma base de dados?", "o": ["SELECT", "INDEX", "VALUES", "EXEC"]}}
+{"id": "otdb-1c8f0a8b7c", "keep": false, "motivo": "trivial_obscura"}
+{"id": "otdb-f3bdfd30f3", "keep": true, "topic": "Science", "pt": {"q": "Qual destes sistemas operativos foi lançado primeiro?", "o": ["Mac OS", "Windows", "Linux", "OS/2"]}}
+{"id": "otdb-0f9d9640dd", "keep": true, "topic": "Science", "pt": {"q": "Qual destas pessoas NÃO foi cofundadora da Apple Inc.?", "o": ["Jonathan Ive", "Steve Jobs", "Ronald Wayne", "Steve Wozniak"]}}
+{"id": "otdb-930ee2a4ae", "keep": false, "motivo": "trivial_obscura"}
+{"id": "otdb-c7669f4787", "keep": true, "topic": "Science", "pt": {"q": "Que palavra de cinco letras é o lema da empresa de computadores IBM?", "o": ["Think", "Click", "Logic", "Pixel"]}}
+{"id": "otdb-4a0718dbad", "keep": false, "motivo": "trivial_obscura"}
+{"id": "otdb-194d01d1f5", "keep": true, "topic": "Science", "pt": {"q": "O que significa «MP» em MP3?", "o": ["Moving Picture", "Music Player", "Multi Pass", "Micro Point"]}}
+{"id": "otdb-41454b0af0", "keep": true, "topic": "Science", "pt": {"q": "Que nome se dá à camada 4 do modelo de interligação de sistemas abertos (OSI, ISO)?", "o": ["Transporte", "Sessão", "Ligação de dados", "Rede"]}}
+{"id": "otdb-a75608fb3e", "keep": true, "topic": "Science", "pt": {"q": "Que empresa foi fundada a 1 de abril de 1976 por Steve Jobs, Steve Wozniak e Ronald Wayne?", "o": ["Apple", "Microsoft", "Atari", "Commodore"]}}
+{"id": "otdb-6872dc3b29", "keep": true, "topic": "Science", "pt": {"q": "O sistema de numeração de base 16 é mais comummente conhecido como:", "o": ["Hexadecimal", "Binário", "Duodecimal", "Octal"]}}
+{"id": "otdb-0eb56fe9b4", "keep": false, "motivo": "trivial_obscura"}
+{"id": "otdb-03172166f6", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-9cbe81cd06", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-8b9fafeac7", "keep": true, "topic": "Science", "pt": {"q": "Que empresa de internet começou como uma livraria online chamada «Cadabra»?", "o": ["Amazon", "eBay", "Overstock", "Shopify"]}}
+{"id": "otdb-bb1af5660a", "keep": true, "topic": "Science", "pt": {"q": "O cientista informático neerlandês Mark Overmars é conhecido por ter criado que motor de desenvolvimento de jogos?", "o": ["Game Maker", "Stencyl", "Construct", "Torque 2D"]}}
+{"id": "otdb-079186f461", "keep": true, "topic": "Science", "pt": {"q": "Que tipo de memória se usa na memória cache?", "o": ["SRAM", "DRAM", "ROM", "Flash"]}}
+{"id": "otdb-9826119227", "keep": true, "topic": "Science", "pt": {"q": "Na linguagem de programação Java, qual destas palavras-chave se coloca numa variável para garantir que não é modificada?", "o": ["final", "static", "private", "public"]}}
+{"id": "otdb-b433381af9", "keep": true, "topic": "Science", "pt": {"q": "Como se chama o processo que envia um qubit de informação usando dois bits de informação clássica?", "o": ["Teletransporte quântico", "Codificação superdensa", "Entrelaçamento quântico", "Programação quântica"]}}
+{"id": "otdb-be89b986d3", "keep": true, "topic": "Science", "pt": {"q": "O que significa o «S» no algoritmo de encriptação RSA?", "o": ["Shamir", "Secure", "Schottky", "Stable"]}}
+{"id": "otdb-9fd881a145", "keep": false, "motivo": "trivial_obscura"}
+{"id": "otdb-cf68dc8c7e", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-e0f46190a1", "keep": true, "topic": "Science", "pt": {"q": "Em que dispositivo de hardware se encontra o chip da BIOS?", "o": ["Placa-mãe", "Disco rígido", "Unidade Central de Processamento", "Unidade de Processamento Gráfico"]}}
+{"id": "otdb-7ccfc7be97", "keep": true, "topic": "Science", "pt": {"q": "Qual destes não é um nome oficial de desenvolvimento de uma versão do Ubuntu?", "o": ["Mystic Mansion", "Trusty Tahr", "Utopic Unicorn", "Wily Werewolf"]}}
+{"id": "otdb-a46562e253", "keep": false, "motivo": "trivial_obscura"}
+{"id": "otdb-430e347405", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-c5c1748693", "keep": true, "topic": "Science", "pt": {"q": "Qual é o atalho de teclado mais usado para a função «Copiar» no Windows?", "o": ["Ctrl + C", "Ctrl + X", "Alt + C", "Alt + X"]}}
+{"id": "otdb-c56f902f5e", "keep": true, "topic": "Science", "pt": {"q": "Se escrevesses software nesta linguagem, só poderias escrever 0 e 1.", "o": ["Binário", "JavaScript", "C++", "Python"]}}
+{"id": "otdb-0a4e9e9d04", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-a67a7a076a", "keep": true, "topic": "Science", "pt": {"q": "A que estrutura de dados se aplica o princípio FILO?", "o": ["Pilha", "Fila", "Heap", "Árvore"]}}
+{"id": "otdb-87b2f96378", "keep": true, "topic": "Science", "pt": {"q": "Qual destes foi o nome de uma falha descoberta em abril de 2014 na biblioteca de criptografia pública OpenSSL?", "o": ["Heartbleed", "Shellshock", "Corrupted Blood", "Shellscript"]}}
+{"id": "otdb-0454c790d5", "keep": true, "topic": "Science", "pt": {"q": "Qual dos seguintes NÃO é um algoritmo de ciência da computação?", "o": ["Float Sort", "Bubble Sort", "Merge Sort", "Quick Sort"]}}
+{"id": "otdb-efe002f256", "keep": true, "topic": "Science", "pt": {"q": "O que significava originalmente o nome da rede de anonimato Tor?", "o": ["The Onion Router", "The Only Router", "The Orange Router", "The Ominous Router"]}}
+{"id": "otdb-bf20132216", "keep": true, "topic": "Science", "pt": {"q": "Quem é o fundador da Palantir?", "o": ["Peter Thiel", "Mark Zuckerberg", "Marc Benioff", "Jack Dorsey"]}}
+{"id": "otdb-d4a572de68", "keep": true, "topic": "Science", "pt": {"q": "Que linguagem de programação principal usa o Unreal Engine 4?", "o": ["C++", "Assembly", "C#", "ECMAScript"]}}
+{"id": "otdb-f92374f1fb", "keep": true, "topic": "Science", "pt": {"q": "A que linguagem de programação associarias a framework Django?", "o": ["Python", "C#", "C++", "Java"]}}
+{"id": "otdb-a2b212ef98", "keep": true, "topic": "Science", "pt": {"q": "O que significa GHz?", "o": ["Gigahertz", "Gigahotz", "Gigahetz", "Gigahatz"]}}
+{"id": "otdb-86b1a02551", "keep": false, "motivo": "trivial_obscura"}
+{"id": "otdb-ce6d43f418", "keep": true, "topic": "Science", "pt": {"q": "Em que ano adquiriu a Lenovo a divisão de computadores pessoais da IBM, incluindo a linha de portáteis e tablets ThinkPad?", "o": ["2005", "1999", "2002", "2008"]}}
+{"id": "otdb-0292636f05", "keep": true, "topic": "Science", "pt": {"q": "O domínio .rs é o domínio de topo de que país?", "o": ["Sérvia", "Roménia", "Rússia", "Ruanda"]}}
+{"id": "otdb-69f60dd638", "keep": true, "topic": "Science", "pt": {"q": "O que é conhecido como «o cérebro» do computador?", "o": ["Unidade Central de Processamento", "Placa-mãe", "Unidade de Processamento Gráfico", "Teclado"]}}
+{"id": "otdb-e9b895682e", "keep": true, "topic": "Science", "pt": {"q": "O domínio .at é o domínio de topo de que país?", "o": ["Áustria", "Argentina", "Austrália", "Angola"]}}
+{"id": "otdb-2bbda1d795", "keep": false, "motivo": "lingua"}
+{"id": "otdb-4dae70bba5", "keep": false, "motivo": "trivial_obscura"}
+{"id": "otdb-e90a01e9b6", "keep": true, "topic": "Science", "pt": {"q": "O que significa RAID?", "o": ["Redundant Array of Independent Disks", "Rapid Access for Indexed Devices", "Range of Applications with Identical Designs", "Randomized Abstract Identification Description"]}}
+{"id": "otdb-1fda96249a", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-0cfbd0f3e7", "keep": true, "topic": "Science", "pt": {"q": "Originalmente usada em adaptadores PCM, qual é a frequência padrão de amostragem de áudio no formato Compact Disc Digital Audio?", "o": ["44,1 kHz", "32,0 kHz", "1,5 MHz", "20,5 kHz"]}}
+{"id": "otdb-98d675c295", "keep": true, "topic": "Science", "pt": {"q": "Qual é o computador mais antigo destes, por data de lançamento?", "o": ["TRS-80", "Commodore 64", "ZX Spectrum", "Apple III"]}}
+{"id": "otdb-3f5d037301", "keep": true, "topic": "Science", "pt": {"q": "Em CSS, qual destes valores NÃO pode ser usado com a propriedade «position»?", "o": ["center", "static", "absolute", "relative"]}}
+{"id": "otdb-d71ad43c40", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-15819287c3", "keep": false, "motivo": "eua"}
+{"id": "otdb-208d749ee5", "keep": false, "motivo": "trivial_obscura"}
+{"id": "otdb-7d0f08d2be", "keep": false, "motivo": "trivial_obscura"}
+{"id": "otdb-0d1b6a64ea", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-d6687c3df2", "keep": true, "topic": "Science", "pt": {"q": "Qual é o nome da camada 7 do modelo OSI?", "o": ["Aplicação", "Sessão", "Rede", "Apresentação"]}}
+{"id": "otdb-29cfcf3966", "keep": false, "motivo": "lingua"}
+{"id": "otdb-a752136e8a", "keep": true, "topic": "Science", "pt": {"q": "Em design web, o que significa CSS?", "o": ["Folhas de Estilo em Cascata", "Counter Strike: Source", "Folhas de Estilo Corretivas", "Folhas de Estilo de Computador"]}}
+{"id": "otdb-085e707c89", "keep": true, "topic": "Science", "pt": {"q": "Que matemático recusou a Medalha Fields?", "o": ["Grigori Perelman", "Andrew Wiles", "Terence Tao", "Edward Witten"]}}
+{"id": "otdb-875122a444", "keep": true, "topic": "Science", "pt": {"q": "Que letra grega se usa para representar um somatório?", "o": ["Sigma", "Delta", "Alfa", "Ómega"]}}
+{"id": "otdb-230be34d0e", "keep": true, "topic": "Science", "pt": {"q": "Quantos lados tem um heptágono?", "o": ["7", "8", "6", "5"]}}
+{"id": "otdb-cd3aefb16f", "keep": true, "topic": "Science", "pt": {"q": "Como se chama um polígono de oito lados?", "o": ["Octógono", "Hexágono", "Nonágono", "Heptágono"]}}
+{"id": "otdb-b569bb7911", "keep": true, "topic": "Science", "pt": {"q": "Quantos lados tem um pentágono?", "o": ["5", "9", "6", "4"]}}
+{"id": "otdb-495c525f49", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-5b6847de0e", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-df58017d88", "keep": true, "topic": "Science", "pt": {"q": "Qual é o valor aproximado da constante matemática e?", "o": ["2,72", "3,14", "1,62", "1,41"]}}
+{"id": "otdb-9ea1e78f50", "keep": true, "topic": "Science", "pt": {"q": "Qual é a raiz quadrada de 49?", "o": ["7", "4", "12", "9"]}}
+{"id": "otdb-a4a03c7bd1", "keep": true, "topic": "Science", "pt": {"q": "Qual é o menor número que se pode exprimir como soma de dois cubos positivos de duas maneiras diferentes?", "o": ["1729", "91", "561", "4104"]}}
+{"id": "otdb-036bf84a58", "keep": false, "motivo": "lingua"}
+{"id": "otdb-e909241eea", "keep": true, "topic": "Science", "pt": {"q": "Qual é o número primo que vem a seguir ao 19?", "o": ["23", "25", "21", "27"]}}
+{"id": "otdb-80b7757d97", "keep": false, "motivo": "trivial_obscura"}
+{"id": "otdb-7e1ff76738", "keep": true, "topic": "Science", "pt": {"q": "Qual é o menor número de lados que um polígono pode ter?", "o": ["3", "1", "2", "7"]}}
+{"id": "otdb-caba7a5421", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-03bec6a6bf", "keep": true, "topic": "Science", "pt": {"q": "Quem demonstrou o Último Teorema de Fermat?", "o": ["Andrew Wiles", "Leonhard Euler", "Carl Friedrich Gauss", "Srinivasa Ramanujan"]}}
+{"id": "otdb-fbe5a7cdc1", "keep": true, "topic": "Science", "pt": {"q": "Quantos graus tem um círculo completo?", "o": ["360", "180", "90", "720"]}}
+{"id": "otdb-7e9dddb82d", "keep": true, "topic": "Science", "pt": {"q": "Quantas faces quadradas tem um cubo?", "o": ["6", "4", "8", "10"]}}
+{"id": "otdb-0f1af15c3b", "keep": true, "topic": "Science", "pt": {"q": "Qual destas distribuições de probabilidade NÃO é discreta?", "o": ["Normal", "Binomial", "Poisson", "Hipergeométrica"]}}
+{"id": "otdb-4169ccd029", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-74d02362a6", "keep": true, "topic": "Science", "pt": {"q": "A constante matemática conhecida como «Número de Ouro» é mais comummente representada por que letra grega?", "o": ["Φ (fi)", "π (pi)", "Ψ (psi)", "Τ (tau)"]}}
+{"id": "otdb-f8579fd86d", "keep": false, "motivo": "lingua"}
+{"id": "otdb-be73c28414", "keep": true, "topic": "Science", "pt": {"q": "Qual é o primeiro nome do matemático Euler?", "o": ["Leonhard", "Lionel", "Andrin", "Ajan"]}}
+{"id": "otdb-3fac3289ae", "keep": true, "topic": "Science", "pt": {"q": "Quantos lados tem uma fita de Möbius?", "o": ["1", "2", "3", "4"]}}
+{"id": "otdb-bf81eb7d0e", "keep": true, "topic": "Science", "pt": {"q": "Que forma fazem sen(x) ou cos(x) num gráfico?", "o": ["Ondas", "Uma parábola", "Uma reta", "Ziguezagues"]}}
+{"id": "otdb-d36db780a8", "keep": true, "topic": "Science", "pt": {"q": "Em algarismos romanos, a que número equivale XL?", "o": ["40", "60", "15", "90"]}}
+{"id": "otdb-6270f7a67b", "keep": true, "topic": "Science", "pt": {"q": "Arredondado ao número inteiro mais próximo, quantos radianos tem uma circunferência completa?", "o": ["6", "3", "4", "5"]}}
+{"id": "otdb-649189fe7c", "keep": true, "topic": "Science", "pt": {"q": "Que tipo de função é x²+2x+1?", "o": ["Quadrática", "Racional", "Linear", "Exponencial"]}}
+{"id": "otdb-4ee9d427b6", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-537f9dec6f", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-271d36f17a", "keep": true, "topic": "Science", "pt": {"q": "Como se chama um polígono de nove lados?", "o": ["Nonágono", "Hexágono", "Octógono", "Heptágono"]}}
+{"id": "otdb-09ff77bc1b", "keep": true, "topic": "Science", "pt": {"q": "Numa distribuição normal, 95% dos dados situam-se dentro de quantos desvios-padrão da média?", "o": ["2", "1", "3", "4"]}}
+{"id": "otdb-c141f28e84", "keep": true, "topic": "Science", "pt": {"q": "A integração é a operação inversa de que operação matemática?", "o": ["Derivação", "Divisão", "Desvio-padrão", "Multiplicação"]}}
+{"id": "otdb-dd900182f3", "keep": true, "topic": "Science", "pt": {"q": "Qual dos seguintes dados NÃO é um sólido platónico?", "o": ["Dado de 10 faces", "Dado de 12 faces", "Dado de 20 faces", "Dado de 8 faces"]}}
+{"id": "otdb-6674e350d3", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-845ef277ea", "keep": true, "topic": "Science", "pt": {"q": "Qual dos seguintes matemáticos deu contributos importantes para a teoria dos jogos?", "o": ["John von Neumann", "Carl Friedrich Gauss", "Leonhard Euler", "Stefan Banach"]}}
+{"id": "otdb-cb442700a2", "keep": true, "topic": "Science", "pt": {"q": "O matemático francês Évariste Galois é conhecido sobretudo pelo seu trabalho em que área?", "o": ["Teoria de Galois", "Frações contínuas de Galois", "Método de Galois para equações diferenciais parciais", "Integração abeliana"]}}
+{"id": "otdb-ade0b93783", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-ef0ab57ffd", "keep": true, "topic": "Science", "pt": {"q": "O número decimal 31 em hexadecimal seria qual?", "o": ["1F", "3D", "2E", "1B"]}}
+{"id": "otdb-a89d8b4cfa", "keep": false, "motivo": "trivial_obscura"}
+{"id": "otdb-1e50a8173f", "keep": true, "topic": "Science", "pt": {"q": "Qual é a representação alfanumérica do número imaginário?", "o": ["i", "e", "n", "x"]}}
+{"id": "otdb-98ff6a81da", "keep": true, "topic": "Science", "pt": {"q": "Quantos livros tem a obra «Elementos» de Euclides?", "o": ["13", "8", "10", "17"]}}
+{"id": "otdb-c45ee6300d", "keep": true, "topic": "Science", "pt": {"q": "Qual é a derivada de sen(x)?", "o": ["cos(x)", "cosec(x)", "-cos(x)", "-sen(x)"]}}
+{"id": "otdb-f1d2e67021", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-33498b36d0", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-671ef55ee2", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-b8cd631566", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-7d6a3b1d17", "keep": true, "topic": "Science", "pt": {"q": "Que matemático grego correu nu pelas ruas de Siracusa a gritar «Eureka» depois de descobrir o princípio do deslocamento?", "o": ["Arquimedes", "Euclides", "Homero", "Eratóstenes"]}}
+{"id": "otdb-0340092038", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-69eb443e61", "keep": true, "topic": "Science", "pt": {"q": "Qual é o algarismo romano para 500?", "o": ["D", "L", "C", "X"]}}
+{"id": "otdb-e281dcb1b2", "keep": true, "topic": "Science", "pt": {"q": "Qual dos seguintes matemáticos famosos morreu num duelo aos 20 anos?", "o": ["Galois", "Abel", "Euler", "Gauss"]}}
+{"id": "otdb-a3248e3b44", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-33f644e59f", "keep": true, "topic": "Science", "pt": {"q": "Quantos zeptómetros há num femtómetro?", "o": ["1 000 000", "10", "1 000 000 000", "1000"]}}
+{"id": "otdb-0edd10b919", "keep": true, "topic": "Science", "pt": {"q": "Quais são os primeiros 6 dígitos do número «pi»?", "o": ["3,14159", "3,14169", "3,12423", "3,25812"]}}

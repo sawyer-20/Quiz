@@ -1,0 +1,1052 @@
+[
+{
+"id": "wd-lua-Q15034",
+"pt": {
+"q": "Mimas é uma lua de que planeta?",
+"o": [
+"Marte",
+"Saturno",
+"Júpiter",
+"Urano"
+]
+},
+"en": {
+"q": "Mimas is a moon of which planet?",
+"o": [
+"Mars",
+"Saturn",
+"Jupiter",
+"Uranus"
+]
+}
+},
+{
+"id": "otdb-2d035b693b",
+"pt": {
+"q": "Qual é o nome oficial da estrela mais próxima do Polo Norte celeste?",
+"o": [
+"Eridanus",
+"Gamma Cephei",
+"Polaris",
+"Iota Cephei"
+]
+},
+"en": {
+"q": "What is the official name of the star located closest to the North Celestial Pole?",
+"o": [
+"Eridanus",
+"Gamma Cephei",
+"Polaris",
+"Iota Cephei"
+]
+}
+},
+{
+"id": "wd-lua-Q15662",
+"pt": {
+"q": "Puck é uma lua de que planeta?",
+"o": [
+"Neptuno",
+"Saturno",
+"Urano",
+"Marte"
+]
+},
+"en": {
+"q": "Puck is a moon of which planet?",
+"o": [
+"Neptune",
+"Saturn",
+"Uranus",
+"Mars"
+]
+}
+},
+{
+"id": "otdb-0b79e7f51a",
+"pt": {
+"q": "Qual é o elemento mais abundante no universo?",
+"o": [
+"Hidrogénio",
+"Lítio",
+"Hélio",
+"Oxigénio"
+]
+},
+"en": {
+"q": "Which is the most abundant element in the universe?",
+"o": [
+"Hydrogen",
+"Lithium",
+"Helium",
+"Oxygen"
+]
+}
+},
+{
+"id": "otdb-b97ce62988",
+"pt": {
+"q": "Quanto mede um ano-luz?",
+"o": [
+"501,2 milhões de milhas",
+"105,40 anos terrestres",
+"9,461 biliões de quilómetros",
+"1 UA"
+]
+},
+"en": {
+"q": "How long is a light-year?",
+"o": [
+"501.2 Million Miles",
+"105.40 Earth-years",
+"9.461 Trillion Kilometres",
+"1 AU"
+]
+}
+},
+{
+"id": "wd-lua-Q17958",
+"pt": {
+"q": "Jápeto é uma lua de que planeta?",
+"o": [
+"Saturno",
+"Urano",
+"Júpiter",
+"Marte"
+]
+},
+"en": {
+"q": "Iapetus is a moon of which planet?",
+"o": [
+"Saturn",
+"Uranus",
+"Jupiter",
+"Mars"
+]
+}
+},
+{
+"id": "wd-lua-Q15616",
+"pt": {
+"q": "Ofélia é uma lua de que planeta?",
+"o": [
+"Júpiter",
+"Saturno",
+"Marte",
+"Urano"
+]
+},
+"en": {
+"q": "Ophelia is a moon of which planet?",
+"o": [
+"Jupiter",
+"Saturn",
+"Mars",
+"Uranus"
+]
+}
+},
+{
+"id": "wd-lua-Q3359",
+"pt": {
+"q": "Tritão é uma lua de que planeta?",
+"o": [
+"Saturno",
+"Júpiter",
+"Urano",
+"Neptuno"
+]
+},
+"en": {
+"q": "Triton is a moon of which planet?",
+"o": [
+"Saturn",
+"Jupiter",
+"Uranus",
+"Neptune"
+]
+}
+},
+{
+"id": "wd-lua-Q3322",
+"pt": {
+"q": "Titânia é uma lua de que planeta?",
+"o": [
+"Saturno",
+"Urano",
+"Júpiter",
+"Neptuno"
+]
+},
+"en": {
+"q": "Titania is a moon of which planet?",
+"o": [
+"Saturn",
+"Uranus",
+"Jupiter",
+"Neptune"
+]
+}
+},
+{
+"id": "otdb-3d048f6b02",
+"pt": {
+"q": "Quantos planetas existem no nosso Sistema Solar?",
+"o": [
+"Dez",
+"Sete",
+"Nove",
+"Oito"
+]
+},
+"en": {
+"q": "How many planets are in our Solar System?",
+"o": [
+"Ten",
+"Seven",
+"Nine",
+"Eight"
+]
+}
+},
+{
+"id": "wd-lua-Q3169",
+"pt": {
+"q": "Ganimedes é uma lua de que planeta?",
+"o": [
+"Júpiter",
+"Urano",
+"Neptuno",
+"Saturno"
+]
+},
+"en": {
+"q": "Ganymede is a moon of which planet?",
+"o": [
+"Jupiter",
+"Uranus",
+"Neptune",
+"Saturn"
+]
+}
+},
+{
+"id": "otdb-fafcbf676c",
+"pt": {
+"q": "Em que ano se aproximou da Terra, pela última vez, o Cometa Halley, que só voltará a aparecer em 2061?",
+"o": [
+"2001",
+"1909",
+"1986",
+"1942"
+]
+},
+"en": {
+"q": "In what year did Halley's Comet, which will not appear again until the year 2061, previously approach Earth?",
+"o": [
+"2001",
+"1909",
+"1986",
+"1942"
+]
+}
+},
+{
+"id": "wd-lua-Q17975",
+"pt": {
+"q": "Febe é uma lua de que planeta?",
+"o": [
+"Saturno",
+"Urano",
+"Júpiter",
+"Neptuno"
+]
+},
+"en": {
+"q": "Phoebe is a moon of which planet?",
+"o": [
+"Saturn",
+"Uranus",
+"Jupiter",
+"Neptune"
+]
+}
+},
+{
+"id": "otdb-46b244f764",
+"pt": {
+"q": "Arredondado ao minuto, quanto tempo demora a luz a viajar do Sol até à Terra?",
+"o": [
+"6 minutos",
+"12 minutos",
+"8 minutos",
+"2 minutos"
+]
+},
+"en": {
+"q": "To the nearest minute, how long does it take for light to travel from the Sun to the Earth?",
+"o": [
+"6 Minutes",
+"12 Minutes",
+"8 Minutes",
+"2 Minutes"
+]
+}
+},
+{
+"id": "wd-lua-Q3123",
+"pt": {
+"q": "Io é uma lua de que planeta?",
+"o": [
+"Júpiter",
+"Saturno",
+"Marte",
+"Neptuno"
+]
+},
+"en": {
+"q": "Io is a moon of which planet?",
+"o": [
+"Jupiter",
+"Saturn",
+"Mars",
+"Neptune"
+]
+}
+},
+{
+"id": "wd-descobridor-Q15050",
+"pt": {
+"q": "Quem descobriu Reia, lua de um planeta do Sistema Solar?",
+"o": [
+"Edward Barnard",
+"Giovanni Domenico Cassini",
+"William Herschel",
+"Gerard Kuiper"
+]
+},
+"en": {
+"q": "Who discovered Rhea, a moon of a Solar System planet?",
+"o": [
+"Edward Emerson Barnard",
+"Giovanni Domenico Cassini",
+"William Herschel",
+"Gerard Kuiper"
+]
+}
+},
+{
+"id": "wd-lua-Q3343",
+"pt": {
+"q": "Ariel é uma lua de que planeta?",
+"o": [
+"Urano",
+"Neptuno",
+"Marte",
+"Júpiter"
+]
+},
+"en": {
+"q": "Ariel is a moon of which planet?",
+"o": [
+"Uranus",
+"Neptune",
+"Mars",
+"Jupiter"
+]
+}
+},
+{
+"id": "wd-lua-Q15050",
+"pt": {
+"q": "Reia é uma lua de que planeta?",
+"o": [
+"Neptuno",
+"Saturno",
+"Marte",
+"Júpiter"
+]
+},
+"en": {
+"q": "Rhea is a moon of which planet?",
+"o": [
+"Neptune",
+"Saturn",
+"Mars",
+"Jupiter"
+]
+}
+},
+{
+"id": "otdb-3c46aa3ebf",
+"pt": {
+"q": "Em que ano aterraram na Lua Neil Armstrong e Buzz Aldrin?",
+"o": [
+"1965",
+"1969",
+"1966",
+"1973"
+]
+},
+"en": {
+"q": "In what year did Neil Armstrong and Buzz Aldrin land on the moon?",
+"o": [
+"1965",
+"1969",
+"1966",
+"1973"
+]
+}
+},
+{
+"id": "otdb-4d5425a580",
+"pt": {
+"q": "Que vaivém espacial da NASA se desintegrou na reentrada na atmosfera a 1 de fevereiro de 2003?",
+"o": [
+"Columbia",
+"Challenger",
+"Discovery",
+"Endeavour"
+]
+},
+"en": {
+"q": "Which NASA Space Shuttle broke apart during atmospheric re-entry on February 1, 2003? ",
+"o": [
+"Columbia",
+"Challenger",
+"Discovery",
+"Endeavour"
+]
+}
+},
+{
+"id": "wd-lua-Q3338",
+"pt": {
+"q": "Umbriel é uma lua de que planeta?",
+"o": [
+"Neptuno",
+"Júpiter",
+"Saturno",
+"Urano"
+]
+},
+"en": {
+"q": "Umbriel is a moon of which planet?",
+"o": [
+"Neptune",
+"Jupiter",
+"Saturn",
+"Uranus"
+]
+}
+},
+{
+"id": "wd-lua-Q3143",
+"pt": {
+"q": "Europa é uma lua de que planeta?",
+"o": [
+"Júpiter",
+"Marte",
+"Urano",
+"Saturno"
+]
+},
+"en": {
+"q": "Europa is a moon of which planet?",
+"o": [
+"Jupiter",
+"Mars",
+"Uranus",
+"Saturn"
+]
+}
+},
+{
+"id": "wd-descobridor-Q15047",
+"pt": {
+"q": "Quem descobriu Tétis, lua de um planeta do Sistema Solar?",
+"o": [
+"William Herschel",
+"Giovanni Domenico Cassini",
+"William Henry Pickering",
+"Gerard Kuiper"
+]
+},
+"en": {
+"q": "Who discovered Tethys, a moon of a Solar System planet?",
+"o": [
+"William Herschel",
+"Giovanni Domenico Cassini",
+"William Henry Pickering",
+"Gerard Kuiper"
+]
+}
+},
+{
+"id": "otdb-2d4f2bacd4",
+"pt": {
+"q": "As luas Miranda, Ariel, Umbriel, Titânia e Oberon orbitam que planeta?",
+"o": [
+"Urano",
+"Vénus",
+"Júpiter",
+"Neptuno"
+]
+},
+"en": {
+"q": "The moons, Miranda, Ariel, Umbriel, Titania and Oberon orbit which planet?",
+"o": [
+"Uranus",
+"Venus",
+"Jupiter",
+"Neptune"
+]
+}
+},
+{
+"id": "wd-descobridor-Q3257",
+"pt": {
+"q": "Quem descobriu Amalteia, lua de um planeta do Sistema Solar?",
+"o": [
+"Christiaan Huygens",
+"William Lassell",
+"Edward Barnard",
+"Galileu Galilei"
+]
+},
+"en": {
+"q": "Who discovered Amalthea, a moon of a Solar System planet?",
+"o": [
+"Christiaan Huygens",
+"William Lassell",
+"Edward Emerson Barnard",
+"Galileo Galilei"
+]
+}
+},
+{
+"id": "wd-descobridor-Q2565",
+"pt": {
+"q": "Quem descobriu Titã, lua de um planeta do Sistema Solar?",
+"o": [
+"Asaph Hall",
+"William Herschel",
+"William Lassell",
+"Christiaan Huygens"
+]
+},
+"en": {
+"q": "Who discovered Titan, a moon of a Solar System planet?",
+"o": [
+"Asaph Hall",
+"William Herschel",
+"William Lassell",
+"Christiaan Huygens"
+]
+}
+},
+{
+"id": "otdb-86d32a0b53",
+"pt": {
+"q": "Qual foi a primeira missão Apollo a aterrar na Lua?",
+"o": [
+"Apollo 10",
+"Apollo 9",
+"Apollo 11",
+"Apollo 13"
+]
+},
+"en": {
+"q": "Which Apollo mission was the first one to land on the Moon?",
+"o": [
+"Apollo 10",
+"Apollo 9",
+"Apollo 11",
+"Apollo 13"
+]
+}
+},
+{
+"id": "wd-descobridor-Q3303",
+"pt": {
+"q": "Quem descobriu Encélado, lua de um planeta do Sistema Solar?",
+"o": [
+"Giovanni Domenico Cassini",
+"Edward Barnard",
+"Asaph Hall",
+"William Herschel"
+]
+},
+"en": {
+"q": "Who discovered Enceladus, a moon of a Solar System planet?",
+"o": [
+"Giovanni Domenico Cassini",
+"Edward Emerson Barnard",
+"Asaph Hall",
+"William Herschel"
+]
+}
+},
+{
+"id": "otdb-bdd8624d66",
+"pt": {
+"q": "Que constelação contém o centro da Via Láctea?",
+"o": [
+"Ofiúco",
+"Capricórnio",
+"Sagitário",
+"Escorpião"
+]
+},
+"en": {
+"q": "Which constellation contains the center of the Milky Way?",
+"o": [
+"Ophiuchus",
+"Capricornus",
+"Sagittarius",
+"Scorpius"
+]
+}
+},
+{
+"id": "wd-lua-Q13938622",
+"pt": {
+"q": "Hipocampo é uma lua de que planeta?",
+"o": [
+"Saturno",
+"Marte",
+"Neptuno",
+"Júpiter"
+]
+},
+"en": {
+"q": "Hippocamp is a moon of which planet?",
+"o": [
+"Saturn",
+"Mars",
+"Neptune",
+"Jupiter"
+]
+}
+},
+{
+"id": "otdb-d1254f9e7f",
+"pt": {
+"q": "De que dois elementos é constituído sobretudo o Sol?",
+"o": [
+"Carbono e azoto",
+"Hidrogénio e azoto",
+"Carbono e hélio",
+"Hidrogénio e hélio"
+]
+},
+"en": {
+"q": "The Sun consists of mostly which two elements?",
+"o": [
+"Carbon & Nitrogen",
+"Hydrogen & Nitrogen",
+"Carbon & Helium",
+"Hydrogen & Helium"
+]
+}
+},
+{
+"id": "wd-descobridor-Q3352",
+"pt": {
+"q": "Quem descobriu Miranda, lua de um planeta do Sistema Solar?",
+"o": [
+"Asaph Hall",
+"Gerard Kuiper",
+"William Lassell",
+"Christiaan Huygens"
+]
+},
+"en": {
+"q": "Who discovered Miranda, a moon of a Solar System planet?",
+"o": [
+"Asaph Hall",
+"Gerard Kuiper",
+"William Lassell",
+"Christiaan Huygens"
+]
+}
+},
+{
+"id": "wd-lua-Q3134",
+"pt": {
+"q": "Calisto é uma lua de que planeta?",
+"o": [
+"Neptuno",
+"Saturno",
+"Júpiter",
+"Marte"
+]
+},
+"en": {
+"q": "Callisto is a moon of which planet?",
+"o": [
+"Neptune",
+"Saturn",
+"Jupiter",
+"Mars"
+]
+}
+},
+{
+"id": "wd-descobridor-Q3332",
+"pt": {
+"q": "Quem descobriu Oberon, lua de um planeta do Sistema Solar?",
+"o": [
+"William Henry Pickering",
+"William Herschel",
+"William Lassell",
+"Christiaan Huygens"
+]
+},
+"en": {
+"q": "Who discovered Oberon, a moon of a Solar System planet?",
+"o": [
+"William Henry Pickering",
+"William Herschel",
+"William Lassell",
+"Christiaan Huygens"
+]
+}
+},
+{
+"id": "wd-descobridor-Q17975",
+"pt": {
+"q": "Quem descobriu Febe, lua de um planeta do Sistema Solar?",
+"o": [
+"Galileu Galilei",
+"William Henry Pickering",
+"Asaph Hall",
+"Giovanni Domenico Cassini"
+]
+},
+"en": {
+"q": "Who discovered Phoebe, a moon of a Solar System planet?",
+"o": [
+"Galileo Galilei",
+"William Henry Pickering",
+"Asaph Hall",
+"Giovanni Domenico Cassini"
+]
+}
+},
+{
+"id": "wd-lua-Q15629",
+"pt": {
+"q": "Bianca é uma lua de que planeta?",
+"o": [
+"Neptuno",
+"Urano",
+"Saturno",
+"Júpiter"
+]
+},
+"en": {
+"q": "Bianca is a moon of which planet?",
+"o": [
+"Neptune",
+"Uranus",
+"Saturn",
+"Jupiter"
+]
+}
+},
+{
+"id": "wd-lua-Q15040",
+"pt": {
+"q": "Dione é uma lua de que planeta?",
+"o": [
+"Neptuno",
+"Urano",
+"Saturno",
+"Júpiter"
+]
+},
+"en": {
+"q": "Dione is a moon of which planet?",
+"o": [
+"Neptune",
+"Uranus",
+"Saturn",
+"Jupiter"
+]
+}
+},
+{
+"id": "wd-lua-Q15613",
+"pt": {
+"q": "Cordélia é uma lua de que planeta?",
+"o": [
+"Júpiter",
+"Neptuno",
+"Urano",
+"Marte"
+]
+},
+"en": {
+"q": "Cordelia is a moon of which planet?",
+"o": [
+"Jupiter",
+"Neptune",
+"Uranus",
+"Mars"
+]
+}
+},
+{
+"id": "otdb-3773026b89",
+"pt": {
+"q": "Entre que dois planetas fica a cintura de asteroides?",
+"o": [
+"Júpiter e Saturno",
+"Terra e Marte",
+"Mercúrio e Vénus",
+"Marte e Júpiter"
+]
+},
+"en": {
+"q": "The asteroid belt is located between which two planets?",
+"o": [
+"Jupiter and Saturn",
+"Earth and Mars",
+"Mercury and Venus",
+"Mars and Jupiter"
+]
+}
+},
+{
+"id": "wd-descobridor-Q3134",
+"pt": {
+"q": "Quem descobriu Calisto, lua de um planeta do Sistema Solar?",
+"o": [
+"Giovanni Domenico Cassini",
+"William Henry Pickering",
+"Galileu Galilei",
+"Asaph Hall"
+]
+},
+"en": {
+"q": "Who discovered Callisto, a moon of a Solar System planet?",
+"o": [
+"Giovanni Domenico Cassini",
+"William Henry Pickering",
+"Galileo Galilei",
+"Asaph Hall"
+]
+}
+},
+{
+"id": "otdb-83826d66e4",
+"pt": {
+"q": "No voo de teste do Falcon Heavy, qual foi a única parte da operação que falhou?",
+"o": [
+"A ignição e a descolagem",
+"A aterragem do núcleo central",
+"A colocação do Starman em órbita",
+"A aterragem dos propulsores laterais"
+]
+},
+"en": {
+"q": "When the Falcon Heavy was launched on its test flight, what was the only part of the operation that failed?",
+"o": [
+"Ignition and Liftoff",
+"Center Core Landing",
+"Deployment of Starman",
+"Side Booster Landing"
+]
+}
+},
+{
+"id": "otdb-cbc64421d3",
+"pt": {
+"q": "Aproximadamente quanto dura um ano em Urano?",
+"o": [
+"47 anos terrestres",
+"62 anos terrestres",
+"84 anos terrestres",
+"109 anos terrestres"
+]
+},
+"en": {
+"q": "Approximately how long is a year on Uranus?",
+"o": [
+"47 Earth years",
+"62 Earth years",
+"84 Earth years",
+"109 Earth years"
+]
+}
+},
+{
+"id": "otdb-2a2d080e44",
+"pt": {
+"q": "Como se chama o invólucro gasoso de um cometa (que origina a cauda)?",
+"o": [
+"A esteira",
+"O refluxo",
+"A coma",
+"A ablativa"
+]
+},
+"en": {
+"q": "A comet's gaseous envelope (which creates the tail) is called what?",
+"o": [
+"The wake",
+"The backwash",
+"The coma",
+"The ablative"
+]
+}
+},
+{
+"id": "otdb-bd30c18759",
+"pt": {
+"q": "Quantas alunagens tripuladas houve?",
+"o": [
+"7",
+"6",
+"1",
+"3"
+]
+},
+"en": {
+"q": "How many manned moon landings have there been?",
+"o": [
+"7",
+"6",
+"1",
+"3"
+]
+}
+},
+{
+"id": "otdb-cb5bcb316f",
+"pt": {
+"q": "Ganimedes é a maior lua de que planeta?",
+"o": [
+"Júpiter",
+"Neptuno",
+"Urano",
+"Marte"
+]
+},
+"en": {
+"q": "Ganymede is the largest moon of which planet?",
+"o": [
+"Jupiter",
+"Neptune",
+"Uranus",
+"Mars"
+]
+}
+},
+{
+"id": "wd-descobridor-Q7547",
+"pt": {
+"q": "Quem descobriu Fobos, lua de um planeta do Sistema Solar?",
+"o": [
+"Giovanni Domenico Cassini",
+"Asaph Hall",
+"William Henry Pickering",
+"William Lassell"
+]
+},
+"en": {
+"q": "Who discovered Phobos, a moon of a Solar System planet?",
+"o": [
+"Giovanni Domenico Cassini",
+"Asaph Hall",
+"William Henry Pickering",
+"William Lassell"
+]
+}
+},
+{
+"id": "otdb-f07d96554a",
+"pt": {
+"q": "As estrelas são constituídas principalmente por hidrogénio e que outro gás?",
+"o": [
+"Oxigénio",
+"Azoto",
+"Árgon",
+"Hélio"
+]
+},
+"en": {
+"q": "Stars consist mainly of hydrogen and which other gas?",
+"o": [
+"Oxygen",
+"Nitrogen",
+"Argon",
+"Helium"
+]
+}
+},
+{
+"id": "otdb-e45cbdf087",
+"pt": {
+"q": "Qual era o nome do primeiro satélite artificial da Terra, lançado pela União Soviética em 1957?",
+"o": [
+"Sputnik 1",
+"Voskhod 3KV",
+"Zenit-2",
+"Soyuz 7K-OK"
+]
+},
+"en": {
+"q": "What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?",
+"o": [
+"Sputnik 1",
+"Voskhod 3KV",
+"Zenit-2",
+"Soyuz 7K-OK"
+]
+}
+},
+{
+"id": "otdb-71e9e152cb",
+"pt": {
+"q": "Qual é o maior planeta do Sistema Solar?",
+"o": [
+"Júpiter",
+"Marte",
+"Saturno",
+"Terra"
+]
+},
+"en": {
+"q": "What is the largest planet in the Solar System?",
+"o": [
+"Jupiter",
+"Mars",
+"Saturn",
+"Earth"
+]
+}
+},
+{
+"id": "otdb-6a2414843f",
+"pt": {
+"q": "Qual é a única lua do Sistema Solar que possui uma atmosfera densa?",
+"o": [
+"Europa",
+"Titã",
+"Miranda",
+"Calisto"
+]
+},
+"en": {
+"q": "Which moon is the only satellite in our solar system to possess a dense atmosphere?",
+"o": [
+"Europa",
+"Titan",
+"Miranda",
+"Callisto"
+]
+}
+}
+]

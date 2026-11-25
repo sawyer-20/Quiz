@@ -1,0 +1,408 @@
+[
+ {
+  "id": "otdb-81ade6a348",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-eb69331a67",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-aabbcaef18",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-220f8cdc6c",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-fcf422d1bc",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-676fac1f2a",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-09035c4ee6",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-bc755214a9",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-a02fa6595f",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-82229fb85a",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-882e734c79",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-1036adb9c6",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-c86566aa12",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-676215e51e",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-725b7621b8",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-f96d4a1880",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-c2ffe53b6e",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-e42a20e63d",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-80e3326cb2",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-e04f093dd4",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-dceb940cb5",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-1ae5a6ca27",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-0564e8a849",
+  "resposta": 3,
+  "certeza": "media",
+  "fonte": null,
+  "problemas": [
+   "ambigua"
+  ],
+  "nota": "«Primeiro por ordem cronológica» lê-se em pt-PT como ordem de lançamento (seria Devil May Cry, opção 0); a resposta pretendida é a cronologia da história (DMC3, prequela). Convém dizer «na cronologia da história»."
+ },
+ {
+  "id": "otdb-266893af67",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-df3602114a",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-679c4eda9a",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-af5aa7a2fa",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-61d0b3259e",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-786200b8df",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": "https://giantbomb.com/wiki/Concepts/Steam_Achievements",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-de6ed58523",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-3500e2b15e",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-68850556b1",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": "https://www.engadget.com/2015-09-10-dota2-source2-valve-no-half-life-3-isnt-out-yet.html",
+  "problemas": [],
+  "nota": "Dota 2 (Reborn, 2015) foi o primeiro a correr em Source 2; Artifact foi o primeiro feito de raiz em Source 2, o que pode gerar discussão, mas o enunciado («utilizar») favorece Dota 2."
+ },
+ {
+  "id": "otdb-88797068ea",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-e1cf0f2937",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-2a97052f07",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-f9b816637f",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-32d1a9f3a3",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-8e6a0a0c14",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-13e03fb5bf",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-180fca1cb1",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-08998b37c4",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-886e687a6d",
+  "resposta": 0,
+  "certeza": "media",
+  "fonte": "https://en.wikipedia.org/wiki/D.Va",
+  "problemas": [
+   "ambigua"
+  ],
+  "nota": "Premissa enganadora: MEKA (Mobile Exo-Force of the Korean Army) é a unidade militar criada pelo governo sul-coreano, não uma empresa; nenhuma fonte fiável nomeia uma empresa fabricante."
+ },
+ {
+  "id": "otdb-e5fa7e7c81",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-15e3c8a588",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "datada"
+  ],
+  "nota": "A série Pro Evolution Soccer passou a chamar-se eFootball em 2021 (continua da Konami); o presente «é desenvolvida» está datado."
+ },
+ {
+  "id": "otdb-b5262f8175",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-5c61dc9e5e",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-fd0f8a0e49",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-0f10a3c309",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": "Nota menor: o en-US escreve «Rachet» em vez de «Ratchet»."
+ },
+ {
+  "id": "otdb-d3d5d6651c",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-ad30521461",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ }
+]

@@ -1,0 +1,404 @@
+[
+ {
+  "id": "otdb-d0a064d8bb",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-3af6e276ca",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-fd9a16175e",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-d62f56ef6c",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-a28f08c8c2",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-c993a8a062",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-e07d1decea",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-a6d077c85d",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-066363af37",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-5bb2b826ef",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-2ef6bd7388",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-491427deb2",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-ad7821fa48",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "ambigua"
+  ],
+  "nota": "Quatro álbuns de estúdio (Homework, Discovery, Human After All, Random Access Memories); a banda sonora de «Tron: Legacy» é por vezes contada, o que torna o «5» defensável."
+ },
+ {
+  "id": "otdb-7daab53658",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-2e95cd9c3a",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-efae5bf16c",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-f1ace2e420",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-8ed3b9e693",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-24b61eaf64",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-8176c0f56c",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-ab3ddea1a1",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-13311f7893",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-4bca8e3dd3",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-ac593ecda1",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-822dce7c73",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-cdd7b94533",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-59ec11a6b0",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-28227c2965",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-feaa26adca",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-35a005944c",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": "Sem problema no pt-PT; a opção en-US tem gralha («Gimmie! Gimmie!»), o certo é «Gimme! Gimme! Gimme!»."
+ },
+ {
+  "id": "otdb-980dbe3738",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": "Opção de brincadeira («Capuchinho Vermelho»), não é erro factual."
+ },
+ {
+  "id": "otdb-86f79a559f",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-edb5eef75a",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-38cc5f05c7",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-b22bac128f",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-45344dcb68",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-f34075db69",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": "Opção en-US com gralha («Ludvig Van Beethoven»); opção de brincadeira «Chief Keef»."
+ },
+ {
+  "id": "otdb-980e777065",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-d92f5d6e36",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-da123ecf59",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-70418dfa69",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-7e590ccc06",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-534edbff1a",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-dd5c02e8f0",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-dbab4fdf86",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-c8143b016b",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": "Versão corrente (Dylan, Hotel Delmonico, 28/8/1964); há relatos de que já tinham experimentado antes sem efeito, mas nenhuma outra opção é defensável."
+ },
+ {
+  "id": "otdb-1912502865",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-647117b213",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-00f03b693d",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-61ff590488",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ }
+]

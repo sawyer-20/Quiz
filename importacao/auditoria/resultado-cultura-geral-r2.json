@@ -1,0 +1,410 @@
+[
+ {
+  "id": "otdb-66a02a3b22",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-6abb804734",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-f8f9aa8254",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-509505171a",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-6d0bbb5741",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-4215c3b7ec",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-f37e9777db",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-a46e2ce13d",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-86ec4f4b91",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-b222980de7",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-0fc8ffd571",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-624caf8ed3",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-3363f2dfdd",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-9c7a3d58e4",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-47a866ee0f",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-90dc1659d1",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-d5ad0c8b0a",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-2decfd761a",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-ae4e32502d",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-6115779a96",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-0dc6d01fa5",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-5fc6f5d95d",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-4fba1a0903",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-97668a5136",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-a821b55dfc",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-dbed104d7a",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "texto"
+  ],
+  "nota": "en-US: «Infiniti is to ?» tem espaço antes do ponto de interrogação e falta o espaço em branco («is to ___?»)."
+ },
+ {
+  "id": "otdb-97b3c3147c",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-0c365bf259",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-ac5bbab7c2",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-dea52cfbb5",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-d6cd9d02fc",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-9ba3d823b6",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-9b96b13a55",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-95a4580f65",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "texto"
+  ],
+  "nota": "en-US: ponto de interrogação dentro das aspas («\"language isolate?\"»); devia ser «\"language isolate\"?»."
+ },
+ {
+  "id": "otdb-a83e6aac8c",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-5a0194fbb8",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "texto"
+  ],
+  "nota": "en-US: «World Driver's Championship» devia ser «World Drivers' Championship» (nome oficial)."
+ },
+ {
+  "id": "otdb-92a26673fb",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-290d0c1679",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-a0529f6ab6",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "ambigua"
+  ],
+  "nota": "Nietzsche escreveu «o que não me mata torna-me mais forte» (Crepúsculo dos Ídolos); a frase exata com «te» é o refrão de Kelly Clarkson («Stronger»), por isso «fonte da citação» é discutível."
+ },
+ {
+  "id": "otdb-72cefeabb2",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-b9a441d538",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-1935d2d82a",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-426dbcd306",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-6716b957f3",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-8229f0a0b4",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-df26da1473",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-1fe7b025d0",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-0a3d05585b",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-a667ccc806",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-acbe94dd44",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ }
+]

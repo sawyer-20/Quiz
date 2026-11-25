@@ -31,8 +31,10 @@ class T {
   String perguntaDe(int i, int n) => pt ? 'PERGUNTA $i DE $n' : 'QUESTION $i OF $n';
   String get idioma => pt ? 'Idioma' : 'Language';
   String get avisoBanco => pt
-      ? 'Perguntas verificadas pelo motor de factos QUIZLUX (versão de demonstração).'
-      : 'Questions checked by the QUIZLUX fact engine (demo version).';
+      ? 'Versão de demonstração. Inclui perguntas do Open Trivia DB (opentdb.com, licença CC BY-SA 4.0), '
+          'traduzidas automaticamente e auditadas por amostra, e perguntas geradas a partir do Wikidata (CC0).'
+      : 'Demo version. Includes questions from Open Trivia DB (opentdb.com, CC BY-SA 4.0 licence), '
+          'machine-translated and sample-audited, and questions generated from Wikidata (CC0).';
 
   String topico(String t) {
     const pt_ = {

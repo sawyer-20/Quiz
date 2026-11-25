@@ -1,0 +1,200 @@
+{"id": "otdb-ac5bbab7c2", "acao": "manter"}
+{"id": "otdb-acbe94dd44", "acao": "manter"}
+{"id": "otdb-ae4e32502d", "acao": "corrigir", "pt": {"q": "O que está em exposição no museu Madame Tussauds, em Londres?", "o": ["Roupa de marca", "Carros antigos", "Rolos de filme inéditos", "Esculturas de cera"]}, "en": {"q": "What is on display in the Madame Tussauds museum in London?", "o": ["Designer clothing", "Vintage cars", "Unreleased film reels", "Wax sculptures"]}, "nota": "en: «Madame Tussaud's» → «Madame Tussauds»"}
+{"id": "otdb-aef4a71b55", "acao": "manter"}
+{"id": "otdb-af9a982749", "acao": "corrigir", "pt": {"q": "No código Morse, que letra é indicada por 3 pontos?", "o": ["S", "O", "C", "A"]}, "en": {"q": "In Morse code, which letter is indicated by 3 dots?", "o": ["S", "O", "C", "A"]}, "nota": "en: espaço final retirado; «In the Morse code» → «In Morse code»"}
+{"id": "otdb-b051207dd0", "acao": "corrigir", "pt": {"q": "Quem perdeu uma corrida a pé contra Hipómenes?", "o": ["Atalanta", "Peleu", "Jasão", "Teseu"]}, "en": {"q": "Who did Hippomenes defeat in a footrace?", "o": ["Atalanta", "Peleus", "Jason", "Theseus"]}, "nota": "pt: «Quem foi derrotada» dava pista de género (só Atalanta é feminina); enunciado neutro"}
+{"id": "otdb-b0c8c27fe4", "acao": "corrigir", "pt": {"q": "Em «The Handmaid's Tale», de Margaret Atwood, qual é o verdadeiro nome sugerido de Offred?", "o": ["May", "June", "April", "August"]}, "en": {"q": "In Margaret Atwood's \"The Handmaid's Tale\", what is Offred's real name implied to be?", "o": ["May", "June", "April", "August"]}, "nota": "en: gralha gramatical («what is ... is implied»)"}
+{"id": "otdb-b0f6ef0cec", "acao": "manter"}
+{"id": "otdb-b21bf5c83d", "acao": "corrigir", "pt": {"q": "O nome grego de Neptuno era...", "o": ["Apolo", "Zeus", "Poseidon", "Ares"]}, "en": {"q": "Neptune's Greek name was...", "o": ["Apollo", "Zeus", "Poseidon", "Ares"]}, "nota": "en: «greek» → «Greek»"}
+{"id": "otdb-b222980de7", "acao": "manter"}
+{"id": "otdb-b607f31230", "acao": "manter"}
+{"id": "otdb-b65a4c26a0", "acao": "manter"}
+{"id": "otdb-b6c7a09d63", "acao": "tirar", "motivo": "nome_pt", "nota": "Opções com títulos ingleses de obras checas e francesa; título pt de «Dášeňka» incerto"}
+{"id": "otdb-b7810b714d", "acao": "corrigir", "pt": {"q": "Quem escreveu o romance «Fear and Loathing in Las Vegas»?", "o": ["Hunter S. Thompson", "F. Scott Fitzgerald", "Henry Miller", "William S. Burroughs"]}, "en": {"q": "Who wrote the novel 'Fear and Loathing in Las Vegas'?", "o": ["Hunter S. Thompson", "F. Scott Fitzgerald", "Henry Miller", "William S. Burroughs"]}, "nota": "Maiúscula: «Fear And Loathing» → «Fear and Loathing» (pt e en)"}
+{"id": "otdb-b872ddce46", "acao": "corrigir", "pt": {"q": "Quem escreveu o livro «O Principezinho»?", "o": ["Jane Austen", "Miguel de Cervantes Saavedra", "F. Scott Fitzgerald", "Antoine de Saint-Exupéry"]}, "en": {"q": "The book \"The Little Prince\" was written by...", "o": ["Jane Austen", "Miguel de Cervantes Saavedra", "F. Scott Fitzgerald", "Antoine de Saint-Exupéry"]}, "nota": "pt: título português consagrado «O Principezinho»"}
+{"id": "otdb-b9a441d538", "acao": "manter"}
+{"id": "otdb-b9b237479f", "acao": "manter"}
+{"id": "otdb-ba90e86b72", "acao": "manter"}
+{"id": "otdb-ba9f942604", "acao": "tirar", "motivo": "nome_pt", "nota": "Opções com títulos ingleses de obras russas; título pt-PT de «Notes from the Underground» incerto"}
+{"id": "otdb-baced550c1", "acao": "corrigir", "pt": {"q": "Em que ano ganhou Jenson Button o seu primeiro Campeonato do Mundo de Pilotos de Fórmula 1?", "o": ["2007", "2009", "2006", "2010"]}, "en": {"q": "In which year did Jenson Button win his first ever Formula One World Drivers' Championship?", "o": ["2007", "2009", "2006", "2010"]}, "nota": "en: «did ... won» → «did ... win»"}
+{"id": "otdb-bb1834a05c", "acao": "corrigir", "pt": {"q": "Qual destas NÃO é uma função do óleo nos motores dos automóveis?", "o": ["Redução da corrosão", "Arrefecimento", "Combustão", "Lubrificação"]}, "en": {"q": "Which one is NOT a function of engine oil in car engines?", "o": ["Reduce corrosion", "Cooling", "Combustion", "Lubrication"]}, "nota": "en: «the function» → «a function»"}
+{"id": "otdb-bbcfefd06a", "acao": "manter"}
+{"id": "otdb-bc16dcd0a5", "acao": "manter"}
+{"id": "otdb-bc93b50ff6", "acao": "manter"}
+{"id": "otdb-bdcd2e6494", "acao": "manter"}
+{"id": "otdb-c362b964e3", "acao": "manter"}
+{"id": "otdb-c44da1d015", "acao": "manter"}
+{"id": "otdb-c493840b0f", "acao": "manter"}
+{"id": "otdb-c5173181b8", "acao": "manter"}
+{"id": "otdb-c5eb3c66ef", "acao": "corrigir", "pt": {"q": "Que figura da mitologia grega é a divindade da estratégia de batalha, entre outras coisas?", "o": ["Ares", "Apolo", "Ártemis", "Atena"]}, "en": {"q": "Which Greek mythological figure is the deity of battle strategy, among other things?", "o": ["Ares", "Apollo", "Artemis", "Athena"]}, "nota": "pt: «a deusa» dava pista de género só em pt; «divindade» nos dois idiomas"}
+{"id": "otdb-c7ad659dc6", "acao": "manter"}
+{"id": "otdb-c857690f8a", "acao": "manter"}
+{"id": "otdb-c862aa6146", "acao": "manter"}
+{"id": "otdb-c8a40af913", "acao": "manter"}
+{"id": "otdb-c96dc9b9b2", "acao": "manter"}
+{"id": "otdb-c982d060da", "acao": "manter"}
+{"id": "otdb-ca03912077", "acao": "manter"}
+{"id": "otdb-cadc3a15c0", "acao": "manter"}
+{"id": "otdb-cafc64b567", "acao": "manter"}
+{"id": "otdb-cbc15d7a11", "acao": "corrigir", "pt": {"q": "Em «The Jungle Book», de Rudyard Kipling, que tipo de serpente era Kaa?", "o": ["Píton", "Naja", "Anaconda", "Víbora"]}, "en": {"q": "In Rudyard Kipling's \"The Jungle Book\", what type of snake was Kaa?", "o": ["Python", "Cobra", "Anaconda", "Viper"]}, "nota": "pt: «cobra» é genérico em pt (serpente); opção «Cobra» → «Naja» e «tipo de cobra» → «tipo de serpente»"}
+{"id": "otdb-cbfa2a3ffa", "acao": "manter"}
+{"id": "otdb-cc966d4279", "acao": "corrigir", "pt": {"q": "Qual foi o castigo de Sísifo pela sua astúcia?", "o": ["Preso a um rochedo para sempre, bicado por aves", "De pé num lago, sem poder beber a água", "Abater uma árvore que renascia a cada machadada", "Rolar um rochedo colina acima para toda a eternidade"]}, "en": {"q": "What was the punishment for Sisyphus's craftiness?", "o": ["Tied to a boulder for eternity, being pecked by birds.", "Standing in a lake filled with water he could not drink.", "To fell a tree that regenerated after every axe swing.", "Cursed to roll a boulder up a hill for eternity."]}, "nota": "en: «Sysiphus's» → «Sisyphus's»"}
+{"id": "otdb-cd10f9b948", "acao": "manter"}
+{"id": "otdb-cd44ffe51c", "acao": "corrigir", "pt": {"q": "A quem se atribui a autoria do poema épico Odisseia?", "o": ["Homero", "Sócrates", "Ulisses", "Aristóteles"]}, "en": {"q": "Who is credited with the epic poem The Odyssey?", "o": ["Homer", "Socrates", "Odysseus", "Aristotle"]}, "nota": "pt: «ter registado» → «a autoria»; en: «is attributed credit for recording» → «is credited with»"}
+{"id": "otdb-cf9c0a5317", "acao": "corrigir", "pt": {"q": "A «nefelococcigia» é a prática de fazer o quê?", "o": ["Encontrar formas nas nuvens", "Partir vidro com a voz", "Nadar em água gelada", "Dormir de olhos abertos"]}, "en": {"q": "\"Nephelococcygia\" is the practice of doing what?", "o": ["Finding shapes in clouds", "Breaking glass with your voice", "Swimming in freezing water", "Sleeping with your eyes open"]}, "nota": "en: espaços finais retirados"}
+{"id": "otdb-d108d1725d", "acao": "manter"}
+{"id": "otdb-d233a21a29", "acao": "manter"}
+{"id": "otdb-d26ebcfbcf", "acao": "corrigir", "pt": {"q": "Qual destes modelos de automóvel é da Lamborghini?", "o": ["Chiron", "918", "Huayra", "Aventador"]}, "en": {"q": "Which of these car models is produced by Lamborghini?", "o": ["Chiron", "918", "Huayra", "Aventador"]}, "nota": "en: «are produced» → «is produced»"}
+{"id": "otdb-d2fe95b222", "acao": "manter"}
+{"id": "otdb-d4001d59c2", "acao": "manter"}
+{"id": "otdb-d4d899306d", "acao": "manter"}
+{"id": "otdb-d5374d7e39", "acao": "manter"}
+{"id": "otdb-d559cdcee2", "acao": "manter"}
+{"id": "otdb-d5ad0c8b0a", "acao": "manter"}
+{"id": "otdb-d5e47161e0", "acao": "tirar", "motivo": "nome_pt", "nota": "«Tânato» não é a forma habitual (Tânatos); e «deus das mortes pacíficas» é formulação discutível — na dúvida, tira"}
+{"id": "otdb-d6859fe127", "acao": "manter"}
+{"id": "otdb-d688fc10a2", "acao": "manter"}
+{"id": "otdb-d6cd9d02fc", "acao": "manter"}
+{"id": "otdb-d6e258c679", "acao": "manter"}
+{"id": "otdb-d7887c9f46", "acao": "manter"}
+{"id": "otdb-d99291308d", "acao": "corrigir", "pt": {"q": "Quem pintou «O Grito»?", "o": ["Vincent van Gogh", "Edvard Munch", "Henri Matisse", "Picasso"]}, "en": {"q": "Who painted \"The Scream\"?", "o": ["Vincent van Gogh", "Edvard Munch", "Henri Matisse", "Picasso"]}, "nota": "pt: título consagrado «O Grito»; en: «Van Gogh» → «van Gogh»"}
+{"id": "otdb-d9ccc0eafb", "acao": "manter"}
+{"id": "otdb-d9ded6fe2a", "acao": "manter"}
+{"id": "otdb-d9df6ac5e2", "acao": "corrigir", "pt": {"q": "Na Fórmula 1, o Safety Car Virtual foi introduzido na sequência do acidente fatal de que piloto?", "o": ["Jules Bianchi", "Roland Ratzenberger", "Gilles Villeneuve", "Ayrton Senna"]}, "en": {"q": "In Formula 1, the Virtual Safety Car was introduced following the fatal crash of which driver?", "o": ["Jules Bianchi", "Roland Ratzenberger", "Gilles Villeneuve", "Ayrton Senna"]}, "nota": "en: «Ronald Ratzenberger» → «Roland Ratzenberger»"}
+{"id": "otdb-dbed104d7a", "acao": "manter"}
+{"id": "otdb-dcadda70d3", "acao": "manter"}
+{"id": "otdb-ddee1b1a39", "acao": "manter"}
+{"id": "otdb-de708c7c0f", "acao": "manter"}
+{"id": "otdb-dea52cfbb5", "acao": "manter"}
+{"id": "otdb-df26da1473", "acao": "manter"}
+{"id": "otdb-dfb97220eb", "acao": "manter"}
+{"id": "otdb-e06e5a8abb", "acao": "corrigir", "pt": {"q": "Em que cidade nasceu e morreu Albrecht Dürer?", "o": ["Berlim", "Nuremberga", "Augsburgo", "Bamberga"]}, "en": {"q": "In which city was Albrecht Dürer born and where did he die?", "o": ["Berlin", "Nuremberg", "Augsburg", "Bamberg"]}, "nota": "pt: enunciado reescrito em pt natural; en: «Nürnberg» → «Nuremberg»"}
+{"id": "otdb-e15670ba4b", "acao": "corrigir", "pt": {"q": "A temporada de Fórmula 1 de 1994 é recordada por que acontecimento trágico?", "o": ["O confronto (Austrália)", "A suspensão de Schumacher (Grã-Bretanha)", "Verstappen em chamas (Alemanha)", "Morte de Ayrton Senna (San Marino)"]}, "en": {"q": "The F1 season of 1994 is remembered for what tragic event?", "o": ["The Showdown (Australia)", "Schumacher's Ban (Britain)", "Verstappen on Fire (Germany)", "Death of Ayrton Senna (San Marino)"]}, "nota": "pt: maiúsculas à inglesa nas opções → minúsculas"}
+{"id": "otdb-e31b0c05ac", "acao": "manter"}
+{"id": "otdb-e3abe71455", "acao": "manter"}
+{"id": "otdb-e45d776d29", "acao": "manter"}
+{"id": "otdb-e5d5be2cfc", "acao": "corrigir", "pt": {"q": "Como se chama o pedal extra de um automóvel de caixa manual?", "o": ["Alavanca de mudanças", "Travão de mão", "Servofreio", "Embraiagem"]}, "en": {"q": "What is the name of the extra pedal on a manual or standard transmission car?", "o": ["Shifter", "Parking Brake", "Booster", "Clutch"]}, "nota": "pt: opção «Booster» → «Servofreio»"}
+{"id": "otdb-e5dc250b00", "acao": "corrigir", "pt": {"q": "Quando foi concluído o quadro «A Persistência da Memória», de Salvador Dalí?", "o": ["1932", "1931", "1929", "1934"]}, "en": {"q": "When was Salvador Dali's painting, \"The Persistence of Memory,\" completed?", "o": ["1932", "1931", "1929", "1934"]}, "nota": "pt: título consagrado «A Persistência da Memória»"}
+{"id": "otdb-e6ded928b6", "acao": "manter"}
+{"id": "otdb-e82e2945ef", "acao": "manter"}
+{"id": "otdb-e9184e4c6f", "acao": "corrigir", "pt": {"q": "Onde fica a sede da Apple Inc.?", "o": ["Redwood City, Califórnia", "Santa Monica, Califórnia", "Redmond, Washington", "Cupertino, Califórnia"]}, "en": {"q": "Where is Apple Inc. headquartered?", "o": ["Redwood City, California", "Santa Monica, California", "Redmond, Washington", "Cupertino, California"]}, "nota": "en: «Santa Monica, CA» → «Santa Monica, California» (forma igual às outras)"}
+{"id": "otdb-e920e22d69", "acao": "manter"}
+{"id": "otdb-e99ad35eef", "acao": "manter"}
+{"id": "otdb-ec09665924", "acao": "manter"}
+{"id": "otdb-ec40b4d07b", "acao": "manter"}
+{"id": "otdb-eca164acd1", "acao": "corrigir", "pt": {"q": "Em «Alice no País das Maravilhas», como se chama o gato de estimação de Alice?", "o": ["Oscar", "Heath", "Dinah", "Smokey"]}, "en": {"q": "In Alice in Wonderland, what is the name of Alice's pet cat?", "o": ["Oscar", "Heath", "Dinah", "Smokey"]}, "nota": "pt: título consagrado «Alice no País das Maravilhas»; «gatinha» dava pista de género (Dinah) → «gato de estimação»; en «kitten» → «pet cat»"}
+{"id": "otdb-ecc9263ed6", "acao": "manter"}
+{"id": "otdb-edbcd0dfdf", "acao": "manter"}
+{"id": "otdb-efa9b2a1b3", "acao": "manter"}
+{"id": "otdb-efd1d835c2", "acao": "manter"}
+{"id": "otdb-effc58caa3", "acao": "manter"}
+{"id": "otdb-f04397037e", "acao": "corrigir", "pt": {"q": "Dos seguintes meses, qual tem mais dias?", "o": ["Novembro", "Abril", "Dezembro", "Setembro"]}, "en": {"q": "Of the following months, which has the most days?", "o": ["November", "April", "December", "September"]}, "nota": "en: espaço a mais em «November »; «most amount of days» → «most days»"}
+{"id": "otdb-f08d689ac8", "acao": "corrigir", "pt": {"q": "Qual destas cores não aparece em «Broadway Boogie-Woogie», de Mondrian?", "o": ["Verde", "Azul", "Amarelo", "Vermelho"]}, "en": {"q": "Which one of these colors is not featured in Mondrian's Broadway Boogie-Woogie?", "o": ["Green", "Blue", "Yellow", "Red"]}, "nota": "en: «are not» → «is not»"}
+{"id": "otdb-f0e9bf69e9", "acao": "corrigir", "pt": {"q": "Que famoso romancista de espionagem escreveu a história infantil «Chitty-Chitty-Bang-Bang»?", "o": ["Ian Fleming", "Graham Greene", "Joseph Conrad", "John Buchan"]}, "en": {"q": "Which famous spy novelist wrote the children's story \"Chitty-Chitty-Bang-Bang\"?", "o": ["Ian Fleming", "Graham Greene", "Joseph Conrad", "John Buchan"]}, "nota": "en: «childrens'» → «children's»"}
+{"id": "otdb-f0f4409b1c", "acao": "manter"}
+{"id": "otdb-f13c17075f", "acao": "manter"}
+{"id": "otdb-f17ec0babb", "acao": "manter"}
+{"id": "otdb-f2091b52e4", "acao": "corrigir", "pt": {"q": "Quem pintou «A Noite Estrelada»?", "o": ["Vincent van Gogh", "Michelangelo", "Leonardo da Vinci", "Pablo Picasso"]}, "en": {"q": "Who painted The Starry Night?", "o": ["Vincent van Gogh", "Michelangelo", "Leonardo da Vinci", "Pablo Picasso"]}, "nota": "pt: título consagrado «A Noite Estrelada»"}
+{"id": "otdb-f219e7dead", "acao": "manter"}
+{"id": "otdb-f36f30374a", "acao": "manter"}
+{"id": "otdb-f37e9777db", "acao": "manter"}
+{"id": "otdb-f3aacee21b", "acao": "manter"}
+{"id": "otdb-f3c8d14d72", "acao": "manter"}
+{"id": "otdb-f3e09cae25", "acao": "manter"}
+{"id": "otdb-f419a6dbb5", "acao": "manter"}
+{"id": "otdb-f439265475", "acao": "corrigir", "pt": {"q": "No romance «O Senhor dos Anéis», quantos anéis de poder foram dados à raça dos Homens?", "o": ["9", "13", "5", "11"]}, "en": {"q": "In the novel \"The Lord of the Rings\", how many rings of power were given to the race of Men?", "o": ["9", "13", "5", "11"]}, "nota": "pt: título consagrado «O Senhor dos Anéis»; en: «Lord of the Rings» → «The Lord of the Rings», «race of man» → «race of Men»"}
+{"id": "otdb-f44d2fc57f", "acao": "corrigir", "pt": {"q": "Quem escreveu o romance original «Frankenstein»?", "o": ["Mary Shelley", "Edgar Allan Poe", "H. P. Lovecraft", "Bram Stoker"]}, "en": {"q": "Who was the original author of Frankenstein?", "o": ["Mary Shelley", "Edgar Allan Poe", "H. P. Lovecraft", "Bram Stoker"]}, "nota": "pt: «a autora» dava pista de género (só Mary Shelley é mulher)"}
+{"id": "otdb-f51edbc917", "acao": "corrigir", "pt": {"q": "Que divindade grega lançou uma maçã de ouro com a inscrição «para a mais bela» para o meio do banquete dos deuses?", "o": ["Ártemis", "Éris", "Hades", "Ares"]}, "en": {"q": "Which Greek god/goddess tossed a golden apple with the words \"for the fairest\" into the middle of the feast of the gods?", "o": ["Artemis", "Eris", "Hades", "Ares"]}, "nota": "en: «greek» → «Greek»"}
+{"id": "otdb-f6c8a9e345", "acao": "manter"}
+{"id": "otdb-f7e9e5f6d0", "acao": "manter"}
+{"id": "otdb-f8f8145ee9", "acao": "tirar", "motivo": "nome_pt", "nota": "Obra alemã (aguarela «Feldhase») citada pelo título inglês; título pt incerto e não é «quadro»"}
+{"id": "otdb-f8f9aa8254", "acao": "manter"}
+{"id": "otdb-f94b5ce302", "acao": "corrigir", "pt": {"q": "Quem é o autor de «Jurassic Park»?", "o": ["Irvine Welsh", "Michael Crichton", "Peter Benchley", "Chuck Palahniuk"]}, "en": {"q": "Who is the author of Jurassic Park?", "o": ["Irvine Welsh", "Michael Crichton", "Peter Benchley", "Chuck Palahniuk"]}, "nota": "en: «Paluhniuk» → «Palahniuk»"}
+{"id": "otdb-f9be4c7b96", "acao": "manter"}
+{"id": "otdb-fb2a27cc17", "acao": "manter"}
+{"id": "otdb-fd22e13415", "acao": "manter"}
+{"id": "otdb-fdbdee869d", "acao": "manter"}
+{"id": "otdb-004850f05a", "acao": "corrigir", "pt": {"q": "A ilha de Gotland fica em que país europeu?", "o": ["Dinamarca", "Alemanha", "Noruega", "Suécia"]}, "en": {"q": "The island of Gotland is located in which European country?", "o": ["Denmark", "Germany", "Norway", "Sweden"]}, "nota": "en: «The land of Gotland» → «The island of Gotland»"}
+{"id": "otdb-034518b700", "acao": "corrigir", "pt": {"q": "Em que cidade se situa a Space Needle?", "o": ["Seattle", "Toronto", "Vancouver", "Los Angeles"]}, "en": {"q": "The Space Needle is located in which city?", "o": ["Seattle", "Toronto", "Vancouver", "Los Angeles"]}, "nota": "en: «Los Angles» → «Los Angeles»"}
+{"id": "otdb-04297a7eb0", "acao": "manter"}
+{"id": "otdb-069f0f3baa", "acao": "manter"}
+{"id": "otdb-073a049597", "acao": "manter"}
+{"id": "otdb-074238d9ca", "acao": "manter"}
+{"id": "otdb-08a750df32", "acao": "manter"}
+{"id": "otdb-093afc7a98", "acao": "manter"}
+{"id": "otdb-0d3e96b2a5", "acao": "corrigir", "pt": {"q": "Qual é a capital do Burkina Faso?", "o": ["Ouagadougou", "Yamoussoukro", "Abidjan", "Iaundé"]}, "en": {"q": "What is the capital of Burkina Faso?", "o": ["Ouagadougou", "Yamoussoukro", "Abidjan", "Yaoundé"]}, "nota": "pt: formas usadas em Portugal (Infopédia): «Burkina Faso», «Ouagadougou»"}
+{"id": "otdb-0dce59d433", "acao": "manter"}
+{"id": "otdb-12129a7ac3", "acao": "manter"}
+{"id": "otdb-13193dab90", "acao": "corrigir", "pt": {"q": "O Canal de Suez situa-se em que país africano?", "o": ["Nigéria", "Gana", "Egito", "Líbia"]}, "en": {"q": "The Suez Canal is located in which African country?", "o": ["Nigeria", "Ghana", "Egypt", "Libya"]}, "nota": "pt: «Canal do Suez» → «Canal de Suez» (forma pt-PT)"}
+{"id": "otdb-13306b8a0e", "acao": "manter"}
+{"id": "otdb-14ef8a9866", "acao": "corrigir", "pt": {"q": "Em que oceano fica a ilha da Reunião?", "o": ["Oceano Pacífico Norte", "Oceano Atlântico", "Oceano Pacífico Sul", "Oceano Índico"]}, "en": {"q": "In which ocean is Réunion Island?", "o": ["North Pacific Ocean", "Atlantic Ocean", "South Pacific Ocean", "Indian Ocean"]}, "nota": "en: «the Réunion island» → «Réunion Island»"}
+{"id": "otdb-19707ab417", "acao": "manter"}
+{"id": "otdb-1a7cc77399", "acao": "manter"}
+{"id": "otdb-1cca9b93cf", "acao": "manter"}
+{"id": "otdb-1cfa1f948f", "acao": "corrigir", "pt": {"q": "Que país é totalmente rodeado pela África do Sul?", "o": ["Botsuana", "Zimbabué", "Lesoto", "Essuatíni"]}, "en": {"q": "Which country is completely surrounded by South Africa?", "o": ["Botswana", "Zimbabwe", "Lesotho", "Eswatini"]}, "nota": "Opção desatualizada: «Suazilândia/Swaziland» → «Essuatíni/Eswatini»; en: «completely landlocked by» → «completely surrounded by»"}
+{"id": "otdb-1d1e69a1b8", "acao": "manter"}
+{"id": "otdb-1db894acb2", "acao": "manter"}
+{"id": "otdb-1eefa2c47b", "acao": "corrigir", "pt": {"q": "A capital de qual destes países começa pela letra B?", "o": ["Líbano", "Catar", "Kuwait", "Jordânia"]}, "en": {"q": "Which of these countries' capitals starts with the letter B?", "o": ["Lebanon", "Qatar", "Kuwait", "Jordan"]}, "nota": "en: «country's capitals» → «countries' capitals»"}
+{"id": "otdb-1f1077a672", "acao": "corrigir", "pt": {"q": "Qual é a capital do Brasil?", "o": ["São Paulo", "Curitiba", "Brasília", "Rio de Janeiro"]}, "en": {"q": "What is the capital of Brazil?", "o": ["São Paulo", "Curitiba", "Brasilia", "Rio de Janeiro"]}, "nota": "en: «Sao Paolo» → «São Paulo»"}
+{"id": "otdb-1f1de9c6f7", "acao": "manter"}
+{"id": "otdb-21617d3543", "acao": "manter"}
+{"id": "otdb-22950e7d02", "acao": "manter"}
+{"id": "otdb-233f02f051", "acao": "manter"}
+{"id": "otdb-24617520b4", "acao": "corrigir", "pt": {"q": "Qual é o menor país do mundo?", "o": ["Cidade do Vaticano", "Titânia", "Mónaco", "Lesoto"]}, "en": {"q": "Which is the smallest country in the world?", "o": ["Vatican City", "Titania", "Monaco", "Lesotho"]}, "nota": "en: «Monaco City» → «Monaco» (igual ao pt)"}
+{"id": "otdb-24b09e380f", "acao": "corrigir", "pt": {"q": "O Belize faz fronteira com que país?", "o": ["Guatemala", "Peru", "Quénia", "Laos"]}, "en": {"q": "The country of Belize borders which country?", "o": ["Guatemala", "Peru", "Kenya", "Laos"]}, "nota": "en: «Perú» → «Peru»"}
+{"id": "otdb-2584b6c7e0", "acao": "tirar", "motivo": "eua", "nota": "Altura em pés (1776 ft), centrada nos EUA"}
+{"id": "otdb-25c89eead0", "acao": "manter"}
+{"id": "otdb-2794527c64", "acao": "corrigir", "pt": {"q": "Como se chama o único grão-ducado que ainda existe no mundo?", "o": ["Luxemburgo", "Montenegro", "Liechtenstein", "Andorra"]}, "en": {"q": "What is the name of the only remaining Grand Duchy in the world?", "o": ["Luxembourg", "Montenegro", "Liechtenstein", "Andorra"]}, "nota": "en: espaço antes do ponto de interrogação"}
+{"id": "otdb-27d5f930a1", "acao": "corrigir", "pt": {"q": "Para que bacia flui o rio Jordão?", "o": ["Mar de Salton", "Mar Morto", "Mar Cáspio", "Mar de Aral"]}, "en": {"q": "Into which basin does the Jordan River flow?", "o": ["Salton Sea", "Dead Sea", "Caspian Sea", "Aral Sea"]}, "nota": "en: «into» repetido"}
+{"id": "otdb-2827dba07e", "acao": "corrigir", "pt": {"q": "Gibraltar é um território de que país da Europa Ocidental?", "o": ["Espanha", "França", "Portugal", "Reino Unido"]}, "en": {"q": "Gibraltar is a territory of which Western European country?", "o": ["Spain", "France", "Portugal", "United Kingdom"]}, "nota": "Retirada a descrição errada «a sul da Península Ibérica» (Gibraltar fica na península); en: «West Europe» → «Western European»"}
+{"id": "otdb-28b0036a1e", "acao": "manter"}
+{"id": "otdb-2acd9e4b5a", "acao": "manter"}
+{"id": "otdb-2f2412c8a0", "acao": "manter"}
+{"id": "otdb-30a38098b2", "acao": "manter"}
+{"id": "otdb-3125fe7288", "acao": "manter"}
+{"id": "otdb-33a5b69e58", "acao": "corrigir", "pt": {"q": "Qual destes países faz fronteira com a Polónia?", "o": ["Noruega", "França", "Países Baixos", "Lituânia"]}, "en": {"q": "Which one of these countries borders Poland?", "o": ["Norway", "France", "Netherlands", "Lithuania"]}, "nota": "en: «borders with» → «borders»"}
+{"id": "otdb-34bd81fbf5", "acao": "manter"}
+{"id": "otdb-38a0457f9d", "acao": "manter"}
+{"id": "otdb-38b35c5ca8", "acao": "manter"}
+{"id": "otdb-38d250d51a", "acao": "manter"}
+{"id": "otdb-3990dd39d0", "acao": "manter"}
+{"id": "otdb-3b574ec225", "acao": "corrigir", "pt": {"q": "Em que cidade do Canadá se encontra o Big Nickel?", "o": ["Halifax, Nova Escócia", "Sudbury, Ontário", "Victoria, Colúmbia Britânica", "Calgary, Alberta"]}, "en": {"q": "In which city is the Big Nickel located in Canada?", "o": ["Halifax, Nova Scotia", "Sudbury, Ontario", "Victoria, British Columbia", "Calgary, Alberta"]}, "nota": "en: espaço a mais em «Nova Scotia »"}
+{"id": "otdb-3b81b6caf7", "acao": "manter"}
+{"id": "otdb-3b9ca0972e", "acao": "manter"}
+{"id": "otdb-3c09833a06", "acao": "corrigir", "pt": {"q": "Qual é a língua oficial de Barcelona, além do espanhol?", "o": ["Galego", "Catalão", "Basco", "Francês"]}, "en": {"q": "What is the official language in Barcelona besides Spanish?", "o": ["Galician", "Catalan", "Basque", "French"]}, "nota": "en: espaço inicial em « Galician»; «beside» → «besides»"}
+{"id": "otdb-3c1908b59b", "acao": "manter"}
+{"id": "otdb-3e5aeaff86", "acao": "manter"}
+{"id": "otdb-3f2bee8a86", "acao": "manter"}
+{"id": "otdb-3f9f463a52", "acao": "manter"}
+{"id": "otdb-40191b0a8e", "acao": "corrigir", "pt": {"q": "Qual é a maior cidade e capital comercial do Sri Lanka?", "o": ["Negombo", "Colombo", "Kandy", "Moratuwa"]}, "en": {"q": "What is the largest city and commercial capital of Sri Lanka?", "o": ["Negombo", "Colombo", "Kandy", "Moratuwa"]}, "nota": "pt: «Sri Lanca» → «Sri Lanka» (forma da Infopédia)"}
+{"id": "otdb-425276a0ef", "acao": "manter"}
+{"id": "otdb-42b535d008", "acao": "manter"}
+{"id": "otdb-42ea8f608a", "acao": "corrigir", "pt": {"q": "Qual é a montanha mais alta do mundo?", "o": ["Kangchenjunga", "Annapurna", "Monte Evereste", "Monte Godwin Austen"]}, "en": {"q": "What is the highest mountain in the world?", "o": ["Kangchenjunga", "Annapurna", "Mount Everest", "Mount Godwin Austen"]}, "nota": "en: «Mt. Everest» → «Mount Everest» (a certa era a única abreviada)"}
+{"id": "otdb-450e34a280", "acao": "tirar", "motivo": "trivial", "nota": "«O que é o Laos?» — trivial"}
+{"id": "otdb-46cd02afbd", "acao": "corrigir", "pt": {"q": "Qual é a área da Cidade do Vaticano?", "o": ["12,00 km²", "0,86 km²", "0,44 km²", "0,10 km²"]}, "en": {"q": "What is the area of Vatican City?", "o": ["12.00 km²", "0.86 km²", "0.44 km²", "0.10 km²"]}, "nota": "en: «km^2» → « km²»"}
+{"id": "otdb-46f598561a", "acao": "manter"}
+{"id": "otdb-4be73dd00f", "acao": "manter"}
+{"id": "otdb-4f3db73441", "acao": "manter"}
+{"id": "otdb-50d4b47a3b", "acao": "manter"}
+{"id": "otdb-52438ea05a", "acao": "manter"}
+{"id": "otdb-52ac34b4b1", "acao": "manter"}
+{"id": "otdb-5663ae5bac", "acao": "manter"}
+{"id": "otdb-57906bdaca", "acao": "corrigir", "pt": {"q": "Qual é o menor país do mundo em população?", "o": ["Ilhas Marshall", "Nauru", "Cidade do Vaticano", "Liechtenstein"]}, "en": {"q": "What is the world's smallest country by population?", "o": ["Marshall Islands", "Nauru", "Vatican City", "Liechtenstein"]}, "nota": "en: «Lichtenstein» → «Liechtenstein»"}
+{"id": "otdb-59518b8d1c", "acao": "manter"}
+{"id": "otdb-5bfd9f7472", "acao": "manter"}
+{"id": "otdb-5d3d6f7a5e", "acao": "manter"}
+{"id": "otdb-5e94587e8a", "acao": "manter"}
+{"id": "otdb-5f457aa16d", "acao": "corrigir", "pt": {"q": "Qual é a moeda da Polónia?", "o": ["Zlóti", "Coroa", "Rublo", "Euro"]}, "en": {"q": "What is the currency of Poland?", "o": ["Złoty", "Krone", "Ruble", "Euro"]}, "nota": "pt: «Zloti» → «Zlóti» (Infopédia)"}
+{"id": "otdb-5f8b2b467e", "acao": "manter"}
+{"id": "otdb-5fa6836155", "acao": "corrigir", "pt": {"q": "Que acontecimento levou o Liechtenstein a acrescentar uma coroa à sua bandeira?", "o": ["Os Jogos Olímpicos de 1936", "A assinatura da Constituição do Liechtenstein de 1862", "A coroação do príncipe Johann I Joseph em 1805", "O decreto de Carlos VI em 1719"]}, "en": {"q": "What event led to Liechtenstein adding a crown to its flag?", "o": ["The 1936 Olympics", "Signing of the 1862 Constitution of Liechtenstein", "Coronation of Prince Johann I Joseph in 1805", "Charles VI's decree in 1719"]}, "nota": "en: «Liechenstein» → «Liechtenstein»; pt: «João I José» → nome original «Johann I Joseph» (forma pt incerta)"}
+{"id": "otdb-61a45c923e", "acao": "manter"}
+{"id": "otdb-64c04e4a2b", "acao": "manter"}
+{"id": "otdb-64e9ece38a", "acao": "manter"}
+{"id": "otdb-654fe85a72", "acao": "manter"}
+{"id": "otdb-67555a99dc", "acao": "manter"}
+{"id": "otdb-67d260b8b7", "acao": "corrigir", "pt": {"q": "Qual destes países sem litoral está totalmente contido noutro país?", "o": ["Luxemburgo", "Lesoto", "Mongólia", "Burkina Faso"]}, "en": {"q": "Which of the following landlocked countries is entirely contained within another country?", "o": ["Luxembourg", "Lesotho", "Mongolia", "Burkina Faso"]}, "nota": "pt: «Burquina Faso» → «Burkina Faso» (coerente com a forma da Infopédia)"}
+{"id": "otdb-6b4b087c4f", "acao": "manter"}
+{"id": "otdb-6c1966b6a2", "acao": "corrigir", "pt": {"q": "Que país reivindica a posse do território disputado do Kosovo?", "o": ["Albânia", "Sérvia", "Macedónia do Norte", "Croácia"]}, "en": {"q": "Which country claims ownership of the disputed state Kosovo?", "o": ["Albania", "Serbia", "North Macedonia", "Croatia"]}, "nota": "Opção desatualizada: «Macedónia/Macedonia» → «Macedónia do Norte/North Macedonia»"}
+{"id": "otdb-6dec1ff249", "acao": "manter"}
+{"id": "otdb-6ecb30914a", "acao": "manter"}

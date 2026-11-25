@@ -1,0 +1,200 @@
+{"id": "otdb-a752136e8a", "acao": "manter"}
+{"id": "otdb-a75608fb3e", "acao": "manter"}
+{"id": "otdb-a940e4653f", "acao": "manter"}
+{"id": "otdb-a94f78e15c", "acao": "manter"}
+{"id": "otdb-aa4ae8f4dd", "acao": "manter"}
+{"id": "otdb-aa8199534d", "acao": "corrigir", "pt": {"q": "Qual é o maior órgão do corpo humano?", "o": ["Fígado", "Coração", "Pele", "Intestino grosso"]}, "en": {"q": "What is the largest organ of the human body?", "o": ["Liver", "Heart", "Skin", "Large intestine"]}, "nota": "en: «large Intestine» -> «Large intestine»"}
+{"id": "otdb-ab4f4616ea", "acao": "manter"}
+{"id": "otdb-abcec412d4", "acao": "manter"}
+{"id": "otdb-ad7a630a4f", "acao": "manter"}
+{"id": "otdb-b1d8880e71", "acao": "manter"}
+{"id": "otdb-b22c6747b3", "acao": "manter"}
+{"id": "otdb-b257e179b0", "acao": "corrigir", "pt": {"q": "Qual foi a primeira versão do Android otimizada especificamente para tablets?", "o": ["Eclair", "Marshmallow", "Honeycomb", "Froyo"]}, "en": {"q": "What was the first Android version specifically optimized for tablets?", "o": ["Eclair", "Marshmallow", "Honeycomb", "Froyo"]}, "nota": "en: «Marshmellow» -> «Marshmallow»"}
+{"id": "otdb-b381da8fc9", "acao": "manter"}
+{"id": "otdb-b3d34909c7", "acao": "manter"}
+{"id": "otdb-b3e4d46c66", "acao": "manter"}
+{"id": "otdb-b433381af9", "acao": "manter"}
+{"id": "otdb-b484ae4034", "acao": "manter"}
+{"id": "otdb-b51e510933", "acao": "manter"}
+{"id": "otdb-b569bb7911", "acao": "manter"}
+{"id": "otdb-b688919dc2", "acao": "manter"}
+{"id": "otdb-b688a1f7c3", "acao": "corrigir", "pt": {"q": "O sistema operativo Windows foi desenvolvido por que empresa?", "o": ["Apple", "Nokia", "Microsoft", "IBM"]}, "en": {"q": "The Windows OS was developed by which company?", "o": ["Apple", "Nokia", "Microsoft", "IBM"]}, "nota": "en: «delevoped» -> «developed»"}
+{"id": "otdb-b6f20cfa5c", "acao": "manter"}
+{"id": "otdb-b73affe82a", "acao": "corrigir", "pt": {"q": "Qual é a unidade SI da resistência elétrica?", "o": ["Ohm", "Volt", "Ampere", "Siemens"]}, "en": {"q": "What is the SI unit for resistance?", "o": ["Ohms", "Volts", "Amperes", "Siemens"]}, "nota": "en: «Ampheres» -> «Amperes»"}
+{"id": "otdb-b76ca37517", "acao": "manter"}
+{"id": "otdb-b8e593b8bd", "acao": "manter"}
+{"id": "otdb-b94925291b", "acao": "manter"}
+{"id": "otdb-ba1bcb6f15", "acao": "manter"}
+{"id": "otdb-bb1af5660a", "acao": "manter"}
+{"id": "otdb-bc3f25a25e", "acao": "manter"}
+{"id": "otdb-bd27fb8d2c", "acao": "manter"}
+{"id": "otdb-be73c28414", "acao": "manter"}
+{"id": "otdb-be89b986d3", "acao": "manter"}
+{"id": "otdb-bedd6cd433", "acao": "manter"}
+{"id": "otdb-bf20132216", "acao": "corrigir", "pt": {"q": "Quem cofundou a Palantir?", "o": ["Jack Dorsey", "Mark Zuckerberg", "Marc Benioff", "Peter Thiel"]}, "en": {"q": "Who co-founded Palantir?", "o": ["Jack Dorsey", "Mark Zuckerberg", "Marc Benioff", "Peter Thiel"]}, "nota": "«o fundador» -> «cofundou» (a Palantir teve vários fundadores)"}
+{"id": "otdb-bf81eb7d0e", "acao": "manter"}
+{"id": "otdb-c059e701cc", "acao": "corrigir", "pt": {"q": "As «ilhotas de Langerhans» encontram-se em que órgão humano?", "o": ["Rim", "Pâncreas", "Fígado", "Cérebro"]}, "en": {"q": "The 'Islets of Langerhans' are found in which human organ?", "o": ["Kidney", "Pancreas", "Liver", "Brain"]}, "nota": "en: «is found» -> «are found»"}
+{"id": "otdb-c141f28e84", "acao": "corrigir", "pt": {"q": "A integração é a operação inversa de que operação matemática?", "o": ["Multiplicação", "Desvio-padrão", "Derivação", "Divisão"]}, "en": {"q": "Integration is the reverse of what mathematical operation?", "o": ["Multiplication", "Standard Deviation", "Differentiation", "Division"]}, "nota": "en: «Derivation» -> «Differentiation» (termo matemático correto)"}
+{"id": "otdb-c2f5dee068", "acao": "manter"}
+{"id": "otdb-c3afb73f46", "acao": "corrigir", "pt": {"q": "Em biologia humana, um ritmo circadiano corresponde a um período de aproximadamente quantas horas?", "o": ["32", "24", "16", "8"]}, "en": {"q": "In human biology, a circadian rhythm relates to a period of roughly how many hours?", "o": ["32", "24", "16", "8"]}, "nota": "en: «circadium» -> «circadian»"}
+{"id": "otdb-c552adecfb", "acao": "manter"}
+{"id": "otdb-c56f902f5e", "acao": "manter"}
+{"id": "otdb-c582b27db4", "acao": "manter"}
+{"id": "otdb-c5c1748693", "acao": "manter"}
+{"id": "otdb-c5dea821b0", "acao": "manter"}
+{"id": "otdb-c6e199afde", "acao": "manter"}
+{"id": "otdb-c6ec38bb48", "acao": "manter"}
+{"id": "otdb-c70bf9a4b6", "acao": "manter"}
+{"id": "otdb-c71cc4f5d8", "acao": "manter"}
+{"id": "otdb-c74d427aed", "acao": "corrigir", "pt": {"q": "Qual destes elementos da Tabela Periódica é um gás nobre?", "o": ["Potássio", "Iodo", "Cobalto", "Néon"]}, "en": {"q": "Which of these elements on the Periodic Table is a Noble Gas?", "o": ["Potassium", "Iodine", "Cobalt", "Neon"]}, "nota": "en: «Colbalt» -> «Cobalt»"}
+{"id": "otdb-c7669f4787", "acao": "manter"}
+{"id": "otdb-c87d1f2112", "acao": "manter"}
+{"id": "otdb-c9074a710b", "acao": "manter"}
+{"id": "otdb-cb23624026", "acao": "manter"}
+{"id": "otdb-cb442700a2", "acao": "corrigir", "pt": {"q": "O matemático francês Évariste Galois é conhecido sobretudo pelo seu trabalho em que área?", "o": ["Método de Galois para equações diferenciais parciais", "Integração abeliana", "Teoria de Galois", "Frações contínuas de Galois"]}, "en": {"q": "The French mathematician Évariste Galois is primarily known for his work in which field?", "o": ["Galois' Method for PDEs", "Abelian Integration", "Galois Theory", "Galois' Continued Fractions"]}, "nota": "en: «PDE's  » -> «PDEs»; «in which?» -> «in which field?»"}
+{"id": "otdb-cd3aefb16f", "acao": "corrigir", "pt": {"q": "Como se chama um polígono de oito lados?", "o": ["Hexágono", "Heptágono", "Octógono", "Nonágono"]}, "en": {"q": "What is a polygon with eight sides called?", "o": ["Hexagon", "Heptagon", "Octagon", "Nonagon"]}, "nota": "en: «Nanagon» -> «Nonagon»"}
+{"id": "otdb-cd50869c7e", "acao": "manter"}
+{"id": "otdb-ce6d43f418", "acao": "manter"}
+{"id": "otdb-cef470f2f4", "acao": "manter"}
+{"id": "otdb-d02d76632f", "acao": "manter"}
+{"id": "otdb-d0e032b05e", "acao": "manter"}
+{"id": "otdb-d1f617d621", "acao": "corrigir", "pt": {"q": "Quem cunhou o termo «bateria» para descrever um dispositivo de armazenamento de eletricidade?", "o": ["Benjamin Franklin", "Alessandro Volta", "Nikola Tesla", "Luigi Galvani"]}, "en": {"q": "The term \"battery\" to describe an electrical storage device was coined by?", "o": ["Benjamin Franklin", "Alessandro Volta", "Nikola Tesla", "Luigi Galvani"]}, "nota": "en: espaço a mais em « Alessandro Volta»"}
+{"id": "otdb-d24767f286", "acao": "corrigir", "pt": {"q": "O que é H2O?", "o": ["Nenhuma destas", "Oxigénio", "Hidrogénio", "Água"]}, "en": {"q": "What is H2O?", "o": ["None of these", "Oxygen", "Hydrogen", "Water"]}, "nota": "pt: «Nenhuma das anteriores» como 1.ª opção -> «Nenhuma destas»; en «None» -> «None of these»"}
+{"id": "otdb-d36db780a8", "acao": "manter"}
+{"id": "otdb-d4172e0d81", "acao": "tirar", "motivo": "trivial", "nota": "duplicada de otdb-c6e199afde (mitocôndria) e tem marca de bebida (Red Bull) como opção"}
+{"id": "otdb-d52c96005c", "acao": "manter"}
+{"id": "otdb-d56ab939ff", "acao": "manter"}
+{"id": "otdb-d6687c3df2", "acao": "corrigir", "pt": {"q": "Qual é o nome da camada 7 do modelo OSI?", "o": ["Apresentação", "Sessão", "Aplicação", "Rede"]}, "en": {"q": "What is the name of Layer 7 of the OSI model?", "o": ["Presentation", "Session", "Application", "Network"]}, "nota": "en: «Present» -> «Presentation»"}
+{"id": "otdb-dacda3e9ed", "acao": "manter"}
+{"id": "otdb-dbeae7d7fb", "acao": "manter"}
+{"id": "otdb-dd45a20376", "acao": "corrigir", "pt": {"q": "Um organismo descrito como «heliotrópico» tende a mover-se em direção a quê?", "o": ["A luz", "As árvores", "A água", "O pólen"]}, "en": {"q": "An organism described as \"heliotropic\" has a tendency to move towards which of these things?", "o": ["Light", "Trees", "Water", "Pollen"]}, "nota": "en: «tendancy» -> «tendency»"}
+{"id": "otdb-dd900182f3", "acao": "manter"}
+{"id": "otdb-df58017d88", "acao": "manter"}
+{"id": "otdb-dfb7e504ac", "acao": "manter"}
+{"id": "otdb-dfdde683ed", "acao": "manter"}
+{"id": "otdb-dfea21bde2", "acao": "corrigir", "pt": {"q": "Como se chama o enviesamento cognitivo em que uma pessoa com pouca competência numa área se julga superior?", "o": ["Efeito Meyers-Briggs", "Efeito Dunning-Kruger", "Efeito Müller-Lyer", "Efeito Freud-Hall"]}, "en": {"q": "What is the name of the cognitive bias wherein a person with low ability in a particular skill mistakes themselves as being superior?", "o": ["Meyers-Briggs effect", "Dunning-Kruger effect", "Müller-Lyer effect", "Freud-Hall effect"]}, "nota": "en: «mistake» -> «mistakes»"}
+{"id": "otdb-e0762bd2e6", "acao": "manter"}
+{"id": "otdb-e0f46190a1", "acao": "manter"}
+{"id": "otdb-e14bf91ff6", "acao": "manter"}
+{"id": "otdb-e1589b8090", "acao": "manter"}
+{"id": "otdb-e1eccee1c2", "acao": "corrigir", "pt": {"q": "O úmero, o rádio e o cúbito unem-se para formar que articulação?", "o": ["Cotovelo", "Tornozelo", "Ombro", "Joelho"]}, "en": {"q": "The humerus, paired radius, and ulna come together to form what joint?", "o": ["Elbow", "Ankle", "Shoulder", "Knee"]}, "nota": "en: «Sholder» -> «Shoulder»"}
+{"id": "otdb-e281dcb1b2", "acao": "manter"}
+{"id": "otdb-e2d0d82020", "acao": "manter"}
+{"id": "otdb-e3be332e70", "acao": "manter"}
+{"id": "otdb-e453d2edfa", "acao": "manter"}
+{"id": "otdb-e499f6e360", "acao": "manter"}
+{"id": "otdb-e531b8c701", "acao": "manter"}
+{"id": "otdb-e59f97b89e", "acao": "manter"}
+{"id": "otdb-e68b33c65d", "acao": "corrigir", "pt": {"q": "Qual é o osso mais comprido do corpo humano?", "o": ["Omoplata", "Perónio", "Cúbito", "Fémur"]}, "en": {"q": "Which is the longest bone in the human body?", "o": ["Scapula", "Fibula", "Ulna", "Femur"]}, "nota": "en: espaço a mais no fim do enunciado"}
+{"id": "otdb-e909241eea", "acao": "manter"}
+{"id": "otdb-e90a01e9b6", "acao": "manter"}
+{"id": "otdb-e98acc028b", "acao": "manter"}
+{"id": "otdb-e9b895682e", "acao": "manter"}
+{"id": "otdb-ea56018cf6", "acao": "corrigir", "pt": {"q": "A fibra muscular é construída por feixes de pequenos e longos organelos chamados o quê?", "o": ["Miofibrilas", "Epimísio", "Miofilamentos", "Miocárdio"]}, "en": {"q": "Muscle fiber is constructed of bundles of small long organelles called what?", "o": ["Myofibrils", "Epimysium", "Myofilaments", "Myocardium"]}, "nota": "en: «bundles small» -> «bundles of small»; «Myofiaments» -> «Myofilaments»"}
+{"id": "otdb-ed55a42df0", "acao": "manter"}
+{"id": "otdb-ee692ad2dc", "acao": "manter"}
+{"id": "otdb-ef0ab57ffd", "acao": "manter"}
+{"id": "otdb-ef5edcca9d", "acao": "manter"}
+{"id": "otdb-efe002f256", "acao": "corrigir", "pt": {"q": "O que significava originalmente o nome da rede de anonimato Tor?", "o": ["The Ominous Router", "The Orange Router", "The Only Router", "The Onion Router"]}, "en": {"q": "What did the name of the Tor Anonymity Network originally stand for?", "o": ["The Ominous Router", "The Orange Router", "The Only Router", "The Onion Router"]}, "nota": "en: «orignially» -> «originally»"}
+{"id": "otdb-f01c9155b9", "acao": "corrigir", "pt": {"q": "O menisco medial faz parte de que articulação do corpo humano?", "o": ["Cotovelo", "Joelho", "Ombro", "Tornozelo"]}, "en": {"q": "The medial meniscus is part of which joint in the human body?", "o": ["Elbow", "Knee", "Shoulder", "Ankle"]}, "nota": "en: enunciado mal formado («forms which part of what joint») -> «is part of which joint»"}
+{"id": "otdb-f0d5f09046", "acao": "manter"}
+{"id": "otdb-f0e54a7327", "acao": "manter"}
+{"id": "otdb-f19c284008", "acao": "corrigir", "pt": {"q": "Que nome comum se dá à síndrome de stress tibial medial (MTSS)?", "o": ["Joelho de empregada doméstica", "Canelite", "Síndrome do túnel cárpico", "Cotovelo de tenista"]}, "en": {"q": "What common name is given to medial tibial stress syndrome (MTSS)?", "o": ["Housemaid's Knee", "Shin Splints", "Carpal Tunnel", "Tennis Elbow"]}, "nota": "en: «the medial condition, tibial stress syndrome» -> «medial tibial stress syndrome»"}
+{"id": "otdb-f1d14dbe42", "acao": "manter"}
+{"id": "otdb-f39e0d2dbd", "acao": "manter"}
+{"id": "otdb-f3bdfd30f3", "acao": "manter"}
+{"id": "otdb-f40cbad6e6", "acao": "manter"}
+{"id": "otdb-f43cf0b1f6", "acao": "corrigir", "pt": {"q": "O que causa a doença de Lyme?", "o": ["Uma bactéria", "Um verme parasita", "Um vírus", "Uma ameba"]}, "en": {"q": "What causes Lyme disease?", "o": ["A bacterium", "A parasitic worm", "A virus", "An amoeba"]}, "nota": "en: «A bacteria» -> «A bacterium»"}
+{"id": "otdb-f5708c9fe4", "acao": "corrigir", "pt": {"q": "Que elemento tem o símbolo químico Kr?", "o": ["Kineticium", "Querosene", "Crípton", "Cúrio"]}, "en": {"q": "What element has the chemical symbol Kr?", "o": ["Kineticium", "Kerosene", "Krypton", "Curium"]}, "nota": "en: «Kerosine» -> «Kerosene»"}
+{"id": "otdb-f6889710a8", "acao": "manter"}
+{"id": "otdb-f73b4ef9cb", "acao": "corrigir", "pt": {"q": "Que empresa desenvolveu o HoloLens?", "o": ["Tobii", "Microsoft", "HTC", "Oculus"]}, "en": {"q": "Which company developed the HoloLens?", "o": ["Tobii", "Microsoft", "HTC", "Oculus"]}, "nota": "en: «Hololens» -> «HoloLens»"}
+{"id": "otdb-f74adfedb8", "acao": "manter"}
+{"id": "otdb-f83e6aec24", "acao": "corrigir", "pt": {"q": "Quando foi fundado o site reddit?", "o": ["2005", "2006", "2008", "2004"]}, "en": {"q": "When was the website reddit founded?", "o": ["2005", "2006", "2008", "2004"]}, "nota": "en: espaço antes de «?»"}
+{"id": "otdb-f878a261c3", "acao": "manter"}
+{"id": "otdb-fa1d019e90", "acao": "manter"}
+{"id": "otdb-fa9e6ea4de", "acao": "manter"}
+{"id": "otdb-fbdd79d807", "acao": "corrigir", "pt": {"q": "De que cidade dinamarquesa deriva o nome do elemento 72 da tabela periódica?", "o": ["Herning", "Odense", "Skagen", "Copenhaga"]}, "en": {"q": "After which Danish city is the 72nd element on the periodic table named?", "o": ["Herning", "Odense", "Skagen", "Copenhagen"]}, "nota": "en: «72th» -> «72nd»"}
+{"id": "otdb-fbe5a7cdc1", "acao": "manter"}
+{"id": "otdb-fc401f3974", "acao": "manter"}
+{"id": "otdb-fc4d11a0a5", "acao": "manter"}
+{"id": "otdb-fc592437e0", "acao": "manter"}
+{"id": "otdb-fc9c482c77", "acao": "manter"}
+{"id": "otdb-fcfd997258", "acao": "manter"}
+{"id": "otdb-fe3f25596f", "acao": "corrigir", "pt": {"q": "Quais são os dois homens a quem se atribui a descoberta independente do cálculo diferencial?", "o": ["Newton e Leibniz", "Platão e Aristóteles", "Asimov e Rutherford", "Dvorak e Smith"]}, "en": {"q": "Which two men are credited with independently discovering differential calculus?", "o": ["Newton and Leibniz", "Plato and Aristotle", "Asimov and Rutherford", "Dvorak and Smith"]}, "nota": "en: «Leibnitz» -> «Leibniz», «Asiimov» -> «Asimov», espaço a mais"}
+{"id": "otdb-fe4a50c8bd", "acao": "manter"}
+{"id": "otdb-fef595059a", "acao": "manter"}
+{"id": "otdb-ff4cd2c545", "acao": "corrigir", "pt": {"q": "Em HTML, que etiqueta não padrão servia para fazer elementos deslizarem pelo ecrã?", "o": ["<move></move>", "<scroll></scroll>", "<marquee></marquee>", "<slide></slide>"]}, "en": {"q": "In HTML, which non-standard tag used to be used to make elements scroll across the viewport?", "o": ["<move></move>", "<scroll></scroll>", "<marquee></marquee>", "<slide></slide>"]}, "nota": "en: «be be» -> «be»"}
+{"id": "otdb-05a227464c", "acao": "manter"}
+{"id": "otdb-0b79e7f51a", "acao": "manter"}
+{"id": "otdb-2a2d080e44", "acao": "manter"}
+{"id": "otdb-2d035b693b", "acao": "manter"}
+{"id": "otdb-2d4f2bacd4", "acao": "manter"}
+{"id": "otdb-34a03e9a99", "acao": "manter"}
+{"id": "otdb-3773026b89", "acao": "manter"}
+{"id": "otdb-3c46aa3ebf", "acao": "manter"}
+{"id": "otdb-3d048f6b02", "acao": "manter"}
+{"id": "otdb-46b244f764", "acao": "manter"}
+{"id": "otdb-4d5425a580", "acao": "manter"}
+{"id": "otdb-67d192800d", "acao": "manter"}
+{"id": "otdb-6895137d62", "acao": "manter"}
+{"id": "otdb-6a2414843f", "acao": "manter"}
+{"id": "otdb-6ef6c1ea94", "acao": "manter"}
+{"id": "otdb-71e9e152cb", "acao": "manter"}
+{"id": "otdb-7cb14e3723", "acao": "corrigir", "pt": {"q": "O nome de que deusa grega foi escolhido para o planeta anão que provocou a discórdia entre os astrónomos sobre a classificação de Plutão?", "o": ["Disnomia", "Caronte", "Ceres", "Éris"]}, "en": {"q": "This Greek goddess's name was chosen for the dwarf planet responsible for discord on Pluto's classification amongst astronomers.", "o": ["Dysnomia", "Charon", "Ceres", "Eris"]}, "nota": "pt: «Disnómia» -> «Disnomia»"}
+{"id": "otdb-7d3b548bd3", "acao": "manter"}
+{"id": "otdb-8371a43d07", "acao": "manter"}
+{"id": "otdb-83826d66e4", "acao": "corrigir", "pt": {"q": "No voo de teste do Falcon Heavy, qual foi a única parte da operação que falhou?", "o": ["A ignição e a descolagem", "A aterragem do núcleo central", "A colocação do Starman em órbita", "A aterragem dos propulsores laterais"]}, "en": {"q": "When the Falcon Heavy was launched on its test flight, what was the only part of the operation that failed?", "o": ["Ignition and Liftoff", "Center Core Landing", "Deployment of Starman", "Side Booster Landing"]}, "nota": "en: «it's» -> «its»"}
+{"id": "otdb-851fba806a", "acao": "tirar", "motivo": "trivial", "nota": "duplicada de otdb-3d048f6b02 (número de planetas)"}
+{"id": "otdb-86d32a0b53", "acao": "manter"}
+{"id": "otdb-9038240207", "acao": "corrigir", "pt": {"q": "Qual é o nome do telescópio espacial mais famoso da NASA?", "o": ["Millennium Falcon", "Estrela da Morte", "Olho Grande", "Telescópio Espacial Hubble"]}, "en": {"q": "What is the name of NASA’s most famous space telescope?", "o": ["Millennium Falcon", "Death Star", "Big Eye", "Hubble Space Telescope"]}, "nota": "en: «Millenium» -> «Millennium»"}
+{"id": "otdb-90b0fda8bd", "acao": "manter"}
+{"id": "otdb-9869418ab5", "acao": "tirar", "motivo": "trivial", "nota": "duplicada de otdb-6895137d62 (planeta mais próximo do Sol)"}
+{"id": "otdb-a1bcdea093", "acao": "corrigir", "pt": {"q": "Qual é o planeta mais quente do Sistema Solar?", "o": ["Mercúrio", "Vénus", "Júpiter", "Marte"]}, "en": {"q": "What is the hottest planet in the solar system?", "o": ["Mercury", "Venus", "Jupiter", "Mars"]}, "nota": "en: falta «?» e espaço a mais em «Mercury »"}
+{"id": "otdb-ac797d4718", "acao": "manter"}
+{"id": "otdb-adce7291aa", "acao": "manter"}
+{"id": "otdb-af90643827", "acao": "manter"}
+{"id": "otdb-b43bdff4ef", "acao": "tirar", "motivo": "trivial", "nota": "duplicada de otdb-3d048f6b02 (número de planetas)"}
+{"id": "otdb-b97ce62988", "acao": "manter"}
+{"id": "otdb-bd30c18759", "acao": "manter"}
+{"id": "otdb-bdc2c47296", "acao": "manter"}
+{"id": "otdb-bdd8624d66", "acao": "manter"}
+{"id": "otdb-cb5bcb316f", "acao": "corrigir", "pt": {"q": "Ganimedes é a maior lua de que planeta?", "o": ["Júpiter", "Neptuno", "Urano", "Marte"]}, "en": {"q": "Ganymede is the largest moon of which planet?", "o": ["Jupiter", "Neptune", "Uranus", "Mars"]}, "nota": "en: «Gannymede» -> «Ganymede»"}
+{"id": "otdb-cbc64421d3", "acao": "manter"}
+{"id": "otdb-d1254f9e7f", "acao": "manter"}
+{"id": "otdb-e45cbdf087", "acao": "manter"}
+{"id": "otdb-f07d96554a", "acao": "manter"}
+{"id": "otdb-f9617cc209", "acao": "manter"}
+{"id": "otdb-fafcbf676c", "acao": "manter"}
+{"id": "wd-descobridor-Q15034", "acao": "manter"}
+{"id": "wd-descobridor-Q15040", "acao": "manter"}
+{"id": "wd-descobridor-Q15047", "acao": "manter"}
+{"id": "wd-descobridor-Q15050", "acao": "manter"}
+{"id": "wd-descobridor-Q16076", "acao": "manter"}
+{"id": "wd-descobridor-Q17958", "acao": "manter"}
+{"id": "wd-descobridor-Q17975", "acao": "manter"}
+{"id": "wd-descobridor-Q194", "acao": "tirar", "motivo": "facto", "nota": "os anéis de Saturno não são uma lua; enunciado errado, e a descoberta é ambígua (Galileu observou-os, Huygens identificou-os como anel)"}
+{"id": "wd-descobridor-Q2565", "acao": "manter"}
+{"id": "wd-descobridor-Q3123", "acao": "manter"}
+{"id": "wd-descobridor-Q3134", "acao": "manter"}
+{"id": "wd-descobridor-Q3169", "acao": "corrigir", "pt": {"q": "Quem descobriu Ganimedes, lua de um planeta do Sistema Solar?", "o": ["William Herschel", "William Lassell", "Giovanni Domenico Cassini", "Galileu Galilei"]}, "en": {"q": "Who discovered Ganymede, a moon of a Solar System planet?", "o": ["William Herschel", "William Lassell", "Giovanni Domenico Cassini", "Galileo Galilei"]}, "nota": "pt: «Ganímedes» -> «Ganimedes» (forma corrente, igual à de otdb-cb5bcb316f)"}
+{"id": "wd-descobridor-Q3257", "acao": "manter"}
+{"id": "wd-descobridor-Q3303", "acao": "manter"}
+{"id": "wd-descobridor-Q3322", "acao": "manter"}
+{"id": "wd-descobridor-Q3332", "acao": "manter"}
+{"id": "wd-descobridor-Q3338", "acao": "manter"}
+{"id": "wd-descobridor-Q3343", "acao": "manter"}
+{"id": "wd-descobridor-Q3352", "acao": "manter"}
+{"id": "wd-descobridor-Q3359", "acao": "manter"}
+{"id": "wd-descobridor-Q7547", "acao": "manter"}
+{"id": "wd-descobridor-Q7548", "acao": "manter"}
+{"id": "wd-lua-Q13938622", "acao": "manter"}
+{"id": "wd-lua-Q15034", "acao": "manter"}
+{"id": "wd-lua-Q15037", "acao": "manter"}
+{"id": "wd-lua-Q15040", "acao": "manter"}
+{"id": "wd-lua-Q15047", "acao": "manter"}
+{"id": "wd-lua-Q15050", "acao": "manter"}
+{"id": "wd-lua-Q15613", "acao": "manter"}
+{"id": "wd-lua-Q15616", "acao": "manter"}
+{"id": "wd-lua-Q15629", "acao": "manter"}
+{"id": "wd-lua-Q15633", "acao": "manter"}
+{"id": "wd-lua-Q15637", "acao": "manter"}

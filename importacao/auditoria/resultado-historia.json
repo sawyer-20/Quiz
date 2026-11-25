@@ -1,0 +1,414 @@
+[
+ {
+  "id": "otdb-58adad0166",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Republics_of_the_Soviet_Union",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-8fafda3736",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_Commonwealth",
+  "problemas": [
+   "traducao"
+  ],
+  "nota": "«formaram uma comunidade» não traduz bem «commonwealth» (em pt-PT: República das Duas Nações / Comunidade Polaco-Lituana, 1569-1795); en também chama «countries» a «Hutu»."
+ },
+ {
+  "id": "otdb-eca259dbf9",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Tokyo_subway_sarin_attack",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-0cb22294eb",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Swissair_Flight_111",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-84f8c495f2",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Chichen_Itza",
+  "problemas": [],
+  "nota": "Construída pelos maias; a antiga tese de influência tolteca está hoje desacreditada, mas convém não usar «Toltecas» como distrator sem nota."
+ },
+ {
+  "id": "otdb-ead34d4846",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Columbian_exchange",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-124c94fe49",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/October_Revolution",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-12df710028",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Doolittle_Raid",
+  "problemas": [
+   "eua"
+  ],
+  "nota": "Episódio sobretudo conhecido nos EUA; en tem gralha «Doolitte»."
+ },
+ {
+  "id": "otdb-7d0a2ccd6e",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Cuban_Missile_Crisis",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-9451967b69",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Battle_of_Bosworth_Field",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-9b77488314",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Canadian_Confederation",
+  "problemas": [
+   "ambigua"
+  ],
+  "nota": "«Fundado» é vago: 1867 é a Confederação, não a fundação; melhor perguntar pela Confederação."
+ },
+ {
+  "id": "otdb-91c05a3290",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Enola_Gay",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-69d3df4643",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Shogun",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-7341ddcf42",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Constitution_of_Norway",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-01c09adbbd",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": "https://www.army.mil/article/15949/battle_of_the_bulge_ends_25_january_1945",
+  "problemas": [
+   "texto"
+  ],
+  "nota": "Em pt-PT «Batalha do Bulge» é decalque; o nome corrente é Batalha das Ardenas (algumas fontes dão 28 de janeiro como fim)."
+ },
+ {
+  "id": "otdb-2c2d8e120b",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Peasants%27_Revolt",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-821fccbf26",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Dissolution_of_the_union_between_Norway_and_Sweden",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-e201806361",
+  "resposta": 0,
+  "certeza": "media",
+  "fonte": "https://www.pbs.org/articles/king-tutankhamun-life-death-family",
+  "problemas": [
+   "ambigua"
+  ],
+  "nota": "Idade estimada: fontes dão 18 ou 19 (Wikipedia: cerca de 18); o enunciado apresenta-a como exata."
+ },
+ {
+  "id": "otdb-b22890fee4",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Genghis_Khan",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-dcec36dae1",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Unua_Libro",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-ee3b6ab6fe",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Wars_of_the_Roses",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-40b3444f60",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Chernobyl_disaster",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-27e7cc4eda",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Assyrian_people",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-e8f550ff8d",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Handover_of_Hong_Kong",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-64ef173e8b",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Axis_powers",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-b30f713780",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_the_United_Kingdom",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-6e77c50bc6",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Jethro_Tull_(agriculturist)",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-d2b72d6969",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Olympic-class_ocean_liner",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-87b5d9ac7a",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Nationalist_faction_(Spanish_Civil_War)",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-9c62e96be7",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Gallipoli_campaign",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-a6f8a10c86",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Louis_XIV",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-262fd5e848",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Battle_of_Verdun",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-42c15ce8ea",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Skanderbeg",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-8306b3a3c5",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Orange_Revolution",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-d2db5194ed",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Ides_of_March",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-2574d9b0b9",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Vietnam_War",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-45bfc6f3b0",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Jos%C3%A9_Rizal",
+  "problemas": [
+   "ambigua"
+  ],
+  "nota": "Rizal inspirou mas não liderou a Revolução Filipina (liderada por Bonifacio e Aguinaldo); o enunciado é factualmente enganador."
+ },
+ {
+  "id": "otdb-e64239191c",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Year_of_the_Four_Emperors",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-4a0e6c5eaf",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Assassination_of_Abraham_Lincoln",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-ef7ea27a4c",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Proclamation_of_the_People%27s_Republic_of_China",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-f6062ab6ff",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Neville_Chamberlain",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-7b3cf5ec60",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Napoleon",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-f82193f8fd",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Jomo_Kenyatta",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-a6b15d4674",
+  "resposta": 0,
+  "certeza": "media",
+  "fonte": "https://en.wikipedia.org/wiki/Mongol_invasions_of_Japan",
+  "problemas": [],
+  "nota": "Resposta corrente; o peso real dos tufões (sobretudo em 1274) é debatido pelos historiadores."
+ },
+ {
+  "id": "otdb-ce6acdaa05",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Titanic",
+  "problemas": [],
+  "nota": "Valor de referência 882 ft 9 in (269,1 m); a opção 882 ft | 268,8 m é a conversão de 882 ft, aceitável."
+ },
+ {
+  "id": "otdb-0a202d74e3",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Let_them_eat_cake",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-2909dc9618",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Otto_von_Bismarck",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-3472de3135",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Normandy_landings",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-e8b49f9222",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/League_of_Communists_of_Yugoslavia",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-4e9ccb4a79",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Invasion_of_Poland",
+  "problemas": [],
+  "nota": ""
+ }
+]

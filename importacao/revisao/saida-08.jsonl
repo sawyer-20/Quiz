@@ -1,0 +1,200 @@
+{"id": "wd-grupo-Q42623", "acao": "manter"}
+{"id": "wd-grupo-Q42627", "acao": "corrigir", "pt": {"q": "A que grupo de animais pertence a espécie gato-leopardo?", "o": ["Répteis", "Anfíbios", "Mamíferos", "Aves"]}, "en": {"q": "Which group of animals does the leopard cat belong to?", "o": ["Reptiles", "Amphibians", "Mammals", "Birds"]}, "nota": "en: nome científico substituído pelo nome comum «leopard cat»."}
+{"id": "wd-grupo-Q44299", "acao": "manter"}
+{"id": "wd-grupo-Q4504", "acao": "corrigir", "pt": {"q": "A que grupo de animais pertence a espécie dragão-de-komodo?", "o": ["Aves", "Répteis", "Mamíferos", "Anfíbios"]}, "en": {"q": "Which group of animals does the Komodo dragon belong to?", "o": ["Birds", "Reptiles", "Mammals", "Amphibians"]}, "nota": "en: «Komodo» com maiúscula."}
+{"id": "wd-grupo-Q48186", "acao": "manter"}
+{"id": "wd-grupo-Q54696", "acao": "corrigir", "pt": {"q": "A que grupo de animais pertence a espécie rola-turca?", "o": ["Aves", "Anfíbios", "Mamíferos", "Répteis"]}, "en": {"q": "Which group of animals does the Eurasian collared dove belong to?", "o": ["Birds", "Amphibians", "Mammals", "Reptiles"]}, "nota": "en: capitalização («Eurasian collared dove»)."}
+{"id": "wd-grupo-Q6145", "acao": "corrigir", "pt": {"q": "A que grupo de animais pertence a espécie ouriço-cacheiro?", "o": ["Anfíbios", "Mamíferos", "Répteis", "Aves"]}, "en": {"q": "Which group of animals does the European hedgehog belong to?", "o": ["Amphibians", "Mammals", "Reptiles", "Birds"]}, "nota": "en: «European» com maiúscula."}
+{"id": "wd-grupo-Q61865", "acao": "corrigir", "pt": {"q": "A que grupo de animais pertence a espécie pavão-indiano?", "o": ["Mamíferos", "Anfíbios", "Répteis", "Aves"]}, "en": {"q": "Which group of animals does the Indian peafowl belong to?", "o": ["Mammals", "Amphibians", "Reptiles", "Birds"]}, "nota": "en: capitalização («Indian peafowl»)."}
+{"id": "wd-grupo-Q79794", "acao": "corrigir", "pt": {"q": "A que grupo de animais pertence a espécie veado?", "o": ["Répteis", "Mamíferos", "Aves", "Anfíbios"]}, "en": {"q": "Which group of animals does the red deer belong to?", "o": ["Reptiles", "Mammals", "Birds", "Amphibians"]}, "nota": "pt: «veado-vermelho» (calque) passa a «veado», nome usado em Portugal para Cervus elaphus."}
+{"id": "wd-grupo-Q81091", "acao": "corrigir", "pt": {"q": "A que grupo de animais pertence a espécie bisonte-europeu?", "o": ["Anfíbios", "Répteis", "Mamíferos", "Aves"]}, "en": {"q": "Which group of animals does the European bison belong to?", "o": ["Amphibians", "Reptiles", "Mammals", "Birds"]}, "nota": "en: nome científico substituído por «European bison»."}
+{"id": "wd-grupo-Q81214", "acao": "manter"}
+{"id": "wd-grupo-Q82738", "acao": "corrigir", "pt": {"q": "A que grupo de animais pertence a espécie raposa-do-ártico?", "o": ["Anfíbios", "Mamíferos", "Aves", "Répteis"]}, "en": {"q": "Which group of animals does the Arctic fox belong to?", "o": ["Amphibians", "Mammals", "Birds", "Reptiles"]}, "nota": "en: «Arctic» com maiúscula."}
+{"id": "otdb-0206cd2822", "acao": "manter"}
+{"id": "otdb-0292636f05", "acao": "manter"}
+{"id": "otdb-02e390a941", "acao": "corrigir", "pt": {"q": "Que cartucho usa o clássico AK-47?", "o": ["7,62x39mm", "5,45x39mm", "5,56x45mm", "7,62x51mm"]}, "en": {"q": "What round is a classic AK-47 chambered in?", "o": ["7.62x39mm", "5.45x39mm", "5.56x45mm", "7.62x51mm"]}, "nota": "pt: vírgula decimal nos calibres."}
+{"id": "otdb-03bec6a6bf", "acao": "manter"}
+{"id": "otdb-0454c790d5", "acao": "manter"}
+{"id": "otdb-0474e998ee", "acao": "manter"}
+{"id": "otdb-063878351d", "acao": "manter"}
+{"id": "otdb-06a2a85548", "acao": "corrigir", "pt": {"q": "Qual é o termo correto para o objeto metálico colocado entre o processador e a ventoinha do processador num computador?", "o": ["Ventilação de calor", "Ventilação do CPU", "Decifrador de temperatura", "Dissipador de calor"]}, "en": {"q": "What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?", "o": ["Heat Vent", "CPU Vent", "Temperature Decipherer", "Heat Sink"]}, "nota": "en: gralha «Decipator» corrigida para corresponder ao pt («Decifrador»)."}
+{"id": "otdb-079186f461", "acao": "manter"}
+{"id": "otdb-07cbf84a88", "acao": "manter"}
+{"id": "otdb-0855f46bf6", "acao": "manter"}
+{"id": "otdb-085e707c89", "acao": "manter"}
+{"id": "otdb-085f2c31c6", "acao": "manter"}
+{"id": "otdb-09ff77bc1b", "acao": "manter"}
+{"id": "otdb-0ad579adeb", "acao": "manter"}
+{"id": "otdb-0bcd0be877", "acao": "corrigir", "pt": {"q": "Qual é o número atómico do urânio?", "o": ["92", "167", "235", "17"]}, "en": {"q": "What is the atomic number of uranium?", "o": ["92", "167", "235", "17"]}, "nota": "en: falta o ponto de interrogação e espaços a mais."}
+{"id": "otdb-0ca2385d9d", "acao": "manter"}
+{"id": "otdb-0cfbd0f3e7", "acao": "manter"}
+{"id": "otdb-0edd10b919", "acao": "manter"}
+{"id": "otdb-0f1af15c3b", "acao": "corrigir", "pt": {"q": "Qual destas distribuições de probabilidade NÃO é discreta?", "o": ["Normal", "Hipergeométrica", "Binomial", "Poisson"]}, "en": {"q": "Which of these probability distributions is NOT discrete?", "o": ["Normal", "Hypergeometric", "Binomial", "Poisson"]}, "nota": "en: «Hyper-geometric» → «Hypergeometric»."}
+{"id": "otdb-0f52947458", "acao": "manter"}
+{"id": "otdb-0f9d9640dd", "acao": "manter"}
+{"id": "otdb-0fe9b3e1ac", "acao": "manter"}
+{"id": "otdb-1182778c27", "acao": "manter"}
+{"id": "otdb-1342189479", "acao": "manter"}
+{"id": "otdb-13d4642e7b", "acao": "corrigir", "pt": {"q": "A fabricante de computadores Compaq foi adquirida em 2002, por 25 mil milhões de dólares, por que empresa?", "o": ["Toshiba", "Hewlett-Packard", "Asus", "Dell"]}, "en": {"q": "Computer manufacturer Compaq was acquired for $25 billion in 2002 by which company?", "o": ["Toshiba", "Hewlett-Packard", "Asus", "Dell"]}, "nota": "en: «$25 billion dollars» redundante."}
+{"id": "otdb-144fd67533", "acao": "corrigir", "pt": {"q": "Em relação aos sistemas operativos Windows, o que significa AD?", "o": ["Active Department", "Active Directory", "Alternative Drive", "Automated Database"]}, "en": {"q": "What does AD stand for in relation to Windows operating systems?", "o": ["Active Department", "Active Directory", "Alternative Drive", "Automated Database"]}, "nota": "en: espaços a mais no fim."}
+{"id": "otdb-1598156d1e", "acao": "manter"}
+{"id": "otdb-16a94911cf", "acao": "corrigir", "pt": {"q": "Quantos bits tem normalmente um byte?", "o": ["Quinze bits", "Doze bits", "Oito bits", "Seis bits"]}, "en": {"q": "How many bits are commonly in a single byte?", "o": ["Fifteen bits", "Twelve bits", "Eight bits", "Six bits"]}, "nota": "en: espaço inicial numa opção."}
+{"id": "otdb-171bcdc346", "acao": "manter"}
+{"id": "otdb-1859d73a24", "acao": "manter"}
+{"id": "otdb-194d01d1f5", "acao": "manter"}
+{"id": "otdb-1966f4204c", "acao": "manter"}
+{"id": "otdb-19c3d7dd2f", "acao": "corrigir", "pt": {"q": "O gelo seco é a forma sólida de que substância?", "o": ["Dióxido de carbono", "Oxigénio", "Amoníaco", "Azoto"]}, "en": {"q": "Dry ice is the solid form of what substance?", "o": ["Carbon dioxide", "Oxygen", "Ammonia", "Nitrogen"]}, "nota": "pt: «gelo-seco» → «gelo seco»."}
+{"id": "otdb-1d10aac92f", "acao": "manter"}
+{"id": "otdb-1e0f3c52cd", "acao": "manter"}
+{"id": "otdb-1e2e5e7b65", "acao": "manter"}
+{"id": "otdb-1e50a8173f", "acao": "manter"}
+{"id": "otdb-1e6a8f06a1", "acao": "manter"}
+{"id": "otdb-1eba43c67e", "acao": "manter"}
+{"id": "otdb-1f76acf8c9", "acao": "manter"}
+{"id": "otdb-1f93a95453", "acao": "manter"}
+{"id": "otdb-1fc12e0e2a", "acao": "manter"}
+{"id": "otdb-21061250ee", "acao": "tirar", "motivo": "pista", "nota": "Em pt, «umbigo» e «Umbilicus» partilham a raiz; pista só no pt."}
+{"id": "otdb-2297485b45", "acao": "manter"}
+{"id": "otdb-230be34d0e", "acao": "corrigir", "pt": {"q": "Quantos lados tem um heptágono?", "o": ["7", "8", "6", "5"]}, "en": {"q": "How many sides does a heptagon have?", "o": ["7", "8", "6", "5"]}, "nota": "en: opções diferentes do pt; alinhadas com o pt (mesma ordem e certa)."}
+{"id": "otdb-231b762ac5", "acao": "manter"}
+{"id": "otdb-2546fbd20c", "acao": "manter"}
+{"id": "otdb-260e6d02e9", "acao": "manter"}
+{"id": "otdb-26a77b1889", "acao": "corrigir", "pt": {"q": "Que elemento químico, o número 11 da Tabela Periódica, tem o símbolo Na?", "o": ["Carbono", "Azoto", "Sódio", "Chumbo"]}, "en": {"q": "Which chemical element, number 11 in the Periodic table, has the symbol Na?", "o": ["Carbon", "Nitrogen", "Sodium", "Lead"]}, "nota": "en: espaço inicial."}
+{"id": "otdb-26af9d2412", "acao": "manter"}
+{"id": "otdb-271d36f17a", "acao": "manter"}
+{"id": "otdb-2777898065", "acao": "manter"}
+{"id": "otdb-287937b935", "acao": "corrigir", "pt": {"q": "Em aeronáutica, os flaps e os slats servem para controlar o quê num avião?", "o": ["A sustentação", "O impulso", "O arrasto", "O peso"]}, "en": {"q": "In aeronautics, flaps and slats are used to control what on an aircraft?", "o": ["Lift", "Thrust", "Drag", "Weight"]}, "nota": "en: espaço final numa opção."}
+{"id": "otdb-2879f20919", "acao": "manter"}
+{"id": "otdb-296251576f", "acao": "corrigir", "pt": {"q": "Quais são os vasos sanguíneos mais pequenos do corpo humano?", "o": ["Arteríolas", "Capilares", "Vasos linfáticos", "Vénulas"]}, "en": {"q": "What are the smallest blood vessels in the human body?", "o": ["Arterioles", "Capillaries", "Lymphatics", "Venules"]}, "nota": "en: «Veinules» → «Venules»."}
+{"id": "otdb-2a50d5c3aa", "acao": "manter"}
+{"id": "otdb-2a5faf6ad2", "acao": "manter"}
+{"id": "otdb-2acd9dec82", "acao": "manter"}
+{"id": "otdb-2ad8ee84e8", "acao": "manter"}
+{"id": "otdb-2af4a38a59", "acao": "corrigir", "pt": {"q": "Que doença genética é causada por um cromossoma Y a mais (XYY)?", "o": ["Síndrome de Klinefelter", "Síndrome de Down", "Síndrome de Jacobs", "Síndrome de Turner"]}, "en": {"q": "What genetic disease is caused by having an extra Y chromosome (XYY)?", "o": ["Klinefelter's Syndrome", "Down Syndrome", "Jacobs Syndrome", "Turner's Syndrome"]}, "nota": "en: «Jacob's Syndrome» → «Jacobs Syndrome»."}
+{"id": "otdb-2c0e7ba399", "acao": "manter"}
+{"id": "otdb-2c65ddef23", "acao": "manter"}
+{"id": "otdb-2c9f31e289", "acao": "manter"}
+{"id": "otdb-2d8df77a16", "acao": "manter"}
+{"id": "otdb-2ee9cc9629", "acao": "manter"}
+{"id": "otdb-2efc02ec18", "acao": "corrigir", "pt": {"q": "Quantos lados tem um trapézio?", "o": ["4", "5", "3", "6"]}, "en": {"q": "How many sides does a trapezoid have?", "o": ["4", "5", "3", "6"]}, "nota": "en-US: «trapezium» → «trapezoid»."}
+{"id": "otdb-2f52ceb2d0", "acao": "corrigir", "pt": {"q": "Qual destes físicos teóricos previu pela primeira vez a existência da antimatéria?", "o": ["Albert Einstein", "Niels Bohr", "Paul Dirac", "Werner Heisenberg"]}, "en": {"q": "Which of these theoretical physicists first predicted the existence of antimatter?", "o": ["Albert Einstein", "Niels Bohr", "Paul Dirac", "Werner Heisenberg"]}, "nota": "en: gralha «phycisists»."}
+{"id": "otdb-31e5ef60a5", "acao": "manter"}
+{"id": "otdb-33623c6123", "acao": "corrigir", "pt": {"q": "O que é conhecido como a «central energética da célula»?", "o": ["O retículo endoplasmático", "A mitocôndria", "O núcleo", "O aparelho de Golgi"]}, "en": {"q": "What cell organelle is known as \"the powerhouse of the cell\"?", "o": ["Endoplasmic reticulum", "Mitochondria", "Nucleus", "Golgi apparatus"]}, "nota": "en: pontuação das aspas."}
+{"id": "otdb-33f644e59f", "acao": "corrigir", "pt": {"q": "Quantos zeptómetros há num femtómetro?", "o": ["1 000 000", "1000", "1 000 000 000", "10"]}, "en": {"q": "How many zeptometers are inside one femtometer?", "o": ["1,000,000", "1000", "1,000,000,000", "10"]}, "nota": "en-US: «zeptometres/femtometre» → grafia americana."}
+{"id": "otdb-342c2520df", "acao": "manter"}
+{"id": "otdb-358175ef4b", "acao": "tirar", "motivo": "trivial", "nota": "Inventor da Super Soaker: facto obscuro e centrado nos EUA."}
+{"id": "otdb-36007be74f", "acao": "corrigir", "pt": {"q": "O urânio natural é constituído sobretudo por que isótopo?", "o": ["233", "239", "235", "238"]}, "en": {"q": "Naturally occurring uranium primarily consists of which isotope?", "o": ["233", "239", "235", "238"]}, "nota": "en: gralha «occuring»."}
+{"id": "otdb-36e094e97f", "acao": "manter"}
+{"id": "otdb-376696a7ad", "acao": "manter"}
+{"id": "otdb-37dae89933", "acao": "corrigir", "pt": {"q": "Qual dos seguintes ossos não existe na perna?", "o": ["Perónio", "Rádio", "Rótula", "Tíbia"]}, "en": {"q": "Which of the following bones is not in the leg?", "o": ["Fibula", "Radius", "Patella", "Tibia"]}, "nota": "en: espaço final numa opção."}
+{"id": "otdb-3b9df37bbd", "acao": "manter"}
+{"id": "otdb-3bb7c326ab", "acao": "manter"}
+{"id": "otdb-3cb7fee357", "acao": "corrigir", "pt": {"q": "Qual destes é usado para mostrar que a Terra gira sobre um eixo?", "o": ["Relógio de sol", "Pêndulo de Foucault", "Placas tectónicas", "Estrela Polar"]}, "en": {"q": "Which of these is used to show that Earth spins on an axis?", "o": ["Sundial", "Foucault Pendulum", "Tectonic Plates", "Polaris"]}, "nota": "en: espaços a mais."}
+{"id": "otdb-3ce856baa5", "acao": "manter"}
+{"id": "otdb-3da989b261", "acao": "manter"}
+{"id": "otdb-3dba9016c3", "acao": "manter"}
+{"id": "otdb-3dd237072e", "acao": "manter"}
+{"id": "otdb-3eb4e0fa6f", "acao": "manter"}
+{"id": "otdb-3f5d037301", "acao": "manter"}
+{"id": "otdb-3fac3289ae", "acao": "manter"}
+{"id": "otdb-3fb743e736", "acao": "manter"}
+{"id": "otdb-4001ce96b7", "acao": "manter"}
+{"id": "otdb-4134b68f7b", "acao": "manter"}
+{"id": "otdb-41454b0af0", "acao": "manter"}
+{"id": "otdb-419423cac2", "acao": "manter"}
+{"id": "otdb-43fc414714", "acao": "manter"}
+{"id": "otdb-450030ec6a", "acao": "manter"}
+{"id": "otdb-47c63483b5", "acao": "manter"}
+{"id": "otdb-4983313f88", "acao": "manter"}
+{"id": "otdb-4aa2895479", "acao": "manter"}
+{"id": "otdb-4c307d64ac", "acao": "manter"}
+{"id": "otdb-501a3cfbf6", "acao": "manter"}
+{"id": "otdb-51c582b03c", "acao": "manter"}
+{"id": "otdb-52bfe5fecd", "acao": "manter"}
+{"id": "otdb-554c02e7ba", "acao": "manter"}
+{"id": "otdb-58215458e6", "acao": "manter"}
+{"id": "otdb-5ba06cb8de", "acao": "manter"}
+{"id": "otdb-5c81744c02", "acao": "manter"}
+{"id": "otdb-5d5a90b9b6", "acao": "manter"}
+{"id": "otdb-5f8d7f383a", "acao": "manter"}
+{"id": "otdb-61e7b312e0", "acao": "manter"}
+{"id": "otdb-621e368833", "acao": "manter"}
+{"id": "otdb-6270f7a67b", "acao": "manter"}
+{"id": "otdb-63869f1dd4", "acao": "manter"}
+{"id": "otdb-649189fe7c", "acao": "manter"}
+{"id": "otdb-682b79c9ca", "acao": "manter"}
+{"id": "otdb-6872dc3b29", "acao": "corrigir", "pt": {"q": "O sistema de numeração de base 16 é mais comummente conhecido como:", "o": ["Hexadecimal", "Binário", "Duodecimal", "Octal"]}, "en": {"q": "The numbering system with a radix of 16 is more commonly referred to as:", "o": ["Hexadecimal", "Binary", "Duodecimal", "Octal"]}, "nota": "en: gralha «Hexidecimal» e espaços finais."}
+{"id": "otdb-68a5a45977", "acao": "manter"}
+{"id": "otdb-699efe7b68", "acao": "manter"}
+{"id": "otdb-69e26ba134", "acao": "corrigir", "pt": {"q": "Que grande evento de extinção foi causado pelo impacto de um asteroide e eliminou a maioria dos dinossauros não avianos?", "o": ["Ordovícico-Silúrico", "Triássico-Jurássico", "Cretácico-Paleogénico", "Permiano-Triássico"]}, "en": {"q": "Which major extinction event was caused by an asteroid collision and eliminated the majority of non-avian dinosaurs?", "o": ["Ordovician–Silurian", "Triassic–Jurassic", "Cretaceous–Paleogene", "Permian–Triassic"]}, "nota": "en: hífen uniformizado com os travessões das outras opções."}
+{"id": "otdb-69eb443e61", "acao": "manter"}
+{"id": "otdb-69f60dd638", "acao": "manter"}
+{"id": "otdb-6a8904d92d", "acao": "manter"}
+{"id": "otdb-6c021e6beb", "acao": "corrigir", "pt": {"q": "Como se chama a ilusão auditiva de uma nota que parece subir indefinidamente?", "o": ["Tom de Shepard", "Efeito McGurk", "Ilusão de Glissandro", "Efeito Fransen"]}, "en": {"q": "What is the name for the auditory illusion of a note that seems to be rising infinitely?", "o": ["Shepard Tone", "McGurk Effect", "Glissandro Illusion", "Fransen Effect"]}, "nota": "en: gralha «McGurck»."}
+{"id": "otdb-6c03cb4e98", "acao": "manter"}
+{"id": "otdb-6cdd19b119", "acao": "corrigir", "pt": {"q": "Em hexadecimal, que cor corresponde ao código de cor «#00FF00»?", "o": ["Azul", "Verde", "Amarelo", "Vermelho"]}, "en": {"q": "In hexadecimal, what color is displayed by the color code \"#00FF00\"?", "o": ["Blue", "Green", "Yellow", "Red"]}, "nota": "en: pontuação partida no enunciado."}
+{"id": "otdb-6d06ab39dc", "acao": "tirar", "motivo": "calque", "nota": "Em pt-PT a circunferência é a linha, não o perímetro; a pergunta não funciona em pt."}
+{"id": "otdb-6fb8d34516", "acao": "corrigir", "pt": {"q": "Qual é o símbolo químico do hélio?", "o": ["He", "Hs", "Hg", "H"]}, "en": {"q": "What is the chemical symbol for Helium?", "o": ["He", "Hs", "Hg", "H"]}, "nota": "en: espaço inicial."}
+{"id": "otdb-718d5d56f2", "acao": "manter"}
+{"id": "otdb-72341f3e2c", "acao": "corrigir", "pt": {"q": "Qual é a fórmula molecular do componente ativo das malaguetas, a capsaicina?", "o": ["C18H27NO3", "C13H25NO4", "C6H4Cl2", "C21H23NO3"]}, "en": {"q": "What is the molecular formula of the active component of chili peppers (capsaicin)?", "o": ["C18H27NO3", "C13H25NO4", "C6H4Cl2", "C21H23NO3"]}, "nota": "en: espaço em falta antes do parêntese."}
+{"id": "otdb-72c7dbfabd", "acao": "manter"}
+{"id": "otdb-74c966721b", "acao": "manter"}
+{"id": "otdb-74d02362a6", "acao": "corrigir", "pt": {"q": "A constante matemática conhecida como «Número de Ouro» é mais comummente representada por que letra grega?", "o": ["Ψ (psi)", "Τ (tau)", "Φ (fi)", "π (pi)"]}, "en": {"q": "A mathematical constant, known as \"The Golden Ratio\", is most commonly represented by which Greek letter?", "o": ["Ψ (psi)", "Τ (tau)", "Φ (phi)", "π (pi)"]}, "nota": "en: «greek» → «Greek»."}
+{"id": "otdb-789a83b90f", "acao": "tirar", "motivo": "trivial", "nota": "Cálculo trivial em milhas/mph, unidades dos EUA."}
+{"id": "otdb-792913ebec", "acao": "manter"}
+{"id": "otdb-7a5d9e7d30", "acao": "manter"}
+{"id": "otdb-7ccfc7be97", "acao": "corrigir", "pt": {"q": "Qual destes não é um nome oficial de desenvolvimento de uma versão do Ubuntu?", "o": ["Wily Werewolf", "Mystic Mansion", "Trusty Tahr", "Utopic Unicorn"]}, "en": {"q": "Which one of these is not an official development name for an Ubuntu release?", "o": ["Wily Werewolf", "Mystic Mansion", "Trusty Tahr", "Utopic Unicorn"]}, "nota": "en: «a Ubuntu» → «an Ubuntu»."}
+{"id": "otdb-7d6a3b1d17", "acao": "corrigir", "pt": {"q": "Que matemático grego correu nu pelas ruas de Siracusa a gritar «Eureka» depois de descobrir o princípio do deslocamento?", "o": ["Eratóstenes", "Arquimedes", "Euclides", "Homero"]}, "en": {"q": "Which Greek mathematician ran through the streets of Syracuse naked while shouting \"Eureka\" after discovering the principle of displacement?", "o": ["Eratosthenes", "Archimedes", "Euclid", "Homer"]}, "nota": "en: «greek» → «Greek»."}
+{"id": "otdb-7e1ff76738", "acao": "manter"}
+{"id": "otdb-7e9dddb82d", "acao": "manter"}
+{"id": "otdb-7f9c2e11a4", "acao": "manter"}
+{"id": "otdb-80418e48d4", "acao": "manter"}
+{"id": "otdb-838f75f8bf", "acao": "corrigir", "pt": {"q": "O que usou Gregor Mendel para estudar os cruzamentos genéticos?", "o": ["Gatos", "Ervilhas", "Papagaios", "Flores"]}, "en": {"q": "What did Gregor Mendel use to test genetic crossovers?", "o": ["Cats", "Peas", "Parrots", "Flowers"]}, "nota": "en: «Gregory Mendel» → «Gregor Mendel»."}
+{"id": "otdb-83bde02035", "acao": "manter"}
+{"id": "otdb-8422a231cc", "acao": "corrigir", "pt": {"q": "Qual é o nome comum do composto químico «monóxido de di-hidrogénio»?", "o": ["Gás hilariante", "Metano", "Água", "Amoníaco"]}, "en": {"q": "What is the common name of the chemical compound \"dihydrogen monoxide\"?", "o": ["Laughing Gas", "Methane", "Water", "Ammonia"]}, "nota": "en: espaço final numa opção."}
+{"id": "otdb-845ef277ea", "acao": "corrigir", "pt": {"q": "Qual dos seguintes matemáticos deu contributos importantes para a teoria dos jogos?", "o": ["Carl Friedrich Gauss", "Leonhard Euler", "Stefan Banach", "John von Neumann"]}, "en": {"q": "Which of the following mathematicians made major contributions to game theory?", "o": ["Carl Friedrich Gauss", "Leonhard Euler", "Stefan Banach", "John von Neumann"]}, "nota": "en: «Von» → «von»."}
+{"id": "otdb-8664e501b0", "acao": "manter"}
+{"id": "otdb-875122a444", "acao": "manter"}
+{"id": "otdb-879f265e39", "acao": "manter"}
+{"id": "otdb-87b2f96378", "acao": "manter"}
+{"id": "otdb-88cf4c3c11", "acao": "manter"}
+{"id": "otdb-8985c47abb", "acao": "manter"}
+{"id": "otdb-89fba1d96a", "acao": "manter"}
+{"id": "otdb-8a3c2ca145", "acao": "manter"}
+{"id": "otdb-8ad23702b4", "acao": "manter"}
+{"id": "otdb-8b9fafeac7", "acao": "manter"}
+{"id": "otdb-8ca23ed70e", "acao": "manter"}
+{"id": "otdb-8cf71644fa", "acao": "corrigir", "pt": {"q": "Qual dos seguintes componentes do sangue forma um tampão no local de uma lesão?", "o": ["Glóbulos brancos", "Plaquetas", "Glóbulos vermelhos", "Plasma sanguíneo"]}, "en": {"q": "Which of the following blood components forms a plug at the site of an injury?", "o": ["White blood cells", "Platelets", "Red blood cells", "Blood plasma"]}, "nota": "en: concordância («components», «an injury»)."}
+{"id": "otdb-8dd94267bd", "acao": "manter"}
+{"id": "otdb-8f56ce6216", "acao": "manter"}
+{"id": "otdb-90427d916d", "acao": "corrigir", "pt": {"q": "Qual é um exemplo de doença causada por um agente patogénico bacteriano?", "o": ["Sarampo", "SIDA", "Tinha", "Cólera"]}, "en": {"q": "Which of these diseases is caused by a bacterial pathogen?", "o": ["Measles", "AIDS", "Ringworm", "Cholera"]}, "nota": "en: enunciado alinhado com o pt (as opções são doenças) e espaço final numa opção."}
+{"id": "otdb-90d4d42d4f", "acao": "manter"}
+{"id": "otdb-90e26992da", "acao": "manter"}
+{"id": "otdb-9200d67c14", "acao": "manter"}
+{"id": "otdb-9205712cf8", "acao": "manter"}
+{"id": "otdb-929131bb6e", "acao": "manter"}
+{"id": "otdb-939ef9f359", "acao": "manter"}
+{"id": "otdb-941ce2af19", "acao": "manter"}
+{"id": "otdb-95ddae64e4", "acao": "manter"}
+{"id": "otdb-969de00227", "acao": "corrigir", "pt": {"q": "Qual é a principal substância do tabaco que causa dependência?", "o": ["Nicotina", "Efedrina", "Catinona", "Glaucina"]}, "en": {"q": "What is the primary addictive substance found in tobacco?", "o": ["Nicotine", "Ephedrine", "Cathinone", "Glaucine"]}, "nota": "pt: «aditiva» (= additive) → «que causa dependência»."}
+{"id": "otdb-97fd33ec2c", "acao": "manter"}
+{"id": "otdb-9826119227", "acao": "corrigir", "pt": {"q": "Na linguagem de programação Java, qual destas palavras-chave se coloca numa variável para garantir que não é modificada?", "o": ["public", "final", "static", "private"]}, "en": {"q": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesn't get modified?", "o": ["public", "final", "static", "private"]}, "nota": "en: palavras-chave do Java em minúsculas, como no pt."}
+{"id": "otdb-98c40cf387", "acao": "manter"}
+{"id": "otdb-98d675c295", "acao": "corrigir", "pt": {"q": "Qual é o computador mais antigo destes, por data de lançamento?", "o": ["ZX Spectrum", "Apple III", "TRS-80", "Commodore 64"]}, "en": {"q": "Which of the following is the oldest of these computers by release date?", "o": ["ZX Spectrum", "Apple III", "TRS-80", "Commodore 64"]}, "nota": "en: «Apple 3» → «Apple III», como no pt."}
+{"id": "otdb-98ff6a81da", "acao": "manter"}
+{"id": "otdb-9900db0fb4", "acao": "corrigir", "pt": {"q": "O que significa SSD no contexto do armazenamento de computadores?", "o": ["Software Storage Device", "Super Speed Data", "Solid State Drive", "Secure System Disk"]}, "en": {"q": "What does SSD stand for in the context of computer storage?", "o": ["Software Storage Device", "Super Speed Data", "Solid State Drive", "Secure System Disk"]}, "nota": "en: espaço inicial numa opção."}
+{"id": "otdb-9b40738139", "acao": "manter"}
+{"id": "otdb-9d82ecce71", "acao": "corrigir", "pt": {"q": "Quem descobriu a penicilina?", "o": ["Alfred Nobel", "Alexander Fleming", "Marie Curie", "Louis Pasteur"]}, "en": {"q": "Who discovered Penicillin?", "o": ["Alfred Nobel", "Alexander Fleming", "Marie Curie", "Louis Pasteur"]}, "nota": "en: «Flemming» → «Fleming»."}
+{"id": "otdb-9ea1e78f50", "acao": "manter"}
+{"id": "otdb-9fb1605af3", "acao": "manter"}
+{"id": "otdb-a0654a8067", "acao": "manter"}
+{"id": "otdb-a07561145f", "acao": "manter"}
+{"id": "otdb-a108bc0326", "acao": "manter"}
+{"id": "otdb-a160dea133", "acao": "manter"}
+{"id": "otdb-a1bc8668b8", "acao": "manter"}
+{"id": "otdb-a29850cffd", "acao": "manter"}
+{"id": "otdb-a2aa64cab9", "acao": "manter"}
+{"id": "otdb-a2b212ef98", "acao": "manter"}
+{"id": "otdb-a3a5482db8", "acao": "manter"}
+{"id": "otdb-a4a03c7bd1", "acao": "manter"}
+{"id": "otdb-a67a7a076a", "acao": "manter"}

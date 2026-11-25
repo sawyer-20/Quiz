@@ -1,0 +1,1052 @@
+[
+{
+"id": "otdb-4b027abc45",
+"pt": {
+"q": "Quem escreveu o romance «Of Mice And Men»?",
+"o": [
+"Mark Twain",
+"John Steinbeck",
+"Harper Lee",
+"George Orwell"
+]
+},
+"en": {
+"q": "The novel \"Of Mice And Men\" was written by what author? ",
+"o": [
+"Mark Twain ",
+"John Steinbeck ",
+"Harper Lee",
+"George Orwell"
+]
+}
+},
+{
+"id": "otdb-3899396f30",
+"pt": {
+"q": "Segundo Sherlock Holmes: «Se eliminares o impossível, o que resta, por mais improvável que seja, deve ser a...»",
+"o": [
+"Fonte",
+"Causa",
+"Verdade",
+"Resposta"
+]
+},
+"en": {
+"q": "According to Sherlock Holmes, \"If you eliminate the impossible, whatever remains, however improbable, must be the...\"",
+"o": [
+"Source",
+"Cause",
+"Truth",
+"Answer"
+]
+}
+},
+{
+"id": "otdb-f9b17f9672",
+"pt": {
+"q": "Quantas cores tem um arco-íris?",
+"o": [
+"8",
+"10",
+"7",
+"9"
+]
+},
+"en": {
+"q": "How many colors are there in a rainbow?",
+"o": [
+"8",
+"10",
+"7",
+"9"
+]
+}
+},
+{
+"id": "otdb-9a900f86c9",
+"pt": {
+"q": "Qual é a 15.ª letra do alfabeto grego?",
+"o": [
+"Sigma (Σ)",
+"Ni (Ν)",
+"Ómicron (Ο)",
+"Pi (Π)"
+]
+},
+"en": {
+"q": "What is the 15th letter of the Greek alphabet?",
+"o": [
+"Sigma (Σ)",
+"Nu (Ν)",
+"Omicron (Ο)",
+"Pi (Π)"
+]
+}
+},
+{
+"id": "otdb-aef4a71b55",
+"pt": {
+"q": "Num alvo de dardos, que número está diretamente oposto ao número 1?",
+"o": [
+"12",
+"20",
+"15",
+"19"
+]
+},
+"en": {
+"q": "On a dartboard, what number is directly opposite No. 1?",
+"o": [
+"12",
+"20",
+"15",
+"19"
+]
+}
+},
+{
+"id": "otdb-d9ded6fe2a",
+"pt": {
+"q": "Que alcunha recebeu o Hughes H-4 Hercules, um hidroavião de transporte pesado que voou em 1947?",
+"o": [
+"Fat Man",
+"Arca de Noé",
+"Cavalo de Troia",
+"Spruce Goose"
+]
+},
+"en": {
+"q": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
+"o": [
+"Fat Man",
+"Noah's Ark",
+"Trojan Horse",
+"Spruce Goose"
+]
+}
+},
+{
+"id": "otdb-007964f325",
+"pt": {
+"q": "A palavra «dúzia» refere-se normalmente a um grupo de quantos objetos?",
+"o": [
+"12",
+"6",
+"20",
+"10"
+]
+},
+"en": {
+"q": "The word \"dozen\" usually refers to a group of how many objects?",
+"o": [
+"12",
+"6",
+"20",
+"10"
+]
+}
+},
+{
+"id": "otdb-52b43901dd",
+"pt": {
+"q": "Num baralho normal de cartas, qual é o único rei sem bigode?",
+"o": [
+"Copas",
+"Ouros",
+"Espadas",
+"Paus"
+]
+},
+"en": {
+"q": "In a standard set of playing cards, which is the only king without a moustache?",
+"o": [
+"Hearts",
+"Diamonds",
+"Spades",
+"Clubs"
+]
+}
+},
+{
+"id": "otdb-6ac3256219",
+"pt": {
+"q": "De que romance de Charles Dickens é personagem Abel Magwitch?",
+"o": [
+"Great Expectations",
+"Nicholas Nickleby",
+"Oliver Twist",
+"The Pickwick Papers"
+]
+},
+"en": {
+"q": "Abel Magwitch is a character from which Charles Dickens novel?",
+"o": [
+"Great Expectations",
+"Nicholas Nickleby",
+"Oliver Twist",
+"The Pickwick Papers"
+]
+}
+},
+{
+"id": "otdb-17d80d4af0",
+"pt": {
+"q": "Para que direção está virada a Estátua da Liberdade?",
+"o": [
+"Nordeste",
+"Noroeste",
+"Sudeste",
+"Sudoeste"
+]
+},
+"en": {
+"q": "What direction does the Statue of Liberty face?",
+"o": [
+"Northeast",
+"Northwest",
+"Southeast",
+"Southwest"
+]
+}
+},
+{
+"id": "otdb-79b98b41ae",
+"pt": {
+"q": "O chá Earl Grey é um chá preto aromatizado com quê?",
+"o": [
+"Óleo de bergamota",
+"Lavanda",
+"Mel",
+"Baunilha"
+]
+},
+"en": {
+"q": "Earl Grey tea is black tea flavoured with what?",
+"o": [
+"Bergamot oil",
+"Lavender",
+"Honey",
+"Vanilla"
+]
+}
+},
+{
+"id": "otdb-61c276ea1b",
+"pt": {
+"q": "Quando foi fundada a Tesla?",
+"o": [
+"2005",
+"2007",
+"2008",
+"2003"
+]
+},
+"en": {
+"q": "When was Tesla founded?",
+"o": [
+"2005",
+"2007",
+"2008",
+"2003"
+]
+}
+},
+{
+"id": "otdb-f0e9bf69e9",
+"pt": {
+"q": "Que famoso romancista de espionagem escreveu a história infantil «Chitty-Chitty-Bang-Bang»?",
+"o": [
+"Ian Fleming",
+"Graham Greene",
+"Joseph Conrad",
+"John Buchan"
+]
+},
+"en": {
+"q": "Which famous spy novelist wrote the childrens' story \"Chitty-Chitty-Bang-Bang\"?",
+"o": [
+"Ian Fleming",
+"Graham Greene",
+"Joseph Conrad",
+"John Buchan"
+]
+}
+},
+{
+"id": "otdb-b0c8c27fe4",
+"pt": {
+"q": "Em «The Handmaid's Tale», de Margaret Atwood, qual é o verdadeiro nome sugerido de Offred?",
+"o": [
+"May",
+"June",
+"April",
+"August"
+]
+},
+"en": {
+"q": "In Margaret Atwood's \"The Handmaid's Tale\", what is Offred's real name is implied to be?",
+"o": [
+"May",
+"June",
+"April",
+"August"
+]
+}
+},
+{
+"id": "otdb-5352fbed0c",
+"pt": {
+"q": "Quem ganhou o Grande Prémio de São Marinho de 1994, a corrida em que Ayrton Senna morreu?",
+"o": [
+"Gerhard Berger",
+"Mika Häkkinen",
+"Nicola Larini",
+"Michael Schumacher"
+]
+},
+"en": {
+"q": "Who won the 1994 San Marino Grand Prix, the race in which Ayrton Senna was killed?",
+"o": [
+"Gerhard Berger",
+"Mika Häkkinen",
+"Nicola Larini",
+"Michael Schumacher"
+]
+}
+},
+{
+"id": "otdb-af9a982749",
+"pt": {
+"q": "No código Morse, que letra é indicada por 3 pontos?",
+"o": [
+"S",
+"O",
+"C",
+"A"
+]
+},
+"en": {
+"q": "In the Morse code, which letter is indicated by 3 dots? ",
+"o": [
+"S",
+"O",
+"C",
+"A"
+]
+}
+},
+{
+"id": "otdb-2aa3754bfa",
+"pt": {
+"q": "Por que alcunha é conhecido Jack Dawkins no romance «Oliver Twist», de Charles Dickens?",
+"o": [
+"Mr. Fang",
+"The Artful Dodger",
+"Bull’s-eye",
+"Fagin"
+]
+},
+"en": {
+"q": "By what nickname is Jack Dawkins known in the Charles Dickens novel, 'Oliver Twist'?",
+"o": [
+"Mr. Fang",
+"The Artful Dodger",
+"Bull’s-eye",
+"Fagin"
+]
+}
+},
+{
+"id": "otdb-01c90c0756",
+"pt": {
+"q": "Como se chamam as peças cilíndricas que sobem e descem dentro do motor?",
+"o": [
+"Pistões",
+"Radiadores",
+"ABS",
+"Molas de lâmina"
+]
+},
+"en": {
+"q": "What are the cylinder-like parts that pump up and down within the engine?",
+"o": [
+"Pistons",
+"Radiators",
+"ABS",
+"Leaf Springs"
+]
+}
+},
+{
+"id": "otdb-f0f4409b1c",
+"pt": {
+"q": "Que produto vendia originalmente a Nokia, a empresa de telecomunicações?",
+"o": [
+"Telefones",
+"Papel",
+"Processadores",
+"Computadores"
+]
+},
+"en": {
+"q": "Which product did Nokia, the telecommunications company, originally sell?",
+"o": [
+"Phones",
+"Paper",
+"Processors",
+"Computers"
+]
+}
+},
+{
+"id": "otdb-7965afbb3e",
+"pt": {
+"q": "Quem ganhou o Grande Prémio do Mónaco de 2018?",
+"o": [
+"Lewis Hamilton",
+"Daniel Ricciardo",
+"Sebastian Vettel",
+"Kimi Räikkönen"
+]
+},
+"en": {
+"q": "Who won the 2018 Monaco Grand Prix?",
+"o": [
+"Lewis Hamilton",
+"Daniel Ricciardo",
+"Sebastian Vettel",
+"Kimi Raikkonen"
+]
+}
+},
+{
+"id": "otdb-827857d5a3",
+"pt": {
+"q": "Quem pintou o fresco bíblico «The Creation of Adam»?",
+"o": [
+"Caravaggio",
+"Leonardo da Vinci",
+"Rembrandt",
+"Michelangelo"
+]
+},
+"en": {
+"q": "Who painted the biblical fresco The Creation of Adam?",
+"o": [
+"Caravaggio",
+"Leonardo da Vinci",
+"Rembrandt",
+"Michelangelo"
+]
+}
+},
+{
+"id": "otdb-62ba60655c",
+"pt": {
+"q": "Quem era o rei dos deuses na mitologia da Grécia Antiga?",
+"o": [
+"Zeus",
+"Poseidon",
+"Hermes",
+"Apolo"
+]
+},
+"en": {
+"q": "Who was the King of Gods in Ancient Greek mythology?",
+"o": [
+"Zeus",
+"Poseidon",
+"Hermes",
+"Apollo"
+]
+}
+},
+{
+"id": "otdb-76bada155c",
+"pt": {
+"q": "Sobre o que caminha um funâmbulo?",
+"o": [
+"Bolas",
+"Vidros partidos",
+"Uma corda bamba",
+"A Lua"
+]
+},
+"en": {
+"q": "What does a funambulist walk on?",
+"o": [
+"Balls",
+"Broken Glass",
+"A Tight Rope",
+"The Moon"
+]
+}
+},
+{
+"id": "otdb-f94b5ce302",
+"pt": {
+"q": "Quem é o autor de «Jurassic Park»?",
+"o": [
+"Irvine Welsh",
+"Michael Crichton",
+"Peter Benchley",
+"Chuck Palahniuk"
+]
+},
+"en": {
+"q": "Who is the author of Jurassic Park?",
+"o": [
+"Irvine Welsh",
+"Michael Crichton",
+"Peter Benchley",
+"Chuck Paluhniuk"
+]
+}
+},
+{
+"id": "otdb-d4001d59c2",
+"pt": {
+"q": "Que jogador ganhou a medalha de ouro em singulares de ténis de mesa nos Jogos Olímpicos de 2016?",
+"o": [
+"Vladimir Samsonov (Bielorrússia)",
+"Jun Mizutani (Japão)",
+"Ma Long (China)",
+"Zhang Jike (China)"
+]
+},
+"en": {
+"q": "Which male player won the gold medal of table tennis singles in 2016 Olympics Games?",
+"o": [
+"Vladimir Samsonov (Belarus)",
+"Jun Mizutani (Japan)",
+"Ma Long (China)",
+"Zhang Jike (China)"
+]
+}
+},
+{
+"id": "otdb-192836672a",
+"pt": {
+"q": "Em 2016, quem ganhou pela terceira vez consecutiva o Campeonato do Mundo de Construtores de Fórmula 1?",
+"o": [
+"Red Bull Racing Renault",
+"Scuderia Ferrari",
+"McLaren Honda",
+"Mercedes-AMG Petronas"
+]
+},
+"en": {
+"q": "In 2016, who won the Formula 1 World Constructor's Championship for the third time in a row?",
+"o": [
+"Red Bull Racing Renault",
+"Scuderia Ferrari",
+"McLaren Honda",
+"Mercedes-AMG Petronas"
+]
+}
+},
+{
+"id": "otdb-d7887c9f46",
+"pt": {
+"q": "Ao fim de quantos anos se celebram as bodas de cristal?",
+"o": [
+"15",
+"20",
+"25",
+"10"
+]
+},
+"en": {
+"q": "After how many years would you celebrate your crystal anniversary?",
+"o": [
+"15",
+"20",
+"25",
+"10"
+]
+}
+},
+{
+"id": "otdb-b65a4c26a0",
+"pt": {
+"q": "Que figura da mitologia grega viajou até ao mundo subterrâneo para trazer a mulher, Eurídice, de volta ao mundo dos vivos?",
+"o": [
+"Dédalo",
+"Orfeu",
+"Perseu",
+"Hércules"
+]
+},
+"en": {
+"q": "Which figure from Greek mythology traveled to the underworld to return his wife Eurydice to the land of the living?",
+"o": [
+"Daedalus",
+"Orpheus",
+"Perseus",
+"Hercules"
+]
+}
+},
+{
+"id": "otdb-cbfa2a3ffa",
+"pt": {
+"q": "Quem é o pai de Ícaro, que voou demasiado perto do Sol?",
+"o": [
+"Zeus",
+"Dédalo",
+"Perseu",
+"Minos"
+]
+},
+"en": {
+"q": "Who is the father of Icarus, who flew too close to the sun?",
+"o": [
+"Zeus",
+"Daedalus",
+"Perseus",
+"Minos"
+]
+}
+},
+{
+"id": "otdb-70c8bc2c22",
+"pt": {
+"q": "Que fruta é ingrediente tradicional de um bolo Floresta Negra?",
+"o": [
+"Alperces",
+"Maçãs",
+"Cerejas",
+"Passas"
+]
+},
+"en": {
+"q": "What fruit is a traditional ingredient of a Black Forest Gateau?",
+"o": [
+"Apricots",
+"Apples",
+"Cherries",
+"Raisins"
+]
+}
+},
+{
+"id": "otdb-f13c17075f",
+"pt": {
+"q": "De que país é originário o kabaddi, um desporto de contacto que envolve placagens?",
+"o": [
+"Índia",
+"Austrália",
+"Turquia",
+"Camboja"
+]
+},
+"en": {
+"q": "Which country did Kabaddi, a contact sport involving tackling, originate from?",
+"o": [
+"India",
+"Australia",
+"Turkey",
+"Cambodia"
+]
+}
+},
+{
+"id": "otdb-2b02ea6511",
+"pt": {
+"q": "Quem foi o autor do romance de 1954 «Lord of the Flies»?",
+"o": [
+"Stephen King",
+"William Golding",
+"Hunter Fox",
+"F. Scott Fitzgerald"
+]
+},
+"en": {
+"q": "Who was the author of the 1954 novel, \"Lord of the Flies\"?",
+"o": [
+"Stephen King",
+"William Golding",
+"Hunter Fox",
+"F. Scott Fitzgerald"
+]
+}
+},
+{
+"id": "otdb-4512e5d4b1",
+"pt": {
+"q": "Quando foi lançado o site «Facebook»?",
+"o": [
+"2004",
+"2006",
+"2003",
+"2005"
+]
+},
+"en": {
+"q": "When did the website \"Facebook\" launch?",
+"o": [
+"2004",
+"2006",
+"2003",
+"2005"
+]
+}
+},
+{
+"id": "otdb-f08d689ac8",
+"pt": {
+"q": "Qual destas cores não aparece em «Broadway Boogie-Woogie», de Mondrian?",
+"o": [
+"Verde",
+"Azul",
+"Amarelo",
+"Vermelho"
+]
+},
+"en": {
+"q": "Which one of these colors are not featured in Mondrian's Broadway Boogie-Woogie?",
+"o": [
+"Green",
+"Blue",
+"Yellow",
+"Red"
+]
+}
+},
+{
+"id": "otdb-17e30bdfcf",
+"pt": {
+"q": "Que posição joga Harry Potter no Quidditch?",
+"o": [
+"Batedor",
+"Apanhador",
+"Guarda-redes",
+"Artilheiro"
+]
+},
+"en": {
+"q": "What position does Harry Potter play in Quidditch?",
+"o": [
+"Beater",
+"Seeker",
+"Keeper",
+"Chaser"
+]
+}
+},
+{
+"id": "otdb-1bb305b2a4",
+"pt": {
+"q": "Quem escreveu o romance juvenil «The Fault in Our Stars»?",
+"o": [
+"John Green",
+"Stephenie Meyer",
+"Suzanne Collins",
+"Stephen Chbosky"
+]
+},
+"en": {
+"q": "Who wrote the young adult novel \"The Fault in Our Stars\"?",
+"o": [
+"John Green",
+"Stephenie Meyer",
+"Suzanne Collins",
+"Stephen Chbosky"
+]
+}
+},
+{
+"id": "otdb-d559cdcee2",
+"pt": {
+"q": "Qual destes deuses romanos não tem equivalente na mitologia grega?",
+"o": [
+"Marte",
+"Juno",
+"Jano",
+"Vulcano"
+]
+},
+"en": {
+"q": "Which of these Roman gods doesn't have a counterpart in Greek mythology?",
+"o": [
+"Mars",
+"Juno",
+"Janus",
+"Vulcan"
+]
+}
+},
+{
+"id": "otdb-b21bf5c83d",
+"pt": {
+"q": "O nome grego de Neptuno era...",
+"o": [
+"Apolo",
+"Zeus",
+"Poseidon",
+"Ares"
+]
+},
+"en": {
+"q": "Neptune's greek name was...",
+"o": [
+"Apollo",
+"Zeus",
+"Poseidon",
+"Ares"
+]
+}
+},
+{
+"id": "otdb-327fa76cd0",
+"pt": {
+"q": "Quantas vezes se casou Albert Einstein ao longo da vida?",
+"o": [
+"Uma vez",
+"Cinco vezes",
+"Três vezes",
+"Duas vezes"
+]
+},
+"en": {
+"q": "How many times was Albert Einstein married in his lifetime?",
+"o": [
+"Once",
+"Five",
+"Thrice",
+"Twice"
+]
+}
+},
+{
+"id": "otdb-15eaa9c8c1",
+"pt": {
+"q": "Que cidade italiana é a sede do fabricante de automóveis Fiat?",
+"o": [
+"Turim",
+"Roma",
+"Módena",
+"Maranello"
+]
+},
+"en": {
+"q": "Which Italian city is home of the car manufacturer 'Fiat'?",
+"o": [
+"Turin",
+"Rome",
+"Modena",
+"Maranello"
+]
+}
+},
+{
+"id": "otdb-286348d7c2",
+"pt": {
+"q": "Qual era o pseudónimo da romancista Mary Ann Evans?",
+"o": [
+"George Eliot",
+"George Bernard Shaw",
+"George Orwell",
+"George Saunders"
+]
+},
+"en": {
+"q": "What was the pen name of novelist, Mary Ann Evans?",
+"o": [
+"George Eliot",
+"George Bernard Shaw",
+"George Orwell",
+"George Saunders"
+]
+}
+},
+{
+"id": "otdb-409f94e55b",
+"pt": {
+"q": "Quem pintou «Mona Lisa»?",
+"o": [
+"Leonardo da Vinci",
+"Pablo Picasso",
+"Vincent van Gogh",
+"Michelangelo"
+]
+},
+"en": {
+"q": "Who painted the Mona Lisa?",
+"o": [
+"Leonardo da Vinci ",
+"Pablo Picasso",
+" Vincent van Gogh",
+"Michelangelo"
+]
+}
+},
+{
+"id": "otdb-03227f27fd",
+"pt": {
+"q": "Com o nome inspirado na flor da malva, o «malva» é um tom de que cor?",
+"o": [
+"Castanho",
+"Vermelho",
+"Roxo",
+"Rosa"
+]
+},
+"en": {
+"q": "Named after the mallow flower, mauve is a shade of what?",
+"o": [
+"Brown",
+"Red",
+"Purple",
+"Pink"
+]
+}
+},
+{
+"id": "otdb-7d1c6f2bef",
+"pt": {
+"q": "Em «The Hobbit», quem mata Smaug?",
+"o": [
+"Bilbo Baggins",
+"Frodo",
+"Bard",
+"Gandalf, o Cinzento"
+]
+},
+"en": {
+"q": "In the \"The Hobbit\", who kills Smaug?",
+"o": [
+"Bilbo Baggins",
+"Frodo",
+"Bard",
+"Gandalf the Grey"
+]
+}
+},
+{
+"id": "otdb-ed625d4765",
+"pt": {
+"q": "Qual destas fabricantes de automóveis superdesportivos é sueca?",
+"o": [
+"McLaren",
+"Lamborghini",
+"Bugatti",
+"Koenigsegg"
+]
+},
+"en": {
+"q": "Which supercar company is from Sweden?",
+"o": [
+"McLaren",
+"Lamborghini",
+"Bugatti",
+"Koenigsegg"
+]
+}
+},
+{
+"id": "otdb-7969e1066c",
+"pt": {
+"q": "Como se diz «adeus» em espanhol?",
+"o": [
+"Salir",
+"Au Revoir",
+"Hola",
+"Adiós"
+]
+},
+"en": {
+"q": "How would one say goodbye in Spanish?",
+"o": [
+"Salir",
+"Au Revoir",
+" Hola",
+"Adiós"
+]
+}
+},
+{
+"id": "otdb-cd10f9b948",
+"pt": {
+"q": "Que fabricante de automóveis cedeu a patente do cinto de segurança para salvar vidas?",
+"o": [
+"Ferrari",
+"Ford",
+"Renault",
+"Volvo"
+]
+},
+"en": {
+"q": "What car manufacturer gave away their patent for the seat-belt in the interest of saving lives?",
+"o": [
+"Ferrari",
+"Ford",
+"Renault",
+"Volvo"
+]
+}
+},
+{
+"id": "otdb-12a0736389",
+"pt": {
+"q": "O antigo deus romano da guerra era normalmente conhecido por qual dos seguintes nomes?",
+"o": [
+"Marte",
+"Ares",
+"Juno",
+"Júpiter"
+]
+},
+"en": {
+"q": "The ancient Roman god of war was commonly known as which of the following?",
+"o": [
+"Mars",
+"Ares",
+"Juno",
+"Jupiter"
+]
+}
+},
+{
+"id": "otdb-d26ebcfbcf",
+"pt": {
+"q": "Qual destes modelos de automóvel é da Lamborghini?",
+"o": [
+"Chiron",
+"918",
+"Huayra",
+"Aventador"
+]
+},
+"en": {
+"q": "Which of these car models are produced by Lamborghini?",
+"o": [
+"Chiron",
+"918",
+"Huayra",
+"Aventador"
+]
+}
+},
+{
+"id": "otdb-127e28b250",
+"pt": {
+"q": "Como chamam os marinheiros à parte da frente de um barco?",
+"o": [
+"Popa",
+"Estibordo",
+"Proa",
+"Bombordo"
+]
+},
+"en": {
+"q": "What do sailors call the front of a boat?",
+"o": [
+"Stern",
+"Starboard",
+"Bow",
+"Port"
+]
+}
+}
+]

@@ -1,0 +1,1052 @@
+[
+{
+"id": "wd-euro-vencedor-Q373501",
+"pt": {
+"q": "Que seleção venceu o Campeonato da Europa de 2021?",
+"o": [
+"Espanha",
+"União Soviética",
+"Itália",
+"Grécia"
+]
+},
+"en": {
+"q": "Which national team won the 2021 UEFA European Championship?",
+"o": [
+"Spain",
+"Soviet Union",
+"Italy",
+"Greece"
+]
+}
+},
+{
+"id": "wd-boladeouro-1959",
+"pt": {
+"q": "Quem ganhou a Bola de Ouro de 1959?",
+"o": [
+"Alfredo Di Stéfano",
+"Luís Figo",
+"Karl-Heinz Rummenigge",
+"Johan Cruijff"
+]
+},
+"en": {
+"q": "Who won the 1959 Ballon d'Or?",
+"o": [
+"Alfredo Di Stéfano",
+"Luís Figo",
+"Karl-Heinz Rummenigge",
+"Johan Cruyff"
+]
+}
+},
+{
+"id": "wd-euro-vencedor-Q182770",
+"pt": {
+"q": "Que seleção venceu o Campeonato da Europa de 1984?",
+"o": [
+"França",
+"Espanha",
+"Checoslováquia",
+"União Soviética"
+]
+},
+"en": {
+"q": "Which national team won the 1984 UEFA European Championship?",
+"o": [
+"France",
+"Spain",
+"Czechoslovakia",
+"Soviet Union"
+]
+}
+},
+{
+"id": "wd-mundial-vencedor-Q46938",
+"pt": {
+"q": "Que seleção venceu o Campeonato do Mundo de 1986?",
+"o": [
+"Itália",
+"Alemanha",
+"Argentina",
+"Uruguai"
+]
+},
+"en": {
+"q": "Which national team won the 1986 FIFA World Cup?",
+"o": [
+"Italy",
+"Germany",
+"Argentina",
+"Uruguay"
+]
+}
+},
+{
+"id": "wd-mundial-vencedor-Q37285",
+"pt": {
+"q": "Que seleção venceu o Campeonato do Mundo de 2006?",
+"o": [
+"Uruguai",
+"Argentina",
+"Brasil",
+"Itália"
+]
+},
+"en": {
+"q": "Which national team won the 2006 FIFA World Cup?",
+"o": [
+"Uruguay",
+"Argentina",
+"Brazil",
+"Italy"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q392526",
+"pt": {
+"q": "Que clube venceu a Taça dos Campeões Europeus 1987-88?",
+"o": [
+"FC Porto",
+"Borussia Dortmund",
+"Chelsea F.C.",
+"PSV Eindhoven"
+]
+},
+"en": {
+"q": "Which club won the 1987–88 European Cup?",
+"o": [
+"FC Porto",
+"Borussia Dortmund",
+"Chelsea F.C.",
+"PSV Eindhoven"
+]
+}
+},
+{
+"id": "wd-boladeouro-2003",
+"pt": {
+"q": "Quem ganhou a Bola de Ouro de 2003?",
+"o": [
+"Raymond Kopa",
+"Bobby Charlton",
+"Hristo Stoichkov",
+"Pavel Nedvěd"
+]
+},
+"en": {
+"q": "Who won the 2003 Ballon d'Or?",
+"o": [
+"Raymond Kopa",
+"Bobby Charlton",
+"Hristo Stoichkov",
+"Pavel Nedvěd"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q309318",
+"pt": {
+"q": "Que clube venceu a Taça dos Campeões Europeus 1957-58?",
+"o": [
+"PSV Eindhoven",
+"Feyenoord Rotterdam",
+"Real Madrid Club de Fútbol",
+"Inter Milan"
+]
+},
+"en": {
+"q": "Which club won the 1957–58 European Cup?",
+"o": [
+"PSV Eindhoven",
+"Feyenoord Rotterdam",
+"Real Madrid Club de Fútbol",
+"Inter Milan"
+]
+}
+},
+{
+"id": "wd-boladeouro-1996",
+"pt": {
+"q": "Quem ganhou a Bola de Ouro de 1996?",
+"o": [
+"Oleg Blokhin",
+"Matthias Sammer",
+"Ronaldinho Gaúcho",
+"Jean-Pierre Papin"
+]
+},
+"en": {
+"q": "Who won the 1996 Ballon d'Or?",
+"o": [
+"Oleh Blokhin",
+"Matthias Sammer",
+"Ronaldinho",
+"Jean-Pierre Papin"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q330674",
+"pt": {
+"q": "Que clube venceu a Taça dos Campeões Europeus 1985-86?",
+"o": [
+"Real Madrid Club de Fútbol",
+"FCSB",
+"Manchester United F.C.",
+"FC Porto"
+]
+},
+"en": {
+"q": "Which club won the 1985–86 European Cup?",
+"o": [
+"Real Madrid Club de Fútbol",
+"FCSB",
+"Manchester United F.C.",
+"FC Porto"
+]
+}
+},
+{
+"id": "wd-boladeouro-1994",
+"pt": {
+"q": "Quem ganhou a Bola de Ouro de 1994?",
+"o": [
+"Aitana Bonmatí",
+"Luís Figo",
+"Ronaldo Nazário",
+"Hristo Stoichkov"
+]
+},
+"en": {
+"q": "Who won the 1994 Ballon d'Or?",
+"o": [
+"Aitana Bonmatí",
+"Luís Figo",
+"Ronaldo",
+"Hristo Stoichkov"
+]
+}
+},
+{
+"id": "wd-boladeouro-2024",
+"pt": {
+"q": "Quem ganhou a Bola de Ouro de 2024?",
+"o": [
+"Aitana Bonmatí",
+"Jean-Pierre Papin",
+"Flórián Albert",
+"Raymond Kopa"
+]
+},
+"en": {
+"q": "Who won the 2024 Ballon d'Or?",
+"o": [
+"Aitana Bonmatí",
+"Jean-Pierre Papin",
+"Flórián Albert",
+"Raymond Kopa"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q455978",
+"pt": {
+"q": "Que clube venceu a Liga dos Campeões da UEFA de 2002-03?",
+"o": [
+"Feyenoord Rotterdam",
+"Real Madrid Club de Fútbol",
+"FC Porto",
+"AC Milan"
+]
+},
+"en": {
+"q": "Which club won the 2002–03 UEFA Champions League?",
+"o": [
+"Feyenoord Rotterdam",
+"Real Madrid Club de Fútbol",
+"FC Porto",
+"AC Milan"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q192736",
+"pt": {
+"q": "Que clube venceu a Liga dos Campeões da UEFA de 2006-07?",
+"o": [
+"Paris Saint-Germain FC",
+"Olympique de Marseille",
+"Celtic F.C.",
+"AC Milan"
+]
+},
+"en": {
+"q": "Which club won the 2006–07 UEFA Champions League?",
+"o": [
+"Paris Saint-Germain FC",
+"Olympique de Marseille",
+"Celtic F.C.",
+"AC Milan"
+]
+}
+},
+{
+"id": "otdb-b28165c2e8",
+"pt": {
+"q": "Que equipa de futebol inglesa tem a alcunha «The Tigers»?",
+"o": [
+"Cardiff City",
+"Bristol City",
+"Manchester City",
+"Hull City"
+]
+},
+"en": {
+"q": "Which English football team is nicknamed 'The Tigers'?",
+"o": [
+"Cardiff City",
+"Bristol City",
+"Manchester City",
+"Hull City"
+]
+}
+},
+{
+"id": "otdb-5c79db584b",
+"pt": {
+"q": "Quantos jogadores tem uma equipa de futebol?",
+"o": [
+"9",
+"10",
+"11",
+"8"
+]
+},
+"en": {
+"q": "How many players are there in an association football/soccer team?",
+"o": [
+"9",
+"10",
+"11",
+"8"
+]
+}
+},
+{
+"id": "wd-mundial-anfitriao-Q101730",
+"pt": {
+"q": "Que país organizou o Campeonato do Mundo de 1998?",
+"o": [
+"França",
+"Brasil",
+"África do Sul",
+"Uruguai"
+]
+},
+"en": {
+"q": "Which country hosted the 1998 FIFA World Cup?",
+"o": [
+"France",
+"Brazil",
+"South Africa",
+"Uruguay"
+]
+}
+},
+{
+"id": "wd-boladeouro-1993",
+"pt": {
+"q": "Quem ganhou a Bola de Ouro de 1993?",
+"o": [
+"Hristo Stoichkov",
+"Roberto Baggio",
+"Pavel Nedvěd",
+"Fabio Cannavaro"
+]
+},
+"en": {
+"q": "Who won the 1993 Ballon d'Or?",
+"o": [
+"Hristo Stoichkov",
+"Roberto Baggio",
+"Pavel Nedvěd",
+"Fabio Cannavaro"
+]
+}
+},
+{
+"id": "wd-boladeouro-1974",
+"pt": {
+"q": "Quem ganhou a Bola de Ouro de 1974?",
+"o": [
+"Jean-Pierre Papin",
+"Andriy Shevchenko",
+"Raymond Kopa",
+"Johan Cruijff"
+]
+},
+"en": {
+"q": "Who won the 1974 Ballon d'Or?",
+"o": [
+"Jean-Pierre Papin",
+"Andriy Shevchenko",
+"Raymond Kopa",
+"Johan Cruyff"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q642728",
+"pt": {
+"q": "Que clube venceu a Taça dos Campeões Europeus 1975-76?",
+"o": [
+"FCSB",
+"PSV Eindhoven",
+"Celtic F.C.",
+"FC Bayern Munich"
+]
+},
+"en": {
+"q": "Which club won the 1975–76 European Cup?",
+"o": [
+"FCSB",
+"PSV Eindhoven",
+"Celtic F.C.",
+"FC Bayern Munich"
+]
+}
+},
+{
+"id": "wd-boladeouro-1999",
+"pt": {
+"q": "Quem ganhou a Bola de Ouro de 1999?",
+"o": [
+"Rivaldo",
+"Michael Owen",
+"Luís Figo",
+"Flórián Albert"
+]
+},
+"en": {
+"q": "Who won the 1999 Ballon d'Or?",
+"o": [
+"Rivaldo",
+"Michael Owen",
+"Luís Figo",
+"Flórián Albert"
+]
+}
+},
+{
+"id": "wd-euro-vencedor-Q182201",
+"pt": {
+"q": "Que seleção venceu o Campeonato da Europa de 1968?",
+"o": [
+"Alemanha",
+"Espanha",
+"Itália",
+"Checoslováquia"
+]
+},
+"en": {
+"q": "Which national team won the 1968 UEFA European Championship?",
+"o": [
+"Germany",
+"Spain",
+"Italy",
+"Czechoslovakia"
+]
+}
+},
+{
+"id": "wd-euro-anfitriao-Q161810",
+"pt": {
+"q": "Que país organizou o Campeonato da Europa de 1992?",
+"o": [
+"Bélgica",
+"Polónia",
+"Espanha",
+"Suécia"
+]
+},
+"en": {
+"q": "Which country hosted the 1992 UEFA European Championship?",
+"o": [
+"Belgium",
+"Poland",
+"Spain",
+"Sweden"
+]
+}
+},
+{
+"id": "wd-mundial-vencedor-Q1477177",
+"pt": {
+"q": "Que seleção venceu o Campeonato do Mundo de 1934?",
+"o": [
+"Itália",
+"Brasil",
+"Argentina",
+"Espanha"
+]
+},
+"en": {
+"q": "Which national team won the 1934 FIFA World Cup?",
+"o": [
+"Italy",
+"Brazil",
+"Argentina",
+"Spain"
+]
+}
+},
+{
+"id": "wd-euro-vencedor-Q180563",
+"pt": {
+"q": "Que seleção venceu o Campeonato da Europa de 1996?",
+"o": [
+"Alemanha",
+"Checoslováquia",
+"União Soviética",
+"Espanha"
+]
+},
+"en": {
+"q": "Which national team won the 1996 UEFA European Championship?",
+"o": [
+"Germany",
+"Czechoslovakia",
+"Soviet Union",
+"Spain"
+]
+}
+},
+{
+"id": "wd-mundial-anfitriao-Q176883",
+"pt": {
+"q": "Que país organizou o Campeonato do Mundo de 2010?",
+"o": [
+"Brasil",
+"França",
+"Suécia",
+"África do Sul"
+]
+},
+"en": {
+"q": "Which country hosted the 2010 FIFA World Cup?",
+"o": [
+"Brazil",
+"France",
+"Sweden",
+"South Africa"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q642743",
+"pt": {
+"q": "Que clube venceu a Taça dos Campeões Europeus 1981-82?",
+"o": [
+"Manchester City F.C.",
+"Liverpool F.C.",
+"Aston Villa F.C.",
+"Inter Milan"
+]
+},
+"en": {
+"q": "Which club won the 1981–82 European Cup?",
+"o": [
+"Manchester City F.C.",
+"Liverpool F.C.",
+"Aston Villa F.C.",
+"Inter Milan"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q596726",
+"pt": {
+"q": "Que clube venceu a Taça dos Campeões Europeus 1979-80?",
+"o": [
+"FC Porto",
+"Nottingham Forest F.C.",
+"PSV Eindhoven",
+"AFC Ajax"
+]
+},
+"en": {
+"q": "Which club won the 1979–80 European Cup?",
+"o": [
+"FC Porto",
+"Nottingham Forest F.C.",
+"PSV Eindhoven",
+"AFC Ajax"
+]
+}
+},
+{
+"id": "wd-euro-anfitriao-Q182770",
+"pt": {
+"q": "Que país organizou o Campeonato da Europa de 1984?",
+"o": [
+"França",
+"Irlanda",
+"Turquia",
+"Áustria"
+]
+},
+"en": {
+"q": "Which country hosted the 1984 UEFA European Championship?",
+"o": [
+"France",
+"Ireland",
+"Turkey",
+"Austria"
+]
+}
+},
+{
+"id": "wd-boladeouro-2000",
+"pt": {
+"q": "Quem ganhou a Bola de Ouro de 2000?",
+"o": [
+"Hristo Stoichkov",
+"Luís Figo",
+"Zinédine Zidane",
+"Marco van Basten"
+]
+},
+"en": {
+"q": "Who won the 2000 Ballon d'Or?",
+"o": [
+"Hristo Stoichkov",
+"Luís Figo",
+"Zinedine Zidane",
+"Marco van Basten"
+]
+}
+},
+{
+"id": "wd-euro-vencedor-Q22669",
+"pt": {
+"q": "Que seleção venceu o Campeonato da Europa de 2012?",
+"o": [
+"Espanha",
+"União Soviética",
+"França",
+"Itália"
+]
+},
+"en": {
+"q": "Which national team won the 2012 UEFA European Championship?",
+"o": [
+"Spain",
+"Soviet Union",
+"France",
+"Italy"
+]
+}
+},
+{
+"id": "wd-boladeouro-1997",
+"pt": {
+"q": "Quem ganhou a Bola de Ouro de 1997?",
+"o": [
+"Ousmane Dembélé",
+"Matthias Sammer",
+"Ronaldo Nazário",
+"Jean-Pierre Papin"
+]
+},
+"en": {
+"q": "Who won the 1997 Ballon d'Or?",
+"o": [
+"Ousmane Dembélé",
+"Matthias Sammer",
+"Ronaldo",
+"Jean-Pierre Papin"
+]
+}
+},
+{
+"id": "wd-boladeouro-1957",
+"pt": {
+"q": "Quem ganhou a Bola de Ouro de 1957?",
+"o": [
+"Alfredo Di Stéfano",
+"Michel Platini",
+"Aitana Bonmatí",
+"Bobby Charlton"
+]
+},
+"en": {
+"q": "Who won the 1957 Ballon d'Or?",
+"o": [
+"Alfredo Di Stéfano",
+"Michel Platini",
+"Aitana Bonmatí",
+"Bobby Charlton"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q118823",
+"pt": {
+"q": "Que clube venceu a Taça dos Clubes Campeões Europeus de 1990–91?",
+"o": [
+"Aston Villa F.C.",
+"FC Porto",
+"Liverpool F.C.",
+"FK Crvena zvezda"
+]
+},
+"en": {
+"q": "Which club won the 1990–91 European Cup?",
+"o": [
+"Aston Villa F.C.",
+"FC Porto",
+"Liverpool F.C.",
+"FK Crvena zvezda"
+]
+}
+},
+{
+"id": "otdb-88cc5debcc",
+"pt": {
+"q": "O «Stadium of Light» é o estádio de que equipa de futebol?",
+"o": [
+"Manchester United",
+"Sunderland",
+"FC Barcelona",
+"Paris Saint-Germain"
+]
+},
+"en": {
+"q": "\"Stadium of Light\" is the home stadium for which soccer team?",
+"o": [
+"Manchester United",
+"Sunderland FC",
+"Barcelona FC",
+"Paris Saints-Germain"
+]
+}
+},
+{
+"id": "wd-boladeouro-2004",
+"pt": {
+"q": "Quem ganhou a Bola de Ouro de 2004?",
+"o": [
+"Alfredo Di Stéfano",
+"Andriy Shevchenko",
+"Aitana Bonmatí",
+"Matthias Sammer"
+]
+},
+"en": {
+"q": "Who won the 2004 Ballon d'Or?",
+"o": [
+"Alfredo Di Stéfano",
+"Andriy Shevchenko",
+"Aitana Bonmatí",
+"Matthias Sammer"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q594303",
+"pt": {
+"q": "Que clube venceu a Taça dos Campeões Europeus 1989-90?",
+"o": [
+"Borussia Dortmund",
+"Feyenoord Rotterdam",
+"Celtic F.C.",
+"AC Milan"
+]
+},
+"en": {
+"q": "Which club won the 1989–90 European Cup?",
+"o": [
+"Borussia Dortmund",
+"Feyenoord Rotterdam",
+"Celtic F.C.",
+"AC Milan"
+]
+}
+},
+{
+"id": "otdb-e4fa2ab13d",
+"pt": {
+"q": "Que seleção ganhou a Copa América Centenario de 2016?",
+"o": [
+"Argentina",
+"Brasil",
+"Chile",
+"Colômbia"
+]
+},
+"en": {
+"q": "Which soccer team won the Copa América Centenario 2016?",
+"o": [
+"Argentina",
+"Brazil",
+"Chile",
+"Colombia"
+]
+}
+},
+{
+"id": "wd-euro-anfitriao-Q182205",
+"pt": {
+"q": "Que país organizou o Campeonato da Europa de 1964?",
+"o": [
+"Reino Unido",
+"Turquia",
+"Espanha",
+"Bélgica"
+]
+},
+"en": {
+"q": "Which country hosted the 1964 UEFA European Championship?",
+"o": [
+"United Kingdom",
+"Turkey",
+"Spain",
+"Belgium"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q426678",
+"pt": {
+"q": "Que clube venceu a Taça dos Campeões Europeus 1967-68?",
+"o": [
+"FCSB",
+"Manchester United F.C.",
+"Celtic F.C.",
+"Hamburger SV"
+]
+},
+"en": {
+"q": "Which club won the 1967–68 European Cup?",
+"o": [
+"FCSB",
+"Manchester United F.C.",
+"Celtic F.C.",
+"Hamburger SV"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q455985",
+"pt": {
+"q": "Que clube venceu a Liga dos Campeões da UEFA de 1994-95?",
+"o": [
+"AFC Ajax",
+"FCSB",
+"FC Bayern Munich",
+"PSV Eindhoven"
+]
+},
+"en": {
+"q": "Which club won the 1994–95 UEFA Champions League?",
+"o": [
+"AFC Ajax",
+"FCSB",
+"FC Bayern Munich",
+"PSV Eindhoven"
+]
+}
+},
+{
+"id": "wd-euro-vencedor-Q131239",
+"pt": {
+"q": "Que seleção venceu o Campeonato da Europa de 2000?",
+"o": [
+"Alemanha",
+"Grécia",
+"União Soviética",
+"França"
+]
+},
+"en": {
+"q": "Which national team won the 2000 UEFA European Championship?",
+"o": [
+"Germany",
+"Greece",
+"Soviet Union",
+"France"
+]
+}
+},
+{
+"id": "wd-euro-anfitriao-Q189571",
+"pt": {
+"q": "Que país organizou o Campeonato da Europa de 2016?",
+"o": [
+"Áustria",
+"França",
+"Portugal",
+"Espanha"
+]
+},
+"en": {
+"q": "Which country hosted the 2016 UEFA European Championship?",
+"o": [
+"Austria",
+"France",
+"Portugal",
+"Spain"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q63088790",
+"pt": {
+"q": "Que clube venceu a Liga dos Campeões da UEFA de 2020–21?",
+"o": [
+"Hamburger SV",
+"Real Madrid Club de Fútbol",
+"Chelsea F.C.",
+"Liverpool F.C."
+]
+},
+"en": {
+"q": "Which club won the 2020–21 UEFA Champions League?",
+"o": [
+"Hamburger SV",
+"Real Madrid Club de Fútbol",
+"Chelsea F.C.",
+"Liverpool F.C."
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q485956",
+"pt": {
+"q": "Que clube venceu a Liga dos Campeões da UEFA de 2012-13?",
+"o": [
+"FC Bayern Munich",
+"Celtic F.C.",
+"Real Madrid Club de Fútbol",
+"Liverpool F.C."
+]
+},
+"en": {
+"q": "Which club won the 2012–13 UEFA Champions League?",
+"o": [
+"FC Bayern Munich",
+"Celtic F.C.",
+"Real Madrid Club de Fútbol",
+"Liverpool F.C."
+]
+}
+},
+{
+"id": "otdb-5f4af63a81",
+"pt": {
+"q": "A canção «Three Lions», dos Lightning Seeds, foi feita para que grande evento de futebol em 1996?",
+"o": [
+"Campeonato da Europa",
+"Taça das Confederações",
+"Liga dos Campeões",
+"Campeonato do Mundo"
+]
+},
+"en": {
+"q": "The song \"Three Lions\" by the Lightning Seeds was made for which major football event in 1996?",
+"o": [
+"European Championships",
+"Confederations Cup",
+"Champions League",
+"World Cup"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q371848",
+"pt": {
+"q": "Que clube venceu a Taça dos Campeões Europeus 1969-70?",
+"o": [
+"AC Milan",
+"Manchester United F.C.",
+"Feyenoord Rotterdam",
+"Real Madrid Club de Fútbol"
+]
+},
+"en": {
+"q": "Which club won the 1969–70 European Cup?",
+"o": [
+"AC Milan",
+"Manchester United F.C.",
+"Feyenoord Rotterdam",
+"Real Madrid Club de Fútbol"
+]
+}
+},
+{
+"id": "wd-boladeouro-2007",
+"pt": {
+"q": "Quem ganhou a Bola de Ouro de 2007?",
+"o": [
+"Rivaldo",
+"Bobby Charlton",
+"Kaká",
+"Oleg Blokhin"
+]
+},
+"en": {
+"q": "Who won the 2007 Ballon d'Or?",
+"o": [
+"Rivaldo",
+"Bobby Charlton",
+"Kaká",
+"Oleh Blokhin"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q30608",
+"pt": {
+"q": "Que clube venceu a Liga dos Campeões da UEFA de 2013–14?",
+"o": [
+"Manchester City F.C.",
+"FC Bayern Munich",
+"Borussia Dortmund",
+"Real Madrid Club de Fútbol"
+]
+},
+"en": {
+"q": "Which club won the 2013–14 UEFA Champions League?",
+"o": [
+"Manchester City F.C.",
+"FC Bayern Munich",
+"Borussia Dortmund",
+"Real Madrid Club de Fútbol"
+]
+}
+},
+{
+"id": "wd-boladeouro-1992",
+"pt": {
+"q": "Quem ganhou a Bola de Ouro de 1992?",
+"o": [
+"Marco van Basten",
+"Kaká",
+"Oleg Blokhin",
+"Bobby Charlton"
+]
+},
+"en": {
+"q": "Who won the 1992 Ballon d'Or?",
+"o": [
+"Marco van Basten",
+"Kaká",
+"Oleh Blokhin",
+"Bobby Charlton"
+]
+}
+}
+]

@@ -1,0 +1,422 @@
+[
+ {
+  "id": "wd-nomecientifico-Q25354",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "wd-nomecientifico-Q129059",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": "https://birdsoftheworld.org/bow/species/wescap1/cur/history",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "wd-grupo-Q34706",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-aecb763f66",
+  "resposta": 1,
+  "certeza": "media",
+  "fonte": null,
+  "problemas": [
+   "ambigua"
+  ],
+  "nota": "«Mais rápido» sem qualificação: o falcão-peregrino é o mais rápido em voo picado, mas a chita é o animal terrestre mais rápido; especificar «em picado» ou «de todos, incluindo aves em voo picado»."
+ },
+ {
+  "id": "wd-nomecientifico-Q171360",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "wd-nomecientifico-Q170251",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "wd-grupo-Q33609",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "wd-nomecientifico-Q133006",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "wd-grupo-Q25393",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "wd-grupo-Q131564",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "wd-grupo-Q25307",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "wd-grupo-Q25961",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-b56e90ec7d",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-e8eef0071a",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "wd-grupo-Q159918",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "wd-grupo-Q25572",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-8cf81c5776",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-a235d0d131",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "wd-grupo-Q25384",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": "https://www.wikidata.org/wiki/Q25384",
+  "problemas": [
+   "traducao"
+  ],
+  "nota": "Asio otus (long-eared owl) chama-se em Portugal bufo-pequeno; «coruja-pequena» (rótulo do Wikidata) não é o nome usado em pt-PT e pode confundir-se com o mocho-galego."
+ },
+ {
+  "id": "wd-nomecientifico-Q81091",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "pista"
+  ],
+  "nota": "Em en-US a opção certa repete o nome científico do enunciado (ou é a única com nome comum entre nomes científicos), o que dá a resposta só em inglês."
+ },
+ {
+  "id": "wd-nomecientifico-Q25450",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": "https://atlas.cimal.pt/drupal/sites/default/files/fichas_biodiversidade_fauna/anas_acuta.pdf",
+  "problemas": [
+   "traducao"
+  ],
+  "nota": "O nome português de Anas acuta é arrábio; «marreca-arrebio» não é usado em Portugal (parece forma brasileira)."
+ },
+ {
+  "id": "wd-nomecientifico-Q26349",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "wd-nomecientifico-Q131709",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": "https://atlas.cimal.pt/drupal/sites/default/files/fichas_biodiversidade_fauna/egretta_garzetta.pdf",
+  "problemas": [
+   "traducao"
+  ],
+  "nota": "O nome oficial em Portugal de Egretta garzetta é garça-branca-pequena, não «garcinha-branca»."
+ },
+ {
+  "id": "wd-nomecientifico-Q25383",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "wd-grupo-Q134964",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "wd-nomecientifico-Q83310",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "wd-nomecientifico-Q25485",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-1b9f3f9e2f",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "wd-nomecientifico-Q173651",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-c5127c1861",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": "Certa por convenção; as espécies produtoras (Senegalia senegal, Vachellia seyal) já não estão no género Acacia e «espécie» devia ser «género»."
+ },
+ {
+  "id": "otdb-0140418110",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "wd-nomecientifico-Q26114",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-7a1c8e5d5b",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "wd-nomecientifico-Q179863",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-bf742dc8d7",
+  "resposta": 1,
+  "certeza": "media",
+  "fonte": "https://en.wikipedia.org/wiki/Centipede",
+  "problemas": [
+   "ambigua"
+  ],
+  "nota": "100 é impossível (pares sempre ímpares), mas 50 patas (25 pares) também não existe: Scolopendromorpha têm 21 ou 23 pares e Geophilomorpha 27 a 191; as ordens anamórficas param nos 15 pares."
+ },
+ {
+  "id": "wd-grupo-Q42196",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "wd-nomecientifico-Q4388",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "pista"
+  ],
+  "nota": "Em en-US a opção certa repete o nome científico do enunciado (ou é a única com nome comum entre nomes científicos), o que dá a resposta só em inglês."
+ },
+ {
+  "id": "otdb-6b2c8239cb",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "traducao"
+  ],
+  "nota": "«Ape» é grande símio (hominídeo); «símio» em pt-PT abrange também os macacos. Sugestão: «Grande símio»."
+ },
+ {
+  "id": "wd-nomecientifico-Q25909",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-13cd0d054e",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "wd-nomecientifico-Q25612",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "wd-nomecientifico-Q26838",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "pista"
+  ],
+  "nota": "Em en-US a opção certa repete o nome científico do enunciado (ou é a única com nome comum entre nomes científicos), o que dá a resposta só em inglês."
+ },
+ {
+  "id": "wd-nomecientifico-Q26490",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-c208bd4a3f",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "wd-nomecientifico-Q35517",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-295c8be48a",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "wd-nomecientifico-Q178821",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "pista"
+  ],
+  "nota": "Em en-US a opção certa repete o nome científico do enunciado (ou é a única com nome comum entre nomes científicos), o que dá a resposta só em inglês."
+ },
+ {
+  "id": "wd-grupo-Q174088",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-58b25d5561",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-a0371a0171",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ }
+]

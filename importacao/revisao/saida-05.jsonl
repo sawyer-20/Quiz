@@ -1,0 +1,200 @@
+{"id": "wd-capital-Q842", "acao": "corrigir", "pt": {"q": "Qual é a capital de Omã?", "o": ["Mascate", "Riade", "Díli", "Beirute"]}, "en": {"q": "What is the capital of Oman?", "o": ["Muscat", "Riyadh", "Dili", "Beirut"]}, "nota": "enunciado: «do país X» → «de Omã»"}
+{"id": "wd-capital-Q843", "acao": "corrigir", "pt": {"q": "Qual é a capital do Paquistão?", "o": ["Teerão", "Tóquio", "Naypyidaw", "Islamabad"]}, "en": {"q": "What is the capital of Pakistan?", "o": ["Tehran", "Tokyo", "Naypyidaw", "Islamabad"]}, "nota": "enunciado: «do país X» → «do Paquistão»"}
+{"id": "wd-capital-Q846", "acao": "corrigir", "pt": {"q": "Qual é a capital do Catar?", "o": ["Bandar Seri Begawan", "Teerão", "Manila", "Doha"]}, "en": {"q": "What is the capital of Qatar?", "o": ["Bandar Seri Begawan", "Tehran", "Manila", "Doha"]}, "nota": "enunciado: «do país X» → «do Catar»"}
+{"id": "wd-capital-Q851", "acao": "corrigir", "pt": {"q": "Qual é a capital da Arábia Saudita?", "o": ["Catmandu", "Doha", "Díli", "Riade"]}, "en": {"q": "What is the capital of Saudi Arabia?", "o": ["Kathmandu", "Doha", "Dili", "Riyadh"]}, "nota": "enunciado: «do país X» → «da Arábia Saudita»"}
+{"id": "wd-capital-Q858", "acao": "corrigir", "pt": {"q": "Qual é a capital da Síria?", "o": ["Kuala Lumpur", "Mascate", "Beirute", "Damasco"]}, "en": {"q": "What is the capital of Syria?", "o": ["Kuala Lumpur", "Muscat", "Beirut", "Damascus"]}, "nota": "enunciado: «do país X» → «da Síria»"}
+{"id": "wd-capital-Q863", "acao": "tirar", "motivo": "nome_pt", "nota": "«Duchambe» não confirmado em pt-PT (Infopédia usa «Dushambe»)"}
+{"id": "wd-capital-Q912", "acao": "corrigir", "pt": {"q": "Qual é a capital do Mali?", "o": ["Dodoma", "Bamako", "Maseru", "Niamey"]}, "en": {"q": "What is the capital of Mali?", "o": ["Dodoma", "Bamako", "Maseru", "Niamey"]}, "nota": "enunciado: «do país X» → «do Mali»"}
+{"id": "wd-capital-Q916", "acao": "corrigir", "pt": {"q": "Qual é a capital de Angola?", "o": ["Luanda", "Lomé", "Harare", "Ciudad de la Paz"]}, "en": {"q": "What is the capital of Angola?", "o": ["Luanda", "Lomé", "Harare", "Ciudad de la Paz"]}, "nota": "enunciado: «do país X» → «de Angola»"}
+{"id": "wd-capital-Q917", "acao": "corrigir", "pt": {"q": "Qual é a capital do Butão?", "o": ["Thimphu", "Doha", "Banguecoque", "Damasco"]}, "en": {"q": "What is the capital of Bhutan?", "o": ["Thimphu", "Doha", "Bangkok", "Damascus"]}, "nota": "enunciado: «do país X» → «do Butão»; «Thimbu» → «Thimphu» (Infopédia)"}
+{"id": "wd-capital-Q924", "acao": "corrigir", "pt": {"q": "Qual é a capital da Tanzânia?", "o": ["São Tomé", "Juba", "Yamoussoukro", "Dodoma"]}, "en": {"q": "What is the capital of Tanzania?", "o": ["São Tomé", "Juba", "Yamoussoukro", "Dodoma"]}, "nota": "enunciado: «do país X» → «da Tanzânia»"}
+{"id": "wd-capital-Q928", "acao": "corrigir", "pt": {"q": "Qual é a capital das Filipinas?", "o": ["Tasquente", "Malé", "Beirute", "Manila"]}, "en": {"q": "What is the capital of the Philippines?", "o": ["Tashkent", "Malé", "Beirut", "Manila"]}, "nota": "enunciado: «do país X» → «das Filipinas»"}
+{"id": "wd-capital-Q929", "acao": "corrigir", "pt": {"q": "Qual é a capital da República Centro-Africana?", "o": ["Ciudad de la Paz", "Lusaca", "Campala", "Bangui"]}, "en": {"q": "What is the capital of the Central African Republic?", "o": ["Ciudad de la Paz", "Lusaka", "Kampala", "Bangui"]}, "nota": "enunciado: «do país X» → «da República Centro-Africana»"}
+{"id": "wd-capital-Q945", "acao": "corrigir", "pt": {"q": "Qual é a capital do Togo?", "o": ["Windhoek", "Trípoli", "Mogadíscio", "Lomé"]}, "en": {"q": "What is the capital of Togo?", "o": ["Windhoek", "Tripoli", "Mogadishu", "Lomé"]}, "nota": "enunciado: «do país X» → «do Togo»; «Mogadixo» → «Mogadíscio» (Infopédia)"}
+{"id": "wd-capital-Q953", "acao": "corrigir", "pt": {"q": "Qual é a capital da Zâmbia?", "o": ["Lusaca", "Argel", "Luanda", "Bangui"]}, "en": {"q": "What is the capital of Zambia?", "o": ["Lusaka", "Algiers", "Luanda", "Bangui"]}, "nota": "enunciado: «do país X» → «da Zâmbia»"}
+{"id": "wd-capital-Q96", "acao": "tirar", "motivo": "trivial", "nota": "a resposta contém o nome do país"}
+{"id": "wd-capital-Q962", "acao": "corrigir", "pt": {"q": "Qual é a capital do Benim?", "o": ["Adis Abeba", "Praia", "Porto Novo", "Maputo"]}, "en": {"q": "What is the capital of Benin?", "o": ["Addis Ababa", "Praia", "Porto-Novo", "Maputo"]}, "nota": "enunciado: «do país X» → «do Benim»"}
+{"id": "wd-capital-Q963", "acao": "corrigir", "pt": {"q": "Qual é a capital do Botsuana?", "o": ["Gaborone", "Uagadugu", "Niamey", "Djibouti"]}, "en": {"q": "What is the capital of Botswana?", "o": ["Gaborone", "Ouagadougou", "Niamey", "Djibouti"]}, "nota": "enunciado: «do país X» → «do Botsuana»"}
+{"id": "wd-capital-Q970", "acao": "corrigir", "pt": {"q": "Qual é a capital das Comores?", "o": ["Conacri", "Brazavile", "Maputo", "Moroni"]}, "en": {"q": "What is the capital of Comoros?", "o": ["Conakry", "Brazzaville", "Maputo", "Moroni"]}, "nota": "enunciado: «do país X» → «das Comores»"}
+{"id": "wd-capital-Q971", "acao": "corrigir", "pt": {"q": "Qual é a capital da República do Congo?", "o": ["Iaundé", "Bissau", "Rabat", "Brazavile"]}, "en": {"q": "What is the capital of Republic of the Congo?", "o": ["Yaoundé", "Bissau", "Rabat", "Brazzaville"]}, "nota": "enunciado: «do país X» → «da República do Congo»"}
+{"id": "wd-capital-Q974", "acao": "corrigir", "pt": {"q": "Qual é a capital da República Democrática do Congo?", "o": ["Dacar", "Quinxassa", "Nouakchott", "Adis Abeba"]}, "en": {"q": "What is the capital of the Democratic Republic of the Congo?", "o": ["Dakar", "Kinshasa", "Nouakchott", "Addis Ababa"]}, "nota": "enunciado: «do país X» → «da República Democrática do Congo»"}
+{"id": "wd-capital-Q977", "acao": "tirar", "motivo": "trivial", "nota": "capital com o mesmo nome do país; e «Djibouti/Jibuti» de forma pt-PT incerta"}
+{"id": "wd-capital-Q983", "acao": "tirar", "motivo": "datada", "nota": "Ciudad de la Paz só é capital oficial desde o decreto de janeiro de 2026 (Malabo antes); resposta mudou há pouco"}
+{"id": "wd-capital-Q986", "acao": "corrigir", "pt": {"q": "Qual é a capital da Eritreia?", "o": ["Yamoussoukro", "Brazavile", "Asmara", "Nairóbi"]}, "en": {"q": "What is the capital of Eritrea?", "o": ["Yamoussoukro", "Brazzaville", "Asmara", "Nairobi"]}, "nota": "enunciado: «do país X» → «da Eritreia»"}
+{"id": "otdb-04868539ca", "acao": "manter"}
+{"id": "otdb-0552464569", "acao": "manter"}
+{"id": "otdb-0651659780", "acao": "manter"}
+{"id": "otdb-0a3646324d", "acao": "manter"}
+{"id": "otdb-0a3bc2420e", "acao": "corrigir", "pt": {"q": "No remake de 2010 de «A Nightmare on Elm Street», quem interpretou Freddy Krueger?", "o": ["Jackie Earle Haley", "Tyler Mane", "Derek Mears", "Gunnar Hansen"]}, "en": {"q": "In the 2010 Nightmare on Elm Street reboot, who played Freddy Krueger?", "o": ["Jackie Earle Haley", "Tyler Mane", "Derek Mears", "Gunnar Hansen"]}, "nota": "en: «Kruger» → «Krueger»"}
+{"id": "otdb-0c37c8f457", "acao": "corrigir", "pt": {"q": "Qual destes filmes NÃO é considerado parte do Universo Cinematográfico Marvel?", "o": ["Fantastic Four (2015)", "Spider-Man: Homecoming (2017)", "The Incredible Hulk (2008)", "Captain Marvel (2019)"]}, "en": {"q": "Which of these movies is NOT considered to be part of the Marvel Cinematic Universe?", "o": ["Fantastic Four (2015)", "Spider-Man: Homecoming (2017)", "The Incredible Hulk (2008)", "Captain Marvel (2019)"]}, "nota": "espaços/caracteres invisíveis a mais no en-US"}
+{"id": "otdb-0c4c466acc", "acao": "manter"}
+{"id": "otdb-0ccb8048eb", "acao": "manter"}
+{"id": "otdb-0dc867a4f2", "acao": "manter"}
+{"id": "otdb-0de2b5b087", "acao": "manter"}
+{"id": "otdb-152965adab", "acao": "corrigir", "pt": {"q": "Em «Jurassic World», como se chama o dinossauro que é um híbrido genético?", "o": ["Mosasaurus", "Pteranodon", "Tyrannosaurus Rex", "Indominus Rex"]}, "en": {"q": "In \"Jurassic World\", what is the name of the dinosaur that is a genetic hybrid?", "o": ["Mosasaurus", "Pteranodon", "Tyrannosaurus Rex", "Indominus Rex"]}, "nota": "espaços/caracteres invisíveis a mais no en-US"}
+{"id": "otdb-15f7f26ab6", "acao": "corrigir", "pt": {"q": "Que ator interpretou a personagem principal do filme «Edward Scissorhands», de 1990?", "o": ["Ben Stiller", "Leonardo DiCaprio", "Johnny Depp", "Clint Eastwood"]}, "en": {"q": "Which actor played the main character in the 1990 film \"Edward Scissorhands\"?", "o": ["Ben Stiller", "Leonardo DiCaprio", "Johnny Depp", "Clint Eastwood"]}, "nota": "espaços/caracteres invisíveis a mais no en-US"}
+{"id": "otdb-165a0098b0", "acao": "manter"}
+{"id": "otdb-170ec4df82", "acao": "corrigir", "pt": {"q": "Quem realizou os filmes «Pulp Fiction», «Reservoir Dogs» e «Django Unchained»?", "o": ["James Cameron", "Steven Spielberg", "Quentin Tarantino", "Martin Scorsese"]}, "en": {"q": "Who directed the movies \"Pulp Fiction\", \"Reservoir Dogs\" and \"Django Unchained\"?", "o": ["James Cameron", "Steven Spielberg", "Quentin Tarantino", "Martin Scorsese"]}, "nota": "en: «Scorcese» → «Scorsese»"}
+{"id": "otdb-19ae72bc70", "acao": "manter"}
+{"id": "otdb-1aaabb928a", "acao": "manter"}
+{"id": "otdb-1ab1492046", "acao": "manter"}
+{"id": "otdb-1b0e88dc7e", "acao": "manter"}
+{"id": "otdb-1c32ebb8d6", "acao": "manter"}
+{"id": "otdb-219aed25bc", "acao": "manter"}
+{"id": "otdb-21d7f04e42", "acao": "manter"}
+{"id": "otdb-24aa46e6de", "acao": "manter"}
+{"id": "otdb-271de30d0a", "acao": "corrigir", "pt": {"q": "Que cidade foi atacada pelo monstro no filme «Cloverfield»?", "o": ["Las Vegas", "Orlando", "Chicago", "Nova Iorque"]}, "en": {"q": "What city did the monster attack in the film, \"Cloverfield\"?", "o": ["Las Vegas", "Orlando", "Chicago", "New York"]}, "nota": "opção certa era a única sem estado no pt (pista); estados tirados nos dois idiomas"}
+{"id": "otdb-28ea7daf86", "acao": "corrigir", "pt": {"q": "No filme «Willy Wonka & the Chocolate Factory» (1971), quem interpretou Willy Wonka?", "o": ["Peter Ostrum", "Shia LaBeouf", "Gene Wilder", "Johnny Depp"]}, "en": {"q": "In the 1971 film \"Willy Wonka & the Chocolate Factory\", who played Willy Wonka?", "o": ["Peter Ostrum", "Shia LaBeouf", "Gene Wilder", "Johnny Depp"]}, "nota": "en: «LeBouf» → «LaBeouf»"}
+{"id": "otdb-2a0234fb90", "acao": "manter"}
+{"id": "otdb-2aa2bf4e5b", "acao": "manter"}
+{"id": "otdb-2cbf86fbf1", "acao": "manter"}
+{"id": "otdb-2dcfe73d5f", "acao": "corrigir", "pt": {"q": "Qual destes atores NÃO interpretou o Homem-Aranha no cinema?", "o": ["Andrew Garfield", "Michael Cera", "Tobey Maguire", "Tom Holland"]}, "en": {"q": "Which of these actors has NOT played Spider-Man in the movies?", "o": ["Andrew Garfield", "Michael Cera", "Tobey Maguire", "Tom Holland"]}, "nota": "en: concordância e «Spider-Man»"}
+{"id": "otdb-2ee4e666a1", "acao": "manter"}
+{"id": "otdb-2f79349262", "acao": "manter"}
+{"id": "otdb-2fb4b9bbe4", "acao": "manter"}
+{"id": "otdb-32fda5dd68", "acao": "manter"}
+{"id": "otdb-3708a0b370", "acao": "corrigir", "pt": {"q": "Terry Gilliam era um animador que trabalhou com que grupo de comédia britânico?", "o": ["The Penny Dreadfuls", "Monty Python", "The League of Gentlemen", "The Goodies"]}, "en": {"q": "Terry Gilliam was an animator that worked with which British comedy group?", "o": ["The Penny Dreadfuls", "Monty Python", "The League of Gentlemen", "The Goodies"]}, "nota": "espaços/caracteres invisíveis a mais no en-US"}
+{"id": "otdb-388bc681e0", "acao": "manter"}
+{"id": "otdb-38fdd4ef33", "acao": "corrigir", "pt": {"q": "Que nome deu Tom Hanks ao seu companheiro, uma bola de voleibol, no filme «Cast Away»?", "o": ["Billy", "Wilson", "Jones", "Friday"]}, "en": {"q": "What name did Tom Hanks give to his volleyball companion in the film \"Cast Away\"?", "o": ["Billy", "Wilson", "Jones", "Friday"]}, "nota": "en: acentos graves → aspas"}
+{"id": "otdb-3a295ad5cb", "acao": "manter"}
+{"id": "otdb-3ad56d6071", "acao": "corrigir", "pt": {"q": "Que filme de James Bond teve como tema uma canção escrita e interpretada pela cantautora inglesa Adele?", "o": ["Casino Royale", "Spectre", "Quantum of Solace", "Skyfall"]}, "en": {"q": "Which James Bond film had the theme song written and performed by English singer-songwriter Adele?", "o": ["Casino Royale", "Spectre", "Quantum of Solace", "Skyfall"]}, "nota": "en: «Quantum Solace» → «Quantum of Solace»"}
+{"id": "otdb-3bdf6be772", "acao": "corrigir", "pt": {"q": "Que super-herói foi interpretado no cinema pelos atores Michael Keaton, Val Kilmer, George Clooney e Christian Bale?", "o": ["Homem de Ferro", "Homem-Aranha", "Super-Homem", "Batman"]}, "en": {"q": "What superhero has been played in film by actors Michael Keaton, Val Kilmer, George Clooney and Christian Bale?", "o": ["Iron Man", "Spider-Man", "Superman", "Batman"]}, "nota": "en: «Spiderman» → «Spider-Man»"}
+{"id": "otdb-3bfdde39b1", "acao": "manter"}
+{"id": "otdb-3d096bf3fd", "acao": "manter"}
+{"id": "otdb-3e5de17158", "acao": "corrigir", "pt": {"q": "Daniel Radcliffe tornou-se uma estrela mundial do cinema graças à sua interpretação em que saga de filmes?", "o": ["Harry Potter", "Ted", "Pirates of the Caribbean", "Spy Kids"]}, "en": {"q": "Daniel Radcliffe became a global star in the film industry due to his performance in which film franchise?", "o": ["Harry Potter", "Ted", "Pirates of the Caribbean", "Spy Kids"]}, "nota": "espaços/caracteres invisíveis a mais no en-US"}
+{"id": "otdb-41aa8d193a", "acao": "manter"}
+{"id": "otdb-41d6863d3a", "acao": "manter"}
+{"id": "otdb-44654760a7", "acao": "corrigir", "pt": {"q": "Quem realizou «Scott Pilgrim vs. the World» (2010)?", "o": ["Phil Lord", "Seth Rogen", "Edgar Wright", "Chris Miller"]}, "en": {"q": "Who was the director of \"Scott Pilgrim vs. the World (2010)\"?", "o": ["Phil Lord", "Seth Rogen", "Edgar Wright", "Chris Miller"]}, "nota": "en: «Rogan» → «Rogen»"}
+{"id": "otdb-44d42ec907", "acao": "manter"}
+{"id": "otdb-48651b1e7f", "acao": "manter"}
+{"id": "otdb-4a4d96fef5", "acao": "manter"}
+{"id": "otdb-4ac5b52dbc", "acao": "manter"}
+{"id": "otdb-4ced643ebc", "acao": "corrigir", "pt": {"q": "Quem cantou o tema de abertura do filme de James Bond «Goldfinger»?", "o": ["John Barry", "Shirley Bassey", "Tom Jones", "Sheena Easton"]}, "en": {"q": "Who performed the opening theme song for the James Bond 007 movie \"Goldfinger\"?", "o": ["John Barry", "Shirley Bassey", "Tom Jones", "Sheena Easton"]}, "nota": "en: «Basey» → «Bassey»"}
+{"id": "otdb-4f9e68b027", "acao": "corrigir", "pt": {"q": "Que filme protagonizado por Bruce Willis contém a frase «I see dead people»?", "o": ["Armageddon", "The Fifth Element", "The Sixth Sense", "Die Hard"]}, "en": {"q": "What movie starring Bruce Willis contains the line \"I see dead people\"?", "o": ["Armageddon", "The Fifth Element", "The Sixth Sense", "Die Hard"]}, "nota": "espaços/caracteres invisíveis a mais no en-US"}
+{"id": "otdb-59d1067e64", "acao": "corrigir", "pt": {"q": "Que comédia de culto dos anos 90 tem participações especiais de Meat Loaf, Alice Cooper e Chris Farley?", "o": ["Bill & Ted's Excellent Adventure", "Austin Powers: International Man of Mystery", "Wayne's World", "Dumb and Dumber"]}, "en": {"q": "Which 90's comedy cult classic features cameo appearances from Meat Loaf, Alice Cooper and Chris Farley?", "o": ["Bill & Ted's Excellent Adventure", "Austin Powers: International Man of Mystery", "Wayne's World", "Dumb and Dumber"]}, "nota": "en: «cameos appearances» → «cameo appearances»"}
+{"id": "otdb-5ac6dabfe5", "acao": "corrigir", "pt": {"q": "Que atores formavam o trio de «The Good, the Bad and the Ugly»?", "o": ["Yul Brynner, Steve McQueen e Charles Bronson", "Aldo Giuffrè, Mario Brega e Luigi Pistilli", "Clint Eastwood, Eli Wallach e Lee Van Cleef", "Sergio Leone, Ennio Morricone e Tonino Delli Colli"]}, "en": {"q": "Which actors made up the trio in \"The Good, the Bad, and the Ugly\"?", "o": ["Yul Brynner, Steve McQueen, and Charles Bronson", "Aldo Giuffrè, Mario Brega, and Luigi Pistilli", "Clint Eastwood, Eli Wallach, and Lee Van Cleef", "Sergio Leone, Ennio Morricone, and Tonino Delli Colli"]}, "nota": "espaços/caracteres invisíveis a mais no en-US"}
+{"id": "otdb-5bb6b604e4", "acao": "corrigir", "pt": {"q": "Que tipo de queijo, adorado por Wallace e Gromit, viu os seus preços de venda subir depois do sucesso das suas curtas-metragens?", "o": ["Cheddar", "Wensleydale", "Edam", "Queijo da Lua"]}, "en": {"q": "What type of cheese, loved by Wallace and Gromit, had its sale prices rise after their successful short films?", "o": ["Cheddar", "Wensleydale", "Edam", "Moon Cheese"]}, "nota": "en: «it's» → «its»"}
+{"id": "otdb-5cbcbd6377", "acao": "manter"}
+{"id": "otdb-5f8c65fa4f", "acao": "corrigir", "pt": {"q": "A canção «A Kind of Magic», dos Queen, faz parte de que filme de 1986?", "o": ["Flash Gordon", "Labyrinth", "Highlander", "Howard the Duck"]}, "en": {"q": "The Queen song \"A Kind of Magic\" is featured in which 1986 film?", "o": ["Flash Gordon", "Labyrinth", "Highlander", "Howard the Duck"]}, "nota": "en: acentos graves → aspas"}
+{"id": "otdb-5f9d8e017c", "acao": "manter"}
+{"id": "otdb-638bf22224", "acao": "manter"}
+{"id": "otdb-652a0996c3", "acao": "manter"}
+{"id": "otdb-6575249172", "acao": "manter"}
+{"id": "otdb-6590436a26", "acao": "manter"}
+{"id": "otdb-67b230bf21", "acao": "corrigir", "pt": {"q": "No filme «John Wick», por que motivo John Wick sai da reforma?", "o": ["Foi assaltado", "Precisava de dinheiro", "Mataram-lhe o cachorro e roubaram-lhe o carro", "Levou um soco na cara"]}, "en": {"q": "In the film \"John Wick\" why does John Wick get out of retirement?", "o": ["He got mugged", "He needed money", "His puppy was killed and his car stolen", "He was punched in the face"]}, "nota": "pt: opção certa era a única no presente (pista); tempos verbais alinhados"}
+{"id": "otdb-698c27ee78", "acao": "manter"}
+{"id": "otdb-6a64bbfc81", "acao": "corrigir", "pt": {"q": "Em que filme ganhou Leonardo DiCaprio o seu primeiro Óscar de Melhor Ator?", "o": ["The Wolf Of Wall Street", "Inception", "The Revenant", "Shutter Island"]}, "en": {"q": "Leonardo DiCaprio won his first Best Actor Oscar for his performance in which film?", "o": ["The Wolf Of Wall Street", "Inception", "The Revenant", "Shutter Island"]}, "nota": "en: «Di Caprio» → «DiCaprio»"}
+{"id": "otdb-6bead22eea", "acao": "corrigir", "pt": {"q": "O filme «Mad Max: Fury Road» usa o Dies Irae do requiem de que compositor?", "o": ["Berlioz", "Verdi", "Mozart", "Brahms"]}, "en": {"q": "The film Mad Max: Fury Road features the Dies Irae from which composer's requiem?", "o": ["Berlioz", "Verdi", "Mozart", "Brahms"]}, "nota": "espaços/caracteres invisíveis a mais no en-US"}
+{"id": "otdb-6cfd950250", "acao": "tirar", "motivo": "ambigua", "nota": "«estreou»: estreia em Portugal não confirmada e as opções são anos seguidos (1983-1986)"}
+{"id": "otdb-70d41876eb", "acao": "manter"}
+{"id": "otdb-74841f84b1", "acao": "manter"}
+{"id": "otdb-74bd12fd7c", "acao": "manter"}
+{"id": "otdb-76152fe162", "acao": "corrigir", "pt": {"q": "Que atriz interpretou a Dra. Grace Augustine no filme «Avatar», de James Cameron?", "o": ["Jessica Chastain", "Melissa Beckett", "Sigourney Weaver", "Alyssa Monroe"]}, "en": {"q": "Which actress portrayed Dr. Grace Augustine in the James Cameron movie \"Avatar\"?", "o": ["Jessica Chastain", "Melissa Beckett", "Sigourney Weaver", "Alyssa Monroe"]}, "nota": "espaços/caracteres invisíveis a mais no en-US"}
+{"id": "otdb-793db6ab97", "acao": "manter"}
+{"id": "otdb-796a2e1076", "acao": "manter"}
+{"id": "otdb-7b7c5ed1ab", "acao": "manter"}
+{"id": "otdb-7b8f83dcf8", "acao": "manter"}
+{"id": "otdb-7d043f9ca4", "acao": "manter"}
+{"id": "otdb-7e652735c8", "acao": "manter"}
+{"id": "otdb-7ef0b79d88", "acao": "manter"}
+{"id": "otdb-86539c7c65", "acao": "manter"}
+{"id": "otdb-86da20e0ea", "acao": "manter"}
+{"id": "otdb-87d395e727", "acao": "manter"}
+{"id": "otdb-8da6364216", "acao": "tirar", "motivo": "trivial", "nota": "duplicada de otdb-e1fcd457b3 (primeiro filme de James Bond)"}
+{"id": "otdb-8dbebb3c83", "acao": "corrigir", "pt": {"q": "Max Schreck, famoso ator alemão do cinema mudo, interpreta um célebre monstro em que filme de 1922?", "o": ["Frankenstein", "Nosferatu", "Häxan", "The Headless Horseman"]}, "en": {"q": "Max Schreck, a famous German silent film actor, plays a famous monster in which 1922 film?", "o": ["Frankenstein", "Nosferatu", "Häxan", "The Headless Horseman"]}, "nota": "espaços/caracteres invisíveis a mais no en-US"}
+{"id": "otdb-8e68af14b2", "acao": "manter"}
+{"id": "otdb-915e20ff68", "acao": "manter"}
+{"id": "otdb-9204199d72", "acao": "manter"}
+{"id": "otdb-92148e8a99", "acao": "corrigir", "pt": {"q": "Quem é o protagonista do filme «Back to the Future» (1985)?", "o": ["George McFly", "Marty McFly", "Biff Tannen", "Emmett «Doc» Brown"]}, "en": {"q": "Who is the main protagonist in the 1985 film Back to the Future?", "o": ["George McFly", "Marty McFly", "Biff Tannen", "Emmett \"Doc\" Brown"]}, "nota": "en: vírgulas a mais"}
+{"id": "otdb-939d02817a", "acao": "corrigir", "pt": {"q": "Qual destes NÃO é o nome de uma «Bond girl»?", "o": ["Pam Bouvier", "Mary Goodnight", "Wai Lin", "Vanessa Kensington"]}, "en": {"q": "Which of the following is not the name of a \"Bond Girl\"?", "o": ["Pam Bouvier", "Mary Goodnight", "Wai Lin", "Vanessa Kensington"]}, "nota": "espaços/caracteres invisíveis a mais no en-US"}
+{"id": "otdb-93b8127709", "acao": "corrigir", "pt": {"q": "Quem protagonizou o filme «Enter the Dragon», de 1973?", "o": ["Bruce Lee", "Jet Li", "Jackie Chan", "Chow Yun-fat"]}, "en": {"q": "Who starred in the 1973 movie \"Enter the Dragon\"?", "o": ["Bruce Lee", "Jet Li", "Jackie Chan", "Chow Yun-fat"]}, "nota": "en: «the film 1973 movie» e espaço; nome alinhado com o pt"}
+{"id": "otdb-99a0585910", "acao": "manter"}
+{"id": "otdb-9a8e60ac3a", "acao": "corrigir", "pt": {"q": "Que filme de 1958 teve Kirk Douglas e Tony Curtis como meios-irmãos, Einar e Eric?", "o": ["Prince Valiant", "The Vikings", "The Long Ships", "Spartacus"]}, "en": {"q": "Which 1958 movie starred Kirk Douglas and Tony Curtis as half-brothers Einar and Eric?", "o": ["Prince Valiant", "The Vikings", "The Long Ships", "Spartacus"]}, "nota": "espaços/caracteres invisíveis a mais no en-US"}
+{"id": "otdb-9cdc3903a8", "acao": "manter"}
+{"id": "otdb-a08ae998e3", "acao": "corrigir", "pt": {"q": "No filme «Gremlins», qual é o momento do dia a partir do qual não se deve dar de comer ao Mogwai?", "o": ["Meia-noite", "Anoitecer", "Tarde", "Manhã"]}, "en": {"q": "In the movie Gremlins, after what time of day should you not feed Mogwai?", "o": ["Midnight", "Evening", "Afternoon", "Morning"]}, "nota": "pt: «Meia-noite» era a única opção sem preposição (pista); enunciado ajustado"}
+{"id": "otdb-a0d87d8f29", "acao": "manter"}
+{"id": "otdb-a29fd7a44d", "acao": "manter"}
+{"id": "otdb-a6661300a2", "acao": "manter"}
+{"id": "otdb-a6cbd54585", "acao": "manter"}
+{"id": "otdb-a810996067", "acao": "corrigir", "pt": {"q": "Qual foi o primeiro monstro a aparecer ao lado de Godzilla?", "o": ["Anguirus", "Mothra", "King Kong", "King Ghidorah"]}, "en": {"q": "What was the first monster to appear alongside Godzilla?", "o": ["Anguirus", "Mothra", "King Kong", "King Ghidorah"]}, "nota": "en: «Ghidora» → «Ghidorah»"}
+{"id": "otdb-a8547b1332", "acao": "manter"}
+{"id": "otdb-a9ea5a5dbb", "acao": "manter"}
+{"id": "otdb-adb334ee15", "acao": "manter"}
+{"id": "otdb-af34a7c426", "acao": "manter"}
+{"id": "otdb-b0535da26b", "acao": "manter"}
+{"id": "otdb-b0b89878ef", "acao": "manter"}
+{"id": "otdb-b12200975f", "acao": "corrigir", "pt": {"q": "Qual destes filmes NÃO contou com o falecido ator John Candy?", "o": ["Planes, Trains and Automobiles", "Ghostbusters", "Little Shop of Horrors", "Home Alone"]}, "en": {"q": "Which movie did NOT feature the late actor John Candy?", "o": ["Planes, Trains and Automobiles", "Ghostbusters", "Little Shop of Horrors", "Home Alone"]}, "nota": "título corrigido nos dois idiomas («Planes, Trains and Automobiles», «Little Shop of Horrors»)"}
+{"id": "otdb-b13d0984b7", "acao": "manter"}
+{"id": "otdb-b144d9e2e5", "acao": "manter"}
+{"id": "otdb-b461ce3630", "acao": "corrigir", "pt": {"q": "Qual foi o primeiro filme de longa-metragem de animação por computador?", "o": ["101 Dalmatians", "Tron", "Toy Story", "The Lion King"]}, "en": {"q": "What was the first feature-length computer-animated movie?", "o": ["101 Dalmatians", "Tron", "Toy Story", "The Lion King"]}, "nota": "en: «Lion king» → «The Lion King»"}
+{"id": "otdb-b58ce7b4d2", "acao": "manter"}
+{"id": "otdb-b7f522ffa0", "acao": "manter"}
+{"id": "otdb-b82ddad0c8", "acao": "corrigir", "pt": {"q": "Durante as filmagens da perseguição no Cairo em «Raiders of The Lost Ark», de que doença sofria Harrison Ford?", "o": ["Disenteria", "Prisão de ventre", "Anemia", "Refluxo ácido"]}, "en": {"q": "For the film \"Raiders of The Lost Ark\", what was Harrison Ford sick with during the filming of the Cairo chase?", "o": ["Dysentery", "Constipation", "Anemia", "Acid Reflux"]}, "nota": "espaços/caracteres invisíveis a mais no en-US"}
+{"id": "otdb-b943fe3ef4", "acao": "manter"}
+{"id": "otdb-bab42277b4", "acao": "manter"}
+{"id": "otdb-bb9bce3b94", "acao": "manter"}
+{"id": "otdb-bca8d1b962", "acao": "manter"}
+{"id": "otdb-be62fd53e4", "acao": "manter"}
+{"id": "otdb-be9373937c", "acao": "tirar", "motivo": "trivial", "nota": "distratores são nomes inventados; resposta óbvia"}
+{"id": "otdb-bf4ebd25c8", "acao": "manter"}
+{"id": "otdb-bf860e07d8", "acao": "manter"}
+{"id": "otdb-c1f06cde7b", "acao": "manter"}
+{"id": "otdb-c2cfbc2d30", "acao": "manter"}
+{"id": "otdb-c2fda5b731", "acao": "manter"}
+{"id": "otdb-c68d7870e4", "acao": "manter"}
+{"id": "otdb-c7f54159a5", "acao": "corrigir", "pt": {"q": "Quem realizou o filme «The Silence of the Lambs», de 1991?", "o": ["Jonathan Demme", "Frank Darabont", "Michael Bay", "Stanley Kubrick"]}, "en": {"q": "Who is the director of the 1991 film \"The Silence of the Lambs\"?", "o": ["Jonathan Demme", "Frank Darabont", "Michael Bay", "Stanley Kubrick"]}, "nota": "título original é «The Silence of the Lambs»"}
+{"id": "otdb-c829818568", "acao": "manter"}
+{"id": "otdb-ccb91735e7", "acao": "corrigir", "pt": {"q": "No filme «The Super Mario Bros. Movie» (2023), quem dá voz a Toad?", "o": ["Keegan-Michael Key", "Charlie Day", "Jack Black", "Seth Rogen"]}, "en": {"q": "In the Super Mario Bros. Movie (2023), who plays Toad?", "o": ["Keegan-Michael Key", "Charlie Day", "Jack Black", "Seth Rogen"]}, "nota": "en: «Rogan» → «Rogen»"}
+{"id": "otdb-cd4747008a", "acao": "manter"}
+{"id": "otdb-ce5a38c08c", "acao": "manter"}
+{"id": "otdb-cf055b8548", "acao": "corrigir", "pt": {"q": "Qual destes filmes NÃO estreou em 1996?", "o": ["Gladiator", "The Rock", "Independence Day", "Mission: Impossible"]}, "en": {"q": "Which of these movies was NOT released in 1996?", "o": ["Gladiator", "The Rock", "Independence Day", "Mission: Impossible"]}, "nota": "en: «Movies» em minúscula"}
+{"id": "otdb-cf8824c5b9", "acao": "manter"}
+{"id": "otdb-d04597617c", "acao": "corrigir", "pt": {"q": "Qual destes filmes de ação foi rodado inteiramente num único plano-sequência?", "o": ["Ip Man 2", "Léon: The Professional", "The Bourne Legacy", "Victoria"]}, "en": {"q": "Which one of these action movies was shot entirely in one take?", "o": ["Ip Man 2", "Léon: The Professional", "The Bourne Legacy", "Victoria"]}, "nota": "en: concordância «are» → «was»"}
+{"id": "otdb-d215ab2c7b", "acao": "manter"}
+{"id": "otdb-d8ab0de60b", "acao": "manter"}
+{"id": "otdb-da910a5b30", "acao": "manter"}
+{"id": "otdb-dc93e4249c", "acao": "manter"}
+{"id": "otdb-ddb797f6fe", "acao": "corrigir", "pt": {"q": "Quem realizou «Avengers: Endgame», da Marvel?", "o": ["Kevin Feige", "Os irmãos Russo", "Joss Whedon", "Zack Snyder"]}, "en": {"q": "Who directed Marvel's Avengers: Endgame?", "o": ["Kevin Feige", "The Russo Brothers", "Joss Whedon", "Zack Snyder"]}, "nota": "en: «Josh Whedon», «Zack Synder», «Avengers Endgame»"}
+{"id": "otdb-dde3e774dd", "acao": "corrigir", "pt": {"q": "Quem interpretou o barão Victor Frankenstein no filme de terror da Hammer de 1957 «The Curse of Frankenstein»?", "o": ["Lon Chaney Jr.", "Boris Karloff", "Vincent Price", "Peter Cushing"]}, "en": {"q": "Who played Baron Victor Frankenstein in the 1957 Hammer horror film \"The Curse of Frankenstein\"?", "o": ["Lon Chaney Jr.", "Boris Karloff", "Vincent Price", "Peter Cushing"]}, "nota": "en: «Frankestein» → «Frankenstein»"}
+{"id": "otdb-df789333c5", "acao": "manter"}
+{"id": "otdb-df8bcf763a", "acao": "manter"}
+{"id": "otdb-e16ee18bac", "acao": "corrigir", "pt": {"q": "Qual era o primeiro nome da personagem de Marilyn Monroe no filme «Some Like It Hot»?", "o": ["Caramel", "Honey", "Candy", "Sugar"]}, "en": {"q": "What was Marilyn Monroe's character's first name in the film \"Some Like It Hot\"?", "o": ["Caramel", "Honey", "Candy", "Sugar"]}, "nota": "en: acento grave → apóstrofo"}
+{"id": "otdb-e1b6cfb4f1", "acao": "manter"}
+{"id": "otdb-e1fcd457b3", "acao": "manter"}
+{"id": "otdb-e47bd07580", "acao": "corrigir", "pt": {"q": "Quem interpretou o general Aladeen em «The Dictator»?", "o": ["Leonardo DiCaprio", "James Franco", "Johnny Depp", "Sacha Baron Cohen"]}, "en": {"q": "Who played General Aladeen in \"The Dictator\"?", "o": ["Leonardo DiCaprio", "James Franco", "Johnny Depp", "Sacha Baron Cohen"]}, "nota": "pt: título entre aspas; en: «Dicaprio» → «DiCaprio»"}
+{"id": "otdb-e53ae31b77", "acao": "corrigir", "pt": {"q": "Quem realizou o filme «Pan's Labyrinth»?", "o": ["Alejandro González Iñárritu", "Alejandro Jodorowsky", "Guillermo del Toro", "Alfonso Cuarón"]}, "en": {"q": "Which director directed the movie \"Pan's Labyrinth\"?", "o": ["Alejandro González Iñárritu", "Alejandro Jodorowsky", "Guillermo del Toro", "Alfonso Cuarón"]}, "nota": "en: espaço a mais e «Del Toro» → «del Toro»"}
+{"id": "otdb-e6581f2681", "acao": "manter"}
+{"id": "otdb-e80020046f", "acao": "manter"}
+{"id": "otdb-e821e944d1", "acao": "manter"}
+{"id": "otdb-e84c720f20", "acao": "tirar", "motivo": "trivial", "nota": "duplicada de otdb-38fdd4ef33 (Wilson, «Cast Away»)"}
+{"id": "otdb-ea07d6c881", "acao": "corrigir", "pt": {"q": "Qual dos filmes do realizador Stanley Kubrick é uma adaptação de um romance de Stephen King?", "o": ["Eyes Wide Shut", "Dr. Strangelove", "2001: A Space Odyssey", "The Shining"]}, "en": {"q": "Which movie of film director Stanley Kubrick is known to be an adaptation of a Stephen King novel?", "o": ["Eyes Wide Shut", "Dr. Strangelove", "2001: A Space Odyssey", "The Shining"]}, "nota": "espaços/caracteres invisíveis a mais no en-US"}
+{"id": "otdb-edee34a9b2", "acao": "manter"}
+{"id": "otdb-f03432ac6e", "acao": "manter"}
+{"id": "otdb-f190f6f32c", "acao": "corrigir", "pt": {"q": "Quem interpretou Thanos em «Avengers: Infinity War» e «Avengers: Endgame»?", "o": ["Tom Hiddleston", "Sean Gunn", "Adam Sandler", "Josh Brolin"]}, "en": {"q": "Who played Thanos in Avengers: Infinity War and Avengers: Endgame?", "o": ["Tom Hiddleston", "Sean Gunn", "Adam Sandler", "Josh Brolin"]}, "nota": "en: «End Game» → «Endgame»"}
+{"id": "otdb-f3e3740813", "acao": "tirar", "motivo": "trivial", "nota": "distratores são nomes inventados/trocadilhos; resposta óbvia"}
+{"id": "otdb-f4323c4ca4", "acao": "manter"}
+{"id": "otdb-f8e0e8f783", "acao": "manter"}
+{"id": "otdb-f9454bc9c6", "acao": "corrigir", "pt": {"q": "Qual é a marca e o modelo dos veículos de visita em «Jurassic Park» (1993)?", "o": ["Jeep Wrangler YJ Sahara de 1992", "Mercedes Classe M", "Toyota Land Cruiser de 1992", "Ford Explorer XLT de 1992"]}, "en": {"q": "What is the make and model of the tour vehicles in \"Jurassic Park\" (1993)?", "o": ["1992 Jeep Wrangler YJ Sahara", "Mercedes M-Class", "1992 Toyota Land Cruiser", "1992 Ford Explorer XLT"]}, "nota": "en: «Sahar» → «Sahara»"}
+{"id": "otdb-f9dc2248a4", "acao": "manter"}
+{"id": "otdb-fa5709a208", "acao": "manter"}
+{"id": "otdb-fb0a916a5c", "acao": "corrigir", "pt": {"q": "Que filme de animação realizou Steven Lisberger em 1980, antes de realizar «Tron»?", "o": ["The Great Mouse Detective", "Animalympics", "The Black Cauldron", "The Fox and the Hound"]}, "en": {"q": "Which animated film did Steven Lisberger direct in 1980 before going on to direct Tron?", "o": ["The Great Mouse Detective", "Animalympics", "The Black Cauldron", "The Fox and the Hound"]}, "nota": "en: «Detecive» → «Detective»"}
+{"id": "otdb-fd03d6dc97", "acao": "manter"}
+{"id": "otdb-ff155ba910", "acao": "manter"}
+{"id": "otdb-0071d60911", "acao": "manter"}
+{"id": "otdb-00c8ae072d", "acao": "manter"}
+{"id": "otdb-00f03b693d", "acao": "manter"}
+{"id": "otdb-010be871fa", "acao": "manter"}
+{"id": "otdb-01c78ffa3f", "acao": "manter"}
+{"id": "otdb-0255587b0d", "acao": "manter"}
+{"id": "otdb-03f2fa19a9", "acao": "manter"}
+{"id": "otdb-04413e00ae", "acao": "manter"}
+{"id": "otdb-052c1fa1fa", "acao": "manter"}
+{"id": "otdb-066363af37", "acao": "manter"}
+{"id": "otdb-086bc36e1b", "acao": "manter"}
+{"id": "otdb-0a54441ac8", "acao": "manter"}
+{"id": "otdb-0c220fb4c1", "acao": "manter"}
+{"id": "otdb-0f12bf2b2b", "acao": "manter"}
+{"id": "otdb-118c4706a4", "acao": "manter"}
+{"id": "otdb-1225612585", "acao": "manter"}
+{"id": "otdb-13311f7893", "acao": "manter"}
+{"id": "otdb-1336ccae4f", "acao": "corrigir", "pt": {"q": "Quem cantava «Kung Fu Fighting» em 1974?", "o": ["Os Bee Gees", "Heatwave", "Carl Douglas", "Kool & the Gang"]}, "en": {"q": "Who sang \"Kung Fu Fighting\" in 1974?", "o": ["The Bee Gees", "Heatwave", "Carl Douglas", "Kool & the Gang"]}, "nota": "en: verbo em falta («Who sang»)"}

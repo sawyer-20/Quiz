@@ -1,0 +1,81 @@
+{"id": "otdb-925410fc5f", "acao": "manter"}
+{"id": "otdb-94206c4eee", "acao": "manter"}
+{"id": "otdb-9451967b69", "acao": "corrigir", "pt": {"q": "Que rei morreu na Batalha de Bosworth Field, em 1485?", "o": ["Henrique VII", "Ricardo III", "Jaime I", "Eduardo V"]}, "en": {"q": "Which king was killed at the Battle of Bosworth Field in 1485?", "o": ["Henry VII", "Richard III", "James I", "Edward V"]}, "nota": "en: espaço final retirado."}
+{"id": "otdb-949818dba0", "acao": "manter"}
+{"id": "otdb-949fedf6a9", "acao": "manter"}
+{"id": "otdb-959c176e98", "acao": "corrigir", "pt": {"q": "A Revolta da Boémia (1618-1620) começou depois de os protestantes de Praga fazerem o quê aos seus regentes católicos?", "o": ["Insultaram as mães deles", "Trancaram-nos em estacadas", "Atiraram-nos de uma janela", "Enforcaram-nos"]}, "en": {"q": "The Bohemian Revolt (1618-1620) started after Protestants in Prague did what to their Catholic Lords Regents?", "o": ["Insulted their mothers", "Locked them in stockades", "Threw them out of a window", "Hanged them"]}, "nota": "pt: «por uma janela» → «de uma janela»; en: «Hung them.» → «Hanged them»."}
+{"id": "otdb-96e39c31dc", "acao": "manter"}
+{"id": "otdb-971832e52f", "acao": "corrigir", "pt": {"q": "Em que ano se deu o crash da Bolsa de Wall Street?", "o": ["1930", "1925", "1929", "1932"]}, "en": {"q": "In what year did the Wall Street Crash take place?", "o": ["1930", "1925", "1929", "1932"]}, "nota": "pt: «Queda da Bolsa» (maiúsculas de calque) → «crash da Bolsa»."}
+{"id": "otdb-9a4f75f24a", "acao": "corrigir", "pt": {"q": "Quem se crê ter sido o primeiro europeu a «descobrir» a Nova Zelândia?", "o": ["Abel Tasman", "Cristóvão Colombo", "Jeanne Baré", "John Cabot"]}, "en": {"q": "Who is believed to have been the first European to 'discover' the land of New Zealand?", "o": ["Abel Tasman", "Christopher Columbus", "Jeanne Baré", "John Cabot"]}, "nota": "en: espaço final em «John Cabot»."}
+{"id": "otdb-9b70bc18c8", "acao": "tirar", "motivo": "ambigua", "nota": "Os Países Baixos ocuparam parte do Nordeste do Brasil (1630-1654); além disso, trivial para o público português."}
+{"id": "otdb-9c62e96be7", "acao": "manter"}
+{"id": "otdb-9cc5f1dd89", "acao": "corrigir", "pt": {"q": "Depois da derrota na Batalha de Waterloo, para que ilha foi Napoleão Bonaparte exilado?", "o": ["Santa Helena", "Canárias", "Elba", "Córsega"]}, "en": {"q": "After his loss at the Battle of Waterloo, Napoleon Bonaparte was exiled to which island?", "o": ["St. Helena", "Canary Islands", "Elba", "Corsica"]}, "nota": "en: «Canary» → «Canary Islands» (como «Canárias»)."}
+{"id": "otdb-9dd8921e0c", "acao": "corrigir", "pt": {"q": "Qual era o nome do químico que foi lançado sobre o Vietname durante a Guerra do Vietname?", "o": ["Agente Laranja", "Gás mostarda", "Fosgénio", "Cianeto de hidrogénio"]}, "en": {"q": "What was the name of the chemical that was dropped on Vietnam during the Vietnam War?", "o": ["Agent Orange", "Mustard Gas", "Phosgene", "Hydrogen Cyanide"]}, "nota": "en: «Vietnam war» → «Vietnam War»."}
+{"id": "otdb-9df873c50c", "acao": "corrigir", "pt": {"q": "Qual era o nome de código da invasão alemã da União Soviética na Segunda Guerra Mundial?", "o": ["Operação Molotov", "Operação Unthinkable", "Operação Kaiserschlacht", "Operação Barbarossa"]}, "en": {"q": "What was the code name for the German invasion of the Soviet Union in WW2?", "o": ["Operation Molotov", "Operation Unthinkable", "Operation Kaiserschlacht", "Operation Barbarossa"]}, "nota": "en: «Kaiserschlact» → «Kaiserschlacht»."}
+{"id": "otdb-9ef865febc", "acao": "manter"}
+{"id": "otdb-a03641669a", "acao": "manter"}
+{"id": "otdb-a1a4772193", "acao": "manter"}
+{"id": "otdb-a43d967b0f", "acao": "manter"}
+{"id": "otdb-a6b15d4674", "acao": "tirar", "motivo": "ambigua", "nota": "A defesa dos samurais (muralha de Hakata) também é defensável como causa principal; o papel das tempestades em 1274 é discutido."}
+{"id": "otdb-a6f8a10c86", "acao": "manter"}
+{"id": "otdb-a6fb7b508c", "acao": "manter"}
+{"id": "otdb-ad12f40800", "acao": "corrigir", "pt": {"q": "Em que ano foi Nelson Mandela libertado da prisão?", "o": ["1994", "1980", "1990", "1992"]}, "en": {"q": "In which year was Nelson Mandela released from prison?", "o": ["1994", "1980", "1990", "1992"]}, "nota": "en: falta o ponto de interrogação."}
+{"id": "otdb-ad5ad83a9a", "acao": "manter"}
+{"id": "otdb-afc74db0d7", "acao": "manter"}
+{"id": "otdb-afcd799cd6", "acao": "manter"}
+{"id": "otdb-b22890fee4", "acao": "manter"}
+{"id": "otdb-b30f713780", "acao": "manter"}
+{"id": "otdb-b34cfc53d1", "acao": "manter"}
+{"id": "otdb-b51605a3d1", "acao": "manter"}
+{"id": "otdb-ba686586bb", "acao": "manter"}
+{"id": "otdb-bd539c8fce", "acao": "manter"}
+{"id": "otdb-be7749bad0", "acao": "manter"}
+{"id": "otdb-be7dcbd7e7", "acao": "tirar", "motivo": "ambigua", "nota": "«Filipe II» e «Carlos V» sem reino podem ser reis de França (Capetos/Valois), não Habsburgo: mais de uma resposta defensável."}
+{"id": "otdb-c16d167ec3", "acao": "manter"}
+{"id": "otdb-c679e06f54", "acao": "manter"}
+{"id": "otdb-c85dc6baa6", "acao": "manter"}
+{"id": "otdb-ca29ed2d64", "acao": "manter"}
+{"id": "otdb-ca42339185", "acao": "corrigir", "pt": {"q": "Qual destes tanques do século XX foi concebido e construído antes dos outros?", "o": ["Panzer IV", "M4 Sherman", "Renault FT", "Cromwell"]}, "en": {"q": "Which of these 1900s tanks was designed and built BEFORE the others?", "o": ["Panzer IV", "M4 Sherman", "Renault FT", "Cromwell"]}, "nota": "en: «were» → «was»; espaços a mais nas opções."}
+{"id": "otdb-ca7652453d", "acao": "manter"}
+{"id": "otdb-ca7c932bba", "acao": "manter"}
+{"id": "otdb-cab3235a75", "acao": "corrigir", "pt": {"q": "Qual era a moeda oficial da Alemanha até 2002?", "o": ["Franco", "Libra esterlina", "Reichtoken", "Marco"]}, "en": {"q": "What was the official German currency until 2002?", "o": ["Franc", "Pound sterling", "Reichtoken", "Mark"]}, "nota": "en: «Frank» → «Franc»."}
+{"id": "otdb-ce6acdaa05", "acao": "manter"}
+{"id": "otdb-d0864fdf62", "acao": "manter"}
+{"id": "otdb-d1e4b0aab2", "acao": "tirar", "motivo": "ambigua", "nota": "A Guerra Peninsular começou em 1807 com a invasão de Portugal; 1808 só vale para a guerra em Espanha. Confuso para o público português."}
+{"id": "otdb-d2b72d6969", "acao": "corrigir", "pt": {"q": "Quantos navios gémeos teve o Titanic?", "o": ["4", "1", "2", "3"]}, "en": {"q": "How many sister ships did the Titanic have?", "o": ["4", "1", "2", "3"]}, "nota": "en: «TItanic»/«Sister Ships» corrigidos; alinhado com o pt."}
+{"id": "otdb-d2db5194ed", "acao": "manter"}
+{"id": "otdb-d43754526e", "acao": "manter"}
+{"id": "otdb-d6fc3c41e2", "acao": "corrigir", "pt": {"q": "Os restos mortais enterrados de que explorador inglês da Austrália foram encontrados em Londres em janeiro de 2019?", "o": ["Matthew Flinders", "Dirk Hartog", "Abel Tasman", "William Bourke"]}, "en": {"q": "The buried remains of which English explorer of Australia were found in London in January 2019?", "o": ["Matthew Flinders", "Dirk Hartog", "Abel Tasman", "William Bourke"]}, "nota": "en: espaço duplo e espaço final."}
+{"id": "otdb-d72ebc6ca4", "acao": "manter"}
+{"id": "otdb-d738dee7bc", "acao": "corrigir", "pt": {"q": "Quem foi o primeiro imperador de Roma?", "o": ["Cláudio", "Augusto", "Júlio César", "Pompeu Magno"]}, "en": {"q": "Who was the first emperor of Rome?", "o": ["Claudius", "Augustus", "Julius Caesar", "Pompey Magnus"]}, "nota": "en: espaço final na opção certa (pista)."}
+{"id": "otdb-dc6f564948", "acao": "manter"}
+{"id": "otdb-dc8df57bb3", "acao": "corrigir", "pt": {"q": "Como foi executado Sócrates?", "o": ["Por fuzilamento", "Por decapitação", "Por envenenamento", "Por crucificação"]}, "en": {"q": "How was Socrates executed?", "o": ["Firing squad", "Decapitation", "Poison", "Crucifixion"]}, "nota": "pt: «Com veneno» era a única opção com forma diferente (pista) → «Por envenenamento»; en: espaço final."}
+{"id": "otdb-dcec36dae1", "acao": "manter"}
+{"id": "otdb-de9cb29c9b", "acao": "manter"}
+{"id": "otdb-e04a353153", "acao": "corrigir", "pt": {"q": "Quem se tornou, em 1547, o primeiro czar da Rússia?", "o": ["Ivan, o Terrível", "Miguel Romanov", "Aleixo da Rússia", "Pedro, o Grande"]}, "en": {"q": "In 1547, who became the first Tsar of Russia?", "o": ["Ivan the Terrible", "Mikhail Romanov", "Alexis of Russia", "Peter the Great"]}, "nota": "en: «1st» → «first», vírgula e ponto de interrogação."}
+{"id": "otdb-e64239191c", "acao": "manter"}
+{"id": "otdb-e72b50783d", "acao": "manter"}
+{"id": "otdb-e8b49f9222", "acao": "corrigir", "pt": {"q": "Quem foi o líder do Partido Comunista da Jugoslávia?", "o": ["Josip Broz Tito", "Milos Obilic", "Aleksandar Petrovic", "Karadjordje Petrovic"]}, "en": {"q": "Who was the leader of the Communist Party of Yugoslavia?", "o": ["Josip Broz Tito", "Milos Obilic", "Aleksandar Petrovic", "Karadjordje Petrovic"]}, "nota": "«Aleskandar» → «Aleksandar» nos dois; en: espaço antes do «?»."}
+{"id": "otdb-e8f550ff8d", "acao": "corrigir", "pt": {"q": "Quando devolveu o Reino Unido a soberania de Hong Kong à China?", "o": ["1997", "1999", "1900", "1841"]}, "en": {"q": "When did the British hand over sovereignty of Hong Kong back to China?", "o": ["1997", "1999", "1900", "1841"]}, "nota": "en: «hand-over» → «hand over»."}
+{"id": "otdb-ea5563fc6f", "acao": "manter"}
+{"id": "otdb-ead34d4846", "acao": "tirar", "motivo": "nome_pt", "nota": "«Troca Colombiana» não confirmada como forma usada em Portugal (possível «intercâmbio colombiano»)."}
+{"id": "otdb-eb368500cc", "acao": "manter"}
+{"id": "otdb-ec03c18cfb", "acao": "manter"}
+{"id": "otdb-ec5b7c24f1", "acao": "manter"}
+{"id": "otdb-eca259dbf9", "acao": "manter"}
+{"id": "otdb-edd9933dbc", "acao": "manter"}
+{"id": "otdb-ee3b6ab6fe", "acao": "corrigir", "pt": {"q": "Como se chamam os conflitos do século XV entre as casas de York e Lancaster?", "o": ["Guerra das Tulipas", "Guerra das Rosas", "Guerra dos Narcisos", "Guerra dos Lírios"]}, "en": {"q": "The 15th century conflicts between the Houses of York and Lancaster are known as the Wars of the what?", "o": ["Wars of the Tulips", "Wars of the Roses", "Wars of the Daffodils", "Wars of the Lilies"]}, "nota": "en: «Lillies» → «Lilies»."}
+{"id": "otdb-ef7ea27a4c", "acao": "manter"}
+{"id": "otdb-f22108a1a5", "acao": "corrigir", "pt": {"q": "Em que ano obteve a Jamaica a independência do Reino Unido?", "o": ["1492", "1987", "1963", "1962"]}, "en": {"q": "When did Jamaica receive its independence from the United Kingdom?", "o": ["1492", "1987", "1963", "1962"]}, "nota": "en: «England» → «the United Kingdom» (como no pt); espaço final."}
+{"id": "otdb-f296004292", "acao": "manter"}
+{"id": "otdb-f443952ee7", "acao": "manter"}
+{"id": "otdb-f6062ab6ff", "acao": "manter"}
+{"id": "otdb-f724a5f2b5", "acao": "manter"}
+{"id": "otdb-f7250cd9c8", "acao": "manter"}
+{"id": "otdb-f82193f8fd", "acao": "manter"}
+{"id": "otdb-f86dfb77be", "acao": "manter"}
+{"id": "otdb-fa2f6830d2", "acao": "manter"}
+{"id": "otdb-fa74a322af", "acao": "manter"}
+{"id": "otdb-fc2c5b721e", "acao": "corrigir", "pt": {"q": "Em que guerra ocorreram os bombardeamentos atómicos de Hiroxima e Nagasáqui?", "o": ["Primeira Guerra Sino-Japonesa", "Guerra Russo-Japonesa", "Segunda Guerra Mundial", "Primeira Guerra Mundial"]}, "en": {"q": "In which war did the atomic bombings of Hiroshima and Nagasaki occur?", "o": ["First Sino-Japanese War", "Russo-Japanese War", "World War II", "World War I"]}, "nota": "pt: «Hiroshima e Nagasáqui» misturava grafias → «Hiroxima e Nagasáqui»."}
+{"id": "otdb-fe1b2bf277", "acao": "manter"}
+{"id": "otdb-ff5478a44e", "acao": "corrigir", "pt": {"q": "Qual era a alcunha de Manfred von Richthofen?", "o": ["A Serpente Azul", "O Ás de Altitude", "O Barão Vermelho", "O Artilheiro Alemão"]}, "en": {"q": "What was Manfred von Richthofen's nickname?", "o": ["The Blue Serpent", "The High Flying Ace", "The Red Baron", "The German Gunner"]}, "nota": "en: espaço final; «Germany Gunner» → «German Gunner»."}

@@ -1,0 +1,412 @@
+[
+ {
+  "id": "otdb-4b027abc45",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-3899396f30",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-f9b17f9672",
+  "resposta": 2,
+  "certeza": "media",
+  "fonte": null,
+  "problemas": [
+   "ambigua"
+  ],
+  "nota": "O arco-íris é um espetro contínuo; as 7 cores são uma convenção (Newton), não um facto físico."
+ },
+ {
+  "id": "otdb-9a900f86c9",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-aef4a71b55",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-d9ded6fe2a",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-007964f325",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-52b43901dd",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/King_of_hearts",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-6ac3256219",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-17d80d4af0",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "eua"
+  ],
+  "nota": "Pormenor de um monumento dos EUA (orientação da estátua), conhecimento específico dos EUA."
+ },
+ {
+  "id": "otdb-79b98b41ae",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-61c276ea1b",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-f0e9bf69e9",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-b0c8c27fe4",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-5352fbed0c",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-af9a982749",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-2aa3754bfa",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-01c90c0756",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-f0f4409b1c",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-7965afbb3e",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-827857d5a3",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "texto"
+  ],
+  "nota": "Título do fresco italiano deixado em inglês no pt-PT; devia ser «A Criação de Adão»."
+ },
+ {
+  "id": "otdb-62ba60655c",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-76bada155c",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-f94b5ce302",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-d4001d59c2",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-192836672a",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-d7887c9f46",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-b65a4c26a0",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-cbfa2a3ffa",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-70c8bc2c22",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-f13c17075f",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-2b02ea6511",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-4512e5d4b1",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-f08d689ac8",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-17e30bdfcf",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "texto"
+  ],
+  "nota": "«Que posição joga» é calco do inglês; em pt-PT: «Em que posição joga Harry Potter no Quidditch?»."
+ },
+ {
+  "id": "otdb-1bb305b2a4",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-d559cdcee2",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-b21bf5c83d",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-327fa76cd0",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-15eaa9c8c1",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-286348d7c2",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-409f94e55b",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-03227f27fd",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Mauve",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-7d1c6f2bef",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-ed625d4765",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "texto"
+  ],
+  "nota": "«fabricante» é masculino em pt-PT: «Qual destes fabricantes de automóveis superdesportivos é sueco?»."
+ },
+ {
+  "id": "otdb-7969e1066c",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-cd10f9b948",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-12a0736389",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-d26ebcfbcf",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-127e28b250",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ }
+]
