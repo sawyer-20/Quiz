@@ -1,36 +1,37 @@
 {
   "id": "Q-2026-000079",
   "topic": "Space",
-  "subtopic": "Galileu e Neptuno",
+  "subtopic": "Descoberta de Neptuno",
   "text": {
     "pt-PT": {
-      "question": "Nos cadernos de 1612-1613, Galileu registou Neptuno junto a Júpiter. Que corpo julgou ele estar a ver?",
+      "question": "Nos cadernos de Galileu de 1612-1613, um ponto de luz junto a Júpiter é hoje identificado como Neptuno. Como o registou?",
       "options": [
-        "Um cometa distante",
         "Uma nova estrela explosiva",
-        "Uma estrela fixa",
-        "Um reflexo na lente do telescópio"
+        "Um cometa distante",
+        "Um reflexo na lente do telescópio",
+        "Uma estrela fixa"
       ],
-      "explanation": "Uma estrela fixa: Galileu desenhou Neptuno ao observar Júpiter, mas registou-o assim. O planeta só foi encontrado em 1846, mais de 200 anos depois, e foi o primeiro localizado por previsão matemática."
+      "explanation": "Uma estrela fixa: segundo a NASA, foi assim que Galileu o registou, e o físico David Jamieson nota que a etiqueta «fixa» está nos cadernos, mas Kowal e Drake defendem que ele chegou a detetar o movimento. A NASA diz que foi o primeiro planeta localizado por previsão matemática."
     },
     "en-US": {
-      "question": "In his 1612-1613 notebooks, Galileo recorded Neptune near Jupiter. What object did he think he was seeing?",
+      "question": "In Galileo's 1612-1613 notebooks, a point of light near Jupiter is now identified as Neptune. How did he record it?",
       "options": [
+        "A new exploding star",
         "A distant comet",
-        "An exploding new star",
-        "A fixed star",
-        "A reflection in the telescope lens"
+        "A reflection in the telescope lens",
+        "A fixed star"
       ],
-      "explanation": "A fixed star: Galileo drew Neptune while observing Jupiter, but recorded it that way. The planet was not found until 1846, more than 200 years later, and was the first located by mathematical prediction."
+      "explanation": "A fixed star: according to NASA, that is how Galileo recorded it, and physicist David Jamieson notes the label \"fixa\" (fixed) is in the notebooks, but Kowal and Drake argue he did detect its motion. NASA says it was the first planet located by mathematical prediction."
     }
   },
-  "correct": 2,
+  "correct": 3,
   "difficulty": 3,
   "valid_until": null,
   "daily_eligible": true,
   "sources": [
     "https://science.nasa.gov/neptune/neptune-facts/",
-    "https://www.nature.com/articles/287311a0"
+    "https://www.nature.com/articles/287311a0",
+    "https://www.ph.unimelb.edu.au/~dnj/AP-June-2009-Galileo-Neptune.pdf"
   ],
   "fontes": [
     {
@@ -54,10 +55,37 @@
     {
       "url": "https://www.ph.unimelb.edu.au/~dnj/AP-June-2009-Galileo-Neptune.pdf",
       "dominio": "unimelb.edu.au",
-      "titulo": "Galileo's miraculous year: 1609 and the revolutionary telescope (D. Jamieson, Australian Physics 46(3), 2009, Univ. Melbourne)",
+      "titulo": "Jamieson, Galileo's observations of Neptune (Australian Physics, 2009, Univ. de Melbourne)",
       "nivel": 1,
-      "excerto": "He uses the label \"fixa\" where he plotted the position of Neptune in his notebook, indicating, at least initially, that he believed he was observing a fixed star and not a planet.",
-      "consultada_em": "2026-11-12",
+      "excerto": "He uses the label \"fixa\" where he plotted the position of Neptune in his notebook (Fig 1).",
+      "consultada_em": "2026-11-17",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.eurekalert.org/news-releases/776056",
+      "dominio": "eurekalert.org",
+      "titulo": "Galileo's notebooks may reveal secrets of new planet (comunicado da University of Melbourne, 9-Jul-2009, via EurekAlert)",
+      "nivel": 1,
+      "excerto": "Over several nights he also recorded the position of a nearby star which does not appear in any modern star catalogue. \"It has been known for several decades that this unknown star was actually the planet Neptune...\"",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://serviastro.ub.edu/serviparticules/sites/serviastro/files/2019-10/Article_Galileo.pdf",
+      "dominio": "ub.edu",
+      "titulo": "Galileo Galilei: 400 aniversari de les primeres observacions (Universitat de Barcelona, Servei d'Astronomia)",
+      "nivel": 1,
+      "excerto": "Veiem que per situar Júpiter fa servir una estrella \"fixa\". [...] No queda cap dubte doncs de que Galileo va observar i dibuixar Neptú, però el va confondre amb una estrella fixa.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2207.06097",
+      "dominio": "arxiv.org",
+      "titulo": "Systematic errors in Galileo's astronomical observations and alleged anomalies in the position of Neptune (Journal of Astronomical History and Heritage 25(2), 2022)",
+      "nivel": 2,
+      "excerto": "in December 1612 and January 1613, Galileo casually observed the planet Neptune— at that moment in close conjunction with Jupiter—which he marked as a fixed star, and he noted its motion 234 years before it was discovered.",
+      "consultada_em": "2026-11-18",
       "papel": "verificador"
     }
   ],
@@ -65,31 +93,33 @@
     "verificador": {
       "resposta_texto": "Uma estrela fixa",
       "concorda": true,
-      "confianca": "alta",
-      "dominio": "unimelb.edu.au",
-      "data": "2026-11-12",
-      "notas": "Artigo de um professor universitário (Univ. de Melbourne), não é a Nature nem a NASA. Confirma observações de Neptuno em dezembro de 1612 e janeiro de 1613, com o rótulo 'fixa' (estrela fixa). Outras opções (cometa, nova, reflexo na lente) sem apoio na fonte. Ressalva: o autor sugere que Galileo possa ter suspeitado de movimento mais tarde (a 28 de janeiro), mas nunca registou um planeta novo; a pesquisa secundária mostra interpretação contestada. 'Pelo menos inicialmente' acompanha a fonte. Datas exatas não usadas no enunciado, exceto o intervalo 1612-1613, que é confirmado."
+      "confianca": "media",
+      "dominio": "arxiv.org",
+      "data": "2026-11-18",
+      "notas": "Li a página (via scripts/ler_url.py, porque o WebFetch deu ENOTFOUND para arxiv.org). É um artigo de revista revisto por pares, que cita Kowal e Drake (1980) mas não os republica, e que diz que Galileu marcou o objeto como estrela fixa. Os resultados de pesquisa (Wikipédia, Discover e outros) concordam, mas só os vi em resumo, sem abrir essas páginas. A fonte é secundária: não encontrei nem abri o próprio caderno de Galileu, por isso a etiqueta exata no manuscrito (por exemplo, em latim ou italiano) não ficou confirmada palavra a palavra. As outras três opções não aparecem em nenhuma fonte consultada. O enunciado diz que o ponto era 'junto a Júpiter' e que o caderno é de 1612-1613, o que bate certo com as fontes (28/12/1612 e 28/01/1613). Cuidado com a redação: o artigo diz que o objeto foi 'marcado' como estrela fixa, e a 'etiqueta' no caderno pode ser mais informal. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Há uma nuance de leitura. David Jamieson (Melbourne) defende que Galileu terá suspeitado de um planeta, mas a fonte do pesquisador indica que o registo explícito foi o de estrela fixa. Um artigo de síntese lido só nos resultados de pesquisa diz também que, a 28 de janeiro de 1613, Galileu anotou o objeto como estrela fixa. Nenhuma fonte encontrada apoia cometa, reflexo na lente ou nova.",
+      "hash_texto": "1f457bb94f03355e7fda35f35439a23412d41859345d8ca1098642d4d47d9945"
     },
     "advogado": {
       "aprovado": true,
-      "notas": "NASA (science.nasa.gov/neptune/neptune-facts): 'Galileo recorded Neptune as a fixed star during observations with his small telescope in 1612 and 1613. More than 200 years later, the ice giant became the first planet located through mathematical predictions'; descoberta em 1846 ('since its discovery in 1846'). Jamieson (Univ. de Melbourne, Australian Physics 2009), que li: Galileo usa o rótulo 'fi",
-      "data": "2026-11-13"
+      "notas": "Tentei encontrar uma segunda resposta defensável entre os distratores (nova estrela, cometa, reflexo na lente) e nenhuma fonte os apoia. A controvérsia Kowal e Drake (movimento detetado) está atribuída na explicação e não contradiz o que a pergunta faz, que é como Galileu o registou: como estrela fixa (NASA; Jamieson, etiqueta «fixa» no caderno). Sem datas ou números além de 1612-1613, que a NASA e a Jamieson sustentam. A explicação tem 2 frases e cerca de 280 caracteres. Sem linguagem de dúvida sem atribuição e sem tema sensível. Não reli as páginas nesta passagem final: a avaliação apoia-se nos excertos recebidos.",
+      "data": "2026-11-17"
     },
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "Explicação reorganizada para começar pela resposta; mesmos factos, cerca de 200 caracteres. Enunciado igual.",
-      "data": "2026-11-13"
+      "notas": "Enunciado: cortei só o «ele» final (redundante), pergunta igual. Explicação reduzida de 3 para 2 frases, cerca de 280 caracteres (contagem manual, convém confirmar com limites.py), com as três atribuições (NASA; Jamieson, etiqueta «fixa»; Kowal e Drake, movimento) e a menção da NASA ao primeiro planeta localizado por previsão matemática. Nenhum facto novo nem retirado. Dificuldade mantida em 3.",
+      "data": "2026-11-17"
     },
     "tradutor": {
-      "data": "2026-11-13",
-      "notas": "'Neptuno' = Neptune. 'nova estrela explosiva' = 'exploding new star' (literal, para não introduzir o termo 'nova'). A explicação começa pela resposta, como o pt-PT. Opção certa no índice 2."
+      "data": "2026-11-18",
+      "notas": "Só a explicação mudou: acrescentada a glosa «(fixed)» a seguir à etiqueta original \"fixa\", que se mantém entre aspas por ser citação dos cadernos. Pergunta, opções e atribuições (NASA, Jamieson, Kowal e Drake) iguais. 2 frases, cerca de 276 caracteres (estimativa, não medida com limites.py)."
     },
     "conferente": {
       "aprovado": true,
-      "notas": "Datas, números e opções batem uma a uma. A opção 1 (\"Uma nova estrela explosiva\" / \"An exploding new star\") é pouco natural nos dois idiomas, mas equivalente e não defensável.",
-      "data": "2026-11-13"
+      "notas": "Os dois textos dizem o mesmo: cadernos de 1612-1613, ponto de luz junto a Júpiter identificado como Neptuno, registado como estrela fixa. As atribuições coincidem (NASA, David Jamieson, Kowal e Drake), tal como a cautela sobre a deteção do movimento e a frase final da NASA. A opção certa (índice 3) é «Uma estrela fixa» / «A fixed star». As outras três opções são equivalentes pela mesma ordem: nova estrela explosiva, cometa distante e reflexo na lente do telescópio. Nenhuma passa a ser defensável ao traduzir. A glosa «(fixed)» na explicação em en-US está de acordo com a nota do pedido e só aparece na explicação, por isso não dá pista no enunciado. Nenhum enunciado repete a palavra da opção certa. O pt-PT usa «Neptuno», «detetar» e «registou», sem brasileirismos, e o en-US é natural e em grafia americana. Limites cumpridos: a pergunta termina em «?», as opções têm menos de 60 caracteres e a explicação tem 2 frases e menos de 300 caracteres (estimado a olho). Pormenor menor: «chegou a detetar» (pt) e «did detect» (en) são equivalentes em força.",
+      "data": "2026-11-18",
+      "hash_texto": "7aa8460c2d4caa44702efc9810eb4e57277472f8f61b314b8c798507ce137b94"
     }
   },
   "estado": "aprovada",
@@ -144,8 +174,134 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "reaberta (revisão editorial de 17/11: observações do Andre; segundo ciclo)",
+      "agente": "orquestrador",
+      "nota": "aprovação do circuito anulada; correção redigida pelo pesquisador"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "reformulada",
+      "agente": "pesquisador",
+      "nota": "Enunciado: «julgou ele estar a ver» passou a «Como classificou ele esse ponto de luz?» (descreve o registo, não a crença). Explicação: «registou-o como estrela fixa», com a etiqueta «fixa» como facto dos cadernos; retirada a frase tautológica e a «observar Júpiter, mas». Opções e resposta iguais. A nota de 28 de janeiro de 1613 não entra, para não afirmar interpretação."
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte discovermagazine.com"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (2.º ciclo: atribuição/redação, sem mudar facto, resposta nem opções)"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte discovermagazine.com"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (2.º ciclo: atribuição/redação, sem mudar facto, resposta nem opções)"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte discovermagazine.com"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Correct answer stays at index 3 (zero-based), the fourth option. Galileo's \"fixa\" label kept in quotes as in the source. \"Neptuno\" became \"Neptune\". \"Nova explosiva\" was rendered as \"A new exploding star\" (a nova/supernova-type event), which keeps the pt-PT sense. \"chegou a detetar\" became \"did detect\", following Kowal and Drake's wording (\"also detected the motion\"). Attributions to NASA, Jamieson, and Kowal and Drake are kept. The explanation is about 270 characters in 2 sentences."
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "fonte acrescentada pelo pesquisador (sem mudar o texto)",
+      "agente": "pesquisador",
+      "nota": "Comunicado da Universidade de Melbourne (Jamieson): Galileo registou nos cadernos uma «estrela» próxima, hoje identificada como Neptuno; NÃO contém a palavra «fixa/fixed»; confirma só o registo como estrela e o movimento em 28-jan-1613."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "fonte acrescentada pelo pesquisador (sem mudar o texto)",
+      "agente": "pesquisador",
+      "nota": "Página institucional (catalão), domínio diferente dos já usados: Galileo usou uma estrela «fixa» como referência junto a Júpiter nos desenhos de 27-dez-1612; era Neptuno, que confundiu com estrela fixa; a 27/28-jan-1613 anotou suspeita de movimento."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "ressalva registada (decisão do Andre, 18/11)",
+      "agente": "orquestrador",
+      "nota": "A etiqueta «fixa» nos cadernos só está documentada no artigo de Jamieson (ph.unimelb.edu.au) e na imprensa; o comunicado da Universidade de Melbourne só confirma «estrela» e o movimento. Confiança da etiqueta: nível 2. Entra na lista de revisão do /auditar de nível 1, a seguir à Q43 e à Q1."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reaberta: conferência repetida (hash) reprovou o en-US da explicação («fixa» sem tradução)",
+      "agente": "orquestrador",
+      "nota": "só redação do en-US; volta ao tradutor e ao conferente"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"explicação\", \"idioma\": \"en-US\", \"detalhe\": \"O en-US deixa «fixa» por traduzir entre aspas (the label \\\"fixa\\\"). Um leitor americano não entende a palavra e a resposta («A fixed star») deixa de ter correspondência visível na explicação. Falta dizer se a etiqueta original está noutra língua ou se é a tradução inglesa «fixed». Como não vejo a fonte, não sei qual das duas é a leitura certa, e na dúvida rejeito. A tradução deve ser «fixed star» ou deixar claro que é a palavra original dos "
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Só a explicação mudou: acrescentada a glosa «(fixed)» a seguir à etiqueta original \"fixa\", que se mantém entre aspas por ser citação dos cadernos. Pergunta, opções e atribuições (NASA, Jamieson, Kowal e Drake) iguais. 2 frases, cerca de 276 caracteres (estimativa, não medida com limites.py)."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte arxiv.org"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
   "etiquetas": [],
-  "options_lock": "e0cb8046fac99cdc96a9959cf619b1f70fd6a0d818781d2ba752f8542128a5b3"
+  "options_lock": "de5cc0ea3345f9320d106b3b1e141e578f1075519d793f7c01ad4b2a46619597"
 }

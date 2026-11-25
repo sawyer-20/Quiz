@@ -12,6 +12,16 @@
         "Lago Vitória"
       ],
       "explanation": "O Baikal, com mais de 1600 m de profundidade, é o lago mais profundo e mais antigo do mundo. Guarda cerca de 20% da água doce superficial do planeta, volume comparável ao dos cinco Grandes Lagos norte-americanos."
+    },
+    "en-US": {
+      "question": "Which Siberian lake holds about 20% of the world's surface fresh water, nearly as much as the five Great Lakes combined?",
+      "options": [
+        "Lake Titicaca",
+        "Lake Ladoga",
+        "Lake Baikal",
+        "Lake Victoria"
+      ],
+      "explanation": "Lake Baikal, more than 1,600 m deep, is the deepest and oldest lake in the world. It holds about 20% of the planet's surface fresh water, a volume comparable to that of the five North American Great Lakes."
     }
   },
   "correct": 2,
@@ -40,16 +50,53 @@
       "excerto": "the oldest (25 million years) and deepest (1,700 m) lake in the world. It contains 20% of the world's total unfrozen freshwater reserve.",
       "consultada_em": "2026-11-12",
       "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.feow.org/ecoregions/details/606",
+      "dominio": "feow.org",
+      "titulo": "Lake Baikal - Freshwater Ecoregions of the World (WWF/TNC)",
+      "nivel": 2,
+      "excerto": "Lake Baikal (Siberia) is the deepest (1632 m) and largest freshwater lake (volume 23,015 km3) on earth. It holds around 20% of the world's fresh surface water",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
-    "verificador": null,
-    "advogado": null,
-    "editor": null
+    "verificador": {
+      "resposta_texto": "Lago Baikal",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "feow.org",
+      "data": "2026-11-18",
+      "notas": "Li a página com o leitor. O Baikal é o lago siberiano com cerca de 20% da água doce superficial. Vitória (África), Ladoga (Rússia europeia, perto de São Petersburgo) e Titicaca (Andes) não são da Sibéria nem têm esse volume. A fonte não confirma a comparação com os Grandes Lagos. Uma pesquisa indica que o Baikal tem mais água do que os cinco Grandes Lagos juntos, o que é compatível com «quase tanto», mas não abri uma fonte primária para essa parte. O enunciado diz «quase tanto» e as fontes que vi dizem «mais». Convém o editor verificar essa formulação.",
+      "hash_texto": "a4fd36283b74c8184d892c389d4c7d54f2266fd43fd2e9ace07ec5d4263866ce"
+    },
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "Li a página do USGS (nível 1). Confirma: maior lago de água doce em volume, mais antigo e mais profundo, 1637 m no ponto mais fundo, cerca de 20% da água doce superficial da Terra, 'approximately equivalent to all five of the North American Great Lakes combined'. Isto sustenta o 'quase tanto' do enunciado, a 'comparação' da explicação e o 'mais de 1600 m' (1632 m no WWF/FEOW e 1637 m no USGS, ambos acima de 1600; a UNESCO dá 1700 m, que também é compatível). Nenhum distrator (Titicaca, Ladoga, Vitória) é defensável. Ladoga é o maior lago da Europa e Vitória o maior de África, e nenhum tem esse volume. A frase 'cerca de 20%' tem acordo entre USGS, UNESCO (que fala em água doce não congelada) e FEOW. A ressalva do verificador (a fonte dele não confirma a comparação) fica coberta pelo USGS, que o pesquisador já tinha. Não achei segunda resposta, nem problema de validade, de definição ou de sensibilidade. O facto é estável. | páginas lidas pelo advogado: https://www.usgs.gov/media/images/lake-baikal-space-largest-oldest-and-deepest-lake"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Sem alterações ao enunciado (118 caracteres). Explicação mantida: já começa pela resposta, tem menos de 300 caracteres e não há gralhas. Nota para o caso de o advogado ainda não o ter visto: o enunciado diz «quase tanto como» e a explicação diz «comparável», o que é coerente.",
+      "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "1600 m mantido como '1,600 m' sem conversão. 'Baikal' passa a 'Lake Baikal' na explicação e nas opções (forma inglesa corrente). 'cerca de 20%' mantido como 'about 20%'."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Mesmos números (20%, 1600 m), mesma comparação com os Grandes Lagos. Opções equivalentes uma a uma. Limites respeitados.",
+      "data": "2026-11-18",
+      "hash_texto": "ce5fa058cf4ff11df4c8b380cabe7ef9f7f9093011432672c211c78773820905"
+    }
   },
-  "estado": "rejeitada",
-  "motivo_rejeicao": "quota de clássicos do lote (regra 16: o lote já tem 4 clássicos; o limite do Andre é 4)",
-  "lote": "lote-2026-11-12-bilingue",
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-12",
   "historico": [
     {
@@ -69,9 +116,56 @@
       "evento": "rejeitada",
       "agente": "orquestrador",
       "nota": "quota de clássicos do lote (regra 16: o lote já tem 4 clássicos; o limite do Andre é 4)"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "originalidade reavaliada (definição de 17/11): original",
+      "agente": "originalidade",
+      "nota": "original (definição de 17/11); confiança moderada (o facto dos 20% é muito conhecido). Entra no lote 5 como retoma única (regra 15), sem repetir a pesquisa."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte feow.org"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reaberta como retoma única do lote 5 (originalidade reavaliada com a definição de 17/11)",
+      "agente": "orquestrador",
+      "nota": "sem repetir a pesquisa; segue para o verificador cego, advogado, editor, tradutor e conferente"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "1600 m mantido como '1,600 m' sem conversão. 'Baikal' passa a 'Lake Baikal' na explicação e nas opções (forma inglesa corrente). 'cerca de 20%' mantido como 'about 20%'."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": [
-    "classico"
-  ]
+  "etiquetas": [],
+  "options_lock": "0cadbe8e36ac864787d83fcced75bdde370db03eb7dfc5b40f0c0345bccb8cdb"
 }

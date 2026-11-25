@@ -1,27 +1,27 @@
 {
   "id": "Q-2026-000033",
   "topic": "World History",
-  "subtopic": "vida quotidiana",
+  "subtopic": "Tesouro inglês medieval e incêndio de Westminster",
   "text": {
     "pt-PT": {
       "question": "Que objeto serviu de recibo fiscal no Tesouro inglês medieval e, queimado em 1834, incendiou o Parlamento de Westminster?",
       "options": [
-        "Rolos de pergaminho selados com cera",
-        "Varas de madeira entalhadas e partidas ao meio",
         "Fichas de chumbo cunhadas com o brasão real",
+        "Varas de madeira entalhadas e partidas ao meio",
+        "Rolos de pergaminho selados com cera",
         "Tábuas de cera gravadas com estilete"
       ],
-      "explanation": "Varas de madeira entalhadas e partidas ao meio: uma metade ficava com o Tesouro, a outra com quem pagava. Em 1834 duas carroças dessas «tallies» foram queimadas nas fornalhas sob a Câmara dos Lordes e o fogo destruiu o Parlamento."
+      "explanation": "Varas de madeira entalhadas e partidas ao meio: cada parte da transação guardava uma metade. Em 1834 duas carroças dessas «tallies» foram queimadas nas fornalhas sob a Câmara dos Lordes e o fogo destruiu grande parte do Palácio de Westminster."
     },
     "en-US": {
-      "question": "What object served as a tax receipt in the medieval English Exchequer and, when burned in 1834, set the Houses of Parliament on fire?",
+      "question": "Which object served as a tax receipt in the medieval English Exchequer and, when burned in 1834, set fire to the Houses of Parliament?",
       "options": [
-        "Wax-sealed parchment rolls",
+        "Lead tokens stamped with the royal coat of arms",
         "Notched wooden sticks split in half",
-        "Lead tokens stamped with the royal arms",
-        "Wax tablets engraved with a stylus"
+        "Parchment rolls sealed with wax",
+        "Wax tablets inscribed with a stylus"
       ],
-      "explanation": "Notched wooden sticks split in half: one half stayed with the Exchequer, the other with the payer. In 1834 two cartloads of these tallies were burned in the furnaces under the House of Lords, and the fire destroyed Parliament."
+      "explanation": "Notched wooden sticks split in half: each party to the transaction kept one half. In 1834, two cartloads of these \"tallies\" were burned in the furnaces under the House of Lords, and the fire destroyed much of the Palace of Westminster."
     }
   },
   "correct": 1,
@@ -30,8 +30,8 @@
   "daily_eligible": true,
   "sources": [
     "https://www.nationalarchives.gov.uk/help/e179/glossary.htm",
-    "https://collection.sciencemuseumgroup.org.uk/objects/co60506/medieval-exchequer-tally-sticks",
-    "https://historyofparliament.com/2025/10/16/the-westminster-fire-of-1834/"
+    "https://historyofparliament.com/2025/10/16/the-westminster-fire-of-1834/",
+    "https://www.londonmuseum.org.uk/collections/v/object-484467/dreadful-fire-and-total-destruction-of-both-houses-of-parliament-1834/"
   ],
   "fontes": [
     {
@@ -53,15 +53,6 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co60506/medieval-exchequer-tally-sticks",
-      "dominio": "sciencemuseumgroup.org.uk",
-      "titulo": "Medieval Exchequer Tally Sticks - Science Museum Group Collection",
-      "nivel": 1,
-      "excerto": "The stick would be split in half: the lender received 'the stock'... and the debtor the other half, called the 'foil'. ... a fire to burn a large amount of left behind sticks got out of control, resulting in burning down the Palace of Westminster on 16 October 1834.",
-      "consultada_em": "2026-11-11",
-      "papel": "verificador"
-    },
-    {
       "url": "https://historyofparliament.com/2013/10/16/the-fire-of-1834/",
       "dominio": "historyofparliament.com",
       "titulo": "Burning the House down: The Fire of 1834 (History of Parliament)",
@@ -69,6 +60,15 @@
       "excerto": "unsupervised and ill-advised burning of two large cartloads of wooden tally sticks (a form of medieval tax receipt created by the Exchequer ...) in the heating furnaces below [the House of Lords chamber]",
       "consultada_em": "2026-11-11",
       "papel": "advogado"
+    },
+    {
+      "url": "https://www.londonmuseum.org.uk/collections/v/object-484467/dreadful-fire-and-total-destruction-of-both-houses-of-parliament-1834/",
+      "dominio": "londonmuseum.org.uk",
+      "titulo": "Dreadful Fire! And total destruction of both houses of Parliament, 1834 (London Museum)",
+      "nivel": 1,
+      "excerto": "The fire was caused by over-loading the Palace furnaces with unwanted wooden 'tallies', notched sticks of wood formerly used as receipts by the Exchequer.",
+      "consultada_em": "2026-11-19",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
@@ -76,30 +76,32 @@
       "resposta_texto": "Varas de madeira entalhadas e partidas ao meio",
       "concorda": true,
       "confianca": "alta",
-      "dominio": "sciencemuseumgroup.org.uk",
-      "data": "2026-11-11",
-      "notas": "Museu confirma varas partidas ao meio (stock e foil) e o incêndio de 16/10/1834. A palavra «recibo» não vem explícita (fala em registo de dívida/pagamento)."
+      "dominio": "londonmuseum.org.uk",
+      "data": "2026-11-19",
+      "notas": "Li duas páginas do London Museum. A primeira confirma que as tallies eram paus de madeira entalhados, usados como recibos pelo Exchequer, e que a queima em 1834 causou o incêndio de Westminster. A segunda (https://www.londonmuseum.org.uk/collections/v/object-372215/tallystick/) diz que os paus tinham entalhes com o valor e eram partidos ao comprido, ficando cada parte com uma metade. A página do Bank of England (https://www.bankofengland.co.uk/museum/whats-on/2019/325-years-exhibition/payments-through-time), também lida, confirma isso com um pau de aveleira partido ao comprido. As tábuas de cera, os rolos selados e as fichas de chumbo não aparecem como o objeto queimado em nenhuma fonte. As páginas do Parlamento do Reino Unido devolveram 403 e não as abri. O enunciado diz «no Tesouro inglês medieval», mas as fontes dizem que o Exchequer usou as tallies até ao século XIX; isto não afeta a resposta.",
+      "hash_texto": "ab269f8e051e39ebfd234affb7f9e29e59f8f6e9c4f6f3d2fc68895796c0ce47"
     },
     "advogado": {
       "aprovado": true,
-      "notas": "Advogado: «recibo fiscal», «duas carroças» e «fornalhas sob a Câmara dos Lordes» confirmados na History of Parliament; sem segunda resposta; sem sensibilidade (mais de 10 anos).",
-      "data": "2026-11-11"
+      "data": "2026-11-19",
+      "notas": "Todas as afirmações têm apoio. A ressalva é que 'carroças' e 'fornalhas sob a Câmara dos Lordes' vêm da página da History of Parliament (artigo da Dr Caroline Shenton), o que chega. | páginas lidas pelo advogado: https://historyofparliament.com/2025/10/16/the-westminster-fire-of-1834/ (16/10/1834; 'two large cartloads of wooden tally sticks' queimadas 'in the heating furnaces below' a câmara dos Lordes; 'a form of medieval tax receipt created by the Exchequer'; fogo 'uncontrollable in most of the Palace', 'a shattered and smoking collection of buildings': apoia 'destruiu grande parte do Palácio'), https://www.nationalarchives.gov.uk/help/e179/glossary.htm (\"Tally: A wooden stick, split in two and notched. Half would be given to collectors in receipt of payment at the Exchequer, while the other half would be retained. Many of these were destroyed by a fire in 1834\": apoia 'partidas ao meio' e 'cada parte guardava uma metade'), https://www.londonmuseum.org.uk/collections/v/object-372215/tallystick/ (aberta; não usada como base de nenhuma afirmação específica)"
     },
     "editor": {
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "enunciado encurtado; explicação começa pela resposta",
-      "data": "2026-11-11"
+      "notas": "Texto igual: 2 frases, cerca de 245 caracteres. Opções na nova ordem pedida (certa: índice 1). Não acrescentei nem alarguei nada. Dificuldade mantida.",
+      "data": "2026-11-19"
     },
     "tradutor": {
-      "data": "2026-11-11",
-      "notas": "Tesouro inglês -> Exchequer; Parlamento de Westminster -> Houses of Parliament."
+      "data": "2026-11-19",
+      "notas": "Corrigido: a pergunta passa a dizer 'tax receipt' (recupera 'fiscal'). Opções, ordem (certa = índice 1) e explicação inalteradas. Pergunta com 133 caracteres. 'Parlamento de Westminster' -> 'Houses of Parliament' no enunciado; a explicação mantém 'Palace of Westminster'."
     },
     "conferente": {
       "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
+      "notas": "Facto, números (1834, duas carroças/two cartloads) e atribuições equivalentes nos dois idiomas. A opção certa (índice 1) diz o mesmo: varas de madeira entalhadas e partidas ao meio / notched wooden sticks split in half. As outras três correspondem uma a uma: fichas de chumbo, rolos de pergaminho, tábuas de cera. Regra 28: o enunciado tem «objeto» e «object» no singular e as quatro opções estão no plural em ambos os idiomas, por isso nenhuma concordância aponta para uma opção. Não há palavra do enunciado que repita a resposta. pt-PT sem brasileirismos e com grafia do AO90. en-US natural. Explicação com 2 frases nos dois idiomas, opções com menos de 60 caracteres, pergunta terminada em «?».",
+      "data": "2026-11-19",
+      "hash_texto": "e3d880823e9ccca888bd0b6fb4abbb246c0b7dc1c950cc72227ed96e027a888a"
     }
   },
   "estado": "aprovada",
@@ -166,7 +168,109 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte londonmuseum.org.uk"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "`sources` sincronizado com `fontes`"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "devolvida a em_verificacao",
+      "agente": "orquestrador",
+      "nota": "auditoria de afirmações (regra 29): afirmação sem fonte ou só em Wikipédia; explicação corrigida pelo editor; a repetir advogado, tradutor e conferente"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Pergunta e opções inalteradas. «Parlamento» traduzido por «Houses of Parliament», como na pergunta. «cada parte da transação» lido como cada parte envolvida («each party to the transaction»). «House of Lords» é a forma inglesa corrente de «Câmara dos Lordes»."
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (2.º ciclo, auditoria de afirmações): formulacao: «o fogo destruiu o Parlamento» diz mais do que a fonte. A History of Parliament diz que o fogo ficou incontrolável na ma"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Certa = índice 1. O pt-PT diz 'recibo fiscal' no enunciado; usei 'receipt' (sem 'fiscal', que soaria estranho em inglês); conferente deve ver. 'Parlamento de Westminster' -> 'Houses of Parliament' (forma corrente em inglês); a explicação mantém 'Palace of Westminster' como no pt-PT. 'Tesouro' -> 'Exchequer' (nome da instituição). 'tallies' entre aspas como no original. 'Duas carroças' -> 'two cartloads' (equivalente natural). Opção 1: 'entalhadas' -> 'notched'."
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte londonmuseum.org.uk"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "`sources` sincronizado com `fontes`"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"pergunta\", \"idioma\": \"pt-PT\", \"detalhe\": \"«recibo fiscal» acrescenta o sentido de documento fiscal (tax receipt). O en-US diz só «a receipt». Não é exatamente a mesma afirmação, e o pt-PT pode ser lido como um recibo no sentido moderno de comprovativo fiscal. Na dúvida, rejeita-se. Corrigir para «recibo» no pt-PT, ou pôr «tax receipt» no en-US, mas só se a ficha de facto o permitir, e o pt-PT alterado volta ao verificador.\"}]"
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Corrigido: a pergunta passa a dizer 'tax receipt' (recupera 'fiscal'). Opções, ordem (certa = índice 1) e explicação inalteradas. Pergunta com 133 caracteres. 'Parlamento de Westminster' -> 'Houses of Parliament' no enunciado; a explicação mantém 'Palace of Westminster'."
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-19",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "options_lock": "9c531e5095ba7acd9ef59b227432dd802c4480a4916fad47759ee9b402ad6c98"
+  "options_lock": "e1e82d03874fc0bd269ea8d002e5273fab9f0fd24bac1735eb67ec6923f7f19b"
 }

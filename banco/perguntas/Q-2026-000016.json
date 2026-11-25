@@ -74,12 +74,12 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://torreserradaestrela.pt/",
-      "dominio": "torreserradaestrela.pt",
-      "titulo": "Serra da Estrela - Torre",
+      "url": "https://visitseia.pt/geositios/planalto-da-torre/",
+      "dominio": "visitseia.pt",
+      "titulo": "Planalto da Torre | Visit Seia (Município de Seia)",
       "nivel": 2,
-      "excerto": "A real altitude desta área é de 1993 m, conforme acertos introduzidos por medições realizadas pelo Instituto Geográfico do Exército. [...] a Torre [...] assinala o ponto mais elevado da Serra da Estrela.",
-      "consultada_em": "2026-11-10",
+      "excerto": "O Planalto da Torre abrange a área culminal da serra da Estrela, alcançando uma altitude máxima de 1993 metros que constitui o ponto mais elevado do território continental português.",
+      "consultada_em": "2026-11-18",
       "papel": "verificador"
     }
   ],
@@ -88,9 +88,10 @@
       "resposta_texto": "Serra da Estrela",
       "concorda": true,
       "confianca": "media",
-      "dominio": "torreserradaestrela.pt",
-      "data": "2026-11-10",
-      "notas": "Li também knoow.net (1993 m) e outdoorportugal.pt (Marão 1416 m). Gerês 1548 m e Lousã 1205 m só vistos nos resultados, não abertos; muito abaixo de 1993 m. Britannica e Infopédia 403."
+      "dominio": "visitseia.pt",
+      "data": "2026-11-18",
+      "notas": "Li a página do município de Seia (nível 2). Diz que o ponto mais alto do território continental português fica na serra da Estrela, a 1993 m. Não abri uma segunda fonte de nível 1 fora dos domínios proibidos. Marão, Lousã e Gerês ficam excluídas porque a fonte coloca o máximo continental na Estrela. A resposta é consistente com os resultados de pesquisa que vi, mas só li uma fonte.",
+      "hash_texto": "be5e6d71072c74b131c000fc331cc97eb611a76590a8283affb04874bf7be01f"
     },
     "advogado": {
       "aprovado": true,
@@ -110,8 +111,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
+      "notas": "Equivalentes. Opções iguais (nomes próprios) e concordância feminina sem pista. Explicação com 2 frases nos dois idiomas. Números iguais (1993 m e 2351 m).",
+      "data": "2026-11-18",
+      "hash_texto": "678b7ca1ca29a1f0a860d561bf541dc1289b36d300104b9deba3b9959e1c4411"
     }
   },
   "estado": "aprovada",
@@ -190,6 +192,18 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte visitseia.pt"
     }
   ],
   "etiquetas": [

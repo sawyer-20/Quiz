@@ -1,0 +1,177 @@
+{
+  "id": "Q-2026-000093",
+  "topic": "General Knowledge",
+  "subtopic": "etimologia",
+  "text": {
+    "pt-PT": {
+      "question": "No «Liber Abaci» (1202), que palavra latina medieval, adaptada do árabe «sifr», usou Fibonacci para designar o sinal 0?",
+      "options": [
+        "Orbiculum",
+        "Zephyrum",
+        "Nihilum",
+        "Vacuum"
+      ],
+      "explanation": "Zephyrum (ou «zephirum»): Fibonacci adaptou-a do árabe ṣifr e, segundo a Treccani, é a origem de «zero». Um estudo no repositório da Universidade de Oxford regista-o como o primeiro termo latino para o 0."
+    },
+    "en-US": {
+      "question": "In the \"Liber Abaci\" (1202), what medieval Latin word, adapted from the Arabic \"sifr,\" did Fibonacci use for the sign 0?",
+      "options": [
+        "Orbiculum",
+        "Zephyrum",
+        "Nihilum",
+        "Vacuum"
+      ],
+      "explanation": "Zephyrum (or \"zephirum\"): Fibonacci adapted it from the Arabic ṣifr and, according to Treccani, it is the origin of \"zero.\" A study in the University of Oxford repository records it as the first Latin term for 0."
+    }
+  },
+  "correct": 1,
+  "difficulty": 4,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.treccani.it/vocabolario/zero/",
+    "https://ora.ox.ac.uk/objects/uuid:d73b5a83-4f01-4347-a257-e2fb8cbca12c/files/s6m311q832"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.treccani.it/vocabolario/zero/",
+      "dominio": "treccani.it",
+      "titulo": "Zero - Significato ed etimologia - Vocabolario Treccani",
+      "nivel": 1,
+      "excerto": "zero [dal lat. mediev. zèphyrum, adattam. (Leonardo Fibonacci nel Liber abbaci, 1202) dell'arabo ṣifr «nulla, zero», calco del sanscr. śūnyá «vuoto» e poi «zero»]",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://ora.ox.ac.uk/objects/uuid:d73b5a83-4f01-4347-a257-e2fb8cbca12c/files/s6m311q832",
+      "dominio": "ox.ac.uk",
+      "titulo": "Italian zero (Oxford University Research Archive)",
+      "nivel": 1,
+      "excerto": "in Arabic the sign '0' is called zephyrum. This is the earliest occurrence of a Latin term for the symbol '0'. Clearly, zephyrum is not actually an Arabic word [...] phonological adaption [...] of the Arabic word ṣifr 'empty'.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://link.springer.com/chapter/10.1007/978-3-031-52692-3_5",
+      "dominio": "springer.com",
+      "titulo": "The Liber Abaci (Springer Nature Link)",
+      "nivel": 2,
+      "excerto": "the word zephirum is a Latinized expression for the Arabic word sifr. «Cum his itaque novem figuris, et cum hoc signo 0, quod arabice zephirum appellatur, scribitur quilibet numerus»",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Zephyrum",
+      "concorda": true,
+      "confianca": "media",
+      "dominio": "springer.com",
+      "data": "2026-11-18",
+      "notas": "A fonte lida cita a frase do Liber Abaci com «zephirum» e diz que é a primeira vez que a palavra aparece em latim. Confiança média porque a grafia da opção («Zephyrum») difere da citada («zephirum»), e porque a fonte é um capítulo de livro com a tradução, e não a edição crítica. As outras três opções foram excluídas por ausência: a fonte não lhes dá esse papel. Não usei Treccani nem Oxford. O enunciado diz «adaptada do árabe sifr», o que a fonte confirma. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): A palavra no original é grafada «zephirum» (também «zephyrum» em algumas edições). A opção «Zephyrum» é a única que corresponde ao termo de Fibonacci, só com variante ortográfica. Vacuum, Orbiculum e Nihilum não aparecem na fonte como termo usado por Fibonacci para o 0.",
+      "hash_texto": "cf6142ee9404df6bdd4e60eb28391d13a0105d9f3d21ac4586e3ef41f98d9eb4"
+    },
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "A Treccani (n1) dá «lat. mediev. zèphyrum, adattam. (Fibonacci, Liber abbaci, 1202) dell'arabo ṣifr». O texto de Oxford diz «the earliest occurrence of a Latin term for the symbol 0». O Springer, independente, diz «the first time the word appears in Latin» e cita a frase do Liber Abaci. A atribuição «segundo a Treccani» e a de Oxford estão certas. «Zephyrum» e «zephirum» são variantes, ambas aceites na explicação. Nenhum distrator tem apoio. Não derrubei. | páginas lidas pelo advogado: https://www.treccani.it/vocabolario/zero/, https://ora.ox.ac.uk/objects/uuid:d73b5a83-4f01-4347-a257-e2fb8cbca12c/files/s6m311q832, https://link.springer.com/chapter/10.1007/978-3-031-52692-3_5"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado e opções intactos. Explicação reordenada para começar pela resposta e encurtada; atribuições mantidas. Dificuldade e subtema confirmados.",
+      "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "Corrigido: aspas retas duplas em vez de angulares. Atribuições a Treccani e ao repositório de Oxford mantidas."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "As atribuições (Treccani, repositório da Universidade de Oxford), a data de 1202, a variante «zephirum» e as quatro opções coincidem, na mesma ordem. Pontuação americana correta.",
+      "data": "2026-11-18",
+      "hash_texto": "596da91d524a522164a526c2b106a2c024038091380df1ef6621ed87dac7ac00"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
+  "criada_em": "2026-11-18",
+  "historico": [
+    {
+      "data": "2026-11-18",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Angulo novo: a forma latina criada por Fibonacci (em vez do significado sânscrito 'vazio' da Q-2026-000076). Não clássico de quiz (o clássico é «zero vem do árabe sifr»). Atribuído ao vocabulário Treccani como pedido. Grafia: Treccani e Oxford escrevem «zephyrum»; outras fontes escrevem «zephirum» (variante do mesmo termo). Distratores escolhidos para não coincidirem com termos medievais reais para o zero (circulus, theca, figura nihili, cifra, de Sacrobosco/Villedieu), que seriam defensíveis. A explicação atribui a Treccani e Oxford e usa só 1202 (duas fontes de acordo). treccani.it já usado antes; o verificador deve usar outra fonte independente (a página MacTutor de St Andrews não contém 'zephirum', não serve). Fontes novas: ora.ox.ac.uk (lido com --procurar). Acho que a explicação tem 2 frases e menos de 300 caracteres."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Não encontrei quiz com a pergunta 'que palavra latina medieval deu zero' nem estas opções. As pesquisas devolvem só artigos e dicionários de etimologia. As fontes que li apontam 'zephirum' (ou 'zephyrum'), mas sem indicar a resposta certa ao orquestrador: o verificador cego decide. A procura em sites de quiz teve poucos resultados diretos (o motor não indexa bem Sporcle, JetPunk, Kahoot nem Quizlet), mas não apareceu nenhum sinal de cópia. | provas: https://nordan.mywikis.wiki/wiki/Zero (etimologia de 'zero' a partir do latim medieval zephirum; sem quiz); https://www.math.utah.edu/~beebe/software/java/fibonacci/liber-abaci.html (sobre o Liber Abaci; sem quiz)"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte st-andrews.ac.uk"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo): formulacao: O enunciado diz «palavra latina medieval que deu «zero»», como facto. A Treccani dá a derivação como facto. O estudo de ; formulacao: Há variantes de grafia nas fontes. A MacTutor (que o verificador usou) escreve «zephirum», e o Oxford cita a mesma passa; fontes: «Um estudo da Universidade de Oxford» está um pouco vago. O documento está no repositório ORA da universidade, mas a pág"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte springer.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Liber Abaci mantido (nome de obra), aspas «» mantidas como no pt-PT. Atribuições a Treccani e ao repositório da Universidade de Oxford mantidas. «Zephyrum» e as outras opções são latim e ficam iguais."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"pergunta\", \"idioma\": \"en-US\", \"detalhe\": \"O en-US usa aspas angulares («Liber Abaci», «sifr»). O inglês americano usa aspas retas duplas e, para um título, itálico ou aspas.\"}, {\"onde\": \"explicação\", \"idioma\": \"en-US\", \"detalhe\": \"«zephirum» e «zero» estão entre aspas angulares. Devia ser \\\"zephirum\\\" e \\\"zero\\\".\"}]"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Corrigido: aspas retas duplas em vez de angulares. Atribuições a Treccani e ao repositório de Oxford mantidas."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "etiquetas": [],
+  "options_lock": "2401e49977e3ef7b581d16e232081023e48623b9c79ea41b12e9ee82af36b034"
+}

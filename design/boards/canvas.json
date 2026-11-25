@@ -1,0 +1,112 @@
+{
+ "v": 3,
+ "createdOnFiles": {
+  "v": 1,
+  "at": "2026-11-11T22:31:15Z"
+ },
+ "title": "QUIZLUX — main screens (v2)",
+ "launch": {
+  "view": "canvas"
+ },
+ "pages": [],
+ "boards": {
+  "Brand.dc.html": {
+   "x": 0,
+   "y": 0,
+   "w": 390,
+   "h": 844,
+   "title": "Brand"
+  },
+  "Splash.dc.html": {
+   "x": 470,
+   "y": 0,
+   "w": 390,
+   "h": 844,
+   "title": "1. Splash"
+  },
+  "Main.dc.html": {
+   "x": 940,
+   "y": 0,
+   "w": 390,
+   "h": 844,
+   "title": "2. Home"
+  },
+  "Topics.dc.html": {
+   "x": 1410,
+   "y": 0,
+   "w": 390,
+   "h": 844,
+   "title": "3. Topics"
+  },
+  "Duels.dc.html": {
+   "x": 1880,
+   "y": 0,
+   "w": 390,
+   "h": 844,
+   "title": "4. Duels"
+  },
+  "Question.dc.html": {
+   "x": 2350,
+   "y": 0,
+   "w": 390,
+   "h": 844,
+   "title": "5. Gameplay"
+  },
+  "States.dc.html": {
+   "x": 2820,
+   "y": 0,
+   "w": 390,
+   "h": 844,
+   "title": "6. Answer states"
+  },
+  "Result.dc.html": {
+   "x": 3290,
+   "y": 0,
+   "w": 390,
+   "h": 844,
+   "title": "7. Result"
+  },
+  "Profile.dc.html": {
+   "x": 3760,
+   "y": 0,
+   "w": 390,
+   "h": 844,
+   "title": "8. Profile"
+  },
+  "CreateChallenge.dc.html": {
+   "x": 4230,
+   "y": 0,
+   "w": 390,
+   "h": 844,
+   "title": "9. Create a challenge"
+  }
+ },
+ "order": [
+  "Brand.dc.html",
+  "Splash.dc.html",
+  "Main.dc.html",
+  "Topics.dc.html",
+  "Duels.dc.html",
+  "Question.dc.html",
+  "States.dc.html",
+  "Result.dc.html",
+  "Profile.dc.html",
+  "CreateChallenge.dc.html"
+ ],
+ "notes": {
+  "t1": {
+   "x": 0,
+   "y": -300,
+   "text": "QUIZLUX · The game of knowledge · v2",
+   "kind": "title1",
+   "maxW": 4700
+  },
+  "n1": {
+   "x": 4720,
+   "y": 0,
+   "w": 360,
+   "text": "Working draft v2. Midnight blue + champagne gold, Manrope. One gold action per screen. Names, levels and scores are sample data. The question shown passed the fact pipeline (sources: NASA, ESO). The QUIZLUX name still needs a domain and trademark check."
+  }
+ },
+ "designSystems": []
+}

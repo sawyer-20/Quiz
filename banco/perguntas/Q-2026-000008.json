@@ -31,7 +31,7 @@
   "sources": [
     "https://www.cambridge.org/core/journals/greece-and-rome/article/abs/latest-work-on-the-export-of-baetican-olive-oil-to-rome-and-the-army/07D28E24DEC41641E1383BAC0CFF12D6",
     "https://turismoroma.it/it/luoghi/monte-dei-cocci",
-    "https://hdl.handle.net/2445/147000"
+    "https://www.oliveoiltimes.com/world/monte-testaccio-remnants-ancient-trade/46185"
   ],
   "fontes": [
     {
@@ -62,12 +62,12 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://hdl.handle.net/2445/147000",
-      "titulo": "Rebuild broken amphoras in the Testaccio (II) — Dipòsit Digital, Universitat de Barcelona (Ruiz, Pérez González, Prignano, Morer, Aguilera, Remesal, 2018)",
-      "nivel": 1,
-      "excerto": "The Testaccio is an artificial hill formed int the Sub-Aventine plain, almost on kilometer in perimeter and almost 50 meters high, formed by the remains of millions of amphoras. About 85% came from the Baetica (Andalucia) containing olive oil in the known as Dressel 20 type.",
-      "dominio": "handle.net",
-      "consultada_em": "2026-11-05",
+      "url": "https://www.oliveoiltimes.com/world/monte-testaccio-remnants-ancient-trade/46185",
+      "dominio": "oliveoiltimes.com",
+      "titulo": "Monte Testaccio: Remnants of an Ancient Trade | Olive Oil Times",
+      "nivel": 2,
+      "excerto": "it is entirely man-made from the remnants of an estimated 53 million smashed olive oil amphorae.",
+      "consultada_em": "2026-11-18",
       "papel": "verificador"
     }
   ],
@@ -75,10 +75,11 @@
     "verificador": {
       "resposta_texto": "Cacos de ânforas de azeite",
       "concorda": true,
-      "confianca": "alta",
-      "dominio": "handle.net",
-      "data": "2026-11-05",
-      "notas": "Repositório da Universidade de Barcelona (projeto Testaccio, Remesal): monte artificial de restos de milhões de ânforas, ~85% béticas de azeite (Dressel 20); Mercati di Traiano confirma. Vinho, entulho e escória excluídos."
+      "confianca": "media",
+      "dominio": "oliveoiltimes.com",
+      "data": "2026-11-18",
+      "notas": "Li a página (imprensa especializada, nível 2). Segunda página lida: History Skills (nível 2/3), que diz que a colina consiste sobretudo em cacos de mais de 53 milhões de ânforas de azeite e que contém quase só ânforas de azeite. Não consegui abrir uma fonte de nível 1 (FastiOnline bloqueou com bot-challenge). Outras opções: a escória e o entulho do incêndio de 64 d.C. não aparecem em nenhuma fonte como constituintes da colina. As ânforas de vinho ficam excluídas porque as fontes dizem que eram ânforas de azeite, da Bética e de África. A explicação deve referir ânforas e não 'quase por inteiro', pois as fontes dizem 'mainly' e 'almost entirely'.",
+      "hash_texto": "6546be4c83f1ad5e595eab69856aee28e21a820cb9c111d1cf178495b18504a3"
     },
     "advogado": {
       "aprovado": true,
@@ -98,8 +99,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
+      "notas": "Opções equivalentes uma a uma e pela mesma ordem. Concordância de género e número sem pista. Explicação com 2 frases.",
+      "data": "2026-11-18",
+      "hash_texto": "fd283ecdd0db8259af10d8d678ba3c76985340e494d1f81541cbb3131b4d7005"
     }
   },
   "estado": "aprovada",
@@ -244,6 +246,24 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte oliveoiltimes.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "`sources` sincronizado com `fontes`"
     }
   ],
   "options_lock": "6a61a8ecbff4af330a20e8ebb5cc3091f68a16ba6dc5b5b136e58804d3a8030c"

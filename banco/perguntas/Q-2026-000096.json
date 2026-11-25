@@ -1,0 +1,171 @@
+{
+  "id": "Q-2026-000096",
+  "topic": "World History",
+  "subtopic": "Indonésia e vulcanismo",
+  "text": {
+    "pt-PT": {
+      "question": "Em 2004, em Sumbawa, foi achada uma aldeia sob cerca de 3 m de cinza de 1815, a «Pompeia do Oriente». De que reino era?",
+      "options": [
+        "Reino de Mataram",
+        "Reino de Srivijaya",
+        "Reino de Majapahit",
+        "Reino de Tambora"
+      ],
+      "explanation": "Era do Reino de Tambora. Os cientistas encontraram uma aldeia e dois adultos soterrados em cerca de 3 m de cinza da erupção de 1815; a semelhança com o Vesúvio deu-lhe o nome de «Pompeia do Oriente»."
+    },
+    "en-US": {
+      "question": "In 2004, a village buried under about 3 m of 1815 ash, dubbed the \"Pompeii of the East,\" was found on Sumbawa. Which kingdom was it from?",
+      "options": [
+        "Kingdom of Mataram",
+        "Kingdom of Srivijaya",
+        "Kingdom of Majapahit",
+        "Kingdom of Tambora"
+      ],
+      "explanation": "It belonged to the Kingdom of Tambora. Scientists found a village and two adults buried in about 3 m of ash from the 1815 eruption; the resemblance to Vesuvius gave it the name \"Pompeii of the East.\""
+    }
+  },
+  "correct": 3,
+  "difficulty": 3,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://science.nasa.gov/earth/earth-observatory/mount-tambora-volcano-sumbawa-island-indonesia-39412/",
+    "https://www.uri.edu/news/2006/02/uri-volcanologist-discovers-lost-kingdom-of-tambora/"
+  ],
+  "fontes": [
+    {
+      "url": "https://science.nasa.gov/earth/earth-observatory/mount-tambora-volcano-sumbawa-island-indonesia-39412/",
+      "dominio": "nasa.gov",
+      "titulo": "Mount Tambora Volcano, Sumbawa Island, Indonesia — NASA Science",
+      "nivel": 1,
+      "excerto": "In 2004, scientists discovered the remains of a village, and two adults buried under approximately 3 meters of ash in a gully on Tambora's flank—remnants of the former Kingdom of Tambora preserved by the 1815 eruption",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.uri.edu/news/2006/02/uri-volcanologist-discovers-lost-kingdom-of-tambora/",
+      "dominio": "uri.edu",
+      "titulo": "URI volcanologist discovers lost kingdom of Tambora — Rhody Today (University of Rhode Island)",
+      "nivel": 1,
+      "excerto": "There's potential that Tambora could be the Pompeii of the East, and it could be of great cultural interest, said Sigurdsson, who believes the village includes a large wooden palace",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.csmonitor.com/2006/0302/p14s03-sten.html",
+      "dominio": "csmonitor.com",
+      "titulo": "Scientists unearth 'Pompeii of the East' (The Christian Science Monitor, 2006)",
+      "nivel": 2,
+      "excerto": "They suggest that it may be the political center of the small kingdom of Tambora, which had a population of roughly 10,000 at the time of the eruption. ... Tambora 'could be the Pompeii of the East.'",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Reino de Tambora",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "csmonitor.com",
+      "data": "2026-11-18",
+      "notas": "Lido via ler_url.py. Confirmei também a leitura na ABC Science (Reuters, 2006): «The village was buried in 3 metres of volcanic debris» e escavação em 2004 (https://www.abc.net.au/science/archive/articles/2006/03/01/1581088.htm). Isto confirma os 3 m, 2004 e 1815. A ABC e o CSMonitor são diferentes dos domínios proibidos e dos títulos a evitar. O CSMonitor foi escrito por jornalista próprio, mas ouviu Sigurdsson, da URI: não é republicação do comunicado da URI. O enunciado diz «Sumbawa» (confirmado pela ABC: ilha de Sumbawa) e «cerca de 3 m de cinza» (confirmado). Os reinos de Mataram, Srivijaya e Majapahit não têm ligação ao achado. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): A fonte indica que alguns investigadores duvidam de que Tambora fosse um reino no sentido clássico, mas a equipa de Sigurdsson fala do «small kingdom of Tambora». As outras opções (Mataram, Srivijaya, Majapahit) não aparecem em nenhuma fonte ligada à descoberta.",
+      "hash_texto": "8d9f98bea0f6501a296af691354c1bccd4c5cc2ec41c36d0f31b64cd09f0a853"
+    },
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "Tentei derrubá-la e não consegui. A NASA (n1) diz «In 2004, scientists discovered the remains of a village, and two adults buried under approximately 3 meters ... of ash ... remnants of the former Kingdom of Tambora» e que a semelhança com Pompeia levou à descrição «the Pompeii of the East». O URI (n1) dá 10 pés (cerca de 3 m), a escavação em 2004, os dois adultos e «extinguished the tiny kingdom of Tambora». O NPR repete «the kingdom, called Tambora». Os números (2004, ~3 m, dois adultos) estão em duas fontes concordantes. Distratores: Mataram, Srivijaya e Majapahit. Majapahit chegou a ter vassalos em Sumbawa, mas o seu apogeu foi séculos antes de 1815. Nenhuma fonte liga estes reinos à aldeia achada em 2004, e a pergunta é sobre o reino destruído em 1815, por isso não há segunda resposta. A dúvida do verificador (alguns investigadores contestam «reino») não aparece em nenhuma das páginas que li; as fontes de nível 1 chamam «Kingdom of Tambora» ao reino. Também não vi o texto da ABC que ele cita. A expressão «Pompeia do Oriente» o URI usa como hipótese («could be»), mas a NASA dá-a como descrição já em uso, e a explicação atribui-a à semelhança com o Vesúvio, que a NASA suporta. Datas de 1815 e 2004 sem tragédia recente (mais de 10 anos). Aprovada. | páginas lidas pelo advogado: https://science.nasa.gov/earth/earth-observatory/mount-tambora-volcano-sumbawa-island-indonesia-39412/, https://www.uri.edu/news/2006/02/uri-volcanologist-discovers-lost-kingdom-of-tambora/, https://www.npr.org/2006/02/28/5237808/culture-destroyed-by-1815-volcano-rediscovered"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "ENUNCIADO ALTERADO (o verificador cego tem de repetir): reformulado de ~135 para ~118 caracteres. Passou para a voz passiva e a expressão «apelidada» foi substituída por aposição. Mantive o ano, o local, «cerca de 3 m» e a pergunta. A explicação começa pela resposta. Dificuldade e subtema mantidos.",
+      "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "Correta = índice 3. Corrigido conforme o conferente: a alcunha «Pompeii of the East» liga-se agora claramente à aldeia («a village ... dubbed the ...»), e na explicação usei «the resemblance to Vesuvius», como no pt-PT. Unidade mantida em metros (3 m). Opções e ordem inalteradas."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Números e datas coincidem (2004, 1815, cerca de 3 m, dois adultos). A resposta certa é Tambora nos dois idiomas e as opções correspondem pela mesma ordem. A explicação tem 2 frases.",
+      "data": "2026-11-18",
+      "hash_texto": "837e917329795941da05475bf798ae47e71975923f89593ffc23e92479cd0edf"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
+  "criada_em": "2026-11-18",
+  "historico": [
+    {
+      "data": "2026-11-18",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Ângulo: o reino soterrado e a «Pompeia do Oriente», não a erupção nem o «ano sem verão». Facto pouco batido em quizzes (não clássico). Risco: a resposta contém «Tambora» e o enunciado não menciona o vulcão, mas quem conhecer a erupção pode deduzir; distratores são reinos indonésios históricos não ligados a Sumbawa. Alguns investigadores discutem se «reino» é o termo exato (a imprensa cunhou «reino perdido»), mas NASA afirma «Kingdom of Tambora»; o URI diz «could be the Pompeii of the East» (Sigurdsson), por isso a explicação fala só da semelhança com o Vesúvio, como a NASA. Datas/números (2004, ~3 m, 1815) coincidem em NASA e URI (URI usa ‘10 feet’/2004 em contexto; confirmar). Britannica devolveu 403."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Só encontrei artigos e páginas enciclopédicas; nenhum quiz com esta pergunta ou com as opções. O ângulo (aldeia sob 3 m de cinza, 2004, reino a que pertencia) é nosso. Aviso fora do meu âmbito: as fontes abertas dizem que alguns investigadores duvidam de que Tambora fosse um reino em sentido clássico, e que 'Lost Kingdom of Tambora' foi cunhado pelos media. Convém o verificador e o advogado olharem para isto. | provas: https://www.npr.org/2006/02/28/5237808/culture-destroyed-by-1815-volcano-rediscovered (artigo, não quiz: Tambora, escavação de 2004, 'Pompeii of the East'); https://m.csmonitor.com/2006/0302/p14s03-sten.html (artigo, não quiz)"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte npr.org"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte csmonitor.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Correta = índice 3. Unidade mantida em metros (3 m), sem conversão. O pt-PT diz «semelhança com o Vesúvio»; expliquei como Vesuvius's burial of Pompeii para ficar natural, sem acrescentar factos novos. Se o conferente achar excessivo, usar «the resemblance to Vesuvius»."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferência recusada",
+      "agente": "conferente",
+      "nota": "[{\"onde\": \"pergunta\", \"idioma\": \"en-US\", \"detalhe\": \"Em «was found on Sumbawa, the \\\"Pompeii of the East.\\\"» a aposição liga-se a Sumbawa e não à aldeia. No pt-PT, «a «Pompeia do Oriente»» liga-se à aldeia. O sentido muda e a pergunta fica ambígua em inglês.\"}, {\"onde\": \"explicação\", \"idioma\": \"en-US\", \"detalhe\": \"O en-US acrescenta «Vesuvius's burial of Pompeii», que o pt-PT não diz («a semelhança com o Vesúvio»). Há uma pequena diferença de conteúdo.\"}]"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Correta = índice 3. Corrigido conforme o conferente: a alcunha «Pompeii of the East» liga-se agora claramente à aldeia («a village ... dubbed the ...»), e na explicação usei «the resemblance to Vesuvius», como no pt-PT. Unidade mantida em metros (3 m). Opções e ordem inalteradas."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "etiquetas": [],
+  "options_lock": "dd7604cc80782ee2a78d5a142be84579bbe491a4ac8517d464e9b1f07292033a"
+}

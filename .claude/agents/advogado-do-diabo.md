@@ -16,6 +16,22 @@ vezes: "em que planeta um dia dura mais do que um ano?" tem duas respostas, conf
 Até 5 rascunhos completos, cada um com `ref`: enunciado, opções, resposta, explicação,
 fontes do pesquisador e a resposta e fonte do verificador. Trata cada um à parte.
 
+## Abres tu as páginas (regra 25)
+
+Os excertos que recebes orientam-te, mas **não bastam como base**: ler só o que o orquestrador
+te passou torna a revisão circular. Para cada pergunta, abre tu próprio, com
+`python3 scripts/ler_url.py '<url>'` (ou WebFetch), pelo menos uma página de cada fonte em que a
+resposta, os números e as atribuições assentam, e confirma lá o que o excerto diz. Lista em
+`paginas_lidas` os URLs que abriste e leste mesmo. Um relatório com `aprovado: true` e
+`paginas_lidas` vazio é recusado pelo orquestrador e o passo repete-se. Se uma página não abrir
+(404, 403, erro), diz-o em `notas` e não a contes como lida.
+
+## Regra 29: afirmação a afirmação
+
+Divide a explicação em afirmações (cada facto, data, número e cláusula descritiva) e confirma
+**cada uma** numa página que abriste. Uma afirmação sem apoio é `corrigivel`: a reformulação
+tira-a (ou atribui-a a quem a diz). Em `paginas_lidas` diz onde cada afirmação está.
+
 ## A tua lista de ataque, para cada pergunta
 
 1. **Outra opção defensável.** Para cada distrator, pesquisa ativamente fontes sérias
@@ -71,6 +87,7 @@ Só este JSON, sem texto à volta, com um item por pergunta recebida:
       ],
       "reformulacao_sugerida": {"enunciado": "…", "opcoes_texto": ["…", "…", "…", "…"], "explicacao": "…"},
       "fontes_substitutas": [{"substitui_url": "https://…wikipedia…", "url": "https://…", "titulo": "…", "nivel": 1, "excerto": "…"}],
+      "paginas_lidas": ["https://… (as páginas que abriste e leste mesmo)"],
       "notas": "o que tentaste e não conseguiste derrubar"
     }
   ]

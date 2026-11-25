@@ -1,0 +1,158 @@
+{
+  "id": "Q-2026-000086",
+  "topic": "Movies",
+  "subtopic": "Technicolor e cor no cinema",
+  "text": {
+    "pt-PT": {
+      "question": "Após os maus resultados do Technicolor de duas cores, que princípio defendeu Natalie Kalmus junto dos cineastas?",
+      "options": [
+        "Saturação máxima em todas as cenas",
+        "Cor apenas em cenas de exterior",
+        "Uma só cor dominante em cada filme",
+        "Contenção no uso da cor"
+      ],
+      "explanation": "Contenção no uso da cor. Segundo o ACMI, depois de o Technicolor de duas cores dar resultados «não naturais e desastrosos», Natalie Kalmus, supervisora de cor, pediu aos cineastas «contenção da cor» (colour restraint)."
+    },
+    "en-US": {
+      "question": "After two-color Technicolor's poor results, what principle did Natalie Kalmus urge on filmmakers?",
+      "options": [
+        "Maximum saturation in every scene",
+        "Color only in outdoor scenes",
+        "A single dominant color in each film",
+        "Restraint in the use of color"
+      ],
+      "explanation": "Restraint in the use of color. According to ACMI, after two-color Technicolor gave \"unnatural and disastrous\" results, color supervisor Natalie Kalmus urged filmmakers to practice \"color restraint.\""
+    }
+  },
+  "correct": 3,
+  "difficulty": 4,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.acmi.net.au/works/100238--graphic-natalie-kalmus-technicolor-pioneer/"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.acmi.net.au/works/100238--graphic-natalie-kalmus-technicolor-pioneer/",
+      "dominio": "acmi.net.au",
+      "titulo": "Natalie Kalmus | ACMI collection",
+      "nivel": 1,
+      "excerto": "After seeing filmmakers use the earlier two-strip Technicolor process to produce “unnatural and disastrous results”, she urged filmmakers to employ “colour restraint”.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.acmi.net.au/stories-and-ideas/natalie-kalmus-ringmaster-technicolor-rainbow/",
+      "dominio": "acmi.net.au",
+      "titulo": "Natalie Kalmus: ringmaster of the Technicolor rainbow | ACMI",
+      "nivel": 1,
+      "excerto": "In early Hollywood, if you wanted to use the Technicolor system, you needed to hire Natalie Kalmus too. The pioneering colour supervisor defined how films looked forever.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.eastman.org/sites/default/files/technicolor/pdfs/ColorConsultants_ColorConsciousness.pdf",
+      "dominio": "eastman.org",
+      "titulo": "Natalie M. Kalmus, Color Consciousness (reimpressão, George Eastman Museum)",
+      "nivel": 1,
+      "excerto": "We must constantly practice color restraint. In the early two-color pictures, producers sometimes thought that because a process could reproduce color, they should flaunt vivid color continually before the eyes of the audience.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Contenção no uso da cor",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "eastman.org",
+      "data": "2026-11-18",
+      "notas": "Lido via ler_url.py. O texto original de Kalmus defende a contenção (restraint) e critica o abuso de cor vívida nos filmes a duas cores, que levou a resultados antinaturais e desastrosos. As outras opções (cor só em exteriores, saturação máxima, uma cor dominante) não aparecem e contradizem a defesa da contenção. O enunciado diz «maus resultados do Technicolor de duas cores»; o texto confirma isso de forma indireta («unnatural and disastrous results»).",
+      "hash_texto": "b6aaad5fac7d9a6aaa474a2a0951f1e454888786ffb43f03fe4f5bb554e2630e"
+    },
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "Confirmei no ACMI (\"unnatural and disastrous results\", \"colour restraint\") e no ensaio de Kalmus no Eastman (\"We must constantly practice color restraint\"). A explicação atribui ao ACMI e as citações coincidem. Nenhum distrator tem apoio nas fontes: «saturação máxima» é o oposto do que Kalmus critica. Sem datas nem números. | páginas lidas pelo advogado: https://www.acmi.net.au/works/100238--graphic-natalie-kalmus-technicolor-pioneer/, https://www.eastman.org/sites/default/files/technicolor/pdfs/ColorConsultants_ColorConsciousness.pdf"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "ENUNCIADO ALTERADO (o verificador cego tem de repetir): encurtado de ~135 para ~112 caracteres. Mudei a ordem das palavras e tirei a aposição «a supervisora de cor», que passou para a explicação. A pergunta é a mesma. A explicação começa agora pela resposta. Subtema afinado. Dificuldade 4 mantida.",
+      "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "Correta = índice 3. O ACMI escreve «colour restraint» (grafia britânica); no en-US usei «color restraint» dentro das aspas, como grafia americana do mesmo termo. Aspas de «não naturais e desastrosos» traduzidas como \"unnatural and disastrous\" (tradução do pt-PT, não citação literal confirmada)."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Atribuição ao ACMI, citações e opções equivalentes uma a uma. Sem pistas novas.",
+      "data": "2026-11-18",
+      "hash_texto": "fbfc9732999d108c491b168a2f6f69b8d33dd5e14dfc8fb5da4dd98583abf732"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
+  "criada_em": "2026-11-18",
+  "historico": [
+    {
+      "data": "2026-11-18",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Ângulo escolhido: o princípio estético de Kalmus (não o facto de os estúdios a contratarem). Não clássico. Só há fonte ACMI (duas páginas do mesmo domínio, contam como uma); a segunda fonte independente fica para o verificador (encyclopedia.com não menciona «restraint»; Britannica e technicolor.com recusaram/404). A atribuição ao ACMI está no enunciado/explicação; a página de coleção ACMI usa «colour supervisor», a de stories usa «consultant»/«Technicolor director»: escolhi «supervisora de cor». Sem números nem «centenas de títulos». Opções em PT traduzem «colour restraint»; ligeiro risco de o verificador achar «contenção» o único termo plausível por ser o mais sóbrio."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Nenhum quiz com este ângulo (princípio defendido após os maus resultados do sistema de duas cores). Os quizzes encontrados só perguntam qual era o papel dela. Opções sem correspondência. | provas: https://www.wayground.com/admin/quiz/650c85a8f294d002c3eec588/technicolor-history (quiz Wayground sobre Technicolor: só pergunta o papel de Kalmus, sem o ângulo do princípio defendido depois do Technicolor de duas cores); https://en.wikipedia.org/wiki/Natalie_Kalmus (fonte enciclopédica, não quiz)"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte eastman.org"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte eastman.org"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Correta = índice 3. O ACMI escreve «colour restraint» (grafia britânica); no en-US usei «color restraint» dentro das aspas, como grafia americana do mesmo termo. Aspas de «não naturais e desastrosos» traduzidas como \"unnatural and disastrous\" (tradução do pt-PT, não citação literal confirmada)."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "etiquetas": [],
+  "options_lock": "f7d3d9d6f95a9e054054ab7b3ab6c948595f3887059b3b5378293e28448dbbf3"
+}

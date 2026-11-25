@@ -31,7 +31,7 @@
   "sources": [
     "https://cultura.marinha.pt/en/museumarinha_web/multimedia_web/Pages/efemeride-tratado-de-saragoca-22abr21.aspx",
     "https://press-files.anu.edu.au/downloads/press/p66561/html/ch04s04.html",
-    "https://eve.fcsh.unl.pt/en/politics/zaragoza-treaty"
+    "https://en.wikisource.org/wiki/European_Treaties_bearing_on_the_History_of_the_United_States_and_its_Dependencies_to_1648/Document_16"
   ],
   "fontes": [
     {
@@ -62,15 +62,6 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://eve.fcsh.unl.pt/en/politics/zaragoza-treaty",
-      "dominio": "unl.pt",
-      "titulo": "The Zaragoza Treaty (Encyclopaedia of Portuguese Expansion, FCSH-NOVA)",
-      "nivel": 1,
-      "excerto": "The Portuguese Crown, in turn, agreed not to build additional fortresses in the region, and was also to pay 350,000 ducados, in exchange for which this Monarchy´s rights would be recognized.",
-      "consultada_em": "2026-11-11",
-      "papel": "verificador"
-    },
-    {
       "url": "https://cultura.marinha.pt/pt/museumarinha_web/multimedia_web/Paginas/22-abril-chegada-brasil-tratado-saragoca.aspx",
       "dominio": "marinha.pt",
       "titulo": "Museu de Marinha: Tratado de Saragoça (1529)",
@@ -78,16 +69,26 @@
       "excerto": "A Coroa espanhola cedia a sua posição naquelas ilhas a Portugal, a troco de 350 mil ducados, enquanto a Coroa portuguesa não poderia erguer mais fortalezas num raio de 20 léguas em redor da zona das Molucas.",
       "consultada_em": "2026-11-11",
       "papel": "advogado"
+    },
+    {
+      "url": "https://en.wikisource.org/wiki/European_Treaties_bearing_on_the_History_of_the_United_States_and_its_Dependencies_to_1648/Document_16",
+      "dominio": "wikisource.org",
+      "titulo": "European Treaties bearing on the History of the United States and its Dependencies to 1648, Document 16 (Treaty of Zaragoza, 1529; ed. F. G. Davenport)",
+      "nivel": 2,
+      "excerto": "8. Item, it was covenanted and agreed… that the said King of Portugal shall not build nor order built for himself, or any other, any new fortress whatever in Molucca, nor within twenty leagues of it…",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
     }
   ],
   "verificacao": {
     "verificador": {
       "resposta_texto": "Fortalezas",
       "concorda": true,
-      "confianca": "media",
-      "dominio": "unl.pt",
-      "data": "2026-11-11",
-      "notas": "A fonte não menciona o raio de 20 léguas (não confirmado por ela). Nenhuma fonte lida refere proibição de igrejas, estaleiros ou feitorias."
+      "confianca": "alta",
+      "dominio": "wikisource.org",
+      "data": "2026-11-18",
+      "notas": "Aberta e lida: transcrição do texto do tratado (edição Davenport, Carnegie Institution) na Wikisource. O nível é 2 porque é transcrição numa wiki de uma edição de fontes primárias, mas a cláusula 8 é explícita: nenhuma nova fortaleza em Maluco nem a menos de 20 léguas. O enunciado confirma-se (20 léguas, 1529). As outras opções (estaleiros, igrejas e missões, feitorias) não aparecem na cláusula. Só li o excerto da cláusula 8. Não li o tratado inteiro, por isso não excluo que outra cláusula trate de feitorias ou comércio, mas a cláusula pedida refere só fortalezas.",
+      "hash_texto": "7a8039fa0a22cdb641c953e2a935143018a4d81a50de6ece681ac36995217726"
     },
     "advogado": {
       "aprovado": true,
@@ -107,8 +108,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
+      "notas": "Os 350 000 ducados, as 20 léguas e D. João III / John III coincidem. A omissão de «raio» no en-US («within 20 leagues») não muda o sentido. «Que obra nova» está no singular e as opções estão no plural, por isso não há pista de concordância. As quatro opções coincidem uma a uma.",
+      "data": "2026-11-18",
+      "hash_texto": "1976db713392defa89ed2a467ce52d64003b89dcdc003773380281841899288e"
     }
   },
   "estado": "aprovada",
@@ -193,6 +195,24 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte wikisource.org"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "`sources` sincronizado com `fontes` (fonte do verificador mudou na repetição com hash)"
     }
   ],
   "options_lock": "87de65eca8ae5d01af8ba57f35a276cd97060c3539dd6eb25ed3897cc3bb2d66"

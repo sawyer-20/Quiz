@@ -1,0 +1,164 @@
+{
+  "id": "Q-2026-000097",
+  "topic": "Science",
+  "subtopic": "Metrologia",
+  "text": {
+    "pt-PT": {
+      "question": "A balança de Kibble, usada para realizar o quilograma a partir da constante de Planck, tinha antes outro nome. Qual?",
+      "options": [
+        "Balança de Planck",
+        "Balança de joule",
+        "Balança de watt",
+        "Balança de ampere"
+      ],
+      "explanation": "Balança de watt: chamava-se assim porque mede corrente e tensão na bobina, cujo produto se exprime em watts. Foi concebida por Bryan Kibble no NPL (1975, segundo o NIST) e hoje tem o nome do inventor."
+    },
+    "en-US": {
+      "question": "The Kibble balance, used to realize the kilogram from the Planck constant, was formerly known by another name. What?",
+      "options": [
+        "Planck balance",
+        "Joule balance",
+        "Watt balance",
+        "Ampere balance"
+      ],
+      "explanation": "Watt balance: it was so named because it measures current and voltage in the coil, whose product is expressed in watts. Bryan Kibble designed it at the NPL (1975, according to NIST), and it now bears its inventor's name."
+    }
+  },
+  "correct": 2,
+  "difficulty": 4,
+  "valid_until": null,
+  "daily_eligible": true,
+  "sources": [
+    "https://www.nist.gov/si-redefinition/kilogram/kilogram-kibble-balance"
+  ],
+  "fontes": [
+    {
+      "url": "https://www.nist.gov/si-redefinition/kilogram/kilogram-kibble-balance",
+      "dominio": "nist.gov",
+      "titulo": "Kilogram: The Kibble Balance — NIST",
+      "nivel": 1,
+      "excerto": "Named after its inventor, Bryan Kibble at the U.K.'s NPL, who conceptualized it in 1975... The instrument was originally called a \"watt\" balance because it makes measurements of both current and voltage in the coil",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.nist.gov/publications/kibble-balance-and-kilogram",
+      "dominio": "nist.gov",
+      "titulo": "The Kibble balance and the kilogram — Schlamminger e El Haddad, Comptes Rendus Physique (via NIST)",
+      "nivel": 1,
+      "excerto": "Dr. Bryan Kibble invented the watt balance in 1975... Since 2017, the watt balance is called Kibble balance to honor the inventor, who passed in 2016.",
+      "consultada_em": "2026-11-18",
+      "papel": "pesquisador"
+    },
+    {
+      "url": "https://www.bipm.org/en/mass-metrology/kibble-balance",
+      "dominio": "bipm.org",
+      "titulo": "Kibble balance - BIPM",
+      "nivel": 1,
+      "excerto": "The international metrology community renamed their moving-coil watt balances as Kibble balances in honour of the pioneering work in this field by Dr Bryan Kibble, who passed away in 2016.",
+      "consultada_em": "2026-11-18",
+      "papel": "verificador"
+    }
+  ],
+  "verificacao": {
+    "verificador": {
+      "resposta_texto": "Balança de watt",
+      "concorda": true,
+      "confianca": "alta",
+      "dominio": "bipm.org",
+      "data": "2026-11-18",
+      "notas": "O BIPM (organismo intergovernamental, nível 1) diz que as «watt balances» passaram a chamar-se «Kibble balances» em homenagem a Bryan Kibble. Balança de Planck, de ampere e de joule não são o nome anterior segundo a fonte. A fonte BIPM não é a NIST nem a de Schlamminger e El Haddad. Não abri uma segunda fonte, mas a pesquisa também mostrou o NPL e a Wikipédia a dizer o mesmo.",
+      "hash_texto": "6885fc19173c2302ab9585a3b578c37af1a4760fcd12d35b2306c6816289bd18"
+    },
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "O NIST (n1) diz «originally called a watt balance because it makes measurements of both current and voltage ... expressed in watts» e que Kibble a concebeu no NPL em 1975. O BIPM (n1) diz que a comunidade metrológica renomeou as watt balances como Kibble balances. O BIPM não tem o ano 1975. Encontrei uma segunda fonte para o ano: o artigo da Metrologia (Robinson e Schlamminger, em PDF alojado em ifsc.usp.br) diz «invented at the NPL by Bryan Kibble in 1975». O ano tem assim duas fontes e a atribuição ao NIST está correta. Sugiro acrescentar essa fonte ao campo sources, se o orquestrador a quiser. «Balança de joule» e «de ampere» são instrumentos distintos (a balança de corrente/ampere é a que a balança de watt pretendia substituir) e não foram nomes da balança de Kibble. Não derrubei. | páginas lidas pelo advogado: https://www.nist.gov/si-redefinition/kilogram/kilogram-kibble-balance, https://www.bipm.org/en/mass-metrology/kibble-balance, https://ifsc.usp.br/lavfis/wp-content/uploads/2023/01/The-watt-or-Kibble-balance-a-technique-for-implementing-the-new-SI-definition-of-the-unit-of-mass.pdf"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado e opções intactos. Explicação começa pela resposta; conteúdo igual. Dificuldade subida de 3 para 4: tema de nicho, e um público culto acertaria bem menos de metade. Subtema confirmado.",
+      "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "«balança de joule/watt/ampere» com minúscula no pt-PT; em inglês usei maiúscula nas opções (Joule/Watt/Ampere balance) por consistência de lista. Atribuição ao NIST mantida (1975)."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Resposta certa: balança de watt/Watt balance. A atribuição «1975, segundo o NIST»/«1975, according to NIST» é igual nos dois idiomas. As opções correspondem uma a uma.",
+      "data": "2026-11-18",
+      "hash_texto": "deb71ab07509acc8a739f6a194b92cc4dd35b5fe686554c78373675884420ab0"
+    }
+  },
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
+  "criada_em": "2026-11-18",
+  "historico": [
+    {
+      "data": "2026-11-18",
+      "evento": "criada",
+      "agente": "pesquisador",
+      "nota": "Ângulo: o nome original do aparelho, não a redefinição de 2019. Não clássico. As duas fontes são do mesmo domínio (nist.gov), logo contam como uma; o verificador cego deve achar fonte independente (ex. NPL, BIPM, Guardian). Divergência: a Wikipédia dá o renomeamento em junho de 2016, o artigo NIST/CR Physique diz «desde 2017»; por isso a pergunta e a explicação não dão data da mudança de nome. Distratores plausíveis, nenhum defensável (balança de ampere/joule não existem com este uso). Chemistry World devolveu 405 e Britannica 403."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "originalidade: original",
+      "agente": "originalidade",
+      "nota": "Não encontrei nenhum quiz, concurso ou app com esta pergunta nem com o mesmo conjunto de opções. O facto só aparece em artigos e na Wikipédia. Enunciado e opções originais. | provas: https://en.wikipedia.org/wiki/Kibble_balance (artigo, não quiz: antigo nome 'watt balance'); https://www.nist.gov/si-redefinition/kilogram/kilogram-kibble-balance (página institucional, não quiz)"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte npl.co.uk"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reformulada",
+      "agente": "advogado-do-diabo",
+      "nota": "reformulação do advogado (1.º ciclo): numeros: A explicação diz «inventada ... em 1975». O NIST diz que Kibble a «conceptualized» em 1975. O NPL diz apenas «1970s» e q"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte bipm.org"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "«balança de joule/watt/ampere» com minúscula no pt-PT; em inglês usei maiúscula nas opções (Joule/Watt/Ampere balance) por consistência de lista. Atribuição ao NIST mantida (1975)."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
+    }
+  ],
+  "etiquetas": [],
+  "options_lock": "7b2e6b32b4396cefd964ce5a75d3c82250c6d7f18ec9cfb0f61b0fc7682ea862"
+}

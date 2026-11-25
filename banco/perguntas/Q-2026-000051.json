@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000051",
   "topic": "Movies",
-  "subtopic": "Óscares / cinema",
+  "subtopic": "Óscares: a estatueta",
   "text": {
     "pt-PT": {
       "question": "A estatueta dos Óscares mostra um cavaleiro com uma espada, em pé sobre que objeto?",
@@ -11,11 +11,21 @@
         "Uma coroa de louros",
         "Um rolo de filme"
       ],
-      "explanation": "O cavaleiro assenta sobre um rolo de filme. Segundo a Academia, os cinco raios do rolo representam os cinco ramos originais da Academia: atores, realizadores, produtores, técnicos e argumentistas."
+      "explanation": "Um rolo de filme. Segundo a Academia, os cinco raios do rolo representam os cinco ramos originais da Academia: atores, realizadores, produtores, técnicos e argumentistas."
+    },
+    "en-US": {
+      "question": "The Oscar statuette shows a knight holding a sword, standing on what object?",
+      "options": [
+        "A theater mask",
+        "A globe",
+        "A laurel wreath",
+        "A reel of film"
+      ],
+      "explanation": "A reel of film. According to the Academy, the reel's five spokes represent the Academy's five original branches: actors, directors, producers, technicians, and writers."
     }
   },
   "correct": 3,
-  "difficulty": 1,
+  "difficulty": 2,
   "valid_until": null,
   "daily_eligible": true,
   "sources": [
@@ -51,13 +61,22 @@
       "papel": "advogado"
     },
     {
-      "url": "https://press-files.oscars.org/sites/default/files/2026-01/A%20BRIEF%20HISTORY%20OF%20THE%20OSCAR.pdf",
+      "url": "https://www.oscars.org/sites/oscars/files/90aa_oscar_history.pdf",
       "dominio": "oscars.org",
-      "titulo": "A Brief History of the Oscar (Academy of Motion Picture Arts and Sciences, 2026)",
+      "titulo": "A Brief History of the Oscar (Academy of Motion Picture Arts and Sciences)",
       "nivel": 1,
-      "excerto": "In the finished design, the figure of the knight was streamlined, and the film reel was moved beneath its feet. The now iconic statuette was born.",
-      "consultada_em": "2026-11-12",
+      "excerto": "Cedric Gibbons sketched the figure of a knight gripping a sword, standing in front of a reel of film. The five spokes of the reel stood for the original five branches of the Academy",
+      "consultada_em": "2026-11-18",
       "papel": "verificador"
+    },
+    {
+      "url": "https://www.oscars.org/sites/oscars/files/88aa_fact_sheet.pdf",
+      "dominio": "oscars.org",
+      "titulo": "88th Oscars Fact Sheet (Academy of Motion Picture Arts and Sciences)",
+      "nivel": 1,
+      "excerto": "A stylized figure of a knight holding a crusader's sword standing on a reel of film with five spokes signifying the five original branches of the Academy (actors, directors, producers, technicians and writers)",
+      "consultada_em": "2026-11-18",
+      "papel": "advogado"
     }
   ],
   "verificacao": {
@@ -66,15 +85,36 @@
       "concorda": true,
       "confianca": "alta",
       "dominio": "oscars.org",
-      "data": "2026-11-12",
-      "notas": "Fonte oficial da Academia, lida. O cavaleiro segura uma espada e está sobre um rolo de filme (cinco raios = cinco ramos originais). Globo, máscara de teatro e coroa de louros não aparecem como base da estatueta."
+      "data": "2026-11-18",
+      "notas": "Li o PDF oficial da Academia (a página oscars.org/oscars/statuette devolveu 403 no leitor, mas a pesquisa mostra-a a dizer o mesmo: cavaleiro sobre um rolo de filme). Na versão final «the film reel moved beneath its feet». Coroa de louros, máscara de teatro e globo não aparecem no desenho. Fonte distinta das proibidas (history.com, nbcwashington.com).",
+      "hash_texto": "cf94e2fd54f563face64b82db0f1ed9c54fb6d8631d3f24bd1239b742c69456e"
     },
-    "advogado": null,
-    "editor": null
+    "advogado": {
+      "aprovado": true,
+      "data": "2026-11-18",
+      "notas": "A página oscars.org/oscars/statuette deu 403 (não contada como lida). O problema da retoma (em pé sobre contra diante de) fica resolvido por uma fonte de nível 1 que o verificador não usou: o 88th Oscars Fact Sheet da Academia diz 'A stylized figure of a knight holding a crusader's sword standing on a reel of film with five spokes signifying the five original branches of the Academy (actors, directors, producers, technicians and writers)'. O PDF 90aa diz 'standing in front of a reel of film' no esboço e 'the film reel moved beneath its feet' na versão final. Os dois textos são compatíveis com a resposta. Os distratores (máscara, globo, coroa de louros) não têm apoio. Recomendo juntar o fact sheet 88aa (https://www.oscars.org/sites/oscars/files/88aa_fact_sheet.pdf, nível 1) às fontes da pergunta. Os cinco ramos estão em duas fontes de acordo (Academia e history.com/NBC). A explicação atribui à Academia e cabe nos limites. | páginas lidas pelo advogado: https://www.oscars.org/sites/oscars/files/90aa_oscar_history.pdf, https://www.oscars.org/sites/oscars/files/88aa_fact_sheet.pdf"
+    },
+    "editor": {
+      "aprovado": true,
+      "originalidade_ok": true,
+      "alteracao_factual": false,
+      "notas": "Enunciado inalterado. A explicação começa agora pela resposta e foi encurtada sem acrescentar nada. Dificuldade subida de 1 para 2: muita gente conhece a estatueta, mas nem toda a gente sabe o que tem aos pés. Subtema afinado.",
+      "data": "2026-11-18"
+    },
+    "tradutor": {
+      "data": "2026-11-18",
+      "notas": "Correta = índice 3. «raios do rolo» traduzido por «spokes». «Academia» = the Academy (of Motion Picture Arts and Sciences), sem expandir o nome. «theater» em grafia americana."
+    },
+    "conferente": {
+      "aprovado": true,
+      "notas": "Atribuição à Academia e lista dos cinco ramos equivalentes. «Óscares» está correto em pt-PT e «theater» em en-US.",
+      "data": "2026-11-18",
+      "hash_texto": "c2c2f212efbfe82cca38ce9e390f114e25e47a93b480a0eeaf47869aa6d4e53e"
+    }
   },
-  "estado": "rejeitada",
-  "motivo_rejeicao": "esgotou o ciclo de correção: 2.ª passagem do advogado ainda reprovou («em pé sobre» vs «diante de» não confirmado pela fonte lida)",
-  "lote": "lote-2026-11-12-bilingue",
+  "estado": "aprovada",
+  "motivo_rejeicao": null,
+  "lote": "lote-2026-11-18-retomas",
   "criada_em": "2026-11-12",
   "historico": [
     {
@@ -112,9 +152,56 @@
       "evento": "rejeitada",
       "agente": "advogado-do-diabo",
       "nota": "esgotou o ciclo de correção: 2.ª passagem do advogado ainda reprovou («em pé sobre» vs «diante de» não confirmado pela fonte lida)"
+    },
+    {
+      "data": "2026-11-17",
+      "evento": "originalidade reavaliada (definição de 17/11): original",
+      "agente": "originalidade",
+      "nota": "original (definição de 17/11): o enunciado 'em pé sobre que objeto' não aparece em quizzes; os quizzes encontrados perguntam o que a estatueta segura ou representa. Entra no lote 5 como retoma única (regra 15), sem repetir a pesquisa."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte oscars.org"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "reaberta como retoma única do lote 5 (originalidade reavaliada com a definição de 17/11)",
+      "agente": "orquestrador",
+      "nota": "sem repetir a pesquisa; segue para o verificador cego, advogado, editor, tradutor e conferente"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada pelo advogado do diabo",
+      "agente": "advogado-do-diabo",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Correta = índice 3. «raios do rolo» traduzido por «spokes». «Academia» = the Academy (of Motion Picture Arts and Sciences), sem expandir o nome. «theater» em grafia americana."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "aprovada por aprovar.py",
+      "agente": "aprovar.py",
+      "nota": "validar.py sem erros"
     }
   ],
-  "etiquetas": [
-    "classico"
-  ]
+  "etiquetas": [],
+  "options_lock": "58ab2fddb7e96a7860b2d34fb49f1e2afdc2f7e99574651355179b6fa683f659"
 }

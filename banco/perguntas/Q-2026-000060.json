@@ -52,12 +52,12 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://www.nationalgeographic.com/history/article/indus-valley-egalitarian-ancient-society-mohenjo-daro",
-      "dominio": "nationalgeographic.com",
-      "titulo": "Did this ancient society thrive without elites? (National Geographic)",
+      "url": "https://www.sciencenewstoday.org/mohenjo-daro-archaeology-of-a-lost-city",
+      "dominio": "sciencenewstoday.org",
+      "titulo": "Mohenjo-Daro: Archaeology of a Lost City (Science News Today)",
       "nivel": 2,
-      "excerto": "Mohenjo Daro, one of the major centers of the Indus Valley—or Harappan—civilization, was scrupulously planned, featuring water drainage systems, organized city streets, and structures made of standardized bricks.",
-      "consultada_em": "2026-11-13",
+      "excerto": "Its streets ran in straight lines, intersecting at right angles, creating a grid system... filled with streets laid out in grids, advanced drainage systems, massive granaries, and public baths.",
+      "consultada_em": "2026-11-18",
       "papel": "verificador"
     }
   ],
@@ -66,9 +66,10 @@
       "resposta_texto": "Mohenjo-Daro",
       "concorda": true,
       "confianca": "media",
-      "dominio": "nationalgeographic.com",
-      "data": "2026-11-13",
-      "notas": "Li a National Geographic (nível 2): Mohenjo Daro é cidade do Indo, planeada, com drenagem e ruas organizadas, escavada desde os anos 1920. Li também harappa.com (Harvard/Marshall 1931), que dá as primeiras escavações em 1922-27. As outras opções ficam excluídas: Ur e Babilónia são mesopotâmicas e Cnossos é minoica (Creta), nenhuma é da civilização do Indo. Não consegui abrir uma fonte de nível 1 (Britannica e World History devolveram 403). Os pormenores «ângulo reto» e «1922 como descoberta» vêm de resultados de pesquisa (Britannica Kids, harappa.com) que não consegui abrir. Há atribuição variável da descoberta (Banerji identificou o sítio em 1922; Marshall dirigiu as escavações), mas todas apontam para 1922 e o mesmo local."
+      "dominio": "sciencenewstoday.org",
+      "data": "2026-11-18",
+      "notas": "Não consegui abrir a Britannica nem outra fonte de nível 1 (403). Li o Science News Today (nível 2, fraco), que dá as ruas em ângulo reto e os esgotos. A data de 1922 vem do Atlas Anatolia (https://atlasanatolia.com/site/mohenjo-daro, 'Discovered 1922 by R. D. Banerji'), que também é fraco, e de resultados de pesquisa concordantes. Cnossos (Creta minoica), Babilónia e Ur (Mesopotâmia) não são da civilização do Indo: exclusão por inferência. As fontes são fracas e a data só tem duas fontes de nível 2 fraco. Convém uma fonte de nível 1, que não é o UNESCO nem a Archaeology Magazine.",
+      "hash_texto": "ef5c20b751f481c9d165e720e9b12c0085fd4a7e1db50e932ad1ded755fe697f"
     },
     "advogado": {
       "aprovado": true,
@@ -88,8 +89,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "Atribuição à UNESCO, data de 1922 e opções equivalentes.",
-      "data": "2026-11-13"
+      "notas": "A atribuição à UNESCO, a data de 1922 e o Paquistão são iguais nos dois idiomas. As opções Babilónia/Babylon, Mohenjo-Daro, Cnossos/Knossos e Ur correspondem-se. Não há pistas novas.",
+      "data": "2026-11-18",
+      "hash_texto": "898f21648ab2e463c3719bfbfa00d21690666fb40e8364f8bf443aa3a542dc79"
     }
   },
   "estado": "aprovada",
@@ -168,6 +170,18 @@
       "evento": "verificação repetida (regra 23)",
       "agente": "verificador-cego",
       "nota": "repetição do verificador cego (relatório anterior malformado): respondeu Mohenjo-Daro, confiança média; fonte doam.gov.pk (n1) confirma ruas em ângulo reto e drenagem, mas não o ano de 1922 (1922 confirmado por UNESCO, Archaeology e Harappa.com noutras passagens)"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte sciencenewstoday.org"
     }
   ],
   "etiquetas": [],

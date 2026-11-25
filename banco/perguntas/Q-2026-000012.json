@@ -1,7 +1,7 @@
 {
   "id": "Q-2026-000012",
   "topic": "World History",
-  "subtopic": "Japão – período Edo e comércio com o Ocidente (Dejima)",
+  "subtopic": "Dejima e o Japão isolado",
   "text": {
     "pt-PT": {
       "question": "A ilha artificial de Dejima, em Nagasaki, foi construída na década de 1630 para confinar mercadores de que nacionalidade?",
@@ -11,7 +11,7 @@
         "Neerlandeses",
         "Chineses"
       ],
-      "explanation": "Portugueses: o xogunato começou a construir Dejima em 1634 para os confinar e travar o cristianismo. Em 1639 foram proibidos de vir ao Japão e, em 1641, a feitoria neerlandesa de Hirado mudou-se para a ilha, onde ficou mais de dois séculos."
+      "explanation": "Portugueses: o xogunato começou a construir Dejima em 1634 para os confinar e travar o cristianismo. Em 1639 foram proibidos de vir ao Japão e, em 1641, a feitoria neerlandesa de Hirado mudou-se para a ilha."
     },
     "en-US": {
       "question": "The artificial island of Dejima in Nagasaki was built in the 1630s to confine merchants of which nationality?",
@@ -21,7 +21,7 @@
         "Dutch",
         "Chinese"
       ],
-      "explanation": "Portuguese: the shogunate began building Dejima in 1634 to confine them and curb Christianity. In 1639 they were banned from Japan, and in 1641 the Dutch trading post at Hirado moved to the island, where it stayed for over two centuries."
+      "explanation": "Portuguese: the shogunate began building Dejima in 1634 to confine them and curb Christianity. In 1639 they were banned from Japan, and in 1641 the Dutch trading post at Hirado moved to the island."
     }
   },
   "correct": 1,
@@ -30,7 +30,7 @@
   "daily_eligible": true,
   "sources": [
     "https://nagasakidejima.jp/history/",
-    "https://www.mlit.go.jp/tagengo-db/common/001564006.pdf"
+    "https://www.japanistry.com/dejima/"
   ],
   "fontes": [
     {
@@ -52,12 +52,12 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://www.mlit.go.jp/tagengo-db/common/001564006.pdf",
-      "titulo": "Dejima Dutch Trading Post (MLIT, Japão)",
-      "nivel": 1,
-      "excerto": "Dejima—an artificial island constructed between 1634 and 1636—was their solution. The Portuguese merchants would be concentrated in one place, isolated from the general population",
-      "dominio": "mlit.go.jp",
-      "consultada_em": "2026-11-05",
+      "url": "https://www.japanistry.com/dejima/",
+      "dominio": "japanistry.com",
+      "titulo": "Dejima Island | Japanistry",
+      "nivel": 2,
+      "excerto": "By 1634, the third shogun, Tokugawa Iemitsu, ordered the construction of Dejima to confine Portuguese traders ... In 1641, they [the Dutch] were ordered to move their factory from Hirado to ... Dejima.",
+      "consultada_em": "2026-11-18",
       "papel": "verificador"
     }
   ],
@@ -65,10 +65,11 @@
     "verificador": {
       "resposta_texto": "Portugueses",
       "concorda": true,
-      "confianca": "alta",
-      "dominio": "mlit.go.jp",
-      "data": "2026-11-05",
-      "notas": "Fonte oficial japonesa: construída 1634–1636 para os portugueses; neerlandeses só em 1641. Nota: a fama neerlandesa de Dejima é armadilha, não segunda resposta."
+      "confianca": "media",
+      "dominio": "japanistry.com",
+      "data": "2026-11-18",
+      "notas": "Só abri uma fonte, de nível 2 (um site de viagens que não é institucional). A pesquisa mostrou o mesmo noutras fontes, sem as abrir: construção a partir de 1634, portugueses expulsos em 1639, neerlandeses em 1641. Não consegui abrir uma fonte de nível 1 (o Britannica deu 403 e outros hosts não resolvem). Ingleses: sem relação com Dejima. Chineses: tiveram o seu bairro em Nagasaki, mas Dejima não foi construída para eles. Esta pergunta merece uma segunda fonte de nível 1 antes de aprovar. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Neerlandeses é a opção que muita gente defende, porque os neerlandeses foram quem ocupou Dejima durante mais de 200 anos (desde 1641). O enunciado, porém, pergunta para quem foi construída na década de 1630, e a fonte diz que foi para confinar os portugueses. Os neerlandeses só lá entraram em 1641, depois de os portugueses serem expulsos. Quem ler «mercadores confinados em Dejima» sem ter em conta a data pode escolher Neerlandeses. Aconselho o editor a manter «construída na década de 1630» e a olhar para o risco de leitura.",
+      "hash_texto": "3300242e7f525bc3601b266a00bc02d9c5b4a0419ca5f1192788f7808d14c52c"
     },
     "advogado": {
       "aprovado": true,
@@ -79,17 +80,18 @@
       "aprovado": true,
       "originalidade_ok": true,
       "alteracao_factual": false,
-      "notas": "explicação encurtada para 1–2 frases (migração v2); sem factos novos",
-      "data": "2026-11-11"
+      "notas": "Retirada só a cláusula «onde ficou mais de dois séculos». O resto da explicação fica igual e cabe na cronologia do site de Dejima (1634, 1639, 1641). Enunciado e opções intocados. Cerca de 205 caracteres, 2 frases.",
+      "data": "2026-11-18"
     },
     "tradutor": {
-      "data": "2026-11-11",
-      "notas": "xogunato = shogunate; neerlandeses = Dutch; feitoria = trading post."
+      "data": "2026-11-18",
+      "notas": "Pergunta e opções mantidas exatamente como estavam. Explicação: retirada a cláusula final 'where it stayed for over two centuries', que o novo pt-PT já não tem. 197 caracteres, 2 frases."
     },
     "conferente": {
       "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
+      "notas": "As datas (1630s, 1634, 1639, 1641) coincidem. As quatro nacionalidades correspondem uma a uma pela mesma ordem. O plural masculino de «mercadores» concorda com todas as opções. Regra 28 sem problemas.",
+      "data": "2026-11-18",
+      "hash_texto": "bc62d9524bb17e1ccda841667dbb6203f8fa22d96a0f58fa03be85a446de558a"
     }
   },
   "estado": "aprovada",
@@ -186,6 +188,36 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "revista pelo editor",
+      "agente": "editor",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "traduzida (en-US)",
+      "agente": "tradutor",
+      "nota": "Pergunta e opções mantidas exatamente como estavam. Explicação: retirada a cláusula final 'where it stayed for over two centuries', que o novo pt-PT já não tem. 197 caracteres, 2 frases."
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte japanistry.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "`sources` sincronizado com `fontes` (fonte do verificador mudou na repetição com hash)"
     }
   ],
   "etiquetas": [

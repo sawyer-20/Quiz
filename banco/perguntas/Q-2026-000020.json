@@ -62,12 +62,12 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://dbcs.rutgers.edu/all-scholars/mommsen-christian-matthias-theodor",
-      "dominio": "rutgers.edu",
-      "titulo": "MOMMSEN, Christian Matthias Theodor (Rutgers, Dictionary of Biographical/Cultural Scholars)",
-      "nivel": 1,
-      "excerto": "In 1902 the Römische Geschichte brought its author the Nobel Prize for Literature; he was the first German and has been the only historian to win the prize, except for Winston Churchill.",
-      "consultada_em": "2026-11-12",
+      "url": "https://www.encyclopedia.com/arts/culture-magazines/mommsen-theodor-30-november-1817-1-november-1903",
+      "dominio": "encyclopedia.com",
+      "titulo": "Mommsen, Theodor (Nobel Prize Laureates in Literature, Part 3) - Encyclopedia.com",
+      "nivel": 2,
+      "excerto": "Theodor Mommsen's Römische Geschichte (1854-1885; translated as the History of Rome, 1862-1866, 1894) was considered such a monumental work that it induced the Swedish Academy to award him the prize.",
+      "consultada_em": "2026-11-18",
       "papel": "verificador"
     }
   ],
@@ -75,10 +75,11 @@
     "verificador": {
       "resposta_texto": "Uma história de Roma",
       "concorda": true,
-      "confianca": "alta",
-      "dominio": "rutgers.edu",
-      "data": "2026-11-12",
-      "notas": "Reservas: Rutgers é nível 1 académico mas não primário; citação da Academia só vista em pesquisa."
+      "confianca": "media",
+      "dominio": "encyclopedia.com",
+      "data": "2026-11-18",
+      "notas": "Aberto e lido. Confirma 1902, historiador, Römische Geschichte (História de Roma) como a obra que levou ao prémio. Só uma fonte de nível 2 lida (a Britannica deu 403; a pesquisa indicou a citação «with special reference to his monumental work A History of Rome», mas não a li diretamente). Exclusão das outras: nenhuma fonte liga o prémio a uma história da Grécia, a um romance sobre César ou a uma biografia de Augusto; o artigo até sublinha que não foi a um escritor de ficção. Nota para quem decide: «história de Roma» não é «romance histórico sobre César»; o excerto confirma que a obra é histórica, não romance.",
+      "hash_texto": "969dded249a8c5ede7d26a25d10af958b06630f95b3585a2f48e187cd9f0603d"
     },
     "advogado": {
       "aprovado": true,
@@ -98,8 +99,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "conferente: mesmo facto, mesma resposta, opções equivalentes",
-      "data": "2026-11-12"
+      "notas": "Citação, atribuição à Academia Sueca e opções equivalentes uma a uma. Sem pista gramatical: «obra» e «work» são neutros quanto às opções. Explicação com 2 frases.",
+      "data": "2026-11-18",
+      "hash_texto": "ae5246227af0ec567af71786d8ae607e606e6052da2ec7a0ae065464e29bd138"
     }
   },
   "estado": "aprovada",
@@ -226,6 +228,18 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte encyclopedia.com"
     }
   ],
   "etiquetas": [

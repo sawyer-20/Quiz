@@ -27,7 +27,7 @@ from pathlib import Path
 RAIZ = Path(__file__).resolve().parent.parent
 BANCO = RAIZ / "banco" / "perguntas"
 sys.path.insert(0, str(RAIZ / "scripts"))
-from validar import EVENTO_APROVACAO, opcoes_lock, quota_classicos  # noqa: E402
+from validar import EVENTO_APROVACAO, impressao_cego, impressao_completa, opcoes_lock, quota_classicos  # noqa: E402
 
 
 def caminho(arg: str) -> Path:
@@ -64,6 +64,21 @@ def aprovar(f: Path) -> bool:
     q = json.loads(f.read_text(encoding="utf-8"))
     if q.get("estado") != "em_verificacao":
         print(f"RECUSADA {q.get('id')}: estado '{q.get('estado')}' (só se aprova a partir de em_verificacao)")
+        return False
+    # Regra 24: impressão digital do texto que o verificador e o conferente viram.
+    v = q.get("verificacao") or {}
+    for nome, calc in (("verificador", impressao_cego), ("conferente", impressao_completa)):
+        h = (v.get(nome) or {}).get("hash_texto")
+        if not h:
+            print(f"NÃO APROVADA {q['id']}: o veredicto do {nome} não tem impressão digital do texto (regra 24); repete o passo")
+            return False
+        if h != calc(q):
+            print(f"NÃO APROVADA {q['id']}: o texto mudou depois do {nome} (a impressão digital não bate); repete o passo a partir daí (regra 24)")
+            return False
+    # Regra 26: sem registo de tempos do lote não há aprovação.
+    tempos = RAIZ / "relatorios" / f"{q.get('lote')}-tempos.csv"
+    if not tempos.exists() or len(tempos.read_text(encoding="utf-8").strip().splitlines()) < 2:
+        print(f"NÃO APROVADA {q['id']}: sem registo de tempos em {tempos.relative_to(RAIZ)} (regra 26): corre scripts/registar_tempo.py para cada invocação")
         return False
     c = deepcopy(q)
     c["estado"] = "aprovada"

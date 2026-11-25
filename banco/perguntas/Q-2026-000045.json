@@ -34,7 +34,7 @@
   "sources": [
     "https://visit.uc.pt/pt/space-list/joanina",
     "https://www.dn.pt/arquivo/diario-de-noticias/biblioteca-joanina-gasta-fortuna-para-nao-deixar-os-livros-morrer.html",
-    "https://www.noticiasdecoimbra.pt/ja-conhece-os-guardioes-noturnos-do-tesouro-da-biblioteca-joanina-de-coimbra/"
+    "https://www.portugal.com/location/biblioteca-joanina-the-oldest-library-in-portugal/"
   ],
   "fontes": [
     {
@@ -56,12 +56,12 @@
       "papel": "pesquisador"
     },
     {
-      "url": "https://www.noticiasdecoimbra.pt/ja-conhece-os-guardioes-noturnos-do-tesouro-da-biblioteca-joanina-de-coimbra/",
-      "dominio": "noticiasdecoimbra.pt",
-      "titulo": "Já conhece os guardiões noturnos do tesouro da Biblioteca Joanina de Coimbra? (Notícias de Coimbra)",
+      "url": "https://www.portugal.com/location/biblioteca-joanina-the-oldest-library-in-portugal/",
+      "dominio": "portugal.com",
+      "titulo": "Biblioteca Joanina – The Oldest Library in Portugal (Portugal.com)",
       "nivel": 2,
-      "excerto": "As suas fezes poderiam causar problemas. A solução dos bibliotecários [...] consiste em cobrir à noite as mesas do século XVIII com tecido feito de pele de animal. Posteriormente, todas as manhãs, eles limpam o chão.",
-      "consultada_em": "2026-11-11",
+      "excerto": "Tables are shielded with leather every evening to protect against damage from the bats' droppings.",
+      "consultada_em": "2026-11-18",
       "papel": "verificador"
     }
   ],
@@ -70,9 +70,10 @@
       "resposta_texto": "Dos dejetos dos morcegos que lá vivem",
       "concorda": true,
       "confianca": "media",
-      "dominio": "noticiasdecoimbra.pt",
-      "data": "2026-11-11",
-      "notas": "Jornal local (n2). Fonte diz «pele de animal» e «à noite»; nenhuma fonte oficial lida confirma «couro». Pó, luz solar e humidade não aparecem como motivo. uc.pt proibido."
+      "dominio": "portugal.com",
+      "data": "2026-11-18",
+      "notas": "Abertos e lidos: Portugal.com (guia turístico, nível 2 fraco), Flagra.pt ('No fim de cada dia, os funcionários cobrem as mesas com panos de couro para protegê-las dos dejectos') e My Modern Met ('purchased large leather sheets from Russia to protect its desks from bat droppings throughout the night', citando a biblioteca). Concordam entre si, mas são todos secundários e de turismo. A Smithsonian abriu-se mas a passagem não aparece no texto lido (a página lida tinha 5935 caracteres). Fonte oficial da UC proibida. Excluídas: pó dos visitantes, luz solar e humidade do Mondego, que nenhuma fonte refere.",
+      "hash_texto": "b6a6daf3b3a971256b6a865c84c26b234f609db1fd6ddf6815894e5bac694e45"
     },
     "advogado": {
       "aprovado": true,
@@ -92,8 +93,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "",
-      "data": "2026-11-11"
+      "notas": "Texto equivalente nos dois idiomas. Atribuição «Segundo a Universidade de Coimbra» e «According to the University of Coimbra» iguais. Concordância correta com «proteger de» nas quatro opções. Regra 28 sem problemas. Enunciado sem a palavra «morcegos».",
+      "data": "2026-11-18",
+      "hash_texto": "65249ae604d17719febae496e01f30b3bd049ee2147194de16588d5a78cb68de"
     }
   },
   "estado": "aprovada",
@@ -172,6 +174,24 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte portugal.com"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "correção de formato",
+      "agente": "orquestrador",
+      "nota": "`sources` sincronizado com `fontes` (fonte do verificador mudou na repetição com hash)"
     }
   ],
   "options_lock": "f5c91ee6cd9d2d108637311266383802187be713815d7cd5dce071e2b437aa36"

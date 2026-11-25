@@ -29,13 +29,13 @@ PAPEIS = {"pesquisador", "verificador", "advogado", "auditor", "sentinela", "tri
 OBRIGATORIOS = ["id", "topic", "text", "correct", "difficulty", "daily_eligible", "valid_until",
                 "sources", "fontes", "verificacao", "estado", "motivo_rejeicao", "lote",
                 "criada_em", "historico"]
-OPCIONAIS = ["etiquetas", "subtopic", "markets", "options_lock"]
+OPCIONAIS = ["etiquetas", "subtopic", "markets", "options_lock", "confirmacao_pendente"]
 CAMPOS_FONTE = ["url", "dominio", "titulo", "nivel", "excerto", "consultada_em", "papel"]
 
 # Etiquetas permitidas. "classico": facto muito conhecido (já usado noutros quizzes),
 # admitido com enunciado próprio; nunca em dificuldade 4 ou 5. Quota: no máximo 20% das
 # perguntas aprovadas e publicadas do banco, aplicada a partir de 100 perguntas.
-ETIQUETAS = {"classico", "caminho_leve"}
+ETIQUETAS = {"classico"}
 QUOTA_CLASSICOS = 0.20       # máximo de clássicos no banco (aprovadas + publicadas)
 BANCO_MINIMO_QUOTA = 100     # a quota só bloqueia a partir de 100 perguntas; abaixo, só se mede
 EVENTO_APROVACAO = "aprovada por aprovar.py"
@@ -110,6 +110,20 @@ def opcoes_lock(p: dict) -> str:
     t = p.get("text", {})
     base = {i: t.get(i, {}).get("options") for i in IDIOMAS}
     return hashlib.sha256(json.dumps(base, ensure_ascii=False, sort_keys=True).encode("utf-8")).hexdigest()
+
+def impressao_cego(p: dict) -> str:
+    """Impressão digital do que o verificador cego vê: o enunciado pt-PT e o conjunto das opções
+    (a ordem das opções não conta: o verificador vê-as baralhadas de novo)."""
+    t = p.get("text", {}).get("pt-PT", {})
+    base = {"question": t.get("question"), "options": sorted(t.get("options") or []), "correct": p.get("correct")}
+    return hashlib.sha256(json.dumps(base, ensure_ascii=False, sort_keys=True).encode("utf-8")).hexdigest()
+
+
+def impressao_completa(p: dict) -> str:
+    """Impressão digital do que o conferente vê: os dois textos completos e o índice da certa."""
+    base = {"text": {i: p.get("text", {}).get(i) for i in IDIOMAS}, "correct": p.get("correct")}
+    return hashlib.sha256(json.dumps(base, ensure_ascii=False, sort_keys=True).encode("utf-8")).hexdigest()
+
 
 # Domínios proibidos como fonte (regras/fontes.md). Qualquer domínio com "quiz" ou
 # "trivia" no nome também é recusado.
@@ -291,6 +305,16 @@ def validar_pergunta(p: dict) -> tuple[list[str], list[str]]:
     if not isinstance(p["difficulty"], int) or isinstance(p["difficulty"], bool) or not 1 <= p["difficulty"] <= 5:
         erros.append("difficulty tem de ser um inteiro de 1 a 5")
 
+    # Confirmação pendente: não entra em versão pública nem no Daily 10
+    if "confirmacao_pendente" in p:
+        if not isinstance(p["confirmacao_pendente"], bool):
+            erros.append("confirmacao_pendente tem de ser true ou false")
+        elif p["confirmacao_pendente"] is True:
+            if estado == "publicada":
+                erros.append("pergunta com confirmacao_pendente não pode estar publicada")
+            if p.get("daily_eligible") is True:
+                erros.append("pergunta com confirmacao_pendente não pode ser do Daily 10")
+
     # Tempo
     if not isinstance(p["daily_eligible"], bool):
         erros.append("daily_eligible tem de ser true ou false")
@@ -392,14 +416,7 @@ def validar_pergunta(p: dict) -> tuple[list[str], list[str]]:
             erros.append("aprovada sem concordância do verificador às cegas")
         elif ver.get("confianca") == "baixa":
             erros.append("aprovada com confiança baixa do verificador")
-        if v.get("caminho_leve") is True:
-            if p.get("difficulty") != 1:
-                erros.append("caminho leve só vale para dificuldade 1")
-            if "caminho_leve" not in (p.get("etiquetas") or []):
-                erros.append("caminho leve sem a etiqueta 'caminho_leve'")
-            if not any(f.get("papel") == "pesquisador" and f.get("nivel") == 1 for f in p.get("fontes", [])):
-                erros.append("caminho leve exige fonte de nível 1 do pesquisador")
-        elif not adv or adv.get("aprovado") is not True:
+        if not adv or adv.get("aprovado") is not True:
             erros.append("aprovada sem aprovação do advogado do diabo")
         if not edi or edi.get("aprovado") is not True:
             erros.append("aprovada sem aprovação do editor")
@@ -421,6 +438,15 @@ def validar_pergunta(p: dict) -> tuple[list[str], list[str]]:
             erros.append("aprovada sem options_lock: só o scripts/aprovar.py grava as opções aprovadas")
         elif lock != opcoes_lock(p):
             erros.append("o texto das opções mudou depois da aprovação (options_lock não bate)")
+        # Impressão digital (regra 24): o texto final tem de ser o que o verificador e o conferente viram.
+        # Perguntas aprovadas antes desta regra não têm a impressão: só aviso.
+        ver = v.get("verificador") if isinstance(v.get("verificador"), dict) else {}
+        for nome, reg, calc in (("verificador", ver, impressao_cego), ("conferente", conf if isinstance(conf, dict) else {}, impressao_completa)):
+            h = reg.get("hash_texto")
+            if not h:
+                avisos.append(f"aprovada sem impressão digital do texto no {nome} (aprovada antes da regra 24)")
+            elif h != calc(p):
+                erros.append(f"o texto mudou depois do {nome}: a impressão digital do veredicto não bate com o texto atual (regra 24)")
     if estado == "rejeitada" and not (isinstance(p["motivo_rejeicao"], str) and p["motivo_rejeicao"].strip()):
         erros.append("pergunta rejeitada sem motivo_rejeicao")
     if estado == "suspensa" and not (isinstance(p["motivo_rejeicao"], str) and p["motivo_rejeicao"].strip()):

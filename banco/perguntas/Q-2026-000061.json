@@ -65,8 +65,8 @@
       "dominio": "ebsco.com",
       "titulo": "Segrè Identifies the First Artificial Element (EBSCO Research Starters)",
       "nivel": 2,
-      "excerto": "Emilio Gino Segrè positively identified and characterized the first human-made chemical element, technetium, atomic number 43.",
-      "consultada_em": "2026-11-12",
+      "excerto": "Emilio Gino Segrè positively identified and characterized the first human-made chemical element, technetium, atomic number 43. LOCALE Palermo, Italy",
+      "consultada_em": "2026-11-18",
       "papel": "verificador"
     }
   ],
@@ -74,10 +74,11 @@
     "verificador": {
       "resposta_texto": "Tecnécio",
       "concorda": true,
-      "confianca": "alta",
+      "confianca": "media",
       "dominio": "ebsco.com",
-      "data": "2026-11-12",
-      "notas": "Duas fontes lidas de acordo (EBSCO e Springer, Eur. J. Nucl. Med. 1996). As datas dos outros elementos vêm do conhecimento prévio do verificador, não de fonte lida."
+      "data": "2026-11-18",
+      "notas": "Aberta e lida só esta fonte (nível 2). Confirma 1937, Palermo e o tecnécio como primeiro elemento artificial. O nome Perrier não aparece nesse texto. Segundo a pesquisa, Perrier e Segrè em 1937 em Palermo; essa parte não foi lida numa fonte aberta. Astato (1940), frâncio (1939, natural) e promécio (1945) ficam excluídos só por inferência, sem excerto lido. A Britannica devolveu 403 e o C&EN redirecionou para a página inicial. Falta uma segunda fonte aberta que nomeie Perrier.",
+      "hash_texto": "ab95de2af885da1f0afffb45389f9c7bd99a5cfefa76bca244a2b32c60d7f614"
     },
     "advogado": {
       "aprovado": true,
@@ -97,8 +98,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "Equivalente. Números, nomes, datas e etimologia coincidem. Pontuação americana correta (vírgula dentro das aspas).",
-      "data": "2026-11-13"
+      "notas": "Perrier e Segrè, 1937, o n.º 43 e a etimologia grega são iguais nos dois idiomas. As opções Astato/Astatine, Tecnécio/Technetium, Promécio/Promethium e Frâncio/Francium correspondem-se. A palavra «artificial» aparece só na explicação e a pergunta já usa «artificialmente» nos dois idiomas, por isso não há pista nova.",
+      "data": "2026-11-18",
+      "hash_texto": "3a6250080d64fdeb7f95723a3931c08d02a996535e48a250f505cb21e1c722f9"
     }
   },
   "estado": "aprovada",
@@ -165,6 +167,18 @@
       "evento": "verificação repetida (regra 23)",
       "agente": "verificador-cego",
       "nota": "repetição do verificador cego (relatório anterior malformado): respondeu Tecnécio, confiança alta; fonte EBSCO (n2)"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança media; fonte ebsco.com"
     }
   ],
   "etiquetas": [

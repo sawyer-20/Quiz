@@ -46,8 +46,8 @@
       "dominio": "swissinfo.ch",
       "titulo": "Flag of Switzerland: Why it's one of only two square national flags (SWI swissinfo.ch)",
       "nivel": 2,
-      "excerto": "the coat of arms of the Confederation is a free-standing, upright white cross on a red field, the arms of which, equal to each other, are one-sixth longer than they are wide",
-      "consultada_em": "2026-11-12",
+      "excerto": "The shape of the cross has been prescribed by law since 1889... the arms of which, equal to each other, are one-sixth longer than they are wide",
+      "consultada_em": "2026-11-18",
       "papel": "verificador"
     }
   ],
@@ -57,8 +57,9 @@
       "concorda": true,
       "confianca": "alta",
       "dominio": "swissinfo.ch",
-      "data": "2026-11-12",
-      "notas": "Li a fonte (imprensa pública de referência, que cita a norma de 1889). 'Um sexto mais compridos do que largos' equivale a 7:6. Metade, um quarto e um terço ficam excluídos por esta fórmula. Só abri uma fonte, mas a formulação é explícita. A pesquisa deu ainda resultados da Wikipédia e de sites genéricos, usados só como pista e concordantes (7:6). O enunciado diz 'segundo a lei suíça' e a fonte atribui a regra à lei (1889, mantida em 2017)."
+      "data": "2026-11-18",
+      "notas": "Fonte primária (Fedlex, admin.ch) proibida. Confirmei na swissinfo (emissora pública suíça, nível 2) a regra de 1889 com 'um sexto'. A Wikipédia em inglês cita também a lei de 2017 (SR 232.21, art. 1): 'one-sixth longer than they are wide'. As outras três opções não aparecem em nenhuma fonte. O título a evitar (Fedlex) não foi usado como fonte. O enunciado diz 'mais compridos do que largos em que fração' e está coerente com a fonte. | AMBIGUIDADE ASSINALADA (encaminhada ao advogado): Leitura matemática: 'um sexto mais compridos' (7:6) e não 'um sexto do comprimento'. Mesmo assim, é a única opção compatível com a lei; Metade, Um quarto e Um terço contradizem 7:6.",
+      "hash_texto": "dadb144117f3632fa74ec0b81f368ab3e563faa9dd8e9d266be0d334470e9b06"
     },
     "advogado": {
       "aprovado": true,
@@ -78,8 +79,9 @@
     },
     "conferente": {
       "aprovado": true,
-      "notas": "Equivalente. Nota menor: «bandeiras de Estado» (pt) vs «national flags» (en) é aceitável no contexto e não altera o facto nem a resposta.",
-      "data": "2026-11-13"
+      "notas": "Um sexto = One sixth; opções alinhadas uma a uma. Nota menor: «bandeiras de Estado» vs «national flags» (equivalente na prática).",
+      "data": "2026-11-18",
+      "hash_texto": "c9604da4aca494c2912f5f016586272db18d79bbde8ebfe0504bfd0d145ce0f7"
     }
   },
   "estado": "aprovada",
@@ -134,6 +136,18 @@
       "evento": "aprovada por aprovar.py",
       "agente": "aprovar.py",
       "nota": "validar.py sem erros"
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "conferida (pt-PT = en-US)",
+      "agente": "conferente",
+      "nota": ""
+    },
+    {
+      "data": "2026-11-18",
+      "evento": "verificada às cegas",
+      "agente": "verificador-cego",
+      "nota": "confiança alta; fonte swissinfo.ch"
     }
   ],
   "etiquetas": [],
