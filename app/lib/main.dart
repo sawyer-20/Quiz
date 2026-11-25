@@ -26,6 +26,16 @@ class _QuizluxAppState extends State<QuizluxApp> {
           proximo: (c) => FutureBuilder<Banco>(
             future: _banco,
             builder: (c, s) {
+              if (s.hasError) {
+                return const Scaffold(
+                  body: Center(
+                    child: Padding(
+                      padding: EdgeInsets.all(24),
+                      child: Text('Não foi possível carregar as perguntas.\nCould not load the questions.', textAlign: TextAlign.center),
+                    ),
+                  ),
+                );
+              }
               if (!s.hasData) return const Scaffold(body: Center(child: CircularProgressIndicator()));
               return EcraInicio(banco: s.data!, lingua: _lingua, aoMudarLingua: (l) => setState(() => _lingua = l));
             },
@@ -197,6 +207,7 @@ class _EcraJogoState extends State<EcraJogo> {
   int? _escolhida;
   bool _respondida = false;
   final List<Resposta> _respostas = [];
+  final _rolagem = ScrollController();
   Timer? _timer;
 
   T get t => T(widget.lingua);
@@ -212,6 +223,7 @@ class _EcraJogoState extends State<EcraJogo> {
   @override
   void dispose() {
     _timer?.cancel();
+    _rolagem.dispose();
     super.dispose();
   }
 
@@ -236,6 +248,12 @@ class _EcraJogoState extends State<EcraJogo> {
       _escolhida = escolha;
       _respostas.add(Resposta(escolha, certa, pontos, segundosPorPergunta - _restante));
     });
+    // Em ecrãs pequenos a explicação fica abaixo das opções: desce até ela.
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      if (mounted && _rolagem.hasClients) {
+        _rolagem.animateTo(_rolagem.position.maxScrollExtent, duration: const Duration(milliseconds: 300), curve: Curves.easeOut);
+      }
+    });
   }
 
   void _seguinte() {
@@ -251,6 +269,7 @@ class _EcraJogoState extends State<EcraJogo> {
       _escolhida = null;
       _respondida = false;
     });
+    if (_rolagem.hasClients) _rolagem.jumpTo(0);
     _iniciarTempo();
   }
 
@@ -306,36 +325,39 @@ class _EcraJogoState extends State<EcraJogo> {
             const SizedBox(height: 6),
             Text(t.perguntaDe(_i + 1, n), style: const TextStyle(fontSize: 11, letterSpacing: 1.1, color: Cores.textoSuave, fontWeight: FontWeight.w700)),
             const SizedBox(height: 10),
-            Text(_p.enunciado(l), style: const TextStyle(fontSize: 23, fontWeight: FontWeight.w800, height: 1.25)),
-            const SizedBox(height: 14),
-            for (var k = 0; k < opcoes.length; k++) _botaoOpcao(k, opcoes[k]),
-            if (_respondida) ...[
-              const SizedBox(height: 4),
-              Expanded(
-                child: Container(
-                  width: double.infinity,
-                  padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 10),
-                  decoration: BoxDecoration(color: Cores.superficie, borderRadius: BorderRadius.circular(16)),
-                  child: SingleChildScrollView(
-                    child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-                      if (_escolhida == null)
-                        Padding(
-                          padding: const EdgeInsets.only(bottom: 6),
-                          child: Text(t.tempoEsgotado, style: const TextStyle(color: Cores.errado, fontWeight: FontWeight.w800, fontSize: 13)),
-                        ),
-                      Text(_p.explicacao(l), style: const TextStyle(fontSize: 13, height: 1.4)),
-                      if (fontes.isNotEmpty) ...[
-                        const SizedBox(height: 8),
-                        Text('${t.fontes}: ${fontes.take(3).join(' · ')}', style: const TextStyle(fontSize: 12, color: Cores.textoSuave, height: 1.4)),
-                      ],
-                    ]),
-                  ),
-                ),
+            // Enunciado, opções e explicação rolam; o cabeçalho e o botão ficam fixos.
+            Expanded(
+              child: SingleChildScrollView(
+                controller: _rolagem,
+                child: Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
+                  Text(_p.enunciado(l), style: const TextStyle(fontSize: 23, fontWeight: FontWeight.w800, height: 1.25)),
+                  const SizedBox(height: 14),
+                  for (var k = 0; k < opcoes.length; k++) _botaoOpcao(k, opcoes[k]),
+                  if (_respondida)
+                    Container(
+                      margin: const EdgeInsets.only(top: 4),
+                      padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 10),
+                      decoration: BoxDecoration(color: Cores.superficie, borderRadius: BorderRadius.circular(16)),
+                      child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                        if (_escolhida == null)
+                          Padding(
+                            padding: const EdgeInsets.only(bottom: 6),
+                            child: Text(t.tempoEsgotado, style: const TextStyle(color: Cores.errado, fontWeight: FontWeight.w800, fontSize: 13)),
+                          ),
+                        Text(_p.explicacao(l), style: const TextStyle(fontSize: 13, height: 1.4)),
+                        if (fontes.isNotEmpty) ...[
+                          const SizedBox(height: 8),
+                          Text('${t.fontes}: ${fontes.take(3).join(' · ')}', style: const TextStyle(fontSize: 12, color: Cores.textoSuave, height: 1.4)),
+                        ],
+                      ]),
+                    ),
+                ]),
               ),
+            ),
+            if (_respondida) ...[
               const SizedBox(height: 10),
               FilledButton(onPressed: _seguinte, child: Text(_i + 1 >= n ? t.verResultado : t.seguinte)),
-            ] else
-              const Spacer(),
+            ],
           ]),
         ),
       ),

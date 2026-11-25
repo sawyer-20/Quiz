@@ -1,7 +1,7 @@
 import 'package:material_ui/material_ui.dart';
 
 /// Paleta oficial do QUIZLUX (indicada pelo Andre em 19/11/2026).
-/// As boards do design (quizlux-design.zip) ainda não chegaram ao repositório.
+/// Tokens e boards em design/ (ver design/LEIAME.md).
 class Cores {
   static const fundo = Color(0xFF0B1428);
   static const superficie = Color(0xFF152747);
