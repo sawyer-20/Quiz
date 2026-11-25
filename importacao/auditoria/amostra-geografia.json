@@ -1,0 +1,1052 @@
+[
+{
+"id": "wd-capital-Q811",
+"pt": {
+"q": "Qual é a capital do país Nicarágua?",
+"o": [
+"Kingstown",
+"Castries",
+"San Salvador",
+"Managua"
+]
+},
+"en": {
+"q": "What is the capital of Nicaragua?",
+"o": [
+"Kingstown",
+"Castries",
+"San Salvador",
+"Managua"
+]
+}
+},
+{
+"id": "otdb-237572d8ca",
+"pt": {
+"q": "Qual é a capital da Finlândia?",
+"o": [
+"Helsínquia",
+"Macedónia",
+"Jabraltar",
+"Oslo"
+]
+},
+"en": {
+"q": "What is the capital of Finland?",
+"o": [
+"Helsinki",
+"Macedonia",
+"Jabraltar",
+"Oslo"
+]
+}
+},
+{
+"id": "wd-capital-Q836",
+"pt": {
+"q": "Qual é a capital do país Myanmar?",
+"o": [
+"Naypyidaw",
+"Bisqueque",
+"Kuala Lumpur",
+"Tóquio"
+]
+},
+"en": {
+"q": "What is the capital of Myanmar?",
+"o": [
+"Naypyidaw",
+"Bishkek",
+"Kuala Lumpur",
+"Tokyo"
+]
+}
+},
+{
+"id": "wd-capital-Q145",
+"pt": {
+"q": "Qual é a capital do país Reino Unido?",
+"o": [
+"Londres",
+"Sarajevo",
+"Madrid",
+"Vaticano"
+]
+},
+"en": {
+"q": "What is the capital of United Kingdom?",
+"o": [
+"London",
+"Sarajevo",
+"Madrid",
+"Vatican City"
+]
+}
+},
+{
+"id": "otdb-de65c565fb",
+"pt": {
+"q": "Qual destes países insulares se situa nas Caraíbas?",
+"o": [
+"Maldivas",
+"Fiji",
+"Seicheles",
+"Barbados"
+]
+},
+"en": {
+"q": "Which of these island countries is located in the Caribbean?",
+"o": [
+"Maldives",
+"Fiji",
+"Seychelles",
+"Barbados"
+]
+}
+},
+{
+"id": "otdb-46f598561a",
+"pt": {
+"q": "Qual é a capital da Índia?",
+"o": [
+"Nova Deli",
+"Pequim",
+"Tithi",
+"Montreal"
+]
+},
+"en": {
+"q": "What is the capital of India?",
+"o": [
+"New Delhi",
+"Beijing",
+"Tithi",
+"Montreal"
+]
+}
+},
+{
+"id": "otdb-19707ab417",
+"pt": {
+"q": "Que país tem uma folha de ácer na bandeira?",
+"o": [
+"Brasil",
+"Índia",
+"México",
+"Canadá"
+]
+},
+"en": {
+"q": "Which country features a maple leaf on its flag?",
+"o": [
+"Brazil",
+"India",
+"Mexico",
+"Canada"
+]
+}
+},
+{
+"id": "wd-capital-Q212",
+"pt": {
+"q": "Qual é a capital do país Ucrânia?",
+"o": [
+"Podgorica",
+"Kiev",
+"Paris",
+"Tallinn"
+]
+},
+"en": {
+"q": "What is the capital of Ukraine?",
+"o": [
+"Podgorica",
+"Kyiv",
+"Paris",
+"Tallinn"
+]
+}
+},
+{
+"id": "otdb-ec6a648c70",
+"pt": {
+"q": "Qual dos seguintes países tem uma bandeira com um leão amarelo a empunhar uma espada sobre fundo vermelho-escuro?",
+"o": [
+"Butão",
+"Quiribáti",
+"Escócia",
+"Sri Lanca"
+]
+},
+"en": {
+"q": "Which of the following countries has a flag featuring a yellow lion wielding a sword on a dark red background?",
+"o": [
+"Bhutan",
+"Kiribati",
+"Scotland",
+"Sri Lanka"
+]
+}
+},
+{
+"id": "wd-capital-Q970",
+"pt": {
+"q": "Qual é a capital do país Comores?",
+"o": [
+"Conacri",
+"Nairóbi",
+"Acra",
+"Moroni"
+]
+},
+"en": {
+"q": "What is the capital of Comoros?",
+"o": [
+"Conakry",
+"Nairobi",
+"Accra",
+"Moroni"
+]
+}
+},
+{
+"id": "wd-capital-Q398",
+"pt": {
+"q": "Qual é a capital do país Bahrein?",
+"o": [
+"Pyongyang",
+"Abu Dhabi",
+"Manila",
+"Manama"
+]
+},
+"en": {
+"q": "What is the capital of Bahrain?",
+"o": [
+"Pyongyang",
+"Abu Dhabi",
+"Manila",
+"Manama"
+]
+}
+},
+{
+"id": "otdb-b58633e7b3",
+"pt": {
+"q": "O corpo da Esfinge egípcia baseou-se em que animal?",
+"o": [
+"Cavalo",
+"Cão",
+"Leão",
+"Touro"
+]
+},
+"en": {
+"q": "The body of the Egyptian Sphinx was based on which animal?",
+"o": [
+"Horse",
+"Dog",
+"Lion",
+"Bull"
+]
+}
+},
+{
+"id": "wd-capital-Q235",
+"pt": {
+"q": "Qual é a capital do país Mónaco?",
+"o": [
+"Vaduz",
+"Mónaco",
+"Bruxelas",
+"Estocolmo"
+]
+},
+"en": {
+"q": "What is the capital of Monaco?",
+"o": [
+"Vaduz",
+"Monaco",
+"Brussels",
+"Stockholm"
+]
+}
+},
+{
+"id": "wd-capital-Q31",
+"pt": {
+"q": "Qual é a capital do país Bélgica?",
+"o": [
+"Sarajevo",
+"Bruxelas",
+"Berna",
+"Kiev"
+]
+},
+"en": {
+"q": "What is the capital of Belgium?",
+"o": [
+"Sarajevo",
+"Brussels",
+"Bern",
+"Kyiv"
+]
+}
+},
+{
+"id": "otdb-57906bdaca",
+"pt": {
+"q": "Qual é o menor país do mundo em população?",
+"o": [
+"Ilhas Marshall",
+"Nauru",
+"Cidade do Vaticano",
+"Liechtenstein"
+]
+},
+"en": {
+"q": "What is the world's smallest country by population?",
+"o": [
+"Marshall Islands",
+"Nauru",
+"Vatican City",
+"Lichtenstein"
+]
+}
+},
+{
+"id": "otdb-7cfacf9219",
+"pt": {
+"q": "Bridgetown é a capital de que país insular das Caraíbas?",
+"o": [
+"Dominica",
+"Barbados",
+"Jamaica",
+"Cuba"
+]
+},
+"en": {
+"q": "Bridgetown is the capital of which island country in the Carribean?",
+"o": [
+"Dominica",
+"Barbados",
+"Jamaica‎",
+"Cuba"
+]
+}
+},
+{
+"id": "otdb-5f8b2b467e",
+"pt": {
+"q": "Qual é a capital do Peru?",
+"o": [
+"Montevideu",
+"Santiago",
+"Lima",
+"Buenos Aires"
+]
+},
+"en": {
+"q": "What is the capital of Peru?",
+"o": [
+"Montevideo",
+"Santiago",
+"Lima",
+"Buenos Aires"
+]
+}
+},
+{
+"id": "otdb-d64838f8c4",
+"pt": {
+"q": "Qual destes países africanos tem o espanhol como língua oficial?",
+"o": [
+"Guiné Equatorial",
+"Camarões",
+"Guiné",
+"Angola"
+]
+},
+"en": {
+"q": "Which of these African countries list \"Spanish\" as an official language?",
+"o": [
+"Equatorial Guinea",
+"Cameroon",
+"Guinea",
+"Angola"
+]
+}
+},
+{
+"id": "wd-capital-Q79",
+"pt": {
+"q": "Qual é a capital do país Egito?",
+"o": [
+"Lusaca",
+"Cairo",
+"Mogadixo",
+"Banjul"
+]
+},
+"en": {
+"q": "What is the capital of Egypt?",
+"o": [
+"Lusaka",
+"Cairo",
+"Mogadishu",
+"Banjul"
+]
+}
+},
+{
+"id": "wd-capital-Q29",
+"pt": {
+"q": "Qual é a capital do país Espanha?",
+"o": [
+"Vaticano",
+"Copenhaga",
+"Tirana",
+"Madrid"
+]
+},
+"en": {
+"q": "What is the capital of Spain?",
+"o": [
+"Vatican City",
+"Copenhagen",
+"Tirana",
+"Madrid"
+]
+}
+},
+{
+"id": "wd-capital-Q783",
+"pt": {
+"q": "Qual é a capital do país Honduras?",
+"o": [
+"Ottawa",
+"Tegucigalpa",
+"São Domingos",
+"Port of Spain"
+]
+},
+"en": {
+"q": "What is the capital of Honduras?",
+"o": [
+"Ottawa",
+"Tegucigalpa",
+"Santo Domingo",
+"Port of Spain"
+]
+}
+},
+{
+"id": "otdb-074238d9ca",
+"pt": {
+"q": "Qual é a capital do Laos?",
+"o": [
+"Vientiane",
+"Vaduz",
+"Tarawa",
+"Tegucigalpa"
+]
+},
+"en": {
+"q": "What is the capital of Laos?",
+"o": [
+"Vientiane",
+"Vaduz",
+"Tarawa",
+"Tegucigalpa"
+]
+}
+},
+{
+"id": "otdb-fa87447ba0",
+"pt": {
+"q": "Qual é a capital da Eslovénia?",
+"o": [
+"Maribor",
+"Velenje",
+"Liubliana",
+"Trbovlje"
+]
+},
+"en": {
+"q": "What is the capital city of Slovenia?",
+"o": [
+"Maribor",
+"Velenje",
+"Ljubljana",
+"Trbovlje"
+]
+}
+},
+{
+"id": "wd-capital-Q754",
+"pt": {
+"q": "Qual é a capital do país Trindade e Tobago?",
+"o": [
+"Cidade da Guatemala",
+"São Domingos",
+"Port of Spain",
+"Belmopan"
+]
+},
+"en": {
+"q": "What is the capital of Trinidad and Tobago?",
+"o": [
+"Guatemala City",
+"Santo Domingo",
+"Port of Spain",
+"Belmopan"
+]
+}
+},
+{
+"id": "otdb-f848a95198",
+"pt": {
+"q": "Qual é a capital das Bermudas?",
+"o": [
+"San Juan",
+"Santo Domingo",
+"Hamilton",
+"Havana"
+]
+},
+"en": {
+"q": "What is the capital city of Bermuda?",
+"o": [
+"San Juan",
+"Santo Dominigo",
+"Hamilton",
+"Havana"
+]
+}
+},
+{
+"id": "wd-capital-Q781",
+"pt": {
+"q": "Qual é a capital do país Antígua e Barbuda?",
+"o": [
+"São João",
+"Roseau",
+"São Domingos",
+"Castries"
+]
+},
+"en": {
+"q": "What is the capital of Antigua and Barbuda?",
+"o": [
+"St. John's",
+"Roseau",
+"Santo Domingo",
+"Castries"
+]
+}
+},
+{
+"id": "otdb-8e72951564",
+"pt": {
+"q": "Qual destas cidades NÃO fica em Inglaterra?",
+"o": [
+"Manchester",
+"Edimburgo",
+"Southampton",
+"Oxford"
+]
+},
+"en": {
+"q": "Which of these cities is NOT in England?",
+"o": [
+"Manchester",
+"Edinburgh",
+"Southampton",
+"Oxford"
+]
+}
+},
+{
+"id": "otdb-b13a105e1c",
+"pt": {
+"q": "Qual é a segunda língua nativa mais falada em Espanha, por número de falantes?",
+"o": [
+"Português",
+"Catalão",
+"Francês",
+"Espanhol"
+]
+},
+"en": {
+"q": "Which is the second largest native language spoken in Spain by numbers of speakers?",
+"o": [
+"Portuguese",
+"Catalan",
+"French",
+"Spanish"
+]
+}
+},
+{
+"id": "otdb-acf35e23a2",
+"pt": {
+"q": "Qual das seguintes NÃO é uma capital?",
+"o": [
+"Moscovo",
+"Sydney",
+"Cairo",
+"Pequim"
+]
+},
+"en": {
+"q": "Which of the following is NOT a capital city?",
+"o": [
+"Moscow",
+"Sydney",
+"Cairo",
+"Beijing"
+]
+}
+},
+{
+"id": "wd-capital-Q971",
+"pt": {
+"q": "Qual é a capital do país República do Congo?",
+"o": [
+"Maseru",
+"Cartum",
+"Quinxassa",
+"Brazavile"
+]
+},
+"en": {
+"q": "What is the capital of Republic of the Congo?",
+"o": [
+"Maseru",
+"Khartoum",
+"Kinshasa",
+"Brazzaville"
+]
+}
+},
+{
+"id": "otdb-ba611174da",
+"pt": {
+"q": "Quantas províncias há nos Países Baixos?",
+"o": [
+"12",
+"13",
+"14",
+"10"
+]
+},
+"en": {
+"q": "How many provinces are in the Netherlands?",
+"o": [
+"12",
+"13",
+"14",
+"10"
+]
+}
+},
+{
+"id": "wd-capital-Q114",
+"pt": {
+"q": "Qual é a capital do país Quénia?",
+"o": [
+"Cartum",
+"Port Louis",
+"Moroni",
+"Nairóbi"
+]
+},
+"en": {
+"q": "What is the capital of Kenya?",
+"o": [
+"Khartoum",
+"Port Louis",
+"Moroni",
+"Nairobi"
+]
+}
+},
+{
+"id": "otdb-38b35c5ca8",
+"pt": {
+"q": "Qual destes países NÃO faz parte do continente asiático?",
+"o": [
+"Rússia",
+"Suriname",
+"Singapura",
+"Geórgia"
+]
+},
+"en": {
+"q": "Which of these countries is NOT a part of the Asian continent?",
+"o": [
+"Russia",
+"Suriname",
+"Singapore",
+"Georgia"
+]
+}
+},
+{
+"id": "wd-capital-Q241",
+"pt": {
+"q": "Qual é a capital do país Cuba?",
+"o": [
+"Cidade do Panamá",
+"Nassau",
+"Roseau",
+"Havana"
+]
+},
+"en": {
+"q": "What is the capital of Cuba?",
+"o": [
+"Panama City",
+"Nassau",
+"Roseau",
+"Havana"
+]
+}
+},
+{
+"id": "otdb-30a38098b2",
+"pt": {
+"q": "Qual destes países não é Estado-membro das Nações Unidas?",
+"o": [
+"Tuvalu",
+"Montenegro",
+"Sudão do Sul",
+"Niue"
+]
+},
+"en": {
+"q": "Which of these countries is not a United Nations member state?",
+"o": [
+"Tuvalu",
+"Montenegro",
+"South Sudan",
+"Niue"
+]
+}
+},
+{
+"id": "wd-capital-Q1030",
+"pt": {
+"q": "Qual é a capital do país Namíbia?",
+"o": [
+"Asmara",
+"Quigali",
+"Windhoek",
+"Djibouti"
+]
+},
+"en": {
+"q": "What is the capital of Namibia?",
+"o": [
+"Asmara",
+"Kigali",
+"Windhoek",
+"Djibouti"
+]
+}
+},
+{
+"id": "wd-capital-Q678",
+"pt": {
+"q": "Qual é a capital do país Tonga?",
+"o": [
+"Port Moresby",
+"Apia",
+"Nuku'alofa",
+"Majuro"
+]
+},
+"en": {
+"q": "What is the capital of Tonga?",
+"o": [
+"Port Moresby",
+"Apia",
+"Nukuʻalofa",
+"Majuro"
+]
+}
+},
+{
+"id": "otdb-d5df3b7521",
+"pt": {
+"q": "A histórica cidade de Tombuctu situa-se em que país da África Ocidental?",
+"o": [
+"Níger",
+"Burquina Faso",
+"Mali",
+"Senegal"
+]
+},
+"en": {
+"q": "The historical city Timbuktu is located in which West African country?",
+"o": [
+"Niger",
+"Burkina Faso",
+"Mali",
+"Senegal"
+]
+}
+},
+{
+"id": "otdb-f6e8c06f24",
+"pt": {
+"q": "Qual é a menor província do Canadá?",
+"o": [
+"Ilha do Príncipe Eduardo",
+"Nova Escócia",
+"Novo Brunswick",
+"Yukon"
+]
+},
+"en": {
+"q": "What is Canada's smallest province?",
+"o": [
+"Prince Edward Island",
+"Nova Scotia",
+"New Brunswick",
+"Yukon"
+]
+}
+},
+{
+"id": "wd-capital-Q953",
+"pt": {
+"q": "Qual é a capital do país Zâmbia?",
+"o": [
+"Lusaca",
+"Windhoek",
+"Conacri",
+"Brazavile"
+]
+},
+"en": {
+"q": "What is the capital of Zambia?",
+"o": [
+"Lusaka",
+"Windhoek",
+"Conakry",
+"Brazzaville"
+]
+}
+},
+{
+"id": "wd-capital-Q45",
+"pt": {
+"q": "Qual é a capital do país Portugal?",
+"o": [
+"Lisboa",
+"Pristina",
+"Copenhaga",
+"Sarajevo"
+]
+},
+"en": {
+"q": "What is the capital of Portugal?",
+"o": [
+"Lisbon",
+"Pristina",
+"Copenhagen",
+"Sarajevo"
+]
+}
+},
+{
+"id": "otdb-12129a7ac3",
+"pt": {
+"q": "Com que país NÃO faz fronteira a Áustria?",
+"o": [
+"França",
+"Eslováquia",
+"Eslovénia",
+"Suíça"
+]
+},
+"en": {
+"q": "Which country does Austria not border?",
+"o": [
+"France",
+"Slovakia",
+"Slovenia",
+"Switzerland"
+]
+}
+},
+{
+"id": "wd-capital-Q211",
+"pt": {
+"q": "Qual é a capital do país Letónia?",
+"o": [
+"Berna",
+"Sarajevo",
+"Valeta",
+"Riga"
+]
+},
+"en": {
+"q": "What is the capital of Latvia?",
+"o": [
+"Bern",
+"Sarajevo",
+"Valletta",
+"Riga"
+]
+}
+},
+{
+"id": "otdb-f77002ea55",
+"pt": {
+"q": "O montanhoso Desfiladeiro de Khyber liga quais dos dois países seguintes?",
+"o": [
+"Tajiquistão e Quirguistão",
+"Afeganistão e Paquistão",
+"Índia e Nepal",
+"Paquistão e Índia"
+]
+},
+"en": {
+"q": "The mountainous Khyber Pass connects which of the two following countries?",
+"o": [
+"Tajikistan and Kyrgyzstan",
+"Afghanistan and Pakistan",
+"India and Nepal",
+"Pakistan and India"
+]
+}
+},
+{
+"id": "otdb-fae1a31760",
+"pt": {
+"q": "Onde se situam as Linhas de Nazca?",
+"o": [
+"Equador",
+"Peru",
+"Colômbia",
+"Brasil"
+]
+},
+"en": {
+"q": "Where are the Nazca Lines located?",
+"o": [
+"Ecuador",
+"Peru",
+"Colombia",
+"Brazil"
+]
+}
+},
+{
+"id": "otdb-f9be774950",
+"pt": {
+"q": "Qual é a capital da Jamaica?",
+"o": [
+"Kingston",
+"Bridgetown",
+"San Juan",
+"Porto Príncipe"
+]
+},
+"en": {
+"q": "What is the capital of Jamaica?",
+"o": [
+"Kingston",
+"Bridgetown",
+"San Juan",
+"Port-au-Prince"
+]
+}
+},
+{
+"id": "otdb-13306b8a0e",
+"pt": {
+"q": "Qual é a capital da Estónia?",
+"o": [
+"Tallinn",
+"Tartu",
+"Helsínquia",
+"Riga"
+]
+},
+"en": {
+"q": "What is the capital of Estonia?",
+"o": [
+"Tallinn",
+"Tartu",
+"Helsinki",
+"Riga"
+]
+}
+},
+{
+"id": "otdb-910855343e",
+"pt": {
+"q": "As ilhas Molucas (conhecidas informalmente como Ilhas das Especiarias) pertencem a que país?",
+"o": [
+"Fiji",
+"Nova Zelândia",
+"Indonésia",
+"Chile"
+]
+},
+"en": {
+"q": "The Maluku islands (informally known as the Spice Islands) belong to which country?",
+"o": [
+"Fiji",
+"New Zealand",
+"Indonesia",
+"Chile"
+]
+}
+},
+{
+"id": "otdb-81b135e2fe",
+"pt": {
+"q": "Quais das seguintes ilhas foram reivindicadas tanto pelo Japão como pela Rússia?",
+"o": [
+"Ilhas Paracel",
+"Ilhas Curilas",
+"Ilhas Spratly",
+"Ilhas Chagos"
+]
+},
+"en": {
+"q": "Which islands below have been claimed by both Japan and Russia?",
+"o": [
+"Paracel Islands",
+"Kuril Islands",
+"Spratly Islands",
+"Chagos Islands"
+]
+}
+},
+{
+"id": "otdb-c9d2bc547a",
+"pt": {
+"q": "Como era anteriormente conhecida a nação africana do Zimbabué?",
+"o": [
+"Moçambique",
+"Rodésia",
+"Bulawayo",
+"Zâmbia"
+]
+},
+"en": {
+"q": "What was the African nation of Zimbabwe formerly known as?",
+"o": [
+"Mozambique",
+"Rhodesia",
+" Bulawayo",
+"Zambia"
+]
+}
+}
+]

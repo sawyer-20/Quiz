@@ -32,12 +32,22 @@ class Banco {
   final List<Pergunta> perguntas;
 
   static Future<Banco> carregar() async {
-    final bruto = await rootBundle.loadString('assets/perguntas.json');
-    final lista = (jsonDecode(bruto) as List).map((e) {
-      final m = e as Map<String, dynamic>;
-      return Pergunta(m['id'] as String, m['topic'] as String, m['difficulty'] as int, m['correct'] as int,
-          Map<String, dynamic>.from(m['text'] as Map), List<String>.from((m['sources'] ?? const []) as List));
-    }).toList();
+    // perguntas.json: as 57 verificadas pelo motor; importadas.json: pacote separado
+    // (Open Trivia DB, CC BY-SA 4.0, tradução automática; Wikidata, CC0), auditado por amostra.
+    final lista = <Pergunta>[];
+    for (final ficheiro in ['assets/perguntas.json', 'assets/importadas.json']) {
+      String bruto;
+      try {
+        bruto = await rootBundle.loadString(ficheiro);
+      } catch (_) {
+        continue;
+      }
+      lista.addAll((jsonDecode(bruto) as List).map((e) {
+        final m = e as Map<String, dynamic>;
+        return Pergunta(m['id'] as String, m['topic'] as String, m['difficulty'] as int, m['correct'] as int,
+            Map<String, dynamic>.from(m['text'] as Map), List<String>.from((m['sources'] ?? const []) as List));
+      }));
+    }
     return Banco(lista);
   }
 

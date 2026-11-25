@@ -1,0 +1,30 @@
+{
+ "total": 5299,
+ "fora_pre_filtro": {
+  "eua_palavra": 272,
+  "verdadeiro_falso": 789,
+  "categoria_fora": 720,
+  "datada_palavra": 13,
+  "duplicada": 2,
+  "videojogos_excedente": 542
+ },
+ "para_triagem": 2961,
+ "por_categoria": {
+  "General Knowledge": 344,
+  "Entertainment: Books": 107,
+  "Entertainment: Film": 254,
+  "Entertainment: Music": 402,
+  "Entertainment: Video Games": 450,
+  "Science & Nature": 244,
+  "Science: Computers": 145,
+  "Science: Mathematics": 59,
+  "Mythology": 58,
+  "Sports": 130,
+  "Geography": 256,
+  "History": 296,
+  "Art": 48,
+  "Animals": 68,
+  "Vehicles": 68,
+  "Science: Gadgets": 32
+ }
+}

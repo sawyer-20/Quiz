@@ -1,0 +1,1052 @@
+[
+{
+"id": "wd-ligacampeoes-Q308996",
+"pt": {
+"q": "Que clube venceu a Liga dos Campeões da UEFA de 2004–05?",
+"o": [
+"Bayern de Munique",
+"Liverpool",
+"Ajax",
+"FC Porto"
+]
+},
+"en": {
+"q": "Which club won the 2004–05 UEFA Champions League?",
+"o": [
+"Bayern Munich",
+"Liverpool",
+"Ajax",
+"FC Porto"
+]
+}
+},
+{
+"id": "otdb-2bfa863e11",
+"pt": {
+"q": "Quem ganhou a Liga dos Campeões em 1999?",
+"o": [
+"Liverpool",
+"Bayern de Munique",
+"Manchester United",
+"Barcelona"
+]
+},
+"en": {
+"q": "Who won the Champions League in 1999?",
+"o": [
+"Liverpool",
+"Bayern Munich",
+"Manchester United",
+"Barcelona"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q96621465",
+"pt": {
+"q": "Que clube venceu a Liga dos Campeões da UEFA de 2021–22?",
+"o": [
+"FC Porto",
+"Real Madrid",
+"Estrela Vermelha",
+"AC Milan"
+]
+},
+"en": {
+"q": "Which club won the 2021–22 UEFA Champions League?",
+"o": [
+"FC Porto",
+"Real Madrid",
+"Red Star Belgrade",
+"AC Milan"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q117008008",
+"pt": {
+"q": "Que clube venceu a Liga dos Campeões da UEFA de 2024–25?",
+"o": [
+"Barcelona",
+"PSV Eindhoven",
+"Paris Saint-Germain",
+"Hamburgo"
+]
+},
+"en": {
+"q": "Which club won the 2024–25 UEFA Champions League?",
+"o": [
+"Barcelona",
+"PSV Eindhoven",
+"Paris Saint-Germain",
+"Hamburger SV"
+]
+}
+},
+{
+"id": "wd-boladeouro-1958",
+"pt": {
+"q": "Quem ganhou a Bola de Ouro de 1958?",
+"o": [
+"Bobby Charlton",
+"Ronaldo Nazário",
+"Raymond Kopa",
+"Andriy Shevchenko"
+]
+},
+"en": {
+"q": "Who won the 1958 Ballon d'Or?",
+"o": [
+"Bobby Charlton",
+"Ronaldo",
+"Raymond Kopa",
+"Andriy Shevchenko"
+]
+}
+},
+{
+"id": "otdb-4d6211bc3b",
+"pt": {
+"q": "Que país deu ao mundo futebolistas como Cafu, Roberto Carlos e Pelé?",
+"o": [
+"Brasil",
+"Espanha",
+"Argentina",
+"Portugal"
+]
+},
+"en": {
+"q": "Which country produced football players such as Cafu, Roberto Carlos and Pelé?",
+"o": [
+"Brazil",
+"Spain",
+"Argentina",
+"Portugal"
+]
+}
+},
+{
+"id": "wd-boladeouro-2025",
+"pt": {
+"q": "Quem ganhou a Bola de Ouro de 2025?",
+"o": [
+"Hristo Stoichkov",
+"Ousmane Dembélé",
+"Roberto Baggio",
+"Raymond Kopa"
+]
+},
+"en": {
+"q": "Who won the 2025 Ballon d'Or?",
+"o": [
+"Hristo Stoichkov",
+"Ousmane Dembélé",
+"Roberto Baggio",
+"Raymond Kopa"
+]
+}
+},
+{
+"id": "wd-boladeouro-1987",
+"pt": {
+"q": "Quem ganhou a Bola de Ouro de 1987?",
+"o": [
+"Ruud Gullit",
+"Pavel Nedvěd",
+"Bobby Charlton",
+"Ousmane Dembélé"
+]
+},
+"en": {
+"q": "Who won the 1987 Ballon d'Or?",
+"o": [
+"Ruud Gullit",
+"Pavel Nedvěd",
+"Bobby Charlton",
+"Ousmane Dembélé"
+]
+}
+},
+{
+"id": "wd-boladeouro-1985",
+"pt": {
+"q": "Quem ganhou a Bola de Ouro de 1985?",
+"o": [
+"Karl-Heinz Rummenigge",
+"Ronaldo Nazário",
+"Michel Platini",
+"Rivaldo"
+]
+},
+"en": {
+"q": "Who won the 1985 Ballon d'Or?",
+"o": [
+"Karl-Heinz Rummenigge",
+"Ronaldo",
+"Michel Platini",
+"Rivaldo"
+]
+}
+},
+{
+"id": "wd-mundial-vencedor-Q284163",
+"pt": {
+"q": "Que seleção venceu o Campeonato do Mundo de 2022?",
+"o": [
+"Argentina",
+"Uruguai",
+"Alemanha",
+"Espanha"
+]
+},
+"en": {
+"q": "Which national team won the 2022 FIFA World Cup?",
+"o": [
+"Argentina",
+"Uruguay",
+"Germany",
+"Spain"
+]
+}
+},
+{
+"id": "otdb-1d626f5e16",
+"pt": {
+"q": "Que país ganhou o Campeonato do Mundo de 2018, organizado na Rússia?",
+"o": [
+"Croácia",
+"Inglaterra",
+"Bélgica",
+"França"
+]
+},
+"en": {
+"q": "Which country won the 2018 FIFA World Cup hosted in Russia?",
+"o": [
+"Croatia",
+"England",
+"Belgium",
+"France"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q18740961",
+"pt": {
+"q": "Que clube venceu a Liga dos Campeões da UEFA de 2016–17?",
+"o": [
+"Feyenoord",
+"Aston Villa",
+"Barcelona",
+"Real Madrid"
+]
+},
+"en": {
+"q": "Which club won the 2016–17 UEFA Champions League?",
+"o": [
+"Feyenoord",
+"Aston Villa",
+"Barcelona",
+"Real Madrid"
+]
+}
+},
+{
+"id": "otdb-cc2b7a0417",
+"pt": {
+"q": "Que equipa ganhou a Premier League inglesa de 2015-16?",
+"o": [
+"Chelsea",
+"Liverpool",
+"Leicester City",
+"Manchester United"
+]
+},
+"en": {
+"q": "Which team won the 2015-16 English Premier League?",
+"o": [
+"Chelsea",
+"Liverpool",
+"Leicester City",
+"Manchester United"
+]
+}
+},
+{
+"id": "wd-boladeouro-1967",
+"pt": {
+"q": "Quem ganhou a Bola de Ouro de 1967?",
+"o": [
+"Raymond Kopa",
+"Matthias Sammer",
+"Andriy Shevchenko",
+"Flórián Albert"
+]
+},
+"en": {
+"q": "Who won the 1967 Ballon d'Or?",
+"o": [
+"Raymond Kopa",
+"Matthias Sammer",
+"Andriy Shevchenko",
+"Flórián Albert"
+]
+}
+},
+{
+"id": "otdb-a2fce2c53e",
+"pt": {
+"q": "Quem marcou o golo da vitória, no tempo de compensação, na final da Liga dos Campeões de 1999 entre o Manchester United e o Bayern de Munique?",
+"o": [
+"Andy Cole",
+"David Beckham",
+"Dwight Yorke",
+"Ole Gunnar Solskjær"
+]
+},
+"en": {
+"q": "Who scored the injury time winning goal in the 1999 UEFA Champions League final between Manchester United and Bayern Munich?",
+"o": [
+"Andy Cole",
+"David Beckham",
+"Dwight Yorke",
+"Ole Gunnar Solskjær"
+]
+}
+},
+{
+"id": "wd-boladeouro-1980",
+"pt": {
+"q": "Quem ganhou a Bola de Ouro de 1980?",
+"o": [
+"Karl-Heinz Rummenigge",
+"Oleg Blokhin",
+"Roberto Baggio",
+"Kaká"
+]
+},
+"en": {
+"q": "Who won the 1980 Ballon d'Or?",
+"o": [
+"Karl-Heinz Rummenigge",
+"Oleh Blokhin",
+"Roberto Baggio",
+"Kaká"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q117079",
+"pt": {
+"q": "Que clube venceu a Taça dos Campeões Europeus de 1970–71?",
+"o": [
+"Ajax",
+"Real Madrid",
+"Manchester City",
+"Inter de Milão"
+]
+},
+"en": {
+"q": "Which club won the 1970–71 European Cup?",
+"o": [
+"Ajax",
+"Real Madrid",
+"Manchester City",
+"Inter Milan"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q497028",
+"pt": {
+"q": "Que clube venceu a Taça dos Campeões Europeus de 1961–62?",
+"o": [
+"Benfica",
+"AC Milan",
+"Manchester United",
+"Chelsea"
+]
+},
+"en": {
+"q": "Which club won the 1961–62 European Cup?",
+"o": [
+"Benfica",
+"AC Milan",
+"Manchester United",
+"Chelsea"
+]
+}
+},
+{
+"id": "wd-mundial-vencedor-Q132664",
+"pt": {
+"q": "Que seleção venceu o Campeonato do Mundo de 1970?",
+"o": [
+"Alemanha",
+"Espanha",
+"Brasil",
+"Itália"
+]
+},
+"en": {
+"q": "Which national team won the 1970 FIFA World Cup?",
+"o": [
+"Germany",
+"Spain",
+"Brazil",
+"Italy"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q196515",
+"pt": {
+"q": "Que clube venceu a Liga dos Campeões da UEFA de 1996–97?",
+"o": [
+"Chelsea",
+"Marselha",
+"AC Milan",
+"Borussia Dortmund"
+]
+},
+"en": {
+"q": "Which club won the 1996–97 UEFA Champions League?",
+"o": [
+"Chelsea",
+"Marseille",
+"AC Milan",
+"Borussia Dortmund"
+]
+}
+},
+{
+"id": "wd-euro-anfitriao-Q172831",
+"pt": {
+"q": "Que país organizou o Campeonato da Europa de 1960?",
+"o": [
+"Países Baixos",
+"Suécia",
+"França",
+"Itália"
+]
+},
+"en": {
+"q": "Which country hosted the 1960 UEFA European Championship?",
+"o": [
+"Netherlands",
+"Sweden",
+"France",
+"Italy"
+]
+}
+},
+{
+"id": "wd-mundial-anfitriao-Q170645",
+"pt": {
+"q": "Que país organizou o Campeonato do Mundo de 2018?",
+"o": [
+"Rússia",
+"Alemanha",
+"Suécia",
+"Estados Unidos"
+]
+},
+"en": {
+"q": "Which country hosted the 2018 FIFA World Cup?",
+"o": [
+"Russia",
+"Germany",
+"Sweden",
+"United States"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q219384",
+"pt": {
+"q": "Que clube venceu a Taça dos Campeões Europeus de 1955–56?",
+"o": [
+"Ajax",
+"Feyenoord",
+"FC Porto",
+"Real Madrid"
+]
+},
+"en": {
+"q": "Which club won the 1955–56 European Cup?",
+"o": [
+"Ajax",
+"Feyenoord",
+"FC Porto",
+"Real Madrid"
+]
+}
+},
+{
+"id": "wd-mundial-anfitriao-Q132515",
+"pt": {
+"q": "Que país organizou o Campeonato do Mundo de 1950?",
+"o": [
+"Rússia",
+"Coreia do Sul",
+"Argentina",
+"Brasil"
+]
+},
+"en": {
+"q": "Which country hosted the 1950 FIFA World Cup?",
+"o": [
+"Russia",
+"South Korea",
+"Argentina",
+"Brazil"
+]
+}
+},
+{
+"id": "wd-euro-anfitriao-Q182201",
+"pt": {
+"q": "Que país organizou o Campeonato da Europa de 1968?",
+"o": [
+"Itália",
+"Áustria",
+"Suécia",
+"Irlanda"
+]
+},
+"en": {
+"q": "Which country hosted the 1968 UEFA European Championship?",
+"o": [
+"Italy",
+"Austria",
+"Sweden",
+"Ireland"
+]
+}
+},
+{
+"id": "otdb-cb048fdd5b",
+"pt": {
+"q": "Em que ano ganhou o Steaua de Bucareste a Taça dos Campeões Europeus (hoje Liga dos Campeões da UEFA) frente ao FC Barcelona?",
+"o": [
+"1989",
+"1990",
+"1982",
+"1986"
+]
+},
+"en": {
+"q": "In what year did Steaua București win the European Cup (now the UEFA Champions League) against FC Barcelona?",
+"o": [
+"1989",
+"1990",
+"1982",
+"1986"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q53164830",
+"pt": {
+"q": "Que clube venceu a Liga dos Campeões da UEFA de 2019–20?",
+"o": [
+"Bayern de Munique",
+"Marselha",
+"Manchester City",
+"Nottingham Forest"
+]
+},
+"en": {
+"q": "Which club won the 2019–20 UEFA Champions League?",
+"o": [
+"Bayern Munich",
+"Marseille",
+"Manchester City",
+"Nottingham Forest"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q189180",
+"pt": {
+"q": "Que clube venceu a Liga dos Campeões da UEFA de 2010–11?",
+"o": [
+"FCSB",
+"Ajax",
+"Barcelona",
+"Manchester City"
+]
+},
+"en": {
+"q": "Which club won the 2010–11 UEFA Champions League?",
+"o": [
+"FCSB",
+"Ajax",
+"Barcelona",
+"Manchester City"
+]
+}
+},
+{
+"id": "otdb-47fcfa3e1f",
+"pt": {
+"q": "Quem foi o melhor marcador do Campeonato do Mundo de 2014?",
+"o": [
+"Neymar",
+"Lionel Messi",
+"James Rodríguez",
+"Thomas Müller"
+]
+},
+"en": {
+"q": "Who was the top scorer of the 2014 FIFA World Cup?",
+"o": [
+"Neymar",
+"Lionel Messi",
+"James Rodríguez",
+"Thomas Müller"
+]
+}
+},
+{
+"id": "wd-boladeouro-1991",
+"pt": {
+"q": "Quem ganhou a Bola de Ouro de 1991?",
+"o": [
+"Marco van Basten",
+"Jean-Pierre Papin",
+"Omar Sivori",
+"Oleg Blokhin"
+]
+},
+"en": {
+"q": "Who won the 1991 Ballon d'Or?",
+"o": [
+"Marco van Basten",
+"Jean-Pierre Papin",
+"Omar Sívori",
+"Oleh Blokhin"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q642869",
+"pt": {
+"q": "Que clube venceu a Taça dos Campeões Europeus de 1973–74?",
+"o": [
+"FCSB",
+"Paris Saint-Germain",
+"Juventus",
+"Bayern de Munique"
+]
+},
+"en": {
+"q": "Which club won the 1973–74 European Cup?",
+"o": [
+"FCSB",
+"Paris Saint-Germain",
+"Juventus",
+"Bayern Munich"
+]
+}
+},
+{
+"id": "wd-mundial-vencedor-Q79859",
+"pt": {
+"q": "Que seleção venceu o Campeonato do Mundo de 2014?",
+"o": [
+"França",
+"Brasil",
+"Argentina",
+"Alemanha"
+]
+},
+"en": {
+"q": "Which national team won the 2014 FIFA World Cup?",
+"o": [
+"France",
+"Brazil",
+"Argentina",
+"Germany"
+]
+}
+},
+{
+"id": "wd-boladeouro-2005",
+"pt": {
+"q": "Quem ganhou a Bola de Ouro de 2005?",
+"o": [
+"Rivaldo",
+"Ronaldinho Gaúcho",
+"Ousmane Dembélé",
+"Kaká"
+]
+},
+"en": {
+"q": "Who won the 2005 Ballon d'Or?",
+"o": [
+"Rivaldo",
+"Ronaldinho",
+"Ousmane Dembélé",
+"Kaká"
+]
+}
+},
+{
+"id": "otdb-22ed52e804",
+"pt": {
+"q": "Com que clube ganhou Steven Gerrard a Liga dos Campeões?",
+"o": [
+"Liverpool",
+"Manchester City",
+"Chelsea",
+"Real Madrid"
+]
+},
+"en": {
+"q": "Which club did Steven Gerrard win the Champions League with?",
+"o": [
+"Liverpool",
+"Manchester City",
+"Chelsea",
+"Real Madrid"
+]
+}
+},
+{
+"id": "otdb-9f5eaaa69f",
+"pt": {
+"q": "Que seleção ganhou o Campeonato do Mundo de futebol de 2014, no Brasil?",
+"o": [
+"Países Baixos",
+"Argentina",
+"Brasil",
+"Alemanha"
+]
+},
+"en": {
+"q": "Which team won 2014 FIFA World Cup in Brazil?",
+"o": [
+"Netherlands",
+"Argentina",
+"Brazil",
+"Germany"
+]
+}
+},
+{
+"id": "otdb-3946b6759c",
+"pt": {
+"q": "Qual destes clubes de futebol ingleses tem sede em Liverpool?",
+"o": [
+"Crystal Palace",
+"Arsenal",
+"Everton",
+"West Ham United"
+]
+},
+"en": {
+"q": "Which of these English football clubs is based in Liverpool?",
+"o": [
+"Crystal Palace",
+"Arsenal",
+"Everton",
+"West Ham United"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q269640",
+"pt": {
+"q": "Que clube venceu a Taça dos Campeões Europeus de 1971–72?",
+"o": [
+"Inter de Milão",
+"Ajax",
+"Real Madrid",
+"Benfica"
+]
+},
+"en": {
+"q": "Which club won the 1971–72 European Cup?",
+"o": [
+"Inter Milan",
+"Ajax",
+"Real Madrid",
+"Benfica"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q241409",
+"pt": {
+"q": "Que clube venceu a Liga dos Campeões da UEFA de 1997–98?",
+"o": [
+"Real Madrid",
+"Hamburgo",
+"FCSB",
+"Manchester United"
+]
+},
+"en": {
+"q": "Which club won the 1997–98 UEFA Champions League?",
+"o": [
+"Real Madrid",
+"Hamburger SV",
+"FCSB",
+"Manchester United"
+]
+}
+},
+{
+"id": "otdb-eb81e15e30",
+"pt": {
+"q": "Quantos jogadores de futebol devem estar em campo ao mesmo tempo?",
+"o": [
+"20",
+"26",
+"24",
+"22"
+]
+},
+"en": {
+"q": "How many soccer players should be on the field at the same time?",
+"o": [
+"20",
+"26",
+"24",
+"22"
+]
+}
+},
+{
+"id": "wd-mundial-vencedor-Q101730",
+"pt": {
+"q": "Que seleção venceu o Campeonato do Mundo de 1998?",
+"o": [
+"Uruguai",
+"Espanha",
+"Argentina",
+"França"
+]
+},
+"en": {
+"q": "Which national team won the 1998 FIFA World Cup?",
+"o": [
+"Uruguay",
+"Spain",
+"Argentina",
+"France"
+]
+}
+},
+{
+"id": "wd-boladeouro-1984",
+"pt": {
+"q": "Quem ganhou a Bola de Ouro de 1984?",
+"o": [
+"Karl-Heinz Rummenigge",
+"Michel Platini",
+"Raymond Kopa",
+"Flórián Albert"
+]
+},
+"en": {
+"q": "Who won the 1984 Ballon d'Or?",
+"o": [
+"Karl-Heinz Rummenigge",
+"Michel Platini",
+"Raymond Kopa",
+"Flórián Albert"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q642758",
+"pt": {
+"q": "Que clube venceu a Taça dos Campeões Europeus de 1968–69?",
+"o": [
+"Hamburgo",
+"AC Milan",
+"Chelsea",
+"Aston Villa"
+]
+},
+"en": {
+"q": "Which club won the 1968–69 European Cup?",
+"o": [
+"Hamburger SV",
+"AC Milan",
+"Chelsea",
+"Aston Villa"
+]
+}
+},
+{
+"id": "wd-euro-vencedor-Q161810",
+"pt": {
+"q": "Que seleção venceu o Campeonato da Europa de 1992?",
+"o": [
+"Checoslováquia",
+"Dinamarca",
+"União Soviética",
+"Espanha"
+]
+},
+"en": {
+"q": "Which national team won the 1992 UEFA European Championship?",
+"o": [
+"Czechoslovakia",
+"Denmark",
+"Soviet Union",
+"Spain"
+]
+}
+},
+{
+"id": "wd-boladeouro-1998",
+"pt": {
+"q": "Quem ganhou a Bola de Ouro de 1998?",
+"o": [
+"Raymond Kopa",
+"Ousmane Dembélé",
+"Ronaldinho Gaúcho",
+"Zinédine Zidane"
+]
+},
+"en": {
+"q": "Who won the 1998 Ballon d'Or?",
+"o": [
+"Raymond Kopa",
+"Ousmane Dembélé",
+"Ronaldinho",
+"Zinedine Zidane"
+]
+}
+},
+{
+"id": "otdb-2744ee9b5d",
+"pt": {
+"q": "Quem ganhou a Liga dos Campeões da UEFA em 2016?",
+"o": [
+"Manchester City",
+"Bayern de Munique",
+"Atlético de Madrid",
+"Real Madrid"
+]
+},
+"en": {
+"q": "Who won the UEFA Champions League in 2016?",
+"o": [
+"Manchester City",
+"Bayern Munich",
+"Atlético Madrid",
+"Real Madrid"
+]
+}
+},
+{
+"id": "otdb-86182e9ec5",
+"pt": {
+"q": "Que seleção ganhou a Copa América de 2015?",
+"o": [
+"Paraguai",
+"Argentina",
+"Brasil",
+"Chile"
+]
+},
+"en": {
+"q": "Which soccer team won the 2015 Copa América?",
+"o": [
+"Paraguay",
+"Argentina",
+"Brazil",
+"Chile"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q309316",
+"pt": {
+"q": "Que clube venceu a Taça dos Campeões Europeus de 1958–59?",
+"o": [
+"Borussia Dortmund",
+"Real Madrid",
+"AC Milan",
+"FCSB"
+]
+},
+"en": {
+"q": "Which club won the 1958–59 European Cup?",
+"o": [
+"Borussia Dortmund",
+"Real Madrid",
+"AC Milan",
+"FCSB"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q330050",
+"pt": {
+"q": "Que clube venceu a Liga dos Campeões da UEFA de 1999–2000?",
+"o": [
+"Nottingham Forest",
+"Hamburgo",
+"Real Madrid",
+"Benfica"
+]
+},
+"en": {
+"q": "Which club won the 1999–2000 UEFA Champions League?",
+"o": [
+"Nottingham Forest",
+"Hamburger SV",
+"Real Madrid",
+"Benfica"
+]
+}
+},
+{
+"id": "wd-ligacampeoes-Q642777",
+"pt": {
+"q": "Que clube venceu a Taça dos Campeões Europeus de 1982–83?",
+"o": [
+"Ajax",
+"Hamburgo",
+"FC Porto",
+"Estrela Vermelha"
+]
+},
+"en": {
+"q": "Which club won the 1982–83 European Cup?",
+"o": [
+"Ajax",
+"Hamburger SV",
+"FC Porto",
+"Red Star Belgrade"
+]
+}
+},
+{
+"id": "otdb-5b65dc0f09",
+"pt": {
+"q": "Quem ganhou a Premier League na época 2015-2016, depois de uma campanha de conto de fadas?",
+"o": [
+"Tottenham Hotspur",
+"Leicester City",
+"Watford",
+"Stoke City"
+]
+},
+"en": {
+"q": "Who won the Premier League title in the 2015-2016 season following a fairy tale run?",
+"o": [
+"Tottenham Hotspur",
+"Leicester City",
+"Watford",
+"Stoke City"
+]
+}
+}
+]

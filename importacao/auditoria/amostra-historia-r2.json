@@ -1,0 +1,1052 @@
+[
+{
+"id": "otdb-ea5563fc6f",
+"pt": {
+"q": "O que aconteceu a 6 de junho de 1944?",
+"o": [
+"O Dia D",
+"A libertação de Paris",
+"Os bombardeamentos atómicos de Hiroxima e Nagasáqui",
+"O ataque a Pearl Harbor"
+]
+},
+"en": {
+"q": "What happened on June 6, 1944?",
+"o": [
+"D-Day",
+"The Liberation of Paris",
+"Atomic bombings of Hiroshima and Nagasaki",
+"Attack on Pearl Harbor"
+]
+}
+},
+{
+"id": "otdb-287f05e796",
+"pt": {
+"q": "Que nome se dá à série de confrontos entre o Reino Unido e a Islândia pelos direitos de pesca no Atlântico Norte?",
+"o": [
+"As Guerras da Cavala",
+"As Guerras do Alabote",
+"As Guerras do Bacalhau",
+"As Guerras da Lagosta"
+]
+},
+"en": {
+"q": "What is the name given to the series of confrontations between the UK and Iceland over North Atlantic fishing rights?",
+"o": [
+"The Mackerel Wars",
+"The Halibut Wars",
+"The Cod Wars",
+"The Lobster Wars"
+]
+}
+},
+{
+"id": "otdb-ca7652453d",
+"pt": {
+"q": "Em que ano se tornou a Austrália uma federação?",
+"o": [
+"1911",
+"1899",
+"1901",
+"1910"
+]
+},
+"en": {
+"q": "What year did Australia become a federation?",
+"o": [
+"1911",
+"1899",
+"1901",
+"1910"
+]
+}
+},
+{
+"id": "otdb-8b4525f65a",
+"pt": {
+"q": "Depois da Batalha de Marj Dabiq, em 1516, o Império Otomano tomou Jerusalém a que sultanato?",
+"o": [
+"Mameluco",
+"Aiúbida",
+"Omíada",
+"Seljúcida"
+]
+},
+"en": {
+"q": "After the 1516 Battle of Marj Dabiq, the Ottoman Empire took control of Jerusalem from which sultanate?",
+"o": [
+"Mamluk",
+"Ayyubid",
+"Umayyad",
+"Seljuq"
+]
+}
+},
+{
+"id": "otdb-2372d770f3",
+"pt": {
+"q": "Em que ano ocorreu a invasão do Kuwait pelo Iraque?",
+"o": [
+"1988",
+"1990",
+"1992",
+"1986"
+]
+},
+"en": {
+"q": "In which year did the Invasion of Kuwait by Iraq occur?",
+"o": [
+"1988",
+"1990",
+"1992",
+"1986"
+]
+}
+},
+{
+"id": "otdb-7f607fcfe4",
+"pt": {
+"q": "Qual era o nome não oficial da Alemanha entre 1919 e 1933?",
+"o": [
+"República Democrática Alemã",
+"Oesterreich",
+"República de Weimar",
+"República Federal da Alemanha"
+]
+},
+"en": {
+"q": "What was the unofficial name for Germany between 1919 and 1933?",
+"o": [
+"German Democratic Republic",
+"Oesterreich",
+"Weimar Republic",
+"Federal Republic of Germany"
+]
+}
+},
+{
+"id": "otdb-1981f3137f",
+"pt": {
+"q": "Quais foram os primeiros estados a separar-se da Jugoslávia?",
+"o": [
+"Eslovénia e Macedónia",
+"Montenegro e Eslovénia",
+"Eslovénia e Croácia",
+"Macedónia e Montenegro"
+]
+},
+"en": {
+"q": "What were the first states to break away from Yugoslavia?",
+"o": [
+"Slovenia, Macedonia",
+"Montenegro, Slovenia",
+"Slovenia, Croatia",
+"Macedonia, Montenegro"
+]
+}
+},
+{
+"id": "otdb-0c11025102",
+"pt": {
+"q": "Em que ano se deu a Batalha de Azincourt?",
+"o": [
+"1401",
+"1415",
+"1463",
+"1422"
+]
+},
+"en": {
+"q": "What year did the Battle of Agincourt take place?",
+"o": [
+"1401",
+"1415",
+"1463",
+"1422"
+]
+}
+},
+{
+"id": "otdb-ca7c932bba",
+"pt": {
+"q": "A Basílica de Santa Sofia foi mandada construir por que imperador bizantino?",
+"o": [
+"Justiniano I",
+"Arcádio",
+"Constantino IV",
+"Teodósio, o Grande"
+]
+},
+"en": {
+"q": "The Hagia Sophia was commissioned by which emperor of the Byzantine Empire?",
+"o": [
+"Justinian I",
+"Arcadius",
+"Constantine IV",
+"Theodosius the Great"
+]
+}
+},
+{
+"id": "otdb-f7250cd9c8",
+"pt": {
+"q": "Em que guerra se alistou voluntariamente George Orwell, tendo quase morrido?",
+"o": [
+"Guerra Civil Russa",
+"Primeira Guerra Mundial",
+"Guerra Civil Espanhola",
+"Segunda Guerra Mundial"
+]
+},
+"en": {
+"q": "What war did George Orwell famously volunteer for and nearly died in?",
+"o": [
+"Russian Civil War",
+"World War I",
+"Spanish Civil War",
+"World War II"
+]
+}
+},
+{
+"id": "otdb-afc74db0d7",
+"pt": {
+"q": "Que país atacou o USS Liberty a 8 de junho de 1967?",
+"o": [
+"Síria",
+"Israel",
+"Arábia Saudita",
+"Irão"
+]
+},
+"en": {
+"q": "Which country attacked the USS Liberty on June 8, 1967?",
+"o": [
+"Syria",
+"Israel",
+"Saudi Arabia",
+"Iran"
+]
+}
+},
+{
+"id": "otdb-ff5478a44e",
+"pt": {
+"q": "Qual era a alcunha de Manfred von Richthofen?",
+"o": [
+"A Serpente Azul",
+"O Ás de Altitude",
+"O Barão Vermelho",
+"O Artilheiro Alemão"
+]
+},
+"en": {
+"q": "What was Manfred von Richthofen's nickname?",
+"o": [
+"The Blue Serpent",
+"The High Flying Ace",
+"The Red Baron",
+"The German Gunner"
+]
+}
+},
+{
+"id": "otdb-5366091fc5",
+"pt": {
+"q": "Que batalha foi a mais longa da Primeira Guerra Mundial, tendo durado cerca de 303 dias?",
+"o": [
+"Batalha de Estalinegrado",
+"Batalha de Amiens",
+"Batalha de Passchendaele",
+"Batalha de Verdun"
+]
+},
+"en": {
+"q": "What battle was the longest in World War I, lasting approximately 303 days?",
+"o": [
+"Battle of Stalingrad",
+"Battle of Amiens",
+"Battle of Passchendaele",
+"Battle of Verdun"
+]
+}
+},
+{
+"id": "otdb-51630ca7ac",
+"pt": {
+"q": "A Guerra dos Trinta Anos terminou com que tratado?",
+"o": [
+"Tratado de Versalhes",
+"Paz de Vestefália",
+"Paz de Praga",
+"Tratado de Paris"
+]
+},
+"en": {
+"q": "The Thirty Years War ended with which treaty?",
+"o": [
+"Treaty of Versailles",
+"Peace of Westphalia",
+"Peace of Prague",
+"Treaty of Paris"
+]
+}
+},
+{
+"id": "otdb-51e64e7579",
+"pt": {
+"q": "Qual dos seguintes revolucionários soviéticos foi exilado da URSS e mais tarde assassinado, em 1940, por criticar o estalinismo?",
+"o": [
+"Mikhail Kalinin",
+"Vladimir Lenine",
+"Leon Trotsky",
+"Lev Kamenev"
+]
+},
+"en": {
+"q": "Which of the following Soviet revolutionaries was exiled from the USSR and later assassinated in 1940 for criticizing Stalinism?",
+"o": [
+"Mikhail Kalinin",
+"Vladimir Lenin",
+"Leon Trotsky",
+"Lev Kamenev"
+]
+}
+},
+{
+"id": "otdb-edd9933dbc",
+"pt": {
+"q": "Em que ano terminou a Primeira Guerra Mundial?",
+"o": [
+"1918",
+"1912",
+"1914",
+"1916"
+]
+},
+"en": {
+"q": "In what year did the First World War end?",
+"o": [
+"1918",
+"1912",
+"1914",
+"1916"
+]
+}
+},
+{
+"id": "otdb-d0864fdf62",
+"pt": {
+"q": "Que primeiro-ministro australiano desapareceu em 1967 e nunca foi encontrado?",
+"o": [
+"Scott Morrison",
+"Edmund Barton",
+"Paul Keating",
+"Harold Holt"
+]
+},
+"en": {
+"q": "Which Australian Prime Minister disappeared in 1967 and was never found?",
+"o": [
+"Scott Morrison",
+"Edmund Barton",
+"Paul Keating",
+"Harold Holt"
+]
+}
+},
+{
+"id": "otdb-dc8df57bb3",
+"pt": {
+"q": "Como foi executado Sócrates?",
+"o": [
+"Por fuzilamento",
+"Por decapitação",
+"Por envenenamento",
+"Por crucificação"
+]
+},
+"en": {
+"q": "How was Socrates executed?",
+"o": [
+"Firing squad",
+"Decapitation",
+"Poison",
+"Crucifixion"
+]
+}
+},
+{
+"id": "otdb-542fa9b52c",
+"pt": {
+"q": "Em que prisão esteve Adolf Hitler detido em 1924?",
+"o": [
+"Prisão de Spandau",
+"Hohenasperg",
+"Prisão de Landsberg",
+"Abadia de Ebrach"
+]
+},
+"en": {
+"q": "In what prison was Adolf Hitler held in 1924?",
+"o": [
+"Spandau Prison",
+"Hohenasperg",
+"Landsberg Prison",
+"Ebrach Abbey"
+]
+}
+},
+{
+"id": "otdb-1b7e841657",
+"pt": {
+"q": "A que filósofo grego se associa a frase «Só sei que nada sei»?",
+"o": [
+"Platão",
+"Pitágoras",
+"Aristóteles",
+"Sócrates"
+]
+},
+"en": {
+"q": "With which Greek philosopher would you associate the phrase, \"I know that I know nothing\"?",
+"o": [
+"Plato",
+"Pythagoras",
+"Aristotle",
+"Socrates"
+]
+}
+},
+{
+"id": "otdb-40b3e9b4b2",
+"pt": {
+"q": "Que marechal de campo alemão ficou conhecido como a «Raposa do Deserto»?",
+"o": [
+"Ernst Busch",
+"Erwin Rommel",
+"Wolfram von Richthofen",
+"Wilhelm List"
+]
+},
+"en": {
+"q": "Which German field marshal was known as the \"Desert Fox\"?",
+"o": [
+"Ernst Busch",
+"Erwin Rommel",
+"Wolfram Freiherr von Richthofen",
+"Wilhelm List"
+]
+}
+},
+{
+"id": "otdb-dc6f564948",
+"pt": {
+"q": "Em que ano foi Constantinopla conquistada pelos turcos?",
+"o": [
+"1435",
+"1440",
+"1453",
+"1454"
+]
+},
+"en": {
+"q": "In which year was Constantinople conquered by the Turks?",
+"o": [
+"1435",
+"1440",
+"1453",
+"1454"
+]
+}
+},
+{
+"id": "otdb-27fa371826",
+"pt": {
+"q": "Quem foi primeiro-ministro do Reino Unido durante a maior parte da Segunda Guerra Mundial?",
+"o": [
+"Winston Churchill",
+"Edward Heath",
+"Harold Macmillan",
+"Neville Chamberlain"
+]
+},
+"en": {
+"q": "Who was the Prime Minister of the United Kingdom for most of World War II?",
+"o": [
+"Winston Churchill",
+"Edward Heath",
+"Harold Macmillan",
+"Neville Chamberlain"
+]
+}
+},
+{
+"id": "otdb-a1a4772193",
+"pt": {
+"q": "A quem se atribui pela primeira vez o argumento ontológico para provar a existência de Deus?",
+"o": [
+"Immanuel Kant",
+"Aristóteles",
+"René Descartes",
+"Anselmo de Cantuária"
+]
+},
+"en": {
+"q": "The ontological argument for the proof of God's existence is first attributed to whom?",
+"o": [
+"Immanuel Kant",
+"Aristotle",
+"René Descartes",
+"Anselm of Canterbury"
+]
+}
+},
+{
+"id": "otdb-281edb7be4",
+"pt": {
+"q": "Quem assassinou o arquiduque Francisco Fernando?",
+"o": [
+"Gavrilo Princip",
+"Ferdinand Cohen-Blind",
+"Nedeljko Čabrinović",
+"Oskar Potiorek"
+]
+},
+"en": {
+"q": "Who assassinated Archduke Franz Ferdinand?",
+"o": [
+"Gavrilo Princip",
+"Ferdinand Cohen-Blind",
+"Nedeljko Čabrinović",
+"Oskar Potiorek"
+]
+}
+},
+{
+"id": "otdb-ec03c18cfb",
+"pt": {
+"q": "Em que país decorreu a Batalha do Somme, na Primeira Guerra Mundial?",
+"o": [
+"França",
+"Itália",
+"Alemanha",
+"Áustria"
+]
+},
+"en": {
+"q": "The Battle of the Somme in World War I took place in which country?",
+"o": [
+"France",
+"Italy",
+"Germany",
+"Austria"
+]
+}
+},
+{
+"id": "otdb-00d1922896",
+"pt": {
+"q": "Em que ano começou a Revolução Francesa?",
+"o": [
+"1789",
+"1756",
+"1823",
+"1799"
+]
+},
+"en": {
+"q": "When did the French Revolution begin?",
+"o": [
+"1789",
+"1756",
+"1823",
+"1799"
+]
+}
+},
+{
+"id": "otdb-512db85e1d",
+"pt": {
+"q": "Qual destes países NÃO fez parte das Potências Centrais na Primeira Guerra Mundial?",
+"o": [
+"Espanha",
+"Alemanha",
+"Áustria-Hungria",
+"Turquia"
+]
+},
+"en": {
+"q": "Which one of these countries was NOT in the Central Powers during WWI?",
+"o": [
+"Spain",
+"Germany",
+"Austria-Hungary",
+"Turkey"
+]
+}
+},
+{
+"id": "otdb-fe1b2bf277",
+"pt": {
+"q": "Em que ano tomou Guilherme, o Conquistador, o controlo de Inglaterra?",
+"o": [
+"1066",
+"1205",
+"1123",
+"901"
+]
+},
+"en": {
+"q": "In what year did William the Conqueror take control of England?",
+"o": [
+"1066",
+"1205",
+"1123",
+"901"
+]
+}
+},
+{
+"id": "otdb-cab3235a75",
+"pt": {
+"q": "Qual era a moeda oficial da Alemanha até 2002?",
+"o": [
+"Franco",
+"Libra esterlina",
+"Reichtoken",
+"Marco"
+]
+},
+"en": {
+"q": "What was the official German currency until 2002?",
+"o": [
+"Franc",
+"Pound sterling",
+"Reichtoken",
+"Mark"
+]
+}
+},
+{
+"id": "otdb-ec5b7c24f1",
+"pt": {
+"q": "Onde foi travada a Segunda Guerra dos Bóeres, em 1899?",
+"o": [
+"África do Sul",
+"Argentina",
+"Nepal",
+"Bulgária"
+]
+},
+"en": {
+"q": "The Second Boer War in 1899 was fought where?",
+"o": [
+"South Africa",
+"Argentina",
+"Nepal",
+"Bulgaria"
+]
+}
+},
+{
+"id": "otdb-d43754526e",
+"pt": {
+"q": "Em que ano terminou a Grande Guerra do Norte, entre a Rússia e a Suécia?",
+"o": [
+"1726",
+"1727",
+"1724",
+"1721"
+]
+},
+"en": {
+"q": "In what year did the Great Northern War, between Russia and Sweden, end?",
+"o": [
+"1726",
+"1727",
+"1724",
+"1721"
+]
+}
+},
+{
+"id": "otdb-0905672289",
+"pt": {
+"q": "Em que dia invadiu a Alemanha a Polónia?",
+"o": [
+"7 de dezembro de 1941",
+"22 de junho de 1941",
+"1 de setembro de 1939",
+"7 de julho de 1937"
+]
+},
+"en": {
+"q": "On what day did Germany invade Poland?",
+"o": [
+"December 7, 1941",
+"June 22, 1941",
+"September 1, 1939",
+"July 7, 1937"
+]
+}
+},
+{
+"id": "otdb-198f19b909",
+"pt": {
+"q": "Quando foi fundada a SS, ou Schutzstaffel?",
+"o": [
+"1 de setembro de 1941",
+"4 de abril de 1925",
+"8 de março de 1935",
+"21 de fevereiro de 1926"
+]
+},
+"en": {
+"q": "When was the SS or Schutzstaffel established?",
+"o": [
+"September 1st, 1941",
+"April 4th, 1925",
+"March 8th, 1935",
+"February 21st, 1926"
+]
+}
+},
+{
+"id": "otdb-15d680944a",
+"pt": {
+"q": "Em que ano foi fundado o fabricante italiano de armas de fogo Beretta?",
+"o": [
+"1923",
+"1526",
+"1998",
+"1776"
+]
+},
+"en": {
+"q": "What year was the Italian firearms manufacturer Beretta founded?",
+"o": [
+"1923",
+"1526",
+"1998",
+"1776"
+]
+}
+},
+{
+"id": "otdb-1630b6594e",
+"pt": {
+"q": "O rei Henrique VIII foi o segundo monarca de que casa real europeia?",
+"o": [
+"York",
+"Stuart",
+"Lancaster",
+"Tudor"
+]
+},
+"en": {
+"q": "King Henry VIII was the second monarch of which European royal house?",
+"o": [
+"York",
+"Stuart",
+"Lancaster",
+"Tudor"
+]
+}
+},
+{
+"id": "otdb-74adedebd1",
+"pt": {
+"q": "Com que idade morreu o rei Henrique V de Inglaterra?",
+"o": [
+"73",
+"87",
+"35",
+"62"
+]
+},
+"en": {
+"q": "What age was King Henry V when he died?",
+"o": [
+"73",
+"87",
+"35",
+"62"
+]
+}
+},
+{
+"id": "otdb-d6fc3c41e2",
+"pt": {
+"q": "Os restos mortais enterrados de que explorador inglês da Austrália foram encontrados em Londres em janeiro de 2019?",
+"o": [
+"Matthew Flinders",
+"Dirk Hartog",
+"Abel Tasman",
+"William Bourke"
+]
+},
+"en": {
+"q": "The buried remains of which English explorer of Australia were found in London in January 2019?",
+"o": [
+"Matthew Flinders",
+"Dirk Hartog",
+"Abel Tasman",
+"William Bourke"
+]
+}
+},
+{
+"id": "otdb-90c727e0b2",
+"pt": {
+"q": "Que país aderiu à UE em 2013?",
+"o": [
+"Turquia",
+"Bulgária",
+"Eslovénia",
+"Croácia"
+]
+},
+"en": {
+"q": "What country joined the EU in 2013?",
+"o": [
+"Turkey",
+"Bulgaria",
+"Slovenia",
+"Croatia"
+]
+}
+},
+{
+"id": "otdb-037368be2f",
+"pt": {
+"q": "Qual dos seguintes anos é habitualmente conhecido como o «Ano Sem Verão»?",
+"o": [
+"1823",
+"1816",
+"1808",
+"1813"
+]
+},
+"en": {
+"q": "Which of the following years is commonly referred to as the \"Year Without a Summer\"?",
+"o": [
+"1823",
+"1816",
+"1808",
+"1813"
+]
+}
+},
+{
+"id": "otdb-5762826391",
+"pt": {
+"q": "Segundo a lenda, os antigos gregos construíram um enorme modelo de madeira de que animal para entrar em Troia?",
+"o": [
+"Elefante",
+"Cabra",
+"Cavalo",
+"Lobo"
+]
+},
+"en": {
+"q": "According to legend, the ancient Greeks constructed a huge wooden model of which animal to gain entrance to Troy?",
+"o": [
+"Elephant",
+"Goat",
+"Horse",
+"Wolf"
+]
+}
+},
+{
+"id": "otdb-d738dee7bc",
+"pt": {
+"q": "Quem foi o primeiro imperador de Roma?",
+"o": [
+"Cláudio",
+"Augusto",
+"Júlio César",
+"Pompeu Magno"
+]
+},
+"en": {
+"q": "Who was the first emperor of Rome?",
+"o": [
+"Claudius",
+"Augustus",
+"Julius Caesar",
+"Pompey Magnus"
+]
+}
+},
+{
+"id": "otdb-7adf6fab20",
+"pt": {
+"q": "Como se chamou a operação alemã de outubro de 1941 para tomar Moscovo antes do inverno?",
+"o": [
+"Operação Tufão",
+"Operação Barbarossa",
+"Operação Girassol",
+"Caso Azul"
+]
+},
+"en": {
+"q": "What was the name of the German offensive operation in October 1941 to take Moscow before winter?",
+"o": [
+"Operation Typhoon",
+"Operation Barbarossa",
+"Operation Sunflower",
+"Case Blue"
+]
+}
+},
+{
+"id": "otdb-fa74a322af",
+"pt": {
+"q": "Quantos anos durou a Guerra dos Cem Anos?",
+"o": [
+"101",
+"116",
+"100",
+"90"
+]
+},
+"en": {
+"q": "How many years did the Hundred Years' War last?",
+"o": [
+"101",
+"116",
+"100",
+"90"
+]
+}
+},
+{
+"id": "otdb-5ca1c0740f",
+"pt": {
+"q": "Em que ano foi travada a Batalha de Hastings?",
+"o": [
+"1204",
+"1066",
+"1420",
+"911"
+]
+},
+"en": {
+"q": "The Battle of Hastings was fought in which year?",
+"o": [
+"1204",
+"1066",
+"1420",
+"911"
+]
+}
+},
+{
+"id": "otdb-a43d967b0f",
+"pt": {
+"q": "Qual destes fabricantes de automóveis deu o nome a uma guerra?",
+"o": [
+"Ford",
+"Volkswagen",
+"Toyota",
+"Honda"
+]
+},
+"en": {
+"q": "Which of the following car manufacturers had a war named after it?",
+"o": [
+"Ford",
+"Volkswagen",
+"Toyota",
+"Honda"
+]
+}
+},
+{
+"id": "otdb-fc2c5b721e",
+"pt": {
+"q": "Em que guerra ocorreram os bombardeamentos atómicos de Hiroxima e Nagasáqui?",
+"o": [
+"Primeira Guerra Sino-Japonesa",
+"Guerra Russo-Japonesa",
+"Segunda Guerra Mundial",
+"Primeira Guerra Mundial"
+]
+},
+"en": {
+"q": "In which war did the atomic bombings of Hiroshima and Nagasaki occur?",
+"o": [
+"First Sino-Japanese War",
+"Russo-Japanese War",
+"World War II",
+"World War I"
+]
+}
+},
+{
+"id": "otdb-61f061235a",
+"pt": {
+"q": "Quem coroou Carlos Magno imperador do Sacro Império Romano no dia de Natal do ano 800?",
+"o": [
+"O papa Valentim",
+"O papa Urbano IV",
+"O papa Leão III",
+"O papa Estêvão V"
+]
+},
+"en": {
+"q": "Who crowned Charlemagne as Holy Roman Emperor on Christmas Day in 800?",
+"o": [
+"Pope Valentine",
+"Pope Urban IV",
+"Pope Leo III",
+"Pope Stephen V"
+]
+}
+},
+{
+"id": "otdb-ad5ad83a9a",
+"pt": {
+"q": "Quem foi o líder da Suécia na Grande Guerra do Norte?",
+"o": [
+"Carlos XII",
+"Pedro, o Grande",
+"Per Albin Hansson",
+"Gustavo Adolfo"
+]
+},
+"en": {
+"q": "Who was the leader of Sweden in the Great Northern War?",
+"o": [
+"Charles XII",
+"Peter the Great",
+"Per Albin Hansson",
+"Gustavus Adolphus"
+]
+}
+},
+{
+"id": "otdb-632d7ca6d7",
+"pt": {
+"q": "Quem foi o primeiro Presidente do México?",
+"o": [
+"Vicente Guerrero",
+"Miguel Hidalgo y Costilla",
+"Benito Juárez",
+"Guadalupe Victoria"
+]
+},
+"en": {
+"q": "Who was the 1st President of Mexico?",
+"o": [
+"Vicente Guerrero",
+"Miguel Hidalgo y Costilla",
+"Benito Juárez",
+"Guadalupe Victoria"
+]
+}
+}
+]

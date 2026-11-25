@@ -1,0 +1,408 @@
+[
+ {
+  "id": "otdb-ea5563fc6f",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Normandy_landings",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-287f05e796",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Cod_Wars",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-ca7652453d",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Federation_of_Australia",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-8b4525f65a",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Battle_of_Marj_Dabiq",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-2372d770f3",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Iraqi_invasion_of_Kuwait",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-7f607fcfe4",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Weimar_Republic",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-1981f3137f",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Breakup_of_Yugoslavia",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-0c11025102",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Battle_of_Agincourt",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-ca7c932bba",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-f7250cd9c8",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/George_Orwell",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-afc74db0d7",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/USS_Liberty_incident",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-ff5478a44e",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Manfred_von_Richthofen",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-5366091fc5",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Battle_of_Verdun",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-51630ca7ac",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Peace_of_Westphalia",
+  "problemas": [
+   "texto"
+  ],
+  "nota": "en-US: «Thirty Years War» sem apóstrofo; a forma correta é «Thirty Years' War»."
+ },
+ {
+  "id": "otdb-51e64e7579",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Leon_Trotsky",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-edd9933dbc",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/World_War_I",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-d0864fdf62",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Harold_Holt",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-dc8df57bb3",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Trial_of_Socrates",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-542fa9b52c",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Landsberg_Prison",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-1b7e841657",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/I_know_that_I_know_nothing",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-40b3e9b4b2",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Erwin_Rommel",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-dc6f564948",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Fall_of_Constantinople",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-27fa371826",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Winston_Churchill",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-a1a4772193",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Ontological_argument",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-281edb7be4",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-ec03c18cfb",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Battle_of_the_Somme",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-00d1922896",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/French_Revolution",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-512db85e1d",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Central_Powers",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-fe1b2bf277",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Norman_Conquest",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-cab3235a75",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": "https://www.gesetze-im-internet.de/dmbeendg/__1.html",
+  "problemas": [
+   "ambigua"
+  ],
+  "nota": "Enunciado impreciso: o marco deixou de ter curso legal a 31/12/2001 (DMBeEndG §1) e o euro já era a moeda oficial desde 1999; dizer «até 2002» é enganador (melhor «até à entrada das notas e moedas de euro, em 2002»)."
+ },
+ {
+  "id": "otdb-ec5b7c24f1",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Second_Boer_War",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-d43754526e",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Treaty_of_Nystad",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-0905672289",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Invasion_of_Poland",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-198f19b909",
+  "resposta": 1,
+  "certeza": "media",
+  "fonte": "https://en.wikipedia.org/wiki/Schutzstaffel",
+  "problemas": [
+   "ambigua"
+  ],
+  "nota": "A data de fundação é disputada: 4/4/1925 é a mais citada, mas a data oficial da própria SS era 9/11/1925 (Wikipedia, SS); perguntar só o ano (1925) evitaria a ambiguidade."
+ },
+ {
+  "id": "otdb-15d680944a",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Beretta",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-1630b6594e",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Henry_VIII",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-74adedebd1",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Henry_V_of_England",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-d6fc3c41e2",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://www.bbc.com/news/uk-england-london-47010574",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-90c727e0b2",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Croatia_in_the_European_Union",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-037368be2f",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Year_Without_a_Summer",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-5762826391",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Trojan_Horse",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-d738dee7bc",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Augustus",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-7adf6fab20",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Battle_of_Moscow",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-fa74a322af",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Hundred_Years%27_War",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-5ca1c0740f",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Battle_of_Hastings",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-a43d967b0f",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Toyota_War",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-fc2c5b721e",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-61f061235a",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Pope_Leo_III",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-ad5ad83a9a",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Great_Northern_War",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-632d7ca6d7",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": "https://en.wikipedia.org/wiki/Guadalupe_Victoria",
+  "problemas": [],
+  "nota": ""
+ }
+]

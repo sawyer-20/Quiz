@@ -1,0 +1,414 @@
+[
+ {
+  "id": "otdb-8cc48c81f7",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-0a54441ac8",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-3260365d08",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-ac9156abdc",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-790b6e34df",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-4aa2f6e8a3",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-b726f08f0f",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-f915ebc1fa",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-9ce85ea721",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-c46911f020",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-8195b6ab06",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "texto"
+  ],
+  "nota": "en-US: vírgula e espaço duplo indevidos em «the song,  'A Boy Named Sue'»."
+ },
+ {
+  "id": "otdb-ce7b2db257",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-cfbf55963f",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-7facd482f7",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-7368403b4b",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-9e3d88d634",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-ba6510f99b",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-828380d16e",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-8885653d45",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-e8a7a9d3c4",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-668f813433",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-28bfb76809",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-a6c1c0fbcf",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-e401566839",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-7e3c328b09",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-ac541d374e",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-617f792c38",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "texto"
+  ],
+  "nota": "en-US: frase com vírgula a unir duas orações (comma splice) e «mistaken as» em vez de «mistaken for»."
+ },
+ {
+  "id": "otdb-4d21838838",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-e5ccfaac09",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-416556c9bf",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": "https://wikiwand.com/en/articles/Sleepyhead_(song)",
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-d4f1be3194",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-13b120ba25",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-3dd3252b03",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-386bd2ce42",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-563a5b7fde",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "texto"
+  ],
+  "nota": "en-US: vírgula indevida antes do nome em «industrial rock band, 'Nine Inch Nails'»."
+ },
+ {
+  "id": "otdb-086bc36e1b",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-92db457dcb",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-cdde9edf38",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-338172c9b7",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-4ebeb17f47",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-6241e19d14",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-588c3cd489",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-31fdbe7046",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-54faed976a",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-ece247dc63",
+  "resposta": 2,
+  "certeza": "media",
+  "fonte": "https://www.rollingstone.com/music/music-features/bob-dylan-make-you-feel-my-love-covers-903941/amp/",
+  "problemas": [
+   "ambigua"
+  ],
+  "nota": "Dylan escreveu-a, mas a primeira versão editada foi a de Billy Joel («To Make You Feel My Love», agosto de 1997), antes de «Time Out of Mind» (30/9/1997): «interpretou originalmente» torna Billy Joel defensável."
+ },
+ {
+  "id": "otdb-9a36d7d127",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-a140dcdaa4",
+  "resposta": 0,
+  "certeza": "media",
+  "fonte": "https://www.stereogum.com/2070904/the-number-ones-bee-gees-tragedy/franchises/the-number-ones/",
+  "problemas": [
+   "ambigua"
+  ],
+  "nota": "Premissa errada: «Tragedy» saiu em 1979 (álbum Spirits Having Flown, single de fevereiro de 1979), não em 1978; a versão dos Steps é de novembro de 1998 (19 anos depois)."
+ },
+ {
+  "id": "otdb-f6063b5d2e",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ },
+ {
+  "id": "otdb-3387a7b437",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "texto"
+  ],
+  "nota": "en-US: «The Battle Of Los Angeles» com «Of» maiúsculo; o título é «The Battle of Los Angeles»."
+ },
+ {
+  "id": "otdb-435325a59e",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": ""
+ }
+]

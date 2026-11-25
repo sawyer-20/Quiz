@@ -1,0 +1,1052 @@
+[
+{
+"id": "wd-descobridor-Q3123",
+"pt": {
+"q": "Quem descobriu Io, lua de um planeta do Sistema Solar?",
+"o": [
+"Edward Barnard",
+"Christiaan Huygens",
+"Galileu Galilei",
+"William Lassell"
+]
+},
+"en": {
+"q": "Who discovered Io, a moon of a Solar System planet?",
+"o": [
+"Edward Emerson Barnard",
+"Christiaan Huygens",
+"Galileo Galilei",
+"William Lassell"
+]
+}
+},
+{
+"id": "wd-lua-Q17754",
+"pt": {
+"q": "Jano é uma lua de que planeta?",
+"o": [
+"Saturno",
+"Júpiter",
+"Neptuno",
+"Marte"
+]
+},
+"en": {
+"q": "Janus is a moon of which planet?",
+"o": [
+"Saturn",
+"Jupiter",
+"Neptune",
+"Mars"
+]
+}
+},
+{
+"id": "otdb-67d192800d",
+"pt": {
+"q": "Qual é o nome do buraco negro supermassivo no centro da Via Láctea?",
+"o": [
+"Alfa do Centauro",
+"Andrómeda",
+"Messier 87",
+"Sagitário A*"
+]
+},
+"en": {
+"q": "What is the name of the Supermassive Black Hole in the centre of the Milky Way?",
+"o": [
+"Alpha Centauri",
+"Andromeda",
+"Messier 87",
+"Sagittarius A*"
+]
+}
+},
+{
+"id": "wd-lua-Q17995",
+"pt": {
+"q": "Albiorix é uma lua de que planeta?",
+"o": [
+"Júpiter",
+"Saturno",
+"Marte",
+"Neptuno"
+]
+},
+"en": {
+"q": "Albiorix is a moon of which planet?",
+"o": [
+"Jupiter",
+"Saturn",
+"Mars",
+"Neptune"
+]
+}
+},
+{
+"id": "wd-lua-Q16062",
+"pt": {
+"q": "Náiade é uma lua de que planeta?",
+"o": [
+"Marte",
+"Neptuno",
+"Urano",
+"Saturno"
+]
+},
+"en": {
+"q": "Naiad is a moon of which planet?",
+"o": [
+"Mars",
+"Neptune",
+"Uranus",
+"Saturn"
+]
+}
+},
+{
+"id": "wd-descobridor-Q15040",
+"pt": {
+"q": "Quem descobriu Dione, lua de um planeta do Sistema Solar?",
+"o": [
+"Giovanni Domenico Cassini",
+"William Herschel",
+"Edward Barnard",
+"William Lassell"
+]
+},
+"en": {
+"q": "Who discovered Dione, a moon of a Solar System planet?",
+"o": [
+"Giovanni Domenico Cassini",
+"William Herschel",
+"Edward Emerson Barnard",
+"William Lassell"
+]
+}
+},
+{
+"id": "wd-lua-Q15667",
+"pt": {
+"q": "Mab é uma lua de que planeta?",
+"o": [
+"Júpiter",
+"Neptuno",
+"Marte",
+"Urano"
+]
+},
+"en": {
+"q": "Mab is a moon of which planet?",
+"o": [
+"Jupiter",
+"Neptune",
+"Mars",
+"Uranus"
+]
+}
+},
+{
+"id": "wd-descobridor-Q3343",
+"pt": {
+"q": "Quem descobriu Ariel, lua de um planeta do Sistema Solar?",
+"o": [
+"William Lassell",
+"Asaph Hall",
+"Gerard Kuiper",
+"Giovanni Domenico Cassini"
+]
+},
+"en": {
+"q": "Who discovered Ariel, a moon of a Solar System planet?",
+"o": [
+"William Lassell",
+"Asaph Hall",
+"Gerard Kuiper",
+"Giovanni Domenico Cassini"
+]
+}
+},
+{
+"id": "wd-lua-Q15660",
+"pt": {
+"q": "Perdita é uma lua de que planeta?",
+"o": [
+"Júpiter",
+"Marte",
+"Urano",
+"Neptuno"
+]
+},
+"en": {
+"q": "Perdita is a moon of which planet?",
+"o": [
+"Jupiter",
+"Mars",
+"Uranus",
+"Neptune"
+]
+}
+},
+{
+"id": "wd-lua-Q190536",
+"pt": {
+"q": "S/2000 J 11 é uma lua de que planeta?",
+"o": [
+"Marte",
+"Saturno",
+"Júpiter",
+"Neptuno"
+]
+},
+"en": {
+"q": "Dia is a moon of which planet?",
+"o": [
+"Mars",
+"Saturn",
+"Jupiter",
+"Neptune"
+]
+}
+},
+{
+"id": "otdb-9038240207",
+"pt": {
+"q": "Qual é o nome do telescópio espacial mais famoso da NASA?",
+"o": [
+"Millennium Falcon",
+"Estrela da Morte",
+"Olho Grande",
+"Telescópio Espacial Hubble"
+]
+},
+"en": {
+"q": "What is the name of NASA’s most famous space telescope?",
+"o": [
+"Millenium Falcon",
+"Death Star",
+"Big Eye",
+"Hubble Space Telescope"
+]
+}
+},
+{
+"id": "wd-lua-Q171473",
+"pt": {
+"q": "Anéis de Urano é uma lua de que planeta?",
+"o": [
+"Marte",
+"Júpiter",
+"Urano",
+"Saturno"
+]
+},
+"en": {
+"q": "rings of Uranus is a moon of which planet?",
+"o": [
+"Mars",
+"Jupiter",
+"Uranus",
+"Saturn"
+]
+}
+},
+{
+"id": "wd-lua-Q214002",
+"pt": {
+"q": "S/2003 J 5 é uma lua de que planeta?",
+"o": [
+"Saturno",
+"Júpiter",
+"Marte",
+"Urano"
+]
+},
+"en": {
+"q": "Eirene is a moon of which planet?",
+"o": [
+"Saturn",
+"Jupiter",
+"Mars",
+"Uranus"
+]
+}
+},
+{
+"id": "otdb-6ef6c1ea94",
+"pt": {
+"q": "Qual dos três astronautas da missão Apollo 11 NÃO caminhou na Lua?",
+"o": [
+"Nenhum deles",
+"Neil Armstrong",
+"Michael Collins",
+"Buzz Aldrin"
+]
+},
+"en": {
+"q": "Which of the three astronauts of the Apollo 11 spaceflight did NOT walk on the moon?",
+"o": [
+"None of them",
+"Neil Armstrong",
+"Michael Collins",
+"Buzz Aldrin"
+]
+}
+},
+{
+"id": "wd-lua-Q17077",
+"pt": {
+"q": "Aoede é uma lua de que planeta?",
+"o": [
+"Neptuno",
+"Júpiter",
+"Saturno",
+"Urano"
+]
+},
+"en": {
+"q": "Aoede is a moon of which planet?",
+"o": [
+"Neptune",
+"Jupiter",
+"Saturn",
+"Uranus"
+]
+}
+},
+{
+"id": "wd-lua-Q16968",
+"pt": {
+"q": "Herse é uma lua de que planeta?",
+"o": [
+"Júpiter",
+"Neptuno",
+"Urano",
+"Saturno"
+]
+},
+"en": {
+"q": "Herse is a moon of which planet?",
+"o": [
+"Jupiter",
+"Neptune",
+"Uranus",
+"Saturn"
+]
+}
+},
+{
+"id": "wd-lua-Q15637",
+"pt": {
+"q": "Desdémona é uma lua de que planeta?",
+"o": [
+"Urano",
+"Marte",
+"Neptuno",
+"Saturno"
+]
+},
+"en": {
+"q": "Desdemona is a moon of which planet?",
+"o": [
+"Uranus",
+"Mars",
+"Neptune",
+"Saturn"
+]
+}
+},
+{
+"id": "wd-lua-Q17109",
+"pt": {
+"q": "Calique é uma lua de que planeta?",
+"o": [
+"Neptuno",
+"Júpiter",
+"Marte",
+"Saturno"
+]
+},
+"en": {
+"q": "Kalyke is a moon of which planet?",
+"o": [
+"Neptune",
+"Jupiter",
+"Mars",
+"Saturn"
+]
+}
+},
+{
+"id": "wd-lua-Q15037",
+"pt": {
+"q": "Hiperião é uma lua de que planeta?",
+"o": [
+"Marte",
+"Neptuno",
+"Júpiter",
+"Saturno"
+]
+},
+"en": {
+"q": "Hyperion is a moon of which planet?",
+"o": [
+"Mars",
+"Neptune",
+"Jupiter",
+"Saturn"
+]
+}
+},
+{
+"id": "wd-lua-Q17111",
+"pt": {
+"q": "Carme é uma lua de que planeta?",
+"o": [
+"Júpiter",
+"Marte",
+"Urano",
+"Saturno"
+]
+},
+"en": {
+"q": "Carme is a moon of which planet?",
+"o": [
+"Jupiter",
+"Mars",
+"Uranus",
+"Saturn"
+]
+}
+},
+{
+"id": "wd-lua-Q3352",
+"pt": {
+"q": "Miranda é uma lua de que planeta?",
+"o": [
+"Urano",
+"Neptuno",
+"Marte",
+"Saturno"
+]
+},
+"en": {
+"q": "Miranda is a moon of which planet?",
+"o": [
+"Uranus",
+"Neptune",
+"Mars",
+"Saturn"
+]
+}
+},
+{
+"id": "otdb-6895137d62",
+"pt": {
+"q": "Qual é o planeta do Sistema Solar mais próximo do Sol?",
+"o": [
+"Vénus",
+"Mercúrio",
+"Terra",
+"Marte"
+]
+},
+"en": {
+"q": "Which planet in the Solar System is the closest to the Sun?",
+"o": [
+"Venus",
+"Mercury",
+"Earth",
+"Mars"
+]
+}
+},
+{
+"id": "otdb-90b0fda8bd",
+"pt": {
+"q": "Quem foi o primeiro homem a viajar para o espaço?",
+"o": [
+"Neil Armstrong",
+"Buzz Aldrin",
+"Yuri Gagarin",
+"Virgil Ivan «Gus» Grissom"
+]
+},
+"en": {
+"q": "Who was the first man to travel into outer space?",
+"o": [
+"Neil Armstrong",
+"Buzz Aldrin",
+"Yuri Gagarin",
+"Virgil Ivan \"Gus\" Grissom"
+]
+}
+},
+{
+"id": "wd-lua-Q17420",
+"pt": {
+"q": "Cilene é uma lua de que planeta?",
+"o": [
+"Júpiter",
+"Saturno",
+"Marte",
+"Neptuno"
+]
+},
+"en": {
+"q": "Cyllene is a moon of which planet?",
+"o": [
+"Jupiter",
+"Saturn",
+"Mars",
+"Neptune"
+]
+}
+},
+{
+"id": "wd-lua-Q18481",
+"pt": {
+"q": "Caliban é uma lua de que planeta?",
+"o": [
+"Júpiter",
+"Urano",
+"Marte",
+"Saturno"
+]
+},
+"en": {
+"q": "Caliban is a moon of which planet?",
+"o": [
+"Jupiter",
+"Uranus",
+"Mars",
+"Saturn"
+]
+}
+},
+{
+"id": "wd-lua-Q327075",
+"pt": {
+"q": "MAVEN é uma lua de que planeta?",
+"o": [
+"Saturno",
+"Júpiter",
+"Marte",
+"Urano"
+]
+},
+"en": {
+"q": "MAVEN is a moon of which planet?",
+"o": [
+"Saturn",
+"Jupiter",
+"Mars",
+"Uranus"
+]
+}
+},
+{
+"id": "otdb-34a03e9a99",
+"pt": {
+"q": "Qual das seguintes naves espaciais nunca tocou na Lua?",
+"o": [
+"Apollo 11",
+"Luna 2",
+"SMART-1",
+"Mariner 4"
+]
+},
+"en": {
+"q": "Which of the following spacecraft never touched the moon?",
+"o": [
+"Apollo 11",
+"Luna 2",
+"SMART-1",
+"Mariner 4"
+]
+}
+},
+{
+"id": "wd-lua-Q16898",
+"pt": {
+"q": "Helique é uma lua de que planeta?",
+"o": [
+"Júpiter",
+"Saturno",
+"Marte",
+"Urano"
+]
+},
+"en": {
+"q": "Helike is a moon of which planet?",
+"o": [
+"Jupiter",
+"Saturn",
+"Mars",
+"Uranus"
+]
+}
+},
+{
+"id": "wd-lua-Q19517",
+"pt": {
+"q": "Sao é uma lua de que planeta?",
+"o": [
+"Neptuno",
+"Marte",
+"Urano",
+"Júpiter"
+]
+},
+"en": {
+"q": "Sao is a moon of which planet?",
+"o": [
+"Neptune",
+"Mars",
+"Uranus",
+"Jupiter"
+]
+}
+},
+{
+"id": "wd-lua-Q17857",
+"pt": {
+"q": "Telesto é uma lua de que planeta?",
+"o": [
+"Neptuno",
+"Júpiter",
+"Urano",
+"Saturno"
+]
+},
+"en": {
+"q": "Telesto is a moon of which planet?",
+"o": [
+"Neptune",
+"Jupiter",
+"Uranus",
+"Saturn"
+]
+}
+},
+{
+"id": "wd-lua-Q3303",
+"pt": {
+"q": "Encélado é uma lua de que planeta?",
+"o": [
+"Neptuno",
+"Urano",
+"Marte",
+"Saturno"
+]
+},
+"en": {
+"q": "Enceladus is a moon of which planet?",
+"o": [
+"Neptune",
+"Uranus",
+"Mars",
+"Saturn"
+]
+}
+},
+{
+"id": "otdb-25ba6b8693",
+"pt": {
+"q": "De todos os vaivéns espaciais da NASA, quais dois foram destruídos em desastres?",
+"o": [
+"Nenhuns dos anteriores",
+"Enterprise e Atlantis",
+"Discovery e Endeavour",
+"Challenger e Columbia"
+]
+},
+"en": {
+"q": "Out of all of the NASA Space Shuttles, which 2 have been destroyed in disasters?",
+"o": [
+"None of the Above",
+"Enterprise and Atlantis",
+"Discovery and Endeavour",
+"Challenger and Columbia"
+]
+}
+},
+{
+"id": "wd-lua-Q17421",
+"pt": {
+"q": "Euquelade é uma lua de que planeta?",
+"o": [
+"Júpiter",
+"Saturno",
+"Urano",
+"Neptuno"
+]
+},
+"en": {
+"q": "Eukelade is a moon of which planet?",
+"o": [
+"Jupiter",
+"Saturn",
+"Uranus",
+"Neptune"
+]
+}
+},
+{
+"id": "wd-lua-Q16755",
+"pt": {
+"q": "Métis é uma lua de que planeta?",
+"o": [
+"Saturno",
+"Júpiter",
+"Neptuno",
+"Marte"
+]
+},
+"en": {
+"q": "Metis is a moon of which planet?",
+"o": [
+"Saturn",
+"Jupiter",
+"Neptune",
+"Mars"
+]
+}
+},
+{
+"id": "wd-lua-Q17739",
+"pt": {
+"q": "Prometeu é uma lua de que planeta?",
+"o": [
+"Neptuno",
+"Júpiter",
+"Marte",
+"Saturno"
+]
+},
+"en": {
+"q": "Prometheus is a moon of which planet?",
+"o": [
+"Neptune",
+"Jupiter",
+"Mars",
+"Saturn"
+]
+}
+},
+{
+"id": "otdb-f9617cc209",
+"pt": {
+"q": "Qual foi o primeiro mamífero lançado com sucesso para a órbita da Terra?",
+"o": [
+"Ham, o chimpanzé",
+"Belka, a cadela",
+"Laika, a cadela",
+"Baker, o macaco"
+]
+},
+"en": {
+"q": "Who was the first mammal successfully launched into Earth's orbit?",
+"o": [
+"Ham, the chimpanzee",
+"Belka, the dog",
+"Laika, the dog",
+"Baker, the monkey"
+]
+}
+},
+{
+"id": "otdb-7cb14e3723",
+"pt": {
+"q": "O nome de que deusa grega foi escolhido para o planeta anão que provocou a discórdia entre os astrónomos sobre a classificação de Plutão?",
+"o": [
+"Disnómia",
+"Caronte",
+"Ceres",
+"Éris"
+]
+},
+"en": {
+"q": "This Greek goddess's name was chosen for the dwarf planet responsible for discord on Pluto's classification amongst astronomers.",
+"o": [
+"Dysnomia",
+"Charon",
+"Ceres",
+"Eris"
+]
+}
+},
+{
+"id": "wd-lua-Q16837",
+"pt": {
+"q": "Leda é uma lua de que planeta?",
+"o": [
+"Marte",
+"Urano",
+"Neptuno",
+"Júpiter"
+]
+},
+"en": {
+"q": "Leda is a moon of which planet?",
+"o": [
+"Mars",
+"Uranus",
+"Neptune",
+"Jupiter"
+]
+}
+},
+{
+"id": "wd-lua-Q3332",
+"pt": {
+"q": "Oberon é uma lua de que planeta?",
+"o": [
+"Neptuno",
+"Júpiter",
+"Urano",
+"Marte"
+]
+},
+"en": {
+"q": "Oberon is a moon of which planet?",
+"o": [
+"Neptune",
+"Jupiter",
+"Uranus",
+"Mars"
+]
+}
+},
+{
+"id": "wd-lua-Q16936",
+"pt": {
+"q": "Praxidique é uma lua de que planeta?",
+"o": [
+"Marte",
+"Júpiter",
+"Saturno",
+"Neptuno"
+]
+},
+"en": {
+"q": "Praxidike is a moon of which planet?",
+"o": [
+"Mars",
+"Jupiter",
+"Saturn",
+"Neptune"
+]
+}
+},
+{
+"id": "wd-lua-Q2565",
+"pt": {
+"q": "Titã é uma lua de que planeta?",
+"o": [
+"Neptuno",
+"Júpiter",
+"Urano",
+"Saturno"
+]
+},
+"en": {
+"q": "Titan is a moon of which planet?",
+"o": [
+"Neptune",
+"Jupiter",
+"Uranus",
+"Saturn"
+]
+}
+},
+{
+"id": "otdb-05a227464c",
+"pt": {
+"q": "Em que galáxia se situa a Terra?",
+"o": [
+"A Via Láctea",
+"O Buraco Negro",
+"A Galáxia de Marte",
+"A Galáxia Note"
+]
+},
+"en": {
+"q": "Earth is located in which galaxy?",
+"o": [
+"The Milky Way Galaxy",
+"The Black Hole",
+"The Mars Galaxy",
+"The Galaxy Note"
+]
+}
+},
+{
+"id": "wd-lua-Q48400",
+"pt": {
+"q": "anéis de Netuno é uma lua de que planeta?",
+"o": [
+"Marte",
+"Neptuno",
+"Urano",
+"Saturno"
+]
+},
+"en": {
+"q": "rings of Neptune is a moon of which planet?",
+"o": [
+"Mars",
+"Neptune",
+"Uranus",
+"Saturn"
+]
+}
+},
+{
+"id": "otdb-af90643827",
+"pt": {
+"q": "Qual foi a última missão do programa Apollo da NASA?",
+"o": [
+"Apollo 11",
+"Apollo 13",
+"Apollo 17",
+"Apollo 15"
+]
+},
+"en": {
+"q": "Which Apollo mission was the last one in NASA's Apollo program?",
+"o": [
+"Apollo 11",
+"Apollo 13",
+"Apollo 17",
+"Apollo 15"
+]
+}
+},
+{
+"id": "wd-lua-Q19464",
+"pt": {
+"q": "Galateia é uma lua de que planeta?",
+"o": [
+"Urano",
+"Saturno",
+"Marte",
+"Neptuno"
+]
+},
+"en": {
+"q": "Galatea is a moon of which planet?",
+"o": [
+"Uranus",
+"Saturn",
+"Mars",
+"Neptune"
+]
+}
+},
+{
+"id": "wd-descobridor-Q15034",
+"pt": {
+"q": "Quem descobriu Mimas, lua de um planeta do Sistema Solar?",
+"o": [
+"William Lassell",
+"William Herschel",
+"Asaph Hall",
+"Christiaan Huygens"
+]
+},
+"en": {
+"q": "Who discovered Mimas, a moon of a Solar System planet?",
+"o": [
+"William Lassell",
+"William Herschel",
+"Asaph Hall",
+"Christiaan Huygens"
+]
+}
+},
+{
+"id": "wd-lua-Q3060",
+"pt": {
+"q": "anéis de Júpiter é uma lua de que planeta?",
+"o": [
+"Neptuno",
+"Marte",
+"Saturno",
+"Júpiter"
+]
+},
+"en": {
+"q": "rings of Jupiter is a moon of which planet?",
+"o": [
+"Neptune",
+"Mars",
+"Saturn",
+"Jupiter"
+]
+}
+},
+{
+"id": "wd-descobridor-Q3322",
+"pt": {
+"q": "Quem descobriu Titânia, lua de um planeta do Sistema Solar?",
+"o": [
+"William Lassell",
+"William Herschel",
+"Galileu Galilei",
+"Christiaan Huygens"
+]
+},
+"en": {
+"q": "Who discovered Titania, a moon of a Solar System planet?",
+"o": [
+"William Lassell",
+"William Herschel",
+"Galileo Galilei",
+"Christiaan Huygens"
+]
+}
+},
+{
+"id": "wd-lua-Q18497",
+"pt": {
+"q": "Prospero é uma lua de que planeta?",
+"o": [
+"Saturno",
+"Júpiter",
+"Neptuno",
+"Urano"
+]
+},
+"en": {
+"q": "Prospero is a moon of which planet?",
+"o": [
+"Saturn",
+"Jupiter",
+"Neptune",
+"Uranus"
+]
+}
+},
+{
+"id": "otdb-a1bcdea093",
+"pt": {
+"q": "Qual é o planeta mais quente do Sistema Solar?",
+"o": [
+"Mercúrio",
+"Vénus",
+"Júpiter",
+"Marte"
+]
+},
+"en": {
+"q": "What is the hottest planet in the solar system",
+"o": [
+"Mercury ",
+"Venus",
+"Jupiter",
+"Mars"
+]
+}
+}
+]

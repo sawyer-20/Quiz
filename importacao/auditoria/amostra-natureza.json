@@ -1,0 +1,1052 @@
+[
+{
+"id": "wd-nomecientifico-Q25354",
+"pt": {
+"q": "Que animal tem o nome científico Garrulus glandarius?",
+"o": [
+"pintarroxo",
+"coruja-das-torres",
+"gaio-comum",
+"pica-pau-malhado-grande"
+]
+},
+"en": {
+"q": "Which animal has the scientific name Garrulus glandarius?",
+"o": [
+"common Linnet",
+"western Barn Owl",
+"eurasian Jay",
+"great Spotted Woodpecker"
+]
+}
+},
+{
+"id": "wd-nomecientifico-Q129059",
+"pt": {
+"q": "Que animal tem o nome científico Tetrao urogallus?",
+"o": [
+"corvo-comum",
+"tetraz-grande",
+"chapim-azul",
+"periquito-australiano"
+]
+},
+"en": {
+"q": "Which animal has the scientific name Tetrao urogallus?",
+"o": [
+"northern Raven",
+"western capercaillie",
+"eurasian blue tit",
+"budgerigar"
+]
+}
+},
+{
+"id": "wd-grupo-Q34706",
+"pt": {
+"q": "A que grupo de animais pertence a espécie leopardo?",
+"o": [
+"Répteis",
+"Mamíferos",
+"Anfíbios",
+"Aves"
+]
+},
+"en": {
+"q": "Which group of animals does the leopard belong to?",
+"o": [
+"Reptiles",
+"Mammals",
+"Amphibians",
+"Birds"
+]
+}
+},
+{
+"id": "otdb-aecb763f66",
+"pt": {
+"q": "Qual é o animal mais rápido do mundo?",
+"o": [
+"Águia-real",
+"Falcão-peregrino",
+"Tabão",
+"Chita"
+]
+},
+"en": {
+"q": "What is the fastest animal?",
+"o": [
+"Golden Eagle",
+"Peregrine Falcon",
+"Horsefly",
+"Cheetah"
+]
+}
+},
+{
+"id": "wd-nomecientifico-Q171360",
+"pt": {
+"q": "Que animal tem o nome científico Platalea leucorodia?",
+"o": [
+"pega-rabuda",
+"pintassilgo-comum",
+"andorinha-das-chaminés",
+"colhereiro-europeu"
+]
+},
+"en": {
+"q": "Which animal has the scientific name Platalea leucorodia?",
+"o": [
+"eurasian Magpie",
+"european Goldfinch",
+"barn Swallow",
+"eurasian Spoonbill"
+]
+}
+},
+{
+"id": "wd-nomecientifico-Q170251",
+"pt": {
+"q": "Que animal tem o nome científico Circaetus gallicus?",
+"o": [
+"águia-cobreira",
+"rola-turca",
+"alvéola-branca",
+"poupa"
+]
+},
+"en": {
+"q": "Which animal has the scientific name Circaetus gallicus?",
+"o": [
+"short-toed Snake Eagle",
+"eurasian Collared Dove",
+"white Wagtail",
+"eurasian Hoopoe"
+]
+}
+},
+{
+"id": "wd-grupo-Q33609",
+"pt": {
+"q": "A que grupo de animais pertence a espécie urso-polar?",
+"o": [
+"Aves",
+"Répteis",
+"Anfíbios",
+"Mamíferos"
+]
+},
+"en": {
+"q": "Which group of animals does the ursus maritimus belong to?",
+"o": [
+"Birds",
+"Reptiles",
+"Amphibians",
+"Mammals"
+]
+}
+},
+{
+"id": "wd-nomecientifico-Q133006",
+"pt": {
+"q": "Que animal tem o nome científico Elephas maximus?",
+"o": [
+"camurça",
+"elefante-asiático",
+"feneco",
+"ratel"
+]
+},
+"en": {
+"q": "Which animal has the scientific name Elephas maximus?",
+"o": [
+"chamois",
+"asian elephant",
+"vulpes zerda",
+"honey badger"
+]
+}
+},
+{
+"id": "wd-grupo-Q25393",
+"pt": {
+"q": "A que grupo de animais pertence a espécie rouxinol?",
+"o": [
+"Anfíbios",
+"Aves",
+"Répteis",
+"Mamíferos"
+]
+},
+"en": {
+"q": "Which group of animals does the common Nightingale belong to?",
+"o": [
+"Amphibians",
+"Birds",
+"Reptiles",
+"Mammals"
+]
+}
+},
+{
+"id": "wd-grupo-Q131564",
+"pt": {
+"q": "A que grupo de animais pertence a espécie feneco?",
+"o": [
+"Anfíbios",
+"Aves",
+"Mamíferos",
+"Répteis"
+]
+},
+"en": {
+"q": "Which group of animals does the vulpes zerda belong to?",
+"o": [
+"Amphibians",
+"Birds",
+"Mammals",
+"Reptiles"
+]
+}
+},
+{
+"id": "wd-grupo-Q25307",
+"pt": {
+"q": "A que grupo de animais pertence a espécie pega-rabuda?",
+"o": [
+"Répteis",
+"Mamíferos",
+"Aves",
+"Anfíbios"
+]
+},
+"en": {
+"q": "Which group of animals does the eurasian Magpie belong to?",
+"o": [
+"Reptiles",
+"Mammals",
+"Birds",
+"Amphibians"
+]
+}
+},
+{
+"id": "wd-grupo-Q25961",
+"pt": {
+"q": "A que grupo de animais pertence a espécie laverca?",
+"o": [
+"Aves",
+"Mamíferos",
+"Anfíbios",
+"Répteis"
+]
+},
+"en": {
+"q": "Which group of animals does the eurasian Skylark belong to?",
+"o": [
+"Birds",
+"Mammals",
+"Amphibians",
+"Reptiles"
+]
+}
+},
+{
+"id": "otdb-b56e90ec7d",
+"pt": {
+"q": "A que família pertence o gato doméstico?",
+"o": [
+"Felinae",
+"Felidae",
+"Felis",
+"Gato"
+]
+},
+"en": {
+"q": "What is the name of the family that the domestic cat is a member of?",
+"o": [
+"Felinae",
+"Felidae",
+"Felis",
+"Cat"
+]
+}
+},
+{
+"id": "otdb-e8eef0071a",
+"pt": {
+"q": "A que família científica pertence o lobo-da-terra (aardwolf)?",
+"o": [
+"Felidae",
+"Hyaenidae",
+"Eupleridae",
+"Canidae"
+]
+},
+"en": {
+"q": "What scientific family does the Aardwolf belong to?",
+"o": [
+"Felidae",
+"Hyaenidae",
+"Eupleridae",
+"Canidae"
+]
+}
+},
+{
+"id": "wd-grupo-Q159918",
+"pt": {
+"q": "A que grupo de animais pertence a espécie rinoceronte-branco?",
+"o": [
+"Répteis",
+"Anfíbios",
+"Mamíferos",
+"Aves"
+]
+},
+"en": {
+"q": "Which group of animals does the white rhinoceros belong to?",
+"o": [
+"Reptiles",
+"Amphibians",
+"Mammals",
+"Birds"
+]
+}
+},
+{
+"id": "wd-grupo-Q25572",
+"pt": {
+"q": "A que grupo de animais pertence a espécie tartaranhão-azulado?",
+"o": [
+"Anfíbios",
+"Aves",
+"Mamíferos",
+"Répteis"
+]
+},
+"en": {
+"q": "Which group of animals does the hen Harrier belong to?",
+"o": [
+"Amphibians",
+"Birds",
+"Mammals",
+"Reptiles"
+]
+}
+},
+{
+"id": "otdb-8cf81c5776",
+"pt": {
+"q": "Os decápodes são uma ordem de crustáceos com dez patas. Qual destes grupos NÃO pertence aos decápodes?",
+"o": [
+"Caranguejos",
+"Lagostas",
+"Krill",
+"Camarões"
+]
+},
+"en": {
+"q": "\"Decapods\" are an order of ten-footed crustaceans.  Which of these are NOT decapods?",
+"o": [
+"Crabs",
+"Lobsters",
+"Krill",
+"Shrimp"
+]
+}
+},
+{
+"id": "otdb-a235d0d131",
+"pt": {
+"q": "Se plantasses sementes de Quercus robur, o que cresceria?",
+"o": [
+"Flores",
+"Legumes",
+"Cereais",
+"Árvores"
+]
+},
+"en": {
+"q": "If you planted the seeds of Quercus robur, what would grow?",
+"o": [
+"Flowers",
+"Vegetables",
+"Grains",
+"Trees"
+]
+}
+},
+{
+"id": "wd-grupo-Q25384",
+"pt": {
+"q": "A que grupo de animais pertence a espécie coruja-pequena?",
+"o": [
+"Mamíferos",
+"Répteis",
+"Anfíbios",
+"Aves"
+]
+},
+"en": {
+"q": "Which group of animals does the long-eared Owl belong to?",
+"o": [
+"Mammals",
+"Reptiles",
+"Amphibians",
+"Birds"
+]
+}
+},
+{
+"id": "wd-nomecientifico-Q81091",
+"pt": {
+"q": "Que animal tem o nome científico Bison bonasus?",
+"o": [
+"bisonte-europeu",
+"zibelina",
+"hipopótamo-comum",
+"gato-leopardo"
+]
+},
+"en": {
+"q": "Which animal has the scientific name Bison bonasus?",
+"o": [
+"bison bonasus",
+"martes zibellina",
+"nile hippopotamus",
+"prionailurus bengalensis"
+]
+}
+},
+{
+"id": "wd-nomecientifico-Q25450",
+"pt": {
+"q": "Que animal tem o nome científico Anas acuta?",
+"o": [
+"zarro-negrinha",
+"escrevedeira-amarela",
+"pato-ferrugíneo",
+"marreca-arrebio"
+]
+},
+"en": {
+"q": "Which animal has the scientific name Anas acuta?",
+"o": [
+"tufted Duck",
+"yellowhammer",
+"ruddy Shelduck",
+"northern Pintail"
+]
+}
+},
+{
+"id": "wd-nomecientifico-Q26349",
+"pt": {
+"q": "Que animal tem o nome científico Turdus philomelos?",
+"o": [
+"tartaranhão-azulado",
+"tordo-comum",
+"pardal-montês",
+"abutre-preto"
+]
+},
+"en": {
+"q": "Which animal has the scientific name Turdus philomelos?",
+"o": [
+"hen Harrier",
+"song Thrush",
+"eurasian Tree Sparrow",
+"cinereous Vulture"
+]
+}
+},
+{
+"id": "wd-nomecientifico-Q131709",
+"pt": {
+"q": "Que animal tem o nome científico Egretta garzetta?",
+"o": [
+"coruja-do-nabal",
+"garcinha-branca",
+"guincho-comum",
+"escrevedeira-amarela"
+]
+},
+"en": {
+"q": "Which animal has the scientific name Egretta garzetta?",
+"o": [
+"short-eared Owl",
+"little Egret",
+"black-headed Gull",
+"yellowhammer"
+]
+}
+},
+{
+"id": "wd-nomecientifico-Q25383",
+"pt": {
+"q": "Que animal tem o nome científico Fringilla coelebs?",
+"o": [
+"corvo-comum",
+"tentilhão-comum",
+"pombo-torcaz",
+"pato-branco"
+]
+},
+"en": {
+"q": "Which animal has the scientific name Fringilla coelebs?",
+"o": [
+"northern Raven",
+"eurasian Chaffinch",
+"common Wood Pigeon",
+"common Shelduck"
+]
+}
+},
+{
+"id": "wd-grupo-Q134964",
+"pt": {
+"q": "A que grupo de animais pertence a espécie diabo-da-tasmânia?",
+"o": [
+"Aves",
+"Répteis",
+"Anfíbios",
+"Mamíferos"
+]
+},
+"en": {
+"q": "Which group of animals does the tasmanian devil belong to?",
+"o": [
+"Birds",
+"Reptiles",
+"Amphibians",
+"Mammals"
+]
+}
+},
+{
+"id": "wd-nomecientifico-Q83310",
+"pt": {
+"q": "Que animal tem o nome científico Mus musculus?",
+"o": [
+"leopardo-nebuloso",
+"urso-negro-asiático",
+"rato-doméstico",
+"javali"
+]
+},
+"en": {
+"q": "Which animal has the scientific name Mus musculus?",
+"o": [
+"clouded leopard",
+"ursus thibetanus",
+"house mouse",
+"wild boar"
+]
+}
+},
+{
+"id": "wd-nomecientifico-Q25485",
+"pt": {
+"q": "Que animal tem o nome científico Parus major?",
+"o": [
+"grou-comum",
+"avestruz",
+"chapim-real",
+"pombo-comum"
+]
+},
+"en": {
+"q": "Which animal has the scientific name Parus major?",
+"o": [
+"common Crane",
+"common ostrich",
+"great tit",
+"rock Dove"
+]
+}
+},
+{
+"id": "otdb-1b9f3f9e2f",
+"pt": {
+"q": "Qual é a cobra venenosa mais comprida do mundo?",
+"o": [
+"Taipan-do-interior",
+"Cobra-real",
+"Cobra-marinha-de-ventre-amarelo",
+"Anaconda-verde"
+]
+},
+"en": {
+"q": "What is the world's longest venomous snake?",
+"o": [
+"Inland Taipan",
+"King Cobra",
+"Yellow Bellied Sea Snake",
+"Green Anaconda"
+]
+}
+},
+{
+"id": "wd-nomecientifico-Q173651",
+"pt": {
+"q": "Que animal tem o nome científico Lycaon pictus?",
+"o": [
+"leão",
+"mabeco",
+"elefante-asiático",
+"tourão"
+]
+},
+"en": {
+"q": "Which animal has the scientific name Lycaon pictus?",
+"o": [
+"lion",
+"african wild dog",
+"asian elephant",
+"mustela putorius"
+]
+}
+},
+{
+"id": "otdb-c5127c1861",
+"pt": {
+"q": "A «goma-arábica» é uma goma natural feita da seiva endurecida de que espécie de árvore?",
+"o": [
+"Ficus",
+"Palmeira",
+"Acácia",
+"Eucalipto"
+]
+},
+"en": {
+"q": "\"Gum arabic\" is a natural gum consisting of the hardened sap of which tree species?",
+"o": [
+"Ficus",
+"Palm",
+"Acacia",
+"Eucalyptus"
+]
+}
+},
+{
+"id": "otdb-0140418110",
+"pt": {
+"q": "Qual destes animais NÃO é um lagarto?",
+"o": [
+"Iguana-verde",
+"Dragão-de-komodo",
+"Tuatara",
+"Monstro-de-gila"
+]
+},
+"en": {
+"q": "Which of these animals is NOT a lizard?",
+"o": [
+"Green Iguana",
+"Komodo Dragon",
+"Tuatara",
+"Gila Monster"
+]
+}
+},
+{
+"id": "wd-nomecientifico-Q26114",
+"pt": {
+"q": "Que animal tem o nome científico Scolopax rusticola?",
+"o": [
+"andorinhão-preto",
+"cegonha-branca",
+"galinhola",
+"estorninho-comum"
+]
+},
+"en": {
+"q": "Which animal has the scientific name Scolopax rusticola?",
+"o": [
+"common Swift",
+"white stork",
+"eurasian Woodcock",
+"common Starling"
+]
+}
+},
+{
+"id": "otdb-7a1c8e5d5b",
+"pt": {
+"q": "Qual destas cobras NÃO é venenosa?",
+"o": [
+"Píton-reticulada",
+"Mamba-negra",
+"Krait-da-malásia",
+"Cobra-marinha-de-barriga-amarela"
+]
+},
+"en": {
+"q": "Which of the following is NOT a venomous snake?",
+"o": [
+"Reticulated python",
+"Black mamba",
+"Malayan Krait",
+"Yellow bellied sea snake"
+]
+}
+},
+{
+"id": "wd-nomecientifico-Q179863",
+"pt": {
+"q": "Que animal tem o nome científico Phoenicopterus roseus?",
+"o": [
+"cegonha-bico-de-sapato",
+"flamingo-comum",
+"avestruz",
+"dom-fafe"
+]
+},
+"en": {
+"q": "Which animal has the scientific name Phoenicopterus roseus?",
+"o": [
+"shoebill",
+"greater Flamingo",
+"common ostrich",
+"eurasian Bullfinch"
+]
+}
+},
+{
+"id": "otdb-bf742dc8d7",
+"pt": {
+"q": "Qual destes é um número de patas que uma centopeia biologicamente não pode ter?",
+"o": [
+"74",
+"100",
+"26",
+"50"
+]
+},
+"en": {
+"q": "How many legs is it biologically impossible for a centipede to have?",
+"o": [
+"74",
+"100",
+"26",
+"50"
+]
+}
+},
+{
+"id": "wd-grupo-Q42196",
+"pt": {
+"q": "A que grupo de animais pertence a espécie baleia-azul?",
+"o": [
+"Répteis",
+"Aves",
+"Mamíferos",
+"Anfíbios"
+]
+},
+"en": {
+"q": "Which group of animals does the balaenoptera musculus belong to?",
+"o": [
+"Reptiles",
+"Birds",
+"Mammals",
+"Amphibians"
+]
+}
+},
+{
+"id": "wd-nomecientifico-Q4388",
+"pt": {
+"q": "Que animal tem o nome científico Sciurus vulgaris?",
+"o": [
+"esquilo-vermelho",
+"urso-malaio",
+"castor-europeu",
+"gato-leopardo"
+]
+},
+"en": {
+"q": "Which animal has the scientific name Sciurus vulgaris?",
+"o": [
+"eurasian Red Squirrel",
+"helarctos malayanus",
+"castor fiber",
+"prionailurus bengalensis"
+]
+}
+},
+{
+"id": "otdb-6b2c8239cb",
+"pt": {
+"q": "Que tipo de criatura é um bonobo?",
+"o": [
+"Símio",
+"Gato-bravo",
+"Leão",
+"Papagaio"
+]
+},
+"en": {
+"q": "What type of creature is a Bonobo?",
+"o": [
+"Ape",
+"Wildcat",
+"Lion",
+"Parrot"
+]
+}
+},
+{
+"id": "wd-nomecientifico-Q25909",
+"pt": {
+"q": "Que animal tem o nome científico Riparia riparia?",
+"o": [
+"andorinha-das-barreiras",
+"galinhola",
+"pombo-comum",
+"escrevedeira-amarela"
+]
+},
+"en": {
+"q": "Which animal has the scientific name Riparia riparia?",
+"o": [
+"sand Martin",
+"eurasian Woodcock",
+"rock Dove",
+"yellowhammer"
+]
+}
+},
+{
+"id": "otdb-13cd0d054e",
+"pt": {
+"q": "Hippocampus é o nome latino de que criatura marinha?",
+"o": [
+"Baleia",
+"Cavalo-marinho",
+"Polvo",
+"Golfinho"
+]
+},
+"en": {
+"q": "Hippocampus is the Latin name for which marine creature?",
+"o": [
+"Whale",
+"Seahorse",
+"Octopus",
+"Dolphin"
+]
+}
+},
+{
+"id": "wd-nomecientifico-Q25612",
+"pt": {
+"q": "Que animal tem o nome científico Cygnus cygnus?",
+"o": [
+"corvo-comum",
+"cisne-bravo",
+"rouxinol",
+"tordo-comum"
+]
+},
+"en": {
+"q": "Which animal has the scientific name Cygnus cygnus?",
+"o": [
+"northern Raven",
+"whooper Swan",
+"common Nightingale",
+"song Thrush"
+]
+}
+},
+{
+"id": "wd-nomecientifico-Q26838",
+"pt": {
+"q": "Que animal tem o nome científico Lepus europaeus?",
+"o": [
+"lebre-comum",
+"baleia-jubarte",
+"tourão",
+"rato-castanho"
+]
+},
+"en": {
+"q": "Which animal has the scientific name Lepus europaeus?",
+"o": [
+"lepus europaeus",
+"humpback whale",
+"mustela putorius",
+"brown rat"
+]
+}
+},
+{
+"id": "wd-nomecientifico-Q26490",
+"pt": {
+"q": "Que animal tem o nome científico Falco tinnunculus?",
+"o": [
+"corvo-comum",
+"galo-banquiva",
+"peneireiro-vulgar",
+"abibe-comum"
+]
+},
+"en": {
+"q": "Which animal has the scientific name Falco tinnunculus?",
+"o": [
+"northern Raven",
+"red Junglefowl",
+"common Kestrel",
+"northern Lapwing"
+]
+}
+},
+{
+"id": "otdb-c208bd4a3f",
+"pt": {
+"q": "O kakapo é um grande papagaio noturno, incapaz de voar, nativo de que país?",
+"o": [
+"África do Sul",
+"Nova Zelândia",
+"Madagáscar",
+"Austrália"
+]
+},
+"en": {
+"q": "The Kākāpō is a large, flightless, nocturnal parrot native to which country?",
+"o": [
+"South Africa",
+"New Zealand",
+"Madagascar",
+"Australia"
+]
+}
+},
+{
+"id": "wd-nomecientifico-Q35517",
+"pt": {
+"q": "Que animal tem o nome científico Alces alces?",
+"o": [
+"alce",
+"guaxinim",
+"morsa",
+"rato-almiscarado"
+]
+},
+"en": {
+"q": "Which animal has the scientific name Alces alces?",
+"o": [
+"moose",
+"raccoon",
+"walrus",
+"muskrat"
+]
+}
+},
+{
+"id": "otdb-295c8be48a",
+"pt": {
+"q": "A que subordem científica pertence a família Hyaenidae?",
+"o": [
+"Feliformes",
+"Haplorrinos",
+"Ciconiiformes",
+"Caniformes"
+]
+},
+"en": {
+"q": "What scientific suborder does the family Hyaenidae belong to?",
+"o": [
+"Feliformia",
+"Haplorhini",
+"Ciconiiformes",
+"Caniformia"
+]
+}
+},
+{
+"id": "wd-nomecientifico-Q178821",
+"pt": {
+"q": "Que animal tem o nome científico Himantopus himantopus?",
+"o": [
+"abutre-preto",
+"garça-vermelha",
+"esmerilhão",
+"pernilongo"
+]
+},
+"en": {
+"q": "Which animal has the scientific name Himantopus himantopus?",
+"o": [
+"cinereous Vulture",
+"purple Heron",
+"merlin",
+"himantopus himantopus"
+]
+}
+},
+{
+"id": "wd-grupo-Q174088",
+"pt": {
+"q": "A que grupo de animais pertence a espécie bico-grossudo?",
+"o": [
+"Aves",
+"Anfíbios",
+"Répteis",
+"Mamíferos"
+]
+},
+"en": {
+"q": "Which group of animals does the hawfinch belong to?",
+"o": [
+"Birds",
+"Amphibians",
+"Reptiles",
+"Mammals"
+]
+}
+},
+{
+"id": "otdb-58b25d5561",
+"pt": {
+"q": "Quantos dentes tem um coelho adulto?",
+"o": [
+"28",
+"26",
+"24",
+"30"
+]
+},
+"en": {
+"q": "How many teeth does an adult rabbit have?",
+"o": [
+"28",
+"26",
+"24",
+"30"
+]
+}
+},
+{
+"id": "otdb-a0371a0171",
+"pt": {
+"q": "Qual destes animais pertence à classe Chondrichthyes?",
+"o": [
+"Polvo",
+"Orca",
+"Tubarão-branco",
+"Peixe-gato"
+]
+},
+"en": {
+"q": "Which of these animals belongs in class Chondrichthyes?",
+"o": [
+"Octopus",
+"Killer whale",
+"Great white shark",
+"Catfish"
+]
+}
+}
+]

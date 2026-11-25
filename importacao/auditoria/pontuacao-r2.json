@@ -1,0 +1,396 @@
+{
+ "lotes": {
+  "ciencia": {
+   "n": 50,
+   "erros": 3,
+   "taxa": 6.0,
+   "decisao": "devolvido",
+   "tipos": {
+    "ambigua": 2,
+    "so_en": 2,
+    "texto": 1
+   }
+  },
+  "cinema": {
+   "n": 50,
+   "erros": 2,
+   "taxa": 4.0,
+   "decisao": "aceite",
+   "tipos": {
+    "ambigua": 1,
+    "texto": 1,
+    "so_en": 1
+   }
+  },
+  "cultura-geral": {
+   "n": 50,
+   "erros": 1,
+   "taxa": 2.0,
+   "decisao": "aceite",
+   "tipos": {
+    "so_en": 3,
+    "ambigua": 1
+   }
+  },
+  "espaco": {
+   "n": 50,
+   "erros": 1,
+   "taxa": 2.0,
+   "decisao": "aceite",
+   "tipos": {
+    "so_en": 2,
+    "datada": 1
+   }
+  },
+  "futebol": {
+   "n": 50,
+   "erros": 0,
+   "taxa": 0.0,
+   "decisao": "aceite",
+   "tipos": {
+    "so_en": 1
+   }
+  },
+  "geografia": {
+   "n": 50,
+   "erros": 1,
+   "taxa": 2.0,
+   "decisao": "aceite",
+   "tipos": {
+    "eua": 1,
+    "so_en": 1
+   }
+  },
+  "historia": {
+   "n": 50,
+   "erros": 2,
+   "taxa": 4.0,
+   "decisao": "aceite",
+   "tipos": {
+    "so_en": 1,
+    "ambigua": 2
+   }
+  },
+  "musica": {
+   "n": 50,
+   "erros": 2,
+   "taxa": 4.0,
+   "decisao": "aceite",
+   "tipos": {
+    "so_en": 4,
+    "ambigua": 2
+   }
+  },
+  "natureza": {
+   "n": 50,
+   "erros": 2,
+   "taxa": 4.0,
+   "decisao": "aceite",
+   "tipos": {
+    "so_en": 4,
+    "eua": 1,
+    "traducao": 1
+   }
+  },
+  "videojogos": {
+   "n": 50,
+   "erros": 1,
+   "taxa": 2.0,
+   "decisao": "aceite",
+   "tipos": {
+    "texto": 1,
+    "so_en": 2
+   }
+  }
+ },
+ "assinaladas": [
+  {
+   "lote": "ciencia",
+   "id": "otdb-287937b935",
+   "problemas": [
+    "ambigua"
+   ],
+   "nota": "Os flaps são dispositivos hipersustentadores, mas também aumentam o arrasto de propósito (aterragem); «O arrasto» é defensável para os flaps."
+  },
+  {
+   "lote": "ciencia",
+   "id": "otdb-dacda3e9ed",
+   "problemas": [
+    "texto_en"
+   ],
+   "nota": "en-US: opção «the Brain» com artigo em minúscula, incoerente com as restantes («Fish», «Insects», «Humans»)."
+  },
+  {
+   "lote": "ciencia",
+   "id": "otdb-dfea21bde2",
+   "problemas": [
+    "texto"
+   ],
+   "nota": "en-US e pt-PT: distrator «Meyers-Briggs» está mal escrito (é «Myers-Briggs»); en-US: «mistakes themselves as being superior» não é idiomático («believes themselves to be superior»)."
+  },
+  {
+   "lote": "ciencia",
+   "id": "otdb-43fc414714",
+   "problemas": [
+    "ambigua"
+   ],
+   "nota": "O kelvin é a unidade de base, mas o grau Celsius também é unidade SI (derivada); «unidade SI padrão» deixa margem a contestação."
+  },
+  {
+   "lote": "ciencia",
+   "id": "otdb-3b9df37bbd",
+   "problemas": [
+    "texto_en"
+   ],
+   "nota": "en-US: enunciado em forma de afirmação e não de pergunta, com «when overcome with extreme heat» pouco idiomático."
+  },
+  {
+   "lote": "cinema",
+   "id": "otdb-5bb6b604e4",
+   "problemas": [
+    "ambigua"
+   ],
+   "nota": "O que subiu foram as vendas, não os preços (pt e en dizem «preços de venda»/«sale prices»); e o aumento mais citado (23%) está ligado à longa-metragem Curse of the Were-Rabbit (2005), não às curtas."
+  },
+  {
+   "lote": "cinema",
+   "id": "otdb-b943fe3ef4",
+   "problemas": [
+    "texto"
+   ],
+   "nota": "«nos 32.º Golden Raspberry Awards»: ordinal no singular com artigo plural; melhor «na 32.ª edição dos Golden Raspberry Awards»."
+  },
+  {
+   "lote": "cinema",
+   "id": "otdb-4a4d96fef5",
+   "problemas": [
+    "texto_en"
+   ],
+   "nota": "en-US: «disguise themselves into a woman» é agramatical; devia ser «disguise himself as a woman»."
+  },
+  {
+   "lote": "cultura-geral",
+   "id": "otdb-dbed104d7a",
+   "problemas": [
+    "texto_en"
+   ],
+   "nota": "en-US: «Infiniti is to ?» tem espaço antes do ponto de interrogação e falta o espaço em branco («is to ___?»)."
+  },
+  {
+   "lote": "cultura-geral",
+   "id": "otdb-95a4580f65",
+   "problemas": [
+    "texto_en"
+   ],
+   "nota": "en-US: ponto de interrogação dentro das aspas («\"language isolate?\"»); devia ser «\"language isolate\"?»."
+  },
+  {
+   "lote": "cultura-geral",
+   "id": "otdb-5a0194fbb8",
+   "problemas": [
+    "texto_en"
+   ],
+   "nota": "en-US: «World Driver's Championship» devia ser «World Drivers' Championship» (nome oficial)."
+  },
+  {
+   "lote": "cultura-geral",
+   "id": "otdb-a0529f6ab6",
+   "problemas": [
+    "ambigua"
+   ],
+   "nota": "Nietzsche escreveu «o que não me mata torna-me mais forte» (Crepúsculo dos Ídolos); a frase exata com «te» é o refrão de Kelly Clarkson («Stronger»), por isso «fonte da citação» é discutível."
+  },
+  {
+   "lote": "espaco",
+   "id": "otdb-4d5425a580",
+   "problemas": [
+    "texto_en"
+   ],
+   "nota": "en-US: espaço a mais no fim do enunciado («re-entry on February 1, 2003? »)."
+  },
+  {
+   "lote": "espaco",
+   "id": "otdb-2d4f2bacd4",
+   "problemas": [
+    "texto_en"
+   ],
+   "nota": "en-US: vírgula indevida em «The moons, Miranda, ...» (deve ser «The moons Miranda, ...»)."
+  },
+  {
+   "lote": "espaco",
+   "id": "otdb-bd30c18759",
+   "problemas": [
+    "datada"
+   ],
+   "nota": "Hoje são 6 (Apollo 11-17 exceto 13), mas a resposta muda com as alunagens Artemis (previstas para 2028, Artemis IV); convém datar o enunciado («no programa Apollo» ou «até 2026»)."
+  },
+  {
+   "lote": "futebol",
+   "id": "otdb-9f5eaaa69f",
+   "problemas": [
+    "texto_en"
+   ],
+   "nota": "en-US: falta o artigo — «Which team won the 2014 FIFA World Cup in Brazil?»."
+  },
+  {
+   "lote": "geografia",
+   "id": "otdb-52ac34b4b1",
+   "problemas": [
+    "eua"
+   ],
+   "nota": "Exige saber que o Lincoln Memorial fica em Washington, D.C. (conhecimento específico dos EUA); além disso «monumentos» não traduz bem «landmarks» (Central Park e Times Square não são monumentos)."
+  },
+  {
+   "lote": "geografia",
+   "id": "otdb-2f2412c8a0",
+   "problemas": [
+    "texto_en"
+   ],
+   "nota": "en-US: o enunciado «71% of the Earth's surface is made up of» acaba sem pontuação (falta «:» ou reticências / reformular como pergunta)."
+  },
+  {
+   "lote": "historia",
+   "id": "otdb-51630ca7ac",
+   "problemas": [
+    "texto_en"
+   ],
+   "nota": "en-US: «Thirty Years War» sem apóstrofo; a forma correta é «Thirty Years' War»."
+  },
+  {
+   "lote": "historia",
+   "id": "otdb-cab3235a75",
+   "problemas": [
+    "ambigua"
+   ],
+   "nota": "Enunciado impreciso: o marco deixou de ter curso legal a 31/12/2001 (DMBeEndG §1) e o euro já era a moeda oficial desde 1999; dizer «até 2002» é enganador (melhor «até à entrada das notas e moedas de euro, em 2002»)."
+  },
+  {
+   "lote": "historia",
+   "id": "otdb-198f19b909",
+   "problemas": [
+    "ambigua"
+   ],
+   "nota": "A data de fundação é disputada: 4/4/1925 é a mais citada, mas a data oficial da própria SS era 9/11/1925 (Wikipedia, SS); perguntar só o ano (1925) evitaria a ambiguidade."
+  },
+  {
+   "lote": "musica",
+   "id": "otdb-8195b6ab06",
+   "problemas": [
+    "texto_en"
+   ],
+   "nota": "en-US: vírgula e espaço duplo indevidos em «the song,  'A Boy Named Sue'»."
+  },
+  {
+   "lote": "musica",
+   "id": "otdb-617f792c38",
+   "problemas": [
+    "texto_en"
+   ],
+   "nota": "en-US: frase com vírgula a unir duas orações (comma splice) e «mistaken as» em vez de «mistaken for»."
+  },
+  {
+   "lote": "musica",
+   "id": "otdb-563a5b7fde",
+   "problemas": [
+    "texto_en"
+   ],
+   "nota": "en-US: vírgula indevida antes do nome em «industrial rock band, 'Nine Inch Nails'»."
+  },
+  {
+   "lote": "musica",
+   "id": "otdb-ece247dc63",
+   "problemas": [
+    "ambigua"
+   ],
+   "nota": "Dylan escreveu-a, mas a primeira versão editada foi a de Billy Joel («To Make You Feel My Love», agosto de 1997), antes de «Time Out of Mind» (30/9/1997): «interpretou originalmente» torna Billy Joel defensável."
+  },
+  {
+   "lote": "musica",
+   "id": "otdb-a140dcdaa4",
+   "problemas": [
+    "ambigua"
+   ],
+   "nota": "Premissa errada: «Tragedy» saiu em 1979 (álbum Spirits Having Flown, single de fevereiro de 1979), não em 1978; a versão dos Steps é de novembro de 1998 (19 anos depois)."
+  },
+  {
+   "lote": "musica",
+   "id": "otdb-3387a7b437",
+   "problemas": [
+    "texto_en"
+   ],
+   "nota": "en-US: «The Battle Of Los Angeles» com «Of» maiúsculo; o título é «The Battle of Los Angeles»."
+  },
+  {
+   "lote": "natureza",
+   "id": "otdb-9bf9f8ba7a",
+   "problemas": [
+    "texto_en"
+   ],
+   "nota": "en-US: «colour» é grafia britânica; em en-US seria «color»."
+  },
+  {
+   "lote": "natureza",
+   "id": "otdb-50e02d203a",
+   "problemas": [
+    "eua"
+   ],
+   "nota": "A associação dálmata–bombeiros é sobretudo uma tradição norte-americana (mascote dos quartéis); em Portugal não é conhecimento comum."
+  },
+  {
+   "lote": "natureza",
+   "id": "otdb-1ca147c97d",
+   "problemas": [
+    "texto_en"
+   ],
+   "nota": "en-US: os epítetos específicos levam minúscula («Homo sapiens», «Homo erectus», etc.), não «Homo Sapiens»."
+  },
+  {
+   "lote": "natureza",
+   "id": "otdb-d636f9e2eb",
+   "problemas": [
+    "texto_en"
+   ],
+   "nota": "en-US: maiúsculas incoerentes em «Mad Cow disease»; seria «mad cow disease»."
+  },
+  {
+   "lote": "natureza",
+   "id": "otdb-520c424f55",
+   "problemas": [
+    "traducao"
+   ],
+   "nota": "«fazem vibrar a língua» não traduz bem «flick their tongues» (dardejar/projetar a língua); não muda a resposta."
+  },
+  {
+   "lote": "natureza",
+   "id": "otdb-3541d42161",
+   "problemas": [
+    "texto_en"
+   ],
+   "nota": "en-US: «Country» com maiúscula indevida; seria «country»."
+  },
+  {
+   "lote": "videojogos",
+   "id": "otdb-26c0b5d77e",
+   "problemas": [
+    "texto"
+   ],
+   "nota": "Opção «Robotnik Industry's» tem apóstrofo errado nos dois idiomas (en-US e pt-PT): seria «Robotnik Industries»."
+  },
+  {
+   "lote": "videojogos",
+   "id": "otdb-60a8092ae5",
+   "problemas": [
+    "texto_en"
+   ],
+   "nota": "en-US: «formally» devia ser «formerly» (antes); o pt-PT copiou o erro com «formalmente», que devia ser «inicialmente/antes»."
+  },
+  {
+   "lote": "videojogos",
+   "id": "otdb-71c57dfa70",
+   "problemas": [
+    "texto_en"
+   ],
+   "nota": "en-US: a opção «Ichigo » tem um espaço a mais no fim."
+  }
+ ]
+}

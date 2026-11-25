@@ -1,0 +1,1052 @@
+[
+{
+"id": "otdb-b6f20cfa5c",
+"pt": {
+"q": "Qual dos seguintes não é um dos grupos da tabela periódica?",
+"o": [
+"Gases nobres",
+"Metais alcalinos",
+"Flúores",
+"Halogéneos"
+]
+},
+"en": {
+"q": "Which of the following is not one of the groups on the periodic table?",
+"o": [
+"Noble Gases",
+"Alkali Metals",
+"Fluorines",
+"Halogens"
+]
+}
+},
+{
+"id": "otdb-9b40738139",
+"pt": {
+"q": "Quantos protões tem um átomo de oxigénio?",
+"o": [
+"Seis",
+"Dois",
+"Quatro",
+"Oito"
+]
+},
+"en": {
+"q": "How many protons are in an oxygen atom?",
+"o": [
+"Six",
+"Two",
+"Four",
+"Eight"
+]
+}
+},
+{
+"id": "otdb-bd27fb8d2c",
+"pt": {
+"q": "Qual dos seguintes NÃO é um elemento real?",
+"o": [
+"Praseodímio",
+"Hássio",
+"Vitrainium",
+"Lutécio"
+]
+},
+"en": {
+"q": "Which of the following is NOT a real element?",
+"o": [
+"Praseodymium",
+"Hassium",
+"Vitrainium",
+"Lutetium"
+]
+}
+},
+{
+"id": "otdb-c141f28e84",
+"pt": {
+"q": "A integração é a operação inversa de que operação matemática?",
+"o": [
+"Multiplicação",
+"Desvio-padrão",
+"Derivação",
+"Divisão"
+]
+},
+"en": {
+"q": "Integration is the reverse of what mathematical operation?",
+"o": [
+"Multiplication",
+"Standard Deviation",
+"Differentiation",
+"Division"
+]
+}
+},
+{
+"id": "otdb-3fac3289ae",
+"pt": {
+"q": "Quantos lados tem uma fita de Möbius?",
+"o": [
+"4",
+"2",
+"1",
+"3"
+]
+},
+"en": {
+"q": "How many sides does a Möbius strip have?",
+"o": [
+"4",
+"2",
+"1",
+"3"
+]
+}
+},
+{
+"id": "otdb-c2f5dee068",
+"pt": {
+"q": "Como se chama o bule frequentemente visto em muitas aplicações de modelação 3D?",
+"o": [
+"Bule da Pixar",
+"Bule de Utah",
+"Bule do Tennessee",
+"Bule 3D"
+]
+},
+"en": {
+"q": "The teapot often seen in many 3D modeling applications is called what?",
+"o": [
+"Pixar Teapot",
+"Utah Teapot",
+"Tennessee Teapot",
+"3D Teapot"
+]
+}
+},
+{
+"id": "otdb-287937b935",
+"pt": {
+"q": "Em aeronáutica, os flaps e os slats servem para controlar o quê num avião?",
+"o": [
+"A sustentação",
+"O impulso",
+"O arrasto",
+"O peso"
+]
+},
+"en": {
+"q": "In aeronautics, flaps and slats are used to control what on an aircraft?",
+"o": [
+"Lift",
+"Thrust",
+"Drag",
+"Weight"
+]
+}
+},
+{
+"id": "otdb-dacda3e9ed",
+"pt": {
+"q": "O que estudas se estudas entomologia?",
+"o": [
+"O cérebro",
+"Peixes",
+"Insetos",
+"Seres humanos"
+]
+},
+"en": {
+"q": "What do you study if you are studying entomology?",
+"o": [
+"the Brain",
+"Fish",
+"Insects",
+"Humans"
+]
+}
+},
+{
+"id": "otdb-d24767f286",
+"pt": {
+"q": "O que é H2O?",
+"o": [
+"Nenhuma destas",
+"Oxigénio",
+"Hidrogénio",
+"Água"
+]
+},
+"en": {
+"q": "What is H2O?",
+"o": [
+"None of these",
+"Oxygen",
+"Hydrogen",
+"Water"
+]
+}
+},
+{
+"id": "otdb-31e5ef60a5",
+"pt": {
+"q": "Quem desenvolveu a primeira vacina eficaz contra a poliomielite, na década de 1950?",
+"o": [
+"Thomas Weller",
+"Jonas Salk",
+"Frederick Robbins",
+"John F. Enders"
+]
+},
+"en": {
+"q": "Who developed the first successful polio vaccine in the 1950s?",
+"o": [
+"Thomas Weller",
+"Jonas Salk",
+"Frederick Robbins",
+"John F. Enders"
+]
+}
+},
+{
+"id": "otdb-419423cac2",
+"pt": {
+"q": "Todos os seguintes programas são editores de gráficos raster, EXCETO:",
+"o": [
+"Inkscape",
+"GIMP",
+"Adobe Photoshop",
+"Paint.NET"
+]
+},
+"en": {
+"q": "All of the following programs are classified as raster graphics editors EXCEPT:",
+"o": [
+"Inkscape",
+"GIMP",
+"Adobe Photoshop",
+"Paint.NET"
+]
+}
+},
+{
+"id": "otdb-9826119227",
+"pt": {
+"q": "Na linguagem de programação Java, qual destas palavras-chave se coloca numa variável para garantir que não é modificada?",
+"o": [
+"public",
+"final",
+"static",
+"private"
+]
+},
+"en": {
+"q": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesn't get modified?",
+"o": [
+"public",
+"final",
+"static",
+"private"
+]
+}
+},
+{
+"id": "otdb-b3e4d46c66",
+"pt": {
+"q": "Como se chamava a imagem que servia de fundo de ambiente de trabalho predefinido no Windows XP?",
+"o": [
+"Red moon desert",
+"Tulips",
+"Bliss",
+"Azul"
+]
+},
+"en": {
+"q": "What was the name of the image that features as the default background wallpaper for Windows XP?",
+"o": [
+"Red moon desert",
+"Tulips",
+"Bliss",
+"Azul"
+]
+}
+},
+{
+"id": "otdb-3ce856baa5",
+"pt": {
+"q": "Qual destes elementos é um semimetal?",
+"o": [
+"Antimónio",
+"Estanho",
+"Bromo",
+"Rubídio"
+]
+},
+"en": {
+"q": "Which of these Elements is a metalloid?",
+"o": [
+"Antimony",
+"Tin",
+"Bromine",
+"Rubidium"
+]
+}
+},
+{
+"id": "otdb-1e50a8173f",
+"pt": {
+"q": "Qual é a representação alfanumérica do número imaginário?",
+"o": [
+"i",
+"n",
+"e",
+"x"
+]
+},
+"en": {
+"q": "What is the alphanumeric representation of the imaginary number?",
+"o": [
+"i",
+"n",
+"e",
+"x"
+]
+}
+},
+{
+"id": "otdb-f6889710a8",
+"pt": {
+"q": "Qual destas fabricantes de telemóveis NÃO tem sede na Ásia?",
+"o": [
+"Samsung",
+"Nokia",
+"HTC",
+"LG Electronics"
+]
+},
+"en": {
+"q": "Which of the following cellular device companies is NOT headquartered in Asia?",
+"o": [
+"Samsung",
+"Nokia",
+"HTC",
+"LG Electronics"
+]
+}
+},
+{
+"id": "otdb-ea56018cf6",
+"pt": {
+"q": "A fibra muscular é construída por feixes de pequenos e longos organelos chamados o quê?",
+"o": [
+"Miofibrilas",
+"Epimísio",
+"Miofilamentos",
+"Miocárdio"
+]
+},
+"en": {
+"q": "Muscle fiber is constructed of bundles of small long organelles called what?",
+"o": [
+"Myofibrils",
+"Epimysium",
+"Myofilaments",
+"Myocardium"
+]
+}
+},
+{
+"id": "otdb-fc592437e0",
+"pt": {
+"q": "Qual é a fórmula química do amoníaco?",
+"o": [
+"CO2",
+"CH4",
+"NH3",
+"NO3"
+]
+},
+"en": {
+"q": "What is the chemical formula for ammonia?",
+"o": [
+"CO2",
+"CH4",
+"NH3",
+"NO3"
+]
+}
+},
+{
+"id": "otdb-fcfd997258",
+"pt": {
+"q": "Qual das seguintes é considerada condicionamento clássico?",
+"o": [
+"As experiências do cão de Pavlov",
+"A experiência do gato de Schrödinger",
+"A experiência da caixa de Skinner",
+"As experiências dos macacos de Harlow"
+]
+},
+"en": {
+"q": "Which of the following is considered classical conditioning?",
+"o": [
+"Pavlov's dog experiments",
+"Schrödinger's cat experiment",
+"Skinner box experiment",
+"Harlow’s monkey experiments"
+]
+}
+},
+{
+"id": "otdb-ed55a42df0",
+"pt": {
+"q": "Em que parte do corpo se encontra a «tíbia»?",
+"o": [
+"Perna",
+"Braço",
+"Mão",
+"Cabeça"
+]
+},
+"en": {
+"q": "The \"Tibia\" is found in which part of the body?",
+"o": [
+"Leg",
+"Arm",
+"Hand",
+"Head"
+]
+}
+},
+{
+"id": "otdb-cb23624026",
+"pt": {
+"q": "Por que descoberta ganhou Albert Einstein o Prémio Nobel em 1921?",
+"o": [
+"Relatividade",
+"Efeito fotoelétrico",
+"Energia do ponto zero",
+"Dualidade onda-partícula"
+]
+},
+"en": {
+"q": "What did Albert Einstein win the Nobel Prize for in 1921?",
+"o": [
+"Relativity",
+"Photoelectric Effect",
+"Zero-Point Energy",
+"Wave-Particle Duality"
+]
+}
+},
+{
+"id": "otdb-a2b212ef98",
+"pt": {
+"q": "O que significa GHz?",
+"o": [
+"Gigahatz",
+"Gigahetz",
+"Gigahotz",
+"Gigahertz"
+]
+},
+"en": {
+"q": "What does GHz stand for?",
+"o": [
+"Gigahatz",
+"Gigahetz",
+"Gigahotz",
+"Gigahertz"
+]
+}
+},
+{
+"id": "otdb-fc4d11a0a5",
+"pt": {
+"q": "Quantos dentes de leite tem uma criança no total?",
+"o": [
+"25",
+"15",
+"10",
+"20"
+]
+},
+"en": {
+"q": "How many baby/milk teeth does a human child have in total?",
+"o": [
+"25",
+"15",
+"10",
+"20"
+]
+}
+},
+{
+"id": "otdb-0fe9b3e1ac",
+"pt": {
+"q": "Quem patenteou uma máquina a vapor que produzia movimento rotativo contínuo?",
+"o": [
+"Albert Einstein",
+"Nikola Tesla",
+"Alessandro Volta",
+"James Watt"
+]
+},
+"en": {
+"q": "Who patented a steam engine that produced continuous rotary motion?",
+"o": [
+"Albert Einstein",
+"Nikola Tesla",
+"Alessandro Volta",
+"James Watt"
+]
+}
+},
+{
+"id": "otdb-a94f78e15c",
+"pt": {
+"q": "Que mineral tem o valor mais baixo na escala de Mohs?",
+"o": [
+"Talco",
+"Gesso",
+"Quartzo",
+"Diamante"
+]
+},
+"en": {
+"q": "What mineral has the lowest number on the Mohs scale?",
+"o": [
+"Talc",
+"Gypsum",
+"Quartz",
+"Diamond"
+]
+}
+},
+{
+"id": "otdb-fe3f25596f",
+"pt": {
+"q": "Quais são os dois homens a quem se atribui a descoberta independente do cálculo diferencial?",
+"o": [
+"Newton e Leibniz",
+"Platão e Aristóteles",
+"Asimov e Rutherford",
+"Dvorak e Smith"
+]
+},
+"en": {
+"q": "Which two men are credited with independently discovering differential calculus?",
+"o": [
+"Newton and Leibniz",
+"Plato and Aristotle",
+"Asimov and Rutherford",
+"Dvorak and Smith"
+]
+}
+},
+{
+"id": "otdb-e499f6e360",
+"pt": {
+"q": "Lançada em 2001, a primeira edição do Mac OS X da Apple (versão 10.0) recebeu que nome de código de animal?",
+"o": [
+"Cheetah",
+"Tiger",
+"Leopard",
+"Puma"
+]
+},
+"en": {
+"q": "Released in 2001, the first edition of Apple's Mac OS X operating system (version 10.0) was given what animal code name?",
+"o": [
+"Cheetah",
+"Tiger",
+"Leopard",
+"Puma"
+]
+}
+},
+{
+"id": "otdb-6270f7a67b",
+"pt": {
+"q": "Arredondado ao número inteiro mais próximo, quantos radianos tem uma circunferência completa?",
+"o": [
+"5",
+"4",
+"3",
+"6"
+]
+},
+"en": {
+"q": "To the nearest whole number, how many radians are in a whole circle?",
+"o": [
+"5",
+"4",
+"3",
+"6"
+]
+}
+},
+{
+"id": "otdb-3fb743e736",
+"pt": {
+"q": "Qual é a unidade de indutância elétrica?",
+"o": [
+"Weber",
+"Coulomb",
+"Henry",
+"Mho"
+]
+},
+"en": {
+"q": "What is the unit of electrical inductance?",
+"o": [
+"Weber",
+"Coulomb",
+"Henry",
+"Mho"
+]
+}
+},
+{
+"id": "otdb-9ea1e78f50",
+"pt": {
+"q": "Qual é a raiz quadrada de 49?",
+"o": [
+"7",
+"12",
+"4",
+"9"
+]
+},
+"en": {
+"q": "What's the square root of 49?",
+"o": [
+"7",
+"12",
+"4",
+"9"
+]
+}
+},
+{
+"id": "otdb-a108bc0326",
+"pt": {
+"q": "O que significa a sigla JVM, no mundo do software?",
+"o": [
+"Just Virtual Machine",
+"Java Virtual Machine",
+"Java Visual Machine",
+"Java Vendor Machine"
+]
+},
+"en": {
+"q": "What does the computer software acronym JVM stand for?",
+"o": [
+"Just Virtual Machine",
+"Java Virtual Machine",
+"Java Visual Machine",
+"Java Vendor Machine"
+]
+}
+},
+{
+"id": "otdb-fbe5a7cdc1",
+"pt": {
+"q": "Quantos graus tem um círculo completo?",
+"o": [
+"90",
+"720",
+"360",
+"180"
+]
+},
+"en": {
+"q": "How many degrees make a full circle?",
+"o": [
+"90",
+"720",
+"360",
+"180"
+]
+}
+},
+{
+"id": "otdb-0292636f05",
+"pt": {
+"q": "O domínio .rs é o domínio de topo de que país?",
+"o": [
+"Rússia",
+"Roménia",
+"Ruanda",
+"Sérvia"
+]
+},
+"en": {
+"q": ".rs is the top-level domain for what country?",
+"o": [
+"Russia",
+"Romania",
+"Rwanda",
+"Serbia"
+]
+}
+},
+{
+"id": "otdb-c87d1f2112",
+"pt": {
+"q": "O que é a hipernatremia?",
+"o": [
+"Aumento do sódio no sangue",
+"Diminuição do potássio no sangue",
+"Diminuição do ferro no sangue",
+"Aumento da glicose no sangue"
+]
+},
+"en": {
+"q": "What is Hypernatremia?",
+"o": [
+"Increase in blood sodium",
+"Decrease in blood potassium",
+"Decrease in blood iron",
+"Increase in blood glucose"
+]
+}
+},
+{
+"id": "otdb-3dba9016c3",
+"pt": {
+"q": "Que tipo de rocha se forma por calor E pressão intensos?",
+"o": [
+"Metamórfica",
+"Sedimentar",
+"Ígnea",
+"Diamante"
+]
+},
+"en": {
+"q": "Which type of rock is created by intense heat AND pressure?",
+"o": [
+"Metamorphic",
+"Sedimentary",
+"Igneous",
+"Diamond"
+]
+}
+},
+{
+"id": "otdb-8b9fafeac7",
+"pt": {
+"q": "Que empresa de internet começou como uma livraria online chamada «Cadabra»?",
+"o": [
+"eBay",
+"Shopify",
+"Amazon",
+"Overstock"
+]
+},
+"en": {
+"q": "Which internet company began life as an online bookstore called 'Cadabra'?",
+"o": [
+"eBay",
+"Shopify",
+"Amazon",
+"Overstock"
+]
+}
+},
+{
+"id": "otdb-f1d14dbe42",
+"pt": {
+"q": "Em honra de quem foi nomeado o elemento químico cúrio?",
+"o": [
+"O rover Curiosity",
+"Curious George",
+"Stephen Curry",
+"Marie e Pierre Curie"
+]
+},
+"en": {
+"q": "Who is the chemical element Curium named after?",
+"o": [
+"The Curiosity Rover",
+"Curious George",
+"Stephen Curry",
+"Marie & Pierre Curie"
+]
+}
+},
+{
+"id": "otdb-bf20132216",
+"pt": {
+"q": "Quem cofundou a Palantir?",
+"o": [
+"Jack Dorsey",
+"Mark Zuckerberg",
+"Marc Benioff",
+"Peter Thiel"
+]
+},
+"en": {
+"q": "Who co-founded Palantir?",
+"o": [
+"Jack Dorsey",
+"Mark Zuckerberg",
+"Marc Benioff",
+"Peter Thiel"
+]
+}
+},
+{
+"id": "otdb-8cf71644fa",
+"pt": {
+"q": "Qual dos seguintes componentes do sangue forma um tampão no local de uma lesão?",
+"o": [
+"Glóbulos brancos",
+"Plaquetas",
+"Glóbulos vermelhos",
+"Plasma sanguíneo"
+]
+},
+"en": {
+"q": "Which of the following blood components forms a plug at the site of an injury?",
+"o": [
+"White blood cells",
+"Platelets",
+"Red blood cells",
+"Blood plasma"
+]
+}
+},
+{
+"id": "otdb-dfea21bde2",
+"pt": {
+"q": "Como se chama o enviesamento cognitivo em que uma pessoa com pouca competência numa área se julga superior?",
+"o": [
+"Efeito Meyers-Briggs",
+"Efeito Dunning-Kruger",
+"Efeito Müller-Lyer",
+"Efeito Freud-Hall"
+]
+},
+"en": {
+"q": "What is the name of the cognitive bias wherein a person with low ability in a particular skill mistakes themselves as being superior?",
+"o": [
+"Meyers-Briggs effect",
+"Dunning-Kruger effect",
+"Müller-Lyer effect",
+"Freud-Hall effect"
+]
+}
+},
+{
+"id": "otdb-b484ae4034",
+"pt": {
+"q": "Em informática, o que significa LAN?",
+"o": [
+"Local Area Network",
+"Light Access Node",
+"Long Antenna Node",
+"Land Address Navigation"
+]
+},
+"en": {
+"q": "In computing, what does LAN stand for?",
+"o": [
+"Local Area Network",
+"Light Access Node",
+"Long Antenna Node",
+"Land Address Navigation"
+]
+}
+},
+{
+"id": "otdb-61e7b312e0",
+"pt": {
+"q": "Que parte do cérebro tem o nome derivado da palavra grega para «cavalo-marinho»?",
+"o": [
+"Hipocampo",
+"Cerebelo",
+"Tálamo",
+"Amígdala"
+]
+},
+"en": {
+"q": "What part of the brain takes its name from the Greek for seahorse?",
+"o": [
+"Hippocampus",
+"Cerebellum",
+"Thalamus",
+"Amygdala"
+]
+}
+},
+{
+"id": "otdb-72c7dbfabd",
+"pt": {
+"q": "Qual é a unidade SI padrão da intensidade luminosa?",
+"o": [
+"Candela",
+"Lúmen",
+"Coulomb",
+"Faraday"
+]
+},
+"en": {
+"q": "What is the standard SI unit for luminous intensity?",
+"o": [
+"Candela",
+"Lumen",
+"Coulomb",
+"Faraday"
+]
+}
+},
+{
+"id": "otdb-b381da8fc9",
+"pt": {
+"q": "Qual é o valor máximo de um inteiro binário de 32 bits com sinal?",
+"o": [
+"2 147 483 647",
+"255",
+"2048",
+"9 223 372 036 854 775 807"
+]
+},
+"en": {
+"q": "What is the maximum value of a 32-bit signed binary integer?",
+"o": [
+"2,147,483,647",
+"255",
+"2048",
+"9,223,372,036,854,775,807"
+]
+}
+},
+{
+"id": "otdb-3dd237072e",
+"pt": {
+"q": "Quem descobriu os raios X?",
+"o": [
+"Thomas Alva Edison",
+"Wilhelm Conrad Röntgen",
+"James Watt",
+"Albert Einstein"
+]
+},
+"en": {
+"q": "Who made the discovery of X-rays?",
+"o": [
+"Thomas Alva Edison",
+"Wilhelm Conrad Röntgen",
+"James Watt",
+"Albert Einstein"
+]
+}
+},
+{
+"id": "otdb-f01c9155b9",
+"pt": {
+"q": "O menisco medial faz parte de que articulação do corpo humano?",
+"o": [
+"Cotovelo",
+"Joelho",
+"Ombro",
+"Tornozelo"
+]
+},
+"en": {
+"q": "The medial meniscus is part of which joint in the human body?",
+"o": [
+"Elbow",
+"Knee",
+"Shoulder",
+"Ankle"
+]
+}
+},
+{
+"id": "otdb-43fc414714",
+"pt": {
+"q": "Qual é a unidade SI padrão da temperatura?",
+"o": [
+"Kelvin",
+"Celsius",
+"Rankine",
+"Fahrenheit"
+]
+},
+"en": {
+"q": "What is the standard SI unit for temperature?",
+"o": [
+"Kelvin",
+"Celsius",
+"Rankine",
+"Fahrenheit"
+]
+}
+},
+{
+"id": "otdb-3b9df37bbd",
+"pt": {
+"q": "Que elemento, sujeito a calor e pressão extremos, forma diamantes?",
+"o": [
+"Azoto",
+"Hidrogénio",
+"Oxigénio",
+"Carbono"
+]
+},
+"en": {
+"q": "This element, when overcome with extreme heat and pressure, creates diamonds.",
+"o": [
+"Nitrogen",
+"Hydrogen",
+"Oxygen",
+"Carbon"
+]
+}
+},
+{
+"id": "otdb-e531b8c701",
+"pt": {
+"q": "O deutério é um isótopo de que elemento?",
+"o": [
+"Hidrogénio",
+"Néon",
+"Hélio",
+"Azoto"
+]
+},
+"en": {
+"q": "Deuterium is an isotope of which element?",
+"o": [
+"Hydrogen",
+"Neon",
+"Helium",
+"Nitrogen"
+]
+}
+},
+{
+"id": "otdb-be73c28414",
+"pt": {
+"q": "Qual é o primeiro nome do matemático Euler?",
+"o": [
+"Andrin",
+"Lionel",
+"Ajan",
+"Leonhard"
+]
+},
+"en": {
+"q": "What is the mathematician Euler's first name?",
+"o": [
+"Andrin",
+"Lionel",
+"Ajan",
+"Leonhard"
+]
+}
+}
+]

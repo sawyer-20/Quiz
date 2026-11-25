@@ -1,0 +1,1052 @@
+[
+{
+"id": "otdb-5bb6b604e4",
+"pt": {
+"q": "Que tipo de queijo, adorado por Wallace e Gromit, viu os seus preços de venda subir depois do sucesso das suas curtas-metragens?",
+"o": [
+"Cheddar",
+"Wensleydale",
+"Edam",
+"Queijo da Lua"
+]
+},
+"en": {
+"q": "What type of cheese, loved by Wallace and Gromit, had its sale prices rise after their successful short films?",
+"o": [
+"Cheddar",
+"Wensleydale",
+"Edam",
+"Moon Cheese"
+]
+}
+},
+{
+"id": "otdb-a810996067",
+"pt": {
+"q": "Qual foi o primeiro monstro a aparecer ao lado de Godzilla?",
+"o": [
+"Anguirus",
+"Mothra",
+"King Kong",
+"King Ghidorah"
+]
+},
+"en": {
+"q": "What was the first monster to appear alongside Godzilla?",
+"o": [
+"Anguirus",
+"Mothra",
+"King Kong",
+"King Ghidorah"
+]
+}
+},
+{
+"id": "otdb-b461ce3630",
+"pt": {
+"q": "Qual foi o primeiro filme de longa-metragem de animação por computador?",
+"o": [
+"101 Dalmatians",
+"Tron",
+"Toy Story",
+"The Lion King"
+]
+},
+"en": {
+"q": "What was the first feature-length computer-animated movie?",
+"o": [
+"101 Dalmatians",
+"Tron",
+"Toy Story",
+"The Lion King"
+]
+}
+},
+{
+"id": "otdb-b943fe3ef4",
+"pt": {
+"q": "Em 2012, que filme ganhou todas as categorias nos 32.º Golden Raspberry Awards?",
+"o": [
+"The King's Speech",
+"Thor",
+"The Girl with the Dragon Tattoo",
+"Jack and Jill"
+]
+},
+"en": {
+"q": "In 2012, which movie won every category in the 32nd \"Golden Raspberry Awards\"?",
+"o": [
+"The King's Speech",
+"Thor",
+"The Girl with the Dragon Tattoo",
+"Jack and Jill"
+]
+}
+},
+{
+"id": "otdb-a6cbd54585",
+"pt": {
+"q": "Em que filme diz Humphrey Bogart a famosa frase «Here's looking at you, kid»?",
+"o": [
+"Citizen Kane",
+"Casablanca",
+"The Treasure of the Sierra Madre",
+"The Maltese Falcon"
+]
+},
+"en": {
+"q": "In which film does Humphrey Bogart say the famous line, \"Here's looking at you, kid\"?",
+"o": [
+"Citizen Kane",
+"Casablanca",
+"The Treasure of the Sierra Madre",
+"The Maltese Falcon"
+]
+}
+},
+{
+"id": "otdb-92148e8a99",
+"pt": {
+"q": "Quem é o protagonista do filme «Back to the Future» (1985)?",
+"o": [
+"George McFly",
+"Marty McFly",
+"Biff Tannen",
+"Emmett «Doc» Brown"
+]
+},
+"en": {
+"q": "Who is the main protagonist in the 1985 film Back to the Future?",
+"o": [
+"George McFly",
+"Marty McFly",
+"Biff Tannen",
+"Emmett \"Doc\" Brown"
+]
+}
+},
+{
+"id": "otdb-6bead22eea",
+"pt": {
+"q": "O filme «Mad Max: Fury Road» usa o Dies Irae do requiem de que compositor?",
+"o": [
+"Berlioz",
+"Verdi",
+"Mozart",
+"Brahms"
+]
+},
+"en": {
+"q": "The film Mad Max: Fury Road features the Dies Irae from which composer's requiem?",
+"o": [
+"Berlioz",
+"Verdi",
+"Mozart",
+"Brahms"
+]
+}
+},
+{
+"id": "otdb-f4323c4ca4",
+"pt": {
+"q": "Para reduzir custos, com que foi pago a maior parte dos figurantes de «Mad Max» (1979)?",
+"o": [
+"Fast food",
+"Não foram pagos",
+"Cerveja",
+"Vales de alimentação"
+]
+},
+"en": {
+"q": "In order to cut costs, what were most of the extras of Mad Max (1979) paid with?",
+"o": [
+"Fast food",
+"They weren't paid",
+"Beer",
+"Food stamps"
+]
+}
+},
+{
+"id": "otdb-4ac5b52dbc",
+"pt": {
+"q": "Em que filme fez Johnny Depp a sua estreia como ator no grande ecrã?",
+"o": [
+"A Nightmare on Elm Street",
+"Friday the 13th",
+"My Bloody Valentine",
+"Halloween"
+]
+},
+"en": {
+"q": "Johnny Depp made his big-screen acting debut in which film?",
+"o": [
+"A Nightmare on Elm Street",
+"Friday the 13th",
+"My Bloody Valentine",
+"Halloween"
+]
+}
+},
+{
+"id": "otdb-3bfdde39b1",
+"pt": {
+"q": "Quem compôs a banda sonora do «Blade Runner» original?",
+"o": [
+"Kitaro",
+"Yanni",
+"Enya",
+"Vangelis"
+]
+},
+"en": {
+"q": "Who did the score to the original Blade Runner?",
+"o": [
+"Kitaro",
+"Yanni",
+"Enya",
+"Vangelis"
+]
+}
+},
+{
+"id": "otdb-be62fd53e4",
+"pt": {
+"q": "Quem interpretou Han Solo na série principal de filmes de «Star Wars»?",
+"o": [
+"Harrison Ford",
+"Peter Cushing",
+"Alec Guinness",
+"Mark Hamill"
+]
+},
+"en": {
+"q": "Who portrayed Han Solo in the Star Wars main film series?",
+"o": [
+"Harrison Ford",
+"Peter Cushing",
+"Alec Guinness",
+"Mark Hamill"
+]
+}
+},
+{
+"id": "otdb-bca8d1b962",
+"pt": {
+"q": "Que filme contém a frase «I feel the need ... the need for speed!»?",
+"o": [
+"Top Gun",
+"The Color of Money",
+"Cocktail",
+"Days of Thunder"
+]
+},
+"en": {
+"q": "This movie contains the quote, \"I feel the need ... the need for speed!\"",
+"o": [
+"Top Gun",
+"The Color of Money",
+"Cocktail",
+"Days of Thunder"
+]
+}
+},
+{
+"id": "otdb-5cbcbd6377",
+"pt": {
+"q": "Em «Star Wars», como se chama o novo governo criado depois da derrota do Império Galáctico?",
+"o": [
+"A Nova República",
+"A Primeira Ordem",
+"A Aliança Rebelde",
+"Crimson Dawn"
+]
+},
+"en": {
+"q": "In Star Wars, what's the name of the new Government created after the defeat of the Galactic Empire?",
+"o": [
+"The New Republic",
+"The First Order",
+"The Rebel Alliance",
+"The Crimson Dawn"
+]
+}
+},
+{
+"id": "otdb-f190f6f32c",
+"pt": {
+"q": "Quem interpretou Thanos em «Avengers: Infinity War» e «Avengers: Endgame»?",
+"o": [
+"Tom Hiddleston",
+"Sean Gunn",
+"Adam Sandler",
+"Josh Brolin"
+]
+},
+"en": {
+"q": "Who played Thanos in Avengers: Infinity War and Avengers: Endgame?",
+"o": [
+"Tom Hiddleston",
+"Sean Gunn",
+"Adam Sandler",
+"Josh Brolin"
+]
+}
+},
+{
+"id": "otdb-ccb91735e7",
+"pt": {
+"q": "No filme «The Super Mario Bros. Movie» (2023), quem dá voz a Toad?",
+"o": [
+"Keegan-Michael Key",
+"Charlie Day",
+"Jack Black",
+"Seth Rogen"
+]
+},
+"en": {
+"q": "In the Super Mario Bros. Movie (2023), who plays Toad?",
+"o": [
+"Keegan-Michael Key",
+"Charlie Day",
+"Jack Black",
+"Seth Rogen"
+]
+}
+},
+{
+"id": "otdb-99a0585910",
+"pt": {
+"q": "Quem interpreta o protagonista Ethan Hunt na série de filmes «Mission: Impossible»?",
+"o": [
+"Tom Cruise",
+"Pierce Brosnan",
+"Johnny Depp",
+"Sean Connery"
+]
+},
+"en": {
+"q": "Who plays protagonist Ethan Hunt in the \"Mission: Impossible\" film-series?",
+"o": [
+"Tom Cruise",
+"Pierce Brosnan",
+"Johnny Depp",
+"Sean Connery"
+]
+}
+},
+{
+"id": "otdb-1aaabb928a",
+"pt": {
+"q": "Quem interpretou o cenobita «Pinhead» nos filmes originais de «Hellraiser»?",
+"o": [
+"Doug Savant",
+"Doug Benson",
+"Doug Bradley",
+"Doug Jones"
+]
+},
+"en": {
+"q": "Who played the Cenobite called \"Pinhead\" in the original Hellraiser films?",
+"o": [
+"Doug Savant",
+"Doug Benson",
+"Doug Bradley",
+"Doug Jones"
+]
+}
+},
+{
+"id": "otdb-bb9bce3b94",
+"pt": {
+"q": "Que super-herói da DC NÃO fez parte do filme «Justice League», de 2017?",
+"o": [
+"Batman",
+"Wonder Woman",
+"Cyborg",
+"Green Arrow"
+]
+},
+"en": {
+"q": "Which DC superhero was NOT included in the 2017 movie \"Justice League\"?",
+"o": [
+"Batman",
+"Wonder Woman",
+"Cyborg",
+"Green Arrow"
+]
+}
+},
+{
+"id": "otdb-b12200975f",
+"pt": {
+"q": "Qual destes filmes NÃO contou com o falecido ator John Candy?",
+"o": [
+"Planes, Trains and Automobiles",
+"Ghostbusters",
+"Little Shop of Horrors",
+"Home Alone"
+]
+},
+"en": {
+"q": "Which movie did NOT feature the late actor John Candy?",
+"o": [
+"Planes, Trains and Automobiles",
+"Ghostbusters",
+"Little Shop of Horrors",
+"Home Alone"
+]
+}
+},
+{
+"id": "otdb-0a3646324d",
+"pt": {
+"q": "Em que ano fez a sua estreia no ecrã a icónica personagem de desenhos animados Rato Mickey?",
+"o": [
+"1928",
+"1932",
+"1922",
+"1929"
+]
+},
+"en": {
+"q": "Iconic cartoon character Mickey Mouse made his onscreen debut in what year?",
+"o": [
+"1928",
+"1932",
+"1922",
+"1929"
+]
+}
+},
+{
+"id": "otdb-e80020046f",
+"pt": {
+"q": "Que humorista de stand-up deu voz ao papagaio Iago na adaptação da Disney de «Aladdin», de 1992?",
+"o": [
+"Gilbert Gottfried",
+"Jonathan Freeman",
+"Robin Williams",
+"Pauly Shore"
+]
+},
+"en": {
+"q": "Which stand-up comedian voiced the talking parrot \"Iago\" in Disney's 1992 adaptation of Aladdin?",
+"o": [
+"Gilbert Gottfried",
+"Jonathan Freeman",
+"Robin Williams",
+"Pauly Shore"
+]
+}
+},
+{
+"id": "otdb-2a0234fb90",
+"pt": {
+"q": "Como se chama o droide laranja e branco de «Star Wars: The Force Awakens»?",
+"o": [
+"BB-8",
+"R2-D2",
+"BB-3",
+"AA-A"
+]
+},
+"en": {
+"q": "What is the orange and white bot's name in \"Star Wars: The Force Awakens\"?",
+"o": [
+"BB-8",
+"R2-D2",
+"BB-3",
+"AA-A"
+]
+}
+},
+{
+"id": "otdb-2fb4b9bbe4",
+"pt": {
+"q": "Em «Big Hero 6», em que se inspiraram os movimentos do Baymax?",
+"o": [
+"Crias de macaco",
+"Crias de urso",
+"Crias de avestruz",
+"Crias de pinguim"
+]
+},
+"en": {
+"q": "In Big Hero 6, what were Baymax's motions modeled after?",
+"o": [
+"Baby monkeys",
+"Baby bears",
+"Baby ostriches",
+"Baby penguins"
+]
+}
+},
+{
+"id": "otdb-7b7c5ed1ab",
+"pt": {
+"q": "Qual é o nome de nascimento de Michael Caine?",
+"o": [
+"Martin Michaels",
+"Morris Coleman",
+"Carl Myers",
+"Maurice Micklewhite"
+]
+},
+"en": {
+"q": "What is the birth name of Michael Caine?",
+"o": [
+"Martin Michaels",
+"Morris Coleman",
+"Carl Myers",
+"Maurice Micklewhite"
+]
+}
+},
+{
+"id": "otdb-793db6ab97",
+"pt": {
+"q": "Quem interpretou o Batman no filme «Batman and Robin», de 1997?",
+"o": [
+"George Clooney",
+"Michael Keaton",
+"Val Kilmer",
+"Christian Bale"
+]
+},
+"en": {
+"q": "Who played Batman in the 1997 film \"Batman and Robin\"?",
+"o": [
+"George Clooney",
+"Michael Keaton",
+"Val Kilmer",
+"Christian Bale"
+]
+}
+},
+{
+"id": "otdb-d8ab0de60b",
+"pt": {
+"q": "Em «Tron: Legacy», Kevin Flynn escreveu um programa para criar o sistema perfeito. Como se chamava esse programa?",
+"o": [
+"Clu",
+"Quorra",
+"MCP",
+"Tron"
+]
+},
+"en": {
+"q": "In Tron: Legacy, Kevin Flynn wrote a program to create the perfect system. What was the program's name?",
+"o": [
+"Clu",
+"Quorra",
+"MCP",
+"Tron"
+]
+}
+},
+{
+"id": "otdb-f9dc2248a4",
+"pt": {
+"q": "Qual destes clássicos da Disney estreou em 1970?",
+"o": [
+"One Hundred and One Dalmatians",
+"The Aristocats",
+"The Fox and the Hound",
+"The Little Mermaid"
+]
+},
+"en": {
+"q": "Which of these Disney classics was released in 1970?",
+"o": [
+"One Hundred and One Dalmatians",
+"The Aristocats",
+"The Fox and the Hound",
+"The Little Mermaid"
+]
+}
+},
+{
+"id": "otdb-d04597617c",
+"pt": {
+"q": "Qual destes filmes de ação foi rodado inteiramente num único plano-sequência?",
+"o": [
+"Ip Man 2",
+"Léon: The Professional",
+"The Bourne Legacy",
+"Victoria"
+]
+},
+"en": {
+"q": "Which one of these action movies was shot entirely in one take?",
+"o": [
+"Ip Man 2",
+"Léon: The Professional",
+"The Bourne Legacy",
+"Victoria"
+]
+}
+},
+{
+"id": "otdb-ea07d6c881",
+"pt": {
+"q": "Qual dos filmes do realizador Stanley Kubrick é uma adaptação de um romance de Stephen King?",
+"o": [
+"Eyes Wide Shut",
+"Dr. Strangelove",
+"2001: A Space Odyssey",
+"The Shining"
+]
+},
+"en": {
+"q": "Which movie of film director Stanley Kubrick is known to be an adaptation of a Stephen King novel?",
+"o": [
+"Eyes Wide Shut",
+"Dr. Strangelove",
+"2001: A Space Odyssey",
+"The Shining"
+]
+}
+},
+{
+"id": "otdb-a6661300a2",
+"pt": {
+"q": "Em «The Lord of the Rings: The Fellowship of the Ring», qual destas personagens do livro ficou de fora do filme?",
+"o": [
+"Barliman Butterbur",
+"Celeborn",
+"Tom Bombadil",
+"Strider"
+]
+},
+"en": {
+"q": "In The Lord of the Rings: The Fellowship of the Ring, which one of the following characters from the book was left out of the film?",
+"o": [
+"Barliman Butterbur",
+"Celeborn",
+"Tom Bombadil",
+"Strider"
+]
+}
+},
+{
+"id": "otdb-28ea7daf86",
+"pt": {
+"q": "No filme «Willy Wonka & the Chocolate Factory» (1971), quem interpretou Willy Wonka?",
+"o": [
+"Peter Ostrum",
+"Shia LaBeouf",
+"Gene Wilder",
+"Johnny Depp"
+]
+},
+"en": {
+"q": "In the 1971 film \"Willy Wonka & the Chocolate Factory\", who played Willy Wonka?",
+"o": [
+"Peter Ostrum",
+"Shia LaBeouf",
+"Gene Wilder",
+"Johnny Depp"
+]
+}
+},
+{
+"id": "otdb-638bf22224",
+"pt": {
+"q": "Em «Back to the Future Part II», para que data do futuro viajam Marty e o Dr. Emmett Brown?",
+"o": [
+"20 de julho de 2015",
+"28 de agosto de 2015",
+"25 de janeiro de 2015",
+"21 de outubro de 2015"
+]
+},
+"en": {
+"q": "In Back to the Future Part II, Marty and Dr. Emmett Brown go to which future date?",
+"o": [
+"July 20, 2015",
+"August 28, 2015",
+"January 25, 2015",
+"October 21, 2015"
+]
+}
+},
+{
+"id": "otdb-e53ae31b77",
+"pt": {
+"q": "Quem realizou o filme «Pan's Labyrinth»?",
+"o": [
+"Alejandro González Iñárritu",
+"Alejandro Jodorowsky",
+"Guillermo del Toro",
+"Alfonso Cuarón"
+]
+},
+"en": {
+"q": "Which director directed the movie \"Pan's Labyrinth\"?",
+"o": [
+"Alejandro González Iñárritu",
+"Alejandro Jodorowsky",
+"Guillermo del Toro",
+"Alfonso Cuarón"
+]
+}
+},
+{
+"id": "otdb-4a4d96fef5",
+"pt": {
+"q": "Em que filme é que a personagem de Robin Williams tem de se disfarçar de mulher?",
+"o": [
+"Mrs. Doubtfire",
+"Old Dogs",
+"Awakenings",
+"Jumanji"
+]
+},
+"en": {
+"q": "In which movie does Robin Williams' character have to disguise themselves into a woman?",
+"o": [
+"Mrs. Doubtfire",
+"Old Dogs",
+"Awakenings",
+"Jumanji"
+]
+}
+},
+{
+"id": "otdb-86539c7c65",
+"pt": {
+"q": "Qual dos seguintes atores não entra no filme «The Usual Suspects»?",
+"o": [
+"Benicio Del Toro",
+"Gabriel Byrne",
+"Kevin Spacey",
+"Steve Buscemi"
+]
+},
+"en": {
+"q": "Which of the following actors does not play a role in the movie \"The Usual Suspects?\"",
+"o": [
+"Benicio Del Toro",
+"Gabriel Byrne",
+"Kevin Spacey",
+"Steve Buscemi"
+]
+}
+},
+{
+"id": "otdb-271de30d0a",
+"pt": {
+"q": "Que cidade foi atacada pelo monstro no filme «Cloverfield»?",
+"o": [
+"Las Vegas",
+"Orlando",
+"Chicago",
+"Nova Iorque"
+]
+},
+"en": {
+"q": "What city did the monster attack in the film, \"Cloverfield\"?",
+"o": [
+"Las Vegas",
+"Orlando",
+"Chicago",
+"New York"
+]
+}
+},
+{
+"id": "otdb-3bdf6be772",
+"pt": {
+"q": "Que super-herói foi interpretado no cinema pelos atores Michael Keaton, Val Kilmer, George Clooney e Christian Bale?",
+"o": [
+"Homem de Ferro",
+"Homem-Aranha",
+"Super-Homem",
+"Batman"
+]
+},
+"en": {
+"q": "What superhero has been played in film by actors Michael Keaton, Val Kilmer, George Clooney and Christian Bale?",
+"o": [
+"Iron Man",
+"Spider-Man",
+"Superman",
+"Batman"
+]
+}
+},
+{
+"id": "otdb-b7f522ffa0",
+"pt": {
+"q": "Qual era a raça do cão Marley no filme «Marley & Me» (2008)?",
+"o": [
+"Labrador retriever",
+"Shiba inu",
+"Dálmata",
+"Golden retriever"
+]
+},
+"en": {
+"q": "What breed of dog was Marley in the film \"Marley & Me\" (2008)?",
+"o": [
+"Labrador Retriever",
+"Shiba Inu",
+"Dalmatian",
+"Golden Retriever"
+]
+}
+},
+{
+"id": "otdb-19ae72bc70",
+"pt": {
+"q": "Que fabricante construiu o automóvel usado em Back to the Future?",
+"o": [
+"Toyota",
+"Ford",
+"Daihatsu",
+"DeLorean"
+]
+},
+"en": {
+"q": "What manufacturer made the car used in Back to the Future?",
+"o": [
+"Toyota",
+"Ford",
+"Daihatsu",
+"DeLorean"
+]
+}
+},
+{
+"id": "otdb-7ef0b79d88",
+"pt": {
+"q": "Em que ano nasceu Walt Disney?",
+"o": [
+"1901",
+"1900",
+"1903",
+"1902"
+]
+},
+"en": {
+"q": "What year was Walt Disney born?",
+"o": [
+"1901",
+"1900",
+"1903",
+"1902"
+]
+}
+},
+{
+"id": "otdb-b0535da26b",
+"pt": {
+"q": "Em «Big Hero 6», de que cidade fictícia são os Big Hero 6?",
+"o": [
+"San Fransokyo",
+"San Tokyo",
+"Tokysisco",
+"Sankyo"
+]
+},
+"en": {
+"q": "In Big Hero 6, what fictional city is the Big Hero 6 from?",
+"o": [
+"San Fransokyo",
+"San Tokyo",
+"Tokysisco",
+"Sankyo"
+]
+}
+},
+{
+"id": "otdb-9204199d72",
+"pt": {
+"q": "Que ator e praticante de artes marciais interpretou o coronel Guile na adaptação cinematográfica de «Street Fighter», de 1994?",
+"o": [
+"Jean-Claude Van Damme",
+"Steven Seagal",
+"Chuck Norris",
+"Scott Adkins"
+]
+},
+"en": {
+"q": "Which actor and martial artist starred as Colonel Guile in the 1994 action film adaptation of Street Fighter?",
+"o": [
+"Jean-Claude Van Damme",
+"Steven Seagal",
+"Chuck Norris",
+"Scott Adkins"
+]
+}
+},
+{
+"id": "otdb-48651b1e7f",
+"pt": {
+"q": "No filme «Spaceballs», o que tentam os Spaceballs roubar ao planeta Druidia?",
+"o": [
+"Princesa Lonestar",
+"O Schwartz",
+"Ar",
+"Almôndegas"
+]
+},
+"en": {
+"q": "In the movie \"Spaceballs\", what are the Spaceballs attempting to steal from Planet Druidia?",
+"o": [
+"Princess Lonestar",
+"The Schwartz",
+"Air",
+"Meatballs"
+]
+}
+},
+{
+"id": "otdb-0a3bc2420e",
+"pt": {
+"q": "No remake de 2010 de «A Nightmare on Elm Street», quem interpretou Freddy Krueger?",
+"o": [
+"Jackie Earle Haley",
+"Tyler Mane",
+"Derek Mears",
+"Gunnar Hansen"
+]
+},
+"en": {
+"q": "In the 2010 Nightmare on Elm Street reboot, who played Freddy Krueger?",
+"o": [
+"Jackie Earle Haley",
+"Tyler Mane",
+"Derek Mears",
+"Gunnar Hansen"
+]
+}
+},
+{
+"id": "otdb-44d42ec907",
+"pt": {
+"q": "No filme «Fight Club» (1999), qual destas NÃO é uma regra do «fight club»?",
+"o": [
+"Não se fala sobre o FIGHT CLUB",
+"As lutas duram o tempo que for preciso",
+"Usar sempre camisa",
+"Só dois homens por luta"
+]
+},
+"en": {
+"q": "In the 1999 movie Fight Club, which of these is not a rule of the \"fight club\"?",
+"o": [
+"You do not talk about FIGHT CLUB",
+"Fights will go on as long as they have to",
+"Always wear a shirt",
+"Only two guys to a fight"
+]
+}
+},
+{
+"id": "otdb-c1f06cde7b",
+"pt": {
+"q": "Qual dos seguintes filmes não se baseou num romance de Stephen King?",
+"o": [
+"The Thing",
+"Carrie",
+"The Green Mile",
+"Misery"
+]
+},
+"en": {
+"q": "Which of the following movies was not based on a novel by Stephen King? ",
+"o": [
+"The Thing",
+"Carrie",
+"The Green Mile",
+"Misery"
+]
+}
+},
+{
+"id": "otdb-fa5709a208",
+"pt": {
+"q": "Quem realizou o filme «Alien»?",
+"o": [
+"Christopher Nolan",
+"Michael Bay",
+"James Cameron",
+"Ridley Scott"
+]
+},
+"en": {
+"q": "Who directed the movie \"Alien\"?",
+"o": [
+"Christopher Nolan",
+"Michael Bay",
+"James Cameron",
+"Ridley Scott"
+]
+}
+},
+{
+"id": "otdb-0651659780",
+"pt": {
+"q": "Quem realizou os filmes «Kill Bill»?",
+"o": [
+"Stanley Kubrick",
+"Arnold Schwarzenegger",
+"Quentin Tarantino",
+"David Lean"
+]
+},
+"en": {
+"q": "Who directed the Kill Bill movies?",
+"o": [
+"Stanley Kubrick",
+"Arnold Schwarzenegger",
+"Quentin Tarantino",
+"David Lean"
+]
+}
+},
+{
+"id": "otdb-2aa2bf4e5b",
+"pt": {
+"q": "Em que ponto da cronologia da saga se situa «Rogue One: A Star Wars Story»?",
+"o": [
+"Antes do Episódio I",
+"Depois do Episódio VI",
+"Entre o Episódio IV e o V",
+"Entre o Episódio III e o IV"
+]
+},
+"en": {
+"q": "When does \"Rogue One: A Star Wars Story\" take place chronologically in the series?",
+"o": [
+"Before Episode 1",
+"After Episode 6",
+"Between Episode 4 and 5",
+"Between Episode 3 and 4"
+]
+}
+},
+{
+"id": "otdb-dde3e774dd",
+"pt": {
+"q": "Quem interpretou o barão Victor Frankenstein no filme de terror da Hammer de 1957 «The Curse of Frankenstein»?",
+"o": [
+"Lon Chaney Jr.",
+"Boris Karloff",
+"Vincent Price",
+"Peter Cushing"
+]
+},
+"en": {
+"q": "Who played Baron Victor Frankenstein in the 1957 Hammer horror film \"The Curse of Frankenstein\"?",
+"o": [
+"Lon Chaney Jr.",
+"Boris Karloff",
+"Vincent Price",
+"Peter Cushing"
+]
+}
+}
+]

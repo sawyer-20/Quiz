@@ -1,0 +1,1052 @@
+[
+{
+"id": "otdb-682b79c9ca",
+"pt": {
+"q": "Qual era o nome original do motor de busca «Google»?",
+"o": [
+"CatMassage",
+"Netscape Navigator",
+"BackRub",
+"SearchPro"
+]
+},
+"en": {
+"q": "What was the original name of the search engine \"Google\"?",
+"o": [
+"CatMassage",
+"Netscape Navigator",
+"BackRub",
+"SearchPro"
+]
+}
+},
+{
+"id": "otdb-0855f46bf6",
+"pt": {
+"q": "Em que porta funciona o HTTP?",
+"o": [
+"53",
+"23",
+"80",
+"443"
+]
+},
+"en": {
+"q": "What port does HTTP run on?",
+"o": [
+"53",
+"23",
+"80",
+"443"
+]
+}
+},
+{
+"id": "otdb-2ad8ee84e8",
+"pt": {
+"q": "Quantos objetos equivalem a uma mole?",
+"o": [
+"6,002 × 10^23",
+"6,022 × 10^23",
+"6,022 × 10^22",
+"6,002 × 10^22"
+]
+},
+"en": {
+"q": "How many objects are equivalent to one mole?",
+"o": [
+"6.002 x 10^23",
+"6.022 x 10^23",
+"6.022 x 10^22",
+"6.002 x 10^22"
+]
+}
+},
+{
+"id": "otdb-c582b27db4",
+"pt": {
+"q": "Que psicólogo suíço é associado aos conceitos de personalidade introvertida e extrovertida?",
+"o": [
+"Hermann Rorschach",
+"Carl Jung",
+"Jean Piaget",
+"Alice Miller"
+]
+},
+"en": {
+"q": "Which Swiss psychologist is synonymous with the concepts of introvert and extrovert personalities?",
+"o": [
+"Hermann Rorschach",
+"Carl Jung",
+"Jean Piaget",
+"Alice Miller"
+]
+}
+},
+{
+"id": "otdb-d52c96005c",
+"pt": {
+"q": "Em informática, o que significa MIDI?",
+"o": [
+"Modular Interface of Digital Instruments",
+"Musical Interface of Digital Instruments",
+"Musical Instrument Digital Interface",
+"Musical Instrument Data Interface"
+]
+},
+"en": {
+"q": "In computing, what does MIDI stand for?",
+"o": [
+"Modular Interface of Digital Instruments",
+"Musical Interface of Digital Instruments",
+"Musical Instrument Digital Interface",
+"Musical Instrument Data Interface"
+]
+}
+},
+{
+"id": "otdb-efe002f256",
+"pt": {
+"q": "O que significava originalmente o nome da rede de anonimato Tor?",
+"o": [
+"The Ominous Router",
+"The Orange Router",
+"The Only Router",
+"The Onion Router"
+]
+},
+"en": {
+"q": "What did the name of the Tor Anonymity Network orignially stand for?",
+"o": [
+"The Ominous Router",
+"The Orange Router",
+"The Only Router",
+"The Onion Router"
+]
+}
+},
+{
+"id": "otdb-8422a231cc",
+"pt": {
+"q": "Qual é o nome comum do composto químico «monóxido de di-hidrogénio»?",
+"o": [
+"Gás hilariante",
+"Metano",
+"Água",
+"Amoníaco"
+]
+},
+"en": {
+"q": "What is the common name of the chemical compound \"dihydrogen monoxide\"?",
+"o": [
+"Laughing Gas",
+"Methane",
+"Water",
+"Ammonia "
+]
+}
+},
+{
+"id": "otdb-a07561145f",
+"pt": {
+"q": "Qual destes NÃO é um osso do braço humano?",
+"o": [
+"Rádio",
+"Cúbito",
+"Úmero",
+"Tíbia"
+]
+},
+"en": {
+"q": "Which of these is NOT a bone found in the human arm?",
+"o": [
+"Radius",
+"Ulna",
+"Humerus",
+"Tibia"
+]
+}
+},
+{
+"id": "otdb-792913ebec",
+"pt": {
+"q": "Qual dos seguintes líquidos é o menos viscoso? Considera uma temperatura de 25 °C.",
+"o": [
+"Acetona",
+"Água",
+"Mercúrio",
+"Benzeno"
+]
+},
+"en": {
+"q": "Which of the following liquids is least viscous? Assume temperature is 25°C.",
+"o": [
+"Acetone",
+"Water",
+"Mercury",
+"Benzene"
+]
+}
+},
+{
+"id": "otdb-36007be74f",
+"pt": {
+"q": "O urânio natural é constituído sobretudo por que isótopo?",
+"o": [
+"233",
+"239",
+"235",
+"238"
+]
+},
+"en": {
+"q": "Naturally occuring uranium primarily consists of which isotope?",
+"o": [
+"233",
+"239",
+"235",
+"238"
+]
+}
+},
+{
+"id": "otdb-fbdd79d807",
+"pt": {
+"q": "De que cidade dinamarquesa deriva o nome do elemento 72 da tabela periódica?",
+"o": [
+"Herning",
+"Odense",
+"Skagen",
+"Copenhaga"
+]
+},
+"en": {
+"q": "After which Danish city is the 72th element on the periodic table named?",
+"o": [
+"Herning",
+"Odense",
+"Skagen",
+"Copenhagen"
+]
+}
+},
+{
+"id": "otdb-36e094e97f",
+"pt": {
+"q": "Quando foi lançado pela primeira vez o leitor de discos compactos (CD)?",
+"o": [
+"1982",
+"1981",
+"1980",
+"1983"
+]
+},
+"en": {
+"q": "When was the compact disc player first released?",
+"o": [
+"1982",
+"1981",
+"1980",
+"1983"
+]
+}
+},
+{
+"id": "otdb-f5708c9fe4",
+"pt": {
+"q": "Que elemento tem o símbolo químico Kr?",
+"o": [
+"Kineticium",
+"Querosene",
+"Crípton",
+"Cúrio"
+]
+},
+"en": {
+"q": "What element has the chemical symbol Kr?",
+"o": [
+"Kineticium",
+"Kerosine",
+"Krypton",
+"Curium"
+]
+}
+},
+{
+"id": "otdb-260e6d02e9",
+"pt": {
+"q": "Qual destes compostos químicos NÃO se encontra no suco gástrico?",
+"o": [
+"Cloreto de sódio",
+"Ácido sulfúrico",
+"Ácido clorídrico",
+"Cloreto de potássio"
+]
+},
+"en": {
+"q": "Which of these chemical compounds is NOT found in gastric acid?",
+"o": [
+"Sodium chloride",
+"Sulfuric acid",
+"Hydrochloric acid",
+"Potassium chloride"
+]
+}
+},
+{
+"id": "otdb-e68b33c65d",
+"pt": {
+"q": "Qual é o osso mais comprido do corpo humano?",
+"o": [
+"Omoplata",
+"Perónio",
+"Cúbito",
+"Fémur"
+]
+},
+"en": {
+"q": "Which is the longest bone in the human body? ",
+"o": [
+"Scapula",
+"Fibula",
+"Ulna",
+"Femur"
+]
+}
+},
+{
+"id": "otdb-26af9d2412",
+"pt": {
+"q": "O que causa o som de um batimento cardíaco?",
+"o": [
+"O fecho das válvulas cardíacas",
+"A contração das câmaras do coração",
+"O relaxamento das câmaras do coração",
+"A saída do sangue do coração"
+]
+},
+"en": {
+"q": "What causes the sound of a heartbeat?",
+"o": [
+"Closure of the heart valves",
+"Contraction of the heart chambers",
+"Relaxation of the heart chambers",
+"Blood exiting the heart"
+]
+}
+},
+{
+"id": "otdb-ce6d43f418",
+"pt": {
+"q": "Em que ano adquiriu a Lenovo a divisão de computadores pessoais da IBM, incluindo a linha de portáteis e tablets ThinkPad?",
+"o": [
+"2002",
+"1999",
+"2008",
+"2005"
+]
+},
+"en": {
+"q": "Lenovo acquired IBM's personal computer division, including the ThinkPad line of laptops and tablets, in what year?",
+"o": [
+"2002",
+"1999",
+"2008",
+"2005"
+]
+}
+},
+{
+"id": "otdb-e59f97b89e",
+"pt": {
+"q": "Que linguagem usa o Node.js?",
+"o": [
+"JavaScript",
+"Java",
+"Joomla Source Code",
+"Java Source"
+]
+},
+"en": {
+"q": "What language does Node.js use?",
+"o": [
+"JavaScript",
+"Java",
+"Joomla Source Code",
+"Java Source"
+]
+}
+},
+{
+"id": "otdb-b73affe82a",
+"pt": {
+"q": "Qual é a unidade SI da resistência elétrica?",
+"o": [
+"Ohm",
+"Volt",
+"Ampere",
+"Siemens"
+]
+},
+"en": {
+"q": "What is the SI unit for resistance?",
+"o": [
+"Ohms",
+"Volts",
+"Ampheres",
+"Siemens"
+]
+}
+},
+{
+"id": "otdb-d1f617d621",
+"pt": {
+"q": "Quem cunhou o termo «bateria» para descrever um dispositivo de armazenamento de eletricidade?",
+"o": [
+"Benjamin Franklin",
+"Alessandro Volta",
+"Nikola Tesla",
+"Luigi Galvani"
+]
+},
+"en": {
+"q": "The term \"battery\" to describe an electrical storage device was coined by?",
+"o": [
+"Benjamin Franklin",
+" Alessandro Volta",
+"Nikola Tesla",
+"Luigi Galvani"
+]
+}
+},
+{
+"id": "otdb-1966f4204c",
+"pt": {
+"q": "Qual dos seguintes elementos está envolvido na cor vermelha do sangue humano?",
+"o": [
+"Irídio",
+"Cobalto",
+"Ferro",
+"Cobre"
+]
+},
+"en": {
+"q": "The element involved in making human blood red is which of the following?",
+"o": [
+"Iridium",
+"Cobalt",
+"Iron",
+"Copper"
+]
+}
+},
+{
+"id": "otdb-fa1d019e90",
+"pt": {
+"q": "Que tipo de linguagem é o HTML?",
+"o": [
+"Linguagem de marcação",
+"Linguagem de programação",
+"Linguagem de macros",
+"Linguagem de scripting"
+]
+},
+"en": {
+"q": "HTML is what type of language?",
+"o": [
+"Markup Language",
+"Programming Language",
+"Macro Language",
+"Scripting Language"
+]
+}
+},
+{
+"id": "otdb-90e26992da",
+"pt": {
+"q": "O que significa o nome da empresa de tecnologia HP?",
+"o": [
+"Howard Packmann",
+"Hewlett-Packard",
+"Hellman-Pohl",
+"Husker-Pollosk"
+]
+},
+"en": {
+"q": "The name of technology company HP stands for what?",
+"o": [
+"Howard Packmann",
+"Hewlett-Packard",
+"Hellman-Pohl",
+"Husker-Pollosk"
+]
+}
+},
+{
+"id": "otdb-376696a7ad",
+"pt": {
+"q": "Quando começou o CD a aparecer no mercado de consumo?",
+"o": [
+"1972",
+"1992",
+"1982",
+"1962"
+]
+},
+"en": {
+"q": "When did the CD begin to appear on the consumer market?",
+"o": [
+"1972",
+"1992",
+"1982",
+"1962"
+]
+}
+},
+{
+"id": "otdb-7cee3cf5d3",
+"pt": {
+"q": "Na tipagem sanguínea, o sinal (+) ou (-) a seguir a A, B, AB ou O chama-se fator Rh. Qual é a origem da sua descoberta?",
+"o": [
+"Pessoas ruivas",
+"Doentes com reumatismo",
+"Macacos Rhesus",
+"Rizomas"
+]
+},
+"en": {
+"q": "In blood typing, the (+) and (-) marker after an A, B, AB, or O is called Rh factor. Which of the following is the source of its discovery?",
+"o": [
+"Red-Haired People",
+"Rheumatism Patients",
+"Rhesus Monkeys",
+"Rhizomes"
+]
+}
+},
+{
+"id": "otdb-8dd94267bd",
+"pt": {
+"q": "Que dispositivo de hardware fornece a interface para que todos os outros dispositivos ligados comuniquem entre si?",
+"o": [
+"Memória de acesso aleatório",
+"Disco rígido",
+"Unidade Central de Processamento",
+"Placa-mãe"
+]
+},
+"en": {
+"q": "Which computer hardware device provides an interface for all other connected devices to communicate?",
+"o": [
+"Random Access Memory",
+"Hard Disk Drive",
+"Central Processing Unit",
+"Motherboard"
+]
+}
+},
+{
+"id": "otdb-194d01d1f5",
+"pt": {
+"q": "O que significa «MP» em MP3?",
+"o": [
+"Micro Point",
+"Moving Picture",
+"Music Player",
+"Multi Pass"
+]
+},
+"en": {
+"q": "What does the \"MP\" stand for in MP3?",
+"o": [
+"Micro Point",
+"Moving Picture",
+"Music Player",
+"Multi Pass"
+]
+}
+},
+{
+"id": "otdb-ca5ceed69b",
+"pt": {
+"q": "Qual é a composição química da água?",
+"o": [
+"C12H6O2",
+"H",
+"CO2",
+"H2O"
+]
+},
+"en": {
+"q": "What is the chemical makeup of water?",
+"o": [
+"C12H6O2",
+"H",
+"CO2",
+"H20"
+]
+}
+},
+{
+"id": "otdb-2a50d5c3aa",
+"pt": {
+"q": "Qual é o termo médico para o açúcar baixo no sangue?",
+"o": [
+"Hipotiroidismo",
+"Hipoglicemia",
+"Hipoxia",
+"Hipotermia"
+]
+},
+"en": {
+"q": "What is the medical term for low blood sugar?",
+"o": [
+"Hypothyroidism",
+"Hypoglycemia",
+"Hypoxia",
+"Hypothermia"
+]
+}
+},
+{
+"id": "otdb-74c966721b",
+"pt": {
+"q": "Que gás constitui cerca de 78% da atmosfera da Terra?",
+"o": [
+"Oxigénio",
+"Dióxido de carbono",
+"Azoto",
+"Árgon"
+]
+},
+"en": {
+"q": "Which gas forms about 78% of the Earth’s atmosphere?",
+"o": [
+"Oxygen",
+"Carbon Dioxide",
+"Nitrogen",
+"Argon"
+]
+}
+},
+{
+"id": "otdb-501a3cfbf6",
+"pt": {
+"q": "O positrão é a antipartícula de quê?",
+"o": [
+"Eletrão",
+"Neutrão",
+"Fotão",
+"Protão"
+]
+},
+"en": {
+"q": "A positron is an antiparticle of a what?",
+"o": [
+"Electron",
+"Neutron",
+"Photon",
+"Proton"
+]
+}
+},
+{
+"id": "otdb-f43cf0b1f6",
+"pt": {
+"q": "O que causa a doença de Lyme?",
+"o": [
+"Uma bactéria",
+"Um verme parasita",
+"Um vírus",
+"Uma ameba"
+]
+},
+"en": {
+"q": "What causes Lyme disease?",
+"o": [
+"A bacteria",
+"A parasitic worm",
+"A virus",
+"An amoeba"
+]
+}
+},
+{
+"id": "otdb-2efc02ec18",
+"pt": {
+"q": "Quantos lados tem um trapézio?",
+"o": [
+"4",
+"5",
+"3",
+"6"
+]
+},
+"en": {
+"q": "How many sides does a trapezium have?",
+"o": [
+"4",
+"5",
+"3",
+"6"
+]
+}
+},
+{
+"id": "otdb-879f265e39",
+"pt": {
+"q": "Qual é a fórmula molecular da glicose?",
+"o": [
+"C6H12O6",
+"K+",
+"CH4",
+"C2H4O2"
+]
+},
+"en": {
+"q": "What is the molecular formula of Glucose?",
+"o": [
+"C6H12O6",
+"K+",
+"CH4",
+"C2H4O2"
+]
+}
+},
+{
+"id": "otdb-e90a01e9b6",
+"pt": {
+"q": "O que significa RAID?",
+"o": [
+"Range of Applications with Identical Designs",
+"Rapid Access for Indexed Devices",
+"Randomized Abstract Identification Description",
+"Redundant Array of Independent Disks"
+]
+},
+"en": {
+"q": "What does RAID stand for?",
+"o": [
+"Range of Applications with Identical Designs",
+"Rapid Access for Indexed Devices",
+"Randomized Abstract Identification Description",
+"Redundant Array of Independent Disks"
+]
+}
+},
+{
+"id": "otdb-bedd6cd433",
+"pt": {
+"q": "Que termo se associa melhor a Sigmund Freud?",
+"o": [
+"Teoria da gravidade",
+"Terapia cognitivo-comportamental",
+"Psicanálise",
+"Terapia comportamental dialética"
+]
+},
+"en": {
+"q": "What term is best associated with Sigmund Freud?",
+"o": [
+"Theory of Gravity",
+"Cognitive-Behavioral Therapy",
+"Psychoanalysis",
+"Dialectical Behavior Therapy"
+]
+}
+},
+{
+"id": "otdb-88cf4c3c11",
+"pt": {
+"q": "A síndrome de Down é geralmente causada por uma cópia extra de que cromossoma?",
+"o": [
+"23",
+"24",
+"21",
+"15"
+]
+},
+"en": {
+"q": "Down Syndrome is usually caused by an extra copy of which chromosome?",
+"o": [
+"23",
+"24",
+"21",
+"15"
+]
+}
+},
+{
+"id": "otdb-1f93a95453",
+"pt": {
+"q": "Que unidade científica tem o nome de um nobre italiano?",
+"o": [
+"Pascal",
+"Volt",
+"Hertz",
+"Ohm"
+]
+},
+"en": {
+"q": "Which scientific unit is named after an Italian nobleman?",
+"o": [
+"Pascal",
+"Volt",
+"Hertz",
+"Ohm"
+]
+}
+},
+{
+"id": "otdb-cb442700a2",
+"pt": {
+"q": "O matemático francês Évariste Galois é conhecido sobretudo pelo seu trabalho em que área?",
+"o": [
+"Método de Galois para equações diferenciais parciais",
+"Integração abeliana",
+"Teoria de Galois",
+"Frações contínuas de Galois"
+]
+},
+"en": {
+"q": "The French mathematician Évariste Galois is primarily known for his work in which?",
+"o": [
+"Galois' Method for PDE's ",
+"Abelian Integration",
+"Galois Theory",
+"Galois' Continued Fractions"
+]
+}
+},
+{
+"id": "otdb-4983313f88",
+"pt": {
+"q": "Na linguagem de programação Python, qual destas instruções mostraria corretamente a cadeia «Hello World»?",
+"o": [
+"echo \"Hello World\"",
+"print(\"Hello World\")",
+"console.log(\"Hello World\")",
+"printf(\"Hello World\")"
+]
+},
+"en": {
+"q": "In the programming language \"Python\", which of these statements would display the string \"Hello World\" correctly?",
+"o": [
+"echo \"Hello World\"",
+"print(\"Hello World\")",
+"console.log(\"Hello World\")",
+"printf(\"Hello World\")"
+]
+}
+},
+{
+"id": "otdb-fc401f3974",
+"pt": {
+"q": "Qual é o nome de código do sistema operativo móvel Android 7.0?",
+"o": [
+"Jelly Bean",
+"Ice Cream Sandwich",
+"Marshmallow",
+"Nougat"
+]
+},
+"en": {
+"q": "What is the code name for the mobile operating system Android 7.0?",
+"o": [
+"Jelly Bean",
+"Ice Cream Sandwich",
+"Marshmallow",
+"Nougat"
+]
+}
+},
+{
+"id": "otdb-0206cd2822",
+"pt": {
+"q": "Qual é o domínio de topo de Tuvalu?",
+"o": [
+".tl",
+".tt",
+".tu",
+".tv"
+]
+},
+"en": {
+"q": "What is the domain name for the country Tuvalu?",
+"o": [
+".tl",
+".tt",
+".tu",
+".tv"
+]
+}
+},
+{
+"id": "otdb-fc9c482c77",
+"pt": {
+"q": "Em que ano foi apresentado o primeiro iPod da Apple?",
+"o": [
+"1999",
+"1998",
+"2000",
+"2001"
+]
+},
+"en": {
+"q": "What year was the first Apple iPod introduced?",
+"o": [
+"1999",
+"1998",
+"2000",
+"2001"
+]
+}
+},
+{
+"id": "otdb-4aa2895479",
+"pt": {
+"q": "Qual destes é um tipo de reflexo de estiramento (reflexo tendinoso profundo)?",
+"o": [
+"Reflexo aquiliano",
+"Reflexo de coçar",
+"Reflexo de vómito",
+"Reflexo pupilar à luz"
+]
+},
+"en": {
+"q": "Which of these is a type of stretch/deep tendon reflex?",
+"o": [
+"Ankle jerk reflex",
+"Scratch reflex",
+"Gag reflex",
+"Pupillary light reflex"
+]
+}
+},
+{
+"id": "otdb-02e390a941",
+"pt": {
+"q": "Que cartucho usa o clássico AK-47?",
+"o": [
+"7.62x39mm",
+"5.45x39mm",
+"5.56x45mm",
+"7.62x51mm"
+]
+},
+"en": {
+"q": "What round is a classic AK-47 chambered in?",
+"o": [
+"7.62x39mm",
+"5.45x39mm",
+"5.56x45mm",
+"7.62x51mm"
+]
+}
+},
+{
+"id": "otdb-2c65ddef23",
+"pt": {
+"q": "A combustão de qual destes metais produz uma chama branca brilhante?",
+"o": [
+"Magnésio",
+"Chumbo",
+"Lítio",
+"Cobre"
+]
+},
+"en": {
+"q": "Burning which of these metals will produce a bright white flame?",
+"o": [
+"Magnesium",
+"Lead",
+"Lithium",
+"Copper"
+]
+}
+},
+{
+"id": "otdb-085f2c31c6",
+"pt": {
+"q": "De que são feitas as unhas humanas?",
+"o": [
+"Osso",
+"Quitina",
+"Queratina",
+"Cálcio"
+]
+},
+"en": {
+"q": "What are human nails made of?",
+"o": [
+"Bone",
+"Chitin",
+"Keratin",
+"Calcium"
+]
+}
+},
+{
+"id": "otdb-6a8904d92d",
+"pt": {
+"q": "Qual dos seguintes químicos se encontra nas sementes da beringela?",
+"o": [
+"Nicotina",
+"Mescalina",
+"Cianeto",
+"Psilocibina"
+]
+},
+"en": {
+"q": "Which of the following chemicals are found in eggplant seeds?",
+"o": [
+"Nicotine",
+"Mescaline",
+"Cyanide",
+"Psilocybin"
+]
+}
+},
+{
+"id": "otdb-b688a1f7c3",
+"pt": {
+"q": "O sistema operativo Windows foi desenvolvido por que empresa?",
+"o": [
+"Apple",
+"Nokia",
+"Microsoft",
+"IBM"
+]
+},
+"en": {
+"q": "The Windows OS was delevoped by which company?",
+"o": [
+"Apple",
+"Nokia",
+"Microsoft",
+"IBM"
+]
+}
+},
+{
+"id": "otdb-b94925291b",
+"pt": {
+"q": "Que elemento químico foi originalmente conhecido como alabamínio?",
+"o": [
+"Antimónio",
+"Molibdénio",
+"Astato",
+"Selénio"
+]
+},
+"en": {
+"q": "Which chemical element was originally known as Alabamine?",
+"o": [
+"Antimony",
+"Molybdenum",
+"Astatine",
+"Selenium"
+]
+}
+}
+]

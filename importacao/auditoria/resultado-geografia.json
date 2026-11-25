@@ -1,0 +1,408 @@
+[
+ {
+  "id": "wd-capital-Q811",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "texto"
+  ],
+  "nota": "Em pt-PT a grafia é «Manágua», não «Managua» (forma espanhola)."
+ },
+ {
+  "id": "otdb-237572d8ca",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "texto"
+  ],
+  "nota": "Opção «Jabraltar» é um erro de grafia (em ambos os idiomas); «Macedónia» não é uma cidade."
+ },
+ {
+  "id": "wd-capital-Q836",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-capital-Q145",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-de65c565fb",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-46f598561a",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-19707ab417",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-capital-Q212",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-ec6a648c70",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-capital-Q970",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-capital-Q398",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-b58633e7b3",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-capital-Q235",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-capital-Q31",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-57906bdaca",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": "Sem problema no pt-PT; no en-US a opção «Lichtenstein» está mal escrita (Liechtenstein)."
+ },
+ {
+  "id": "otdb-7cfacf9219",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": "Sem problema no pt-PT; no en-US «Carribean» está mal escrito e «Jamaica» tem um carácter invisível (U+200E)."
+ },
+ {
+  "id": "otdb-5f8b2b467e",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-d64838f8c4",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-capital-Q79",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-capital-Q29",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-capital-Q783",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-074238d9ca",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-fa87447ba0",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-capital-Q754",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-f848a95198",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": "Sem problema no pt-PT; no en-US «Santo Dominigo» está mal escrito. As Bermudas são território britânico, não país, mas o enunciado não diz país."
+ },
+ {
+  "id": "wd-capital-Q781",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [
+   "texto"
+  ],
+  "nota": "«São João» não é a forma usada em pt-PT para St. John's; deve ficar «Saint John's»."
+ },
+ {
+  "id": "otdb-8e72951564",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-b13a105e1c",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-acf35e23a2",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-capital-Q971",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-ba611174da",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-capital-Q114",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-38b35c5ca8",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-capital-Q241",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-30a38098b2",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-capital-Q1030",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-capital-Q678",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-d5df3b7521",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-f6e8c06f24",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-capital-Q953",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-capital-Q45",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-12129a7ac3",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "wd-capital-Q211",
+  "resposta": 3,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-f77002ea55",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-fae1a31760",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-f9be774950",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-13306b8a0e",
+  "resposta": 0,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-910855343e",
+  "resposta": 2,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-81b135e2fe",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": null
+ },
+ {
+  "id": "otdb-c9d2bc547a",
+  "resposta": 1,
+  "certeza": "alta",
+  "fonte": null,
+  "problemas": [],
+  "nota": "Sem problema no pt-PT; no en-US a opção « Bulawayo» tem um espaço inicial."
+ }
+]

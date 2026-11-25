@@ -1,0 +1,200 @@
+{"id": "otdb-6e36a900f7", "keep": true, "topic": "Science", "pt": {"q": "A que temperatura é que o valor em °C é igual ao valor em °F?", "o": ["-40", "+40", "0", "+100"]}}
+{"id": "otdb-fe3f25596f", "keep": true, "topic": "Science", "pt": {"q": "Quais são os dois homens a quem se atribui a descoberta independente do cálculo diferencial?", "o": ["Newton e Leibniz", "Platão e Aristóteles", "Asimov e Rutherford", "Dvorak e Smith"]}}
+{"id": "otdb-4e2b0d2d4d", "keep": false, "motivo": "lingua"}
+{"id": "otdb-2efc02ec18", "keep": true, "topic": "Science", "pt": {"q": "Quantos lados tem um trapézio?", "o": ["4", "3", "5", "6"]}}
+{"id": "otdb-d02d76632f", "keep": true, "topic": "Science", "pt": {"q": "Quantos zeros tem um googol?", "o": ["100", "10", "1000", "1 000 000"]}}
+{"id": "otdb-486eeed050", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-290d0c1679", "keep": true, "topic": "General Knowledge", "pt": {"q": "Quem é filho do deus Loki?", "o": ["Fenrir", "Odin", "Hel", "Sigyn"]}}
+{"id": "otdb-472808e30e", "keep": true, "topic": "General Knowledge", "pt": {"q": "Quem é o deus egípcio da reprodução e da alface?", "o": ["Min", "Menu", "Mut", "Meret"]}}
+{"id": "otdb-b65a4c26a0", "keep": true, "topic": "General Knowledge", "pt": {"q": "Que figura da mitologia grega viajou até ao mundo subterrâneo para trazer a mulher, Eurídice, de volta ao mundo dos vivos?", "o": ["Orfeu", "Hércules", "Perseu", "Dédalo"]}}
+{"id": "otdb-12a0736389", "keep": true, "topic": "General Knowledge", "pt": {"q": "O antigo deus romano da guerra era normalmente conhecido por qual dos seguintes nomes?", "o": ["Marte", "Júpiter", "Juno", "Ares"]}}
+{"id": "otdb-1698b57df9", "keep": false, "motivo": "trivial_obscura"}
+{"id": "otdb-4625c259a4", "keep": true, "topic": "General Knowledge", "pt": {"q": "Os maoris defendem que que país insular foi fundado por Kupe, que o descobriu debaixo de uma longa nuvem branca?", "o": ["Nova Zelândia", "Vanuatu", "Fiji", "Havai"]}}
+{"id": "otdb-f3e09cae25", "keep": true, "topic": "General Knowledge", "pt": {"q": "Na mitologia nórdica, como se chama o símbolo habitualmente conhecido como «Árvore da Vida»?", "o": ["Yggdrasil", "Ymir", "Árvore da Terra", "Raízes de Odin"]}}
+{"id": "otdb-cc966d4279", "keep": true, "topic": "General Knowledge", "pt": {"q": "Qual foi o castigo de Sísifo pela sua astúcia?", "o": ["Rolar um rochedo colina acima para toda a eternidade", "Preso a um rochedo para sempre, bicado por aves", "De pé num lago, sem poder beber a água", "Abater uma árvore que renascia a cada machadada"]}}
+{"id": "otdb-d5e47161e0", "keep": true, "topic": "General Knowledge", "pt": {"q": "Como se chama o deus grego das mortes pacíficas?", "o": ["Tânato", "Tártaro", "Hades", "Moros"]}}
+{"id": "otdb-0773d22d29", "keep": true, "topic": "General Knowledge", "pt": {"q": "A marca de vestuário e calçado Nike toma o nome da deusa grega de quê?", "o": ["Vitória", "Coragem", "Força", "Honra"]}}
+{"id": "otdb-bee3e99c93", "keep": false, "motivo": "sensivel"}
+{"id": "otdb-a667ccc806", "keep": true, "topic": "General Knowledge", "pt": {"q": "Quem, na mitologia grega, liderou os Argonautas na busca do Velo de Ouro?", "o": ["Jasão", "Castor", "Dédalo", "Ulisses"]}}
+{"id": "otdb-93f3bbb9d4", "keep": true, "topic": "General Knowledge", "pt": {"q": "Talos, o mítico gigante de bronze, era o protetor de que ilha?", "o": ["Creta", "Sardenha", "Sicília", "Chipre"]}}
+{"id": "otdb-6716b957f3", "keep": true, "topic": "General Knowledge", "pt": {"q": "Na mitologia africana, Anansi é um trapaceiro e contador de histórias que assume a forma de que animal?", "o": ["Aranha", "Cão selvagem", "Macaco", "Crocodilo"]}}
+{"id": "otdb-d559cdcee2", "keep": true, "topic": "General Knowledge", "pt": {"q": "Qual destes deuses romanos não tem equivalente na mitologia grega?", "o": ["Jano", "Vulcano", "Juno", "Marte"]}}
+{"id": "otdb-63cc0bef6f", "keep": true, "topic": "General Knowledge", "pt": {"q": "Quem era o deus romano do fogo?", "o": ["Vulcano", "Apolo", "Júpiter", "Mercúrio"]}}
+{"id": "otdb-22d5b3c375", "keep": true, "topic": "General Knowledge", "pt": {"q": "O hipogrifo, que não se deve confundir com o grifo, é uma criatura mágica com a metade da frente de águia e a metade de trás de quê?", "o": ["De cavalo", "De dragão", "De tigre", "De leão"]}}
+{"id": "otdb-f8f9aa8254", "keep": true, "topic": "General Knowledge", "pt": {"q": "Na mitologia grega, Perséfone tem de regressar ao mundo subterrâneo por ter comido que tipo de sementes?", "o": ["Romã", "Girassol", "Laranja", "Figo"]}}
+{"id": "otdb-62ba60655c", "keep": true, "topic": "General Knowledge", "pt": {"q": "Quem era o rei dos deuses na mitologia da Grécia Antiga?", "o": ["Zeus", "Apolo", "Hermes", "Poseidon"]}}
+{"id": "otdb-854fcca4f5", "keep": true, "topic": "General Knowledge", "pt": {"q": "O ankh é o hieróglifo egípcio de quê?", "o": ["Vida", "Amor", "Ódio", "Veneno"]}}
+{"id": "otdb-e920e22d69", "keep": true, "topic": "General Knowledge", "pt": {"q": "Segundo o mito egípcio de Osíris, quem assassinou Osíris?", "o": ["Set", "Hórus", "Rá", "Anhur"]}}
+{"id": "otdb-9173fad908", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-e82e2945ef", "keep": true, "topic": "General Knowledge", "pt": {"q": "Como se chama o primeiro ser humano na mitologia nórdica?", "o": ["Ask", "Asmund", "Ake", "Asger"]}}
+{"id": "otdb-34de776b41", "keep": true, "topic": "General Knowledge", "pt": {"q": "Segundo o folclore japonês, qual é a comida preferida do kappa?", "o": ["Pepinos", "Kabocha", "Nasu", "Soba"]}}
+{"id": "otdb-6a272b5a6c", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-d2fe95b222", "keep": true, "topic": "General Knowledge", "pt": {"q": "Na mitologia grega, quem era a filha do rei Minos?", "o": ["Ariadne", "Atena", "Ariel", "Alana"]}}
+{"id": "otdb-e99ad35eef", "keep": true, "topic": "General Knowledge", "pt": {"q": "Qual das seguintes figuras mitológicas da Mesopotâmia NÃO era uma divindade?", "o": ["Enkidu", "Enki", "Enlil", "Enkimdu"]}}
+{"id": "otdb-47f8826e90", "keep": true, "topic": "General Knowledge", "pt": {"q": "Na mitologia nórdica, como se chama a serpente que come as raízes do freixo Yggdrasil?", "o": ["Nidhogg", "Bragi", "Odin", "Ymir"]}}
+{"id": "otdb-c5eb3c66ef", "keep": true, "topic": "General Knowledge", "pt": {"q": "Esta figura da mitologia grega é a deusa da estratégia de batalha (entre outras coisas). Qual?", "o": ["Atena", "Ares", "Ártemis", "Apolo"]}}
+{"id": "otdb-a5fbb2310c", "keep": true, "topic": "General Knowledge", "pt": {"q": "Que ponto fraco de Aquiles foi explorado pelo príncipe troiano Páris?", "o": ["Calcanhar", "Pescoço", "Costas", "Barriga da perna"]}}
+{"id": "otdb-4aab193b3e", "keep": true, "topic": "General Knowledge", "pt": {"q": "Na mitologia grega, quem matou Aquiles?", "o": ["Páris", "Heitor", "Helena", "Péricles"]}}
+{"id": "otdb-4c63b8b92f", "keep": true, "topic": "General Knowledge", "pt": {"q": "Que deus nórdico tem um cavalo chamado Sleipnir?", "o": ["Odin", "Thor", "Frigg", "Balder"]}}
+{"id": "otdb-0e05ec3718", "keep": true, "topic": "General Knowledge", "pt": {"q": "Hera é a deusa de quê?", "o": ["Casamento", "Agricultura", "Mar", "Guerra"]}}
+{"id": "otdb-f51edbc917", "keep": true, "topic": "General Knowledge", "pt": {"q": "Que divindade grega lançou uma maçã de ouro com a inscrição «para a mais bela» para o meio do banquete dos deuses?", "o": ["Éris", "Hades", "Ares", "Ártemis"]}}
+{"id": "otdb-b051207dd0", "keep": true, "topic": "General Knowledge", "pt": {"q": "Quem foi derrotada por Hipómenes numa corrida a pé?", "o": ["Atalanta", "Peleu", "Teseu", "Jasão"]}}
+{"id": "otdb-d6e258c679", "keep": true, "topic": "General Knowledge", "pt": {"q": "Hel era filha de que figura da mitologia nórdica?", "o": ["Loki", "Thor", "Odin", "Balder"]}}
+{"id": "otdb-cbfa2a3ffa", "keep": true, "topic": "General Knowledge", "pt": {"q": "Quem é o pai de Ícaro, que voou demasiado perto do Sol?", "o": ["Dédalo", "Minos", "Perseu", "Zeus"]}}
+{"id": "otdb-6115779a96", "keep": true, "topic": "General Knowledge", "pt": {"q": "Como se chama o homem selvagem com quem Gilgamesh faz amizade e vive aventuras?", "o": ["Enkidu", "Ishtar", "Inanna", "Agga"]}}
+{"id": "otdb-e3abe71455", "keep": true, "topic": "General Knowledge", "pt": {"q": "Na maioria das tradições, quem era a esposa de Zeus?", "o": ["Hera", "Afrodite", "Atena", "Héstia"]}}
+{"id": "otdb-75c4692bbf", "keep": true, "topic": "General Knowledge", "pt": {"q": "Que imensa estrutura é referida na mitologia nórdica como Yggdrasil?", "o": ["Uma árvore", "Uma montanha", "Um templo", "Um castelo"]}}
+{"id": "otdb-509505171a", "keep": true, "topic": "General Knowledge", "pt": {"q": "Qual destas criaturas mitológicas é, dizem, metade homem e metade cavalo?", "o": ["Centauro", "Minotauro", "Pégaso", "Górgona"]}}
+{"id": "otdb-b21bf5c83d", "keep": true, "topic": "General Knowledge", "pt": {"q": "O nome grego de Neptuno era...", "o": ["Poseidon", "Ares", "Zeus", "Apolo"]}}
+{"id": "otdb-e1fcc9ff58", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-11f0b84083", "keep": true, "topic": "General Knowledge", "pt": {"q": "O deus nórdico Odin tem dois corvos de estimação chamados «Huginn» e «Muninn». Que significam os seus nomes?", "o": ["Pensamento e Memória", "Poder e Paz", "Guerra e Aprendizagem", "Sono e Vigília"]}}
+{"id": "otdb-dcadda70d3", "keep": true, "topic": "General Knowledge", "pt": {"q": "Que deus grego e romano era conhecido como o deus da música, da verdade e da profecia, da cura, do Sol e da luz, da peste, da poesia e de muito mais?", "o": ["Apolo", "Afrodite", "Ártemis", "Atena"]}}
+{"id": "otdb-aa31640d14", "keep": true, "topic": "General Knowledge", "pt": {"q": "Que criatura mitológica tem rosto de mulher e corpo de abutre?", "o": ["Harpia", "Sereia", "Ninfa", "Lilith"]}}
+{"id": "otdb-7cb14e3723", "keep": true, "topic": "Space", "pt": {"q": "O nome de que deusa grega foi escolhido para o planeta anão que provocou a discórdia entre os astrónomos sobre a classificação de Plutão?", "o": ["Éris", "Caronte", "Ceres", "Disnómia"]}}
+{"id": "otdb-f0f583a72a", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-6bdfda80ac", "keep": true, "topic": "General Knowledge", "pt": {"q": "O deus grego Poseidon era o deus de quê?", "o": ["Do mar", "Da guerra", "Do Sol", "Do fogo"]}}
+{"id": "otdb-729f755b61", "keep": true, "topic": "General Knowledge", "pt": {"q": "Qual das seguintes não é uma das Moiras gregas?", "o": ["Narciso", "Cloto", "Átropos", "Láquesis"]}}
+{"id": "otdb-64faa6d441", "keep": true, "topic": "General Knowledge", "pt": {"q": "Quantas cabeças tem Cérbero?", "o": ["3", "2", "1", "5"]}}
+{"id": "otdb-cf40f0da5d", "keep": false, "motivo": "trivial_obscura"}
+{"id": "otdb-7de89b1a78", "keep": true, "topic": "General Knowledge", "pt": {"q": "Um minotauro é metade humano e metade quê?", "o": ["Touro", "Vaca", "Cavalo", "Águia"]}}
+{"id": "otdb-2decfd761a", "keep": true, "topic": "General Knowledge", "pt": {"q": "De que mitologia vem a criatura Nidhogg?", "o": ["Nórdica", "Egípcia", "Grega", "Hindu"]}}
+{"id": "otdb-dce250b2fa", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-f3aacee21b", "keep": true, "topic": "General Knowledge", "pt": {"q": "Na mitologia grega, quem é o deus do vinho?", "o": ["Dioniso", "Hefesto", "Deméter", "Apolo"]}}
+{"id": "otdb-839d6473cc", "keep": true, "topic": "General Knowledge", "pt": {"q": "Na mitologia nórdica, Baldr foi morto por Loki com uma arma mágica feita de que planta?", "o": ["Visco", "Acónito", "Espinheiro-cerval", "Cicuta"]}}
+{"id": "otdb-547aec5242", "keep": true, "topic": "General Knowledge", "pt": {"q": "Que jogadora ganhou a medalha de ouro em singulares de ténis de mesa nos Jogos Olímpicos de 2016?", "o": ["Ding Ning (China)", "Li Xiaoxia (China)", "Ai Fukuhara (Japão)", "Kim Song I (Coreia do Norte)"]}}
+{"id": "otdb-a99b9f3cc4", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-84c8075a55", "keep": false, "motivo": "trivial_obscura"}
+{"id": "otdb-0fc8ffd571", "keep": true, "topic": "General Knowledge", "pt": {"q": "Em que desporto se usa um «volante» (shuttlecock)?", "o": ["Badminton", "Ténis de mesa", "Râguebi", "Críquete"]}}
+{"id": "otdb-80a3a3a02b", "keep": true, "topic": "General Knowledge", "pt": {"q": "Na temporada de Fórmula 1 de 1988, a McLaren ganhou todas as corridas menos uma. Que corrida não ganhou?", "o": ["Grande Prémio de Itália", "Grande Prémio do Japão", "Grande Prémio do Mónaco", "Grande Prémio do Brasil"]}}
+{"id": "otdb-7fc74ecee7", "keep": false, "motivo": "lingua"}
+{"id": "otdb-e15670ba4b", "keep": true, "topic": "General Knowledge", "pt": {"q": "A temporada de Fórmula 1 de 1994 é recordada por que acontecimento trágico?", "o": ["Morte de Ayrton Senna (San Marino)", "O Confronto (Austrália)", "Verstappen em Chamas (Alemanha)", "A Suspensão de Schumacher (Grã-Bretanha)"]}}
+{"id": "otdb-312a7b693b", "keep": false, "motivo": "eua"}
+{"id": "otdb-69cf52e770", "keep": true, "topic": "General Knowledge", "pt": {"q": "Quantas vezes ganhou Björn Borg o Open de França (Roland Garros)?", "o": ["6", "4", "9", "2"]}}
+{"id": "otdb-78bc71af5e", "keep": false, "motivo": "eua"}
+{"id": "otdb-4ff304ebaf", "keep": true, "topic": "General Knowledge", "pt": {"q": "Onde se realizaram os Jogos da XXII Olimpíada?", "o": ["Moscovo", "Barcelona", "Tóquio", "Los Angeles"]}}
+{"id": "otdb-4206c7c563", "keep": true, "topic": "General Knowledge", "pt": {"q": "Que construtor automóvel venceu as 24 Horas de Le Mans de 2016?", "o": ["Porsche", "Toyota", "Audi", "Ferrari"]}}
+{"id": "otdb-07b0a78ecc", "keep": true, "topic": "Football", "pt": {"q": "De que ilha portuguesa é natural o futebolista Cristiano Ronaldo?", "o": ["Madeira", "Terceira", "Santa Maria", "Porto Santo"]}}
+{"id": "otdb-3946b6759c", "keep": true, "topic": "Football", "pt": {"q": "Qual destes clubes de futebol ingleses tem sede em Liverpool?", "o": ["Everton", "West Ham United", "Crystal Palace", "Arsenal"]}}
+{"id": "otdb-d083297535", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-ce76374415", "keep": true, "topic": "Football", "pt": {"q": "Que país organizou o Campeonato do Mundo de futebol de 2022?", "o": ["Catar", "Uganda", "Vietname", "Bolívia"]}}
+{"id": "otdb-523d83c870", "keep": true, "topic": "General Knowledge", "pt": {"q": "Quem ganhou o Campeonato do Mundo de Pilotos de Fórmula 1 de 2017?", "o": ["Lewis Hamilton", "Sebastian Vettel", "Nico Rosberg", "Max Verstappen"]}}
+{"id": "otdb-df78838362", "keep": false, "motivo": "eua"}
+{"id": "otdb-a768040f30", "keep": true, "topic": "Football", "pt": {"q": "Que seleção nacional ganhou a primeira Liga das Nações da UEFA?", "o": ["Portugal", "Países Baixos", "Inglaterra", "Suíça"]}}
+{"id": "otdb-93adb1dde1", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-a3e141a9ca", "keep": true, "topic": "General Knowledge", "pt": {"q": "Em que ponte começa a anual regata de barcos entre Oxford e Cambridge?", "o": ["Putney", "Hammersmith", "Vauxhall", "Battersea"]}}
+{"id": "otdb-d9df6ac5e2", "keep": true, "topic": "General Knowledge", "pt": {"q": "Na Fórmula 1, o Safety Car Virtual foi introduzido na sequência do acidente fatal de que piloto?", "o": ["Jules Bianchi", "Ayrton Senna", "Roland Ratzenberger", "Gilles Villeneuve"]}}
+{"id": "otdb-b8df9a4d2f", "keep": true, "topic": "Football", "pt": {"q": "Que clube de futebol inglês tem a alcunha «The Foxes»?", "o": ["Leicester City", "Northampton Town", "Bradford City", "West Bromwich Albion"]}}
+{"id": "otdb-6ae5f85b51", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-a46e2ce13d", "keep": true, "topic": "General Knowledge", "pt": {"q": "Qual destas cidades europeias foi a primeira a organizar três vezes os Jogos Olímpicos de Verão da era moderna?", "o": ["Londres", "Paris", "Atenas", "Roma"]}}
+{"id": "otdb-97b3c3147c", "keep": true, "topic": "General Knowledge", "pt": {"q": "Como se chama a «ferramenta» usada para bater na bola branca no snooker ou no bilhar?", "o": ["Taco", "Raquete", "Bastão", "Maço"]}}
+{"id": "otdb-d233a21a29", "keep": true, "topic": "General Knowledge", "pt": {"q": "Por que equipa fez Michael Schumacher a sua estreia na Fórmula 1, no Grande Prémio da Bélgica de 1991?", "o": ["Jordan", "Benetton", "Ferrari", "Mercedes"]}}
+{"id": "otdb-52cf7b4495", "keep": false, "motivo": "eua"}
+{"id": "otdb-8aee96a3ec", "keep": false, "motivo": "eua"}
+{"id": "otdb-c6dff0a762", "keep": true, "topic": "Football", "pt": {"q": "Que treinador ganhou mais troféus do que qualquer outro durante a sua passagem pelo clube inglês Manchester United?", "o": ["Sir Alex Ferguson", "David Moyes", "Louis van Gaal", "José Mourinho"]}}
+{"id": "otdb-be7e571b5f", "keep": false, "motivo": "trivial_obscura"}
+{"id": "otdb-4198384991", "keep": false, "motivo": "eua"}
+{"id": "otdb-9f5eaaa69f", "keep": true, "topic": "Football", "pt": {"q": "Que seleção ganhou o Campeonato do Mundo de futebol de 2014, no Brasil?", "o": ["Alemanha", "Argentina", "Brasil", "Países Baixos"]}}
+{"id": "otdb-de708c7c0f", "keep": true, "topic": "General Knowledge", "pt": {"q": "Qual dos seguintes desportos não faz parte do triatlo?", "o": ["Equitação", "Ciclismo", "Natação", "Corrida"]}}
+{"id": "otdb-3d26b55b94", "keep": false, "motivo": "eua"}
+{"id": "otdb-692a82b7e0", "keep": true, "topic": "Football", "pt": {"q": "Edson Arantes do Nascimento é o nome completo de que lendário futebolista?", "o": ["Pelé", "Romário", "Zico", "Ronaldinho"]}}
+{"id": "otdb-e4ef4e8635", "keep": false, "motivo": "datada"}
+{"id": "otdb-5efa1ec67f", "keep": false, "motivo": "lingua"}
+{"id": "otdb-2744ee9b5d", "keep": true, "topic": "Football", "pt": {"q": "Quem ganhou a Liga dos Campeões da UEFA em 2016?", "o": ["Real Madrid", "Bayern de Munique", "Atlético de Madrid", "Manchester City"]}}
+{"id": "otdb-ce554aec95", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-5f4af63a81", "keep": true, "topic": "Football", "pt": {"q": "A canção «Three Lions», dos Lightning Seeds, foi feita para que grande evento de futebol em 1996?", "o": ["Campeonato da Europa", "Campeonato do Mundo", "Liga dos Campeões", "Taça das Confederações"]}}
+{"id": "otdb-2bfa863e11", "keep": true, "topic": "Football", "pt": {"q": "Quem ganhou a Liga dos Campeões em 1999?", "o": ["Manchester United", "Barcelona", "Bayern de Munique", "Liverpool"]}}
+{"id": "otdb-e31b0c05ac", "keep": true, "topic": "General Knowledge", "pt": {"q": "Que piloto de Fórmula 1 tinha a alcunha «O Professor»?", "o": ["Alain Prost", "Ayrton Senna", "Niki Lauda", "Emerson Fittipaldi"]}}
+{"id": "otdb-9dea903e02", "keep": true, "topic": "Football", "pt": {"q": "Que jogador deu um «pontapé de kung-fu» a um adepto do Crystal Palace em janeiro de 1995?", "o": ["Eric Cantona", "David Seaman", "Ashley Cole", "Mark Hughes"]}}
+{"id": "otdb-95e11454c4", "keep": true, "topic": "General Knowledge", "pt": {"q": "Antes de 2018, que marca automóvel era a única japonesa a ter vencido as 24 Horas de Le Mans?", "o": ["Mazda", "Toyota", "Subaru", "Nissan"]}}
+{"id": "otdb-bc7ace4e6b", "keep": false, "motivo": "datada"}
+{"id": "otdb-d341f8be60", "keep": false, "motivo": "eua"}
+{"id": "otdb-4d6211bc3b", "keep": true, "topic": "Football", "pt": {"q": "Que país deu ao mundo futebolistas como Cafu, Roberto Carlos e Pelé?", "o": ["Brasil", "Argentina", "Portugal", "Espanha"]}}
+{"id": "otdb-dea52cfbb5", "keep": true, "topic": "General Knowledge", "pt": {"q": "Que pugilista foi suspenso por ter mordido a orelha de Evander Holyfield em 1997?", "o": ["Mike Tyson", "Roy Jones Jr.", "Evander Holyfield", "Lennox Lewis"]}}
+{"id": "otdb-dc6dbc3ede", "keep": false, "motivo": "datada"}
+{"id": "otdb-154c8121fd", "keep": false, "motivo": "trivial_obscura"}
+{"id": "otdb-2222e38d5f", "keep": true, "topic": "General Knowledge", "pt": {"q": "Quantas vezes ganhou Martina Navratilova o torneio de singulares de Wimbledon?", "o": ["Nove", "Dez", "Sete", "Oito"]}}
+{"id": "otdb-939e899a90", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-16a9de5ebf", "keep": false, "motivo": "eua"}
+{"id": "otdb-3353cb5b6b", "keep": true, "topic": "Football", "pt": {"q": "O Etihad Stadium é o estádio de que equipa?", "o": ["Manchester City", "Manchester United", "Arsenal", "Blackpool"]}}
+{"id": "otdb-725478326c", "keep": false, "motivo": "eua"}
+{"id": "otdb-e7e87738ea", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-9c7a3d58e4", "keep": true, "topic": "General Knowledge", "pt": {"q": "Em que ano venceu o Mazda 787B as 24 Horas de Le Mans?", "o": ["1991", "1990", "2000", "1987"]}}
+{"id": "otdb-c4ffe993ca", "keep": false, "motivo": "datada"}
+{"id": "otdb-22ed52e804", "keep": true, "topic": "Football", "pt": {"q": "Com que clube ganhou Steven Gerrard a Liga dos Campeões?", "o": ["Liverpool", "Real Madrid", "Chelsea", "Manchester City"]}}
+{"id": "otdb-7965afbb3e", "keep": true, "topic": "General Knowledge", "pt": {"q": "Quem ganhou o Grande Prémio do Mónaco de 2018?", "o": ["Daniel Ricciardo", "Sebastian Vettel", "Kimi Räikkönen", "Lewis Hamilton"]}}
+{"id": "otdb-52666d58e3", "keep": false, "motivo": "datada"}
+{"id": "otdb-5a0194fbb8", "keep": true, "topic": "General Knowledge", "pt": {"q": "Quem ganhou o Campeonato do Mundo de Pilotos de Fórmula 1 de 2016?", "o": ["Nico Rosberg", "Lewis Hamilton", "Max Verstappen", "Kimi Räikkönen"]}}
+{"id": "otdb-ef66e20f74", "keep": false, "motivo": "lingua"}
+{"id": "otdb-eb81e15e30", "keep": true, "topic": "Football", "pt": {"q": "Quantos jogadores de futebol devem estar em campo ao mesmo tempo?", "o": ["22", "20", "24", "26"]}}
+{"id": "otdb-cb048fdd5b", "keep": true, "topic": "Football", "pt": {"q": "Em que ano ganhou o Steaua de Bucareste a Taça dos Campeões Europeus (hoje Liga dos Campeões da UEFA) frente ao FC Barcelona?", "o": ["1986", "1990", "1982", "1989"]}}
+{"id": "otdb-8e98fe0777", "keep": true, "topic": "General Knowledge", "pt": {"q": "Que país organizou os Jogos Olímpicos de Verão de 2020?", "o": ["Japão", "China", "Austrália", "Alemanha"]}}
+{"id": "otdb-bd9649c55e", "keep": true, "topic": "Football", "pt": {"q": "Qual foi o resultado final do jogo Alemanha - Brasil no Campeonato do Mundo de 2014?", "o": ["7-1", "0-1", "3-4", "16-0"]}}
+{"id": "otdb-6a9d04a16a", "keep": true, "topic": "General Knowledge", "pt": {"q": "Em que data se realizou a cerimónia de encerramento dos Jogos Olímpicos de Verão do Rio 2016?", "o": ["21 de agosto", "23 de agosto", "19 de agosto", "17 de agosto"]}}
+{"id": "otdb-74ab4cfdc1", "keep": true, "topic": "Football", "pt": {"q": "Quantos títulos da Premier League ganhou Sir Alex Ferguson ao serviço do Manchester United?", "o": ["13", "11", "20", "22"]}}
+{"id": "otdb-38d32bebca", "keep": false, "motivo": "eua"}
+{"id": "otdb-21ba954f5f", "keep": true, "topic": "General Knowledge", "pt": {"q": "O stimpmeter mede a velocidade de uma bola em que superfície?", "o": ["Green de golfe", "Campo de futebol", "Campo exterior de críquete", "Mesa de pinball"]}}
+{"id": "otdb-f13c17075f", "keep": true, "topic": "General Knowledge", "pt": {"q": "De que país é originário o kabaddi, um desporto de contacto que envolve placagens?", "o": ["Índia", "Austrália", "Turquia", "Camboja"]}}
+{"id": "otdb-a2fce2c53e", "keep": true, "topic": "Football", "pt": {"q": "Quem marcou o golo da vitória, no tempo de compensação, na final da Liga dos Campeões de 1999 entre o Manchester United e o Bayern de Munique?", "o": ["Ole Gunnar Solskjær", "Dwight Yorke", "Andy Cole", "David Beckham"]}}
+{"id": "otdb-de00819870", "keep": true, "topic": "Football", "pt": {"q": "Que equipa foi derrotada pela Inglaterra na final do Campeonato do Mundo de 1966?", "o": ["Alemanha Ocidental", "União Soviética", "Portugal", "Brasil"]}}
+{"id": "otdb-51ca036627", "keep": false, "motivo": "eua"}
+{"id": "otdb-192836672a", "keep": true, "topic": "General Knowledge", "pt": {"q": "Em 2016, quem ganhou pela terceira vez consecutiva o Campeonato do Mundo de Construtores de Fórmula 1?", "o": ["Mercedes-AMG Petronas", "Scuderia Ferrari", "McLaren Honda", "Red Bull Racing Renault"]}}
+{"id": "otdb-baced550c1", "keep": true, "topic": "General Knowledge", "pt": {"q": "Em que ano ganhou Jenson Button o seu primeiro Campeonato do Mundo de Pilotos de Fórmula 1?", "o": ["2009", "2010", "2007", "2006"]}}
+{"id": "otdb-b7d02179a1", "keep": true, "topic": "Football", "pt": {"q": "Quem foi o primeiro futebolista a marcar 200 golos na Premier League inglesa?", "o": ["Alan Shearer", "Wayne Rooney", "Robbie Fowler", "Thierry Henry"]}}
+{"id": "otdb-c55f94090e", "keep": false, "motivo": "eua"}
+{"id": "otdb-ff63d2f60d", "keep": false, "motivo": "lingua"}
+{"id": "otdb-66e39146c2", "keep": false, "motivo": "datada"}
+{"id": "otdb-cf25100055", "keep": true, "topic": "Football", "pt": {"q": "Qual destas cidades russas NÃO teve um estádio utilizado no Campeonato do Mundo de 2018?", "o": ["Vladivostoque", "Rostov do Don", "Ecaterimburgo", "Kaliningrado"]}}
+{"id": "otdb-10d226853c", "keep": true, "topic": "Football", "pt": {"q": "Que seleção nacional ganhou o Campeonato da Europa de 2016?", "o": ["Portugal", "França", "Alemanha", "Inglaterra"]}}
+{"id": "otdb-ecbcbff03c", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-91aa7b4dc8", "keep": true, "topic": "General Knowledge", "pt": {"q": "Qual destas provas de atletismo NÃO faz parte do decatlo olímpico masculino?", "o": ["Lançamento do martelo", "Salto à vara", "Salto em comprimento", "Lançamento do peso"]}}
+{"id": "otdb-2b66303e45", "keep": false, "motivo": "lingua"}
+{"id": "otdb-d4897732d6", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-36ccec9ecf", "keep": false, "motivo": "trivial_obscura"}
+{"id": "otdb-a3574539eb", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-86182e9ec5", "keep": true, "topic": "Football", "pt": {"q": "Que seleção ganhou a Copa América de 2015?", "o": ["Chile", "Argentina", "Brasil", "Paraguai"]}}
+{"id": "otdb-5b65dc0f09", "keep": true, "topic": "Football", "pt": {"q": "Quem ganhou a Premier League na época 2015-2016, depois de uma campanha de conto de fadas?", "o": ["Leicester City", "Tottenham Hotspur", "Watford", "Stoke City"]}}
+{"id": "otdb-e9552430be", "keep": false, "motivo": "eua"}
+{"id": "otdb-f9be4c7b96", "keep": true, "topic": "General Knowledge", "pt": {"q": "Num jogo de snooker, que cor tem a bola que vale 3 pontos?", "o": ["Verde", "Amarela", "Castanha", "Azul"]}}
+{"id": "otdb-5c79db584b", "keep": true, "topic": "Football", "pt": {"q": "Quantos jogadores tem uma equipa de futebol?", "o": ["11", "10", "9", "8"]}}
+{"id": "otdb-5352fbed0c", "keep": true, "topic": "General Knowledge", "pt": {"q": "Quem ganhou o Grande Prémio de São Marinho de 1994, a corrida em que Ayrton Senna morreu?", "o": ["Michael Schumacher", "Nicola Larini", "Gerhard Berger", "Mika Häkkinen"]}}
+{"id": "otdb-872cfc728f", "keep": false, "motivo": "trivial_obscura"}
+{"id": "otdb-601de7e131", "keep": false, "motivo": "eua"}
+{"id": "otdb-ff8f906687", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-d4001d59c2", "keep": true, "topic": "General Knowledge", "pt": {"q": "Que jogador ganhou a medalha de ouro em singulares de ténis de mesa nos Jogos Olímpicos de 2016?", "o": ["Ma Long (China)", "Zhang Jike (China)", "Jun Mizutani (Japão)", "Vladimir Samsonov (Bielorrússia)"]}}
+{"id": "otdb-eb17593b77", "keep": true, "topic": "Football", "pt": {"q": "Qual dos seguintes jogadores marcou um hat-trick na estreia pelo Manchester United?", "o": ["Wayne Rooney", "Cristiano Ronaldo", "Robin van Persie", "David Beckham"]}}
+{"id": "otdb-fb2a27cc17", "keep": true, "topic": "General Knowledge", "pt": {"q": "Que construtor automóvel venceu as 24 Horas de Le Mans de 2017?", "o": ["Porsche", "Toyota", "Audi", "Chevrolet"]}}
+{"id": "otdb-97442a76c9", "keep": false, "motivo": "ambigua"}
+{"id": "otdb-b28165c2e8", "keep": true, "topic": "Football", "pt": {"q": "Que equipa de futebol inglesa tem a alcunha «The Tigers»?", "o": ["Hull City", "Cardiff City", "Bristol City", "Manchester City"]}}
+{"id": "otdb-4b91154a9e", "keep": false, "motivo": "eua"}
+{"id": "otdb-efd012fe1e", "keep": false, "motivo": "eua"}
+{"id": "otdb-9108ff5c10", "keep": false, "motivo": "datada"}
+{"id": "otdb-2b5a794101", "keep": false, "motivo": "lingua"}
+{"id": "otdb-9bc9b7bb48", "keep": false, "motivo": "eua"}
+{"id": "otdb-a6997a70b8", "keep": true, "topic": "General Knowledge", "pt": {"q": "Qual era a média de pontos de Sir Donald Bradman em jogos de Test no críquete?", "o": ["99,94", "100", "69,51", "44,78"]}}
+{"id": "otdb-673b8b7d99", "keep": false, "motivo": "trivial_obscura"}
+{"id": "otdb-bdb4ae8e9b", "keep": true, "topic": "Football", "pt": {"q": "Qual é o nome completo do futebolista «Cristiano Ronaldo»?", "o": ["Cristiano Ronaldo dos Santos Aveiro", "Cristiano Ronaldo los Santos Diego", "Cristiano Armando Diego Ronaldo", "Cristiano Luis Armando Ronaldo"]}}
+{"id": "otdb-47fcfa3e1f", "keep": true, "topic": "Football", "pt": {"q": "Quem foi o melhor marcador do Campeonato do Mundo de 2014?", "o": ["James Rodríguez", "Thomas Müller", "Lionel Messi", "Neymar"]}}
+{"id": "otdb-cc2b7a0417", "keep": true, "topic": "Football", "pt": {"q": "Que equipa ganhou a Premier League inglesa de 2015-16?", "o": ["Leicester City", "Liverpool", "Chelsea", "Manchester United"]}}
+{"id": "otdb-41036d14d8", "keep": false, "motivo": "eua"}
+{"id": "otdb-f7c47e7cd9", "keep": true, "topic": "Football", "pt": {"q": "Quem ganhou a Liga dos Campeões da UEFA em 2017?", "o": ["Real Madrid", "Atlético de Madrid", "AS Monaco", "Juventus"]}}
+{"id": "otdb-a966a60965", "keep": false, "motivo": "trivial_obscura"}
+{"id": "otdb-80c2ae4e57", "keep": false, "motivo": "eua"}
+{"id": "otdb-4ef51d14ca", "keep": true, "topic": "Football", "pt": {"q": "Que equipa foi derrotada pela Inglaterra nas meias-finais do Campeonato do Mundo de 1966, que a Inglaterra acabou por ganhar?", "o": ["Portugal", "Alemanha Ocidental", "União Soviética", "Brasil"]}}
+{"id": "otdb-e4fa2ab13d", "keep": true, "topic": "Football", "pt": {"q": "Que seleção ganhou a Copa América Centenario de 2016?", "o": ["Chile", "Argentina", "Brasil", "Colômbia"]}}
+{"id": "otdb-1d626f5e16", "keep": true, "topic": "Football", "pt": {"q": "Que país ganhou o Campeonato do Mundo de 2018, organizado na Rússia?", "o": ["França", "Croácia", "Bélgica", "Inglaterra"]}}
+{"id": "otdb-a26401afd8", "keep": true, "topic": "General Knowledge", "pt": {"q": "Em que país se realizaram os Jogos Olímpicos de Inverno de 2014, na cidade de Sochi?", "o": ["Rússia", "Coreia do Sul", "Noruega", "Canadá"]}}
+{"id": "otdb-9b4c9f2581", "keep": false, "motivo": "eua"}
+{"id": "otdb-603f7ac839", "keep": false, "motivo": "trivial_obscura"}
+{"id": "otdb-156aeec902", "keep": true, "topic": "Football", "pt": {"q": "No Campeonato do Mundo de 2014, qual foi o resultado final do jogo Brasil - Alemanha?", "o": ["1-7", "1-5", "1-6", "2-6"]}}
+{"id": "otdb-88cc5debcc", "keep": true, "topic": "Football", "pt": {"q": "O «Stadium of Light» é o estádio de que equipa de futebol?", "o": ["Sunderland", "FC Barcelona", "Paris Saint-Germain", "Manchester United"]}}
+{"id": "otdb-42a35648ea", "keep": true, "topic": "General Knowledge", "pt": {"q": "Quem ganhou o Campeonato do Mundo de Fórmula 1 de 2015?", "o": ["Lewis Hamilton", "Nico Rosberg", "Sebastian Vettel", "Jenson Button"]}}
+{"id": "otdb-aaa8dfd2de", "keep": true, "topic": "Football", "pt": {"q": "Como se chama o estádio do Manchester United?", "o": ["Old Trafford", "Anfield", "City of Manchester Stadium", "St James' Park"]}}
+{"id": "otdb-62284d8251", "keep": true, "topic": "Football", "pt": {"q": "Que país organizou o Campeonato do Mundo de futebol de 2006?", "o": ["Alemanha", "Reino Unido", "Brasil", "África do Sul"]}}
+{"id": "otdb-1c46234514", "keep": false, "motivo": "trivial_obscura"}
+{"id": "otdb-450e34a280", "keep": true, "topic": "Geography", "pt": {"q": "O que é o Laos?", "o": ["País", "Região", "Rio", "Cidade"]}}
+{"id": "otdb-5d3d6f7a5e", "keep": true, "topic": "Geography", "pt": {"q": "Qual é o maior país, em área, que tem apenas um fuso horário?", "o": ["China", "Canadá", "Índia", "Rússia"]}}
+{"id": "otdb-08a750df32", "keep": true, "topic": "Geography", "pt": {"q": "Que ilha das Canárias foi palco de um dos piores desastres aéreos da história, com a colisão de dois jumbos?", "o": ["Tenerife", "Fuerteventura", "Grã-Canária", "Maui"]}}
+{"id": "otdb-7bd865790b", "keep": true, "topic": "Geography", "pt": {"q": "Com que país partilha a França a sua maior fronteira terrestre?", "o": ["Brasil", "Alemanha", "Espanha", "Canadá"]}}
+{"id": "otdb-6c1966b6a2", "keep": true, "topic": "Geography", "pt": {"q": "Que país reivindica a posse do território disputado do Kosovo?", "o": ["Sérvia", "Croácia", "Albânia", "Macedónia"]}}
+{"id": "otdb-d428270f94", "keep": true, "topic": "Geography", "pt": {"q": "Que oblast russo faz fronteira com a Polónia?", "o": ["Kaliningrado", "Samara", "Níjni Novgorod", "Omsk"]}}
+{"id": "otdb-8231739c47", "keep": true, "topic": "Geography", "pt": {"q": "Qual é o único país do mundo com uma bandeira que não tem quatro ângulos retos?", "o": ["Nepal", "Panamá", "Angola", "Egito"]}}

@@ -1,0 +1,1052 @@
+[
+{
+"id": "otdb-58adad0166",
+"pt": {
+"q": "Qual destes países NÃO fez parte da União Soviética?",
+"o": [
+"Cazaquistão",
+"Afeganistão",
+"Usbequistão",
+"Turquemenistão"
+]
+},
+"en": {
+"q": "Which of these countries was NOT a part of the Soviet Union?",
+"o": [
+"Kazakhstan",
+"Afghanistan",
+"Uzbekistan",
+"Turkmenistan"
+]
+}
+},
+{
+"id": "otdb-8fafda3736",
+"pt": {
+"q": "Que dois países formaram uma comunidade entre os séculos XVI e XVIII?",
+"o": [
+"Bangladesh e Butão",
+"Hutus e Ruanda",
+"Coreia do Norte e Coreia do Sul",
+"Polónia e Lituânia"
+]
+},
+"en": {
+"q": "These two countries held a commonwealth from the 16th to 18th century.",
+"o": [
+"Bangladesh and Bhutan",
+"Hutu and Rwanda",
+"North Korea and South Korea",
+"Poland and Lithuania"
+]
+}
+},
+{
+"id": "otdb-eca259dbf9",
+"pt": {
+"q": "Em que ano ocorreu o ataque com gás sarin ao metro de Tóquio?",
+"o": [
+"1991",
+"2011",
+"2001",
+"1995"
+]
+},
+"en": {
+"q": "In which year did the Tokyo Subway Sarin Attack occur?",
+"o": [
+"1991",
+"2011",
+"2001",
+"1995"
+]
+}
+},
+{
+"id": "otdb-0cb22294eb",
+"pt": {
+"q": "Que companhia aérea era proprietária do avião que se despenhou ao largo da Nova Escócia, em 1998?",
+"o": [
+"Swissair",
+"Air France",
+"TWA",
+"British Airways"
+]
+},
+"en": {
+"q": "What airline was the owner of the plane that crashed off the coast of Nova Scotia in 1998?",
+"o": [
+"Swiss Air",
+"Air France",
+"TWA",
+"British Airways"
+]
+}
+},
+{
+"id": "otdb-84f8c495f2",
+"pt": {
+"q": "A antiga cidade de Chichén Itzá foi construída por que civilização?",
+"o": [
+"Toltecas",
+"Aztecas",
+"Incas",
+"Maias"
+]
+},
+"en": {
+"q": "The ancient city of Chichén Itzá was built by which civilization?",
+"o": [
+"Toltecs",
+"Aztecs",
+"Incas",
+"Mayans"
+]
+}
+},
+{
+"id": "otdb-ead34d4846",
+"pt": {
+"q": "Como se chamou a transferência de doenças, culturas agrícolas e pessoas através do Atlântico, pouco depois da descoberta das Américas?",
+"o": [
+"A Troca Colombiana",
+"A Rota da Seda",
+"O tráfico transatlântico de escravos",
+"O Comércio Triangular"
+]
+},
+"en": {
+"q": "What was the transfer of disease, crops, and people across the Atlantic shortly after the discovery of the Americas called?",
+"o": [
+"The Columbian Exchange",
+"The Silk Road",
+"Transatlantic Slave Trade",
+"Triangle Trade"
+]
+}
+},
+{
+"id": "otdb-124c94fe49",
+"pt": {
+"q": "Quem liderou a Revolução Comunista da Rússia?",
+"o": [
+"Joseph Stalin",
+"Vladimir Lenin",
+"Vladimir Putin",
+"Mikhail Gorbachev"
+]
+},
+"en": {
+"q": "Who led the Communist Revolution of Russia?",
+"o": [
+"Joseph Stalin",
+"Vladimir Lenin",
+"Vladimir Putin",
+"Mikhail Gorbachev"
+]
+}
+},
+{
+"id": "otdb-12df710028",
+"pt": {
+"q": "De que porta-aviões partiu, a 18 de abril de 1942, o Raide Doolittle, durante a Segunda Guerra Mundial?",
+"o": [
+"USS Hornet",
+"USS Lexington",
+"USS Saratoga",
+"USS Enterprise"
+]
+},
+"en": {
+"q": "On which aircraft carrier did the Doolitte Raid launch from on April 18, 1942 during World War II?",
+"o": [
+"USS Hornet",
+"USS Lexington",
+"USS Saratoga",
+"USS Enterprise"
+]
+}
+},
+{
+"id": "otdb-7d0a2ccd6e",
+"pt": {
+"q": "Durante que guerra ocorreu a «Crise dos Mísseis de Cuba»?",
+"o": [
+"Guerra Fria",
+"Guerra da Independência dos EUA",
+"Primeira Guerra Mundial",
+"Segunda Guerra Mundial"
+]
+},
+"en": {
+"q": "During what war did the \"Cuban Missile Crisis\" occur?",
+"o": [
+"Cold War",
+"Revolutionary War",
+"World War I",
+"World War II"
+]
+}
+},
+{
+"id": "otdb-9451967b69",
+"pt": {
+"q": "Que rei morreu na Batalha de Bosworth Field, em 1485?",
+"o": [
+"Henrique VII",
+"Ricardo III",
+"Jaime I",
+"Eduardo V"
+]
+},
+"en": {
+"q": "Which king was killed at the Battle of Bosworth Field in 1485? ",
+"o": [
+"Henry VII",
+"Richard III",
+"James I",
+"Edward V"
+]
+}
+},
+{
+"id": "otdb-9b77488314",
+"pt": {
+"q": "Em que ano foi fundado o Canadá?",
+"o": [
+"1867",
+"1798",
+"1859",
+"1668"
+]
+},
+"en": {
+"q": "What year was Canada founded in?",
+"o": [
+"1867",
+"1798",
+"1859",
+"1668"
+]
+}
+},
+{
+"id": "otdb-91c05a3290",
+"pt": {
+"q": "Qual é o nome do Boeing B-29 que lançou a bomba atómica «Little Boy» sobre Hiroshima?",
+"o": [
+"Full House",
+"The Great Artiste",
+"Enola Gay",
+"Necessary Evil"
+]
+},
+"en": {
+"q": "What is the name of the Boeing B-29 that dropped the 'Little Boy' atomic bomb on Hiroshima?",
+"o": [
+"Full House",
+"The Great Artiste",
+"Enola Gay",
+"Necessary Evil"
+]
+}
+},
+{
+"id": "otdb-69d3df4643",
+"pt": {
+"q": "Que nome se dava aos ditadores militares japoneses que governaram o país entre o século XII e o século XIX?",
+"o": [
+"Ninja",
+"Shinobi",
+"Samurai",
+"Xogum"
+]
+},
+"en": {
+"q": "What was the name given to Japanese military dictators who ruled the country through the 12th and 19th Century?",
+"o": [
+"Ninja",
+"Shinobi",
+"Samurai",
+"Shogun"
+]
+}
+},
+{
+"id": "otdb-7341ddcf42",
+"pt": {
+"q": "Quando obteve a Noruega a sua constituição?",
+"o": [
+"1905",
+"1932",
+"1814",
+"1854"
+]
+},
+"en": {
+"q": "When did Norway get its constitution?",
+"o": [
+"1905",
+"1932",
+"1814",
+"1854"
+]
+}
+},
+{
+"id": "otdb-01c09adbbd",
+"pt": {
+"q": "Quando terminou a Batalha das Ardenas (Batalha do Bulge)?",
+"o": [
+"7 de dezembro de 1941",
+"16 de dezembro de 1944",
+"6 de agosto de 1945",
+"25 de janeiro de 1945"
+]
+},
+"en": {
+"q": "When did the Battle of the Bulge end?",
+"o": [
+"December 7, 1941",
+"December 16, 1944",
+"August 6, 1945",
+"January 25, 1945"
+]
+}
+},
+{
+"id": "otdb-2c2d8e120b",
+"pt": {
+"q": "Que rei de Inglaterra enfrentou a Revolta dos Camponeses, em 1381?",
+"o": [
+"Henrique IV",
+"Eduardo II",
+"Eduardo III",
+"Ricardo II"
+]
+},
+"en": {
+"q": "Which King of England was faced with the Peasants' Revolt in 1381?",
+"o": [
+"Henry IV",
+"Edward II",
+"Edward III",
+"Richard II"
+]
+}
+},
+{
+"id": "otdb-821fccbf26",
+"pt": {
+"q": "Quando se tornou a Noruega independente da Suécia?",
+"o": [
+"1814",
+"1905",
+"1834",
+"1925"
+]
+},
+"en": {
+"q": "When did Norway become free from Sweden?",
+"o": [
+"1814",
+"1905",
+"1834",
+"1925"
+]
+}
+},
+{
+"id": "otdb-e201806361",
+"pt": {
+"q": "Que idade tinha o famoso rei Tutankhamon quando morreu?",
+"o": [
+"19",
+"15",
+"21",
+"30"
+]
+},
+"en": {
+"q": "How old was the famous King Tutankhamen (Tut) when he died?",
+"o": [
+"19",
+"15",
+"21",
+"30"
+]
+}
+},
+{
+"id": "otdb-b22890fee4",
+"pt": {
+"q": "Qual era o verdadeiro nome de Gengis Khan?",
+"o": [
+"Temüjin",
+"Temür",
+"Möngke",
+"Ögedei"
+]
+},
+"en": {
+"q": "What was Genghis Khan's real name?",
+"o": [
+"Temüjin",
+"Temür",
+"Möngke",
+"Ögedei"
+]
+}
+},
+{
+"id": "otdb-dcec36dae1",
+"pt": {
+"q": "Quando publicou L. L. Zamenhof o «Unua Libro», a primeira obra a descrever a sua língua internacional, o esperanto?",
+"o": [
+"1905",
+"1915",
+"1887",
+"1897"
+]
+},
+"en": {
+"q": "When did L. L. Zamenhof first publish \"Unua Libro\", the first publication describing his international language Esperanto?",
+"o": [
+"1905",
+"1915",
+"1887",
+"1897"
+]
+}
+},
+{
+"id": "otdb-ee3b6ab6fe",
+"pt": {
+"q": "Como se chamam os conflitos do século XV entre as casas de York e Lancaster?",
+"o": [
+"Guerra das Tulipas",
+"Guerra das Rosas",
+"Guerra dos Narcisos",
+"Guerra dos Lírios"
+]
+},
+"en": {
+"q": "The 15th century conflicts between the Houses of York and Lancaster are known as the Wars of the what?",
+"o": [
+"Wars of the Tulips",
+"Wars of the Roses",
+"Wars of the Daffodils",
+"Wars of the Lillies"
+]
+}
+},
+{
+"id": "otdb-40b3444f60",
+"pt": {
+"q": "Em que central nuclear ocorreu o acidente nuclear catastrófico de 1986 na Ucrânia?",
+"o": [
+"Mayak",
+"Chernobyl",
+"Kursk",
+"Ignalina"
+]
+},
+"en": {
+"q": "The catastrophic nuclear accident that occurred in Ukraine in 1986 occurred at which power plant?",
+"o": [
+"Mayak",
+"Chernobyl",
+"Kursk",
+"Ignalina"
+]
+}
+},
+{
+"id": "otdb-27e7cc4eda",
+"pt": {
+"q": "Qual destes antigos povos do Próximo Oriente ainda existe hoje como grupo étnico?",
+"o": [
+"Assírios",
+"Hititas",
+"Elamitas",
+"Babilónios"
+]
+},
+"en": {
+"q": "Which of the following ancient Near Eastern peoples still exists as a modern ethnic group?",
+"o": [
+"Assyrians",
+"Hittites",
+"Elamites",
+"Babylonians"
+]
+}
+},
+{
+"id": "otdb-e8f550ff8d",
+"pt": {
+"q": "Quando devolveu o Reino Unido a soberania de Hong Kong à China?",
+"o": [
+"1997",
+"1999",
+"1900",
+"1841"
+]
+},
+"en": {
+"q": "When did the British hand-over sovereignty of Hong Kong back to China?",
+"o": [
+"1997",
+"1999",
+"1900",
+"1841"
+]
+}
+},
+{
+"id": "otdb-64ef173e8b",
+"pt": {
+"q": "Qual destes países não fez parte das potências do Eixo na Segunda Guerra Mundial?",
+"o": [
+"Japão",
+"Alemanha",
+"União Soviética",
+"Itália"
+]
+},
+"en": {
+"q": "Which of the following countries was not an axis power during World War II?",
+"o": [
+"Japan",
+"Germany",
+" Soviet Union",
+"Italy"
+]
+}
+},
+{
+"id": "otdb-b30f713780",
+"pt": {
+"q": "Que país teve primeiros-ministros chamados Eden, Major, Peel, Law, Brown e Heath?",
+"o": [
+"Nova Zelândia",
+"Reino Unido",
+"Austrália",
+"Canadá"
+]
+},
+"en": {
+"q": "What country has had prime ministers named Eden, Major, Peel, Law, Brown and Heath?",
+"o": [
+"New Zealand",
+"United Kingdom",
+"Australia",
+"Canada"
+]
+}
+},
+{
+"id": "otdb-6e77c50bc6",
+"pt": {
+"q": "A semeadora mecânica foi inventada por que inventor britânico?",
+"o": [
+"Isaac Newton",
+"Charles Babbage",
+"Jethro Tull",
+"J.J. Thomson"
+]
+},
+"en": {
+"q": "The seed drill was invented by which British inventor?",
+"o": [
+"Isaac Newton",
+"Charles Babbage",
+"Jethro Tull",
+"J.J Thomson"
+]
+}
+},
+{
+"id": "otdb-d2b72d6969",
+"pt": {
+"q": "Quantos navios gémeos teve o Titanic?",
+"o": [
+"4",
+"1",
+"2",
+"3"
+]
+},
+"en": {
+"q": "How many Sister Ships were related to the TItanic?",
+"o": [
+"4",
+"1",
+"2",
+"3"
+]
+}
+},
+{
+"id": "otdb-87b5d9ac7a",
+"pt": {
+"q": "Durante a Guerra Civil Espanhola (1936), por que fação política lutou Francisco Franco?",
+"o": [
+"Espanha Nacionalista",
+"Espanha Republicana",
+"Estados Pontifícios",
+"Frente Popular"
+]
+},
+"en": {
+"q": "During the Spanish Civil War (1936), Francisco Franco fought for which political faction?",
+"o": [
+"Nationalist Spain",
+"Republican Spain",
+"Papal State",
+"Popular Front"
+]
+}
+},
+{
+"id": "otdb-9c62e96be7",
+"pt": {
+"q": "Em que anos decorreu a Batalha de Galípoli?",
+"o": [
+"1915-1918",
+"1914-1915",
+"1914-1918",
+"1915-1916"
+]
+},
+"en": {
+"q": "In which years did the Battle of Gallipoli take place?",
+"o": [
+"1915 - 1918",
+"1914 - 1915",
+"1914 - 1918",
+"1915 - 1916"
+]
+}
+},
+{
+"id": "otdb-a6f8a10c86",
+"pt": {
+"q": "Que Luís ficou conhecido como o «Rei Sol» de França?",
+"o": [
+"Luís XV",
+"Luís XIII",
+"Luís XVI",
+"Luís XIV"
+]
+},
+"en": {
+"q": "Which Louis was known as 'The Sun King of France'?",
+"o": [
+"Louis XV",
+"Louis XIII",
+"Louis XVI",
+"Louis XIV"
+]
+}
+},
+{
+"id": "otdb-262fd5e848",
+"pt": {
+"q": "Em que ano se travou a Batalha de Verdun?",
+"o": [
+"1915",
+"1917",
+"1916",
+"1918"
+]
+},
+"en": {
+"q": "In what year did the Battle of Verdun take place?",
+"o": [
+"1915",
+"1917",
+"1916",
+"1918"
+]
+}
+},
+{
+"id": "otdb-42c15ce8ea",
+"pt": {
+"q": "Qual era o verdadeiro nome do líder nacional albanês Skanderbeg?",
+"o": [
+"Diturak Zhulati",
+"Gjergj Kastrioti",
+"Iskander Bejko",
+"Mirash Krasniki"
+]
+},
+"en": {
+"q": "What was the real name of the Albanian national leader Skanderbeg?",
+"o": [
+"Diturak Zhulati",
+"Gjergj Kastrioti",
+"Iskander Bejko",
+"Mirash Krasniki"
+]
+}
+},
+{
+"id": "otdb-8306b3a3c5",
+"pt": {
+"q": "Que país teve uma «Revolução Laranja» entre 2004 e 2005?",
+"o": [
+"Letónia",
+"Ucrânia",
+"Lituânia",
+"Bielorrússia"
+]
+},
+"en": {
+"q": "Which country had an \"Orange Revolution\" between 2004 and 2005?",
+"o": [
+"Latvia",
+"Ukraine",
+"Lithuania",
+"Belarus"
+]
+}
+},
+{
+"id": "otdb-d2db5194ed",
+"pt": {
+"q": "Quando são os Idos de março?",
+"o": [
+"31 de março",
+"1 de março",
+"15 de março",
+"14 de março"
+]
+},
+"en": {
+"q": "When is the Ides of March?",
+"o": [
+"March 31",
+"March 1",
+"March 15",
+"March 14"
+]
+}
+},
+{
+"id": "otdb-2574d9b0b9",
+"pt": {
+"q": "Em que ano terminou a Guerra do Vietname?",
+"o": [
+"1969",
+"1975",
+"1978",
+"1967"
+]
+},
+"en": {
+"q": "What year did the Vietnam War end?",
+"o": [
+"1969",
+"1975",
+"1978",
+"1967"
+]
+}
+},
+{
+"id": "otdb-45bfc6f3b0",
+"pt": {
+"q": "Como se chamava o herói nacional das Filipinas que inspirou e liderou a Revolução Filipina contra a Espanha colonial?",
+"o": [
+"Simón Bolívar",
+"José de San Martín",
+"José Rizal",
+"Benito Juárez"
+]
+},
+"en": {
+"q": "What was the name of the national hero of the Philippines who inspired and lead the Philippine Revolution against colonial Spain?",
+"o": [
+"Simón Bolívar",
+"José de San Martín",
+"José Rizal",
+"Benito Juárez"
+]
+}
+},
+{
+"id": "otdb-e64239191c",
+"pt": {
+"q": "Quem foi o último imperador romano no Ano dos Quatro Imperadores (69 d.C.)?",
+"o": [
+"Vespasiano",
+"Galba",
+"Otão",
+"Vitélio"
+]
+},
+"en": {
+"q": "Who was the last Roman emperor in the Year of Four Emperors (69 AD)?",
+"o": [
+"Vespasian",
+"Galba",
+"Otho",
+"Vitellius"
+]
+}
+},
+{
+"id": "otdb-4a0e6c5eaf",
+"pt": {
+"q": "Onde estava Abraham Lincoln quando foi assassinado por John Wilkes Booth, em 1865?",
+"o": [
+"A cavalo",
+"No teatro",
+"Num barco",
+"Na cama"
+]
+},
+"en": {
+"q": "Where was Abraham Lincoln when he was assassinated by John Wilkes Booth in 1865?",
+"o": [
+"On his horse",
+"At the theatre",
+"On a boat",
+"In bed"
+]
+}
+},
+{
+"id": "otdb-ef7ea27a4c",
+"pt": {
+"q": "Quando foi fundada a República Popular da China?",
+"o": [
+"3 de abril de 1947",
+"7 de maio de 1945",
+"6 de dezembro de 1950",
+"1 de outubro de 1949"
+]
+},
+"en": {
+"q": "When was the People's Republic of China founded?",
+"o": [
+"April 3, 1947",
+"May 7, 1945",
+"December 6, 1950",
+"October 1, 1949"
+]
+}
+},
+{
+"id": "otdb-f6062ab6ff",
+"pt": {
+"q": "Quem era o primeiro-ministro britânico quando começou a Segunda Guerra Mundial, em 1939?",
+"o": [
+"Winston Churchill",
+"Ramsay MacDonald",
+"Stanley Baldwin",
+"Neville Chamberlain"
+]
+},
+"en": {
+"q": "Who was the British Prime Minister at the outbreak of the Second World War in 1939?",
+"o": [
+"Winston Churchill",
+"Ramsay MacDonald",
+"Stanley Baldwin",
+"Neville Chamberlain"
+]
+}
+},
+{
+"id": "otdb-7b3cf5ec60",
+"pt": {
+"q": "Onde nasceu Napoleão Bonaparte?",
+"o": [
+"Bretanha",
+"Normandia",
+"Paris",
+"Córsega"
+]
+},
+"en": {
+"q": "Where was Napoleon Bonaparte born?",
+"o": [
+"Brittany",
+"Normandy",
+"Paris",
+"Corsica"
+]
+}
+},
+{
+"id": "otdb-f82193f8fd",
+"pt": {
+"q": "Quem foi o primeiro presidente do Quénia?",
+"o": [
+"Oginga Odinga",
+"Tom Mboya",
+"Jomo Kenyatta",
+"Daniel Moi"
+]
+},
+"en": {
+"q": "Who was the first president of Kenya?",
+"o": [
+"Oginga Odinga",
+"Tom Mboya",
+"Jomo Kenyatta",
+"Daniel Moi"
+]
+}
+},
+{
+"id": "otdb-a6b15d4674",
+"pt": {
+"q": "Durante as invasões mongóis do Japão, o que travou sobretudo os barcos mongóis?",
+"o": [
+"Tufões",
+"Samurais",
+"Tornados",
+"Uma depressão económica"
+]
+},
+"en": {
+"q": "During the Mongolian invasions of Japan, what were the Mongol boats mostly stopped by?",
+"o": [
+"Typhoons",
+"Samurai",
+"Tornados",
+"Economic depression"
+]
+}
+},
+{
+"id": "otdb-ce6acdaa05",
+"pt": {
+"q": "Qual era o comprimento total do Titanic?",
+"o": [
+"1042 ft | 317,6 m",
+"882 ft | 268,8 m",
+"825 ft | 251,5 m",
+"759 ft | 231,3 m"
+]
+},
+"en": {
+"q": "What was the total length of the Titanic?",
+"o": [
+"1042 ft | 317.6 m",
+"882 ft | 268.8 m",
+"825 ft | 251.5 m",
+"759 ft | 231.3 m"
+]
+}
+},
+{
+"id": "otdb-0a202d74e3",
+"pt": {
+"q": "Que figura histórica é famosa pela frase «Que comam bolo», embora se diga que provavelmente nunca a pronunciou?",
+"o": [
+"Maria Antonieta",
+"Henrique VIII",
+"Isabel I",
+"O czar Nicolau II"
+]
+},
+"en": {
+"q": "Which famous world leader is famed for the saying, \"Let them eat cake\", yet is rumored that he/she never said it at all?",
+"o": [
+"Marie Antoinette",
+"Henry VIII",
+"Elizabeth I",
+"Czar Nicholas II"
+]
+}
+},
+{
+"id": "otdb-2909dc9618",
+"pt": {
+"q": "Quem foi o primeiro chanceler de uma Alemanha unificada, em 1871?",
+"o": [
+"Otto von Bismarck",
+"Robert Koch",
+"Frederico II",
+"Kaiser Guilherme"
+]
+},
+"en": {
+"q": "Who was the first Chancellor of a united Germany in 1871? ",
+"o": [
+"Otto Von Bismark",
+"Robert Koch",
+"Fredrick the 2nd",
+"Kaiser Wilhelm "
+]
+}
+},
+{
+"id": "otdb-3472de3135",
+"pt": {
+"q": "Qual destas não foi uma praia de desembarque na invasão da Normandia?",
+"o": [
+"Gold",
+"Sword",
+"Silver",
+"Juno"
+]
+},
+"en": {
+"q": "Which one of these was not a beach landing site in the Invasion of Normandy?",
+"o": [
+"Gold",
+"Sword",
+"Silver",
+"Juno"
+]
+}
+},
+{
+"id": "otdb-e8b49f9222",
+"pt": {
+"q": "Quem foi o líder do Partido Comunista da Jugoslávia?",
+"o": [
+"Josip Broz Tito",
+"Milos Obilic",
+"Aleskandar Petrovic",
+"Karadjordje Petrovic"
+]
+},
+"en": {
+"q": "Who was the leader of the Communist Party of Yugoslavia ?",
+"o": [
+"Josip Broz Tito",
+"Milos Obilic",
+"Aleskandar Petrovic",
+"Karadjordje Petrovic"
+]
+}
+},
+{
+"id": "otdb-4e9ccb4a79",
+"pt": {
+"q": "Que acontecimento marcou o início da Segunda Guerra Mundial?",
+"o": [
+"Batalha de Inglaterra (1940)",
+"Invasão da Rússia (1942)",
+"Invasão da Polónia (1939)",
+"Invasão da Normandia (1944)"
+]
+},
+"en": {
+"q": "What event marked the start of World War II?",
+"o": [
+"Battle of Britain (1940)",
+"Invasion of Russia (1942)",
+"Invasion of Poland (1939)",
+"Invasion of Normandy (1944)"
+]
+}
+}
+]

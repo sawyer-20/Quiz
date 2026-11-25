@@ -1,0 +1,200 @@
+{"id": "otdb-13b120ba25", "acao": "corrigir", "pt": {"q": "Que discoteca de Manchester foi considerada central na cena musical «Madchester» do final dos anos 80?", "o": ["The Haçienda", "The Liar's Club", "The Warehouse Project", "LIV"]}, "en": {"q": "Which Manchester nightclub was considered central to the 'Madchester' music scene in the late 1980s?", "o": ["The Haçienda", "The Liar's Club", "The Warehouse Project", "LIV"]}, "nota": "en: 80's -> 1980s"}
+{"id": "otdb-15a754bca3", "acao": "corrigir", "pt": {"q": "De qual das seguintes bandas Tom DeLonge NÃO fez parte?", "o": ["+44", "Box Car Racer", "Blink-182", "Angels & Airwaves"]}, "en": {"q": "Which of the following bands has Tom DeLonge never been a part of?", "o": ["+44", "Box Car Racer", "Blink-182", "Angels & Airwaves"]}, "nota": "en: tempo verbal alinhado com o pt (nunca fez parte)"}
+{"id": "otdb-15b5dbf071", "acao": "manter"}
+{"id": "otdb-15db0eb610", "acao": "manter"}
+{"id": "otdb-16d7882d28", "acao": "corrigir", "pt": {"q": "«Grand Theft Autumn/Where Is Your Boy» é uma canção de que banda?", "o": ["Paramore", "Panic! At The Disco", "Fall Out Boy", "Blink-182"]}, "en": {"q": "\"Grand Theft Autumn/Where Is Your Boy\" is a song by which band?", "o": ["Paramore", "Panic! At The Disco", "Fall Out Boy", "Blink-182"]}, "nota": "en: título entre aspas"}
+{"id": "otdb-175d9f1a90", "acao": "manter"}
+{"id": "otdb-1912502865", "acao": "manter"}
+{"id": "otdb-1a9395bd16", "acao": "manter"}
+{"id": "otdb-1ba77f3c13", "acao": "manter"}
+{"id": "otdb-1bd92ed6da", "acao": "manter"}
+{"id": "otdb-1cb8979d8a", "acao": "tirar", "motivo": "trivial", "nota": "ano de nascimento de um membro dos BTS: obscuro"}
+{"id": "otdb-1d378c8348", "acao": "manter"}
+{"id": "otdb-1d6bae9832", "acao": "corrigir", "pt": {"q": "Qual foi o primeiro êxito dos ABBA no Reino Unido?", "o": ["Fernando", "Dancing Queen", "Mamma Mia", "Waterloo"]}, "en": {"q": "What was the title of ABBA's first UK hit single?", "o": ["Fernando", "Dancing Queen", "Mamma Mia", "Waterloo"]}, "nota": "en: apóstrofo (ABBA`s)"}
+{"id": "otdb-1d6e9a13d7", "acao": "manter"}
+{"id": "otdb-20fc91fb5e", "acao": "manter"}
+{"id": "otdb-2187308b5d", "acao": "corrigir", "pt": {"q": "Qual é o verdadeiro nome do rapper The Notorious B.I.G.?", "o": ["O'Shea Jackson", "Calvin Cordozar Broadus Jr.", "Christopher Wallace", "Eric Lynn Wright"]}, "en": {"q": "What is the real name of rapper The Notorious B.I.G.?", "o": ["O'Shea Jackson", "Calvin Cordozar Broadus Jr.", "Christopher Wallace", "Eric Lynn Wright"]}, "nota": "en: pontuação de B.I.G."}
+{"id": "otdb-23d68b3eb0", "acao": "corrigir", "pt": {"q": "Que artista fez a curadoria da banda sonora oficial de «The Hunger Games: Mockingjay - Part 1»?", "o": ["Charli XCX", "Kanye West", "Lorde", "Tove Lo"]}, "en": {"q": "Which artist curated the official soundtrack for \"The Hunger Games: Mockingjay - Part 1\"?", "o": ["Charli XCX", "Kanye West", "Lorde", "Tove Lo"]}, "nota": "pt: «a curadora» dava pista de género (excluía Kanye West só em pt)"}
+{"id": "otdb-24b61eaf64", "acao": "manter"}
+{"id": "otdb-24c32e409b", "acao": "corrigir", "pt": {"q": "De que canção dos Queen foi tirada a linha de baixo usada em «Ice Ice Baby», de Vanilla Ice?", "o": ["Under Pressure", "Lazing on a Sunday Afternoon", "Brighton Rock", "Don't Stop Me Now"]}, "en": {"q": "Which Queen song was sampled for the bassline in Vanilla Ice's \"Ice Ice Baby\"?", "o": ["Under Pressure", "Lazing On A Sunday Afternoon", "Brighton Rock", "Don't Stop Me Now"]}, "nota": "pt: redação; en: frase partida, «baseline» -> «bassline», concordância"}
+{"id": "otdb-2611db37fc", "acao": "manter"}
+{"id": "otdb-28227c2965", "acao": "manter"}
+{"id": "otdb-284a1da77e", "acao": "corrigir", "pt": {"q": "Que canção inclui as palavras «Numa Numa», alvo de um vídeo viral em 2004?", "o": ["Dragostea Din Tei", "Gangnam Style", "Asereje", "Despacito"]}, "en": {"q": "What song includes the words \"Numa Numa\" and was the subject of a viral video in 2004?", "o": ["Dragostea Din Tei", "Gangnam Style", "Asereje", "Despacito"]}, "nota": "en: maiúsculas em «viral video»"}
+{"id": "otdb-28b4506985", "acao": "manter"}
+{"id": "otdb-28bfb76809", "acao": "manter"}
+{"id": "otdb-2d960315ba", "acao": "corrigir", "pt": {"q": "O «K» de «K-Pop» refere-se a que país?", "o": ["Coreia", "Quénia", "Cazaquistão", "Kuwait"]}, "en": {"q": "The \"K\" in \"K-Pop\" stands for which word?", "o": ["Korean", "Kenyan", "Kazakh", "Kuwaiti"]}, "nota": "en: opção «Kazakhstan» era a única com forma diferente -> «Kazakh»"}
+{"id": "otdb-2e95cd9c3a", "acao": "manter"}
+{"id": "otdb-2ef6bd7388", "acao": "manter"}
+{"id": "otdb-31fdbe7046", "acao": "corrigir", "pt": {"q": "Que artista canadiano escreveu a canção «Hallelujah»?", "o": ["Leonard Cohen", "Ryan Letourneau", "Justin Bieber", "Kory Lefkowits"]}, "en": {"q": "\"Hallelujah\" is a song written by which Canadian recording artist?", "o": ["Leonard Cohen", "Ryan Letourneau", "Justin Bieber", "Kory Lefkowits"]}, "nota": "en: espaços a mais nas opções"}
+{"id": "otdb-3260365d08", "acao": "manter"}
+{"id": "otdb-338172c9b7", "acao": "manter"}
+{"id": "otdb-3387a7b437", "acao": "manter"}
+{"id": "otdb-34c4df4ea8", "acao": "corrigir", "pt": {"q": "Que banda lançou canções como «Rio», «Girls on Film» e «The Reflex»?", "o": ["Depeche Mode", "New Order", "Duran Duran", "The Cure"]}, "en": {"q": "Which band released songs such as \"Rio\", \"Girls on Film\", and \"The Reflex\"?", "o": ["Depeche Mode", "New Order", "Duran Duran", "The Cure"]}, "nota": "en: gralha «suchs»"}
+{"id": "otdb-3531a40c8a", "acao": "manter"}
+{"id": "otdb-35a005944c", "acao": "corrigir", "pt": {"q": "A canção «Hung Up», de Madonna, inclui um excerto de que conhecida canção dos anos 70?", "o": ["The Chain", "Gimme! Gimme! Gimme! (A Man After Midnight)", "Staying Alive", "Night Fever"]}, "en": {"q": "Madonna's song \"Hung Up\" includes a piece from which popular 70s song?", "o": ["The Chain", "Gimme! Gimme! Gimme! (A Man After Midnight)", "Staying Alive", "Night Fever"]}, "nota": "en: gralha no título «Gimmie! Gimmie!»"}
+{"id": "otdb-360e69c69e", "acao": "manter"}
+{"id": "otdb-362b3d83e7", "acao": "manter"}
+{"id": "otdb-36a9266712", "acao": "manter"}
+{"id": "otdb-36f4d1f940", "acao": "manter"}
+{"id": "otdb-37b3c7eefa", "acao": "manter"}
+{"id": "otdb-386bd2ce42", "acao": "manter"}
+{"id": "otdb-38cc5f05c7", "acao": "manter"}
+{"id": "otdb-39c55a34e6", "acao": "manter"}
+{"id": "otdb-39fedaee67", "acao": "manter"}
+{"id": "otdb-3ab25270dd", "acao": "manter"}
+{"id": "otdb-3af6e276ca", "acao": "manter"}
+{"id": "otdb-3cfcb57e5f", "acao": "manter"}
+{"id": "otdb-3dd3252b03", "acao": "manter"}
+{"id": "otdb-3f2065fd1e", "acao": "corrigir", "pt": {"q": "Qual das Spice Girls, grupo pop britânico, era conhecida como Ginger Spice?", "o": ["Emma Bunton", "Geri Halliwell", "Melanie Brown", "Victoria Beckham"]}, "en": {"q": "Which member of the British pop group \"The Spice Girls\" was known as Ginger Spice?", "o": ["Emma Bunton", "Geri Halliwell", "Melanie Brown", "Victoria Beckham"]}, "nota": "pt: «integrantes» (pt-BR) retirado"}
+{"id": "otdb-416556c9bf", "acao": "corrigir", "pt": {"q": "«Sleepyhead» é o single de estreia de que banda de música eletrónica?", "o": ["Passion Pit", "The Chemical Brothers", "Ladytron", "Kraftwerk"]}, "en": {"q": "\"Sleepyhead\" is the debut single from which electronic band?", "o": ["Passion Pit", "The Chemical Brothers", "Ladytron", "Kraftwerk"]}, "nota": "pt: «primeiro single de estreia» redundante; en: «LadyTron» -> «Ladytron»"}
+{"id": "otdb-4224583634", "acao": "manter"}
+{"id": "otdb-42ae9a0524", "acao": "manter"}
+{"id": "otdb-435325a59e", "acao": "manter"}
+{"id": "otdb-44154e665d", "acao": "manter"}
+{"id": "otdb-45344dcb68", "acao": "manter"}
+{"id": "otdb-491427deb2", "acao": "manter"}
+{"id": "otdb-4967e390bf", "acao": "manter"}
+{"id": "otdb-4aa2f6e8a3", "acao": "corrigir", "pt": {"q": "Como se chama o álbum de estreia de Fergie?", "o": ["Loose", "Fergalicious", "The Dutchess", "The Sweet Escape"]}, "en": {"q": "What is Fergie's debut album called?", "o": ["Loose", "Fergalicious", "The Dutchess", "The Sweet Escape"]}, "nota": "en: espaço a mais numa opção"}
+{"id": "otdb-4b52c0f1f1", "acao": "manter"}
+{"id": "otdb-4bca8e3dd3", "acao": "manter"}
+{"id": "otdb-4bcff00441", "acao": "manter"}
+{"id": "otdb-4c3f6b1d7d", "acao": "corrigir", "pt": {"q": "De que país é originária a canção «Gangnam Style»?", "o": ["Japão", "Coreia do Norte", "China", "Coreia do Sul"]}, "en": {"q": "From which country did the song \"Gangnam Style\" originate?", "o": ["Japan", "North Korea", "China", "South Korea"]}, "nota": "en: «from» repetido"}
+{"id": "otdb-4c61c060f7", "acao": "manter"}
+{"id": "otdb-4d21838838", "acao": "manter"}
+{"id": "otdb-4ebeb17f47", "acao": "manter"}
+{"id": "otdb-4f2f6e1c78", "acao": "corrigir", "pt": {"q": "Qual dos Beatles foi narrador de episódios de «Thomas the Tank Engine»?", "o": ["Paul McCartney", "George Harrison", "Ringo Starr", "John Lennon"]}, "en": {"q": "Which member of \"The Beatles\" narrated episodes of \"Thomas the Tank Engine\"?", "o": ["Paul McCartney", "George Harrison", "Ringo Starr", "John Lennon"]}, "nota": "pt: «Qual dos The Beatles» -> «Qual dos Beatles»"}
+{"id": "otdb-51a516fdcb", "acao": "manter"}
+{"id": "otdb-523bf64b91", "acao": "manter"}
+{"id": "otdb-5339856b6c", "acao": "manter"}
+{"id": "otdb-534edbff1a", "acao": "manter"}
+{"id": "otdb-536730948d", "acao": "manter"}
+{"id": "otdb-54faed976a", "acao": "corrigir", "pt": {"q": "Qual das seguintes canções não foi originalmente lançada por Sir Elton John?", "o": ["I Don't Wanna Go On with You Like That", "Candle in the Wind", "You'll Be in My Heart", "Crocodile Rock"]}, "en": {"q": "Which of the following songs was not originally released by Sir Elton John?", "o": ["I Don't Wanna Go On With You Like That", "Candle in the Wind", "You'll Be In My Heart", "Crocodile Rock"]}, "nota": "en: espaço final"}
+{"id": "otdb-563a5b7fde", "acao": "manter"}
+{"id": "otdb-588c3cd489", "acao": "manter"}
+{"id": "otdb-58cf990c0b", "acao": "corrigir", "pt": {"q": "Quem escreveu o êxito «Nothing Compares 2 U», de Sinéad O'Connor?", "o": ["Prince", "Rick James", "Michael Jackson", "Cameo"]}, "en": {"q": "Who wrote the Sinéad O'Connor hit 'Nothing Compares 2 U'?", "o": ["Prince", "Rick James", "Michael Jackson", "Cameo"]}, "nota": "en: «Sinead O`Connor» -> «Sinéad O'Connor»"}
+{"id": "otdb-59771013ca", "acao": "manter"}
+{"id": "otdb-59ec11a6b0", "acao": "manter"}
+{"id": "otdb-5bb2b826ef", "acao": "manter"}
+{"id": "otdb-617f792c38", "acao": "manter"}
+{"id": "otdb-61ff590488", "acao": "manter"}
+{"id": "otdb-6241e19d14", "acao": "corrigir", "pt": {"q": "Que cantora e compositora britânica tem um excerto de uma canção sua no single «Stan», de Eminem?", "o": ["Leona Lewis", "Dido", "Adele", "Lily Allen"]}, "en": {"q": "Which British female singer and songwriter was sampled in Eminem's hit single 'Stan'?", "o": ["Leona Lewis", "Dido", "Adele", "Lily Allen"]}, "nota": "pt: «samplada» (anglicismo/pt-BR) reformulado; en: falta «in»"}
+{"id": "otdb-62bbd343ad", "acao": "manter"}
+{"id": "otdb-6309592272", "acao": "manter"}
+{"id": "otdb-647117b213", "acao": "manter"}
+{"id": "otdb-668f813433", "acao": "manter"}
+{"id": "otdb-66aeedd660", "acao": "manter"}
+{"id": "otdb-66b6525091", "acao": "manter"}
+{"id": "otdb-698be3210b", "acao": "corrigir", "pt": {"q": "Segundo a letra da canção de Bob Dylan de 1973, de quem é a porta à qual ele está a bater?", "o": ["Da Angie", "Da Oportunidade", "Do Céu", "Da Eileen"]}, "en": {"q": "In the words of his 1973 song, Bob Dylan is \"knock, knock, knockin'\" on which door?", "o": ["Angie's", "Opportunity's", "Heaven's", "Eileen's"]}, "nota": "en: apóstrofo em «knockin'»"}
+{"id": "otdb-6994f4fb57", "acao": "manter"}
+{"id": "otdb-6b31b64051", "acao": "manter"}
+{"id": "otdb-6ce5e2c354", "acao": "manter"}
+{"id": "otdb-6d50ba66bc", "acao": "manter"}
+{"id": "otdb-6fc9c7ecdf", "acao": "manter"}
+{"id": "otdb-70418dfa69", "acao": "manter"}
+{"id": "otdb-71aadafb64", "acao": "manter"}
+{"id": "otdb-7266cfbe3c", "acao": "manter"}
+{"id": "otdb-7274666544", "acao": "manter"}
+{"id": "otdb-7368403b4b", "acao": "manter"}
+{"id": "otdb-7417d32231", "acao": "manter"}
+{"id": "otdb-749353c40b", "acao": "corrigir", "pt": {"q": "Para que ativista dos direitos civis escreveu Stevie Wonder a canção «Happy Birthday», em 1980?", "o": ["Nelson Mandela", "Rosa Parks", "Booker T. Washington", "Martin Luther King Jr."]}, "en": {"q": "For which civil rights activist did Stevie Wonder write the song 'Happy Birthday' in 1980?", "o": ["Nelson Mandela", "Rosa Parks", "Booker T. Washington", "Martin Luther King Jr."]}, "nota": "en: «Mandella» -> «Mandela», «Jr» -> «Jr.»"}
+{"id": "otdb-74c39f7eff", "acao": "corrigir", "pt": {"q": "Que artista gravou a canção «F**kin' Perfect» em 2010?", "o": ["P!nk", "Mitis", "Koven", "Adam Lambert"]}, "en": {"q": "What musician made the song \"F**kin' Perfect\" in 2010?", "o": ["P!nk", "Mitis", "Koven", "Adam Lambert"]}, "nota": "en: acento grave -> apóstrofo; «lambert» -> «Lambert»"}
+{"id": "otdb-76b21edf9c", "acao": "manter"}
+{"id": "otdb-790b6e34df", "acao": "manter"}
+{"id": "otdb-7b7a6fc0bc", "acao": "corrigir", "pt": {"q": "Que ator vencedor de um Óscar participa na canção «Gold Digger», de Kanye West?", "o": ["Dwayne Johnson", "Bruce Willis", "Alec Baldwin", "Jamie Foxx"]}, "en": {"q": "Kanye West's \"Gold Digger\" featured which Oscar-winning actor?", "o": ["Dwayne Johnson", "Bruce Willis", "Alec Baldwin", "Jamie Foxx"]}, "nota": "en: espaço a mais numa opção"}
+{"id": "otdb-7ca9995406", "acao": "manter"}
+{"id": "otdb-7cf906afa7", "acao": "manter"}
+{"id": "otdb-7daab53658", "acao": "corrigir", "pt": {"q": "Que banda teve êxitos em 1975 com as canções «One of These Nights» e «Lyin' Eyes»?", "o": ["Eagles", "Fleetwood Mac", "Fool's Gold", "The Doobie Brothers"]}, "en": {"q": "Which band had hits in 1975 with the songs 'One of These Nights' and 'Lyin' Eyes'?", "o": ["The Eagles", "Fleetwood Mac", "Fool's Gold", "The Doobie Brothers"]}, "nota": "en: «Lyin Eyes» -> «Lyin' Eyes», «Fools Gold» -> «Fool's Gold»"}
+{"id": "otdb-7dc2ee81af", "acao": "manter"}
+{"id": "otdb-7dcd13363b", "acao": "corrigir", "pt": {"q": "Na ópera de Rossini, qual é o nome do «Barbeiro de Sevilha»?", "o": ["Fernando", "David", "Ângelo", "Fígaro"]}, "en": {"q": "In the Rossini opera, what was the name of 'The Barber of Seville'?", "o": ["Fernando", "Dave", "Angelo", "Figaro"]}, "nota": "en: espaço duplo"}
+{"id": "otdb-7dde0dafa7", "acao": "corrigir", "pt": {"q": "Quem cantou o tema de abertura do filme de James Bond «GoldenEye» (1995)?", "o": ["Tina Turner", "Shirley Bassey", "Sheryl Crow", "Madonna"]}, "en": {"q": "Who sang the opening theme song to the 1995 James Bond film 'GoldenEye'?", "o": ["Tina Turner", "Shirley Bassey", "Sheryl Crow", "Madonna"]}, "nota": "en: «sung» -> «sang», «Goldeneye» -> «GoldenEye»"}
+{"id": "otdb-7e3c328b09", "acao": "corrigir", "pt": {"q": "No álbum «good kid, m.A.A.d city», lançado por Kendrick Lamar em 2012, a história passa-se em que cidade?", "o": ["Baltimore", "Nova Iorque", "Compton", "Detroit"]}, "en": {"q": "In Kendrick Lamar's 2012 album \"good kid, m.A.A.d city\", the story takes place in which city?", "o": ["Baltimore", "New York", "Compton", "Detroit"]}, "nota": "en: título com a grafia original «good kid, m.A.A.d city»"}
+{"id": "otdb-7e590ccc06", "acao": "manter"}
+{"id": "otdb-7f8db44cf8", "acao": "tirar", "motivo": "trivial", "nota": "duplica otdb-15b5dbf071 (88 teclas do piano)"}
+{"id": "otdb-7facd482f7", "acao": "manter"}
+{"id": "otdb-80bd0b4614", "acao": "manter"}
+{"id": "otdb-8176c0f56c", "acao": "manter"}
+{"id": "otdb-8195b6ab06", "acao": "manter"}
+{"id": "otdb-81d615c576", "acao": "manter"}
+{"id": "otdb-822dce7c73", "acao": "manter"}
+{"id": "otdb-828380d16e", "acao": "corrigir", "pt": {"q": "Como se chama o álbum dos Wu-Tang Clan que Martin Shkreli comprou por 2 milhões de dólares?", "o": ["Once Upon a Time in Shaolin", "The Saga Continues", "8 Diagrams", "A Better Tomorrow"]}, "en": {"q": "What was the name of the Wu-Tang Clan album Martin Shkreli bought for $2 million?", "o": ["Once Upon a Time in Shaolin", "The Saga Continues", "8 Diagrams", "A Better Tomorrow"]}, "nota": "en: «$2 million dollars» redundante"}
+{"id": "otdb-85cf2cf5d0", "acao": "corrigir", "pt": {"q": "Qual destes álbuns dos Pink Floyd deu também origem a um filme?", "o": ["Wish You Were Here", "The Wall", "Animals", "The Dark Side of the Moon"]}, "en": {"q": "Which one of these Pink Floyd albums was also a movie?", "o": ["Wish You Were Here", "The Wall", "Animals", "The Dark Side of the Moon"]}, "nota": "en: concordância «were» -> «was»"}
+{"id": "otdb-8632d0d00e", "acao": "tirar", "motivo": "trivial", "nota": "duplica otdb-36f4d1f940 (Paul descalço em Abbey Road)"}
+{"id": "otdb-8676fb0771", "acao": "manter"}
+{"id": "otdb-86f79a559f", "acao": "corrigir", "pt": {"q": "Qual foi o álbum de estreia a solo de Raekwon the Chef?", "o": ["Only Built 4 Cuban Linx", "The Wild", "Shaolin vs Wu-Tang", "The Lex Diamond Story"]}, "en": {"q": "What was Raekwon the Chef's debut solo album?", "o": ["Only Built 4 Cuban Linx", "The Wild", "Shaolin vs Wu-Tang", "The Lex Diamond Story"]}, "nota": "en: «Chefs» -> «Chef's»"}
+{"id": "otdb-8728627897", "acao": "manter"}
+{"id": "otdb-8885653d45", "acao": "corrigir", "pt": {"q": "Quem teve êxitos nos anos 70 com as canções «Lonely Boy» e «Never Let Her Slip Away»?", "o": ["Leo Sayer", "Andrew Gold", "Elton John", "Barry White"]}, "en": {"q": "Who had hits in the 70s with the songs \"Lonely Boy\" and \"Never Let Her Slip Away\"?", "o": ["Leo Sayer", "Andrew Gold", "Elton John", "Barry White"]}, "nota": "en: espaço final numa opção"}
+{"id": "otdb-892da2ef65", "acao": "manter"}
+{"id": "otdb-89e1a6b52d", "acao": "manter"}
+{"id": "otdb-8b94b7b1e7", "acao": "manter"}
+{"id": "otdb-8bb0fd338f", "acao": "manter"}
+{"id": "otdb-8cc48c81f7", "acao": "manter"}
+{"id": "otdb-8ed3b9e693", "acao": "manter"}
+{"id": "otdb-8ff5982e0f", "acao": "manter"}
+{"id": "otdb-920bf17c4b", "acao": "corrigir", "pt": {"q": "Em que canção dos The Who aparece o verso «Teenage Wasteland»?", "o": ["Baba O'Riley", "The Seeker", "Won't Get Fooled Again", "Pinball Wizard"]}, "en": {"q": "In which song by The Who does the line \"Teenage Wasteland\" appear?", "o": ["Baba O'Riley", "The Seeker", "Won't Get Fooled Again", "Pinball Wizard"]}, "nota": "en: «eponymous» mal usado; «Baba O' Riley» -> «Baba O'Riley»"}
+{"id": "otdb-929e34225f", "acao": "corrigir", "pt": {"q": "Que empresa fez a animação do vídeo «Sledgehammer» (1986), de Peter Gabriel?", "o": ["Aardman Animations", "HIT Entertainment", "VIZ Media", "Illumination Entertainment"]}, "en": {"q": "Which company did the animation for Peter Gabriel's 1986 video \"Sledgehammer\"?", "o": ["Aardman Animations", "HIT Entertainment", "VIZ Media", "Illumination Entertainment"]}, "nota": "en: título do vídeo entre aspas"}
+{"id": "otdb-92db457dcb", "acao": "manter"}
+{"id": "otdb-93299b534a", "acao": "corrigir", "pt": {"q": "«The Day the Music Died» foi um trágico desastre de avião que matou três músicos. Em que década ocorreu?", "o": ["Anos 60", "Anos 40", "Anos 50", "Anos 70"]}, "en": {"q": "\"The Day the Music Died\" was a tragic plane crash that killed three musicians in which decade?", "o": ["1960s", "1940s", "1950s", "1970s"]}, "nota": "en: «60's» -> «1960s» (e restantes)"}
+{"id": "otdb-95d065627a", "acao": "manter"}
+{"id": "otdb-95d63906f2", "acao": "manter"}
+{"id": "otdb-96b3dbd08e", "acao": "manter"}
+{"id": "otdb-980dbe3738", "acao": "manter"}
+{"id": "otdb-980e777065", "acao": "manter"}
+{"id": "otdb-986f241ce5", "acao": "corrigir", "pt": {"q": "Qual destes artistas NÃO é originário de França?", "o": ["Air", "Daft Punk", "The Chemical Brothers", "Justice"]}, "en": {"q": "Which of these artists does NOT originate from France?", "o": ["Air", "Daft Punk", "The Chemical Brothers", "Justice"]}, "nota": "en: concordância «do» -> «does»"}
+{"id": "otdb-98b5766847", "acao": "manter"}
+{"id": "otdb-99ec9ef78d", "acao": "corrigir", "pt": {"q": "Nos VMA de 2009, Kanye West interrompeu que celebridade?", "o": ["Beyoncé", "Beck", "Taylor Swift", "MF DOOM"]}, "en": {"q": "At the 2009 VMAs, Kanye West interrupted which celebrity?", "o": ["Beyoncé", "Beck", "Taylor Swift", "MF DOOM"]}, "nota": "en: gramática; «Beyonce» -> «Beyoncé»"}
+{"id": "otdb-9a36d7d127", "acao": "corrigir", "pt": {"q": "Pamina e Papageno são personagens de que ópera de Mozart?", "o": ["Der Schauspieldirektor", "A Flauta Mágica", "L'oca del Cairo", "As Bodas de Fígaro"]}, "en": {"q": "Pamina and Papageno are characters in what Mozart opera?", "o": ["The Impresario", "The Magic Flute", "The Goose of Cairo", "The Marriage of Figaro"]}, "nota": "pt: títulos portugueses incertos de óperas menores substituídos pelos originais"}
+{"id": "otdb-9ce85ea721", "acao": "manter"}
+{"id": "otdb-9d30033143", "acao": "manter"}
+{"id": "otdb-9daaf96604", "acao": "tirar", "motivo": "ambigua", "nota": "Nirvana teve vários membros ao longo do tempo e já não existe; «tem» é ambíguo"}
+{"id": "otdb-9dc412d485", "acao": "corrigir", "pt": {"q": "Qual destas pessoas já fez parte dos Metallica?", "o": ["Joey Belladonna", "Kurt Cobain", "Dave Mustaine", "Dave Lombardo"]}, "en": {"q": "Which one of these people has been in the band \"Metallica\" in the past?", "o": ["Joey Belladonna", "Kurt Cobain", "Dave Mustaine", "Dave Lombardo"]}, "nota": "en: aspas duplicadas"}
+{"id": "otdb-9de33fbef6", "acao": "corrigir", "pt": {"q": "Que artista ou banda francesa é conhecida por tocar o instrumento MIDI «Launchpad»?", "o": ["Disclosure", "David Guetta", "Madeon", "Daft Punk"]}, "en": {"q": "What French artist/band is known for playing the MIDI instrument \"Launchpad\"?", "o": ["Disclosure", "David Guetta", "Madeon", "Daft Punk"]}, "nota": "en: «midi» -> «MIDI»; espaço final"}
+{"id": "otdb-9e3d88d634", "acao": "manter"}
+{"id": "otdb-9f31bc1ab7", "acao": "manter"}
+{"id": "otdb-a107922289", "acao": "corrigir", "pt": {"q": "Qual destas NÃO é uma canção do álbum homónimo de 1968 dos The Beatles, também conhecido como «White Album»?", "o": ["Being for the Benefit of Mr. Kite!", "Why Don't We Do It in the Road?", "Everybody's Got Something to Hide Except Me and My Monkey", "The Continuing Story of Bungalow Bill"]}, "en": {"q": "Which of these is NOT a song on The Beatles' 1968 self-titled album, also known as the White Album?", "o": ["Being For The Benefit Of Mr. Kite!", "Why Don't We Do It in the Road?", "Everybody's Got Something to Hide Except Me and My Monkey", "The Continuing Story of Bungalow Bill"]}, "nota": "en: «self titled» -> «self-titled», «White album» -> «White Album»"}
+{"id": "otdb-a140dcdaa4", "acao": "manter"}
+{"id": "otdb-a1e7cd677a", "acao": "manter"}
+{"id": "otdb-a28f08c8c2", "acao": "manter"}
+{"id": "otdb-a6c1c0fbcf", "acao": "corrigir", "pt": {"q": "De que cidade inglesa é originária a banda de heavy metal Black Sabbath?", "o": ["Londres", "Newcastle upon Tyne", "Manchester", "Birmingham"]}, "en": {"q": "The heavy metal band Black Sabbath hail from which English city?", "o": ["London", "Newcastle upon Tyne", "Manchester", "Birmingham"]}, "nota": "en: «Newcastle-Upon-Tyne» -> «Newcastle upon Tyne»"}
+{"id": "otdb-a6d077c85d", "acao": "manter"}
+{"id": "otdb-a7a9869c04", "acao": "manter"}
+{"id": "otdb-aa31e3c1d1", "acao": "manter"}
+{"id": "otdb-ab3ddea1a1", "acao": "corrigir", "pt": {"q": "Brian May é o guitarrista de que banda?", "o": ["Rolling Stones", "Pink Floyd", "Queen", "The Doors"]}, "en": {"q": "Brian May is the guitarist for which band?", "o": ["Rolling Stones", "Pink Floyd", "Queen", "The Doors"]}, "nota": "pt/en: Brian May continua nos Queen; tempo verbal no presente"}
+{"id": "otdb-abf79a620c", "acao": "manter"}
+{"id": "otdb-ac541d374e", "acao": "manter"}
+{"id": "otdb-ac593ecda1", "acao": "manter"}
+{"id": "otdb-ac9156abdc", "acao": "manter"}
+{"id": "otdb-ae6ee9910f", "acao": "manter"}
+{"id": "otdb-b12ea8d68e", "acao": "manter"}
+{"id": "otdb-b22bac128f", "acao": "corrigir", "pt": {"q": "A canção «YYZ», dos Rush, deriva o nome do código IATA do aeroporto de que cidade?", "o": ["Vancouver", "Toronto", "Calgary", "Ottawa"]}, "en": {"q": "The Rush song \"YYZ\" derives its name from the IATA airport identification code for which city?", "o": ["Vancouver", "Toronto", "Calgary", "Ottawa"]}, "nota": "en: gralha «aiport»"}
+{"id": "otdb-b28104006f", "acao": "tirar", "motivo": "trivial", "nota": "duplica otdb-24b61eaf64 (tuba, metal mais grave)"}
+{"id": "otdb-b2c2f7c9b8", "acao": "manter"}
+{"id": "otdb-b2f1b1d7a3", "acao": "corrigir", "pt": {"q": "No início de que década começou a subcultura gótica?", "o": ["Anos 90", "Anos 2000", "Anos 80", "Anos 70"]}, "en": {"q": "In the early part of which decade did the goth subculture begin?", "o": ["1990s", "2000s", "1980s", "1970s"]}, "nota": "en: gramática e maiúsculas"}
+{"id": "otdb-b57c7a4894", "acao": "manter"}
+{"id": "otdb-b625526b12", "acao": "corrigir", "pt": {"q": "Artis Leon Ivey Jr. é mais conhecido como que rapper?", "o": ["Snoop Dogg", "Coolio", "Dr. Dre", "Ice-T"]}, "en": {"q": "Artis Leon Ivey Jr. is better known as which rap artist?", "o": ["Snoop Dogg", "Coolio", "Dr. Dre", "Ice-T"]}, "nota": "en: «Dr Dre» -> «Dr. Dre», «Ice T» -> «Ice-T»"}
+{"id": "otdb-b726f08f0f", "acao": "manter"}
+{"id": "otdb-b84bf990b3", "acao": "manter"}
+{"id": "otdb-b8eb5b960c", "acao": "corrigir", "pt": {"q": "O pianista Frédéric Chopin foi compositor de que período musical?", "o": ["Romântico", "Renascimento", "Barroco", "Clássico"]}, "en": {"q": "Pianist Frédéric Chopin was a composer of which musical era?", "o": ["Romantic", "Renaissance", "Baroque", "Classical"]}, "nota": "en: «Classic» -> «Classical»"}
+{"id": "otdb-b9219db8d0", "acao": "manter"}
+{"id": "otdb-b95f00a6d9", "acao": "manter"}
+{"id": "otdb-b9dcf80918", "acao": "manter"}
+{"id": "otdb-ba6510f99b", "acao": "manter"}
+{"id": "otdb-bad6fe0a14", "acao": "manter"}
+{"id": "otdb-bd0da39603", "acao": "corrigir", "pt": {"q": "A que família de instrumentos pertence o bandolim?", "o": ["Sopros de madeira", "Percussão", "Cordas", "Sopros de metal"]}, "en": {"q": "What kind of instrument is a \"Mandolin\"?", "o": ["Woodwind", "Percussion", "String", "Brass"]}, "nota": "pt: «De madeira» ambíguo (o bandolim é de madeira); famílias explícitas"}
+{"id": "otdb-bff1034fcb", "acao": "manter"}
+{"id": "otdb-c46911f020", "acao": "manter"}
+{"id": "otdb-c79e60be45", "acao": "corrigir", "pt": {"q": "Em que ano foi lançada a canção «Money for Nothing», dos Dire Straits?", "o": ["1980", "1973", "1985", "1991"]}, "en": {"q": "In what year was the Dire Straits song \"Money for Nothing\" released?", "o": ["1980", "1973", "1985", "1991"]}, "nota": "en: gramática («Dire Straits's Song ... release»)"}
+{"id": "otdb-c7f11414cb", "acao": "corrigir", "pt": {"q": "Quem foi o principal letrista da banda canadiana de rock progressivo Rush?", "o": ["Neil Peart", "John Rutsey", "Alex Lifeson", "Geddy Lee"]}, "en": {"q": "Who was the primary lyricist for Canadian progressive rock band Rush?", "o": ["Neil Peart", "John Rutsey", "Alex Lifeson", "Geddy Lee"]}, "nota": "en: «is» -> «was» (Neil Peart morreu em 2020), alinhado com o pt"}
+{"id": "otdb-c8143b016b", "acao": "manter"}
+{"id": "otdb-c993a8a062", "acao": "manter"}
+{"id": "otdb-ca076e0ad4", "acao": "manter"}
+{"id": "otdb-ca563fec4e", "acao": "corrigir", "pt": {"q": "Qual destes rappers NÃO é membro do grupo de rap Wu-Tang Clan?", "o": ["Ol' Dirty Bastard", "Method Man", "Dr. Dre", "GZA"]}, "en": {"q": "Which one of these rappers is NOT a member of the rap group Wu-Tang Clan?", "o": ["Ol' Dirty Bastard", "Method Man", "Dr. Dre", "GZA"]}, "nota": "en: «Dr.Dre» -> «Dr. Dre»"}
+{"id": "otdb-cb8a362abb", "acao": "corrigir", "pt": {"q": "Quem foi um dos pioneiros da «música minimalista» nos anos 1960?", "o": ["Wolfgang Amadeus Mozart", "Steve Reich", "Sigur Rós", "Brian Eno"]}, "en": {"q": "Who was one of the pioneers of \"minimal music\" in the 1960s?", "o": ["Wolfgang Amadeus Mozart", "Steve Reich", "Sigur Rós", "Brian Eno"]}, "nota": "en: gramática, alinhado com o pt"}
+{"id": "otdb-cd6d08d200", "acao": "manter"}
+{"id": "otdb-cdd7b94533", "acao": "corrigir", "pt": {"q": "Em que ano foi lançado o álbum «Pinkerton», dos Weezer?", "o": ["1990", "1996", "1994", "2001"]}, "en": {"q": "What year was Weezer's album \"Pinkerton\" released?", "o": ["1990", "1996", "1994", "2001"]}, "nota": "en: espaços finais"}
+{"id": "otdb-cdde9edf38", "acao": "manter"}
+{"id": "otdb-ce4a2e3359", "acao": "corrigir", "pt": {"q": "Qual destas bandas NÃO é da Austrália?", "o": ["The Naked and Famous", "Cut Copy", "Empire of the Sun", "Tame Impala"]}, "en": {"q": "Which of these bands is NOT from Australia?", "o": ["The Naked and Famous", "Cut Copy", "Empire of the Sun", "Tame Impala"]}, "nota": "en: concordância «are» -> «is»"}
+{"id": "otdb-ce7b2db257", "acao": "manter"}
+{"id": "otdb-cfbf55963f", "acao": "manter"}
+{"id": "otdb-cfeb7bcb7a", "acao": "tirar", "motivo": "eua", "nota": "Dave Matthews Band/«Crash into Me»: êxito quase só nos EUA"}
+{"id": "otdb-d05cd7f970", "acao": "corrigir", "pt": {"q": "Que artista participou na canção «Where Are Ü Now», de 2015, dos Jack Ü (Skrillex e Diplo)?", "o": ["Justin Bieber", "Selena Gomez", "Ellie Goulding", "The Weeknd"]}, "en": {"q": "Which singer was featured in Jack Ü (Skrillex & Diplo)'s 2015 song 'Where Are Ü Now'?", "o": ["Justin Bieber", "Selena Gomez", "Ellie Goulding", "The Weeknd"]}, "nota": "pt: «Que cantor» dava pista de género (excluía Selena Gomez e Ellie Goulding só em pt)"}
+{"id": "otdb-d0a064d8bb", "acao": "corrigir", "pt": {"q": "Em que álbum dos Red Hot Chili Peppers está a canção «Give It Away»?", "o": ["Stadium Arcadium", "One Hot Minute", "Blood Sugar Sex Magik", "By the Way"]}, "en": {"q": "The Red Hot Chili Peppers song \"Give It Away\" is from what album?", "o": ["Stadium Arcadium", "One Hot Minute", "Blood Sugar Sex Magik", "By the Way"]}, "nota": "en: «Red Hot Chili Pepper» -> «Red Hot Chili Peppers»"}

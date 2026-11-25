@@ -1,0 +1,1052 @@
+[
+{
+"id": "wd-grupo-Q131918",
+"pt": {
+"q": "A que grupo de animais pertence o esmerilhão?",
+"o": [
+"Aves",
+"Anfíbios",
+"Mamíferos",
+"Répteis"
+]
+},
+"en": {
+"q": "Which group of animals does the merlin belong to?",
+"o": [
+"Birds",
+"Amphibians",
+"Mammals",
+"Reptiles"
+]
+}
+},
+{
+"id": "wd-grupo-Q26742",
+"pt": {
+"q": "A que grupo de animais pertence o zarro-comum?",
+"o": [
+"Aves",
+"Anfíbios",
+"Répteis",
+"Mamíferos"
+]
+},
+"en": {
+"q": "Which group of animals does the common pochard belong to?",
+"o": [
+"Birds",
+"Amphibians",
+"Reptiles",
+"Mammals"
+]
+}
+},
+{
+"id": "otdb-a6662c1022",
+"pt": {
+"q": "Quantas patas têm as borboletas?",
+"o": [
+"6",
+"4",
+"0",
+"2"
+]
+},
+"en": {
+"q": "How many legs do butterflies have?",
+"o": [
+"6",
+"4",
+"0",
+"2"
+]
+}
+},
+{
+"id": "otdb-48204668bc",
+"pt": {
+"q": "A doença emaciante crónica (CWD) infeta exclusivamente membros de que família de animais?",
+"o": [
+"Hominídeos",
+"Canídeos",
+"Felídeos",
+"Cervídeos"
+]
+},
+"en": {
+"q": "Chronic Wasting Disease (CWD) exclusively infects members of which family of animals?",
+"o": [
+"Hominids",
+"Canids",
+"Felids",
+"Cervids"
+]
+}
+},
+{
+"id": "wd-grupo-Q26431",
+"pt": {
+"q": "A que grupo de animais pertence o tartaranhão-ruivo-dos-pauis?",
+"o": [
+"Aves",
+"Anfíbios",
+"Répteis",
+"Mamíferos"
+]
+},
+"en": {
+"q": "Which group of animals does the western marsh harrier belong to?",
+"o": [
+"Birds",
+"Amphibians",
+"Reptiles",
+"Mammals"
+]
+}
+},
+{
+"id": "wd-grupo-Q44299",
+"pt": {
+"q": "A que grupo de animais pertence a espécie coiote?",
+"o": [
+"Anfíbios",
+"Mamíferos",
+"Aves",
+"Répteis"
+]
+},
+"en": {
+"q": "Which group of animals does the coyote belong to?",
+"o": [
+"Amphibians",
+"Mammals",
+"Birds",
+"Reptiles"
+]
+}
+},
+{
+"id": "wd-grupo-Q82738",
+"pt": {
+"q": "A que grupo de animais pertence a espécie raposa-do-ártico?",
+"o": [
+"Anfíbios",
+"Mamíferos",
+"Aves",
+"Répteis"
+]
+},
+"en": {
+"q": "Which group of animals does the Arctic fox belong to?",
+"o": [
+"Amphibians",
+"Mammals",
+"Birds",
+"Reptiles"
+]
+}
+},
+{
+"id": "wd-grupo-Q81214",
+"pt": {
+"q": "A que grupo de animais pertence a espécie cachalote?",
+"o": [
+"Mamíferos",
+"Répteis",
+"Aves",
+"Anfíbios"
+]
+},
+"en": {
+"q": "Which group of animals does the sperm whale belong to?",
+"o": [
+"Mammals",
+"Reptiles",
+"Birds",
+"Amphibians"
+]
+}
+},
+{
+"id": "otdb-4fe924078d",
+"pt": {
+"q": "O que significa «hipopótamo» e em que língua?",
+"o": [
+"Porco gordo (latim)",
+"Cavalo-do-rio (grego)",
+"Porco gordo (grego)",
+"Cavalo-do-rio (latim)"
+]
+},
+"en": {
+"q": "What does \"hippopotamus\" mean and in what language?",
+"o": [
+"Fat Pig (Latin)",
+"River Horse (Greek)",
+"Fat Pig (Greek)",
+"River Horse (Latin)"
+]
+}
+},
+{
+"id": "otdb-de4f017f6a",
+"pt": {
+"q": "A que classe de animais pertencem os tritões?",
+"o": [
+"Anfíbios",
+"Répteis",
+"Mamíferos",
+"Peixes"
+]
+},
+"en": {
+"q": "Which class of animals are newts members of?",
+"o": [
+"Amphibians",
+"Reptiles",
+"Mammals",
+"Fish"
+]
+}
+},
+{
+"id": "otdb-9bf9f8ba7a",
+"pt": {
+"q": "Que cor tem a fêmea do melro?",
+"o": [
+"Amarela",
+"Branca",
+"Castanha",
+"Preta"
+]
+},
+"en": {
+"q": "What colour is the female blackbird?",
+"o": [
+"Yellow",
+"White",
+"Brown",
+"Black"
+]
+}
+},
+{
+"id": "otdb-4d62dd273c",
+"pt": {
+"q": "De que cor é a pele de um urso-polar?",
+"o": [
+"Branca",
+"Verde",
+"Cor-de-rosa",
+"Preta"
+]
+},
+"en": {
+"q": "What color is a polar bear's skin?",
+"o": [
+"White",
+"Green",
+"Pink",
+"Black"
+]
+}
+},
+{
+"id": "otdb-16fa3f1016",
+"pt": {
+"q": "A caxemira é a lã de que tipo de animal?",
+"o": [
+"Cabra",
+"Ovelha",
+"Camelo",
+"Lama"
+]
+},
+"en": {
+"q": "Cashmere is the wool from which kind of animal?",
+"o": [
+"Goat",
+"Sheep",
+"Camel",
+"Llama"
+]
+}
+},
+{
+"id": "wd-grupo-Q173128",
+"pt": {
+"q": "A que grupo de animais pertence o ratel?",
+"o": [
+"Aves",
+"Anfíbios",
+"Mamíferos",
+"Répteis"
+]
+},
+"en": {
+"q": "Which group of animals does the ratel belong to?",
+"o": [
+"Birds",
+"Amphibians",
+"Mammals",
+"Reptiles"
+]
+}
+},
+{
+"id": "wd-grupo-Q27075852",
+"pt": {
+"q": "A que grupo de animais pertence o pintarroxo?",
+"o": [
+"Répteis",
+"Anfíbios",
+"Mamíferos",
+"Aves"
+]
+},
+"en": {
+"q": "Which group of animals does the common linnet belong to?",
+"o": [
+"Reptiles",
+"Amphibians",
+"Mammals",
+"Birds"
+]
+}
+},
+{
+"id": "otdb-42ca012585",
+"pt": {
+"q": "Qual destes animais não é real?",
+"o": [
+"Diabo-da-tasmânia",
+"Lula-gigante",
+"Leão de Nemeia",
+"Dragão-marinho"
+]
+},
+"en": {
+"q": "Which of these animals is not real?",
+"o": [
+"Tasmanian Devil",
+"Giant Squid",
+"Nemean Lion",
+"Sea Dragon"
+]
+}
+},
+{
+"id": "wd-grupo-Q14334",
+"pt": {
+"q": "A que grupo de animais pertence o glutão?",
+"o": [
+"Répteis",
+"Anfíbios",
+"Aves",
+"Mamíferos"
+]
+},
+"en": {
+"q": "Which group of animals does the wolverine belong to?",
+"o": [
+"Reptiles",
+"Amphibians",
+"Birds",
+"Mammals"
+]
+}
+},
+{
+"id": "wd-grupo-Q25345",
+"pt": {
+"q": "A que grupo de animais pertence o arminho?",
+"o": [
+"Répteis",
+"Anfíbios",
+"Mamíferos",
+"Aves"
+]
+},
+"en": {
+"q": "Which group of animals does the stoat belong to?",
+"o": [
+"Reptiles",
+"Amphibians",
+"Mammals",
+"Birds"
+]
+}
+},
+{
+"id": "wd-grupo-Q25709",
+"pt": {
+"q": "A que grupo de animais pertence o abetouro?",
+"o": [
+"Anfíbios",
+"Aves",
+"Répteis",
+"Mamíferos"
+]
+},
+"en": {
+"q": "Which group of animals does the Eurasian bittern belong to?",
+"o": [
+"Amphibians",
+"Birds",
+"Reptiles",
+"Mammals"
+]
+}
+},
+{
+"id": "otdb-31513d9dd3",
+"pt": {
+"q": "Como se chama a proteína rica em cobre que dá cor azul ao sangue do polvo antártico?",
+"o": [
+"Metionina",
+"Hemocianina",
+"Citocromo",
+"Ferro"
+]
+},
+"en": {
+"q": "What is the name of the copper-rich protein that creates the blue blood in the Antarctic octopus?",
+"o": [
+"Methionine",
+"Hemocyanin",
+"Cytochrome",
+"Iron"
+]
+}
+},
+{
+"id": "otdb-6e8e5ba485",
+"pt": {
+"q": "Qual é o nome científico do gorila-ocidental-de-planície?",
+"o": [
+"Gorilla gorilla diehli",
+"Gorilla beringei graueri",
+"Gorilla beringei beringei",
+"Gorilla gorilla gorilla"
+]
+},
+"en": {
+"q": "What is the scientific name of the western lowland gorilla?",
+"o": [
+"Gorilla gorilla diehli",
+"Gorilla beringei graueri",
+"Gorilla beringei beringei",
+"Gorilla gorilla gorilla"
+]
+}
+},
+{
+"id": "wd-grupo-Q25422",
+"pt": {
+"q": "A que grupo de animais pertence o mergulhão-de-crista?",
+"o": [
+"Mamíferos",
+"Aves",
+"Répteis",
+"Anfíbios"
+]
+},
+"en": {
+"q": "Which group of animals does the great crested grebe belong to?",
+"o": [
+"Mammals",
+"Birds",
+"Reptiles",
+"Amphibians"
+]
+}
+},
+{
+"id": "otdb-b026bf75b6",
+"pt": {
+"q": "Qual é a maior espécie de pinguim vivo?",
+"o": [
+"Pinguim-rei",
+"Pinguim-papua",
+"Pinguim-de-adélia",
+"Pinguim-imperador"
+]
+},
+"en": {
+"q": "What is the largest living species of penguin?",
+"o": [
+"King",
+"Gentoo",
+"Adélie",
+"Emperor"
+]
+}
+},
+{
+"id": "otdb-f2827d538c",
+"pt": {
+"q": "Que raça de cão tem o nome de uma região da Croácia?",
+"o": [
+"Pequinês",
+"Dálmata",
+"Chihuahua",
+"Lulu-da-pomerânia"
+]
+},
+"en": {
+"q": "Which dog breed is named after a region in Croatia?",
+"o": [
+"Pekingese",
+"Dalmatian",
+"Chihuahua",
+"Pomeranian"
+]
+}
+},
+{
+"id": "wd-grupo-Q79794",
+"pt": {
+"q": "A que grupo de animais pertence a espécie veado?",
+"o": [
+"Répteis",
+"Mamíferos",
+"Aves",
+"Anfíbios"
+]
+},
+"en": {
+"q": "Which group of animals does the red deer belong to?",
+"o": [
+"Reptiles",
+"Mammals",
+"Birds",
+"Amphibians"
+]
+}
+},
+{
+"id": "otdb-8f17c65474",
+"pt": {
+"q": "A que filo biológico pertencem todos os mamíferos, aves e répteis?",
+"o": [
+"Anelídeos",
+"Cordados",
+"Equinodermes",
+"Placozoários"
+]
+},
+"en": {
+"q": "To which biological phylum do all mammals, birds and reptiles belong?",
+"o": [
+"Annelida",
+"Chordata",
+"Echinodermata",
+"Placozoa"
+]
+}
+},
+{
+"id": "wd-grupo-Q4504",
+"pt": {
+"q": "A que grupo de animais pertence a espécie dragão-de-komodo?",
+"o": [
+"Aves",
+"Répteis",
+"Mamíferos",
+"Anfíbios"
+]
+},
+"en": {
+"q": "Which group of animals does the Komodo dragon belong to?",
+"o": [
+"Birds",
+"Reptiles",
+"Mammals",
+"Amphibians"
+]
+}
+},
+{
+"id": "otdb-b31829d483",
+"pt": {
+"q": "Qual é a origem da raça de cães «Chihuahua»?",
+"o": [
+"México",
+"Rússia",
+"Espanha",
+"França"
+]
+},
+"en": {
+"q": "Where did the dog breed \"Chihuahua\" originate?",
+"o": [
+"Mexico",
+"Russia",
+"Spain",
+"France"
+]
+}
+},
+{
+"id": "otdb-50e02d203a",
+"pt": {
+"q": "Que raça de cão está tradicionalmente associada aos bombeiros?",
+"o": [
+"Mastim",
+"Dálmata",
+"Pastor-alemão",
+"Dogue alemão"
+]
+},
+"en": {
+"q": "Which breed of dog is traditionally associated with firefighters?",
+"o": [
+"Mastiff",
+"Dalmatian",
+"German Shepherd",
+"Great Dane"
+]
+}
+},
+{
+"id": "otdb-1ca147c97d",
+"pt": {
+"q": "Qual é o nome científico do ser humano moderno?",
+"o": [
+"Homo neanderthalensis",
+"Homo sapiens",
+"Homo ergaster",
+"Homo erectus"
+]
+},
+"en": {
+"q": "What is the scientific name for modern day humans?",
+"o": [
+"Homo Neanderthalensis",
+"Homo Sapiens",
+"Homo Ergaster",
+"Homo Erectus"
+]
+}
+},
+{
+"id": "otdb-9ba27bcffb",
+"pt": {
+"q": "Qual destas espécies não está extinta?",
+"o": [
+"Dragão-de-komodo",
+"Tigre-da-tasmânia",
+"Leão-marinho-japonês",
+"Gazela-saudita"
+]
+},
+"en": {
+"q": "Which of these species is not extinct?",
+"o": [
+"Komodo dragon",
+"Tasmanian tiger",
+"Japanese sea lion",
+"Saudi gazelle"
+]
+}
+},
+{
+"id": "otdb-62d5ad49e5",
+"pt": {
+"q": "Qual é o nome científico do urso-polar?",
+"o": [
+"Ursus spelaeus",
+"Urso-polar",
+"Ursus maritimus",
+"Ursus arctos"
+]
+},
+"en": {
+"q": "What is the scientific name for the \"Polar Bear\"?",
+"o": [
+"Ursus spelaeus",
+"Polar bear",
+"Ursus maritimus",
+"Ursus arctos"
+]
+}
+},
+{
+"id": "wd-grupo-Q27366",
+"pt": {
+"q": "A que grupo de animais pertence a fuinha?",
+"o": [
+"Anfíbios",
+"Répteis",
+"Aves",
+"Mamíferos"
+]
+},
+"en": {
+"q": "Which group of animals does the beech marten belong to?",
+"o": [
+"Amphibians",
+"Reptiles",
+"Birds",
+"Mammals"
+]
+}
+},
+{
+"id": "otdb-d636f9e2eb",
+"pt": {
+"q": "Qual é o nome comum da encefalopatia espongiforme bovina (BSE)?",
+"o": [
+"Doença das vacas loucas",
+"Febre do leite",
+"Doença de Weil",
+"Febre aftosa"
+]
+},
+"en": {
+"q": "What is the common term for bovine spongiform encephalopathy (BSE)?",
+"o": [
+"Mad Cow disease",
+"Milk fever",
+"Weil's disease",
+"Foot-and-mouth disease"
+]
+}
+},
+{
+"id": "wd-grupo-Q42623",
+"pt": {
+"q": "A que grupo de animais pertence a espécie gato-da-selva?",
+"o": [
+"Anfíbios",
+"Mamíferos",
+"Aves",
+"Répteis"
+]
+},
+"en": {
+"q": "Which group of animals does the jungle cat belong to?",
+"o": [
+"Amphibians",
+"Mammals",
+"Birds",
+"Reptiles"
+]
+}
+},
+{
+"id": "otdb-f2377b41af",
+"pt": {
+"q": "Quantas espécies vivas conhecidas de hienas existem?",
+"o": [
+"2",
+"8",
+"6",
+"4"
+]
+},
+"en": {
+"q": "How many known living species of hyenas are there?",
+"o": [
+"2",
+"8",
+"6",
+"4"
+]
+}
+},
+{
+"id": "wd-grupo-Q25399",
+"pt": {
+"q": "A que grupo de animais pertence a alvéola-branca?",
+"o": [
+"Aves",
+"Répteis",
+"Mamíferos",
+"Anfíbios"
+]
+},
+"en": {
+"q": "Which group of animals does the white wagtail belong to?",
+"o": [
+"Birds",
+"Reptiles",
+"Mammals",
+"Amphibians"
+]
+}
+},
+{
+"id": "otdb-94b407b7e8",
+"pt": {
+"q": "Qual é o nome científico do chimpanzé-comum?",
+"o": [
+"Panthera leo",
+"Gorilla gorilla",
+"Pan paniscus",
+"Pan troglodytes"
+]
+},
+"en": {
+"q": "What is the scientific name of the Common Chimpanzee?",
+"o": [
+"Panthera leo",
+"Gorilla gorilla",
+"Pan paniscus",
+"Pan troglodytes"
+]
+}
+},
+{
+"id": "wd-grupo-Q42627",
+"pt": {
+"q": "A que grupo de animais pertence a espécie gato-leopardo?",
+"o": [
+"Répteis",
+"Anfíbios",
+"Mamíferos",
+"Aves"
+]
+},
+"en": {
+"q": "Which group of animals does the leopard cat belong to?",
+"o": [
+"Reptiles",
+"Amphibians",
+"Mammals",
+"Birds"
+]
+}
+},
+{
+"id": "otdb-79106d036d",
+"pt": {
+"q": "De que família de peixes é feito o prato japonês fugu?",
+"o": [
+"Robalo",
+"Cavala",
+"Peixe-balão",
+"Salmão"
+]
+},
+"en": {
+"q": "The dish fugu is made from what family of fish?",
+"o": [
+"Bass",
+"Mackerel",
+"Pufferfish",
+"Salmon"
+]
+}
+},
+{
+"id": "otdb-520c424f55",
+"pt": {
+"q": "Cobras e lagartos fazem vibrar a língua. Para que serve este comportamento?",
+"o": [
+"Ameaçar outras espécies",
+"Saborear o ar doce",
+"Captar partículas de cheiro",
+"Atrair parceiras"
+]
+},
+"en": {
+"q": "Snakes and lizards flick their tongues. What is the purpose of this behavior?",
+"o": [
+"Threaten other species",
+"Taste the sweet air",
+"Capture scent particles",
+"Attract female mates"
+]
+}
+},
+{
+"id": "otdb-3541d42161",
+"pt": {
+"q": "Os vombates são nativos de que país?",
+"o": [
+"Palau",
+"Austrália",
+"Papua-Nova Guiné",
+"Nova Zelândia"
+]
+},
+"en": {
+"q": "Wombats are native to which Country?",
+"o": [
+"Palau",
+"Australia",
+"Papua New Guinea",
+"New Zealand"
+]
+}
+},
+{
+"id": "wd-grupo-Q54696",
+"pt": {
+"q": "A que grupo de animais pertence a espécie rola-turca?",
+"o": [
+"Aves",
+"Anfíbios",
+"Mamíferos",
+"Répteis"
+]
+},
+"en": {
+"q": "Which group of animals does the Eurasian collared dove belong to?",
+"o": [
+"Birds",
+"Amphibians",
+"Mammals",
+"Reptiles"
+]
+}
+},
+{
+"id": "wd-grupo-Q123102",
+"pt": {
+"q": "A que grupo de animais pertence o tilacino?",
+"o": [
+"Aves",
+"Mamíferos",
+"Répteis",
+"Anfíbios"
+]
+},
+"en": {
+"q": "Which group of animals does the thylacine belong to?",
+"o": [
+"Birds",
+"Mammals",
+"Reptiles",
+"Amphibians"
+]
+}
+},
+{
+"id": "otdb-bbc4fa6708",
+"pt": {
+"q": "Em termos botânicos, qual destes frutos não é uma baga?",
+"o": [
+"Morango",
+"Mirtilo",
+"Banana",
+"Uva Concord"
+]
+},
+"en": {
+"q": "Botanically speaking, which of these fruits is NOT a berry?",
+"o": [
+"Strawberry",
+"Blueberry",
+"Banana",
+"Concord Grape"
+]
+}
+},
+{
+"id": "otdb-cac7baa541",
+"pt": {
+"q": "De que é feito o corno do rinoceronte?",
+"o": [
+"Marfim",
+"Pele",
+"Osso",
+"Queratina"
+]
+},
+"en": {
+"q": "What are rhino horns made of?",
+"o": [
+"Ivory",
+"Skin",
+"Bone",
+"Keratin"
+]
+}
+},
+{
+"id": "otdb-5e8b7663eb",
+"pt": {
+"q": "Qual é o animal terrestre mais rápido?",
+"o": [
+"Chita",
+"Gazela-de-thomson",
+"Leão",
+"Antílope-americano"
+]
+},
+"en": {
+"q": "What is the fastest land animal?",
+"o": [
+"Cheetah",
+"Thomson’s Gazelle",
+"Lion",
+"Pronghorn Antelope"
+]
+}
+},
+{
+"id": "wd-grupo-Q25692",
+"pt": {
+"q": "A que grupo de animais pertence a narceja-comum?",
+"o": [
+"Répteis",
+"Anfíbios",
+"Mamíferos",
+"Aves"
+]
+},
+"en": {
+"q": "Which group of animals does the common snipe belong to?",
+"o": [
+"Reptiles",
+"Amphibians",
+"Mammals",
+"Birds"
+]
+}
+},
+{
+"id": "otdb-ffbf04ebeb",
+"pt": {
+"q": "Qual é o nome científico da chita?",
+"o": [
+"Acinonyx jubatus",
+"Panthera onca",
+"Lynx rufus",
+"Felis catus"
+]
+},
+"en": {
+"q": "What is the scientific name of the cheetah?",
+"o": [
+"Acinonyx jubatus",
+"Panthera onca",
+"Lynx rufus",
+"Felis catus"
+]
+}
+},
+{
+"id": "wd-grupo-Q48186",
+"pt": {
+"q": "A que grupo de animais pertence a espécie cobra-real?",
+"o": [
+"Répteis",
+"Mamíferos",
+"Aves",
+"Anfíbios"
+]
+},
+"en": {
+"q": "Which group of animals does the king cobra belong to?",
+"o": [
+"Reptiles",
+"Mammals",
+"Birds",
+"Amphibians"
+]
+}
+}
+]

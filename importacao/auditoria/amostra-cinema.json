@@ -1,0 +1,1052 @@
+[
+{
+"id": "otdb-2cbf86fbf1",
+"pt": {
+"q": "Qual é o nome de nascimento de Michael Keaton?",
+"o": [
+"Michael Kane",
+"Michael Douglas",
+"Michael Richards",
+"Michael Fox"
+]
+},
+"en": {
+"q": "What is the birth name of Michael Keaton?",
+"o": [
+"Michael Kane",
+"Michael Douglas",
+"Michael Richards",
+"Michael Fox"
+]
+}
+},
+{
+"id": "otdb-bf4ebd25c8",
+"pt": {
+"q": "Qual destes filmes NÃO se passa em Los Angeles?",
+"o": [
+"The Terminator",
+"Blade Runner",
+"Predator 2",
+"RoboCop"
+]
+},
+"en": {
+"q": "Which of these films is NOT set in Los Angeles?",
+"o": [
+"The Terminator",
+"Blade Runner",
+"Predator 2",
+"RoboCop"
+]
+}
+},
+{
+"id": "otdb-2ee4e666a1",
+"pt": {
+"q": "Qual destes atores não foi um dos «The Magnificent Seven»?",
+"o": [
+"Clint Eastwood",
+"Charles Bronson",
+"Robert Vaughn",
+"Steve McQueen"
+]
+},
+"en": {
+"q": "Which of the following was not one of \"The Magnificent Seven\"?",
+"o": [
+"Clint Eastwood",
+"Charles Bronson",
+"Robert Vaughn",
+"Steve McQueen"
+]
+}
+},
+{
+"id": "otdb-bf860e07d8",
+"pt": {
+"q": "Velma Kelly e Roxie Hart são as protagonistas de que filme vencedor de Óscares?",
+"o": [
+"Cabaret",
+"All That Jazz",
+"Dreamgirls",
+"Chicago"
+]
+},
+"en": {
+"q": "Velma Kelly and Roxie Hart are the protagonists of which Oscar winning movie?",
+"o": [
+"Cabaret",
+"All That Jazz",
+"Dreamgirls",
+"Chicago"
+]
+}
+},
+{
+"id": "otdb-b13d0984b7",
+"pt": {
+"q": "Quem dá voz à personagem principal, Blu, no filme de animação «Rio» (2011)?",
+"o": [
+"Jonah Hill",
+"Jesse Eisenberg",
+"Zach Galifianakis",
+"Michael Cera"
+]
+},
+"en": {
+"q": "Who voices the main character Blu in the 2011 animated film \"Rio\"?",
+"o": [
+"Jonah Hill",
+"Jesse Eisenberg",
+"Zach Galifianakis",
+"Michael Cera"
+]
+}
+},
+{
+"id": "otdb-0778d2ca1f",
+"pt": {
+"q": "Em que ano estreou nos cinemas o filme «Titanic», de James Cameron?",
+"o": [
+"1999",
+"1998",
+"1996",
+"1997"
+]
+},
+"en": {
+"q": "What year did the James Cameron film \"Titanic\" come out in theaters?",
+"o": [
+"1999",
+"1998",
+"1996",
+"1997"
+]
+}
+},
+{
+"id": "otdb-8dbebb3c83",
+"pt": {
+"q": "Max Schreck, famoso ator alemão do cinema mudo, interpreta um célebre monstro em que filme de 1922?",
+"o": [
+"Frankenstein",
+"Nosferatu",
+"Häxan",
+"The Headless Horseman"
+]
+},
+"en": {
+"q": "Max Schreck, a famous German silent film actor, plays a famous monster in which 1922 film?",
+"o": [
+"Frankenstein ",
+"Nosferatu",
+"Häxan",
+"The Headless Horseman"
+]
+}
+},
+{
+"id": "otdb-9cdc3903a8",
+"pt": {
+"q": "Como se chama a ilha onde foi construído o parque de «Jurassic Park»?",
+"o": [
+"Isla Nublar",
+"Isla Sorna",
+"Isla Muerta",
+"Isla Pena"
+]
+},
+"en": {
+"q": "What is the name of the island that \"Jurassic Park\" is built on?",
+"o": [
+"Isla Nublar",
+"Isla Sorna",
+"Isla Muerta",
+"Isla Pena"
+]
+}
+},
+{
+"id": "otdb-5f9d8e017c",
+"pt": {
+"q": "Como se chama a personagem de James Dean no filme «Rebel Without a Cause», de 1955?",
+"o": [
+"Jim Kane",
+"Frank Stark",
+"Jim Stark",
+"Ned Stark"
+]
+},
+"en": {
+"q": "What is the name of James Dean's character in the 1955 movie \"Rebel Without a Cause\"?",
+"o": [
+"Jim Kane",
+"Frank Stark",
+"Jim Stark",
+"Ned Stark"
+]
+}
+},
+{
+"id": "otdb-59d1067e64",
+"pt": {
+"q": "Que comédia de culto dos anos 90 tem participações especiais de Meat Loaf, Alice Cooper e Chris Farley?",
+"o": [
+"Bill & Ted's Excellent Adventure",
+"Austin Powers: International Man of Mystery",
+"Wayne's World",
+"Dumb and Dumber"
+]
+},
+"en": {
+"q": "Which 90's comedy cult classic features cameos appearances from Meat Loaf, Alice Cooper and Chris Farley?",
+"o": [
+"Bill & Ted's Excellent Adventure",
+"Austin Powers: International Man of Mystery",
+"Wayne's World",
+"Dumb and Dumber"
+]
+}
+},
+{
+"id": "otdb-4f9e68b027",
+"pt": {
+"q": "Que filme protagonizado por Bruce Willis contém a frase «I see dead people»?",
+"o": [
+"Armageddon",
+"The Fifth Element",
+"The Sixth Sense",
+"Die Hard"
+]
+},
+"en": {
+"q": "What movie starring Bruce Willis contains the line \"I see dead people\"? ",
+"o": [
+"Armageddon",
+"The Fifth Element",
+"The Sixth Sense",
+"Die Hard"
+]
+}
+},
+{
+"id": "otdb-da910a5b30",
+"pt": {
+"q": "Quem interpreta o protagonista Jack Burton no filme «Big Trouble in Little China»?",
+"o": [
+"John Cusack",
+"Harrison Ford",
+"Patrick Swayze",
+"Kurt Russell"
+]
+},
+"en": {
+"q": "Who plays Jack Burton in the movie \"Big Trouble in Little China?\"",
+"o": [
+"John Cusack",
+"Harrison Ford",
+"Patrick Swayze",
+"Kurt Russell"
+]
+}
+},
+{
+"id": "otdb-ce5a38c08c",
+"pt": {
+"q": "No filme «Requiem for a Dream», a que droga fica viciada a personagem de Jared Leto?",
+"o": [
+"Heroína",
+"Oxicodona",
+"Marijuana",
+"Cocaína"
+]
+},
+"en": {
+"q": "In the film \"Requiem for a Dream\", what drug does Jared Leto's character get addicted to?",
+"o": [
+"Heroin",
+"Oxycodone",
+"Marijuana",
+"Cocaine"
+]
+}
+},
+{
+"id": "otdb-0ccb8048eb",
+"pt": {
+"q": "Quem interpretou a protagonista feminina do filme «King Kong», de 1933?",
+"o": [
+"Jean Harlow",
+"Vivien Leigh",
+"Fay Wray",
+"Mae West"
+]
+},
+"en": {
+"q": "Who played the female lead in the 1933 film \"King Kong\"?",
+"o": [
+"Jean Harlow",
+"Vivien Leigh",
+"Fay Wray",
+"Mae West"
+]
+}
+},
+{
+"id": "otdb-dc93e4249c",
+"pt": {
+"q": "A que filme «Avatar», de James Cameron, tirou o lugar de filme de maior bilheteira de sempre?",
+"o": [
+"Jaws",
+"Star Wars",
+"Titanic",
+"Gone with the Wind"
+]
+},
+"en": {
+"q": "What film did James Cameron's Avatar dethrone as the highest-grossing film ever?",
+"o": [
+"Jaws",
+"Star Wars",
+"Titanic",
+"Gone with the Wind"
+]
+}
+},
+{
+"id": "otdb-67b230bf21",
+"pt": {
+"q": "No filme «John Wick», por que motivo John Wick sai da reforma?",
+"o": [
+"Foi assaltado",
+"Precisava de dinheiro",
+"Matam-lhe o cachorro e roubam-lhe o carro",
+"Levou um soco na cara"
+]
+},
+"en": {
+"q": "In the film \"John Wick\" why does John Wick get out of retirement?",
+"o": [
+"He got mugged",
+"He needed money",
+"His puppy is killed and his car was stolen",
+"He was punched in the face"
+]
+}
+},
+{
+"id": "otdb-e1b6cfb4f1",
+"pt": {
+"q": "Qual era o apelido de Dorothy em «The Wizard Of Oz»?",
+"o": [
+"Parker",
+"Gale",
+"Day",
+"Perkins"
+]
+},
+"en": {
+"q": "What was Dorothy's surname in 'The Wizard Of Oz'?",
+"o": [
+"Parker",
+"Gale",
+"Day",
+"Perkins"
+]
+}
+},
+{
+"id": "otdb-c7f54159a5",
+"pt": {
+"q": "Quem realizou o filme «Silence of the Lambs», de 1991?",
+"o": [
+"Jonathan Demme",
+"Frank Darabont",
+"Michael Bay",
+"Stanley Kubrick"
+]
+},
+"en": {
+"q": "Who is the director of the 1991 film \"Silence of the Lambs\"?",
+"o": [
+"Jonathan Demme",
+"Frank Darabont",
+"Michael Bay",
+"Stanley Kubrick"
+]
+}
+},
+{
+"id": "otdb-b58ce7b4d2",
+"pt": {
+"q": "No filme «Back to the Future», que velocidade tem de atingir o DeLorean do Dr. Brown para viajar no tempo?",
+"o": [
+"70 mph",
+"88 mph",
+"100 mph",
+"77 mph"
+]
+},
+"en": {
+"q": "In the movie \"Back to the Future,\" what speed does Doc Brown's DeLorean need to reach in order to travel through time?",
+"o": [
+"70 mph",
+"88 mph",
+"100 mph",
+"77 mph"
+]
+}
+},
+{
+"id": "otdb-796a2e1076",
+"pt": {
+"q": "No filme «Zulu» (1964), que canção canta a companhia do exército britânico antes da batalha final?",
+"o": [
+"Scotland the Brave",
+"Men of Harlech",
+"Colonel Bogey March",
+"The British Grenadiers"
+]
+},
+"en": {
+"q": "In the 1964 film \"Zulu\", what song does the British Army company sing before the final battle?",
+"o": [
+"Scotland the Brave",
+"Men of Harlech",
+"Colonel Bogey March",
+"The British Grenadiers"
+]
+}
+},
+{
+"id": "otdb-170ec4df82",
+"pt": {
+"q": "Quem realizou os filmes «Pulp Fiction», «Reservoir Dogs» e «Django Unchained»?",
+"o": [
+"James Cameron",
+"Steven Spielberg",
+"Quentin Tarantino",
+"Martin Scorsese"
+]
+},
+"en": {
+"q": "Who directed the movies \"Pulp Fiction\", \"Reservoir Dogs\" and \"Django Unchained\"?",
+"o": [
+"James Cameron",
+"Steven Spielberg",
+"Quentin Tarantino",
+"Martin Scorcese"
+]
+}
+},
+{
+"id": "otdb-af34a7c426",
+"pt": {
+"q": "Como se chama a personagem interpretada por Nicolas Cage no filme «National Treasure»?",
+"o": [
+"Benjamin Franklin Gates",
+"John Quincy Beckett",
+"George Washington Swanson",
+"Thomas Jefferson Walker"
+]
+},
+"en": {
+"q": "What is the name of the character Nicolas Cage plays in the movie \"National Treasure?\"",
+"o": [
+"Benjamin Franklin Gates",
+"John Quincy Beckett",
+"George Washington Swanson",
+"Thomas Jefferson Walker"
+]
+}
+},
+{
+"id": "otdb-0c37c8f457",
+"pt": {
+"q": "Qual destes filmes NÃO é considerado parte do Universo Cinematográfico Marvel?",
+"o": [
+"Fantastic Four (2015)",
+"Spider-Man: Homecoming (2017)",
+"The Incredible Hulk (2008)",
+"Captain Marvel (2019)"
+]
+},
+"en": {
+"q": "Which of these movies is NOT considered to be part of the Marvel Cinematic Universe?",
+"o": [
+"Fantastic Four (2015)",
+" Spider-Man: Homecoming (2017)",
+"The Incredible Hulk (2008)",
+"Captain Marvel (2019)"
+]
+}
+},
+{
+"id": "otdb-ddb797f6fe",
+"pt": {
+"q": "Quem realizou «Avengers: Endgame», da Marvel?",
+"o": [
+"Kevin Feige",
+"Os irmãos Russo",
+"Joss Whedon",
+"Zack Snyder"
+]
+},
+"en": {
+"q": "Who directed Marvel's Avengers Endgame?",
+"o": [
+"Kevin Feige",
+"The Russo Brothers",
+"Josh Whedon",
+"Zack Synder"
+]
+}
+},
+{
+"id": "otdb-6590436a26",
+"pt": {
+"q": "Que artista musical teve um papel de destaque no filme «Kingsman: The Golden Circle» (2017)?",
+"o": [
+"Elton John",
+"Justin Bieber",
+"Lady Gaga",
+"Rihanna"
+]
+},
+"en": {
+"q": "Which musical artist had a prominent role in the 2017 film \"Kingsman: The Golden Circle\"?",
+"o": [
+"Elton John",
+"Justin Bieber",
+"Lady Gaga",
+"Rihanna"
+]
+}
+},
+{
+"id": "otdb-a29fd7a44d",
+"pt": {
+"q": "Qual destes atores NÃO aparece no filme «Saving Private Ryan» (1998)?",
+"o": [
+"Tom Hanks",
+"Ralph Fiennes",
+"Matt Damon",
+"Vin Diesel"
+]
+},
+"en": {
+"q": "Which of these actors does NOT appear in the 1998 movie \"Saving Private Ryan\"?",
+"o": [
+"Tom Hanks",
+"Ralph Fiennes",
+"Matt Damon",
+"Vin Diesel"
+]
+}
+},
+{
+"id": "otdb-d215ab2c7b",
+"pt": {
+"q": "Quem compôs a maior parte das canções e letras de «Spirit: Stallion of the Cimarron»?",
+"o": [
+"Bryan Adams",
+"Oasis",
+"Smash Mouth",
+"Air Supply"
+]
+},
+"en": {
+"q": "Who provided a majority of the songs and lyrics for \"Spirit: Stallion of the Cimarron\"?",
+"o": [
+"Bryan Adams",
+"Oasis",
+"Smash Mouth",
+"Air Supply"
+]
+}
+},
+{
+"id": "otdb-76152fe162",
+"pt": {
+"q": "Que atriz interpretou a Dra. Grace Augustine no filme «Avatar», de James Cameron?",
+"o": [
+"Jessica Chastain",
+"Melissa Beckett",
+"Sigourney Weaver",
+"Alyssa Monroe"
+]
+},
+"en": {
+"q": "Which actress portrayed Dr. Grace Augustine in the James Cameron movie \"Avatar\"?",
+"o": [
+"Jessica Chastain",
+"Melissa Beckett",
+"Sigourney Weaver",
+"Alyssa Monroe "
+]
+}
+},
+{
+"id": "otdb-6575249172",
+"pt": {
+"q": "Quem escreveu e realizou o filme «Platoon», de 1986?",
+"o": [
+"Michael Cimino",
+"Oliver Stone",
+"Francis Ford Coppola",
+"Stanley Kubrick"
+]
+},
+"en": {
+"q": "Who wrote and directed the 1986 film 'Platoon'?",
+"o": [
+"Michael Cimino",
+"Oliver Stone",
+"Francis Ford Coppola",
+"Stanley Kubrick"
+]
+}
+},
+{
+"id": "otdb-21d7f04e42",
+"pt": {
+"q": "Que documentarista escreveu e protagonizou o filme «My Scientology Movie», estreado em 2015?",
+"o": [
+"Adam Curtis",
+"Errol Morris",
+"Louis Theroux",
+"Joe Berlinger"
+]
+},
+"en": {
+"q": "Which documentary film maker wrote and starred in the film \"My Scientology Movie\" which first debuted in 2015?",
+"o": [
+"Adam Curtis",
+"Errol Morris",
+"Louis Theroux",
+"Joe Berlinger"
+]
+}
+},
+{
+"id": "otdb-152965adab",
+"pt": {
+"q": "Em «Jurassic World», como se chama o dinossauro que é um híbrido genético?",
+"o": [
+"Mosasaurus",
+"Pteranodon",
+"Tyrannosaurus Rex",
+"Indominus Rex"
+]
+},
+"en": {
+"q": "In \"Jurassic World\", what is the name of the dinosaur that is a genetic hybrid?",
+"o": [
+"Mosasaurus",
+"Pteranodon",
+"Tyrannosaurus Rex ",
+"Indominus Rex"
+]
+}
+},
+{
+"id": "otdb-e84c720f20",
+"pt": {
+"q": "No filme «Cast Away», como se chama o melhor amigo do protagonista na ilha?",
+"o": [
+"Wilson",
+"Jackson",
+"Carson",
+"Willy"
+]
+},
+"en": {
+"q": "In the movie \"Cast Away\" the main protagonist's best friend while on the island is named",
+"o": [
+"Wilson",
+"Jackson",
+"Carson",
+"Willy"
+]
+}
+},
+{
+"id": "otdb-23c72e5bb8",
+"pt": {
+"q": "No filme «The Terminator» (1984), qual é o número do modelo do Terminator interpretado por Arnold Schwarzenegger?",
+"o": [
+"T-800",
+"I-950",
+"T-888",
+"T-1000"
+]
+},
+"en": {
+"q": "In the 1984 movie \"The Terminator\", what model number is the Terminator portrayed by Arnold Schwarzenegger?",
+"o": [
+"T-800",
+"I-950",
+"T-888",
+"T-1000"
+]
+}
+},
+{
+"id": "otdb-74bd12fd7c",
+"pt": {
+"q": "No filme «Shrek», que ator cómico dá voz ao Burro (Donkey)?",
+"o": [
+"Eddie Murphy",
+"Bernie Mac",
+"Richard Pryor",
+"Chris Rock"
+]
+},
+"en": {
+"q": "In \"Shrek\", what comedic actor voices Donkey?",
+"o": [
+"Eddie Murphy",
+"Bernie Mac",
+"Richard Pryor",
+"Chris Rock"
+]
+}
+},
+{
+"id": "otdb-e1fcd457b3",
+"pt": {
+"q": "Qual foi o título do primeiro filme de James Bond, estreado em 1962?",
+"o": [
+"From Russia with Love",
+"Dr. No",
+"Goldfinger",
+"Thunderball"
+]
+},
+"en": {
+"q": "What was the title of the first Bond movie, released in 1962?",
+"o": [
+"From Russia with Love",
+"Dr. No",
+"Goldfinger",
+"Thunderball"
+]
+}
+},
+{
+"id": "otdb-24aa46e6de",
+"pt": {
+"q": "Que antigo ator de «Star Trek» realizou o filme «Three Men and a Baby» (1987)?",
+"o": [
+"James Doohan",
+"William Shatner",
+"George Takei",
+"Leonard Nimoy"
+]
+},
+"en": {
+"q": "Which former Star Trek actor directed Three Men and a Baby (1987)?",
+"o": [
+"James Doohan",
+"William Shatner",
+"George Takei",
+"Leonard Nimoy"
+]
+}
+},
+{
+"id": "otdb-70d41876eb",
+"pt": {
+"q": "Que filme contém a frase «Say hello to my little friend!»?",
+"o": [
+"Heat",
+"Scarface",
+"Goodfellas",
+"Reservoir Dogs"
+]
+},
+"en": {
+"q": "Which movie contains the quote, \"Say hello to my little friend!\"?",
+"o": [
+"Heat",
+"Scarface",
+"Goodfellas",
+"Reservoir Dogs"
+]
+}
+},
+{
+"id": "otdb-2dcfe73d5f",
+"pt": {
+"q": "Qual destes atores NÃO interpretou o Homem-Aranha no cinema?",
+"o": [
+"Andrew Garfield",
+"Michael Cera",
+"Tobey Maguire",
+"Tom Holland"
+]
+},
+"en": {
+"q": "Which of these actors have NOT played Spiderman in the movies?",
+"o": [
+"Andrew Garfield",
+"Michael Cera",
+"Tobey Maguire",
+"Tom Holland"
+]
+}
+},
+{
+"id": "otdb-8e68af14b2",
+"pt": {
+"q": "Que atriz dançou o twist com John Travolta em «Pulp Fiction»?",
+"o": [
+"Kathy Griffin",
+"Pam Grier",
+"Bridget Fonda",
+"Uma Thurman"
+]
+},
+"en": {
+"q": "Which actress danced the twist with John Travolta in 'Pulp Fiction'?",
+"o": [
+"Kathy Griffin",
+"Pam Grier",
+"Bridget Fonda",
+"Uma Thurman"
+]
+}
+},
+{
+"id": "otdb-219aed25bc",
+"pt": {
+"q": "Qual era o segundo nome de Humphrey Bogart?",
+"o": [
+"Bryce",
+"Steven",
+"DeWinter",
+"DeForest"
+]
+},
+"en": {
+"q": "What was Humphrey Bogart's middle name?",
+"o": [
+"Bryce",
+"Steven",
+"DeWinter",
+"DeForest"
+]
+}
+},
+{
+"id": "otdb-87d395e727",
+"pt": {
+"q": "Qual dos seguintes filmes não foi baseado num livro?",
+"o": [
+"Forrest Gump",
+"The Godfather",
+"Jurassic Park",
+"Citizen Kane"
+]
+},
+"en": {
+"q": "Which of the following movies was not based on a book?",
+"o": [
+"Forrest Gump",
+"The Godfather",
+"Jurassic Park",
+"Citizen Kane"
+]
+}
+},
+{
+"id": "otdb-3e5de17158",
+"pt": {
+"q": "Daniel Radcliffe tornou-se uma estrela mundial do cinema graças à sua interpretação em que saga de filmes?",
+"o": [
+"Harry Potter",
+"Ted",
+"Pirates of the Caribbean",
+"Spy Kids"
+]
+},
+"en": {
+"q": "Daniel Radcliffe became a global star in the film industry due to his performance in which film franchise?",
+"o": [
+"Harry Potter",
+"Ted",
+"Pirates of the Caribbean ",
+"Spy Kids"
+]
+}
+},
+{
+"id": "otdb-b82ddad0c8",
+"pt": {
+"q": "Durante as filmagens da perseguição no Cairo em «Raiders of The Lost Ark», de que doença sofria Harrison Ford?",
+"o": [
+"Disenteria",
+"Prisão de ventre",
+"Anemia",
+"Refluxo ácido"
+]
+},
+"en": {
+"q": "For the film \"Raiders of The Lost Ark\", what was Harrison Ford sick with during the filming of the Cairo chase?",
+"o": [
+"Dysentery",
+"Constipation",
+"Anemia",
+"Acid Reflux "
+]
+}
+},
+{
+"id": "otdb-388bc681e0",
+"pt": {
+"q": "Que filme de 2016 mostra o Super-Homem e o Batman a lutar um contra o outro?",
+"o": [
+"Batman v Superman: Black of Knight",
+"Batman v Superman: Superapocalypse",
+"Batman v Superman: Dawn of Justice",
+"Batman v Superman: Knightfall"
+]
+},
+"en": {
+"q": "Which movie released in 2016 features Superman and Batman fighting?",
+"o": [
+"Batman v Superman: Black of Knight",
+"Batman v Superman: Superapocalypse",
+"Batman v Superman: Dawn of Justice",
+"Batman v Superman: Knightfall"
+]
+}
+},
+{
+"id": "otdb-1b0e88dc7e",
+"pt": {
+"q": "No filme «The Wizard of Oz», de 1939, um cavalo mudava de cor. Que material foi usado para obter esse efeito?",
+"o": [
+"Efeito de CGI",
+"Tinta",
+"Corante",
+"Gelatina"
+]
+},
+"en": {
+"q": "The 1939 movie \"The Wizard of Oz\" contained a horse that changed color, what material did they use to achieve this effect?",
+"o": [
+"CGI Effect",
+"Paint",
+"Dye",
+"Gelatin"
+]
+}
+},
+{
+"id": "otdb-7b8f83dcf8",
+"pt": {
+"q": "Qual é o nome do primeiro filme de «Star Wars» por ordem de estreia?",
+"o": [
+"The Force Awakens",
+"The Phantom Menace",
+"Revenge of the Sith",
+"A New Hope"
+]
+},
+"en": {
+"q": "What is the name of the first \"Star Wars\" film by release order?",
+"o": [
+"The Force Awakens",
+"The Phantom Menace",
+"Revenge of the Sith",
+"A New Hope"
+]
+}
+},
+{
+"id": "otdb-915e20ff68",
+"pt": {
+"q": "Qual dos seguintes filmes NÃO foi realizado por Quentin Tarantino?",
+"o": [
+"Pulp Fiction",
+"Jackie Brown",
+"Reservoir Dogs",
+"From Dusk till Dawn"
+]
+},
+"en": {
+"q": "Which of the following films was NOT directed by Quentin Tarantino?",
+"o": [
+"Pulp Fiction",
+"Jackie Brown",
+"Reservoir Dogs",
+"From Dusk till Dawn"
+]
+}
+},
+{
+"id": "otdb-df789333c5",
+"pt": {
+"q": "Como se chamava o protagonista do filme «Commando» (1985)?",
+"o": [
+"Douglas Quaid",
+"Harry Tasker",
+"Ben Richards",
+"John Matrix"
+]
+},
+"en": {
+"q": "What was the name of the protagonist in the movie Commando (1985)?",
+"o": [
+"Douglas Quaid",
+"Harry Tasker",
+"Ben Richards",
+"John Matrix"
+]
+}
+},
+{
+"id": "otdb-cf055b8548",
+"pt": {
+"q": "Qual destes filmes NÃO estreou em 1996?",
+"o": [
+"Gladiator",
+"The Rock",
+"Independence Day",
+"Mission: Impossible"
+]
+},
+"en": {
+"q": "Which of these Movies was NOT released in 1996?",
+"o": [
+"Gladiator",
+"The Rock",
+"Independence Day",
+"Mission: Impossible"
+]
+}
+},
+{
+"id": "otdb-4ced643ebc",
+"pt": {
+"q": "Quem cantou o tema de abertura do filme de James Bond «Goldfinger»?",
+"o": [
+"John Barry",
+"Shirley Bassey",
+"Tom Jones",
+"Sheena Easton"
+]
+},
+"en": {
+"q": "Who performed the opening theme song for the James Bond 007 movie \"Goldfinger\"?",
+"o": [
+"John Barry",
+"Shirley Basey",
+"Tom Jones",
+"Sheena Easton"
+]
+}
+}
+]

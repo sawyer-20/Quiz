@@ -1,0 +1,105 @@
+{"id": "otdb-e0762bd2e6", "acao": "manter"}
+{"id": "otdb-e453d2edfa", "acao": "manter"}
+{"id": "otdb-ef5edcca9d", "acao": "manter"}
+{"id": "otdb-0ad579adeb", "acao": "tirar", "motivo": "ambigua", "nota": "O centro de um fidget spinner tem rolamento e eixo; «Eixos» também é defensável."}
+{"id": "otdb-52bfe5fecd", "acao": "manter"}
+{"id": "otdb-1e0f3c52cd", "acao": "manter"}
+{"id": "otdb-13d4642e7b", "acao": "manter"}
+{"id": "otdb-f39e0d2dbd", "acao": "tirar", "motivo": "ambigua", "nota": "A sustentação é perpendicular ao escoamento, não necessariamente para cima; o impulso também pode empurrar para cima (foguetes, helicópteros)."}
+{"id": "otdb-26a77b1889", "acao": "corrigir", "pt": {"q": "Que elemento químico, o número 11 da tabela periódica, tem o símbolo Na?", "o": ["Carbono", "Azoto", "Sódio", "Chumbo"]}, "en": {"q": "Which chemical element, number 11 on the periodic table, has the symbol Na?", "o": ["Carbon", "Nitrogen", "Sodium", "Lead"]}, "nota": "«tabela periódica»/«periodic table» em minúsculas; «in»→«on»."}
+{"id": "otdb-f83e6aec24", "acao": "corrigir", "pt": {"q": "Quando foi fundado o site Reddit?", "o": ["2005", "2006", "2008", "2004"]}, "en": {"q": "When was the website Reddit founded?", "o": ["2005", "2006", "2008", "2004"]}, "nota": "Nome próprio «Reddit» com maiúscula."}
+{"id": "otdb-aa8199534d", "acao": "manter"}
+{"id": "otdb-c6ec38bb48", "acao": "manter"}
+{"id": "otdb-a1bc8668b8", "acao": "corrigir", "pt": {"q": "A Medalha Fields, um dos prémios mais cobiçados da matemática, é atribuída de quantos em quantos anos?", "o": ["3", "6", "4", "5"]}, "en": {"q": "How many years apart is the Fields Medal, one of the most sought-after awards in mathematics, awarded?", "o": ["3", "6", "4", "5"]}, "nota": "en-US: «sought-after» com hífen e pergunta reescrita."}
+{"id": "otdb-1598156d1e", "acao": "corrigir", "pt": {"q": "Em que dia foi lançado o serviço de alojamento de ficheiros Google Drive?", "o": ["14 de novembro de 2008", "24 de abril de 2012", "12 de janeiro de 2014", "20 de janeiro de 2010"]}, "en": {"q": "On what day was the file hosting service Google Drive launched?", "o": ["November 14, 2008", "April 24, 2012", "January 12, 2014", "January 20, 2010"]}, "nota": "en-US: vírgula a mais, pergunta reordenada; aspas retiradas."}
+{"id": "otdb-a3a5482db8", "acao": "manter"}
+{"id": "otdb-c74d427aed", "acao": "corrigir", "pt": {"q": "Qual destes elementos da tabela periódica é um gás nobre?", "o": ["Potássio", "Iodo", "Cobalto", "Néon"]}, "en": {"q": "Which of these elements on the periodic table is a noble gas?", "o": ["Potassium", "Iodine", "Cobalt", "Neon"]}, "nota": "Maiúsculas indevidas («Tabela Periódica», «Noble Gas»)."}
+{"id": "otdb-6c021e6beb", "acao": "corrigir", "pt": {"q": "Como se chama a ilusão auditiva de uma nota que parece subir indefinidamente?", "o": ["Tom de Shepard", "Efeito McGurk", "Ilusão de glissando", "Efeito Fransen"]}, "en": {"q": "What is the name for the auditory illusion of a note that seems to rise infinitely?", "o": ["Shepard tone", "McGurk effect", "Glissando illusion", "Fransen effect"]}, "nota": "«Glissandro» → «glissando» (ilusão de Deutsch); maiúsculas en-US."}
+{"id": "otdb-c059e701cc", "acao": "manter"}
+{"id": "otdb-07cbf84a88", "acao": "manter"}
+{"id": "otdb-72341f3e2c", "acao": "manter"}
+{"id": "otdb-f40cbad6e6", "acao": "manter"}
+{"id": "otdb-c71cc4f5d8", "acao": "corrigir", "pt": {"q": "Aproximadamente que percentagem da atmosfera da Terra é oxigénio?", "o": ["21%", "78%", "54%", "7%"]}, "en": {"q": "Approximately what percentage of Earth's atmosphere is oxygen?", "o": ["21%", "78%", "54%", "7%"]}, "nota": "«Oxygen» em minúscula."}
+{"id": "otdb-4c307d64ac", "acao": "corrigir", "pt": {"q": "Onde se situa o músculo grande glúteo?", "o": ["Tronco", "Braço", "Nádegas", "Cabeça"]}, "en": {"q": "Where is the gluteus maximus muscle located?", "o": ["Torso", "Arm", "Buttocks", "Head"]}, "nota": "«Butt» (informal) → «Buttocks»; maiúsculas."}
+{"id": "otdb-2af4a38a59", "acao": "corrigir", "pt": {"q": "Que condição genética é causada por um cromossoma Y a mais (XYY)?", "o": ["Síndrome de Klinefelter", "Síndrome de Down", "Síndrome de Jacobs", "Síndrome de Turner"]}, "en": {"q": "What genetic condition is caused by having an extra Y chromosome (XYY)?", "o": ["Klinefelter syndrome", "Down syndrome", "Jacobs syndrome", "Turner syndrome"]}, "nota": "«doença»→«condição» (XYY é muitas vezes assintomática); nomes de síndromes en-US uniformizados."}
+{"id": "otdb-8ca23ed70e", "acao": "manter"}
+{"id": "otdb-b1d8880e71", "acao": "manter"}
+{"id": "otdb-5f8d7f383a", "acao": "manter"}
+{"id": "otdb-a0654a8067", "acao": "corrigir", "pt": {"q": "Qual é a unidade SI de comprimento?", "o": ["Braça", "Ångström", "Metro", "Pé"]}, "en": {"q": "What is the SI unit of length?", "o": ["Fathom", "Ångström", "Meter", "Foot"]}, "nota": "en-US: «Metre»→«Meter», «distance»→«length», «Ångström»."}
+{"id": "otdb-a29850cffd", "acao": "corrigir", "pt": {"q": "Quantos ossos tem o corpo humano adulto?", "o": ["206", "203", "209", "200"]}, "en": {"q": "How many bones are in the adult human body?", "o": ["206", "203", "209", "200"]}, "nota": "Acrescentado «adulto» (o recém-nascido tem mais ossos)."}
+{"id": "otdb-0ca2385d9d", "acao": "manter"}
+{"id": "otdb-69e26ba134", "acao": "manter"}
+{"id": "otdb-8664e501b0", "acao": "corrigir", "pt": {"q": "Miopia é o termo científico para que condição?", "o": ["Visão dupla", "Dificuldade em ver ao perto", "Dificuldade em ver ao longe", "Visão turva"]}, "en": {"q": "Myopia is the scientific term for which condition?", "o": ["Double vision", "Farsightedness", "Nearsightedness", "Clouded vision"]}, "nota": "en-US: «Shortsightedness»→«Nearsightedness»; maiúsculas."}
+{"id": "otdb-dd45a20376", "acao": "manter"}
+{"id": "otdb-aa4ae8f4dd", "acao": "corrigir", "pt": {"q": "Que base azotada emparelha com a guanina?", "o": ["Adenina", "Timina", "Uracilo", "Citosina"]}, "en": {"q": "Which nucleobase pairs with guanine?", "o": ["Adenine", "Thymine", "Uracil", "Cytosine"]}, "nota": "A guanina é uma base, não um nucleótido."}
+{"id": "otdb-939ef9f359", "acao": "manter"}
+{"id": "otdb-0bcd0be877", "acao": "manter"}
+{"id": "otdb-dfdde683ed", "acao": "manter"}
+{"id": "otdb-d0e032b05e", "acao": "corrigir", "pt": {"q": "Qual é o número atómico do elemento estrôncio?", "o": ["11", "38", "73", "47"]}, "en": {"q": "What is the atomic number of the element strontium?", "o": ["11", "38", "73", "47"]}, "nota": "«Strontium» em minúscula."}
+{"id": "otdb-90427d916d", "acao": "corrigir", "pt": {"q": "Qual destas doenças é causada por um agente patogénico bacteriano?", "o": ["Sarampo", "SIDA", "Tinha", "Cólera"]}, "en": {"q": "Which of these diseases is caused by a bacterial pathogen?", "o": ["Measles", "AIDS", "Ringworm", "Cholera"]}, "nota": "pt-PT alinhado com o en-US."}
+{"id": "otdb-bc3f25a25e", "acao": "manter"}
+{"id": "otdb-838f75f8bf", "acao": "corrigir", "pt": {"q": "O que usou Gregor Mendel nos seus estudos de cruzamentos genéticos?", "o": ["Gatos", "Ervilhas", "Papagaios", "Flores"]}, "en": {"q": "What did Gregor Mendel use to study genetic crosses?", "o": ["Cats", "Peas", "Parrots", "Flowers"]}, "nota": "en-US: «crossovers» (termo técnico de outra coisa) → «crosses»."}
+{"id": "otdb-171bcdc346", "acao": "corrigir", "pt": {"q": "Qual é o termo científico para o «paladar»?", "o": ["Somatossensação", "Perceção gustativa", "Perceção auditiva", "Olfação"]}, "en": {"q": "What is the scientific term for 'taste'?", "o": ["Somatosensation", "Gustatory perception", "Auditory perception", "Olfaction"]}, "nota": "Maiúsculas en-US."}
+{"id": "otdb-e98acc028b", "acao": "corrigir", "pt": {"q": "Tetsuya Fujita foi um cientista que desenvolveu a escala de que fenómeno natural?", "o": ["Vulcões", "Sismos", "Furacões", "Tornados"]}, "en": {"q": "Tetsuya Fujita was a scientist who developed a scale for which natural phenomenon?", "o": ["Volcanoes", "Earthquakes", "Hurricanes", "Tornadoes"]}, "nota": "en-US: «that»→«who»; «disaster»→«phenomenon» como no pt-PT."}
+{"id": "otdb-450030ec6a", "acao": "tirar", "motivo": "ambigua", "nota": "«Presença ou ausência de certos organelos» (com membrana) também é a distinção dada em manuais; enunciado en-US não é pergunta."}
+{"id": "otdb-f19c284008", "acao": "tirar", "motivo": "nome_pt", "nota": "«Joelho de empregada doméstica» só aparece em fontes do Brasil; sem certeza da forma usada em Portugal."}
+{"id": "otdb-e1eccee1c2", "acao": "corrigir", "pt": {"q": "O úmero, o rádio e o cúbito unem-se para formar que articulação?", "o": ["Cotovelo", "Tornozelo", "Ombro", "Joelho"]}, "en": {"q": "The humerus, radius and ulna come together to form what joint?", "o": ["Elbow", "Ankle", "Shoulder", "Knee"]}, "nota": "en-US: «paired radius» sem sentido."}
+{"id": "otdb-7a5d9e7d30", "acao": "manter"}
+{"id": "otdb-c6e199afde", "acao": "tirar", "motivo": "trivial", "nota": "Duplicada de otdb-33623c6123 (mitocôndria como «central energética»)."}
+{"id": "otdb-37dae89933", "acao": "manter"}
+{"id": "otdb-8f56ce6216", "acao": "manter"}
+{"id": "otdb-c9074a710b", "acao": "tirar", "motivo": "ambigua", "nota": "Há díodos amplificadores (díodo túnel, IMPATT); «Díodo» defensável por um especialista. Opções en-US em minúsculas inconsistentes."}
+{"id": "otdb-e1589b8090", "acao": "corrigir", "pt": {"q": "Qual é o nome científico do hominídeo extinto conhecido como «Lucy»?", "o": ["Australopithecus africanus", "Australopithecus afarensis", "Australopithecus antaris", "Australopithecus architeuthis"]}, "en": {"q": "What is the scientific name for the extinct hominin known as \"Lucy\"?", "o": ["Australopithecus africanus", "Australopithecus afarensis", "Australopithecus antaris", "Australopithecus architeuthis"]}, "nota": "en-US: epíteto específico em minúscula."}
+{"id": "otdb-a2aa64cab9", "acao": "manter"}
+{"id": "otdb-3cb7fee357", "acao": "corrigir", "pt": {"q": "Qual destes é usado para mostrar que a Terra gira sobre um eixo?", "o": ["Relógio de sol", "Pêndulo de Foucault", "Placas tectónicas", "Estrela Polar"]}, "en": {"q": "Which of these is used to show that Earth spins on an axis?", "o": ["Sundial", "Foucault pendulum", "Tectonic plates", "Polaris"]}, "nota": "Maiúsculas en-US."}
+{"id": "otdb-c5dea821b0", "acao": "corrigir", "pt": {"q": "Qual dos seguintes homens não tem um elemento químico com o seu nome?", "o": ["Isaac Newton", "Albert Einstein", "Niels Bohr", "Enrico Fermi"]}, "en": {"q": "Which of the following men does not have a chemical element named after him?", "o": ["Isaac Newton", "Albert Einstein", "Niels Bohr", "Enrico Fermi"]}, "nota": "«Sir» só na opção certa era pista."}
+{"id": "otdb-3da989b261", "acao": "corrigir", "pt": {"q": "Qual é o nome químico de H2O?", "o": ["Cloreto de amónio", "Carbonato de sódio anidro", "Dióxido de manganês", "Monóxido de di-hidrogénio"]}, "en": {"q": "What is the chemical name of H2O?", "o": ["Ammonium chloride", "Anhydrous sodium carbonate", "Manganese dioxide", "Dihydrogen monoxide"]}, "nota": "en-US: «Which is»→«What is»; maiúsculas."}
+{"id": "otdb-6fb8d34516", "acao": "corrigir", "pt": {"q": "Qual é o símbolo químico do hélio?", "o": ["He", "Hs", "Hg", "H"]}, "en": {"q": "What is the chemical symbol for helium?", "o": ["He", "Hs", "Hg", "H"]}, "nota": "«Helium» em minúscula."}
+{"id": "otdb-231b762ac5", "acao": "manter"}
+{"id": "otdb-d56ab939ff", "acao": "manter"}
+{"id": "otdb-f0e54a7327", "acao": "manter"}
+{"id": "otdb-6c03cb4e98", "acao": "corrigir", "pt": {"q": "Qual destes não é um tipo de neurónio?", "o": ["Neurónio sensorial", "Neurónio percetivo", "Neurónio motor", "Interneurónio"]}, "en": {"q": "Which of these is not a type of neuron?", "o": ["Sensory neuron", "Perceptual neuron", "Motor neuron", "Interneuron"]}, "nota": "Maiúsculas en-US; «of these»."}
+{"id": "otdb-ee692ad2dc", "acao": "corrigir", "pt": {"q": "Qual é a unidade de base do SI para a massa?", "o": ["Libra", "Tonelada", "Quilograma", "Grama"]}, "en": {"q": "What is the SI base unit of mass?", "o": ["Pound", "Tonne", "Kilogram", "Gram"]}, "nota": "O grama também é unidade do SI; «de base» desfaz a ambiguidade."}
+{"id": "otdb-47c63483b5", "acao": "manter"}
+{"id": "otdb-2297485b45", "acao": "manter"}
+{"id": "otdb-e3be332e70", "acao": "corrigir", "pt": {"q": "Qual destes elementos metálicos NÃO é líquido à temperatura ambiente ou perto dela?", "o": ["Césio", "Gálio", "Berílio", "Mercúrio"]}, "en": {"q": "Which of these metallic elements is NOT liquid at or near room temperature?", "o": ["Caesium", "Gallium", "Beryllium", "Mercury"]}, "nota": "Enunciado passa a pergunta nos dois idiomas."}
+{"id": "otdb-ab4f4616ea", "acao": "manter"}
+{"id": "otdb-342c2520df", "acao": "manter"}
+{"id": "otdb-5c81744c02", "acao": "corrigir", "pt": {"q": "Em que parte do corpo humano se localiza a glândula pineal?", "o": ["Garganta", "Virilha", "Peito", "Cérebro"]}, "en": {"q": "Where in the human body is the pineal gland located?", "o": ["Throat", "Groin", "Chest", "Brain"]}, "nota": "Maiúsculas en-US."}
+{"id": "otdb-89fba1d96a", "acao": "corrigir", "pt": {"q": "Qual é a fórmula molecular do ozono?", "o": ["SO4", "C6H2O6", "O3", "N2O"]}, "en": {"q": "What is the molecular formula of ozone?", "o": ["SO4", "C6H2O6", "O3", "N2O"]}, "nota": "«Ozone» em minúscula."}
+{"id": "otdb-2546fbd20c", "acao": "manter"}
+{"id": "otdb-1e6a8f06a1", "acao": "manter"}
+{"id": "otdb-621e368833", "acao": "corrigir", "pt": {"q": "Que termo da psicologia se refere ao desconforto de manter crenças contrastantes?", "o": ["Visão cega", "Cérebro dividido", "Dissonância cognitiva", "Síndrome do flip-flop"]}, "en": {"q": "Which psychological term refers to the stress of holding contrasting beliefs?", "o": ["Blindsight", "Split-brain", "Cognitive dissonance", "Flip-flop syndrome"]}, "nota": "en-US: «Blindsight» numa palavra; maiúsculas."}
+{"id": "otdb-2777898065", "acao": "corrigir", "pt": {"q": "Que princípio da física relaciona o fluxo elétrico total que sai de uma superfície fechada com a carga no seu interior?", "o": ["Lei de Faraday", "Lei de Ampère", "Lei de Gauss", "Lei de Biot-Savart"]}, "en": {"q": "What physics principle relates the net electric flux out of a closed surface to the charge enclosed by that surface?", "o": ["Faraday's law", "Ampère's law", "Gauss's law", "Biot–Savart law"]}, "nota": "en-US: «Ampère» com acento; maiúsculas."}
+{"id": "otdb-e2d0d82020", "acao": "corrigir", "pt": {"q": "Qual é, aproximadamente, a idade da Terra?", "o": ["3,5 mil milhões de anos", "5,5 mil milhões de anos", "2,5 mil milhões de anos", "4,5 mil milhões de anos"]}, "en": {"q": "About how old is Earth?", "o": ["3.5 billion years", "5.5 billion years", "2.5 billion years", "4.5 billion years"]}, "nota": "Maiúsculas en-US."}
+{"id": "otdb-90d4d42d4f", "acao": "corrigir", "pt": {"q": "A que elemento se refere «Au» na tabela periódica?", "o": ["Prata", "Níquel", "Oxigénio", "Ouro"]}, "en": {"q": "Which element does Au refer to on the periodic table?", "o": ["Silver", "Nickel", "Oxygen", "Gold"]}, "nota": "en-US reescrito como pergunta; minúsculas."}
+{"id": "otdb-b51e510933", "acao": "corrigir", "pt": {"q": "Quantos tipos de quarks existem no modelo-padrão da física?", "o": ["4", "2", "3", "6"]}, "en": {"q": "How many types of quarks are there in the Standard Model of physics?", "o": ["4", "2", "3", "6"]}, "nota": "«Standard Model» com maiúsculas (nome próprio)."}
+{"id": "otdb-4134b68f7b", "acao": "manter"}
+{"id": "otdb-fef595059a", "acao": "manter"}
+{"id": "otdb-f0d5f09046", "acao": "corrigir", "pt": {"q": "Como se chama a camada mais baixa da atmosfera da Terra?", "o": ["Troposfera", "Estratosfera", "Mesosfera", "Termosfera"]}, "en": {"q": "What is the lowest layer of Earth's atmosphere called?", "o": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"]}, "nota": "en-US: «named»→«called»."}
+{"id": "otdb-063878351d", "acao": "manter"}
+{"id": "otdb-c552adecfb", "acao": "corrigir", "pt": {"q": "Qual é o nome anatómico da rótula?", "o": ["Fémur", "Patela", "Omoplata", "Forame magno"]}, "en": {"q": "What is the anatomical name of the kneecap?", "o": ["Femur", "Patella", "Scapula", "Foramen Magnum"]}, "nota": "«osso da rótula» redundante; «knee cap»→«kneecap»."}
+{"id": "otdb-1182778c27", "acao": "corrigir", "pt": {"q": "Na escala de Scoville, qual é a substância química mais picante?", "o": ["Tinyatoxina", "Resiniferatoxina", "Capsaicina", "Di-hidrocapsaicina"]}, "en": {"q": "On the Scoville scale, what is the hottest chemical?", "o": ["Tinyatoxin", "Resiniferatoxin", "Capsaicin", "Dihydrocapsaicin"]}, "nota": "en-US: «In»→«On»."}
+{"id": "otdb-a160dea133", "acao": "manter"}
+{"id": "otdb-8a3c2ca145", "acao": "manter"}
+{"id": "otdb-2ee9cc9629", "acao": "manter"}
+{"id": "otdb-c3afb73f46", "acao": "manter"}
+{"id": "otdb-1d10aac92f", "acao": "corrigir", "pt": {"q": "Que valor de temperatura é igual em graus Celsius e em graus Fahrenheit?", "o": ["-42", "-39", "32", "-40"]}, "en": {"q": "Which temperature value is the same in degrees Celsius and degrees Fahrenheit?", "o": ["-42", "-39", "32", "-40"]}, "nota": "en-US incompleto."}
+{"id": "otdb-68a5a45977", "acao": "manter"}
+{"id": "otdb-2c0e7ba399", "acao": "manter"}
+{"id": "otdb-80418e48d4", "acao": "corrigir", "pt": {"q": "Qual é o símbolo químico do mercúrio?", "o": ["Me", "Hg", "Mc", "Hy"]}, "en": {"q": "What is the chemical symbol for mercury?", "o": ["Me", "Hg", "Mc", "Hy"]}, "nota": "«elemental»→«chemical», como no pt-PT."}
+{"id": "otdb-95ddae64e4", "acao": "manter"}
+{"id": "otdb-969de00227", "acao": "manter"}
+{"id": "otdb-b76ca37517", "acao": "manter"}
+{"id": "otdb-2879f20919", "acao": "corrigir", "pt": {"q": "Quem formulou a lei da gravitação universal?", "o": ["Charles Darwin", "Albert Einstein", "Isaac Newton", "Galileu Galilei"]}, "en": {"q": "Who formulated the law of universal gravitation?", "o": ["Charles Darwin", "Albert Einstein", "Isaac Newton", "Galileo Galilei"]}, "nota": "«lei da gravidade» admitia Galileu (queda dos graves); «Sir» só na certa era pista."}
+{"id": "otdb-19c3d7dd2f", "acao": "manter"}
+{"id": "otdb-296251576f", "acao": "manter"}
+{"id": "otdb-3eb4e0fa6f", "acao": "manter"}
+{"id": "otdb-9fb1605af3", "acao": "manter"}
+{"id": "otdb-58215458e6", "acao": "manter"}
+{"id": "otdb-33623c6123", "acao": "manter"}
+{"id": "otdb-1eba43c67e", "acao": "corrigir", "pt": {"q": "Qual é, aproximadamente, a massa atómica do carbono?", "o": ["14", "12", "16", "10"]}, "en": {"q": "What is the approximate atomic mass of carbon?", "o": ["14", "12", "16", "10"]}, "nota": "Valor padrão é 12,011; «Carbon» em minúscula."}
+{"id": "otdb-1342189479", "acao": "tirar", "motivo": "ambigua", "nota": "Paragens de descompressão dependem do perfil; a de segurança é 3–6 m; 5 m ≠ 15 pés; unidades americanas primeiro."}
+{"id": "otdb-1fc12e0e2a", "acao": "manter"}
+{"id": "otdb-2c9f31e289", "acao": "corrigir", "pt": {"q": "A que cientista se atribui a experiência da folha de ouro, que mostrou que os átomos são sobretudo espaço vazio?", "o": ["Arquimedes", "Ernest Rutherford", "Niels Henrik David Bohr", "Joseph John Thomson"]}, "en": {"q": "Which scientist is credited with the gold foil experiment, which showed that atoms are mostly empty space?", "o": ["Archimedes", "Ernest Rutherford", "Niels Henrik David Bohr", "Joseph John Thomson"]}, "nota": "Foi realizada por Geiger e Marsden sob a direção de Rutherford: «realizou»→«se atribui»."}
+{"id": "otdb-b688919dc2", "acao": "manter"}

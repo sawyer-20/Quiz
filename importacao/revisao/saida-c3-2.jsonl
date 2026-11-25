@@ -1,0 +1,106 @@
+{"id": "otdb-83bde02035", "acao": "corrigir", "pt": {"q": "Na tabela periódica dos elementos, qual é o símbolo do estanho?", "o": ["Sn", "Na", "Ti", "Ni"]}, "en": {"q": "On the periodic table of elements, what is the symbol for tin?", "o": ["Sn", "Na", "Ti", "Ni"]}, "nota": "en: «Tin» em minúscula."}
+{"id": "otdb-8985c47abb", "acao": "tirar", "motivo": "ambigua", "nota": "«Estase» defensável como quiescência (G0), que muitos textos põem fora do ciclo/interfase; «fase do desenvolvimento» é termo errado."}
+{"id": "otdb-f878a261c3", "acao": "manter"}
+{"id": "otdb-7f9c2e11a4", "acao": "manter"}
+{"id": "otdb-c70bf9a4b6", "acao": "corrigir", "pt": {"q": "O tempo Unix define-se como o número de segundos decorridos desde que momento?", "o": ["Meia-noite de 4 de julho de 1980", "Meia-noite de 4 de julho de 1976", "Meia-noite de 1 de janeiro de 1970", "Meia-noite do dia de anos do criador do Unix"]}, "en": {"q": "Unix time is defined as the number of seconds that have elapsed since when?", "o": ["Midnight, July 4, 1980", "Midnight, July 4, 1976", "Midnight, January 1, 1970", "Midnight on the Unix creator's birthday"]}, "nota": "Maiúsculas («tempo Unix», «Unix time»); en: genitivo da 4.ª opção."}
+{"id": "otdb-5ba06cb8de", "acao": "manter"}
+{"id": "otdb-718d5d56f2", "acao": "manter"}
+{"id": "otdb-6cdd19b119", "acao": "manter"}
+{"id": "otdb-b257e179b0", "acao": "manter"}
+{"id": "otdb-cd50869c7e", "acao": "corrigir", "pt": {"q": "As impressoras laser e as de jato de tinta são ambas exemplos de que tipo de impressora?", "o": ["Impressora sem impacto", "Impressora matricial", "Impressora de impacto", "Impressora de margarida"]}, "en": {"q": "Laser and inkjet printers are both examples of what type of printer?", "o": ["Non-impact printer", "Dot matrix printer", "Impact printer", "Daisy wheel printer"]}, "nota": "en: «Laserjet» (marca HP) → «Laser»; «Daisy wheel»."}
+{"id": "otdb-4001ce96b7", "acao": "corrigir", "pt": {"q": "Whistler foi o nome de código de qual destes sistemas operativos da Microsoft?", "o": ["Windows 2000", "Windows 95", "Windows 7", "Windows XP"]}, "en": {"q": "Whistler was the codename of which Microsoft operating system?", "o": ["Windows 2000", "Windows 95", "Windows 7", "Windows XP"]}, "nota": "en: enunciado passa a pergunta."}
+{"id": "otdb-8ad23702b4", "acao": "corrigir", "pt": {"q": "Como designa o Sistema Internacional de Grandezas 1024 bytes?", "o": ["Kilobyte", "Kelobyte", "Kibibyte", "Kylobyte"]}, "en": {"q": "What does the International System of Quantities call 1024 bytes?", "o": ["Kilobyte", "Kelobyte", "Kibibyte", "Kylobyte"]}, "nota": "en: gramática do enunciado."}
+{"id": "otdb-9205712cf8", "acao": "tirar", "motivo": "ambigua", "nota": "O GitHub usa Ruby (Rails) mas também muito JavaScript e Go; um especialista defende JavaScript."}
+{"id": "otdb-16a94911cf", "acao": "manter"}
+{"id": "otdb-554c02e7ba", "acao": "manter"}
+{"id": "otdb-699efe7b68", "acao": "manter"}
+{"id": "otdb-9200d67c14", "acao": "manter"}
+{"id": "otdb-f74adfedb8", "acao": "manter"}
+{"id": "otdb-e14bf91ff6", "acao": "manter"}
+{"id": "otdb-cef470f2f4", "acao": "manter"}
+{"id": "otdb-abcec412d4", "acao": "manter"}
+{"id": "otdb-ff4cd2c545", "acao": "corrigir", "pt": {"q": "Em HTML, que etiqueta não padrão servia para fazer elementos deslizarem pelo ecrã?", "o": ["<move></move>", "<scroll></scroll>", "<marquee></marquee>", "<slide></slide>"]}, "en": {"q": "In HTML, which non-standard tag was used to make elements scroll across the viewport?", "o": ["<move></move>", "<scroll></scroll>", "<marquee></marquee>", "<slide></slide>"]}, "nota": "en: «used to be used»."}
+{"id": "otdb-ba1bcb6f15", "acao": "manter"}
+{"id": "otdb-1e2e5e7b65", "acao": "corrigir", "pt": {"q": "No setor do alojamento de servidores, o que significa IaaS?", "o": ["Internet e um Servidor", "Infraestrutura como Serviço", "Internet como Serviço", "Infraestrutura como Servidor"]}, "en": {"q": "In the server hosting industry, what does IaaS stand for?", "o": ["Internet and a Server", "Infrastructure as a Service", "Internet as a Service", "Infrastructure as a Server"]}, "nota": "en: enunciado passa a pergunta."}
+{"id": "otdb-ad7a630a4f", "acao": "corrigir", "pt": {"q": "Que linguagem de programação foi lançada pela Sun Microsystems em 1995?", "o": ["Solaris OS", "Java", "C++", "Python"]}, "en": {"q": "Which programming language was released by Sun Microsystems in 1995?", "o": ["Solaris OS", "Java", "C++", "Python"]}, "nota": "Java foi desenvolvida desde 1991 e lançada em 1995: «desenvolvida» → «lançada»."}
+{"id": "otdb-51c582b03c", "acao": "tirar", "motivo": "trivial", "nota": "Duplicada de otdb-16a94911cf (bits num byte)."}
+{"id": "otdb-b3d34909c7", "acao": "manter"}
+{"id": "otdb-3bb7c326ab", "acao": "manter"}
+{"id": "otdb-fa9e6ea4de", "acao": "manter"}
+{"id": "otdb-97fd33ec2c", "acao": "manter"}
+{"id": "otdb-144fd67533", "acao": "manter"}
+{"id": "otdb-dfb7e504ac", "acao": "corrigir", "pt": {"q": "Quantos quilobytes há num gigabyte (em decimal)?", "o": ["1000", "1 000 000", "1 048 576", "1024"]}, "en": {"q": "How many kilobytes are in one gigabyte (in decimal)?", "o": ["1,000", "1,000,000", "1,048,576", "1,024"]}, "nota": "en: falta «are»; separadores de milhares."}
+{"id": "otdb-941ce2af19", "acao": "corrigir", "pt": {"q": "Quantos bytes há num único kibibyte?", "o": ["1024", "1000", "1240", "2400"]}, "en": {"q": "How many bytes are in a single kibibyte?", "o": ["1024", "1000", "1240", "2400"]}, "nota": "en: «Kibibyte» em minúscula."}
+{"id": "otdb-fe4a50c8bd", "acao": "manter"}
+{"id": "otdb-1f76acf8c9", "acao": "tirar", "motivo": "ambigua", "nota": "Shellshock foi amplamente chamado «Bash bug»/«Bashdoor»: «Bashbug» é defensável."}
+{"id": "otdb-06a2a85548", "acao": "manter"}
+{"id": "otdb-b22c6747b3", "acao": "manter"}
+{"id": "otdb-2acd9dec82", "acao": "manter"}
+{"id": "otdb-0f52947458", "acao": "manter"}
+{"id": "otdb-f3bdfd30f3", "acao": "tirar", "motivo": "ambigua", "nota": "O nome «Mac OS» só surge em 1996-97 e o Windows 1.0 (1985) era um ambiente gráfico sobre MS-DOS: ordem discutível."}
+{"id": "otdb-0f9d9640dd", "acao": "corrigir", "pt": {"q": "Qual destas pessoas NÃO foi cofundadora da Apple Inc.?", "o": ["Steve Jobs", "Jonathan Ive", "Steve Wozniak", "Ronald Wayne"]}, "en": {"q": "Which of these people was NOT a co-founder of Apple Inc.?", "o": ["Steve Jobs", "Jonathan Ive", "Steve Wozniak", "Ronald Wayne"]}, "nota": "en: «Inc.»; «co-founder» como no pt."}
+{"id": "otdb-c7669f4787", "acao": "corrigir", "pt": {"q": "Que palavra de cinco letras é o lema da empresa de computadores IBM?", "o": ["Click", "Think", "Pixel", "Logic"]}, "en": {"q": "What five-letter word is the motto of the computer company IBM?", "o": ["Click", "Think", "Pixel", "Logic"]}, "nota": "en: hífen e maiúscula."}
+{"id": "otdb-41454b0af0", "acao": "corrigir", "pt": {"q": "Que nome se dá à camada 4 do modelo OSI (Open Systems Interconnection)?", "o": ["Sessão", "Ligação de dados", "Transporte", "Rede"]}, "en": {"q": "What is the name given to layer 4 of the Open Systems Interconnection (OSI) model?", "o": ["Session", "Data link", "Transport", "Network"]}, "nota": "Sigla errada «(ISO)» → «(OSI)»."}
+{"id": "otdb-a75608fb3e", "acao": "corrigir", "pt": {"q": "Que empresa foi fundada a 1 de abril de 1976 por Steve Jobs, Steve Wozniak e Ronald Wayne?", "o": ["Commodore", "Atari", "Microsoft", "Apple"]}, "en": {"q": "Which company was established on April 1, 1976, by Steve Jobs, Steve Wozniak and Ronald Wayne?", "o": ["Commodore", "Atari", "Microsoft", "Apple"]}, "nota": "en: formato da data."}
+{"id": "otdb-6872dc3b29", "acao": "corrigir", "pt": {"q": "Como se chama mais comummente o sistema de numeração de base 16?", "o": ["Hexadecimal", "Binário", "Duodecimal", "Octal"]}, "en": {"q": "What is the numbering system with a radix of 16 more commonly called?", "o": ["Hexadecimal", "Binary", "Duodecimal", "Octal"]}, "nota": "Enunciado passa a pergunta."}
+{"id": "otdb-bb1af5660a", "acao": "manter"}
+{"id": "otdb-079186f461", "acao": "tirar", "motivo": "ambigua", "nota": "Há caches em DRAM/eDRAM (L4, caches de disco): DRAM também defensável."}
+{"id": "otdb-b433381af9", "acao": "manter"}
+{"id": "otdb-be89b986d3", "acao": "manter"}
+{"id": "otdb-e0f46190a1", "acao": "manter"}
+{"id": "otdb-7ccfc7be97", "acao": "corrigir", "pt": {"q": "Qual destes não é um nome de código oficial de uma versão do Ubuntu?", "o": ["Wily Werewolf", "Mystic Mansion", "Trusty Tahr", "Utopic Unicorn"]}, "en": {"q": "Which one of these is not an official development name for an Ubuntu release?", "o": ["Wily Werewolf", "Mystic Mansion", "Trusty Tahr", "Utopic Unicorn"]}, "nota": "pt: «nome de desenvolvimento» → «nome de código»."}
+{"id": "otdb-c5c1748693", "acao": "manter"}
+{"id": "otdb-c56f902f5e", "acao": "tirar", "motivo": "facto", "nota": "Enunciado não é pergunta e «binário» não é uma linguagem de programação (é código-máquina)."}
+{"id": "otdb-a67a7a076a", "acao": "manter"}
+{"id": "otdb-87b2f96378", "acao": "manter"}
+{"id": "otdb-0454c790d5", "acao": "tirar", "motivo": "ambigua", "nota": "Existe float_sort (Boost.Sort, spreadsort): «Float Sort» defensável como algoritmo."}
+{"id": "otdb-69f60dd638", "acao": "manter"}
+{"id": "otdb-e9b895682e", "acao": "manter"}
+{"id": "otdb-0cfbd0f3e7", "acao": "manter"}
+{"id": "otdb-98d675c295", "acao": "manter"}
+{"id": "otdb-3f5d037301", "acao": "manter"}
+{"id": "otdb-d6687c3df2", "acao": "manter"}
+{"id": "otdb-a752136e8a", "acao": "corrigir", "pt": {"q": "Em design web, o que significa CSS?", "o": ["Folhas de Estilo em Cascata", "Folhas de Estilo de Computador", "Folhas de Estilo Corretivas", "Counter-Strike: Source"]}, "en": {"q": "In web design, what does CSS stand for?", "o": ["Cascading Style Sheets", "Computer Style Sheets", "Corrective Style Sheets", "Counter-Strike: Source"]}, "nota": "«Counter-Strike» com hífen; en no plural."}
+{"id": "otdb-085e707c89", "acao": "manter"}
+{"id": "otdb-875122a444", "acao": "manter"}
+{"id": "otdb-230be34d0e", "acao": "manter"}
+{"id": "otdb-cd3aefb16f", "acao": "manter"}
+{"id": "otdb-b569bb7911", "acao": "manter"}
+{"id": "otdb-df58017d88", "acao": "manter"}
+{"id": "otdb-a4a03c7bd1", "acao": "manter"}
+{"id": "otdb-e909241eea", "acao": "manter"}
+{"id": "otdb-7e1ff76738", "acao": "tirar", "motivo": "ambigua", "nota": "O dígono (2 lados) existe em geometria esférica e como polígono degenerado: 2 defensável."}
+{"id": "otdb-03bec6a6bf", "acao": "manter"}
+{"id": "otdb-7e9dddb82d", "acao": "manter"}
+{"id": "otdb-0f1af15c3b", "acao": "manter"}
+{"id": "otdb-74d02362a6", "acao": "corrigir", "pt": {"q": "A constante matemática conhecida como «Número de Ouro» é mais comummente representada por que letra grega?", "o": ["ψ (psi)", "τ (tau)", "φ (fi)", "π (pi)"]}, "en": {"q": "A mathematical constant, known as \"The Golden Ratio\", is most commonly represented by which Greek letter?", "o": ["ψ (psi)", "τ (tau)", "φ (phi)", "π (pi)"]}, "nota": "Letras todas em minúscula (a maiúscula Τ confundia-se com T e só π era minúscula)."}
+{"id": "otdb-bf81eb7d0e", "acao": "manter"}
+{"id": "otdb-d36db780a8", "acao": "corrigir", "pt": {"q": "Em algarismos romanos, a que número equivale XL?", "o": ["15", "90", "40", "60"]}, "en": {"q": "In Roman numerals, what does XL equal?", "o": ["15", "90", "40", "60"]}, "nota": "en: maiúscula e verbo."}
+{"id": "otdb-649189fe7c", "acao": "tirar", "motivo": "ambigua", "nota": "Um polinómio é também uma função racional: «Racional» defensável."}
+{"id": "otdb-271d36f17a", "acao": "corrigir", "pt": {"q": "Como se chama um polígono de nove lados?", "o": ["Hexágono", "Octógono", "Heptágono", "Nonágono"]}, "en": {"q": "What is the name of a nine-sided polygon?", "o": ["Hexagon", "Octagon", "Heptagon", "Nonagon"]}, "nota": "en: hífen."}
+{"id": "otdb-09ff77bc1b", "acao": "manter"}
+{"id": "otdb-dd900182f3", "acao": "corrigir", "pt": {"q": "Qual destes dados NÃO tem a forma de um sólido platónico?", "o": ["Dado de 12 faces", "Dado de 10 faces", "Dado de 8 faces", "Dado de 20 faces"]}, "en": {"q": "Which of these dice is NOT shaped like a Platonic solid?", "o": ["12-sided die", "10-sided die", "8-sided die", "20-sided die"]}, "nota": "Um dado não é um sólido platónico, tem a forma de um; «Platonic» com maiúscula."}
+{"id": "otdb-845ef277ea", "acao": "manter"}
+{"id": "otdb-ef0ab57ffd", "acao": "manter"}
+{"id": "otdb-98ff6a81da", "acao": "manter"}
+{"id": "otdb-7d6a3b1d17", "acao": "corrigir", "pt": {"q": "Segundo a lenda, que matemático grego correu nu por Siracusa a gritar «Eureka» depois de descobrir o princípio do deslocamento?", "o": ["Eratóstenes", "Arquimedes", "Euclides", "Homero"]}, "en": {"q": "According to legend, which Greek mathematician ran naked through the streets of Syracuse shouting \"Eureka\" after discovering the principle of displacement?", "o": ["Eratosthenes", "Archimedes", "Euclid", "Homer"]}, "nota": "O episódio é lendário (Vitrúvio): passa a «segundo a lenda»."}
+{"id": "otdb-69eb443e61", "acao": "manter"}
+{"id": "otdb-e281dcb1b2", "acao": "manter"}
+{"id": "otdb-33f644e59f", "acao": "manter"}
+{"id": "otdb-0edd10b919", "acao": "manter"}
+{"id": "otdb-d02d76632f", "acao": "manter"}
+{"id": "otdb-2f52ceb2d0", "acao": "manter"}
+{"id": "otdb-9d82ecce71", "acao": "manter"}
+{"id": "otdb-dbeae7d7fb", "acao": "manter"}
+{"id": "otdb-98c40cf387", "acao": "manter"}
+{"id": "otdb-5d5a90b9b6", "acao": "manter"}
+{"id": "otdb-b8e593b8bd", "acao": "corrigir", "pt": {"q": "Qual dos seguintes instrumentos é usado para medir a tensão arterial?", "o": ["Hemoeritrómetro", "Esfigmomanómetro", "Régua", "Barómetro"]}, "en": {"q": "Which of the following is used to measure blood pressure?", "o": ["Hemoerythrometer", "Sphygmomanometer", "Ruler", "Barometer"]}, "nota": "en-US: «Haemo-» → «Hemo-»."}
+{"id": "otdb-929131bb6e", "acao": "manter"}
+{"id": "otdb-1859d73a24", "acao": "manter"}
+{"id": "otdb-a940e4653f", "acao": "manter"}
+{"id": "otdb-0474e998ee", "acao": "manter"}
+{"id": "otdb-2d8df77a16", "acao": "manter"}
+{"id": "otdb-f73b4ef9cb", "acao": "manter"}
+{"id": "otdb-2a5faf6ad2", "acao": "manter"}
+{"id": "otdb-9900db0fb4", "acao": "manter"}
+{"id": "otdb-63869f1dd4", "acao": "manter"}
