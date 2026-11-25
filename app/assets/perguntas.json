@@ -701,8 +701,8 @@
   "id": "Q-2026-000043",
   "topic": "General Knowledge",
   "difficulty": 3,
-  "daily": false,
-  "pendente": true,
+  "daily": true,
+  "pendente": false,
   "correct": 0,
   "sources": [
    "https://ler.letras.up.pt/uploads/ficheiros/14139.pdf",
